@@ -10,6 +10,14 @@ avatar_url: /static/img/avatar.jpg
 enableTags: true
 tagarray: []
 
+collections:
+  years:
+    permalink: /:collection/:path/
+    output: true
+  emails:
+    permalink: /years/:path/
+    output: true
+
 social:
     - icon: fa-twitter
       link: "https://twitter.com/_cryptoanarchy"
@@ -30,7 +38,7 @@ similar_resources:
     - text: "Activism.net: Cypherpunks"
       url: "https://www.activism.net/cypherpunk/"
 
-url: "https://cryptoanarchy.wiki"
+url: "https://mailing-list-archive.cryptoanarchy.wiki"
 baseurl: ""
 per_page: 20
 markdown: kramdown

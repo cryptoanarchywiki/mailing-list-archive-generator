@@ -10,14 +10,14 @@ layout: default
 
 The following mailing list archive has been compiled using txt dumps available via Ryan Lackey's archive at [cypherpunks.venona.com/raw/](https://cypherpunks.venona.com/raw/).
 
-There is also a structured archive available at [cypherpunks.venona.com/date/](https://cypherpunks.venona.com/date/). This archive largely matches the one hosted there, since it was parsed from the same dumps. Where there are inconsistencies, please submit an [issue](https://github.com/cryptoanarchywiki/mailing-list-archive/issues) via GitHub. There are some known issues that cause this archive to diverge from the one at venona.com:
+There is also a structured archive available at [cypherpunks.venona.com/date/](https://cypherpunks.venona.com/date/). This archive largely matches the one hosted there, since it was parsed from the same dumps. There are some known issues that cause this archive to diverge from the one at venona.com:
 
 + The PPE timezone is not a known timezone and appears to be inconsistent when comparing raw dates with the structured archive hosted at venona.com. This timezone only occurs in the 1992 dump however.
 + Some posts which are replies to unknown posts actually appear (when looking at "Re: _title_" or quoted text in the body) to be orphaned replies to known threads. The archive at venona.com has done a better job at stitching these threads back together. I will make an attempt at this myself in the near future.
 
 Any other other issues/inconsistencies that you notice, I'm likely not aware of. For those please submit an [issue](https://github.com/cryptoanarchywiki/mailing-list-archive/issues).
 
-### Time Periods Covered
+### Time Periods
 
 This archive covers the period from the list's founding in 1992 through to the early part of 1999. The three eras of the list can roughly be categorised as follows:
 
