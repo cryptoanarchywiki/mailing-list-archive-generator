@@ -4,6 +4,8 @@ layout: default
 
 {% include tmay_sig_header.html %}
 
+[Return to cryptoanarchy.wiki Main Site](https://cryptoanarchy.wiki)
+
 ## Cypherpunks Mailing List Archive
 
 ### Basic Information
@@ -32,4 +34,11 @@ The current incarnation of the list is something of a shadow of the earlier comm
 
 ### Browse Archive by Year:
 
-+ [1992](/date/1992)
++ [1992](/archive/1992)
++ [1993](/archive/1993)
++ [1994](/archive/1994)
++ [1995](/archive/1995)
++ [1996](/archive/1996)
++ [1997](/archive/1997)
++ [1998](/archive/1998)
++ [1999](/archive/1999)

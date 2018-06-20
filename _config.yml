@@ -12,10 +12,13 @@ tagarray: []
 
 collections:
   years:
-    permalink: /:collection/:path/
+    permalink: /archive/:path/
+    output: true
+  months:
+    permalink: /archive/:path/
     output: true
   emails:
-    permalink: /years/:path/
+    permalink: /archive/:path/
     output: true
 
 social:
