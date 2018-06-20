@@ -1,0 +1,92 @@
+---
+layout: default
+---
+
+# 1995-11-02 - Re: [FRED] Anonymity and Integrity
+
+## Header Data
+
+From: fc@all.net (Dr. Frederick B. Cohen)<br>
+To: cypherpunks@toad.com<br>
+Message Hash: cde1f2f973eb374aca158cbd799ecdf77ef9ccb75ed5ca73cbfbd6c91f0b47c1<br>
+Message ID: \<9511020130.AA17317@all.net\><br>
+Reply To: \<199511011907.OAA16631@opine.cs.umass.edu\><br>
+UTC Datetime: 1995-11-02 02:38:22 UTC<br>
+Raw Date: Thu, 2 Nov 1995 10:38:22 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: fc@all.net (Dr. Frederick B. Cohen)
+Date: Thu, 2 Nov 1995 10:38:22 +0800
+To: cypherpunks@toad.com
+Subject: Re: [FRED] Anonymity and Integrity
+In-Reply-To: <199511011907.OAA16631@opine.cs.umass.edu>
+Message-ID: <9511020130.AA17317@all.net>
+MIME-Version: 1.0
+Content-Type: text
+
+
+> My turn to rise to the bait...
+> 
+> Dr. Frederick B. Cohen writes:
+> > I have been thinking about the issues of anonymity for some time, and I
+> > have been convinced for some time that you can't have both integrity and
+> > anonymity.  
+> 
+> What's your working definition of "integrity" in this context ?
+
+Integrity:= 1) Steadfast adherence to a strict moral and ethical code.
+	2) A state of being unimpaired; soundness.
+	3) The quality or condition of being whole or undivided; soundness
+	Also) soundness, completeness,
+Alternatively:
+	1) Strict personal honesty and independence...
+	2) Completeness; unity...
+	3) The state of being unimpaired; soundness...''
+
+In this context, I might be misinterpreted as having meant that it is
+impossible to have both integrity and anonymity.  That is not what I
+meant, although it is probably also true in a very strict sense.
+
+To clarify, I don't think you can assure integrity when you have anonymity.
+
+This follows from my earlier writings (circa 1984-89), which are fairly
+extensive, and in which I made the only marginally supported claim that
+you can't have (i.e., assure) both integrity and secrecy in a system
+with sharing.  This came originally from the result that integrity +
+secrecy = no sharing (ala the combination of Biba and Bell-LaPadula)
+which was extended into a POset which characterizes the extent to which
+integrity and secrecy can be maintained based on transitive information
+flow.
+
+The less mathematical reasoning is that in order to be able to verify
+integrity, you have to be able to examine the information that is
+secret, while having secrecy requires that you not be able to have
+independent verification.  Thus the two limit each other. 
+
+Anonymity, in this copntext, can be thought of as secrecy.
+
+-- 
+-> See: Info-Sec Heaven at URL http://all.net
+Management Analytics - 216-686-0090 - PO Box 1480, Hudson, OH 44236
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [November 1995](/archive/1995/11)
+
++ 1995-11-01 (Tue, 31 Oct 95 18:35:18 PST) - ["Dr." Fred](/archive/1995/11/3252e652be50edd1cbf2fc60e03d9812c328df00e17240736111ce5c4be60d1b) - _anon-remailer@utopia.hacktic.nl (Anonymous)_
+  + 1995-11-01 (Wed, 1 Nov 1995 18:35:42 +0800) - [Re: "Dr." Fred](/archive/1995/11/7f9e7f420a5672ffc285e7691878a03c4ed93a4e828a036886ad42f583bf20f4) - _fc@all.net (Dr. Frederick B. Cohen)_
+    + 1995-11-02 (Thu, 2 Nov 1995 09:44:50 +0800) - [Re: [FRED] Anonymity and Integrity](/archive/1995/11/4b14fcbbd6f3832041d433f3006babdec53a2992149d6338ba8701182ed6e9eb) - _futplex@pseudonym.com (Futplex)_
+      + 1995-11-02 (Thu, 2 Nov 1995 10:38:22 +0800) - Re: [FRED] Anonymity and Integrity - _fc@all.net (Dr. Frederick B. Cohen)_
+        + 1995-11-02 (Thu, 2 Nov 1995 22:15:34 +0800) - [Re: [FRED] Anonymity and Integrity](/archive/1995/11/775ff80bcb920f737216c83b7822df464b6b9ab4ec66a8d426689abacb387ffe) - _futplex@pseudonym.com (Futplex)_
+          + 1995-11-02 (Thu, 2 Nov 1995 19:41:54 +0800) - [Re: [FRED] Anonymity and Integrity](/archive/1995/11/7e4ba10c448c53816a6aa3ca6012b9e613f4ae331601913f1b323b162aba26bb) - _fc@all.net (Dr. Frederick B. Cohen)_
+            + 1995-11-02 (Fri, 3 Nov 1995 05:15:10 +0800) - [Re: [FRED] Anonymity and Integrity](/archive/1995/11/036efe9d9b51eea0bc527b58f47238fb253db02db06d47e4ee5f74c6d07d82b6) - _futplex@pseudonym.com (Futplex)_
+              + 1995-11-03 (Fri, 3 Nov 1995 10:49:28 +0800) - [Anonymity and integrity](/archive/1995/11/515998b5ebdf55ad1122e8da6cd7b3c320ff9ac81ebc9fbc619b3e7fedf66d20) - _fc@all.net (Dr. Frederick B. Cohen)_
+

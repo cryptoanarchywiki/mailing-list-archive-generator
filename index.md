@@ -8,6 +8,17 @@ layout: default
 
 ## Cypherpunks Mailing List Archive
 
+### Browse Archive by Year:
+
++ [1992](/archive/1992)
++ [1993](/archive/1993)
++ [1994](/archive/1994)
++ [1995](/archive/1995)
++ [1996](/archive/1996)
++ [1997](/archive/1997)
++ [1998](/archive/1998)
++ [1999](/archive/1999)
+
 ### Basic Information
 
 The following mailing list archive has been compiled using txt dumps available via Ryan Lackey's archive at [cypherpunks.venona.com/raw/](https://cypherpunks.venona.com/raw/).
@@ -31,14 +42,3 @@ This archive covers the period from the list's founding in 1992 through to the e
 More information about this can be found in a section of the [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk#Origin_of_the_term,_and_the_Cypherpunks_mailing_list) Wikipedia page.
 
 The current incarnation of the list is something of a shadow of the earlier community and, given that it already has complete logs, will not be included on this site. I am actively seeking the mailing list archives for the period of 2000-2013 however, since the mailing list was still active and influential in the early 2000s. I feel it is important that we find and preserve these archives before they're lost to history for ever.
-
-### Browse Archive by Year:
-
-+ [1992](/archive/1992)
-+ [1993](/archive/1993)
-+ [1994](/archive/1994)
-+ [1995](/archive/1995)
-+ [1996](/archive/1996)
-+ [1997](/archive/1997)
-+ [1998](/archive/1998)
-+ [1999](/archive/1999)

@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+# 1996-07-16 - Re: Markoff on Clipper III
+
+## Header Data
+
+From: Duncan Frissell \<frissell@panix.com\><br>
+To: David Sternlight \<cypherpunks@toad.com<br>
+Message Hash: eece8fae5ee2f8e6dec11ec70e86ecbb38eabee5276d52ae37a36da8b1dc9a73<br>
+Message ID: \<2.2.32.19960715184219.00827588@panix.com\><br>
+Reply To: _N/A_<br>
+UTC Datetime: 1996-07-16 02:52:52 UTC<br>
+Raw Date: Tue, 16 Jul 1996 10:52:52 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: Duncan Frissell <frissell@panix.com>
+Date: Tue, 16 Jul 1996 10:52:52 +0800
+To: David Sternlight <cypherpunks@toad.com
+Subject: Re: Markoff on Clipper III
+Message-ID: <2.2.32.19960715184219.00827588@panix.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+At 10:20 AM 7/15/96 -0700, David Sternlight wrote:
+>At 3:50 AM -0700 7/15/96, Duncan Frissell wrote:
+>>At 09:35 PM 7/14/96 -0700, David Sternlight wrote:
+>>
+>>>Did you miss the part in the Constitution about "provide for the common
+>>>defence"
+>>
+>>That's a meaningless part of the Preamble.
+>
+>Anyone who thinks substantive parts of the Preamble are "meaningless" is
+>deserving only of contumely. Perhaps you should review your high school
+>civics course--you did have one of those, yes?
+>
+>David
+>
+
+Welcome to the list.
+
+Yes my high school Civics class was good.  So were my law school Con Law
+courses.
+
+Yes, David I would say you practice "contumely" -- Rudeness or contempt
+arising from arrogance; insolence.  But then so do I.
+
+I'll say again, the Preamble speaks of the reasons the drafters of the
+Constitution had for writing the thing, it does not set forth any powers of
+the federal government.  Goals not means.  GAK is a means not a goal.  
+
+DCF
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [July 1996](/archive/1996/07)
+
++ 1996-07-16 (Tue, 16 Jul 1996 10:52:52 +0800) - Re: Markoff on Clipper III - _Duncan Frissell \<frissell@panix.com\>_
+  + 1996-07-16 (Tue, 16 Jul 1996 15:11:17 +0800) - [Re: Markoff on Clipper III](/archive/1996/07/34957f794863b47c86c6c3235fe6824cd1ed1863a5676bb88b8a05d6f714181a) - _David Sternlight \<david@sternlight.com\>_
+

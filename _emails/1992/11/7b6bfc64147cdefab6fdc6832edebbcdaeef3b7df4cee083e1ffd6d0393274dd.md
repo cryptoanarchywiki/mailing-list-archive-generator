@@ -37,7 +37,7 @@ Please add my address to the mailing list.
 
 ## Thread
 
-+ Return to [November 1992](/years/1992/11)
++ Return to [November 1992](/archive/1992/11)
 
 + 1992-11-08 (Sat, 7 Nov 92 19:08:31 PPE) - No Subject - _mcmahonm@wybbs.mi.org (Mike McMahon)_
 

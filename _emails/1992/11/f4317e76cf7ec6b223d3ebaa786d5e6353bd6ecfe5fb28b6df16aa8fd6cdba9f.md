@@ -151,8 +151,8 @@ Phone (305) 765-6300 daytime   FAX: (305) 765-6708  1321 N 65 Way/Hollywood
 
 ## Thread
 
-+ Return to [November 1992](/years/1992/11)
++ Return to [November 1992](/archive/1992/11)
 
-+ 1992-11-28 (Fri, 27 Nov 92 18:49:41 PST) - [Re: More comments on dongles](/years/1992/11/7d25aa61587f97f0d78c37e496c31fcbff8f3f30f0ca4b2f37b920fae653cc7c) - _karn@qualcomm.com (Phil Karn)_
++ 1992-11-28 (Fri, 27 Nov 92 18:49:41 PST) - [Re: More comments on dongles](/archive/1992/11/7d25aa61587f97f0d78c37e496c31fcbff8f3f30f0ca4b2f37b920fae653cc7c) - _karn@qualcomm.com (Phil Karn)_
   + 1992-11-28 (Fri, 27 Nov 92 19:43:52 PST) - Re: More comments on dongles - _yanek@novavax.nova.edu (Yanek Martinson)_
 

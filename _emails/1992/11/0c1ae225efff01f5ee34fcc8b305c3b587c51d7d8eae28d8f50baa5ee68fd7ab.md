@@ -45,10 +45,10 @@ e
 
 ## Thread
 
-+ Return to [November 1992](/years/1992/11)
++ Return to [November 1992](/archive/1992/11)
 
-+ 1992-11-17 (Tue, 17 Nov 92 00:50:35 PST) - [Re: Rander box and other stuff](/years/1992/11/fca6246762b691b33aad1dad0d5629b515c7001592aef0b10fca56fd6da540ee) - _George A. Gleason \<gg@well.sf.ca.us\>_
++ 1992-11-17 (Tue, 17 Nov 92 00:50:35 PST) - [Re: Rander box and other stuff](/archive/1992/11/fca6246762b691b33aad1dad0d5629b515c7001592aef0b10fca56fd6da540ee) - _George A. Gleason \<gg@well.sf.ca.us\>_
   + 1992-11-18 (Tue, 17 Nov 92 16:37:25 PST) - Re: Rander box and other stuff - _Eric Hollander \<hh@soda.berkeley.edu\>_
-    + 1992-11-18 (Tue, 17 Nov 92 16:58:34 PST) - [re: Rander box and other stuff](/years/1992/11/1324257ace2cbf4cb233335e35d24a4f5b87fadd602256e5d9cc288ef8ffb8ce) - _"Mark W. Eichin" \<eichin@cygnus.com\>_
-      + 1992-11-18 (Tue, 17 Nov 92 17:22:27 PST) - [Rander box and other stuff](/years/1992/11/e02f6c106d222499a03ea6d6dafc820bb3be9ac65b46226596e35f2d7f2804e6) - _phr@napa.Telebit.COM (Paul Rubin)_
+    + 1992-11-18 (Tue, 17 Nov 92 16:58:34 PST) - [re: Rander box and other stuff](/archive/1992/11/1324257ace2cbf4cb233335e35d24a4f5b87fadd602256e5d9cc288ef8ffb8ce) - _"Mark W. Eichin" \<eichin@cygnus.com\>_
+      + 1992-11-18 (Tue, 17 Nov 92 17:22:27 PST) - [Rander box and other stuff](/archive/1992/11/e02f6c106d222499a03ea6d6dafc820bb3be9ac65b46226596e35f2d7f2804e6) - _phr@napa.Telebit.COM (Paul Rubin)_
 

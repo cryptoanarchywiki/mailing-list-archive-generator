@@ -41,7 +41,7 @@ My address is
 
 ## Thread
 
-+ Return to [October 1992](/years/1992/10)
++ Return to [October 1992](/archive/1992/10)
 
 + 1992-10-25 (Sun, 25 Oct 92 16:21:58 PPE) - Removal from list - _nathanf@cup.portal.com_
 

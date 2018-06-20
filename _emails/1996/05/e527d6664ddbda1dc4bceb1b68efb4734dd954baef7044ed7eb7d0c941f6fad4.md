@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+# 1996-05-24 - Re: [SCARE]:  "If you only knew what we know..."
+
+## Header Data
+
+From: mpd@netcom.com (Mike Duvos)<br>
+To: cypherpunks@toad.com<br>
+Message Hash: e527d6664ddbda1dc4bceb1b68efb4734dd954baef7044ed7eb7d0c941f6fad4<br>
+Message ID: \<199605232231.PAA13882@netcom20.netcom.com\><br>
+Reply To: \<199605231937.MAA25268@clotho.c2.org\><br>
+UTC Datetime: 1996-05-24 03:16:19 UTC<br>
+Raw Date: Fri, 24 May 1996 11:16:19 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: mpd@netcom.com (Mike Duvos)
+Date: Fri, 24 May 1996 11:16:19 +0800
+To: cypherpunks@toad.com
+Subject: Re: [SCARE]:  "If you only knew what we know..."
+In-Reply-To: <199605231937.MAA25268@clotho.c2.org>
+Message-ID: <199605232231.PAA13882@netcom20.netcom.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+Sameer Parekh writes:
+
+> 	It's my understanding that this statement is now false. I
+> believe that Matt Blaze recently received "The Briefing" and he is
+> still on our side.
+
+Don't suppose Matt could do a little executive summary of 
+"The Briefing" and post it to the list, could he?
+
+--
+     Mike Duvos         $    PGP 2.6 Public Key available     $
+     mpd@netcom.com     $    via Finger.                      $
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [May 1996](/archive/1996/05)
+
++ 1996-05-24 (Fri, 24 May 1996 08:30:50 +0800) - [[SCARE]:  "If you only knew what we know..."](/archive/1996/05/be508b3cb59fa501ee7c30530a236555f0747848667f29b8e9926753c6fb0084) - _tcmay@got.net (Timothy C. May)_
+  + 1996-05-24 (Fri, 24 May 1996 10:05:43 +0800) - [Re: [SCARE]:  "If you only knew what we know..."](/archive/1996/05/5eb55c07431c2586618bc20a01f2abd78c457cfa495c1ddf3ffeb7b58e45374f) - _sameer@c2.org_
+    + 1996-05-24 (Fri, 24 May 1996 11:16:19 +0800) - Re: [SCARE]:  "If you only knew what we know..." - _mpd@netcom.com (Mike Duvos)_
+      + 1996-05-24 (Sat, 25 May 1996 06:56:09 +0800) - [Re: [SCARE]:  "If you only knew what we know..."](/archive/1996/05/480a282a4b9b9b141f342fbf2d0d2aa7260ed6e3dc1729e16658b72e29c0702e) - _Black Unicorn \<unicorn@schloss.li\>_
+        + 1996-05-25 (Sat, 25 May 1996 13:06:12 +0800) - [Re: [SCARE]:  "If you only knew what we know..."](/archive/1996/05/feb1db0347c5fb5648fbdef8bbce6ac51a9f3220a25484ce13eb7364f7b938c7) - _snow \<snow@smoke.suba.com\>_
+          + 1996-05-25 (Sat, 25 May 1996 15:29:10 +0800) - [Re: [SCARE]:  "If you only knew what we know..."](/archive/1996/05/fee91a633e346212db1c2ce4591251b50cc43dcc6c6323313141f89fdb8d0a43) - _Black Unicorn \<unicorn@schloss.li\>_
+            + 1996-05-25 (Sat, 25 May 1996 16:19:27 +0800) - [Re: [SCARE]:  "If you only knew what we know..."](/archive/1996/05/6567563184c27021cdc29324004012d62e5d9e2549f637cc146b9466e5615a83) - _snow \<snow@smoke.suba.com\>_
+

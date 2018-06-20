@@ -82,7 +82,7 @@ Write PKP. Offer money for a personal use license for RSA.
 
 ## Thread
 
-+ Return to [November 1992](/years/1992/11)
++ Return to [November 1992](/archive/1992/11)
 
 + 1992-11-30 (Mon, 30 Nov 92 11:11:12 PST) - Re: Secure Key exchange - _pfarrell@cs.gmu.edu (Pat Farrell)_
 

@@ -1,0 +1,82 @@
+---
+layout: default
+---
+
+# 1997-06-06 - Privacy-loving Europeans are at it again
+
+## Header Data
+
+From: Tim May \<tcmay@got.net\><br>
+To: cypherpunks@Algebra.COM<br>
+Message Hash: f7c1dfdd6f577f5b153ceb6af5d50c46e8e2fad69ace6ed7aee2dee1c1e8eb57<br>
+Message ID: \<v03102804afbdd3e3c49f@[207.167.93.63]\><br>
+Reply To: \<1.5.4.32.19970606121923.008fab1c@pop.pipeline.com\><br>
+UTC Datetime: 1997-06-06 15:03:26 UTC<br>
+Raw Date: Fri, 6 Jun 1997 23:03:26 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: Tim May <tcmay@got.net>
+Date: Fri, 6 Jun 1997 23:03:26 +0800
+To: cypherpunks@Algebra.COM
+Subject: Privacy-loving Europeans are at it again
+In-Reply-To: <1.5.4.32.19970606121923.008fab1c@pop.pipeline.com>
+Message-ID: <v03102804afbdd3e3c49f@[207.167.93.63]>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+
+At 5:19 AM -0700 6/6/97, John Young wrote:
+>The New York Times reports on page one the German
+>prosecution of a woman who linked her home page to
+>Radikal. It reviews XS4ALL's role, describes Radikal
+>and its mirror sites and links to them all:
+>
+>   http://www.nytimes.com/library/cyber/week/060697germany.html
+>
+>It says that Kohl is determined to find a way to police the
+>Net in spite of technical work-a-rounds.
+>
+>Recall a previous report that Kohl and other heads of state are
+>to meet in Denver on June 20-22 to plan a global attack
+>on "cyber-terrorism," including the spread of encryption:
+>
+>   http://jya.com/denver.htm
+
+
+Wait a minute, John! Aren't these the same Europeans described by Marc
+Rotenberg as being more privacy- and liberty=loving than Americans?
+
+--Tim May
+
+
+
+There's something wrong when I'm a felon under an increasing number of laws.
+Only one response to the key grabbers is warranted: "Death to Tyrants!"
+---------:---------:---------:---------:---------:---------:---------:----
+Timothy C. May              | Crypto Anarchy: encryption, digital money,
+tcmay@got.net  408-728-0152 | anonymous networks, digital pseudonyms, zero
+W.A.S.T.E.: Corralitos, CA  | knowledge, reputations, information markets,
+Higher Power: 2^1398269     | black markets, collapse of governments.
+"National borders aren't even speed bumps on the information superhighway."
+
+
+
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [June 1997](/archive/1997/06)
+
++ 1997-06-06 (Fri, 6 Jun 1997 20:47:52 +0800) - [NYT on German Net Police](/archive/1997/06/5718ef3ae9df12b0f48ef5d163d8fd3cb47c29ca30da5126b2f2db5e79241145) - _John Young \<jya@pipeline.com\>_
+  + 1997-06-06 (Fri, 6 Jun 1997 23:03:26 +0800) - Privacy-loving Europeans are at it again - _Tim May \<tcmay@got.net\>_
+    + 1997-06-06 (Sat, 7 Jun 1997 00:47:42 +0800) - [Re: Privacy-loving Europeans are at it again](/archive/1997/06/77c8f9166eb07c64a4cc3336b455ac91ee9d24c6fc25b033574385ac732f3184) - _"William H. Geiger III" \<whgiii@amaranth.com\>_
+

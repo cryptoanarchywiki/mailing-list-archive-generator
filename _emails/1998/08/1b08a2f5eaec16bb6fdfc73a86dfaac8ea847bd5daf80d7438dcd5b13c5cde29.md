@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+# 1998-08-14 - Dennis Rodman hounded by porn stars/Mom dates alien son http://stuffed.net/98/8/14/
+
+## Header Data
+
+From: STUFFED/EUREKA! \<stuffed@stuffed.net\><br>
+To: All Eureka/Stuffed Subscribers: ;<br>
+Message Hash: 1b08a2f5eaec16bb6fdfc73a86dfaac8ea847bd5daf80d7438dcd5b13c5cde29<br>
+Message ID: \<19980814080000.28639.qmail@eureka.abc-web.com\><br>
+Reply To: _N/A_<br>
+UTC Datetime: 1998-08-14 15:09:46 UTC<br>
+Raw Date: Fri, 14 Aug 1998 08:09:46 -0700 (PDT)<br>
+
+## Raw message
+
+```
+{% raw  %}From: STUFFED/EUREKA! <stuffed@stuffed.net>
+Date: Fri, 14 Aug 1998 08:09:46 -0700 (PDT)
+To: All Eureka/Stuffed Subscribers: ;
+Subject: Dennis Rodman hounded by porn stars/Mom dates alien son http://stuffed.net/98/8/14/
+Message-ID: <19980814080000.28639.qmail@eureka.abc-web.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+Welcome to  today's  issue of Stuffed. To read it you should
+click on the URL below.  If it is not made clickable by your
+email program  you will need to  use your mouse to highlight
+the line,  copy it and then paste it into your browser (then
+press Return).
+
+http://stuffed.net/98/8/14/
+
+If you  have an email program that can display web pages you
+will find today's front cover should have already been disp-
+layed and can be clicked on to take you straight to Stuffed.
+
+This  email  is  never  sent  unsolicited.  Stuffed  is  the
+supplement for the Eureka newsletter you subscribed to. Full
+instructions on unsubscribing  are in every issue of Eureka!
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [August 1998](/archive/1998/08)
+
++ 1998-08-14 (Fri, 14 Aug 1998 08:09:46 -0700 (PDT)) - Dennis Rodman hounded by porn stars/Mom dates alien son http://stuffed.net/98/8/14/ - _STUFFED/EUREKA! \<stuffed@stuffed.net\>_
+

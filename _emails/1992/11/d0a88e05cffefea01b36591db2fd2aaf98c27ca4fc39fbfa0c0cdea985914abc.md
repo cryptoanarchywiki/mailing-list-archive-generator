@@ -50,7 +50,7 @@ make this a win win situation..(except fotr the spooks and the crooks..)
 
 ## Thread
 
-+ Return to [November 1992](/years/1992/11)
++ Return to [November 1992](/archive/1992/11)
 
 + 1992-11-20 (Fri, 20 Nov 92 15:04:50 PST) - Encrypting all mail and the protection of.. - _ccat@casa-next1.Stanford.EDU (Chris Beaumont)_
 

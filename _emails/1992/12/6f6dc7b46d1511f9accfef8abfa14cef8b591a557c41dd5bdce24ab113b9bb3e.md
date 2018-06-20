@@ -41,7 +41,7 @@ nraizman@winchester.pp.psc.edu
 
 ## Thread
 
-+ Return to [December 1992](/years/1992/12)
++ Return to [December 1992](/archive/1992/12)
 
 + 1992-12-03 (Thu, 3 Dec 92 08:34:29 PST) - Info Wanted - _nraizman@winchester.pp.psc.edu_
 

@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+# 1997-08-28 - Re: Hey
+
+## Header Data
+
+From: Cypherpunks \<cypherpunks@toad.com\><br>
+To: XwitTDis96@aol.com<br>
+Message Hash: ca75ca3b2d26a30cfca458f3991b3c000fcbb61cccc2f1e699ffff5eb9faed00<br>
+Message ID: \<3405F0ED.5D84@toad.com\><br>
+Reply To: \<970828173545_452071087@emout07.mail.aol.com\><br>
+UTC Datetime: 1997-08-28 21:54:56 UTC<br>
+Raw Date: Fri, 29 Aug 1997 05:54:56 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: Cypherpunks <cypherpunks@toad.com>
+Date: Fri, 29 Aug 1997 05:54:56 +0800
+To: XwitTDis96@aol.com
+Subject: Re: Hey
+In-Reply-To: <970828173545_452071087@emout07.mail.aol.com>
+Message-ID: <3405F0ED.5D84@toad.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+
+XwitTDis96@aol.com wrote:
+> 
+> SUBCRIBE-ME
+
+NO-WAY
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [August 1997](/archive/1997/08)
++ Return to [September 1997](/archive/1997/09)
+
++ 1997-08-28 (Fri, 29 Aug 1997 05:54:56 +0800) - [Hey](/archive/1997/08/941d4c1b23c13fad3f5a0be15e0ee655fe9a9be8ec70d8a19b10654505846014) - _XwitTDis96@aol.com_
+  + 1997-08-28 (Fri, 29 Aug 1997 05:54:56 +0800) - Re: Hey - _Cypherpunks \<cypherpunks@toad.com\>_
+    + 1997-08-29 (Fri, 29 Aug 1997 08:38:54 +0800) - [Re: Hey](/archive/1997/08/fb002c862ac32a39f90ca20f1118cf848e0c6255fc2f674c1959d4c5127abba6) - _Jason William RENNIE \<jrennie@hardy.ocs.mq.edu.au\>_
+      + 1997-09-06 (Sat, 6 Sep 1997 11:59:57 +0800) - [Re: Hey](/archive/1997/09/98338a3c88ce7bd2787e2afd54c1a552035a4e1909899499c33f1f93dab61910) - _bennett_t1@popmail.firn.edu_
+
