@@ -32,7 +32,7 @@ Any other other issues/inconsistencies that you notice, I'm likely not aware of.
 
 ### Time Periods
 
-This archive covers the period from the list's founding in 1992 through to the early part of 1999. The three eras of the list can roughly be categorised as follows:
+This archive covers the period from the list's founding in 1992 through to the early part of 1999. The main eras of the list can roughly be categorised as follows:
 
 + 90s Era - _Mainly hosted on toad.com but moving to a distributed archictecture in 1997. Archives are available for this period. This archive covers this period, as does Ryan Lackey's._
 + 1997-? - _This [article](https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/) does suggest that there was a Usenet community at alt.cypherpunks for some time. I can't find any archives of this era and it appears to coincide with the move to the distributed architecture, so it may have just been an explored possibility and not have been very active._
