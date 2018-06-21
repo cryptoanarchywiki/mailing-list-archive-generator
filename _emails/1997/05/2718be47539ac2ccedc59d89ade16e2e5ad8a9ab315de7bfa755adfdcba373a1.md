@@ -62,4 +62,5 @@ Sounds like s good idea.  He is going to need it.
 
 + 1997-05-21 (Wed, 21 May 1997 09:58:33 +0800) - [Jim Bell's legal defense fund](/archive/1997/05/c4a2c5f1b6e1619071d9863e8df43a6b831120c21313c9a45a45d128aca7b8f5) - _ichudov@algebra.com (Igor Chudov @ home)_
   + 1997-05-21 (Wed, 21 May 1997 11:06:46 +0800) - Re: Jim Bell's legal defense fund - _Alan Olsen \<alan@ctrl-alt-del.com\>_
+  + 1997-05-21 (Wed, 21 May 1997 20:36:22 +0800) - [Re: Jim Bell's legal defense fund](/archive/1997/05/3e6a03e05008586d72923e3471950850eb954ad3b676897d9e63681962493f13) - _winsock@rigel.cyberpass.net (WinSock Remailer)_
 

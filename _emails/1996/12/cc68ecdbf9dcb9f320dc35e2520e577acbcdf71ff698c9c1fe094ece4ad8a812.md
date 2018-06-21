@@ -72,4 +72,9 @@ XhZErmf1vHk=
 + 1996-12-22 (Sat, 21 Dec 1996 16:07:24 -0800 (PST)) - Re: Ebonics - _"Matthew J. Miszewski" \<mjmiski@execpc.com\>_
   + 1996-12-22 (Sat, 21 Dec 1996 16:54:53 -0800 (PST)) - [Re: Ebonics](/archive/1996/12/bbe3329f8d89f0c5449c841233f1e273018a5354e799db9f803936acca0d3c1e) - _"Timothy C. May" \<tcmay@got.net\>_
     + 1996-12-22 (Sat, 21 Dec 1996 22:00:19 -0800 (PST)) - [Re: Ebonics](/archive/1996/12/6e8eba59523371d4de92e673918672a7ca769d0e702e8fa67b0a98c9fc13d40c) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+    + 1996-12-24 (Mon, 23 Dec 1996 20:15:53 -0800 (PST)) - [Re: Ebonics](/archive/1996/12/6c2e236ab8807956caec3b24400b9f94a59d5a7092c8f18fd4700d0ca4ab80c0) - _Jim Wise \<jim@santafe.arch.columbia.edu\>_
+      + 1996-12-24 (Tue, 24 Dec 1996 08:12:57 -0800 (PST)) - [Re: Ebonics](/archive/1996/12/d25852d7aa8c84feaf638d1e5dcac3735c594577fd1ecf15281036ce5cfce77f) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+  + 1996-12-22 (Sat, 21 Dec 1996 17:04:56 -0800 (PST)) - [Re: Ebonics](/archive/1996/12/7eaea6eb5015aa16ff00fab81b66fa4a69a471147398f2c2453b16336c5f1bae) - _Jamie Lawrence \<foodie@netcom.com\>_
+  + 1996-12-22 (Sat, 21 Dec 1996 17:26:42 -0800 (PST)) - [Re: Ebonics](/archive/1996/12/928c4d4f05699607b995df0a20dbd612fb13e5e1dd49eb685131fbdbc5e8d63f) - _"Mark M." \<markm@voicenet.com\>_
+  + 1996-12-22 (Sat, 21 Dec 1996 20:27:32 -0800 (PST)) - [Re: Ebonics](/archive/1996/12/a08c47bcb41682deeaac0d2bce392ff06e99866aad0ae7063f74e1165c3b8960) - _"William H. Geiger III" \<whgiii@amaranth.com\>_
 

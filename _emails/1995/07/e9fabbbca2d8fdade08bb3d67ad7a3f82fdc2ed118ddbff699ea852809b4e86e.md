@@ -95,4 +95,6 @@ Jon Lasser                <jlasser@rwd.goucher.edu>            (410) 494-3253
 + 1995-07-20 (Thu, 20 Jul 95 13:02:10 PDT) - [Re: Netscape the Big Win](/archive/1995/07/192aacecf33c91147531eab2dd0ab4853e2979d794b8270e0678a73eef28194a) - _tcmay@sensemedia.net (Timothy C. May)_
   + 1995-07-20 (Thu, 20 Jul 95 13:28:20 PDT) - Re: Netscape the Big Win - _Jon Lasser \<jlasser@rwd.goucher.edu\>_
     + 1995-07-20 (Thu, 20 Jul 95 14:01:05 PDT) - [Re: Netscape the Big Win](/archive/1995/07/f0b59b672d2d8ce3aa92ce31bedae7494873e0e6487712bf1b6a8d87ae957290) - _Ray Cromwell \<rjc@clark.net\>_
+  + 1995-07-20 (Thu, 20 Jul 95 13:45:51 PDT) - [Re: Netscape the Big Win](/archive/1995/07/fdd6ad59ceb488373ee5b89ee6e36a73677eb67765404b71207f6004ba121c92) - _Ray Cromwell \<rjc@clark.net\>_
+  + 1995-07-21 (Fri, 21 Jul 95 01:40:45 PDT) - [Re: Netscape the Big Win](/archive/1995/07/33633e722024cf834dcf6f9a7ea38746715b0b0a227a7cb63ec75e7482b38080) - _"Perry E. Metzger" \<perry@imsi.com\>_
 

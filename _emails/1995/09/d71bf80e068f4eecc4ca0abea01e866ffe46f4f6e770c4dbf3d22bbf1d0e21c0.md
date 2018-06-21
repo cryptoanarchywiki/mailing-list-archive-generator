@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+# 1995-09-07 - Re: University logging mail to anon.penet
+
+## Header Data
+
+From: Black Unicorn \<unicorn@polaris.mindport.net\><br>
+To: Jeff Simmons \<jsimmons@goblin.punk.net\><br>
+Message Hash: d71bf80e068f4eecc4ca0abea01e866ffe46f4f6e770c4dbf3d22bbf1d0e21c0<br>
+Message ID: \<Pine.SUN.3.91.950906235249.14145B-100000@polaris.mindport.net\><br>
+Reply To: \<199509070230.TAA24609@goblin.punk.net\><br>
+UTC Datetime: 1995-09-07 03:52:21 UTC<br>
+Raw Date: Wed, 6 Sep 95 20:52:21 PDT<br>
+
+## Raw message
+
+```
+{% raw  %}From: Black Unicorn <unicorn@polaris.mindport.net>
+Date: Wed, 6 Sep 95 20:52:21 PDT
+To: Jeff Simmons <jsimmons@goblin.punk.net>
+Subject: Re: University logging mail to anon.penet
+In-Reply-To: <199509070230.TAA24609@goblin.punk.net>
+Message-ID: <Pine.SUN.3.91.950906235249.14145B-100000@polaris.mindport.net>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+
+
+On Wed, 6 Sep 1995, Jeff Simmons wrote:
+
+> This just came up locally, and I'd like to have some comments on it, 
+> especially from people who understand the law a lot better than I do:
+> 
+> Our local University apparently has been logging ALL mail to anon.penet,
+> including faculty, students, and off-campus users.
+> 
+> They maintain such weak security that someone was able to "obtain"
+> the logs and post them to a local usenet group, thus compromising
+> everyone's "anonymous" identities.
+
+
+
+Which University please?
+
+> 
+> -- 
+> Jeff Simmons                           jsimmons@goblin.punk.net
+> 
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [September 1995](/archive/1995/09)
+
++ 1995-09-07 (Wed, 6 Sep 95 19:32:32 PDT) - [University logging mail to anon.penet](/archive/1995/09/50a17fee1aefa62e630aa7af84a4cb2f1d62fd61aa3d9325f74e4f52f2c23878) - _Jeff Simmons \<jsimmons@goblin.punk.net\>_
+  + 1995-09-07 (Wed, 6 Sep 95 20:05:35 PDT) - [Re: University logging mail to anon.penet](/archive/1995/09/1d27d84588850cf3228f7e9e5a46f8f5bd3034253fcf62238440f04318dab4f6) - _Deranged Mutant \<rrothenb@ic.sunysb.edu\>_
+    + 1995-09-07 (Wed, 6 Sep 95 20:29:03 PDT) - [Re: University logging mail to anon.penet](/archive/1995/09/bb48d8c94b9f10f0aac7132c1de9b09ac08bd8411deefcb78d2b4ff30ab5bb74) - _Jeff Simmons \<jsimmons@goblin.punk.net\>_
+  + 1995-09-07 (Wed, 6 Sep 95 20:52:21 PDT) - Re: University logging mail to anon.penet - _Black Unicorn \<unicorn@polaris.mindport.net\>_
+  + 1995-09-07 (Wed, 6 Sep 95 21:02:31 PDT) - [Re: University logging mail to anon.penet](/archive/1995/09/69a4f7ddf96ebda71033c0f3f1dae1901ce2a9bd35293d4db2f1eddfaf17147c) - _"Robert A. Hayden" \<hayden@krypton.mankato.msus.edu\>_
+    + 1995-09-07 (Wed, 6 Sep 95 21:53:31 PDT) - [Re: University logging mail to anon.penet](/archive/1995/09/27cc78621224413447859baf6f2bd3ad382c197c8ecb16c87cebd20262ff684c) - _Bob Snyder \<rsnyder@janet.advsys.com\>_
+      + 1995-09-07 (Wed, 6 Sep 95 22:50:15 PDT) - [ECPA (Was: University logging mail to anon.penet.fi)](/archive/1995/09/2f8e3fcea393050e899f68eea89bb4d4ce8b58f4fef621aad3c706999e4c25dd) - _Deranged Mutant \<rrothenb@ic.sunysb.edu\>_
+        + 1995-09-07 (Thu, 7 Sep 95 05:58:29 PDT) - [Re: ECPA (Was: University logging mail to anon.penet.fi)](/archive/1995/09/80f1a1ec267f46bc446912f3d6cf88b07f23c8eba55a726815c96ad610e724c3) - _"Josh M. Osborne" \<stripes@va.pubnix.com\>_
+

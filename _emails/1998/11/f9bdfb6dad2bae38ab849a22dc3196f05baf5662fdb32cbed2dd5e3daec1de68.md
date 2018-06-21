@@ -143,4 +143,7 @@ Licensed Ontologist         | black markets, collapse of governments.
 
 + 1998-11-19 (Fri, 20 Nov 1998 00:05:14 +0800) - [Piracy and cypherpunks](/archive/1998/11/70b02b27c7d7113363103cfa182a7d29785bafeebb75fcd6d3e036bd4796a2ec) - _Jim Gillogly \<jim@acm.org\>_
   + 1998-11-19 (Fri, 20 Nov 1998 02:39:44 +0800) - Re: Piracy and cypherpunks - _Tim May \<tcmay@got.net\>_
+  + 1998-11-20 (Fri, 20 Nov 1998 12:14:37 +0800) - [Re: Piracy and cypherpunks](/archive/1998/11/a6781d55ced12eda899a784d29be85bbf1370c078f809d46ad922c242860ccd3) - _Steve Schear \<schear@lvcm.com\>_
+    + 1998-11-20 (Fri, 20 Nov 1998 13:06:25 +0800) - [Re: Piracy and cypherpunks](/archive/1998/11/c3dac7b6e001f094a1fd71ca75a8c1caf0687b00a88ee726fe350e6c7c8526c3) - _Rabid Wombat \<wombat@mcfeely.bsfs.org\>_
+    + 1998-11-20 (Sat, 21 Nov 1998 01:00:33 +0800) - [Re: Piracy and cypherpunks](/archive/1998/11/940f674b115e9f5e3b7536f07b71bbfe171bd879c47f7284723371084a0cd53b) - _Petro \<petro@www.playboy.com\>_
 

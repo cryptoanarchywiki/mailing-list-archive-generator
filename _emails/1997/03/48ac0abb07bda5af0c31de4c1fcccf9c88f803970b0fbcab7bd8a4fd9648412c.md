@@ -196,4 +196,5 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 
 + 1997-03-21 (Thu, 20 Mar 1997 17:35:36 -0800 (PST)) - Spam from DM.NET - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
   + 1997-03-21 (Thu, 20 Mar 1997 18:25:52 -0800 (PST)) - [Re: Spam from DM.NET](/archive/1997/03/1f10d36f71bb1194b42f9de21e3c74e14da70822e9e40c06203d5db2aaddd226) - _Toto \<toto@sk.sympatico.ca\>_
+  + 1997-03-21 (Thu, 20 Mar 1997 19:46:05 -0800 (PST)) - [Re: Spam from DM.NET](/archive/1997/03/c095bd726e541efbba4fb26a3cc95e8493e800ce4e8403ab819a97889369eee4) - _nic \<sf-nic@dm.net\>_
 

@@ -54,4 +54,5 @@ Phil
 
 + 1993-09-08 (Tue, 7 Sep 93 22:51:51 PDT) - [Super Phones?](/archive/1993/09/6072227bb0d433e1a9a36f9ea656d853dba557f4e88f73463c33fb9e8572b374) - _Clark Reynard \<clark@metal.psu.edu\>_
   + 1993-09-08 (Tue, 7 Sep 93 23:42:47 PDT) - Super Phones? - _karn@qualcomm.com (Phil Karn)_
+  + 1993-09-08 (Wed, 8 Sep 93 06:51:57 PDT) - [Re: Super Phones?](/archive/1993/09/00ccf705f30abb4d5a5ec6f440d6d694b2c06ec5c2d40c4bfd5fd4d6b850a519) - _pat@tstc.edu (Patrick E. Hykkonen)_
 

@@ -66,4 +66,5 @@ JWS
 + 1994-08-21 (Sat, 20 Aug 94 19:21:33 PDT) - [Re: In Search of Genuine DigiCash](/archive/1994/08/21dc0a9e4a1b7f3cb1cadb7c38133fc00e7a940f05d7964a7cd63239ab055f96) - _rah@shipwright.com (Robert Hettinga)_
   + 1994-08-21 (Sun, 21 Aug 94 10:07:06 PDT) - [Re: In Search of Genuine DigiCash](/archive/1994/08/74e5ccdc11b072422d5b5befbfeef85e8c3f2d5bef3f14162d154b214554d952) - _Hal \<hfinney@shell.portal.com\>_
     + 1994-08-22 (Sun, 21 Aug 94 18:48:56 PDT) - Re: In Search of Genuine DigiCash - _Jason W Solinsky \<solman@MIT.EDU\>_
+  + 1994-08-27 (Sat, 27 Aug 94 11:22:07 PDT) - [In Search of Genuine DigiCash](/archive/1994/08/a94a34ea3c2f0fa4b2f1f141a09917df14ce0bb616d4408d64549e73c5534d94) - _hughes@ah.com (Eric Hughes)_
 

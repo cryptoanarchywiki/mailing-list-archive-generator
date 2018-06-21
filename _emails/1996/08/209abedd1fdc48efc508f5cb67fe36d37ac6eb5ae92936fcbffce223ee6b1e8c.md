@@ -61,4 +61,5 @@ time one wastes.
 + 1996-08-16 (Fri, 16 Aug 1996 16:24:32 +0800) - [implausible defenses & tax havens](/archive/1996/08/0a1747cbb1a3bcbc1ed337be94216710af9ecee3e7260c5ab55bf3a96d387750) - _Greg Broiles \<gbroiles@netbox.com\>_
   + 1996-08-16 (Fri, 16 Aug 1996 20:52:13 +0800) - Re: implausible defenses & tax havens - _ichudov@algebra.com (Igor Chudov @ home)_
     + 1996-08-17 (Sat, 17 Aug 1996 09:18:42 +0800) - [Re: implausible defenses & tax havens](/archive/1996/08/bfa9c1104e59a9f5cdf518f3dd2bd397250762f1e2e745de32f441232e1366c5) - _Alan Horowitz \<alanh@infi.net\>_
+  + 1996-08-16 (Sat, 17 Aug 1996 07:48:28 +0800) - [Re: implausible defenses & tax havens](/archive/1996/08/b18de2b5ebfd2d62eb057cab5b3fe803b77285e89d93f494d1552d37e98341d1) - _Alan Horowitz \<alanh@infi.net\>_
 

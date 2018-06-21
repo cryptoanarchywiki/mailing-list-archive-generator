@@ -64,7 +64,9 @@ even 40-bit RC4, and maybe not even for rot13.
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
++ Return to [March 1996](/archive/1996/03)
 
 + 1996-02-29 (Fri, 1 Mar 1996 05:58:03 +0800) - Re: S/MIME outside the US? - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1996-02-29 (Fri, 1 Mar 1996 03:55:19 +0800) - [Re: S/MIME outside the US?](/archive/1996/02/da962a74e6aae2cb12df686ecddba06f48b0734e902a0f793a5dc5813e64ec23) - _lmccarth@cs.umass.edu_
+  + 1996-03-09 (Sun, 10 Mar 1996 01:36:22 +0800) - [Re: S/MIME outside the US?](/archive/1996/03/d68b67f8d7408db8195658ac708777a9c43d47d423e2e8b7cc4817b3a1444241) - _Peng-chiew Low \<pclow@pc.jaring.my\>_
 

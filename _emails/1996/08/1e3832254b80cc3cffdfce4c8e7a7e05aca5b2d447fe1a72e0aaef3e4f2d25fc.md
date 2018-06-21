@@ -67,4 +67,5 @@ igor
 + 1996-08-05 (Tue, 6 Aug 1996 05:46:10 +0800) - Integrating PGP 3.0 Library with INN - _ichudov@galaxy.galstar.com (Igor Chudov)_
   + 1996-08-05 (Tue, 6 Aug 1996 07:22:42 +0800) - [Re: Integrating PGP 3.0 Library with INN](/archive/1996/08/7232c30946d5ce2f03c0a8c087f2e434d602ab7cf2cce6425417d9bfcc2d2265) - _Adam Shostack \<adam@homeport.org\>_
     + 1996-08-06 (Tue, 6 Aug 1996 14:38:46 +0800) - [Re: Integrating PGP 3.0 Library with INN](/archive/1996/08/a75ab56c68657ece2bb0e23ab358cb85f14bbd1e22cc8567f870134d7b78ec08) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+  + 1996-08-06 (Wed, 7 Aug 1996 06:59:35 +0800) - [Re: Integrating PGP 3.0 Library with INN](/archive/1996/08/28ceb5885f35b065c86593d4bf48625eb53084b67949f8b8abf746a6fc017d15) - _Alan Barrett \<apb@iafrica.com\>_
 

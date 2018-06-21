@@ -124,4 +124,5 @@ FAQ & PGP key: nsb+faq@nsb.fv.com
 
 + 1996-01-30 (Wed, 31 Jan 1996 00:40:53 +0800) - [re: FV Demonstrates Fatal Flaw in Software Encryption of Credit Cards](/archive/1996/01/83e34157bb56185d04c6470b2f2de9e9715ea67b8418ef80c76aa77db58f396d) - _eric@remailer.net (Eric Hughes)_
   + 1996-01-30 (Tue, 30 Jan 1996 21:55:21 +0800) - Re: FV Demonstrates Fatal Flaw in Software Encryption of Credit Cards - _Nathaniel Borenstein \<nsb@nsb.fv.com\>_
+  + 1996-01-30 (Wed, 31 Jan 1996 01:46:52 +0800) - [Re: FV Demonstrates Fatal Flaw in Software Encryption of Credit Cards](/archive/1996/01/893a2d21d7f04ba7883113dcd33daceade39e0940231fb0a650b542db66f4757) - _"Paul M. Cardon" \<pmarc@fnbc.com\>_
 

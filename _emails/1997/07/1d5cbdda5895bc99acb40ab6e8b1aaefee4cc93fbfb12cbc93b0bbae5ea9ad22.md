@@ -131,4 +131,5 @@ Higher Power: 2^1398269     | black markets, collapse of governments.
 + 1997-07-23 (Thu, 24 Jul 1997 00:26:18 +0800) - [Re: IRS sending warning notes, violating ECPA?](/archive/1997/07/f453403dc995eaf0d1b6949c14eaefcb7d2f29c63f427978221461858404e1a2) - _Ryan Lackey \<rdl@mit.edu\>_
   + 1997-07-23 (Thu, 24 Jul 1997 01:04:03 +0800) - Re: IRS sending warning notes, violating ECPA? - _Tim May \<tcmay@got.net\>_
     + 1997-07-23 (Thu, 24 Jul 1997 07:37:55 +0800) - [Re: IRS sending warning notes, violating ECPA?](/archive/1997/07/12d1e158d0356a22dd5fdbd1d7d40187e90589e7305d629b6e65fad41cbd186d) - _Alan \<alan@ctrl-alt-del.com\>_
+  + 1997-07-23 (Thu, 24 Jul 1997 02:19:28 +0800) - [os9?? for security??](/archive/1997/07/305d6fa3a93e8207d6a5968f9a1fd79920be63d7fbec3e5d174f4f0a0284c911) - _David Yaffe \<straightedge.dave@sk.sympatico.ca\>_
 

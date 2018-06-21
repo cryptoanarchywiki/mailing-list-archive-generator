@@ -57,4 +57,6 @@ going to be Comanche...
 
 + 1997-11-14 (Fri, 14 Nov 1997 13:19:02 +0800) - Re: [OB: CRYTO] Re: about RC4 - _nobody@REPLAY.COM (Anonymous)_
   + 1997-11-14 (Fri, 14 Nov 1997 14:50:02 +0800) - [Re: [OB: CRYTO] Re: about RC4](/archive/1997/11/362530785f2544eaeaf7e00edae3edd5ff0de2fe0e837ad1decc09189aa0e21d) - _Ryan Anderson \<ryan@michonline.com\>_
+  + 1997-11-14 (Fri, 14 Nov 1997 15:40:43 +0800) - [Navajo Code Talkers](/archive/1997/11/78feff6a2ba663e8d47b8d4e6d395f6d2a79a82a4edf1f317d2fc0b6b2e67b5e) - _Tim May \<tcmay@got.net\>_
+    + 1997-11-14 (Sat, 15 Nov 1997 01:46:08 +0800) - [Re: Navajo Code Talkers](/archive/1997/11/6498fcfb0ec480218a8873827c07bd21e1a8fb5b78a483008d017d79e235171f) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 

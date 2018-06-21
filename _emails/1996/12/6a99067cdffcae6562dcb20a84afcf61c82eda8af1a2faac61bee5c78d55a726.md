@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+# 1996-12-11 - Re: IPG Algorith Broken!
+
+## Header Data
+
+From: ichudov@algebra.com (Igor Chudov @ home)<br>
+To: wichita@cyberstation.net<br>
+Message Hash: 6a99067cdffcae6562dcb20a84afcf61c82eda8af1a2faac61bee5c78d55a726<br>
+Message ID: \<199612111612.KAA00999@manifold.algebra.com\><br>
+Reply To: \<Pine.BSI.3.95.961211013254.11832B-100000@citrine.cyberstation.net\><br>
+UTC Datetime: 1996-12-11 16:19:14 UTC<br>
+Raw Date: Wed, 11 Dec 1996 08:19:14 -0800 (PST)<br>
+
+## Raw message
+
+```
+{% raw  %}From: ichudov@algebra.com (Igor Chudov @ home)
+Date: Wed, 11 Dec 1996 08:19:14 -0800 (PST)
+To: wichita@cyberstation.net
+Subject: Re: IPG Algorith Broken!
+In-Reply-To: <Pine.BSI.3.95.961211013254.11832B-100000@citrine.cyberstation.net>
+Message-ID: <199612111612.KAA00999@manifold.algebra.com>
+MIME-Version: 1.0
+Content-Type: text
+
+
+wichita@cyberstation.net wrote:
+> This is just another example or more pendant pap. Obviously, you like
+> Paul, do not know what you are talking about. You have read some
+> textbooks and think that makes you are an expert. I suggest that you take
+> some time off and learn some IT and what an OTP is. It most certainly is
+> not two identical random number series. 
+
+what is IT?
+
+	- Igor.
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [November 1996](/archive/1996/11)
++ Return to [December 1996](/archive/1996/12)
+
++ 1996-11-26 (Tue, 26 Nov 1996 09:48:41 -0800 (PST)) - [Re: IPG Algorith Broken!](/archive/1996/11/d35155e75553bd0fae22f81093d32ecbfa526db849b2e5b63f6b852004caf279) - _paul@fatmans.demon.co.uk_
+  + 1996-11-30 (Sat, 30 Nov 1996 01:57:21 -0800 (PST)) - [Re: IPG Algorith Broken!](/archive/1996/11/4cd2e7c4d4a2c352a8231ddfdb33fe013f218cc176607dd7fea3df5e9bb71a0b) - _wichita@cyberstation.net_
+    + 1996-11-30 (Sat, 30 Nov 1996 08:10:52 -0800 (PST)) - [Re: IPG Algorith Broken!](/archive/1996/11/869d7f3475c871039f75a952f14aeefdf1b777580ec53895282ba38af4c5bc0a) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+    + 1996-12-01 (Sat, 30 Nov 1996 22:19:24 -0800 (PST)) - [Re: IPG Algorith Broken!](/archive/1996/12/d85205ec3178e88d272c437104f1af86da47f680a4b8ad146249352faf323b37) - _The Deviant \<deviant@pooh-corner.com\>_
+      + 1996-12-11 (Tue, 10 Dec 1996 23:49:22 -0800 (PST)) - [Re: IPG Algorith Broken!](/archive/1996/12/0ade03c065e34c30032b5a367fcce30b74b0c0b6ca1294c09cd1ec4ad5ba977d) - _wichita@cyberstation.net_
+        + 1996-12-11 (Wed, 11 Dec 1996 08:19:14 -0800 (PST)) - Re: IPG Algorith Broken! - _ichudov@algebra.com (Igor Chudov @ home)_
+

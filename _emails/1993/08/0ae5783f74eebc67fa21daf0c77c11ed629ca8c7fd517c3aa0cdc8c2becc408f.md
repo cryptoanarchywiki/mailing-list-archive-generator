@@ -194,4 +194,5 @@ hfinney@shell.portal.com
 
 + 1993-08-23 (Mon, 23 Aug 93 10:36:21 PDT) - Attacks on remailers - _hfinney@shell.portal.com_
   + 1993-08-23 (Mon, 23 Aug 93 14:51:39 PDT) - [Re: Attacks on remailers](/archive/1993/08/067661ade8d388ab8e2a464ebe2ad342ee3e93c744e28c9249e377160eeb13f9) - _cme@ellisun.sw.stratus.com (Carl Ellison)_
+  + 1993-08-23 (Mon, 23 Aug 93 15:01:39 PDT) - [Re: Attacks on remailers](/archive/1993/08/1af1806df231a804857c91f2782df8ba0b404652403c82a22f542c539e15ce1d) - _cme@ellisun.sw.stratus.com (Carl Ellison)_
 

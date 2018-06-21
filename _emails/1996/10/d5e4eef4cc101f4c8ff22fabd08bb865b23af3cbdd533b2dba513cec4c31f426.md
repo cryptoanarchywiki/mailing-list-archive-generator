@@ -59,4 +59,5 @@ Talking much about oneself can also be a means to conceal oneself.
 
 + 1996-10-06 (Sun, 6 Oct 1996 15:02:48 +0800) - [Re: RSA's Official Permission](/archive/1996/10/709c037d90a22ca9020f619083f314925e132bfbbf159c7a70027ea8f45f57df) - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1996-10-06 (Mon, 7 Oct 1996 03:44:24 +0800) - Re: RSA's Official Permission - _The Deviant \<deviant@pooh-corner.com\>_
+  + 1996-10-06 (Mon, 7 Oct 1996 05:06:02 +0800) - [Re: RSA's Official Permission](/archive/1996/10/175a49795a7820eb366baac2de7cf9de17691aef542bd802aec4d8ed9f5b2ff2) - _"Timothy C. May" \<tcmay@got.net\>_
 

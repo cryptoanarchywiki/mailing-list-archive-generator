@@ -49,4 +49,5 @@ Perry
 
 + 1994-05-26 (Thu, 26 May 94 06:45:07 PDT) - [Re: IBM's NetSP](/archive/1994/05/3758c430951790e5cf82f9b5f2fbba83cb47db5386ce4f4e3ce98246017e4da4) - _habs@warwick.com (Harry S. Hawk)_
   + 1994-05-26 (Thu, 26 May 94 07:07:27 PDT) - Re: IBM's NetSP - _"Perry E. Metzger" \<perry@imsi.com\>_
+  + 1994-05-26 (Thu, 26 May 94 08:30:00 PDT) - [Re: IBM's NetSP](/archive/1994/05/81eb6017b18c02168e176443c58a53ac1c84c4fb93a209e994c9d30887d4a00c) - _Linn Stanton \<lstanton@sten.lehman.com\>_
 

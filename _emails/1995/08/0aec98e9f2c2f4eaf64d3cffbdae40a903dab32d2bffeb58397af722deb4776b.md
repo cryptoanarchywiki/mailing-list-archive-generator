@@ -57,4 +57,5 @@ have a second, stronger algorithm specified mandatory as well.
 + 1995-08-10 (Thu, 10 Aug 95 05:48:09 PDT) - Why DES in IPSEC ESP? - _Andy Brown \<asb@nexor.co.uk\>_
   + 1995-08-10 (Thu, 10 Aug 95 06:28:38 PDT) - [Re: Why DES in IPSEC ESP?](/archive/1995/08/85304e426179488f488e5d7cf3bd4b2b216dd99143b5e2b00a36705ce26979e6) - _Adam Shostack \<adam@bwh.harvard.edu\>_
     + 1995-08-10 (Thu, 10 Aug 95 08:25:44 PDT) - [Re: Why DES in IPSEC ESP?](/archive/1995/08/c0775ec1e3891807f036ff86755e363bbb40f1db1cc9ba28be8b7c3044f8977d) - _"Perry E. Metzger" \<perry@panix.com\>_
+  + 1995-08-10 (Thu, 10 Aug 95 08:26:57 PDT) - [Re: Why DES in IPSEC ESP?](/archive/1995/08/18d8c51f6465caa991bf1ed54d5964dc0d963c2c223caf68b9041f92e5224cbc) - _"Perry E. Metzger" \<perry@panix.com\>_
 

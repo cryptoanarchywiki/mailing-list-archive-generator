@@ -71,4 +71,6 @@ Higher Power: 2^756839 - 1  | black markets, collapse of governments.
 
 + 1996-01-09 (Wed, 10 Jan 1996 03:56:12 +0800) - Don't type: "g**d t*m*s v*r*s" - _tcmay@got.net (Timothy C. May)_
   + 1996-01-10 (Thu, 11 Jan 1996 00:16:26 +0800) - [Re: Don't type: "g**d t*m*s v*r*s"](/archive/1996/01/8e30a2e9f664d383b7c92896c0f61c898c5db16021edd588297a96e4ecf5fd5c) - _Kent Dahlgren \<kent@trouble.WV.TEK.COM\>_
+  + 1996-01-10 (Wed, 10 Jan 96 08:56:34 PST) - [Re: Don't type: "g**d t*m*s v*r*s"](/archive/1996/01/d7c2355ac25fa84474621f2826bace3b4e87c1c4e021dba6fea024dfc3328c28) - _abostick@netcom.com (Alan Bostick)_
+    + 1996-01-10 (Thu, 11 Jan 1996 04:40:03 +0800) - [Re: Don't type: "g**d t*m*s v*r*s"](/archive/1996/01/8495dae2d358f3f6536ee6d55d6f1198cbea3fcc216240223f02bce3e5356adf) - _sameer \<sameer@c2.org\>_
 

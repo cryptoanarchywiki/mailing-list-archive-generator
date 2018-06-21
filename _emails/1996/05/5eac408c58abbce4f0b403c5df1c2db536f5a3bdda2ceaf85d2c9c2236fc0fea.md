@@ -65,4 +65,5 @@ On Wed, 22 May 1996, Simon Spero wrote:
 + 1996-05-23 (Thu, 23 May 1996 11:21:26 +0800) - [Number one story on CNN this hour.](/archive/1996/05/394e76e555c91c328829d59afc9bee7e01208f11cd7b650cf64e69e4af55372f) - _"Alan B. Clegg" \<abc@gateway.com\>_
   + 1996-05-23 (Thu, 23 May 1996 14:53:45 +0800) - [Re: Number one story on CNN this hour.](/archive/1996/05/3ac6be36405dd6a76d309a5b0e68ff7ce3a6a370379f4138caafffcc698276d7) - _Simon Spero \<ses@tipper.oit.unc.edu\>_
     + 1996-05-23 (Fri, 24 May 1996 02:46:54 +0800) - Re: Number one story on CNN this hour. - _Arley Carter \<ac@hawk.twinds.com\>_
+    + 1996-05-23 (Fri, 24 May 1996 06:07:25 +0800) - [Re: Number one story on CNN this hour.](/archive/1996/05/b8a60cb47a10ad077fcde878f6fd48e078e6d40922e00fc17a772660c1685858) - _brian dodds \<jyacc!aspen!bdodds@uunet.uu.net\>_
 

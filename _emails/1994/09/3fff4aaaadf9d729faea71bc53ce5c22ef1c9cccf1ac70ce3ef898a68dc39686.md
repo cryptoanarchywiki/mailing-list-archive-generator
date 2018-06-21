@@ -474,4 +474,7 @@ Blame this very long post on Kent - j.hastings6@genie.geis.com
   + 1994-09-01 (Thu, 1 Sep 94 06:05:51 PDT) - [Re: State Declaration of Ind.](/archive/1994/09/2a782b86fbb51981cc66c78af89360f9210033c86290f5987b2e95d3b7b10c40) - _Jim choate \<ravage@bga.com\>_
     + 1994-09-02 (Thu, 1 Sep 94 22:06:30 PDT) - [Re: State Declaration of Ind.](/archive/1994/09/62e128476b7e22031201065608ca344edfd729e66ad48b08ee2a345ff897972f) - _roy@sendai.cybrspc.mn.org (Roy M. Silvernail)_
       + 1994-09-02 (Thu, 1 Sep 94 23:51:30 PDT) - [Re: State Declaration of Ind.](/archive/1994/09/509f595fc91d39ec5a73b208a88640d50d3b72eb6fba11896811103ac7dc2249) - _cactus@bb.com (L. Todd Masco)_
+      + 1994-09-02 (Fri, 2 Sep 94 12:22:01 PDT) - [Re: State Declaration of Ind.](/archive/1994/09/c08079d4394dd468d30b9685fc43e5d07f6b6cb732648878169cee46f64d2b54) - _jamesd@netcom.com (James A. Donald)_
+        + 1994-09-02 (Fri, 2 Sep 94 13:21:08 PDT) - [Re: State Declaration of Ind.](/archive/1994/09/8a84cd2adb52efd88f0c8e3744f1ec0d0ac378a4acb9c285f4b423b8e43d32af) - _Jim choate \<ravage@bga.com\>_
+          + 1994-09-02 (Fri, 2 Sep 94 16:59:29 PDT) - [Re: State Declaration of Ind.](/archive/1994/09/1411289c088352bce38a11c957f1244d6df9192b247b872f4fc7041adaf21a8f) - _jamesd@netcom.com (James A. Donald)_
 

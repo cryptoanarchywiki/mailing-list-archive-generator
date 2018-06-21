@@ -121,4 +121,5 @@ Message-ID: <iHJNNc7w165w@stat.com>
 + 1994-06-13 (Mon, 13 Jun 94 10:18:15 PDT) - DNA - _Mats Bergstrom \<matsb@sos.sll.se\>_
   + 1994-06-13 (Mon, 13 Jun 94 11:19:36 PDT) - [Re: DNA](/archive/1994/06/1892cc6ba211b1a1d14909a13f7158df28790478534c4f4ad934de63ca40692e) - _Duncan Frissell \<frissell@panix.com\>_
     + 1994-06-14 (Mon, 13 Jun 94 18:58:33 PDT) - [Re: DNA](/archive/1994/06/64bc1c4f179921e66a97cc2558e44204611d830b9ee110e64a9ac83bcab495ed) - _Mats Bergstrom \<matsb@sos.sll.se\>_
+  + 1994-06-14 (Tue, 14 Jun 94 06:31:15 PDT) - [Re: DNA](/archive/1994/06/b5a975c0b69e1324946f476d6a2d1ecba47a92a1531a78193326c47573f40639) - _Jennifer Mansfield-Jones \<cardtris@umich.edu\>_
 

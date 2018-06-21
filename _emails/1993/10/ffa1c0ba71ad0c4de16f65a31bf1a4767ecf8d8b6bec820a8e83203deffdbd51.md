@@ -74,4 +74,6 @@ get messages like:
   + 1993-10-23 (Sat, 23 Oct 93 11:43:06 PDT) - [Re: Warning about exposing anon id](/archive/1993/10/53aeeb10a3d1e6b5ed5b4613bd2cc3747fbacade8dd4e26b38698164ad21d983) - _Matt Blaze \<mab@crypto.com\>_
     + 1993-10-23 (Sat, 23 Oct 93 12:08:26 PDT) - Re: Warning about exposing anon id - _Johan Helsingius \<julf@penet.fi\>_
       + 1993-10-23 (Sat, 23 Oct 93 12:28:26 PDT) - [Re: Warning about exposing anon id](/archive/1993/10/1c3a3efe726439854ceaf74cbe9c8086c28bf70b365569df0c2ad91620050ca8) - _Matt Blaze \<mab@crypto.com\>_
+    + 1993-10-23 (Sat, 23 Oct 93 12:18:26 PDT) - [Re: Warning about exposing anon id](/archive/1993/10/e7d37bb14ced0e7e236dc8e8d39af004f4136bcb1c15c81891f4f7253f913ae6) - _Alan Barrett \<barrett@daisy.ee.und.ac.za\>_
+    + 1993-10-23 (Sat, 23 Oct 93 14:38:27 PDT) - [Re: Warning about exposing anon id](/archive/1993/10/3261432cc4fe076460e07b2b09443c69aa494ecd509afedb5093748d9d5f8ae5) - _Eli Brandt \<ebrandt@jarthur.Claremont.EDU\>_
 

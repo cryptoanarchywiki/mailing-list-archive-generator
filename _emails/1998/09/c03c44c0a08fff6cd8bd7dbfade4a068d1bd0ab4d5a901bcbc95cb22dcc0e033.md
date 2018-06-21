@@ -76,4 +76,5 @@ forces.
 + 1998-09-30 (Wed, 30 Sep 1998 17:27:36 +0800) - RE: GPL & commercial software, the critical distinction (fwd) - _Matthew James Gering \<mgering@ecosystems.net\>_
   + 1998-10-01 (Thu, 1 Oct 1998 14:18:56 +0800) - [RE: GPL & commercial software, the critical distinction (fwd)](/archive/1998/10/e3848e5dd65826fc7f04412471d4bc8d42189f74a7f0d5069bef3db61a917978) - _Petro \<petro@playboy.com\>_
     + 1998-10-01 (Thu, 1 Oct 1998 15:41:17 +0800) - [copyright at the point of a gun](/archive/1998/10/f9e8406557ed229374939209ae46f76d6330e3921fbb7827082e46e59d251a48) - _Adam Back \<aba@dcs.ex.ac.uk\>_
+  + 1998-10-04 (Sun, 4 Oct 1998 12:13:11 +0800) - [RE: GPL & commercial software, the critical distinction (fwd)](/archive/1998/10/680b93a8d41b4e6f4786efbaeb607a895b9b80d3f7358d14887842f75afa9bd1) - _pjm@spe.com_
 

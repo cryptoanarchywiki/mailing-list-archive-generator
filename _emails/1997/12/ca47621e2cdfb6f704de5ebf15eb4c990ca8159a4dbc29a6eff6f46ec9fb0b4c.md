@@ -1,0 +1,90 @@
+---
+layout: default
+---
+
+# 1997-12-04 - Re: Superdistribution development/release
+
+## Header Data
+
+From: "William H. Geiger III" \<whgiii@invweb.net\><br>
+To: Robert Hettinga \<rah@shipwright.com\><br>
+Message Hash: ca47621e2cdfb6f704de5ebf15eb4c990ca8159a4dbc29a6eff6f46ec9fb0b4c<br>
+Message ID: \<199712040255.VAA24642@users.invweb.net\><br>
+Reply To: \<v04002712b0aba8bd0101@[204.134.5.28]\><br>
+UTC Datetime: 1997-12-04 03:04:54 UTC<br>
+Raw Date: Thu, 4 Dec 1997 11:04:54 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: "William H. Geiger III" <whgiii@invweb.net>
+Date: Thu, 4 Dec 1997 11:04:54 +0800
+To: Robert Hettinga <rah@shipwright.com>
+Subject: Re: Superdistribution development/release
+In-Reply-To: <v04002712b0aba8bd0101@[204.134.5.28]>
+Message-ID: <199712040255.VAA24642@users.invweb.net>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+
+-----BEGIN PGP SIGNED MESSAGE-----
+
+In <v04002712b0aba8bd0101@[204.134.5.28]>, on 12/03/97 
+   at 07:27 PM, Robert Hettinga <rah@shipwright.com> said:
+
+>It is never left
+>decrypted and exposed even while it is being viewed.
+
+LOL!! I guess they require the use of that crypto-crainial inplant.
+
+- -- 
+- ---------------------------------------------------------------
+William H. Geiger III  http://users.invweb.net/~whgiii
+Geiger Consulting    Cooking With Warp 4.0
+
+Author of E-Secure - PGP Front End for MR/2 Ice
+PGP & MR/2 the only way for secure e-mail.
+OS/2 PGP 2.6.3a at: http://users.invweb.net/~whgiii/pgpmr2.html                        
+- ---------------------------------------------------------------
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.3a-sha1
+Charset: cp850
+Comment: Registered_User_E-Secure_v1.1b1_ES000000
+
+iQCVAwUBNIYbSo9Co1n+aLhhAQJSYAP8CXf75V38EUy8+gwKPfrWoz6YcxpZzf1b
+Vu32s8C0RkfGhv7QgG0h1f1mfsp5R+QuuLaDPG/XaKI3sgnPjRxRQVngBIjXaQ9V
+wIQr+M/jM9ZhFzKLv+yTcWVkmwFAHAZXYSf43cPwOkd9SoclAVO8VNaU3Db2hIua
+zqhfjlk2oos=
+=mNsr
+-----END PGP SIGNATURE-----
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [December 1997](/archive/1997/12)
+
++ 1997-12-04 (Thu, 4 Dec 1997 08:44:04 +0800) - [Superdistribution development/release](/archive/1997/12/5fe46f2920147b67bfbcb4c20944c7629db06d26617eda1e1e27157d6293649c) - _Robert Hettinga \<rah@shipwright.com\>_
+  + 1997-12-04 (Thu, 4 Dec 1997 10:38:55 +0800) - [Re: Superdistribution development/release](/archive/1997/12/b90834d9aae727a27caf9f40ca2314eb9e8ff33de4cbd4ebb6dd16454f9900b4) - _Declan McCullagh \<declan@well.com\>_
+    + 1997-12-04 (Thu, 4 Dec 1997 11:13:16 +0800) - [Re: Superdistribution development/release](/archive/1997/12/9020965ab2d839820ba8c116a0f6a1cbe4bb2e3139e1f39dba1aa745d04560fb) - _"Brian W. Buchanan" \<brian@smarter.than.nu\>_
+      + 1997-12-05 (Fri, 5 Dec 1997 14:06:46 +0800) - [Re: Superdistribution development/release](/archive/1997/12/6e94620e6f3e08cf70a555f996c9a004426370b7175f8f4c7e1aa3b0fddddb23) - _Bill Frantz \<frantz@netcom.com\>_
+    + 1997-12-04 (Thu, 4 Dec 1997 11:35:35 +0800) - [Unbreakable Encryption / Re: Superdistribution development/release](/archive/1997/12/5670f386d78ff251382a9464843517624617f7ae249a41d8675853201b72fa7d) - _TruthMonger \<tm@dev.null\>_
+    + 1997-12-04 (Fri, 5 Dec 1997 07:13:36 +0800) - [Re: Superdistribution development/release](/archive/1997/12/0eda752928e8d06e6f594ee8cdfbc46bcf88a02856b9e4b4d69c075041e3440d) - _stewarts@ix.netcom.com_
+  + 1997-12-04 (Thu, 4 Dec 1997 11:04:54 +0800) - Re: Superdistribution development/release - _"William H. Geiger III" \<whgiii@invweb.net\>_
+  + 1997-12-04 (Thu, 4 Dec 1997 12:17:02 +0800) - [Re: Superdistribution development/release](/archive/1997/12/2374727993cc05a156c2dab02494c05ca99f29c0133373679f51b7a32ce410de) - _Jonathan Wienke \<JonWienk@ix.netcom.com\>_
+    + 1997-12-04 (Thu, 4 Dec 1997 13:29:07 +0800) - [Re: Superdistribution development/release](/archive/1997/12/e8169389fe20b356d0e0980a9f6803aafe6a1abe9765ed93c3e187b74d268b9f) - _"William H. Geiger III" \<whgiii@invweb.net\>_
+      + 1997-12-04 (Thu, 4 Dec 1997 14:04:33 +0800) - [Re: Superdistribution development/release](/archive/1997/12/c937e5ebbeaf8b7a9383a68623bdad3b6fad65d05d2abba10c9e020954ec9e86) - _"Brian W. Buchanan" \<brian@smarter.than.nu\>_
+        + 1997-12-04 (Thu, 4 Dec 1997 15:15:18 +0800) - [Re: Superdistribution development/release](/archive/1997/12/58af00d15019d5bd9deebbcdd3d4ff13687b25e01eab81498716c892de58a993) - _"William H. Geiger III" \<whgiii@invweb.net\>_
+        + 1997-12-05 (Fri, 5 Dec 1997 11:11:00 +0800) - [Re: Superdistribution development/release](/archive/1997/12/bd2aa8050217d1498740d7c2be0b5b40afc6fdbbab0034d021aa4adf79beb3e8) - _stewarts@ix.netcom.com_
+  + 1997-12-04 (Thu, 4 Dec 1997 12:17:57 +0800) - [Re: Superdistribution development/release](/archive/1997/12/773ab43b780646e3c8e01ba8e962b0cb08ef13310b01e0843437e737eb3d8c35) - _Lucky Green \<shamrock@cypherpunks.to\>_
+    + 1997-12-07 (Sun, 7 Dec 1997 08:23:07 +0800) - [Re: Superdistribution development/release](/archive/1997/12/01627e2fe648385d5cef6969f182ee95512cba5b4b72346f09587aca45d58d6f) - _Rabid Wombat \<wombat@mcfeely.bsfs.org\>_
+    + 1997-12-07 (Mon, 8 Dec 1997 01:29:15 +0800) - [Re: Superdistribution development/release](/archive/1997/12/eba7bf7491dc085c55b8d840c320020dd28f46be59ef637705edf074c9a89852) - _Robert Hettinga \<rah@shipwright.com\>_
+  + 1997-12-04 (Fri, 5 Dec 1997 02:08:10 +0800) - [Re: Superdistribution development/release](/archive/1997/12/d0936a83d3de633ddd3b4ae0770ee97dc462ff41d2779297c927515d515d3b79) - _Steve Schear \<schear@lvdi.net\>_
+

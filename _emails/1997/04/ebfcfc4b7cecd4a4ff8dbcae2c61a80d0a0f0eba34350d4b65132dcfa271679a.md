@@ -76,4 +76,7 @@ DigiCash or any other person or organization.  No PGP sig follows.
 
 + 1997-04-08 (Tue, 8 Apr 1997 02:15:12 -0700 (PDT)) - [some arguments for privacy](/archive/1997/04/57ce0381cb88661ded041390c8be4dca80c6688f6c4c1f06f3ba0f159af3c35f) - _Wei Dai \<weidai@eskimo.com\>_
   + 1997-04-08 (Tue, 8 Apr 1997 03:14:14 -0700 (PDT)) - Re: some arguments for privacy - _Bryce \<bryce@digicash.com\>_
+  + 1997-04-08 (Tue, 8 Apr 1997 04:01:25 -0700 (PDT)) - [Re: some arguments for privacy](/archive/1997/04/819c2c5ea344876b883861781da28f53a6da11ad0d1ebda6dd464c7e9f0a35ee) - _Greg Broiles \<gbroiles@netbox.com\>_
+    + 1997-04-09 (Tue, 8 Apr 1997 18:52:25 -0700 (PDT)) - [Re: some arguments for privacy](/archive/1997/04/7ca2dc3f276c03da763a5a01c4480077f71a52c338e4fc00874814498df59ada) - _Wei Dai \<weidai@eskimo.com\>_
+  + 1997-04-09 (Tue, 8 Apr 1997 21:22:54 -0700 (PDT)) - [Re: some arguments for privacy](/archive/1997/04/bfe4e1de20f58a4af0cf072fca281d84723204b1d65cff1fe5c25ab422834432) - _Bill Frantz \<frantz@netcom.com\>_
 

@@ -59,4 +59,5 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 
 + 1996-03-10 (Sun, 10 Mar 1996 14:31:52 +0800) - [Re: Petty Civil Disobedience](/archive/1996/03/4be021dbcaacd51d99f9cd21a43332e1fae84fe13775dc8c44b212fff5fc79b1) - _jamesd@echeque.com_
   + 1996-03-10 (Mon, 11 Mar 1996 00:10:31 +0800) - Re: Petty Civil Disobedience - _dlv@bwalk.dm.com (Dr. Dimitri Vulis)_
+  + 1996-03-11 (Tue, 12 Mar 1996 04:17:45 +0800) - [Re: Petty Civil Disobedience](/archive/1996/03/c1134dd92f796f84f178b2666400cebeb6327c19ed68bcc72a27f62ac6c9302e) - _"Declan B. McCullagh" \<declan+@CMU.EDU\>_
 

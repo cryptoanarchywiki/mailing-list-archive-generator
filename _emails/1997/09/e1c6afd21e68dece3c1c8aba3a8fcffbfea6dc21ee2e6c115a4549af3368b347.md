@@ -88,4 +88,5 @@ criminalistic days..
 
 + 1997-09-09 (Wed, 10 Sep 1997 04:50:17 +0800) - [Credit Card might-as-well-equal SSN](/archive/1997/09/ef8a979a92b72a53d50af8b6e6d51448692a7441df328b1eae7d4cc0ec0e93f7) - _Robert Hettinga \<rah@shipwright.com\>_
   + 1997-09-10 (Wed, 10 Sep 1997 08:07:12 +0800) - Re: Credit Card might-as-well-equal SSN - _nobody@REPLAY.COM (Anonymous)_
+  + 1997-09-11 (Thu, 11 Sep 1997 10:25:08 +0800) - [Re: Credit Card might-as-well-equal SSN](/archive/1997/09/29d734ff0e02f46e5ac418d6a4a14d08b435879455778c94156186691cb5fcae) - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

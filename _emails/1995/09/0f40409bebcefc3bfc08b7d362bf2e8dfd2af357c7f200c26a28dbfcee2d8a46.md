@@ -69,4 +69,5 @@ andrew
 + 1995-09-08 (Fri, 8 Sep 95 09:55:01 PDT) - Re: Scientology tries to break PGP - and fails? - _Andrew Loewenstern \<andrew_loewenstern@il.us.swissbank.com\>_
   + 1995-09-09 (Fri, 8 Sep 95 17:45:44 PDT) - [Re: Scientology tries to break PGP - and fails?](/archive/1995/09/5645d7a3f7962851f503e71e7938426ec7e1b8b2308b829e220c774a289f97af) - _adwestro@ouray.cudenver.edu (Alan Westrope)_
     + 1995-09-13 (Wed, 13 Sep 95 16:20:57 PDT) - [Re: Scientology tries to break PGP - and fails?](/archive/1995/09/95e3aed2327b40118b94ab267c2660b95220dc02633f784776dfa93eed357b90) - _Black Unicorn \<unicorn@polaris.mindport.net\>_
+  + 1995-09-09 (Sat, 9 Sep 95 01:46:19 PDT) - [Re: Scientology tries to break PGP - and fails?](/archive/1995/09/853ca65bf93f119777942ac6dded14a63a20c5af7751f1cabe49e1d7c27d1697) - _cypherpunks@toad.com_
 

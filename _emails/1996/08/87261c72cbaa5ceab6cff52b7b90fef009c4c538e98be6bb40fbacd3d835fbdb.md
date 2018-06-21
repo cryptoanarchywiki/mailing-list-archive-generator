@@ -49,4 +49,5 @@ chant a mantra too, if it makes you feel better.
 
 + 1996-08-16 (Fri, 16 Aug 1996 11:12:33 +0800) - Re: Stealth Buildings Was Re: "X-Ray Gun" for imperceptible searches - _Alan Horowitz \<alanh@infi.net\>_
   + 1996-08-16 (Fri, 16 Aug 1996 14:21:27 +0800) - [Re: Stealth Buildings Was Re: "X-Ray Gun" for imperceptible searches](/archive/1996/08/6506c340a488908f98f5fef7858e92377fed8bf9d8fa84de8565ff544eac6611) - _Kevin Stephenson \<cts@deltanet.com\>_
+  + 1996-08-16 (Sat, 17 Aug 1996 07:57:41 +0800) - [Re: Stealth Buildings Was Re: "X-Ray Gun" for imperceptible searches](/archive/1996/08/d79d1d6439af0c1cca2e0ecdccd441fe099552889eae3ba94e3e9f6de257580d) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 

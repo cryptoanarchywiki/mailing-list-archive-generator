@@ -298,4 +298,5 @@ experience." -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
 
 + 1998-10-31 (Sat, 31 Oct 1998 11:40:28 +0800) - [RRE]The Return of Antimasonism in American Political Life - _Robert Hettinga \<rah@shipwright.com\>_
   + 1998-10-31 (Sun, 1 Nov 1998 04:27:59 +0800) - [Re: [RRE]The Return of Antimasonism in American Political Life](/archive/1998/10/24e037fe676d3b6b3ee8ec14ac1d3bd21cb8c1d3c7b1b5e2f4e9b635d8a43d1b) - _"James A. Donald" \<jamesd@echeque.com\>_
+  + 1998-10-31 (Sun, 1 Nov 1998 07:43:58 +0800) - [Re: [RRE]The Return of Antimasonism in American Political Life](/archive/1998/10/248fd97258e8b65691e61df9715301dc54cb6dd91d8a6d84fc62694985d265ee) - _Tim May \<tcmay@got.net\>_
 

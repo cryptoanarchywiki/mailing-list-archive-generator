@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+# 1996-12-16 - Re: Securing ActiveX.
+
+## Header Data
+
+From: Nelson Minar \<nelson@media.mit.edu\><br>
+To: cypherpunks@toad.com<br>
+Message Hash: 51061f83731cb126b2ea4a3c7130c91aaffebdebde7ebde80bb5cfcba9051abe<br>
+Message ID: \<cpa7mmi2jsc.fsf@hattrick.media.mit.edu\><br>
+Reply To: \<Pine.SUN.3.91.961216123313.15110L-100000@beast.brainlink.com\><br>
+UTC Datetime: 1996-12-16 22:42:41 UTC<br>
+Raw Date: Mon, 16 Dec 1996 14:42:41 -0800 (PST)<br>
+
+## Raw message
+
+```
+{% raw  %}From: Nelson Minar <nelson@media.mit.edu>
+Date: Mon, 16 Dec 1996 14:42:41 -0800 (PST)
+To: cypherpunks@toad.com
+Subject: Re: Securing ActiveX.
+In-Reply-To: <Pine.SUN.3.91.961216123313.15110L-100000@beast.brainlink.com>
+Message-ID: <cpa7mmi2jsc.fsf@hattrick.media.mit.edu>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+On Sat, 14 Dec 1996 ichudov@algebra.com wrote:
+>I do not understand how one can secure ActiveX.
+
+Me neither! But the approach of requiring code signatures so you can
+at least break the fingers of whomever damaged your machine does have
+some merit.
+
+sunder@brainlink.com (Ray Arachelian) writes:
+> Simple.  Check out Windows NT, under NT you can write/run programs as 
+> services which log in as an account.  When you do this, that service 
+> program is limited to the security restrictions of that account.
+
+This is kind of like running servers in Unix as another user in a
+chrooted partition? That doesn't work, either.
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [December 1996](/archive/1996/12)
+
++ 1996-12-10 (Tue, 10 Dec 1996 08:23:56 -0800 (PST)) - [Java DES breaker?](/archive/1996/12/b0b36153be219450127e5ebfab3472cfe09ad7e0b24c336b3d2230795ae4f5d5) - _Ray Arachelian \<sunder@brainlink.com\>_
+  + 1996-12-11 (Tue, 10 Dec 1996 23:37:51 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/a9da789c68c8f0865b718c77ac1d56efdeedef650a50067718684b26ab8fee9e) - _Bill Frantz \<frantz@netcom.com\>_
+    + 1996-12-11 (Wed, 11 Dec 1996 05:55:25 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/51d092f922429b4aae287bfc43a3ce6d5965fb3a54c7b3cc3e8357a4775a6f2a) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+      + 1996-12-11 (Wed, 11 Dec 1996 10:03:55 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/d13fdb8537c9d6308d2da67e6bb0cecd01911fd2a9a5d0074f7c99f9f6c1ea36) - _Ray Arachelian \<sunder@brainlink.com\>_
+        + 1996-12-11 (Wed, 11 Dec 1996 11:09:05 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/f532c7b9ff31b4ddacc94e1e4014c2d6a223854309ca2343f6cb5d2a285bc0d7) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+          + 1996-12-11 (Wed, 11 Dec 1996 14:38:52 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/945f553ec943cbe1af4ac6ec0d8e4d5ea16abd9f9abdae666597adfdea2f65e7) - _ichudov@algebra.com (Igor Chudov @ home)_
+            + 1996-12-12 (Wed, 11 Dec 1996 18:13:55 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/081b27245457001b8077bbe3232986ed98c2217480e89160b3702b9957b373d3) - _"Mark M." \<markm@voicenet.com\>_
+              + 1996-12-12 (Wed, 11 Dec 1996 22:00:25 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/aa948b0ba56ab80ec492898fed67e0c3dcaaa6e7469919775c9e04354ff2e4aa) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+                + 1996-12-13 (Thu, 12 Dec 1996 17:23:19 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/51fbc28d042c60b593bdbea6985258b6f3858fdf9bee36c651c752008f7eeffb) - _snow \<snow@smoke.suba.com\>_
+          + 1996-12-13 (Thu, 12 Dec 1996 19:22:15 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/8936a60663e643d03b7fa18df1ffbbc845e5d2159d55815e4d1dad02f314937c) - _Ray Arachelian \<sunder@brainlink.com\>_
+            + 1996-12-13 (Thu, 12 Dec 1996 20:00:10 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/9e9d7bb7457fe002bfb498b476dc79778ff3c15188a01f3321119ae1513c5f6c) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+              + 1996-12-14 (Sat, 14 Dec 1996 15:21:56 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/fa06ce66776ea15d66d93da034584a505b7268a279c556db4031e3d4fa6f4585) - _Ray Arachelian \<sunder@brainlink.com\>_
+                + 1996-12-15 (Sat, 14 Dec 1996 18:40:22 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/8264186db9439bf2a1ef4e5610508003b86c5563be76feefa10b53f159988319) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+                  + 1996-12-16 (Mon, 16 Dec 1996 08:42:27 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/48f534f8abb87f16f989b15213b8d92622c0afdb352da256269833bf2b629d4a) - _Ray Arachelian \<sunder@brainlink.com\>_
+                    + 1996-12-16 (Mon, 16 Dec 1996 13:36:04 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/8524c5b6263148d41b4c566ebd81b1909067f53cc020188946585ccb0d854c19) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+                + 1996-12-15 (Sat, 14 Dec 1996 21:09:49 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/7e8bbc67242e790e90b31289e50c0fa2f542baa2ad27abf835a2a9a78bfc985e) - _ichudov@algebra.com (Igor Chudov @ home)_
+                  + 1996-12-16 (Mon, 16 Dec 1996 09:35:22 -0800 (PST)) - [Securing ActiveX.](/archive/1996/12/963e57578e1593eaa061afedb58c563cbe121494f0e67e76be3f4c0f37ff79f3) - _Ray Arachelian \<sunder@brainlink.com\>_
+                    + 1996-12-16 (Mon, 16 Dec 1996 14:42:41 -0800 (PST)) - Re: Securing ActiveX. - _Nelson Minar \<nelson@media.mit.edu\>_
+                      + 1996-12-17 (Mon, 16 Dec 1996 20:39:14 -0800 (PST)) - [Re: Securing ActiveX.](/archive/1996/12/61750e79375a8ab99f07fbdc62250c0290f744e881da808a0aa330c5909a2e53) - _Ray Arachelian \<sunder@brainlink.com\>_
+                        + 1996-12-17 (Tue, 17 Dec 1996 06:41:47 -0800 (PST)) - [Re: Securing ActiveX.](/archive/1996/12/7e912e1ab5ba1335be201186efe7edf35e48a6d60ad958e7fdc6e01a9b209888) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+        + 1996-12-13 (Fri, 13 Dec 1996 00:21:40 -0800 (PST)) - [Java Crypto Code, was Re: Java DES breaker?](/archive/1996/12/b6cd113a6a9e5bb81bdd3ae075965b56ec6a1c4449a16f908412067b84f5d713) - _Bill Frantz \<frantz@netcom.com\>_
+

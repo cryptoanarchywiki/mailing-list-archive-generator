@@ -51,4 +51,9 @@ admin is no longer with our school.
   + 1994-11-27 (Sun, 27 Nov 94 14:01:07 PST) - [Re: School Admins](/archive/1994/11/a28e95a06b4a2837911ea420df0f5e8afc6baa62f0557684b40107800bb21243) - _sdw@lig.net (Stephen D. Williams)_
     + 1994-11-27 (Sun, 27 Nov 94 14:05:34 PST) - Re: School Admins - _Jonathan Cooper \<entropy@IntNet.net\>_
       + 1994-11-27 (Sun, 27 Nov 94 15:42:13 PST) - [Re: School Admins](/archive/1994/11/1f28846d466533ca9d146745e8829e607233e3a207a5300e17ad250062623162) - _Matt Blaze \<mab@crypto.com\>_
+  + 1994-11-28 (Sun, 27 Nov 94 18:56:16 PST) - [Re: School Admins](/archive/1994/11/b043ede28874bf665699f6c765e547ef4f4e0bae353cf0c6381d544a51827181) - _NetSurfer \<jdwilson@gold.chem.hawaii.edu\>_
+    + 1994-11-28 (Mon, 28 Nov 94 10:09:47 PST) - [Re: School Admins](/archive/1994/11/f733557251c68e113efc1936f99c415372bec2c30aed636d092ba3873723d5cf) - _Joe Turner \<turner@telecheck.com\>_
+  + 1994-11-28 (Sun, 27 Nov 94 21:33:29 PST) - [Re: School Admins](/archive/1994/11/ecb93ff289a39be5e3d0d39f937ec8087cfb0ea7d9a31bb451a389f89358473a) - _jpb@gate.net_
+    + 1994-11-28 (Sun, 27 Nov 94 22:39:02 PST) - [Re: School Admins](/archive/1994/11/f389ce6c4490aca525d23c853dbb33f3557ffb31f9f46a4a1de8e037e41cb920) - _"Ian Farquhar" \<ianf@sydney.sgi.com\>_
+      + 1994-11-28 (Mon, 28 Nov 94 10:00:27 PST) - [Re: School Admins](/archive/1994/11/eb2a7c2af67946acdcad469d15e4fef89c0740266da5e8c66cd8bd1d8dc38d9b) - _David Taffs \<dat@ebt.com\>_
 

@@ -87,4 +87,5 @@ Kragen
   + 1994-07-19 (Tue, 19 Jul 94 02:45:44 PDT) - [Re: Sue D. Nym](/archive/1994/07/71df71e9f90cec9a2b1c40df056930071da5a29def82dd4cfda8d35dc3c285bb) - _ebrandt@muddcs.cs.hmc.edu (Eli Brandt)_
     + 1994-07-19 (Tue, 19 Jul 94 03:57:35 PDT) - Re: Sue D. Nym - _xentrac@cybele.unm.edu (Kragen J. Sittler)_
       + 1994-07-19 (Tue, 19 Jul 94 07:13:58 PDT) - [Re: Sue D. Nym](/archive/1994/07/cd0fea31c4f4c5df3ccb5f3da6cc7175dccf61fd3e8e29bc03524dbf47684997) - _Jim choate \<ravage@bga.com\>_
+      + 1994-07-19 (Tue, 19 Jul 94 12:33:28 PDT) - [DT, surveillance, and "the policeman inside"](/archive/1994/07/fecce531399babbe9cd21c1a72f038d584fff0484f70240ca40f01365d9b26bf) - _greg@ideath.goldenbear.com (Greg Broiles)_
 

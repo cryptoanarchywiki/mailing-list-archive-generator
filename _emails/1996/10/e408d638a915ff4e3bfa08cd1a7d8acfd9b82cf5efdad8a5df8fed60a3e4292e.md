@@ -51,4 +51,5 @@ at <ftp.csua.berkeley.edu:pub/cypherpunks/ciphers>? I searched AltaVista.
 
 + 1996-10-21 (Mon, 21 Oct 1996 16:57:54 -0700 (PDT)) - cypherpunks ftp site - _Norman Hardy \<norm@netcom.com\>_
   + 1996-10-22 (Tue, 22 Oct 1996 13:11:42 -0700 (PDT)) - [Re: cypherpunks ftp site](/archive/1996/10/d9330863706ebcbe3f8ed3d61ce9690e4825e27cbef87754e27b53d14da2dbd7) - _"Mark M." \<markm@voicenet.com\>_
+  + 1996-10-23 (Wed, 23 Oct 1996 08:51:26 -0700 (PDT)) - [Re: cypherpunks ftp site](/archive/1996/10/4accbf198cc272350af76e12019e9d627de3d874e923cfe20648565ab2b5da6d) - _Adam Back \<aba@dcs.ex.ac.uk\>_
 

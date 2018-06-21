@@ -75,4 +75,5 @@ unless one can accurately measure the intial conditions.
 
 + 1997-04-11 (Fri, 11 Apr 1997 07:56:57 -0700 (PDT)) - Re: "...markets are fundamentally chaotic, not efficient"? - _paul@fatmans.demon.co.uk_
   + 1997-04-11 (Fri, 11 Apr 1997 16:37:55 -0700 (PDT)) - [Re: "...markets are fundamentally chaotic, not efficient"?](/archive/1997/04/c4244108326b34939a1763afddf0dc9072a0a6525d02e6b5c12bb8ae2212b95b) - _ichudov@algebra.com (Igor Chudov @ home)_
+  + 1997-04-12 (Sat, 12 Apr 1997 13:50:47 -0700 (PDT)) - [Re: "...markets are fundamentally chaotic, not efficient"?](/archive/1997/04/c838142543042f40a66f79282c9016874c8155704a4999c58e1be7cd5950c1b0) - _Kent Crispin \<kent@songbird.com\>_
 

@@ -79,4 +79,6 @@ pgf@acadian.net        service provider nor my employer.
   + 1996-09-23 (Tue, 24 Sep 1996 06:11:30 +0800) - [Re: provably hard PK cryptosystems](/archive/1996/09/204121194f44272d285d96b6be827bbea2de9468b323773d3378c2aeb0f975eb) - _Asgaard \<asgaard@Cor.sos.sll.se\>_
     + 1996-09-24 (Wed, 25 Sep 1996 01:53:08 +0800) - [Re: provably hard PK cryptosystems](/archive/1996/09/12234e029ea6c004a36dc022f3bac091b9e6830b8642203d41a9b535be689e64) - _Gary Howland \<gary@systemics.com\>_
       + 1996-09-25 (Wed, 25 Sep 1996 08:40:24 +0800) - Re: provably hard PK cryptosystems - _Phil Fraering \<pgf@acadian.net\>_
+    + 1996-09-24 (Wed, 25 Sep 1996 02:35:32 +0800) - [Re: provably hard PK cryptosystems](/archive/1996/09/4bdcae5ffed0cbc1b08f94b7228c732fd8e3490b3fa85564700b497059369d8d) - _Mike McNally \<m5@tivoli.com\>_
+  + 1996-09-24 (Tue, 24 Sep 1996 08:30:50 +0800) - [Re: provably hard PK cryptosystems](/archive/1996/09/c36915157855ff5028d67211a9752a7c0c627ab679a2db449e24cbafec402f60) - _Jim McCoy \<mccoy@communities.com\>_
 

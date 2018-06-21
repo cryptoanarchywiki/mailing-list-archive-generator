@@ -51,4 +51,5 @@ c.f. Multics.
 
 + 1996-03-21 (Fri, 22 Mar 1996 05:49:23 +0800) - [Re: NT's C2 rating](/archive/1996/03/cc572d51cec64e5be0a785a47db5a7e7f1dda5a62e193dc5a0cf84b00ab78a3d) - _David Loysen \<dwl@hnc.com\>_
   + 1996-03-22 (Fri, 22 Mar 1996 08:05:58 +0800) - Re: NT's C2 rating - _Derek Atkins \<warlord@MIT.EDU\>_
+  + 1996-03-22 (Fri, 22 Mar 1996 20:36:59 +0800) - [Re: NT's C2 rating](/archive/1996/03/d70d9063a46673216caa5ad039a8795bca8140bbd5a497388cbc3182c6494f3b) - _Mark Aldrich \<maldrich@grctechs.va.grci.com\>_
 

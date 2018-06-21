@@ -1,0 +1,102 @@
+---
+layout: default
+---
+
+# 1997-06-26 - Re: Bomb Making Info to be Illegal
+
+## Header Data
+
+From: Steve Schear \<azur@netcom.com\><br>
+To: "Mark M." \<cypherpunks@Algebra.COM<br>
+Message Hash: bbd0001be81ec954cf78f3cb767ed71ecab714ab28d6a6eb2f1bad7bb1db0e27<br>
+Message ID: \<v0310280bafd83fcea0f8@[10.0.2.15]\><br>
+Reply To: \<v03102803afd74b50dcd5@[10.0.2.15]\><br>
+UTC Datetime: 1997-06-26 16:29:11 UTC<br>
+Raw Date: Fri, 27 Jun 1997 00:29:11 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: Steve Schear <azur@netcom.com>
+Date: Fri, 27 Jun 1997 00:29:11 +0800
+To: "Mark M." <cypherpunks@Algebra.COM
+Subject: Re: Bomb Making Info to be Illegal
+In-Reply-To: <v03102803afd74b50dcd5@[10.0.2.15]>
+Message-ID: <v0310280bafd83fcea0f8@[10.0.2.15]>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+
+At 9:13 PM -0400 6/25/97, Mark M. wrote:
+>-----BEGIN PGP SIGNED MESSAGE-----
+>
+>Steve wrote:
+>
+>> What's not clear to me, and I wish someone would explain, is how the SC
+>> managed to find pornography not similarly protected speech.  Arms and
+>> munitions can be as arousing for some (e.g., Dr. Strangelove) as sex is for
+>> others.
+>
+>It appears that Roth v. United States was the first case before that the
+>U.S. SC decided that "obscenity" was not protected by the 1st Amendment.
+>The reasoning was that while offensive, unorthodox, or hateful ideas
+>are protected by the 1st, they, unlike pornography, have at least *some*
+>redeeming social value.  The court noted that laws enacted after the
+>ratification of the U.S. Constitution banned several different kinds of
+>speech, including profanity, blasphemy, and libel.  It's a very common
+>tactic for the courts to refer to post-ratification laws to support
+>limits on Constitutional rights.
+
+I can't see that anyone, including the courts, should use redeeming social
+value as a yardstick.  This term has all the hateful aspects of one group's
+mores being used to limit the freedom of their neighbor in the privacy of
+their home and thoughts.  After all, one man's ceiling is another man's
+floor.
+
+What if we create religion who's practice requires use and possesion of
+child porn?  Wonder how the SC would rule, given its rulings allowing use
+of peyote by certain native American tribes and against the Mormons on the
+issue of bigemy.
+
+I think resistance to such limitations should go beyond legal avenues.
+
+--Steve
+
+
+PGP mail preferred
+Fingerprint: FE 90 1A 95 9D EA 8D 61  81 2E CC A9 A4 4A FB A9
+---------------------------------------------------------------------
+Steve Schear              | tel: (702) 658-2654
+CEO                       | fax: (702) 658-2673
+First ECache Corporation  |
+7075 West Gowan Road      |
+Suite 2148                |
+Las Vegas, NV 89129       | Internet: azur@netcom.com
+---------------------------------------------------------------------
+
+        I know not what instruments others may use,
+        but as for me, give me Ecache or give me debt.
+
+        SHOW ME THE DIGITS!
+
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [June 1997](/archive/1997/06)
+
++ 1997-06-25 (Thu, 26 Jun 1997 02:39:35 +0800) - [Bomb Making Info to be Illegal](/archive/1997/06/849aeb12c3b3a1c08602cd9228456faef7665e7ecf9c0a8ae209031f1c3fd750) - _"Silenced" \<silenced@black.colossus.net (none)\>_
+  + 1997-06-25 (Thu, 26 Jun 1997 06:38:37 +0800) - [Re: Bomb Making Info to be Illegal](/archive/1997/06/61c6890392fd00ef2ed2071df968e5c520a3e36c9d46331aadbdee549ec14236) - _Deborah Stewart \<azur@netcom.com\>_
+    + 1997-06-26 (Thu, 26 Jun 1997 10:23:55 +0800) - [Re: Bomb Making Info to be Illegal](/archive/1997/06/f17a49feae69ca36113a423c11c81415a2d6bf101c769060d6f698022e8f662e) - _"Mark M." \<markm@voicenet.com\>_
+    + 1997-06-26 (Fri, 27 Jun 1997 00:29:11 +0800) - Re: Bomb Making Info to be Illegal - _Steve Schear \<azur@netcom.com\>_
+      + 1997-06-26 (Fri, 27 Jun 1997 05:17:31 +0800) - [Re: Bomb Making Info to be Illegal](/archive/1997/06/ca6163fb2351cd7816a4153c85096111ba2fb24b14113a9d32ece89683572beb) - _"Mark M." \<markm@voicenet.com\>_
+      + 1997-06-27 (Fri, 27 Jun 1997 23:22:55 +0800) - [Re: Bomb Making Info to be Illegal](/archive/1997/06/f5f20a3652fe8f44b163e0f950f964576713d453958020f4197fe6267d6a33d7) - _Paul Bradley \<paul@fatmans.demon.co.uk\>_
+  + 1997-06-26 (Thu, 26 Jun 1997 23:47:29 +0800) - [Re: Bomb Making Info to be Illegal](/archive/1997/06/08161c989d4d0e9498b5b784b7e29b573c9cdc6c07ded1fc2eb9f9f141c35e6d) - _Lee Tien \<tien@well.com\>_
+

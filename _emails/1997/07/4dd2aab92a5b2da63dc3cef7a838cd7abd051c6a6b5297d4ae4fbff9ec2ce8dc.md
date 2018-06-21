@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+# 1997-07-08 - Re: Is the Vulisbot triggered by my posts?
+
+## Header Data
+
+From: "William H. Geiger III" \<whgiii@amaranth.com\><br>
+To: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+Message Hash: 4dd2aab92a5b2da63dc3cef7a838cd7abd051c6a6b5297d4ae4fbff9ec2ce8dc<br>
+Message ID: \<199707080506.AAA14434@mailhub.amaranth.com\><br>
+Reply To: \<24eH0D4w165w@bwalk.dm.com\><br>
+UTC Datetime: 1997-07-08 05:22:19 UTC<br>
+Raw Date: Tue, 8 Jul 1997 13:22:19 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: "William H. Geiger III" <whgiii@amaranth.com>
+Date: Tue, 8 Jul 1997 13:22:19 +0800
+To: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)
+Subject: Re: Is the Vulisbot triggered by my posts?
+In-Reply-To: <24eH0D4w165w@bwalk.dm.com>
+Message-ID: <199707080506.AAA14434@mailhub.amaranth.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+
+-----BEGIN PGP SIGNED MESSAGE-----
+
+In <24eH0D4w165w@bwalk.dm.com>, on 07/07/97 
+   at 01:15 PM, dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM) said:
+
+>I've replaced OS/2 on it by Windows 95.
+
+Sorry to hear of your downgrade. :(
+
+- -- 
+- ---------------------------------------------------------------
+William H. Geiger III  http://www.amaranth.com/~whgiii
+Geiger Consulting    Cooking With Warp 4.0
+
+Author of E-Secure - PGP Front End for MR/2 Ice
+PGP & MR/2 the only way for secure e-mail.
+OS/2 PGP 2.6.3a at: http://www.amaranth.com/~whgiii/pgpmr2.html                        
+- ---------------------------------------------------------------
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.3a
+Charset: cp850
+Comment: Registered_User_E-Secure_v1.1b1_ES000000
+
+iQCVAwUBM8HLRI9Co1n+aLhhAQEYeQP/buxy+POFqLivSZ9vRPyYtq03d23riOic
+ddviGat5rNL5DXLDTTymVKxrp3MU3SexfxzWeFRzJZBv+TrT9PQJyBoFsEx1ZSk+
++FhWMylBqCqItDWHTlezagCvtXQSvb6eTAf2ZVqTY7G3eRgIdUTgBYkUrEZgRwoR
+NCqVbJfUyIA=
+=+IV2
+-----END PGP SIGNATURE-----
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [July 1997](/archive/1997/07)
+
++ 1997-07-07 (Mon, 7 Jul 1997 19:06:10 +0800) - [[STEGO] RSA](/archive/1997/07/696f637c79960cb6bb2e4a6c106043e3cc60e51c0a4c702acc476bdf8a59d39b) - _nobody@REPLAY.COM (Anonymous)_
+  + 1997-07-07 (Mon, 7 Jul 1997 23:06:30 +0800) - [Re: [STEGO] RSA](/archive/1997/07/e22c8bc7599e44cef9d0a6f5e23b46b8c703266de4fddbf53cc47a5a361c1d49) - _Graham-John Bullers \<real@freenet.edmonton.ab.ca\>_
+  + 1997-07-07 (Mon, 7 Jul 1997 23:38:10 +0800) - [Re: [STEGO] RSA](/archive/1997/07/760e26a86a29884645820b1c3bb5dbd30a5c9bfc502a1574035951cb928d7162) - _Robert Hettinga \<rah@shipwright.com\>_
+  + 1997-07-07 (Tue, 8 Jul 1997 00:26:56 +0800) - [Re: [STEGO] RSA](/archive/1997/07/f888e8087aea1a74aa77c28b14a1a5fd8f69e5a384dd321d086394a028a8780b) - _Kent Crispin \<kent@songbird.com\>_
+    + 1997-07-07 (Tue, 8 Jul 1997 07:41:18 +0800) - [Re: [STEGO] RSA](/archive/1997/07/7b856d1377b3c230ccca0a646a157ad94b086f1548a5e7396ca41c09c216987c) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+  + 1997-07-07 (Tue, 8 Jul 1997 01:20:02 +0800) - [Is the Vulisbot triggered by my posts?](/archive/1997/07/b899b49b3094002eb6015e35513c05a6ed5b1fda47ba7e392e23e952c2783883) - _Tim May \<tcmay@got.net\>_
+    + 1997-07-07 (Tue, 8 Jul 1997 07:41:29 +0800) - [Re: Is the Vulisbot triggered by my posts?](/archive/1997/07/a5f03de87fef73a1311dc5a0106b25b815d7e537494015e3893ab1156e6207b2) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+      + 1997-07-08 (Tue, 8 Jul 1997 13:22:19 +0800) - Re: Is the Vulisbot triggered by my posts? - _"William H. Geiger III" \<whgiii@amaranth.com\>_
+        + 1997-07-08 (Tue, 8 Jul 1997 20:10:04 +0800) - [Re: Is the Vulisbot triggered by my posts?](/archive/1997/07/85db1117093d11517d8874568e99e267f61fae1f46d12701efe3fb08f63b7da3) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+          + 1997-07-08 (Wed, 9 Jul 1997 06:33:34 +0800) - [Re: Is the Vulisbot triggered by my posts?](/archive/1997/07/2c4a0eea69159932f72cfa95ae489529cce44f5540aec2856c0fdf5655ccc3db) - _Rabid Wombat \<wombat@mcfeely.bsfs.org\>_
+            + 1997-07-09 (Wed, 9 Jul 1997 13:13:09 +0800) - [Re: Is the Vulisbot triggered by my posts?](/archive/1997/07/8932f2372aa60927fbca16fad0f1363ba4f53092c4a47588fd8742af02b016d5) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+      + 1997-07-08 (Wed, 9 Jul 1997 03:34:07 +0800) - [Re: Is the Vulisbot triggered by my posts?](/archive/1997/07/b61da3c9fb5bf4ec62081353b6cbc96cdde8d8a7e9ffb364291fecc765ba0837) - _Paul Bradley \<paul@fatmans.demon.co.uk\>_
+        + 1997-07-09 (Wed, 9 Jul 1997 13:17:20 +0800) - [Re: Is the Vulisbot triggered by my posts?](/archive/1997/07/75941f92f9a16926735925d35a9f8cbb49ca17a084e1e543796d93555b3d4fc9) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+      + 1997-07-10 (Thu, 10 Jul 1997 11:44:37 +0800) - [Re: Is the Vulisbot triggered by my posts?](/archive/1997/07/9dca50978876251850c94b95db71cafdc3c2b11004e784b29fb06ccf0578cb01) - _snow \<snow@smoke.suba.com\>_
+        + 1997-07-10 (Fri, 11 Jul 1997 03:36:47 +0800) - [Re: Is the Vulisbot triggered by my posts?](/archive/1997/07/33363218035fafae1cd7f8f8037e714a9a7dc868778c92cc3f8f0623dc33234f) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+

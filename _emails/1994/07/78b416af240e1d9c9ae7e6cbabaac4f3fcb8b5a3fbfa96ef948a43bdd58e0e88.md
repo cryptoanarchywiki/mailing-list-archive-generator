@@ -61,4 +61,5 @@ could be criminally penalized.
 
 + 1994-07-19 (Tue, 19 Jul 94 08:26:54 PDT) - [Nat'l ID # ?](/archive/1994/07/ffd4ee7b96f92e507c234616c1a2e8533b957f444e4ec5d6059f8b899347b40f) - _Carl Ellison \<cme@tis.com\>_
   + 1994-07-19 (Tue, 19 Jul 94 11:00:42 PDT) - Re: Nat'l ID # ? - _Rick Busdiecker \<rfb@lehman.com\>_
+  + 1994-07-19 (Tue, 19 Jul 94 11:51:02 PDT) - [Re: Nat'l ID # ?](/archive/1994/07/a1cbab48159c598dc35b56fbd854972ac4f22f36f444797a396b4de59f6ecfb9) - _tcmay@netcom.com (Timothy C. May)_
 

@@ -52,4 +52,5 @@ Will French  <wfrench@interport.net>
 
 + 1995-08-26 (Sat, 26 Aug 95 14:22:25 PDT) - Re: SSL trouble - _Will French \<wfrench@interport.net\>_
   + 1995-08-26 (Sat, 26 Aug 95 14:58:08 PDT) - [Re: SSL trouble](/archive/1995/08/031f7ee10960d4455f6abbf1847f18beaebb389469814cc16ee1ff9e50cb8178) - _Piete Brooks \<Piete.Brooks@cl.cam.ac.uk\>_
+  + 1995-08-27 (Sat, 26 Aug 95 17:12:37 PDT) - [Re: SSL trouble](/archive/1995/08/fccb5c7ca127c8a94209a6d27327cda2828c08a598da141f5637891525b29891) - _hallam@w3.org_
 

@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+# 1996-11-07 - Re: HAPPY GUY FAWKES DAY!
+
+## Header Data
+
+From: attila@primenet.com<br>
+To: Sandy Sandfort \<sandfort@crl.com\><br>
+Message Hash: 6c8aead6fd664cfea6eebdb7979aa141fa3b8da0af1ce42c3a5eecd56fe4bafa<br>
+Message ID: \<199611070616.XAA18385@infowest.com\><br>
+Reply To: \<Pine.SUN.3.91.961105123056.18719A-100000@crl.crl.com\><br>
+UTC Datetime: 1996-11-07 06:16:33 UTC<br>
+Raw Date: Wed, 6 Nov 1996 22:16:33 -0800 (PST)<br>
+
+## Raw message
+
+```
+{% raw  %}From: attila@primenet.com
+Date: Wed, 6 Nov 1996 22:16:33 -0800 (PST)
+To: Sandy Sandfort <sandfort@crl.com>
+Subject: Re: HAPPY GUY FAWKES DAY!
+In-Reply-To: <Pine.SUN.3.91.961105123056.18719A-100000@crl.crl.com>
+Message-ID: <199611070616.XAA18385@infowest.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+In <Pine.SUN.3.91.961105123056.18719A-100000@crl.crl.com>, on 11/05/96 
+   at 12:34 PM, Sandy Sandfort <sandfort@crl.com> said:
+
+-.On this day in 1605 the Gunpowder Plot was foiled.  Guy Fawkes
+-.and his compatriots had intended to blow up Parliment.
+
+-.The English celebrate it because Guy Fawkes failed.
+
+-.I celebrate it because he tried.  :-)
+
+        I see, at heart you are still a little boy playing with fireworks?
+
+--
+  Politicians are like diapers.
+    They both need changing regularly, and for the same reason.
+
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [November 1996](/archive/1996/11)
+
++ 1996-11-05 (Tue, 5 Nov 1996 12:35:43 -0800 (PST)) - [HAPPY GUY FAWKES DAY!](/archive/1996/11/a3e662873916778c2f07d4e8aa9a61421a088c98f2ec9f5bb7dd0a74d660d50b) - _Sandy Sandfort \<sandfort@crl.com\>_
+  + 1996-11-06 (Tue, 5 Nov 1996 23:18:19 -0800 (PST)) - [Re: HAPPY GUY FAWKES DAY!](/archive/1996/11/620a6112a4127f344164eb1e46441e9e9664e40b443eeb6c8e9961e90abd1e4a) - _Michael Craft \<jsi@idiom.com\>_
+    + 1996-11-07 (Wed, 6 Nov 1996 22:16:42 -0800 (PST)) - [Re: HAPPY GUY FAWKES DAY!](/archive/1996/11/3ff67460beae45709a05838550c158b330035caeedbfc613855cda5478282aa0) - _C Kuethe \<ckuethe@gpu.srv.ualberta.ca\>_
+      + 1996-11-07 (Thu, 7 Nov 1996 05:58:02 -0800 (PST)) - [Re: HAPPY GUY FAWKES DAY!](/archive/1996/11/504fa686dd7e2e594b20d5e11be4c0335c166bddf1cf6396d1ac8e6ec3817d6c) - _"Nicolas J. Hammond" \<njhm@ns.njh.com\>_
+        + 1996-11-07 (Thu, 7 Nov 1996 08:36:51 -0800 (PST)) - [Re: HAPPY GUY FAWKES DAY!](/archive/1996/11/22e3ed66ee99688c0e1d7eb54ba6b548fbe6862b0a7730cebe7d6006130bbacf) - _Simon Spero \<ses@tipper.oit.unc.edu\>_
+  + 1996-11-06 (Wed, 6 Nov 1996 15:43:48 -0800 (PST)) - [Re: HAPPY GUY FAWKES DAY!](/archive/1996/11/162d869816085f378087793a50cb87d7fd88fec538844ec92530e18a33ff56f3) - _Simon Spero \<ses@tipper.oit.unc.edu\>_
+  + 1996-11-07 (Wed, 6 Nov 1996 22:16:33 -0800 (PST)) - Re: HAPPY GUY FAWKES DAY! - _attila@primenet.com_
+

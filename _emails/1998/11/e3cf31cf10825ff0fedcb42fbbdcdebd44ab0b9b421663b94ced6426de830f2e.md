@@ -63,4 +63,5 @@ M. K. Shen
 
 + 1998-11-20 (Fri, 20 Nov 1998 15:33:00 +0800) - [More Goldbach's Conjecture](/archive/1998/11/3a9a5a39d4eadd60538714516967f97717e7c37ef7149028a1fb52382a1d0139) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
   + 1998-11-20 (Fri, 20 Nov 1998 18:54:26 +0800) - Re: More Goldbach's Conjecture - _Mok-Kong Shen \<mok-kong.shen@stud.uni-muenchen.de\>_
+  + 1998-11-20 (Sat, 21 Nov 1998 02:14:15 +0800) - [Re: More Goldbach's Conjecture](/archive/1998/11/080874e9da443107a1e6c7909e774f068972e776a30e715393676af684196a8a) - _ichudov@Algebra.COM (Igor Chudov @ home)_
 

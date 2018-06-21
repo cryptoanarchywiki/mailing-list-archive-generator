@@ -53,4 +53,5 @@ coherently explain what you gain by so doing.      | tomw@netscape.com
 
 + 1997-01-09 (Thu, 9 Jan 1997 09:42:07 -0800 (PST)) - [SSL Insecurity](/archive/1997/01/578ab1c9ab6bea89598efcd96d2d20a8d0f5016bd2bff10b99aa244d853047a8) - _Rick Osborne \<osborne@gateway.grumman.com\>_
   + 1997-01-09 (Thu, 9 Jan 1997 13:45:25 -0800 (PST)) - Re: SSL Insecurity - _Tom Weinstein \<tomw@netscape.com\>_
+  + 1997-01-10 (Thu, 9 Jan 1997 21:40:36 -0800 (PST)) - [Re: SSL Insecurity](/archive/1997/01/e5d5cdfbb9933b1656b3e5d4cc515fad646148cf535cab334ac8f4ebdc9222dd) - _Toto \<toto@sk.sympatico.ca\>_
 

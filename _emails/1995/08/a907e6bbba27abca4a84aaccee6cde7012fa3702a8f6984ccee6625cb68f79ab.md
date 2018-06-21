@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+# 1995-08-25 - Re: Cypherpunk Brute Squad [Re: SSL Challenge: Server problems]
+
+## Header Data
+
+From: Piete Brooks \<Piete.Brooks@cl.cam.ac.uk\><br>
+To: "J. R. Valverde (EMBL Outstation: the EBI)" \<txomsy@ebi.ac.uk\><br>
+Message Hash: a907e6bbba27abca4a84aaccee6cde7012fa3702a8f6984ccee6625cb68f79ab<br>
+Message ID: \<"swan.cl.cam.:196070:950825215208"@cl.cam.ac.uk\><br>
+Reply To: \<199508252041.VAA01686@neptune.ebi.ac.uk\><br>
+UTC Datetime: 1995-08-25 21:52:29 UTC<br>
+Raw Date: Fri, 25 Aug 95 14:52:29 PDT<br>
+
+## Raw message
+
+```
+{% raw  %}From: Piete Brooks <Piete.Brooks@cl.cam.ac.uk>
+Date: Fri, 25 Aug 95 14:52:29 PDT
+To: "J. R. Valverde (EMBL Outstation: the EBI)" <txomsy@ebi.ac.uk>
+Subject: Re: Cypherpunk Brute Squad [Re: SSL Challenge: Server problems]
+In-Reply-To: <199508252041.VAA01686@neptune.ebi.ac.uk>
+Message-ID: <"swan.cl.cam.:196070:950825215208"@cl.cam.ac.uk>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+> Server timing problem: Goodbye unknown -- you have been timed out
+> which I assume is a message from the server telling me it's too loaded,
+
+No -- it means that you were taking too long to respond, so it timed you out.
+
+> No input when expecting an ACK line
+> which sound even worst... I've been having trouble getting keys all the
+> afternoon now, what a pity.
+
+brclient -k failed to get any keys, so brutessl didn't generate any output,
+so brclient -A didn't get any input :-(
+
+Latest brloop should avoid this by not calling brutessl if brclient -k failed
+and also not calling brclient -A if brutessl didn't run / failed.
+
+> BTW, the versions I'm running now are brloop 0.05 and brclient 0.16 and
+> since I'm in Cambridgeshire-UK too, with a 2Mbps link, I doubt that the
+> timeout is due to congestion on the net.
+
+Well, the problem with brclient 0.16 was that a "go faster" stripe made it
+go *too* fast if local, perl losses data, so it times out :-((
+
+> Any suggestions? Or is it only the overload in the server that's giving
+> me nightmares?
+
+Kind of -- slow clients hogging the single threaded (idle) server :-((
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [August 1995](/archive/1995/08)
+
++ 1995-08-25 (Thu, 24 Aug 95 17:15:36 PDT) - [SSL Challenge: Server problems](/archive/1995/08/40dd55c1562238de9256dd476640e9c89f87254c7e69dff155d718c151762923) - _"Peter Trei" \<trei@process.com\>_
+  + 1995-08-25 (Thu, 24 Aug 95 17:59:45 PDT) - [Cypherpunk Brute Squad [Re: SSL Challenge: Server problems]](/archive/1995/08/3969b9ee8bcbebe78922a193386b361a0a680d4cffca3275cfcb22eb211dce67) - _Jim Gillogly \<jim@acm.org\>_
+    + 1995-08-25 (Fri, 25 Aug 95 04:11:59 PDT) - [Re: Cypherpunk Brute Squad [Re: SSL Challenge: Server problems]](/archive/1995/08/f3bba42d03421e26f96d4136614157f05a437df668f5df6c068087b3cbd27841) - _Piete Brooks \<Piete.Brooks@cl.cam.ac.uk\>_
+      + 1995-08-25 (Fri, 25 Aug 95 04:45:44 PDT) - [improving the distributed computation](/archive/1995/08/8ad52094c7bcf0d81c30e7f9fe5d7e2907df052b99952fc0b06eafa90336c74b) - _fc@all.net (Dr. Frederick B. Cohen)_
+        + 1995-08-25 (Fri, 25 Aug 95 05:04:35 PDT) - [Re: improving the distributed computation](/archive/1995/08/f77a53f29d8e63c74507f87d01740372ba4fbc54e8e0ccf5bb41b8ba42576384) - _Piete Brooks \<Piete.Brooks@cl.cam.ac.uk\>_
+        + 1995-08-25 (Fri, 25 Aug 95 09:52:18 PDT) - [Re: improving the distributed computation](/archive/1995/08/37952c735c6479c1cceee1f7b68bfa272830c834f57f2de2b6a582a09a8ad7c0) - _cg@bofh.lake.de (Cees de Groot)_
+      + 1995-08-25 (Fri, 25 Aug 95 13:42:22 PDT) - [Re: Cypherpunk Brute Squad [Re: SSL Challenge: Server problems]](/archive/1995/08/22b92ab6cbb126e770b4ffc2ad99204cae363182e349a2ecdd7fb8e296e4603f) - _"J. R. Valverde (EMBL Outstation: the EBI)" \<txomsy@ebi.ac.uk\>_
+        + 1995-08-25 (Fri, 25 Aug 95 14:52:29 PDT) - Re: Cypherpunk Brute Squad [Re: SSL Challenge: Server problems] - _Piete Brooks \<Piete.Brooks@cl.cam.ac.uk\>_
+  + 1995-08-25 (Thu, 24 Aug 95 18:02:38 PDT) - [Re: SSL Challenge: Server problems](/archive/1995/08/6e3b0ee894c6aace9d154338af13909f9e8cd4e889fca02709fcf8f86be34370) - _Piete Brooks \<Piete.Brooks@cl.cam.ac.uk\>_
+

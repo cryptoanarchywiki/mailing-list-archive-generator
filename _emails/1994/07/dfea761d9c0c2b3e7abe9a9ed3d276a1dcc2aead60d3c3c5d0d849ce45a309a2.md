@@ -61,4 +61,6 @@ comfortable with the scheme, wouldn't it?
 
 + 1994-07-21 (Thu, 21 Jul 94 11:54:45 PDT) - [Clipper Chip Retreat](/archive/1994/07/8e9dd5cb0a4f18337ef0af6c3e47c6f34146084543682392be24967ce1da6f9c) - _Jonathan Rochkind \<jrochkin@cs.oberlin.edu\>_
   + 1994-07-21 (Thu, 21 Jul 94 14:21:37 PDT) - Re: Clipper Chip Retreat - _Carl Ellison \<cme@tis.com\>_
+  + 1994-07-21 (Thu, 21 Jul 94 14:38:25 PDT) - [Re: Clipper Chip Retreat](/archive/1994/07/33e87b092437abc3a3c23ad56fb2cc3de776c4645fbf5cd53a455d29f1366ea8) - _m5@vail.tivoli.com (Mike McNally)_
+    + 1994-07-21 (Thu, 21 Jul 94 15:03:46 PDT) - [Re: Clipper Chip Retreat](/archive/1994/07/8cb41283a17fc2afb672f08493a56a01de12c6857d085d6d38c147dda947e068) - _Carl Ellison \<cme@tis.com\>_
 

@@ -63,4 +63,5 @@ Coral Gables, FL 33124 USA | It's warm here.
 
 + 1997-02-06 (Thu, 6 Feb 1997 15:01:47 -0800 (PST)) - [40-bit RC5 crack meaningless??](/archive/1997/02/29abac13a54f8c6114e8013bbdc2bee667d0f96be4ee4bd44fb0279451725c2e) - _Vin McLellan \<vin@shore.net\>_
   + 1997-02-07 (Thu, 6 Feb 1997 19:52:04 -0800 (PST)) - Re: 40-bit RC5 crack meaningless?? - _"Michael Froomkin - U.Miami School of Law" \<froomkin@law.miami.edu\>_
+  + 1997-02-07 (Fri, 7 Feb 1997 06:37:59 -0800 (PST)) - [Re: 40-bit RC5 crack meaningless??](/archive/1997/02/76d3907cb98b11214ea7c39503ed8d12a3792a667d43eaabf27d49ad00a3d8f8) - _Vin McLellan \<vin@shore.net\>_
 

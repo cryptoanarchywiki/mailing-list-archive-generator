@@ -86,4 +86,5 @@ steel!        -- Richard Bach, "The Bridge Across Forever"
   + 1993-10-28 (Thu, 28 Oct 93 14:43:09 PDT) - [Tim May, Detweiler and Me.](/archive/1993/10/4eddda5ab0923777937f55352cc9ce9e414135680460b76a4f7fc55d0bbf39e0) - _Andy Wilson \<ajw@Think.COM\>_
     + 1993-10-28 (Thu, 28 Oct 93 15:08:10 PDT) - Re: Tim May, Detweiler and Me. - _khijol!erc (Ed Carp)_
       + 1993-10-28 (Thu, 28 Oct 93 16:02:42 PDT) - [CypherPunk Paintball](/archive/1993/10/3167cb8784d0bde9eecc9011aa7287a43ff09f1713768bd980595f01a907326d) - _Arthur Chandler \<arthurc@crl.com\>_
+  + 1993-10-29 (Thu, 28 Oct 93 21:58:17 PDT) - [Re: Tim May, Detweiler and Me.](/archive/1993/10/54b88dfd51a6ee0f8495a0537a31fa05cd646e1af315d9bad22925af3eb40f89) - _"Robert J. Woodhead" \<trebor@foretune.co.jp\>_
 

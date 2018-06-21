@@ -64,4 +64,5 @@ Regular Key PGP Fingerprint D454 E202 CBC8 40BF  3C85 B884 0ABE 4639
 
 + 1997-12-06 (Sun, 7 Dec 1997 03:27:28 +0800) - [Problems with PGP Finland site?](/archive/1997/12/0dc27b0e7d4d6ec318fa3fa661d305ed0a52e87c73462345ca40ded45ff6c326) - _Tim May \<tcmay@got.net\>_
   + 1997-12-06 (Sun, 7 Dec 1997 07:57:56 +0800) - NA PGP Future (Re: Problems with PGP Finland site?) - _Bill Stewart \<stewarts@ix.netcom.com\>_
+  + 1997-12-07 (Sun, 7 Dec 1997 22:52:09 +0800) - [Re: Problems with PGP Finland site?](/archive/1997/12/8d2afca0de8e67fd276b72bb8e216ef406c91e5fec9d7b86af5eff7ff0e38178) - _Kent Crispin \<kent@songbird.com\>_
 

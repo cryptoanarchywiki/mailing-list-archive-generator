@@ -74,4 +74,5 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 + 1996-09-18 (Wed, 18 Sep 1996 15:38:56 +0800) - [A daily warning regarding Timothy C. May](/archive/1996/09/bc5987adeece2080b8fe8d4675851a6bd4cc79d47f515b2aaff09b76ec1f1b80) - _nobody@replay.com (Anonymous)_
   + 1996-09-18 (Thu, 19 Sep 1996 04:31:10 +0800) - [Re: A daily warning regarding Timothy C. May](/archive/1996/09/9170d5c1dd692e11e22f1642bc8884cdd2518007542da919e9297091d3efbe71) - _Sandy Sandfort \<sandfort@crl.com\>_
     + 1996-09-19 (Thu, 19 Sep 1996 13:05:14 +0800) - Re: A daily warning regarding Timothy C. May - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+  + 1996-09-18 (Thu, 19 Sep 1996 05:37:41 +0800) - [Nobody@replay: childish foul [WAS: A daily warning regarding Timothy May]](/archive/1996/09/1fcda3a450154bfd9674149bcfa1a762b3ba88811db8fbdc01b253098f84a70b) - _attila \<attila@primenet.com\>_
 

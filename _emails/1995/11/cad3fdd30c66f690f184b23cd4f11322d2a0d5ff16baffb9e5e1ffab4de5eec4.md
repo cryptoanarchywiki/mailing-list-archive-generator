@@ -54,4 +54,5 @@ found in Crypto++ as randpool.cpp.
 
 + 1995-11-05 (Sun, 5 Nov 1995 08:08:41 +0800) - [/dev/random - using up entropy?](/archive/1995/11/9a1b5ac42ae31033a832e43686052c7593c7e3aa9153d04dcd2756281c4c8a5c) - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1995-11-05 (Sun, 5 Nov 1995 09:10:47 +0800) - Re: /dev/random - using up entropy? - _Wei Dai \<weidai@eskimo.com\>_
+  + 1995-11-07 (Tue, 7 Nov 1995 12:18:42 +0800) - [Re: /dev/random - using up entropy?](/archive/1995/11/8a45ec9c57cad23113b928eba8062a7ae4c43451d99c130f7f9507c9e64a5415) - _"Theodore Ts'o" \<tytso@MIT.EDU\>_
 

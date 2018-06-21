@@ -106,4 +106,6 @@ Full remarks: http://jya.com/wakeup-call.txt  (18K)
 
 + 1998-04-06 (Sun, 5 Apr 1998 20:08:50 -0700 (PDT)) - Leahy's Crypto Wake-up Call - _John Young \<jya@pipeline.com\>_
   + 1998-04-06 (Sun, 5 Apr 1998 20:39:46 -0700 (PDT)) - [Re: Leahy's Crypto Wake-up Call](/archive/1998/04/84f377938a4114050e83c20bf82f2df1bb4e4edb52adfccd5478d089bcd55566) - _"William H. Geiger III" \<whgiii@invweb.net\>_
+  + 1998-04-06 (Sun, 5 Apr 1998 23:28:04 -0700 (PDT)) - [Re: Leahy's Crypto Wake-up Call](/archive/1998/04/85fbb76c54da45116b3ff7d44f756b8297a5be668052194b17c7c964e35ca828) - _Bill Stewart \<bill.stewart@pobox.com\>_
+    + 1998-04-06 (Mon, 6 Apr 1998 05:10:15 -0700 (PDT)) - [Re: Leahy's Crypto Wake-up Call](/archive/1998/04/83d45caf6d67d17a3b118d93f44cb739eb3dae1559e8151bb24a6d7f49adc891) - _"William H. Geiger III" \<whgiii@invweb.net\>_
 

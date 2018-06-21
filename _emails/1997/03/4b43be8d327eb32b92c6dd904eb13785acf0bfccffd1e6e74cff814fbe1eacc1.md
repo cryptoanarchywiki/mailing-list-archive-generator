@@ -70,4 +70,5 @@ On Mon, 24 Mar 1997, jim bell wrote:
 
 + 1997-03-25 (Mon, 24 Mar 1997 21:54:42 -0800 (PST)) - [Re: INFO: Pro-CODE testimony available now online at democracy.net!](/archive/1997/03/85edc54fcab9088fe161148ae901dfd34905bfa886afc16c9348885efc2d1b09) - _jim bell \<jimbell@pacifier.com\>_
   + 1997-03-25 (Tue, 25 Mar 1997 06:14:50 -0800 (PST)) - Re: INFO: Pro-CODE testimony available now online at  democracy.net! - _Declan McCullagh \<declan@pathfinder.com\>_
+  + 1997-03-27 (Thu, 27 Mar 1997 00:13:02 -0800 (PST)) - [Re: INFO: Pro-CODE testimony available now online at  democracy.net!](/archive/1997/03/f00f4a8d08fb1ac57288611322988a2cfcda2a87b88634d69ec2964a675e8fc5) - _Greg Broiles \<gbroiles@netbox.com\>_
 

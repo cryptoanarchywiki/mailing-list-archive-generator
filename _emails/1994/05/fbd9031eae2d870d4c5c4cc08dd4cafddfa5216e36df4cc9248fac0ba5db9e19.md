@@ -66,4 +66,5 @@ investigation nowadays.
 + 1994-05-02 (Mon, 2 May 94 06:56:36 PDT) - [Security Consult. Needed](/archive/1994/05/cf8f6fdd8fa4b42ad7797dc5cd67288b069599f5f2a7ed16ca8278df25655d13) - _Duncan Frissell \<frissell@panix.com\>_
   + 1994-05-02 (Mon, 2 May 94 09:05:22 PDT) - Re: Security Consult. Needed - _Ed Carp \<ecarp@netcom.com\>_
     + 1994-05-02 (Mon, 2 May 94 10:59:59 PDT) - [Re: Security Consult. Needed](/archive/1994/05/81754f945a5f2d8040adf0b77b1594eea0002c9a484fd01bec51911a68cacfda) - _Sandy Sandfort \<sandfort@crl.com\>_
+    + 1994-05-03 (Mon, 2 May 94 18:51:18 PDT) - [Re: Security Consult. Needed](/archive/1994/05/ece42fcd7f50f65fd434d02926e7145149df9f7e4ed7ae2407ec353fe5f3efb7) - _Duncan Frissell \<frissell@panix.com\>_
 

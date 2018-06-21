@@ -87,4 +87,5 @@ PERSONAL.   voice/fax:408.257.1746    1024:669687   catalyst@netcom.com
 
 + 1993-08-30 (Mon, 30 Aug 93 13:58:50 PDT) - Re: Apple+Clipper - _collins@newton.apple.com (Scott Collins)_
   + 1993-08-31 (Mon, 30 Aug 93 19:23:51 PDT) - [Re: Apple+Clipper](/archive/1993/08/2e4f773baa52c88736050bdfa24c9b2cb822436ac1b16e2a2be5ab9df785e390) - _tcmay@netcom.com (Timothy C. May)_
+  + 1993-08-31 (Mon, 30 Aug 93 20:03:53 PDT) - [Re: Apple+Clipper](/archive/1993/08/0fdc0913bc8011b650a4608c3f20eda20bcd3c71100b23edc2bbb68c80718314) - _tcmay@netcom.com (Timothy C. May)_
 

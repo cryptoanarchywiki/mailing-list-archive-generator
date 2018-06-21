@@ -1,0 +1,145 @@
+---
+layout: default
+---
+
+# 1997-06-13 - Re: Photo ID is not needed for key signings....
+
+## Header Data
+
+From: "William H. Geiger III" \<whgiii@amaranth.com\><br>
+To: Bill Frantz \<frantz@netcom.com\><br>
+Message Hash: 7a53fe386e9cdc279bf2ab5e9cdd86ddcbd9f66f0eec8ad370dacb159b2b5515<br>
+Message ID: \<199706130540.AAA06908@mailhub.amaranth.com\><br>
+Reply To: \<v0300786dafc68637a08c@[207.94.249.152]\><br>
+UTC Datetime: 1997-06-13 06:39:42 UTC<br>
+Raw Date: Fri, 13 Jun 1997 14:39:42 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: "William H. Geiger III" <whgiii@amaranth.com>
+Date: Fri, 13 Jun 1997 14:39:42 +0800
+To: Bill Frantz <frantz@netcom.com>
+Subject: Re: Photo ID is not needed for key signings....
+In-Reply-To: <v0300786dafc68637a08c@[207.94.249.152]>
+Message-ID: <199706130540.AAA06908@mailhub.amaranth.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+
+-----BEGIN PGP SIGNED MESSAGE-----
+
+In <v0300786dafc68637a08c@[207.94.249.152]>, on 06/12/97 
+   at 10:14 PM, Bill Frantz <frantz@netcom.com> said:
+
+>At 6:47 PM -0700 6/12/97, Tim May wrote:
+>>At 8:31 AM -0700 6/12/97, Bill Frantz wrote:
+>>>IMHO - What you are really signing is the binding between the data
+>>>associated with the key (usually an email address) and the key.  You are
+>>>saying that the secret key holder is (one of the) person(s) who has access
+>>>to that account, and not some man in the middle in the middle.  If you ask
+>>>to see Lucky Green's, or Futplex's, or Black Unicorn's picture ID, you will
+>>>either see a forgery or an ID issued by an organization not interested in
+>>>birth certificates.
+>>
+>>My binding was between the key, and "me." Those who wanted to send messages
+>>to "me" could assume that only "I" could read it. The address
+>>"tcmay@netcom.com" vs. "tcmay@got.net" is not central. Any concern that
+>>"tcmay@got.net" is somehow not the keyholder of that '92 key is a nonissue.
+
+>My answer was a pure SPKI answer.  As a first approximation, in SPKI your
+>identity is your key.  Meatspace doesn't enter into it at all.  This
+>avoids the naming problem of meatspace (i.e. Which John Smith).
+
+>Much of the problem with PGP key signing is there is no complete
+>agreement on what it means.  I chose to have it mean that there
+>verification of the binding between the data associated with the key and
+>the key.
+
+>If you have a version of the key with no signatures, then you can change
+>the data field and re-sign with the associated secret key.  Since the
+>data field has changed, you properly need to have others re-verify the
+>validity of the binding.
+
+I don't think that any changes that he would make to his key would need
+re-verification provided that he signed those changes. Take the following
+scenario:
+
+John Doe creates a key and signs it:
+
+pub 2048/FFFFFFFF 01/01/90 John Doe
+sig                        John Doe (0xFFFFFFFF)
+
+Now 3 other people verify that the key does belong to John Doe and sign
+the key:
+
+pub 2048/FFFFFFFF 01/01/90 John Doe john.doe@anonymous.com
+sig                        John Doe   (0xFFFFFFFF)
+sig                        Mary Jane  (0xAAAAAAAA)
+sig                        Tom Thumb  (0x11111111)
+sig                        Tiny Tim   (0xCCCCCCCC) 
+
+Now John adds an aka to his key and signs it.
+
+pub 2048/FFFFFFFF 01/01/90 John Doe john.doe@anonymous.com
+sig                        John Doe   (0xFFFFFFFF)
+sig                        Mary Jane  (0xAAAAAAAA)
+sig                        Tom Thumb  (0x11111111)
+sig                        Tiny Tim   (0xCCCCCCCC) 
+aka                        John Doe john.doe@who-is-it.com
+sig                        John Doe   (0xFFFFFFFF)
+
+Since John Doe is the only one who could sign the key with the new aka one
+can assume that the aka is as valid as the original userid.
+
+ 
+- -- 
+- ---------------------------------------------------------------
+William H. Geiger III  http://www.amaranth.com/~whgiii
+Geiger Consulting    Cooking With Warp 4.0
+
+Author of E-Secure - PGP Front End for MR/2 Ice
+PGP & MR/2 the only way for secure e-mail.
+OS/2 PGP 2.6.3a at: http://www.amaranth.com/~whgiii/pgpmr2.html                        
+- ---------------------------------------------------------------
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.3a
+Charset: cp850
+Comment: Registered_User_E-Secure_v1.1b1_ES000000
+
+iQCVAwUBM6Debo9Co1n+aLhhAQEOHwP/X5d2qrBCLP/z/zFkf1XDcPJ/ztkwNQ2W
+qbFUo+S/ZY9vPCXezs6dCZZfSW3WrRnpmOXQjrSK9qcps6Eafhqs4G96v3bCCzVL
+/wjFV+SZigTMyGqBMv9yscYM8o2KnZSvv2ajsIJLbxgoeLAnNvWXIrB2ls21ydSe
+k/rXTVnwK/E=
+=wXYL
+-----END PGP SIGNATURE-----
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [June 1997](/archive/1997/06)
+
++ 1997-06-11 (Thu, 12 Jun 1997 07:36:51 +0800) - [Re: June 18th SF C'punks meeting: export controls on trial](/archive/1997/06/12b4808acaddb5bb1fbb1b0db4a8ff879b3fe8513de0ea5d3a3e39094dbb9f1b) - _Ed.Falk@Eng.Sun.COM (Ed Falk)_
+  + 1997-06-12 (Thu, 12 Jun 1997 12:44:31 +0800) - [Photo ID is not needed for key signings....](/archive/1997/06/52e9778ce64f15f0a1387aa326fc7d361b46d02186f35d5baf606d5a75b18a62) - _Tim May \<tcmay@got.net\>_
+    + 1997-06-12 (Thu, 12 Jun 1997 13:22:06 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/9e2030a9ef554fd77c0fb4ab902bd57ee8933267b24b890ec2cd9eac2fed5526) - _dlv@bwalk.dm.com (Timmy May)_
+    + 1997-06-12 (Thu, 12 Jun 1997 15:15:21 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/9f0831099d47bc8e6e603845e634018d343f1f6b5b65212838482ea9ab843c54) - _"Joshua E. Hill" \<jehill@w6bhz.calpoly.edu\>_
+      + 1997-06-13 (Fri, 13 Jun 1997 09:51:10 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/9666101232ffa5919a3572ad9494f49048471ecd147d6d99f20dae0caf684322) - _Tim May \<tcmay@got.net\>_
+        + 1997-06-13 (Fri, 13 Jun 1997 10:24:27 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/71ce1ab17b68236bac6e1b6300e60f1ead0c87ebe13cc86d8f74e65d8194cb45) - _ichudov@Algebra.COM (Igor Chudov @ home)_
+        + 1997-06-13 (Fri, 13 Jun 1997 11:36:40 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/e6c87f68407e02d3f6d52dca4bf843b41d633a7c3664b18b44657f85fb118223) - _"William H. Geiger III" \<whgiii@amaranth.com\>_
+        + 1997-06-13 (Sat, 14 Jun 1997 00:56:35 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/e7e9799268c5799c796864ace26925f59d79849a2121561784c401b303afbdb3) - _Alan \<alano@teleport.com\>_
+    + 1997-06-12 (Thu, 12 Jun 1997 23:37:44 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/71cccb70ce8281c211e2239079cf741553d88bf4d82840d73df5c633cff19625) - _Bill Frantz \<frantz@netcom.com\>_
+      + 1997-06-12 (Fri, 13 Jun 1997 02:03:39 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/321b7971caf4fbfaeab27d3e4a2aac64a963723c427b752093956537df7dd12d) - _"Joshua E. Hill" \<jehill@w6bhz.calpoly.edu\>_
+      + 1997-06-13 (Fri, 13 Jun 1997 13:25:36 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/e9c00eb2055db6d5d741e47bf6e7e67960823c05484b55382e09e8420f4c1fad) - _Bill Frantz \<frantz@netcom.com\>_
+        + 1997-06-13 (Fri, 13 Jun 1997 14:39:42 +0800) - Re: Photo ID is not needed for key signings.... - _"William H. Geiger III" \<whgiii@amaranth.com\>_
+        + 1997-06-13 (Sat, 14 Jun 1997 00:24:25 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/e02229c16f86d8578586a851e275a46c8435f4dadbace994dd7d11694b6856a6) - _Bill Frantz \<frantz@netcom.com\>_
+          + 1997-06-13 (Sat, 14 Jun 1997 00:35:46 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/5de8acc893fa1bc028d9c3a8dbcb065d55aac671ffa7185a4360b1387bd45bab) - _"William H. Geiger III" \<whgiii@amaranth.com\>_
+          + 1997-06-13 (Sat, 14 Jun 1997 03:04:27 +0800) - [Re: Photo ID is not needed for key signings....](/archive/1997/06/91072b6de27e5d495e5fa87a56db180963b62500a555d89f4093b6806696cbda) - _Ryan Anderson \<randerso@ece.eng.wayne.edu\>_
+

@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+# 1994-07-31 - Re: Children and the Net
+
+## Header Data
+
+From: jamesd@netcom.com (James A. Donald)<br>
+To: mpd@netcom.com (Mike Duvos)<br>
+Message Hash: b5dfddfb111dfae07c4bd81fdacd5d2e2bf8d4b17a0f471ef96ecc97da938f1a<br>
+Message ID: \<199407312105.OAA02486@netcom12.netcom.com\><br>
+Reply To: \<199407312008.NAA27760@netcom2.netcom.com\><br>
+UTC Datetime: 1994-07-31 21:05:18 UTC<br>
+Raw Date: Sun, 31 Jul 94 14:05:18 PDT<br>
+
+## Raw message
+
+```
+{% raw  %}From: jamesd@netcom.com (James A. Donald)
+Date: Sun, 31 Jul 94 14:05:18 PDT
+To: mpd@netcom.com (Mike Duvos)
+Subject: Re: Children and the Net
+In-Reply-To: <199407312008.NAA27760@netcom2.netcom.com>
+Message-ID: <199407312105.OAA02486@netcom12.netcom.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+Mike Duvos writes
+> Young kids have the same feelings looking at realistic
+> depictions of violence in movies that they would have looking at
+> the real thing.  This is true even if they intellectually grasp
+> that what they are viewing never really happened.  Many movies we
+> wouldn't think twice about can cause children intense emotional
+> pain.
+
+I will decide what movies my kids see thank you very much.
+
+I took Jim to see his little brother being born, and I
+took them both to see "Total Recall"
+
+Are you going to call the cops and charge me with child abuse?
+
+> effect of all this is that a parent can take a 6 year old to
+> "Texas Chainsaw Massacre" and put him in therapy for the rest of
+
+My children are doing just fine.  Screw you!
+
+
+-- 
+ ---------------------------------------------------------------------
+We have the right to defend ourselves and our
+property, because of the kind of animals that we              James A. Donald
+are.  True law derives from this right, not from
+the arbitrary power of the omnipotent state.                jamesd@netcom.com
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [July 1994](/archive/1994/07)
++ Return to [August 1994](/archive/1994/08)
+
++ 1994-07-31 (Sun, 31 Jul 94 12:25:04 PDT) - [Re: Children and the Net](/archive/1994/07/5b0034f1cb19387a821439f1b12233f1795eeb560b8cb9739e196392c28fc439) - _"david d `zoo' zuhn" \<zoo@armadillo.com\>_
+  + 1994-07-31 (Sun, 31 Jul 94 13:09:09 PDT) - [Re: Children and the Net](/archive/1994/07/b85d6b81000a21bef2cfbb6ff16d42f7b109f9088e693e03ea6ee8e117618b73) - _mpd@netcom.com (Mike Duvos)_
+    + 1994-07-31 (Sun, 31 Jul 94 13:55:22 PDT) - [Re: Children and the Net](/archive/1994/07/b403feec71409f3102f57bfdfb679d4211b44afe5ac14eab1f0207ef620989cc) - _"david d `zoo' zuhn" \<zoo@armadillo.com\>_
+    + 1994-07-31 (Sun, 31 Jul 94 14:05:18 PDT) - Re: Children and the Net - _jamesd@netcom.com (James A. Donald)_
+      + 1994-07-31 (Sun, 31 Jul 94 14:50:58 PDT) - [Re: Children and the Net](/archive/1994/07/0487afa1135a1fa8bef391e8613e5b21768c1f997ccef2e55df5f41d25af5e33) - _mpd@netcom.com (Mike Duvos)_
+        + 1994-07-31 (Sun, 31 Jul 94 15:53:02 PDT) - [Re: Children and the Net](/archive/1994/07/033f0969a64e36a3ee38e44566dbfcce2f67439e80799f82adb41689314348b3) - _tcmay@netcom.com (Timothy C. May)_
+          + 1994-07-31 (Sun, 31 Jul 94 16:14:51 PDT) - [Re: Children and the Net](/archive/1994/07/f20b7386815bceb43d53a49b4a98703110509693f39dc6b5dce8824f14446780) - _mpd@netcom.com (Mike Duvos)_
+          + 1994-07-31 (Sun, 31 Jul 94 16:36:08 PDT) - [Re: Children and the Net](/archive/1994/07/76d0d58337ce2cfec00bbc7a26d02e961dc3f9fec9a70526c789ae6fa83478ae) - _paul@hawksbill.sprintmrn.com (Paul Ferguson)_
+        + 1994-08-01 (Sun, 31 Jul 94 17:13:49 PDT) - [Re: Children and the Net](/archive/1994/08/b1626e6fa27bb44be7c5d4256b6184b4bd203f5af2962bb88229545c8db40a76) - _"Perry E. Metzger" \<perry@imsi.com\>_
+          + 1994-08-01 (Sun, 31 Jul 94 17:33:21 PDT) - [Re: Children and the Net](/archive/1994/08/3512cef2863da7e809861215c1d03e2d129a7b5979df9e17643ef2bcf1c0f985) - _mpd@netcom.com (Mike Duvos)_
+        + 1994-08-01 (Sun, 31 Jul 94 19:27:37 PDT) - [Re: Children and the Net](/archive/1994/08/5f85edca01f628247cf89417c14435cda6e4cb556f4ac42519fcb4c7c6d75759) - _jamesd@netcom.com (James A. Donald)_
+

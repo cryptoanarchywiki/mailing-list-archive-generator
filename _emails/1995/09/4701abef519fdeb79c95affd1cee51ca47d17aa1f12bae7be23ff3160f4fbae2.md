@@ -70,4 +70,6 @@ buffer overflow bugs
 
 + 1995-09-25 (Sun, 24 Sep 95 23:49:16 PDT) - New Netscape RNG - _Ray Cromwell \<rjc@clark.net\>_
   + 1995-09-25 (Mon, 25 Sep 95 00:32:57 PDT) - [Re: New Netscape RNG](/archive/1995/09/e6c1c76a1386e8d4687d17367063546d3a3263741ec83be41f3b2089752e9784) - _jsw@neon.netscape.com (Jeff Weinstein)_
+  + 1995-09-26 (Tue, 26 Sep 95 04:57:51 PDT) - [Re: New Netscape RNG](/archive/1995/09/bdb99fb14a66e08f6873a2098ec75d11e285b85cadb170e6220889bbdc4b9b00) - _"David R. Conrad" \<drc@russell.moore.com\>_
+  + 1995-09-27 (Tue, 26 Sep 95 17:50:03 PDT) - [Re: New Netscape RNG](/archive/1995/09/5123d0b4034d455fbed2b32943b91240a66c4988ff4feb770131186bbb5ab242) - _jsw@neon.netscape.com (Jeff Weinstein)_
 

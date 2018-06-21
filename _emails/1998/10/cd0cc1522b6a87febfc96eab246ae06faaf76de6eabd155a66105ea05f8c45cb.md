@@ -115,4 +115,6 @@ Get your free @yahoo.com address at http://mail.yahoo.com
 
 + 1998-10-27 (Wed, 28 Oct 1998 03:53:39 +0800) - Re: your mail - _"Joel O'Connor" \<ogrenivek@yahoo.com\>_
   + 1998-10-27 (Tue, 27 Oct 1998 11:45:08 -0800 (PST)) - [Airline ID Checking (was: RE: your mail)](/archive/1998/10/f36cc12e31f0af83f6d6cc0d0c02c0e5d6e6b993b6d171b9a871082f5cd874da) - _"X" \<xasper8d@lobo.net\>_
+  + 1998-10-27 (Wed, 28 Oct 1998 04:14:40 +0800) - [Re: your mail](/archive/1998/10/8a38714f89c22abe041d5b2fce19bc82faecd51d308100f655fedfab2a97a7e3) - _Chip Mefford \<cmefford@video.avwashington.com\>_
+  + 1998-10-28 (Wed, 28 Oct 1998 22:16:58 +0800) - [Re: Airline ID Checking (was: RE: your mail)](/archive/1998/10/df04a2e5cf1d981764cbdc13b27198afcecd28533ba3f6d011e3de1d8accb427) - _Renegade \<renegade@texoma.net\>_
 

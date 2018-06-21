@@ -66,4 +66,5 @@ On Fri, 21 Nov 1997, Anonymous wrote:
 + 1997-11-22 (Sat, 22 Nov 1997 12:23:00 +0800) - [Re: Alternative Apology](/archive/1997/11/9cd1759d1fdf0873fb94f4200bd3d87c9e37fe26bf44c211cc3bc22bf042795a) - _Anonymous \<anon@anon.efga.org\>_
   + 1997-11-22 (Sat, 22 Nov 1997 22:28:13 +0800) - Lewis & Clark liked dogs too [was Re: Alternative Apology] - _Brad Dolan \<bdolan@USIT.NET\>_
     + 1997-11-22 (Sun, 23 Nov 1997 04:40:40 +0800) - [Re: Lewis & Clark liked dogs too [was Re: Alternative Apology]](/archive/1997/11/91201734ce44d4d275a4dee69978834436f31f70737d349228e81a8047811269) - _TruthMonger \<tm@dev.null\>_
+  + 1997-11-22 (Sun, 23 Nov 1997 04:59:29 +0800) - [And your little dog, too](/archive/1997/11/667214fb70e2def37bc8a2ff5cede4b226a494ffdffc6687535bad7129d2a029) - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

@@ -136,4 +136,5 @@ se7en
 
 + 1997-06-10 (Tue, 10 Jun 1997 13:16:23 +0800) - Response to "My War" - _se7en \<se7en@dis.org\>_
   + 1997-06-10 (Tue, 10 Jun 1997 14:10:45 +0800) - [Re: Response to "My War"](/archive/1997/06/1cd880d80045b6c1cc8e3b6499a122c7b6fcdbd99408ddaa80e4056d830d956c) - _mpd@netcom.com (Mike Duvos)_
+  + 1997-06-10 (Tue, 10 Jun 1997 14:21:01 +0800) - [Re: Response to "My War"](/archive/1997/06/41e7239311f6bbb0f8bde98bc31e013b99ecc2d36a9294ddfa7e3c62cd253da0) - _Lucky Green \<shamrock@netcom.com\>_
 

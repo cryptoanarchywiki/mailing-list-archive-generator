@@ -61,4 +61,6 @@ sfuze@tiac.net
 
 + 1996-09-07 (Sat, 7 Sep 1996 08:53:26 +0800) - [TWA 800 - Friendly Fire?](/archive/1996/09/7f7f837924f8f0966c43d8feab224c880f0cb4622a78ed00ed87b0f0a410e3d4) - _nobody@cypherpunks.ca (John Anonymous MacDonald)_
   + 1996-09-07 (Sat, 7 Sep 1996 20:38:09 +0800) - Re: TWA 800 - Friendly Fire? - _"\<pstira@escape.com\>" \<pstira@escape.com\>_
+  + 1996-09-08 (Sun, 8 Sep 1996 16:04:08 +0800) - [Re: TWA 800 - Friendly Fire?](/archive/1996/09/304a9833c445e171b5704f8509a59499f74c5de12dfb0ec65f015042762c1d7e) - _Black Unicorn \<unicorn@schloss.li\>_
+    + 1996-09-08 (Mon, 9 Sep 1996 06:12:07 +0800) - [Re: TWA 800 - Friendly Fire?](/archive/1996/09/e84936fb92f568cd97ba9d441761c09c66bdd0efe0f288d7c0d98f2661fa2f60) - _Declan McCullagh \<declan@eff.org\>_
 

@@ -135,4 +135,10 @@ Agp98YVAY4M=
 
 + 1997-09-25 (Fri, 26 Sep 1997 00:38:16 +0800) - Why the White amendment is a good idea (fwd) - _Declan McCullagh \<declan@vorlon.mit.edu\>_
   + 1997-09-25 (Fri, 26 Sep 1997 02:12:14 +0800) - [Re: Why the White amendment is a good idea (fwd)](/archive/1997/09/a26f720d0f6b2043083f5411af3a7bb037e3e4995810740a2efccd71f1f4910a) - _Tim May \<tcmay@got.net\>_
+  + 1997-09-25 (Fri, 26 Sep 1997 02:25:42 +0800) - [Re: Why the White amendment is a good idea (fwd)](/archive/1997/09/c7395ae72ac568eae482c402249c99116b0f9a74cc6365dc272d7a722815f7e3) - _Lizard \<lizard@dnai.com\>_
+    + 1997-09-25 (Fri, 26 Sep 1997 02:57:19 +0800) - [Re: Why the White amendment is a good idea (fwd)](/archive/1997/09/c2f1c03316ddd77be28fae7678c94ce5473b0cb417b226d44eb2142904e19347) - _Declan McCullagh \<declan@well.com\>_
+      + 1997-09-27 (Sun, 28 Sep 1997 01:21:11 +0800) - [Re: Why the White amendment is a good idea (fwd)](/archive/1997/09/95916a573a19146578077b5b4903676c03d78745a9b05660094c258c5988e172) - _nospam-seesignature@ceddec.com_
+  + 1997-09-25 (Fri, 26 Sep 1997 03:06:08 +0800) - [Re: Why the White amendment is a good idea (fwd)](/archive/1997/09/3a1fcd91dd93c4c258b6f6ba12c41faa3e21deeec97a867a343da1f79ea54c9d) - _Jeff Barber \<jeffb@issl.atl.hp.com\>_
+  + 1997-09-25 (Fri, 26 Sep 1997 03:09:11 +0800) - [Re: Why the White amendment is a good idea (fwd)](/archive/1997/09/c5dfba5419e9034689b2752ab6c6caf3cb9d080d7d53bf3653082fcd2bc77c58) - _Robert Hettinga \<rah@shipwright.com\>_
+  + 1997-09-25 (Fri, 26 Sep 1997 03:55:29 +0800) - [Re: Why the White amendment is a good idea (fwd)](/archive/1997/09/34a6348083735c8a990b1058861db35ff30d465d21dd872fc5ec3280f245c6d7) - _Lizard \<lizard@dnai.com\>_
 

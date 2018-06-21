@@ -192,4 +192,6 @@ Hal
 
 + 1994-08-20 (Sat, 20 Aug 94 09:53:19 PDT) - Brands cash - _Hal \<hfinney@shell.portal.com\>_
   + 1994-08-22 (Mon, 22 Aug 94 16:18:16 PDT) - [Re: Brands cash](/archive/1994/08/8748b9a96504d2df86c3ae4eab1e4ca65856298e1bcf5a3d9ed9a412c1032382) - _Hal \<hfinney@shell.portal.com\>_
+  + 1994-08-23 (Mon, 22 Aug 94 22:10:25 PDT) - [Re: Brands cash](/archive/1994/08/9064083f68a5a59778855aef1f0879d53af943780a171d7460d2ca18ba8e2c0c) - _Hal \<hfinney@shell.portal.com\>_
+  + 1994-08-25 (Thu, 25 Aug 94 09:23:46 PDT) - [Re: Brands cash](/archive/1994/08/6c25d8bb4721b5387403612909ff282472555fa4496d7ea0d34c4a8eb119bbbd) - _Hal \<hfinney@shell.portal.com\>_
 

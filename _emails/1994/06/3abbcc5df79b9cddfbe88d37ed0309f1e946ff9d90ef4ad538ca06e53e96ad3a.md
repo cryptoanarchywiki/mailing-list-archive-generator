@@ -55,4 +55,6 @@ every so often.
 
 + 1994-06-13 (Mon, 13 Jun 94 15:07:38 PDT) - [Re: Anon posts (was irritating posts...)](/archive/1994/06/f2a0a320d1d4ebbae6aff90aee1861578ebd06f567a8c754e75811adfaa961e7) - _Ben.Goren@asu.edu_
   + 1994-06-13 (Mon, 13 Jun 94 15:12:42 PDT) - Cypherpunk signal/noise ration - _paul@hawksbill.sprintmrn.com (Paul Ferguson)_
+  + 1994-06-13 (Mon, 13 Jun 94 15:22:42 PDT) - [Re: Anon posts (was irritating posts...)](/archive/1994/06/87a18a1e21db32baf91894ec3ece2d86ee43336bd9085e88e85b0196661ceeff) - _m5@vail.tivoli.com (Mike McNally)_
+  + 1994-06-13 (Mon, 13 Jun 94 16:00:37 PDT) - [How big is Cypherpunks?](/archive/1994/06/5065f2e616af3a8940ce177f2375620ead61d9f8b0cccb08e3b12eb0adf0b557) - _tcmay@netcom.com (Timothy C. May)_
 

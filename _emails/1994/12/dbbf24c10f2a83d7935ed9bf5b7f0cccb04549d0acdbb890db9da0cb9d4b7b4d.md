@@ -53,4 +53,5 @@ DETWEILER TENTACLES!!!!
 
 + 1994-12-02 (Thu, 1 Dec 94 21:16:41 PST) - DETWEILER IS SPOOFING US!!! - _nobody@rahul.net_
   + 1994-12-02 (Thu, 1 Dec 94 22:48:08 PST) - [Re: DETWEILER IS SPOOFING US!!!](/archive/1994/12/73431d5b2868ab7b9c719bd139f78e6f2f126475c40f09e04d400a9b77c10e77) - _werewolf@io.org (Mark Terka)_
+  + 1994-12-02 (Fri, 2 Dec 94 12:07:35 PST) - [Re: DETWEILER IS SPOOFING US!!!](/archive/1994/12/7b92424eea75e887ec4ee7c3d1f4d011bfd3c830530988a1af7da1995e602aa0) - _abostick@netcom.com (Alan Bostick)_
 

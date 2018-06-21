@@ -47,4 +47,5 @@ Hal
 
 + 1994-05-14 (Sat, 14 May 94 12:39:27 PDT) - Re: Message Havens - _Hal \<hfinney@shell.portal.com\>_
   + 1994-05-14 (Sat, 14 May 94 14:02:08 PDT) - [Message Havens, Pools, and Usenet](/archive/1994/05/90a6c427bf8e7254c6425932f4b35eaea4613a79ab3b5fc55cf3b90fdde5078d) - _tcmay@netcom.com (Timothy C. May)_
+  + 1994-05-15 (Sun, 15 May 94 08:45:47 PDT) - [Re: Message Havens](/archive/1994/05/1de3a76dbb22d800212741615f3ca9307d4704130a49950af2ba4b04a7eb6736) - _Karl Lui Barrus \<klbarrus@owlnet.rice.edu\>_
 

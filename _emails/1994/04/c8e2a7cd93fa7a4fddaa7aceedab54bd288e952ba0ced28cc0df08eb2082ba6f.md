@@ -83,4 +83,5 @@ Newbie Notice:				(Surfer's know the score...)
     + 1994-04-25 (Sun, 24 Apr 94 18:37:57 PDT) - Re: The un-BBS - _sdw@meaddata.com (Stephen Williams)_
       + 1994-04-25 (Sun, 24 Apr 94 21:21:42 PDT) - [Re: The un-BBS](/archive/1994/04/6f65cbb6cf3024c12d340307734529e5f9e556fd0d61c9d6fca2f7a0e0d7fb30) - _tcmay@netcom.com (Timothy C. May)_
         + 1994-04-25 (Sun, 24 Apr 94 21:52:19 PDT) - [Re: The un-BBS](/archive/1994/04/a3cadbc6db8b1cf7f3caeab87fa463242bfbcbe66e4ad8944f1d5ec5b00bcb9a) - _sdw@meaddata.com (Stephen Williams)_
+        + 1994-04-25 (Sun, 24 Apr 94 23:38:29 PDT) - [Re: The un-BBS](/archive/1994/04/d3a4c0ef465d95f339e81585c24e4f14777d9e1e16598e750ad8c312b631389f) - _Eli Brandt \<ebrandt@jarthur.cs.hmc.edu\>_
 

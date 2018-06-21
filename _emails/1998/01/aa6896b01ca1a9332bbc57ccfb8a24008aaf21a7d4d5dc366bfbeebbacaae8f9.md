@@ -80,4 +80,5 @@ polarization.
 
 + 1998-01-28 (Wed, 28 Jan 1998 22:31:53 +0800) - Re: Planetary rovers, SETI and other musings, was Re: update.356 (fwd) - _Jim Choate \<ravage@ssz.com\>_
   + 1998-01-28 (Thu, 29 Jan 1998 03:11:33 +0800) - [Re: Planetary rovers, SETI and other musings, was Re: update.356(fwd)](/archive/1998/01/c327525d86f4544a7c77b36cbee023c65f30a0670cfc6d9349edc8eda2f5a15c) - _Steve Schear \<schear@lvdi.net\>_
+  + 1998-01-28 (Thu, 29 Jan 1998 03:53:38 +0800) - [Re: Planetary rovers, SETI and other musings, was Re: update.356 (fwd)](/archive/1998/01/66bff7a8394c8fd78ce6e4dedb017ad71f8a3b616e9064df3ad8b7d60b074384) - _Tim May \<tcmay@got.net\>_
 

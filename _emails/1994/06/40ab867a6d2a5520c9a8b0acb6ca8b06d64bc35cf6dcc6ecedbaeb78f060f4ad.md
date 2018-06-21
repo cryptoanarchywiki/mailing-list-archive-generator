@@ -52,4 +52,5 @@ Jef
 + 1994-06-18 (Fri, 17 Jun 94 19:25:39 PDT) - Re: Another Cellular Victim - _Jef Poskanzer \<jef@ee.lbl.gov\>_
   + 1994-06-18 (Sat, 18 Jun 94 09:11:50 PDT) - [Re: Another Cellular Victim](/archive/1994/06/8bacec27cdab1aaebf47103b5aa3fe966ae64665e912970a1ae43f4a9793fcf7) - _m5@vail.tivoli.com (Mike McNally)_
     + 1994-06-18 (Sat, 18 Jun 94 10:53:03 PDT) - [Re: Another Cellular Victim](/archive/1994/06/4e679b88291956a7a24dc39e58f942cc49c953ad74cabac778a8daf37550e7a9) - _Phil Karn \<karn@qualcomm.com\>_
+  + 1994-06-19 (Sat, 18 Jun 94 19:50:55 PDT) - [Re: Another Cellular Victim](/archive/1994/06/7a84cefab9f1a825545a19c2484dc7e3c2e51f8f5d16bc1122a95f5dbd26a46f) - _carterm@spartan.ac.brocku.ca (Mark Carter)_
 

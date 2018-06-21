@@ -72,4 +72,5 @@ cman@best.com                                             --Princess Leia
 
 + 1996-01-03 (Wed, 3 Jan 1996 23:03:19 +0800) - Re: Why Net Censorship Doesn't Work - _cman@communities.com (Douglas Barnes)_
   + 1996-01-04 (Thu, 4 Jan 1996 09:12:17 +0800) - [Re: Why Net Censorship Doesn't Work](/archive/1996/01/5343724f24760fd88ad587d9611c3ff5312febdaf4b11e069e0ccba5811a59a0) - _Mike Fletcher \<fletch@ain.bls.com\>_
+  + 1996-01-05 (Fri, 5 Jan 1996 14:41:30 +0800) - [Re: Why Net Censorship Doesn't Work](/archive/1996/01/6d9ccfd4742c86cdc814dd03fbcdcec78c3cc7e3e03f086f399e318e44be1434) - _Jiri Baum \<jirib@sweeney.cs.monash.edu.au\>_
 

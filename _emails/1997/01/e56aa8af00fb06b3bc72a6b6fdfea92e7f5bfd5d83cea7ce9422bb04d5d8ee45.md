@@ -57,4 +57,5 @@ mailto:m5@tivoli.com    mailto:m101@io.com    http://www.io.com/~m101
 
 + 1997-01-06 (Sun, 5 Jan 1997 19:56:50 -0800 (PST)) - [High-tech tracking by police raises legal outcry](/archive/1997/01/c62739d3e6a6428cb188aaddcfec71c8d455caae6d8d9c0db6977abdcf3ac046) - _Secret Squirrel \<nobody@squirrel.owl.de\>_
   + 1997-01-06 (Mon, 6 Jan 1997 04:39:46 -0800 (PST)) - Re: High-tech tracking by police raises legal outcry - _Mike McNally \<m5@tivoli.com\>_
+  + 1997-01-07 (Mon, 6 Jan 1997 23:04:27 -0800 (PST)) - [Re: High-tech tracking by police raises legal outcry](/archive/1997/01/0f972a7b218b211740ee8f04e862cfbdaec7d91241e0de07f55937cdea83e8c6) - _Dale Thorn \<dthorn@gte.net\>_
 

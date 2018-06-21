@@ -53,4 +53,12 @@ the arbitrary power of the omnipotent state.                jamesd@netcom.com
 
 + 1994-08-01 (Mon, 1 Aug 94 09:10:21 PDT) - [Re: Anonymous code name allocated. // penet hack](/archive/1994/08/e7016b0fcf3a9c3a5bb9a5d19d3e3da961a9898d83a3e84bf8302737b1bc394e) - _jdd@aiki.demon.co.uk (Jim Dixon)_
   + 1994-08-01 (Mon, 1 Aug 94 11:00:53 PDT) - Re: Anonymous code name allocated. // penet hack - _jamesd@netcom.com (James A. Donald)_
+  + 1994-08-01 (Mon, 1 Aug 94 12:52:03 PDT) - [Re: Anonymous code name allocated. // penet hack](/archive/1994/08/fd201d2289dcc62b1469279cecdf82e23101b53c1fa8a75b362f75ad81dd9baa) - _solman@MIT.EDU_
+    + 1994-08-01 (Mon, 1 Aug 94 15:09:42 PDT) - [Re: Anonymous code name allocated. // penet hack](/archive/1994/08/68925f1d8974332ec1cef9a6943732cd3bb31762d403cad8a7e999f29da64418) - _Lyman Hazelton \<lrh@crl.com\>_
+  + 1994-08-01 (Mon, 1 Aug 94 14:50:02 PDT) - [Re: Anonymous code name allocated. // penet hack](/archive/1994/08/f02a57750f43b1e8c2647c21d303fc9e391934acdc7510f22167be4723650a11) - _Lyman Hazelton \<lrh@crl.com\>_
+  + 1994-08-02 (Mon, 1 Aug 94 19:55:11 PDT) - [Re: Anonymous code name allocated. // penet hack](/archive/1994/08/b0e24a2b08a54884fae9552183ef41a0d6e3bb4a1b53b2d54f8d7adaa250e657) - _rarachel@prism.poly.edu (Arsen Ray Arachelian)_
+    + 1994-08-02 (Tue, 2 Aug 94 05:28:27 PDT) - [Re: Anonymous code name allocated. // penet hack](/archive/1994/08/f29301e2883792fd938d0d0eed10afa7d633f4cdc27f093d301cc3ba5bd11613) - _"Perry E. Metzger" \<perry@imsi.com\>_
+      + 1994-08-02 (Tue, 2 Aug 94 05:50:40 PDT) - [Re: Anonymous code name allocated. // penet hack](/archive/1994/08/b08c319babd3117ce083c40c2f6d6faaff08bc287391b98fb8a31414ea84e061) - _Rolf Michelsen \<Rolf.Michelsen@delab.sintef.no\>_
+        + 1994-08-02 (Tue, 2 Aug 94 08:12:18 PDT) - [Re: Anonymous code name allocated. // penet hack](/archive/1994/08/b915d94c1d34b9df50bb738b35ae8cf84051947e59134a37d30fa3156daacb13) - _Rick Busdiecker \<rfb@lehman.com\>_
+          + 1994-08-02 (Tue, 2 Aug 94 09:19:17 PDT) - [Re: Anonymous code name allocated. // penet hack](/archive/1994/08/ddc740603151d6ff1e68f109ed9b0ae55582683778fe9b5aa03f2ea9d8d0c128) - _Berzerk \<berzerk@xmission.xmission.com\>_
 

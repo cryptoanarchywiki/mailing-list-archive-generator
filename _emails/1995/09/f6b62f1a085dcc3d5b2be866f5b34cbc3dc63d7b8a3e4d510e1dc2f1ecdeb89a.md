@@ -130,4 +130,6 @@ Maybe I'm just being dense.
 
 + 1995-09-05 (Tue, 5 Sep 95 13:54:02 PDT) - [Another Son of Clipper discussion paper](/archive/1995/09/32142df791f8c5b949547b1276a32eceb4687a87f28e668e19cc2fe6f878f875) - _Jim Gillogly \<jim@rand.org\>_
   + 1995-09-05 (Tue, 5 Sep 95 14:37:28 PDT) - Another Son of Clipper discussion paper - _m5@dev.tivoli.com (Mike McNally)_
+  + 1995-09-06 (Wed, 6 Sep 95 01:57:46 PDT) - [Re: Another Son of Clipper discussion paper](/archive/1995/09/964efcbb8560a1bffc928bcd10981ea31237761bef0f71d16c6e8d11ae0f4d6f) - _Deranged Mutant \<rrothenb@ic.sunysb.edu\>_
+  + 1995-09-07 (Wed, 6 Sep 95 23:30:51 PDT) - [Re: Another Son of Clipper discussion paper](/archive/1995/09/42d293ccf7a95c65bbce8aa95acfc0095ab4cc37cdf21c9cafe8ab3cfc774e7c) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
 

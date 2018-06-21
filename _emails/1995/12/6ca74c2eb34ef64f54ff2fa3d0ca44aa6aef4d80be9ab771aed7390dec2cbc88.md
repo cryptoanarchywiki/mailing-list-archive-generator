@@ -1,0 +1,135 @@
+---
+layout: default
+---
+
+# 1995-12-24 - Re: Fred Cohen: Re: CFS and Linux
+
+## Header Data
+
+From: Brian Davis \<bdavis@thepoint.net\><br>
+To: attila \<attila@primenet.com\><br>
+Message Hash: 6ca74c2eb34ef64f54ff2fa3d0ca44aa6aef4d80be9ab771aed7390dec2cbc88<br>
+Message ID: \<Pine.BSF.3.91.951224042445.20498A-100000@mercury.thepoint.net\><br>
+Reply To: \<Pine.BSD.3.91.951224080819.26471A-100000@usr3.primenet.com\><br>
+UTC Datetime: 1995-12-24 09:44:54 UTC<br>
+Raw Date: Sun, 24 Dec 1995 17:44:54 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: Brian Davis <bdavis@thepoint.net>
+Date: Sun, 24 Dec 1995 17:44:54 +0800
+To: attila <attila@primenet.com>
+Subject: Re: Fred Cohen: Re: CFS and Linux
+In-Reply-To: <Pine.BSD.3.91.951224080819.26471A-100000@usr3.primenet.com>
+Message-ID: <Pine.BSF.3.91.951224042445.20498A-100000@mercury.thepoint.net>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+On Sun, 24 Dec 1995, attila wrote:
+
+> On Sun, 24 Dec 1995, Brian Davis wrote:
+> 
+> > On Sat, 23 Dec 1995, Perry E. Metzger wrote:
+> > > > Fred Cohen writes to me in private:
+> > ...
+> > > 
+> > > Let's see.  I guess I would start by having the police confiscate the
+> > > toad.com computers becfause thay are part of a criminal conspiracy to
+> > ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> > I didn't realize that AI research was that far along.  Can someone point 
+> > me to the specs for the computer that can become a "part of a criminal 
+> > conspiracy"??
+> > 
+> > EBD
+> > 
+> > 
+> > > daamage my reputation.  Criminal because of the recent changes in the
+> > > law that prohibit you from sending me information I don't want to get.
+> > > 
+> >
+> 	the basis of the seizure is for evidence collection.  then they
+>     take their sweet time scrounging the disks for evidence.  If no
+>     evidence is found, they give it back --eventually.  I saw one case go 
+>     by a couple years back where they were trying to make the computer an
+>     accessory to the crime (I dunno, maybe it was supposed to auto-dial
+>     and drop the dime --no that's in 18USC as failure to snitch!)
+
+Much truth here, but not relevant to Dr. Fred's threat of a civil suit.  
+He can't have his attorneys just call the FBI to pick up toad's computer.
+
+CoS's seizure of computers, while shameful, was based on a different 
+legal theory than the good Dr. can possibly allege. 
+
+
+EBD
+
+
+> 	of course, if there are drugs involved, they confiscate it as
+>     spoils of the criminal act and the equipment is impounded and
+>     eventually sold after conviction for the benefit of their slush funds. 
+> 
+> 	I would imagin you have seen plenty of the latter one in the
+>     Federal attorney's office. this also gets into the issues of private
+>     cryptography and that _everybody_ should give up privacy protection,
+>     first amendment rights, etc. so uncle can catch a few dopers, gun 
+>     runners, and other assorted malcreants [sic] --like the difference 
+>     between {mis,mal}feasance: in both cases you get fucked, but 'mal' is
+>     intentional... 
+> 
+>  
+> > Not a lawyer on the Net, although I play one in real life.
+> >
+>     hey, at least you admit you're having a good time!
+> 
+> > **********************************************************
+> > Flame away! I get treated worse in person every day!!
+> > 
+>     
+> 
+> --
+> --------------------------------------------------------------------
+> #!/bin/perl -s-- -export-a-crypto-system-sig -RSA-3-lines-PERL
+> $m=unpack(H.$w,$m."\0"x$w),$_=`echo "16do$w 2+4Oi0$d*-^1[d2%Sa
+> 2/d0<X+d*La1=z\U$n%0]SX$k"[$m*]\EszlXx++p|dc`,s/^.|\W//g,print
+> pack('H*',$_)while read(STDIN,$m,($w=2*$d-1+length$n&~1)/2)
+> 
+> -----BEGIN PGP PUBLIC KEY BLOCK-----
+> Version: 2.6.2
+> 
+> mQCNAy5vBesAAAEEAN8cl6vHXrKZ9lFfZDgfyJRr3HidW77Uio7F25QF6QXca5z/
+> AS3ZrWsa0CjF2nwrqmyb1E5no7dFB+70ZfK8233r7ykVkWRojT+0K71lnUZO4cjG
+> +d19/ehXkDpkH3iHU7Uyo4ZdXLiI6uoFDS7ilzx8PCKcgvfq7b04kQrCC2kFAAUX
+> tAZhdHRpbGGJAJUDBRAur/X7xUpiaI661j0BAbVUA/9RSKN5sOFVB4rjV6+a2aWD
+> LjD5g/+eZaB/hI98qlPP+SBwzO3+K7+JWt3Fez0gKVju228ACGkvilg2VkMtQ0zm
+> YCexYL0U9StzHt4xEpowpmaWx22jpEvWnI10LZvT/NO3uYg5r/ezVYc7autKvfvI
+> rVOo322RkA0HNVV1rqjMGw==
+> =UNt4
+> -----END PGP PUBLIC KEY BLOCK-----
+> 
+> 
+
+Not a lawyer on the Net, although I play one in real life.
+**********************************************************
+Flame away! I get treated worse in person every day!!
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [December 1995](/archive/1995/12)
+
++ 1995-12-23 (Sun, 24 Dec 1995 03:14:20 +0800) - [Fred Cohen: Re: CFS and Linux](/archive/1995/12/78028bdb5c952bf089069dfa1b64e2e1b4f1d608db7b4e47d11d6597e695fc3a) - _"Perry E. Metzger" \<perry@piermont.com\>_
+  + 1995-12-23 (Sun, 24 Dec 1995 03:47:48 +0800) - [Re: Fred Cohen: Re: CFS and Linux](/archive/1995/12/47a944118058216df92c3a1e6800527a4e56dd4041a6b06c568970706048a7a6) - _Eric Murray \<ericm@lne.com\>_
+    + 1995-12-23 (Sun, 24 Dec 1995 04:45:20 +0800) - [Re: Fred Cohen: Re: CFS and Linux](/archive/1995/12/cfb142675f2dd834bf570fa498d377cb640b6721d5d01d3435c315c0bae98149) - _scs@lokkur.dexter.mi.us (Steve Simmons)_
+  + 1995-12-24 (Sun, 24 Dec 1995 15:14:46 +0800) - [Re: Fred Cohen: Re: CFS and Linux](/archive/1995/12/8cfbdb54f64551cb72eb1d811d35f301aeed866c9933f8f1ccc36b46e263eb5d) - _Brian Davis \<bdavis@thepoint.net\>_
+    + 1995-12-24 (Sun, 24 Dec 1995 16:58:08 +0800) - [Re: Fred Cohen: Re: CFS and Linux](/archive/1995/12/f69c2e9b6df84a54e5f72e9f1c56ae28f7780d719635c905ad835ebb1829c434) - _attila \<attila@primenet.com\>_
+      + 1995-12-24 (Sun, 24 Dec 1995 17:44:54 +0800) - Re: Fred Cohen: Re: CFS and Linux - _Brian Davis \<bdavis@thepoint.net\>_
+        + 1995-12-25 (Mon, 25 Dec 1995 14:56:28 +0800) - [Re: Fred Cohen: Re: CFS and Linux](/archive/1995/12/fbe9274685d15d09106d0323a7187197418340591675dfb2b41c4a80a80cf726) - _attila \<attila@primenet.com\>_
+

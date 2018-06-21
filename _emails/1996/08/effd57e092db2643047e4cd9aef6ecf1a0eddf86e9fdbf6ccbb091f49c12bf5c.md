@@ -80,4 +80,7 @@ makes an attempt to give a fair trial.
 + 1996-08-15 (Thu, 15 Aug 1996 16:55:02 +0800) - [Jurisdictionless Distributed Data Havens](/archive/1996/08/7d177a0189ec1e239540d304a72a1871e1f6941d2622eeceafdf8433e892534e) - _Kevin Stephenson \<cts@deltanet.com\>_
   + 1996-08-15 (Thu, 15 Aug 1996 23:43:10 +0800) - [Re: Jurisdictionless Distributed Data Havens](/archive/1996/08/5ad5c1bf17fb725cec893d98483e2fc792f8090c819b8ad557fc7166dafade07) - _Stephan Schmidt \<schmidt@pin.de\>_
     + 1996-08-15 (Fri, 16 Aug 1996 06:59:49 +0800) - Re: Jurisdictionless Distributed Data Havens - _"Douglas R. Floyd" \<dfloyd@io.com\>_
+  + 1996-08-15 (Fri, 16 Aug 1996 06:42:45 +0800) - [Re: Jurisdictionless Distributed Data Havens](/archive/1996/08/71cd822fcd279e7e0cae964f7d3e033b217982473773e3b24cae36d1b42f7339) - _"Douglas R. Floyd" \<dfloyd@io.com\>_
+    + 1996-08-16 (Sat, 17 Aug 1996 07:11:48 +0800) - [Re: Jurisdictionless Distributed Data Havens](/archive/1996/08/123de5fe1f38d30e0f2c1a2dad3c10b386b9e4f9002895991d6da29669e8f5b6) - _Black Unicorn \<unicorn@schloss.li\>_
+  + 1996-08-16 (Fri, 16 Aug 1996 08:29:31 +0800) - [Re: Jurisdictionless Distributed Data Havens](/archive/1996/08/5a564a0b6e4e86fc974f2433d1dd38f53c6e9547a4b9658347c329ee5e02452f) - _iang@cs.berkeley.edu (Ian Goldberg)_
 

@@ -133,4 +133,5 @@ for that kind of software.
 
 + 1997-10-16 (Fri, 17 Oct 1997 01:39:41 +0800) - Re: Security flaws introduced by "other readers" in CMR - _Anonymous \<nobody@REPLAY.COM\>_
   + 1997-10-16 (Fri, 17 Oct 1997 02:53:40 +0800) - [Re: Security flaws introduced by "other readers" in CMR](/archive/1997/10/7182430d30ab413ba14df36c8a6f981b99ab1bdab7accf5f06a4af81dab7095c) - _Tim May \<tcmay@got.net\>_
+  + 1997-10-17 (Sat, 18 Oct 1997 07:04:53 +0800) - [Re: Security flaws introduced by "other readers" in CMR](/archive/1997/10/b181bd0faf4c64d6812a7d1a3dcfa2044d2b7126569d08333654bba7eb52d8db) - _Adam Back \<aba@dcs.ex.ac.uk\>_
 

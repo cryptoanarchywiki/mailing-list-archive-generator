@@ -50,4 +50,5 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 
 + 1996-10-15 (Tue, 15 Oct 1996 14:05:02 -0700 (PDT)) - [Majordomo w/ built-in security](/archive/1996/10/ab68c697d9f6df547b7e1cc929ee8ef34078cd8cf48d44c4c7c5d14aedb115aa) - _Christopher Durfy \<chris@alphawave.com\>_
   + 1996-10-16 (Tue, 15 Oct 1996 21:01:52 -0700 (PDT)) - Re: Majordomo w/ built-in security - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+  + 1996-10-16 (Wed, 16 Oct 1996 03:46:42 -0700 (PDT)) - [Re: Majordomo w/ built-in security](/archive/1996/10/fa37e04f1403380a40464db348625f8f3cc207081f8d63b79f6530065de08054) - _"John A. Perry" \<perry@alpha.jpunix.com\>_
 

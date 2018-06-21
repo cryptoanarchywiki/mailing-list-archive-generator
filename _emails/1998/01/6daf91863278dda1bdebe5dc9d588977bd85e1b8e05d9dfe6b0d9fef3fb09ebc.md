@@ -75,4 +75,7 @@ Higher Power: 2^2,976,221   | black markets, collapse of governments.
 
 + 1998-01-29 (Thu, 29 Jan 1998 08:34:07 +0800) - [Re: Predicting cipher life / NSA rigged DES? / Destroying encrypted data (Tangent to Re: Burning papers)](/archive/1998/01/fe6e4878233c097937e79ebf7ab35b1bfcb773a96c7c398461ddce41e166668d) - _jim@mentat.com (Jim Gillogly)_
   + 1998-01-29 (Thu, 29 Jan 1998 10:36:23 +0800) - Chaining ciphers - _Tim May \<tcmay@got.net\>_
+  + 1998-01-31 (Sat, 31 Jan 1998 09:31:02 +0800) - [Re: Predicting cipher life / NSA rigged DES? / Destroying encrypted data (Tangent to Re: Burning papers)](/archive/1998/01/be3c09e1db2911e99952a3a5ef2a170215189cf71e64c1ece73aa69986799278) - _"Uhh...this is Joe [Randall Farmer]" \<rfarmer@HiWAAY.net\>_
+  + 1998-01-31 (Sat, 31 Jan 1998 10:13:49 +0800) - [Re: Predicting cipher life / NSA rigged DES? ...](/archive/1998/01/0cbad4028a4b1037870504d7e98612b0e5050067c57c37f0db142e7e29dedd47) - _Tim May \<tcmay@got.net\>_
+    + 1998-01-31 (Sun, 1 Feb 1998 00:23:48 +0800) - [Re: Predicting cipher life / NSA rigged DES? ...](/archive/1998/01/b44ed46083952669727d39a64b4926c20de3ca00bd9ed2e26d8adc8c0d1a80fd) - _"Uhh...this is Joe [Randall Farmer]" \<rfarmer@HiWAAY.net\>_
 

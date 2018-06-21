@@ -137,4 +137,7 @@ print pack"C*",split/\D+/,`echo "16iII*o\U@{$/=$z;[(pop,pop,unpack"H*",<>
             + 1998-10-08 (Fri, 9 Oct 1998 04:36:37 +0800) - Re: propose: `cypherpunks license' (Re: Wanted: Twofish source code) - _Adam Back \<aba@dcs.ex.ac.uk\>_
               + 1998-10-08 (Fri, 9 Oct 1998 06:50:44 +0800) - [Re: propose: `cypherpunks license' (Re: Wanted: Twofish source code)](/archive/1998/10/0abc4e18047ab7a766e17272506967dbe8ee228deba3a8e5a3bd4c767468afe5) - _"Frank O'Dwyer" \<fod@brd.ie\>_
                 + 1998-10-09 (Fri, 9 Oct 1998 08:09:09 +0800) - [importance of GUIs / secure distributed IRC (Re: propose: `cypherpunks license')](/archive/1998/10/7830e125270ca3aa35eec3acea5b043d26778a367dc97ee29eb0665119463a4a) - _Adam Back \<aba@dcs.ex.ac.uk\>_
+            + 1998-10-08 (Fri, 9 Oct 1998 04:36:48 +0800) - [HTTPS:// hyperlink spoofing (Re: propose: `cypherpunks license')](/archive/1998/10/4f3bccd1854b2ddb538c0883279f2462422b60bacea8927e95b38eb1d8d7a35b) - _Adam Back \<aba@dcs.ex.ac.uk\>_
+      + 1998-10-08 (Fri, 9 Oct 1998 01:24:50 +0800) - [Re: propose: `cypherpunks license' (Re: Wanted: Twofish sourcecode)](/archive/1998/10/26bd73052790740646e0d70ad221d2260ec2072a2a41f97b09f2d750c43b3fe4) - _Bill Frantz \<frantz@netcom.com\>_
+      + 1998-10-09 (Fri, 9 Oct 1998 08:45:02 +0800) - [Re: propose: `cypherpunks license' (Re: Wanted: Twofish source code)](/archive/1998/10/39cfc7f4dc761f4d7ef37010445e912b582b9b73f263fc4251a9a460f76f5dc9) - _Richard Stallman \<rms@gnu.org\>_
 

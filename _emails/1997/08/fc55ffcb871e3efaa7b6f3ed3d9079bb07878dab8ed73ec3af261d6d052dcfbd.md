@@ -54,4 +54,5 @@ the TLAs.
 
 + 1997-08-14 (Thu, 14 Aug 1997 21:00:44 +0800) - CIA/NSA Index - _John Young \<jya@pipeline.com\>_
   + 1997-08-14 (Thu, 14 Aug 1997 23:46:22 +0800) - [Re: CIA/NSA Index](/archive/1997/08/c4ad8e1794d195681a951fb668fcbbf1f017b80afd9ea6f32c03f355c0005afd) - _Ray Arachelian \<sunder@brainlink.com\>_
+  + 1997-08-14 (Fri, 15 Aug 1997 04:07:30 +0800) - [Tim McVeigh's Quote](/archive/1997/08/8f60181c08b71abd8920a01a3d4dd9ec6bfb2743f56cb826096fc3ba2addbb91) - _Duncan Frissell \<frissell@panix.com\>_
 

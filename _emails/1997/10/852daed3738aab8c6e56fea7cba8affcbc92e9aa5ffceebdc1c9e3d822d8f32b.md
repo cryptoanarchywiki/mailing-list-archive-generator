@@ -121,4 +121,6 @@ eIjlJZTuP+AemEyG6FD5dyXQV7qdcxKwDG9G4ka813NHl88LU0Nc1JcM4aPATgfh
 + 1997-10-08 (Wed, 8 Oct 1997 15:29:37 +0800) - What's really in PGP 5.5? - _Anonymous \<anon@anon.efga.org\>_
   + 1997-10-08 (Wed, 8 Oct 1997 21:16:25 +0800) - [Re: What's really in PGP 5.5?](/archive/1997/10/5988aaafee0856b2ff9f8bc66772dca3cf40e6d2fe897bd01302be55f4fa60dd) - _Ryan Anderson \<randerso@ece.eng.wayne.edu\>_
     + 1997-10-08 (Thu, 9 Oct 1997 06:07:01 +0800) - [Re: What's really in PGP 5.5?](/archive/1997/10/9c2e6fcd7b4e8628d3c8e440e1bacabcca020e7fe37f02e90b08fe9c31b7ccdc) - _Adam Back \<aba@dcs.ex.ac.uk\>_
+    + 1997-10-09 (Thu, 9 Oct 1997 22:32:14 +0800) - [Re: What's really in PGP 5.5?](/archive/1997/10/096034611b09012929a9c1352a5c1b9602b8bf8ae9a27220675efdfa19fbfa0d) - _Ryan Anderson \<randerso@ece.eng.wayne.edu\>_
+  + 1997-10-08 (Thu, 9 Oct 1997 00:13:02 +0800) - [Re: What's really in PGP 5.5?](/archive/1997/10/6baf064742a86c038c8da25bdf6e0a5ab4c587b751799fa5830d5c9bd977c6c6) - _Tim May \<tcmay@got.net\>_
 

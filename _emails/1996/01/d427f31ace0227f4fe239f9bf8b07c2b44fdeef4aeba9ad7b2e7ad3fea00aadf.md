@@ -74,4 +74,8 @@ On Tue, 23 Jan 1996, Perry E. Metzger wrote:
 + 1996-01-25 (Thu, 25 Jan 1996 12:31:48 +0800) - [Re: SS Obergruppenfuhrer Zimmermann (NOT!)](/archive/1996/01/f252b361cb92e7f7dcb95df79678feb428c4ad7675cd8b02d2fa82f0f112986d) - _jim bell \<jimbell@pacifier.com\>_
   + 1996-01-24 (Wed, 24 Jan 1996 13:42:08 +0800) - [Re: SS Obergruppenfuhrer Zimmermann (NOT!)](/archive/1996/01/750672fb0808cebba5670e2259dad6a4b2c5d56e9d650f63a5d4fc85cad8e863) - _"Perry E. Metzger" \<perry@piermont.com\>_
     + 1996-01-24 (Wed, 24 Jan 1996 23:55:19 +0800) - Re: SS Obergruppenfuhrer Zimmermann (NOT!) - _Tim Philp \<bplib@wat.hookup.net\>_
+    + 1996-01-24 (Thu, 25 Jan 1996 00:27:16 +0800) - [Zimmermann Telegram (crypto history)](/archive/1996/01/1f84342e1a8de103c606185b32bdb7e09696d5e139ca1cf07786859ae57121f6) - _cjl \<cjl@welchlink.welch.jhu.edu\>_
+      + 1996-01-24 (Thu, 25 Jan 1996 01:18:30 +0800) - [Re: Zimmermann Telegram (crypto history)](/archive/1996/01/e17e213ed6491f992cdc7e1fb9a70600855a0413601f23b6ece1423ad4eb06cd) - _"Perry E. Metzger" \<perry@piermont.com\>_
+      + 1996-01-25 (Fri, 26 Jan 1996 05:03:16 +0800) - [Re: Zimmermann Telegram (crypto history)](/archive/1996/01/9bbb3c62f628e2bee87498569481934b89f35b3eab7284b2d44bff0059145801) - _hallam@w3.org_
+  + 1996-01-25 (Fri, 26 Jan 1996 05:30:27 +0800) - [Re: SS Obergruppenfuhrer Zimmermann (NOT!)](/archive/1996/01/2f6fef2e0ce0f848435f27c5b2333cc93f32e3df571e3eb63c01c70e49a776e5) - _hallam@w3.org_
 

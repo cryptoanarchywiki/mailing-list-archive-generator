@@ -55,4 +55,6 @@ Do they have a bomb squad destroy it (could get expensive if a lot of
 + 1996-09-06 (Fri, 6 Sep 1996 19:25:15 +0800) - [Re: What is the EFF doing exactly?](/archive/1996/09/39006694505002a17049890f7e3df76a8991a226dc2a399cc70764f7cae9c309) - _"Omegaman" \<omega@bigeasy.com\>_
   + 1996-09-06 (Fri, 6 Sep 1996 23:27:01 +0800) - [16oz packages](/archive/1996/09/153f13445451d187aa0643d3c8b6c8ca998e4e7465ed09471b057739db6ff6bf) - _David Lesher \<wb8foz@nrk.com\>_
     + 1996-09-06 (Sat, 7 Sep 1996 03:01:59 +0800) - Re: 16oz packages - _nobody@cypherpunks.ca (John Anonymous MacDonald)_
+    + 1996-09-07 (Sat, 7 Sep 1996 20:19:04 +0800) - [Re: 16oz packages](/archive/1996/09/6cf24eace38525f783887cb9d859e64a7004c2e2b07470601eeafb76f01f43a8) - _"\<pstira@escape.com\>" \<pstira@escape.com\>_
+      + 1996-09-12 (Thu, 12 Sep 1996 16:20:01 +0800) - [Re: 16oz packages](/archive/1996/09/7e9d2cb813a9895a57acedd8803530a6b880db2cdbf714739e576ca2555f4c72) - _JonWienk@ix.netcom.com_
 

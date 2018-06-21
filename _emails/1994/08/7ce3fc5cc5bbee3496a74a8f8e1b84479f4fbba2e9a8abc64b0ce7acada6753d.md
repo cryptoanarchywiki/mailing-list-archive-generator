@@ -55,4 +55,5 @@ A most excellent argument.
 
 + 1994-08-04 (Thu, 4 Aug 94 10:41:24 PDT) - [USPS digital signature annoucement](/archive/1994/08/d1f981f06d049ff9eee19ec4ece7663aeacb8a9a8a41044f91af414ef4b902d0) - _Stanton McCandlish \<mech@eff.org\>_
   + 1994-08-04 (Thu, 4 Aug 94 14:46:54 PDT) - Re: USPS digital signature annoucement - _jamesd@netcom.com (James A. Donald)_
+  + 1994-08-06 (Fri, 5 Aug 94 20:47:37 PDT) - [Re: USPS digital signature annoucement](/archive/1994/08/31fa056745e26b34196b9f7b38b7e9689a88487c5f1b19528230ea47f59a1062) - _Bill & \<sommerfeld@orchard.medford.ma.us\>_
 

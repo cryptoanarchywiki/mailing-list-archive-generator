@@ -115,4 +115,5 @@ Licensed Ontologist         | black markets, collapse of governments.
 
 + 1996-07-18 (Fri, 19 Jul 1996 06:42:12 +0800) - Borders *are* transparent - _tcmay@got.net (Timothy C. May)_
   + 1996-07-19 (Sat, 20 Jul 1996 00:08:32 +0800) - [Re: Borders *are* transparent](/archive/1996/07/fe5e2190f039d5c40f0496e08af1af187bd33d92db2c35247a6a0b9afb48549e) - _David Sternlight \<david@sternlight.com\>_
+  + 1996-07-20 (Sat, 20 Jul 1996 22:32:08 +0800) - [Re: Borders *are* transparent](/archive/1996/07/2fca2488f15a796c766d776066241d7d5f51f0eb1dcddb5e28dbf3d6a8369b4f) - _Jeff Weinstein \<jsw@netscape.com\>_
 

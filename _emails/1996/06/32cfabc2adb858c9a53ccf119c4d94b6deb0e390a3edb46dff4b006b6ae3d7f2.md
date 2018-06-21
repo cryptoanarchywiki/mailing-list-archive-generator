@@ -54,4 +54,5 @@ Connected to ftp.rsa.com.
 
 + 1996-06-14 (Fri, 14 Jun 1996 14:19:41 +0800) - RSAREF down? - _Howard Melman \<melman@osf.org\>_
   + 1996-06-15 (Sat, 15 Jun 1996 10:12:21 +0800) - [Re: RSAREF down?](/archive/1996/06/7b168ead720940626b3f9ff97f7fc77e60d2b172edbc7224f4f6c53ece177f80) - _"Mark M." \<markm@voicenet.com\>_
+  + 1996-06-15 (Sat, 15 Jun 1996 10:26:54 +0800) - [Re: RSAREF down?](/archive/1996/06/993fe147dace9ac97c43fa9fba09d72944b6b19bc772544f289bc758d083c84f) - _mpd@netcom.com (Mike Duvos)_
 

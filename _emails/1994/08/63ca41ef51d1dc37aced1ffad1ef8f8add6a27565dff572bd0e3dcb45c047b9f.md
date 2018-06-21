@@ -63,4 +63,6 @@ Eric
 
 + 1994-08-09 (Tue, 9 Aug 94 08:50:56 PDT) - [GAK & RSA](/archive/1994/08/10cd0dd7f0115beac38ef42b8ae8ed0e1316878817f7bcbe237adb3925f42ece) - _paul@poboy.b17c.ingr.com (Paul Robichaux)_
   + 1994-08-09 (Tue, 9 Aug 94 09:16:15 PDT) - GAK & RSA - _hughes@ah.com (Eric Hughes)_
+  + 1994-08-09 (Tue, 9 Aug 94 10:52:40 PDT) - [Re: GAK & RSA](/archive/1994/08/3dced00f516228d961a6bc0e2275d50bd2f5c62df55cb6cf233fd6856fce2a89) - _tcmay@netcom.com (Timothy C. May)_
+    + 1994-08-09 (Tue, 9 Aug 94 11:24:40 PDT) - [Re: GAK & RSA](/archive/1994/08/ce5ba93ddcf14c5a0c177fad5d66cfc839507e030b55ac1f21b23239ba7e4bc3) - _Carl Ellison \<cme@tis.com\>_
 

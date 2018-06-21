@@ -62,4 +62,5 @@ Coral Gables, FL 33124 USA | It's @%#$%$# hot here.
 
 + 1997-07-05 (Sat, 5 Jul 1997 09:21:02 +0800) - [Key Recovery Policy in Japan](/archive/1997/07/1fc11a25f7828e6baa7145944b91754b350c4b3848ccd726d6edec26210cdcfc) - _Joichi Ito \<jito@eccosys.com\>_
   + 1997-07-05 (Sat, 5 Jul 1997 12:12:30 +0800) - Re: Key Recovery Policy in Japan - _"Michael Froomkin - U.Miami School of Law" \<froomkin@law.miami.edu\>_
+  + 1997-07-07 (Tue, 8 Jul 1997 05:51:40 +0800) - [Re: Key Recovery Policy in Japan](/archive/1997/07/a11a5fe0e79df274519f3065f8715469e04bd4660e5a15cf773ed46c15f86468) - _Carl Ellison \<cme@cybercash.com\>_
 

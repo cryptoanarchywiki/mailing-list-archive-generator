@@ -75,4 +75,5 @@ minow@apple.com
 
 + 1996-08-09 (Sat, 10 Aug 1996 04:00:17 +0800) - [SecurID](/archive/1996/08/03044867ff1459b39bfedb47fd976c94833a9c4ccf9045b3e56163873d6c4dcd) - _pjb@ny.ubs.com (Paul J. Bell)_
   + 1996-08-10 (Sat, 10 Aug 1996 08:16:09 +0800) - Re: SecurID - _Martin Minow \<minow@apple.com\>_
+  + 1996-08-10 (Sun, 11 Aug 1996 01:56:17 +0800) - [Re: SecurID](/archive/1996/08/7c1684ddbc1d6d920c2d9516ef8c65359b5546e954e08f40f4e8fd41ea115732) - _Adam Shostack \<adam@homeport.org\>_
 

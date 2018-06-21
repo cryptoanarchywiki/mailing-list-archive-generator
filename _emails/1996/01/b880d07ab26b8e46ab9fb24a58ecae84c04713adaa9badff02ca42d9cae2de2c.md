@@ -57,4 +57,5 @@ Futplex <futplex@pseudonym.com>
   + 1996-01-28 (Sun, 28 Jan 1996 18:23:28 +0800) - [Re: Downsizing the NSA](/archive/1996/01/c58b0fffdae938605ec4c24f6267ddce7d4ae9efdcdd9e145289eb95dd3f2795) - _Alan Horowitz \<alanh@infi.net\>_
     + 1996-01-29 (Mon, 29 Jan 1996 15:51:28 +0800) - Re: Downsizing the NSA - _futplex@pseudonym.com (Futplex)_
       + 1996-01-29 (Tue, 30 Jan 1996 05:35:33 +0800) - [Re: Downsizing the NSA](/archive/1996/01/349261d9f01e5d003c757d0cd2f4a70f8095cbeddc06311faa7fb4408cda8ba6) - _Alan Horowitz \<alanh@infi.net\>_
+  + 1996-01-31 (Thu, 1 Feb 1996 03:39:11 +0800) - [Re: Downsizing the NSA](/archive/1996/01/8740694fff9c4a09dc6d8a97a6bcdd29387f7a2eeefe16accd2ff2887f0de901) - _Mike Tighe \<tighe@spectrum.titan.com\>_
 

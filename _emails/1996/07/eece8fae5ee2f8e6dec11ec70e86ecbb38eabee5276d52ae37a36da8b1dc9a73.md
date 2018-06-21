@@ -69,4 +69,5 @@ DCF
 
 + 1996-07-16 (Tue, 16 Jul 1996 10:52:52 +0800) - Re: Markoff on Clipper III - _Duncan Frissell \<frissell@panix.com\>_
   + 1996-07-16 (Tue, 16 Jul 1996 15:11:17 +0800) - [Re: Markoff on Clipper III](/archive/1996/07/34957f794863b47c86c6c3235fe6824cd1ed1863a5676bb88b8a05d6f714181a) - _David Sternlight \<david@sternlight.com\>_
+  + 1996-07-16 (Tue, 16 Jul 1996 20:28:39 +0800) - [Re: Markoff on Clipper III](/archive/1996/07/a3acc1cb334919c60d18c49b0bf88d1ef09740051e7ea4631a6d1df48a8288c6) - _David Sternlight \<david@sternlight.com\>_
 

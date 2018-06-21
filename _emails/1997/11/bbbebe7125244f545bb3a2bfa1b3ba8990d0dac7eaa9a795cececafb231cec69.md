@@ -128,4 +128,5 @@ N6zMkBKuDXEpjmnX9O1LRelT7hEMX0ss6b4ZTmFw39NXwDwgFahP+C2/Zw+Kt0Je
 
 + 1997-11-03 (Mon, 3 Nov 1997 18:26:28 +0800) - One Time Pads (Real Ones!) - _Mix \<mixmaster@remail.obscura.com\>_
   + 1997-11-03 (Tue, 4 Nov 1997 00:51:54 +0800) - [Re: One Time Pads (Real Ones!)](/archive/1997/11/27c6a9f083175d30a86287c8d2dafa18e615d23f0f2945271141561ef440a1f2) - _"Peter D. Junger" \<junger@upaya.multiverse.com\>_
+  + 1997-11-03 (Tue, 4 Nov 1997 06:12:36 +0800) - [Export a random number, go to jail](/archive/1997/11/ee670572d13c2c7aa7a11ae91f032d04be10524a2fc37432148ea531895fecc3) - _Tim May \<tcmay@got.net\>_
 

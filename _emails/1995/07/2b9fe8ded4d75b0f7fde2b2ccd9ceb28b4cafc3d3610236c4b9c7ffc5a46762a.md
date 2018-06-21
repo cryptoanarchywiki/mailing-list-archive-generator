@@ -49,4 +49,6 @@ St. George, UT 84770-4953
 
 + 1995-07-12 (Wed, 12 Jul 95 16:28:28 PDT) - RSA129 Project - _rross@sci.dixie.edu (Russell Ross)_
   + 1995-07-12 (Wed, 12 Jul 95 16:53:01 PDT) - [Re: RSA129 Project](/archive/1995/07/6e2f46ef2a0b14122ec1c99a2cd90e257ea2a658c5afb285b6378734a4a14853) - _Derek Atkins \<warlord@MIT.EDU\>_
+  + 1995-07-13 (Wed, 12 Jul 95 17:07:01 PDT) - [Re: RSA129 Project](/archive/1995/07/09ea23a63d2546b1c60d8b26c69c7348b3bb95b4f5a6cb9612819144e1e38ecf) - _Jim Gillogly \<jim@acm.org\>_
+    + 1995-07-13 (Wed, 12 Jul 95 18:16:24 PDT) - [Re: RSA129 Project](/archive/1995/07/2d0e795b884d4b771e7884d970fb104061732cc59a7dc10d5354c1bcb9d26019) - _"Robert A. Hayden" \<hayden@krypton.mankato.msus.edu\>_
 

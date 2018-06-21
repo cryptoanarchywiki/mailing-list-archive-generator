@@ -61,4 +61,5 @@ who is selling it.
 
 + 1998-01-05 (Mon, 5 Jan 1998 15:18:48 +0800) - [Is FEAL developed by NTT safe?](/archive/1998/01/6e4566565514a3ba23a255a565276176b2f59f8536d855e41a0e52f41ba29677) - _"Nobuki Nakatuji" \<bd1011@hotmail.com\>_
   + 1998-01-05 (Mon, 5 Jan 1998 15:47:57 +0800) - Re: Is FEAL developed by NTT safe? - _Alan Olsen \<alan@clueserver.org\>_
+  + 1998-01-05 (Mon, 5 Jan 1998 15:51:22 +0800) - [Re: Is FEAL developed by NTT safe?](/archive/1998/01/595f0c54d351f0ce436177a276be34669f7204594579e7d6732d33553d78e0fc) - _Tim May \<tcmay@got.net\>_
 

@@ -120,4 +120,5 @@ I hope you can get over your obvious intolerance, Perry.
       + 1994-07-18 (Mon, 18 Jul 94 10:12:47 PDT) - [Re: Expose on North's Arm Smuggling](/archive/1994/07/ed3aa9372413e267efa7d56e207ca8995f09253d608eee1dcedb45e3d643c967) - _"Perry E. Metzger" \<perry@imsi.com\>_
         + 1994-07-18 (Mon, 18 Jul 94 10:34:41 PDT) - [Re: Expose on North's Arm Smuggling](/archive/1994/07/e4773c467ba43fb45a422edc32f42d78d68f0d62463b73f7138215e43e97a2ab) - _nelson@crynwr.com (Russell Nelson)_
           + 1994-07-18 (Mon, 18 Jul 94 10:36:23 PDT) - [Re: Expose on North's Arm Smuggling](/archive/1994/07/e8e7c25f05d7fcba28f54d34f8f906f3c9163f4ae99f5e8a0adaf9eaaab35472) - _"Perry E. Metzger" \<perry@imsi.com\>_
+      + 1994-07-18 (Mon, 18 Jul 94 12:31:39 PDT) - [Re: Expose on North's Arm Smuggling](/archive/1994/07/255a251509c1a9e99d4b8166f546b47dac8b2ba5b5048bcc6a276f62802d9405) - _ebrandt@muddcs.cs.hmc.edu (Eli Brandt)_
 

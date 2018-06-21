@@ -119,4 +119,5 @@ George Stathis
 
 + 1996-11-17 (Sat, 16 Nov 1996 23:01:59 -0800 (PST)) - Re: Censor John Gilmore -- EFF is a disgrace! - _"George A. Stathis" \<hyperlex@hol.gr\>_
   + 1996-11-17 (Sun, 17 Nov 1996 02:52:17 -0800 (PST)) - [Re: Censor John Gilmore -- EFF is a disgrace!](/archive/1996/11/38c83f3adbf88752f8096dd4a500e4ffa4a577a3eeb832f1d86d5a3e3b390375) - _Tim Scanlon \<tfs@adsl-122.cais.com\>_
+  + 1996-11-19 (Mon, 18 Nov 1996 16:21:50 -0800 (PST)) - [Re: Censor John Gilmore -- EFF is a disgrace!](/archive/1996/11/c3304fdce2d3d62a034234e7142ac72f29335db85089f3dea113eb0969fdc8d1) - _Stephen Boursy \<boursy@earthlink.net\>_
 

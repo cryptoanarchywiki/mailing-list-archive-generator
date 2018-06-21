@@ -59,4 +59,5 @@ http://www.shellback.com/personal/merriman/index.htm
 + 1996-03-29 (Fri, 29 Mar 1996 18:58:04 +0800) - Re: PPV Descrambler - _"David K. Merriman" \<merriman@arn.net\>_
   + 1996-03-29 (Fri, 29 Mar 1996 18:12:36 +0800) - [Re: PPV Descrambler](/archive/1996/03/9c3dd342b622c7f19c8be073396f1225247fa4473e353aefe9231e573afdc91b) - _firebrd123@ns.interconnect.net (Dan Nikolai)_
     + 1996-03-30 (Sat, 30 Mar 1996 14:57:22 +0800) - [Re: PPV Descrambler](/archive/1996/03/0774aff2299bf826704754872f981246b2aad04beb44e0085e3bbd01341e3984) - _Mark Aldrich \<maldrich@grctechs.va.grci.com\>_
+  + 1996-03-29 (Fri, 29 Mar 1996 23:20:11 +0800) - [[NOISE] Cable-TV-Piracy-Punks](/archive/1996/03/6618bfcb02aeb864001671d948b8ca775f845bd683a2d8a5f9d0e06c382fdb72) - _mpd@netcom.com (Mike Duvos)_
 

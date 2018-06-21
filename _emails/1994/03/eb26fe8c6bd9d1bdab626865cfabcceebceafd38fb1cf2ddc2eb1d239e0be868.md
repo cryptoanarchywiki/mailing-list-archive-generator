@@ -52,4 +52,5 @@ DCF
 
 + 1994-03-29 (Tue, 29 Mar 94 06:52:25 PST) - [Re: cfp '94 transcript](/archive/1994/03/6c41976be44d70554e1779c3f688f927cb8b19a7ee084578b29592864ccd86a5) - _werner@mc.ab.com_
   + 1994-03-29 (Tue, 29 Mar 94 07:38:09 PST) - Re: cfp '94 transcript - _Duncan Frissell \<frissell@panix.com\>_
+  + 1994-03-29 (Tue, 29 Mar 94 07:40:57 PST) - [Re: cfp '94 transcript](/archive/1994/03/bc21e7f25a3424570be32d1c415a8bac16f508ee9784cd05b10202f77acb820c) - _Mike Godwin \<mnemonic@eff.org\>_
 

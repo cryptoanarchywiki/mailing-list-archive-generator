@@ -166,7 +166,9 @@ has been repeatedly denied by anyone in a position to know. :-) ]
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
++ Return to [October 1996](/archive/1996/10)
 
 + 1996-09-29 (Sun, 29 Sep 1996 16:43:18 +0800) - Re: Making Remailers Widespread [REMAILERS] - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1996-09-29 (Mon, 30 Sep 1996 02:18:35 +0800) - [Re: Making Remailers Widespread [REMAILERS]](/archive/1996/09/fc2e9c9f835a6730bb76166d2b61c45680f4179748a660c0f8eacefa54a799d8) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+  + 1996-10-01 (Tue, 1 Oct 1996 08:49:49 +0800) - [Re: Making Remailers Widespread [REMAILERS]](/archive/1996/10/5029dd22e2f2b4319b2070c5ad446ace780f8be861d8868072746e12f9137ad5) - _snow \<snow@smoke.suba.com\>_
 

@@ -147,4 +147,5 @@ bcQSB052ODs=
 
 + 1994-05-04 (Tue, 3 May 94 23:07:35 PDT) - Giving Value to Digital Cash - _anonymous@extropia.wimsey.com_
   + 1994-05-04 (Tue, 3 May 94 23:52:39 PDT) - [Re: Giving Value to Digital Cash](/archive/1994/05/47f2e93c11eb56d2ea758a2f5d363ed25d6a7701c1c26781b131c1d9e0f4a8ed) - _Eli Brandt \<ebrandt@jarthur.cs.hmc.edu\>_
+  + 1994-05-04 (Wed, 4 May 94 04:59:50 PDT) - [Re: Giving Value to Digital Cash](/archive/1994/05/f3aab7789655a0707ec9f11aadb68b2e249063b74c96bf0febef701a64cb7524) - _"Perry E. Metzger" \<perry@snark.imsi.com\>_
 

@@ -98,4 +98,6 @@ Composite Age Rating: 45 years
 
 + 1997-07-19 (Sun, 20 Jul 1997 00:09:41 +0800) - [PICS recipes](/archive/1997/07/862eed77ab8cc4e55fa05c10f3a913c92cfe26a16b600add80ad8b0ffd84b593) - _nobody@REPLAY.COM (Anonymous)_
   + 1997-07-19 (Sun, 20 Jul 1997 01:24:52 +0800) - Voluntary mandatory PICS ratings on all posts - _Tim May \<tcmay@got.net\>_
+  + 1997-07-20 (Sun, 20 Jul 1997 09:53:39 +0800) - [Re: PICS recipes](/archive/1997/07/4952808a91c521d0853e905f6fdc4e3f43928fd069c7e93577acccec44fce0af) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
+  + 1997-07-21 (Mon, 21 Jul 1997 14:51:58 +0800) - [Re: Voluntary mandatory PICS ratings on all posts](/archive/1997/07/eb62d46d45efe724c88e0487b380fd2db9a9d2b3bd820e94972f2aaf65bee4bb) - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

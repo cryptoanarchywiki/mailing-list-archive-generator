@@ -1,0 +1,109 @@
+---
+layout: default
+---
+
+# 1996-03-04 - Re: Mainstreaming PGP on Usenet
+
+## Header Data
+
+From: ichudov@algebra.com (Igor Chudov @ home)<br>
+To: dlv@bwalk.dm.com (Dr. Dimitri Vulis)<br>
+Message Hash: 030d42c0772f064dd3cbf0fdbbabe940717ee4fbd847df71cceaced6bbd8ffc5<br>
+Message ID: \<199603040500.XAA06840@manifold.algebra.com\><br>
+Reply To: \<kgT9JD16w165w@bwalk.dm.com\><br>
+UTC Datetime: 1996-03-04 23:57:54 UTC<br>
+Raw Date: Tue, 5 Mar 1996 07:57:54 +0800<br>
+
+## Raw message
+
+```
+{% raw  %}From: ichudov@algebra.com (Igor Chudov @ home)
+Date: Tue, 5 Mar 1996 07:57:54 +0800
+To: dlv@bwalk.dm.com (Dr. Dimitri Vulis)
+Subject: Re: Mainstreaming PGP on Usenet
+In-Reply-To: <kgT9JD16w165w@bwalk.dm.com>
+Message-ID: <199603040500.XAA06840@manifold.algebra.com>
+MIME-Version: 1.0
+Content-Type: text
+
+
+-----BEGIN PGP SIGNED MESSAGE-----
+
+To: dlv@bwalk.dm.com (Dr. Dimitri Vulis)
+Cc: cypherpunks@toad.com
+Subject: Re: Mainstreaming PGP on Usenet
+
+Dr. Dimitri Vulis wrote:
+> Bruce Baugh <bruce@aracnet.com> writes:
+> > I'm surprised nobody has brought this up before....
+> >                      FIRST CALL FOR VOTES (of 2)
+> >             moderated group soc.culture.russian.moderated
+> >
+> > <snip>
+> >
+> > 6. Individuals in the database of known readers may post freely to
+> > the group, subject to the conditions in sections 1-4 above.  If need
+> > arises, the robomoderator may perform PGP verification of the
+> > identity of the known reader and, if the reader requests so,
+> > automatically reject all the submissions from the reader without
+> > a valid PGP signature.
+> 
+> Igor Chudov, who coded the robomoderator, reads Cypherpunks, and
+> is known to appreciate and use good suggestions.
+
+Indeed. If you indicate your interest, I can post here a more or less
+full description of the robomoderator, how it implements secure
+exchange between itself and human moderators, verifies submissions,
+and signs approved articles for posting (it uses PMApp by Greg Rose).
+
+Your criticisms will be most welcome.
+
+> One issue that hasn't been addressed by the s.c.r.m robomod is the
+> possibility of persistent nyms: that is, Alice D. Nonymous somehow makes
+> her public key known to the robomod; and later if someone submits an article
+> via some anon remailer claiming to be hers, it would be rejected if the
+> signature doesn't check. Of course, her true submissions would be accepted
+> from any remailer. How could such protocol be implemented?
+
+We see no problem with user posting under pseudonyms, as long as they do
+not try to pretend to be other real people and do not constantly mutate,
+and submit their messages to the robomoderator for consideration.
+
+> (Of course, some people have what they believe to be valid reasons not
+> to use PGP.)
+
+Sorry if this question will provoke a mini flamewar, but what are
+such reasons?
+
+	- Igor.
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.2
+
+iQCVAwUBMTp458JFmFyXKPzRAQEbQAP8CAtCiNm9h7pijz4+qrm6FFGRBDjsqvZb
+RkgFetA01oEONdp+RW3NP6GBY1zeNg7+HahfoavNPhASwBl230hLni1fEW5pL75o
+J5v5yNCYT4/N1aVfchoo50kjXv+KqvRyjr5YNxVmd/IFKokSV1w9ASfdXVk/7uDB
+Ep1n1jmP4OQ=
+=EQOd
+-----END PGP SIGNATURE-----
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [March 1996](/archive/1996/03)
+
++ 1996-03-03 (Mon, 4 Mar 1996 03:42:52 +0800) - [Mainstreaming PGP on Usenet](/archive/1996/03/4278ffc0e87441b5df1a5a240323441a1f8755ece2f729238a5175b4be987c55) - _Bruce Baugh \<bruce@aracnet.com\>_
+  + 1996-03-03 (Mon, 4 Mar 1996 06:44:34 +0800) - [Re: Mainstreaming PGP on Usenet](/archive/1996/03/f42b5058e8ce31dae79899edb1819b292b22da79ee6f84bf2e742b491a2f9fa4) - _Just Rich \<rich@c2.org\>_
+    + 1996-03-04 (Mon, 4 Mar 1996 13:50:01 +0800) - [Re: Mainstreaming PGP on Usenet](/archive/1996/03/4f6fadbdb89352da5c63b8e95e204c11486433b10afac0763888e3eed7c0922d) - _dlv@bwalk.dm.com (Dr. Dimitri Vulis)_
+      + 1996-03-05 (Tue, 5 Mar 1996 13:31:56 +0800) - [Re: Mainstreaming PGP on Usenet](/archive/1996/03/4d87a9aace68cde77becf5096a4e881b2aa0a0194b42b62df2048bcca7696c50) - _ichudov@algebra.com (Igor Chudov @ home)_
+  + 1996-03-04 (Mon, 4 Mar 1996 12:00:59 +0800) - [Re: Mainstreaming PGP on Usenet](/archive/1996/03/d4b2cf507570ca4d5afcb5fbc7a8c2027a8eb1d2b0afaff8b55f61502de14aa7) - _dlv@bwalk.dm.com (Dr. Dimitri Vulis)_
+    + 1996-03-04 (Tue, 5 Mar 1996 07:57:54 +0800) - Re: Mainstreaming PGP on Usenet - _ichudov@algebra.com (Igor Chudov @ home)_
+      + 1996-03-04 (Tue, 5 Mar 1996 07:54:08 +0800) - [Re: Mainstreaming PGP on Usenet](/archive/1996/03/4ec8a6b353e28c3882ce4cb734921e9291570ca08fe634e7e838d869627d1f54) - _Just Rich \<rich@c2.org\>_
+      + 1996-03-05 (Tue, 5 Mar 1996 13:08:28 +0800) - [Re: Mainstreaming PGP on Usenet](/archive/1996/03/2ff09ad88182805ab2b4c12972462a69523d41fb5738d7fc4b53e540429a9c2f) - _dlv@bwalk.dm.com (Dr. Dimitri Vulis)_
+        + 1996-03-05 (Tue, 5 Mar 1996 21:42:23 +0800) - [Re: Mainstreaming PGP on Usenet](/archive/1996/03/93f769087b492dba20e5e38db56921c0f0632a8b9c59bbb878266378565db152) - _ichudov@algebra.com (Igor Chudov @ home)_
+

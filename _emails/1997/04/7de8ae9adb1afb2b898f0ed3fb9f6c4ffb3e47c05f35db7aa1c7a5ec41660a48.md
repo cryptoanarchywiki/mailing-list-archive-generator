@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+# 1997-04-28 - Re: My Thread / Was--Re: Light Bulbs & newsgroups
+
+## Header Data
+
+From: Rabid Wombat \<wombat@mcfeely.bsfs.org\><br>
+To: Ross Wright \<rwright@adnetsol.com\><br>
+Message Hash: 7de8ae9adb1afb2b898f0ed3fb9f6c4ffb3e47c05f35db7aa1c7a5ec41660a48<br>
+Message ID: \<Pine.BSF.3.91.970428075043.2715A-100000@mcfeely.bsfs.org\><br>
+Reply To: \<199704220056.RAA13633@adnetsol.adnetsol.com\><br>
+UTC Datetime: 1997-04-28 13:08:28 UTC<br>
+Raw Date: Mon, 28 Apr 1997 06:08:28 -0700 (PDT)<br>
+
+## Raw message
+
+```
+{% raw  %}From: Rabid Wombat <wombat@mcfeely.bsfs.org>
+Date: Mon, 28 Apr 1997 06:08:28 -0700 (PDT)
+To: Ross Wright <rwright@adnetsol.com>
+Subject: Re: My Thread / Was--Re: Light Bulbs & newsgroups
+In-Reply-To: <199704220056.RAA13633@adnetsol.adnetsol.com>
+Message-ID: <Pine.BSF.3.91.970428075043.2715A-100000@mcfeely.bsfs.org>
+MIME-Version: 1.0
+Content-Type: text/plain
+
+
+
+
+On Mon, 21 Apr 1997, Ross Wright wrote:
+
+> On or About 21 Apr 97 at 15:42, Huge Cajones Remailer wrote:
+> 
+> > Rabid Wombat wrote:
+> > > On Sun, 20 Apr 1997, lucifer Anonymous Remailer wrote:
+> > > > Huge Cajones Remailer wrote:
+> > > > > Dr D. Wrote:
+> > > > > > Toto wrote:
+> > > > > > > T.C. May Wrote:
+> > > > > > > > Igor wrote:
+> > > > > > > > > Blah, Blah, Blah wrote:
+> 
+> As I said this was on just about every mailing list that I read.  It 
+> showed up first on a music related list.  
+> 
+> My question:  Why is this the only list that the thread is still 
+> alive on?  Jim, can we get an AP pool up to KILL it?
+> 
+
+Careful; you're treading upon Tim's right to speak freely concerning the 
+preservation of the intellectual property rights of light-bulb jokesters 
+everywhere.
+
+I must also remind you that you cannot kill a thread of this nature 
+without calling someone a Nazi. Rules are rules.
+
+-marsupialmonger
+
+
+
+
+
+
+
+
+{% endraw %}
+```
+
+## Thread
+
++ Return to [April 1997](/archive/1997/04)
+
++ 1997-04-22 (Mon, 21 Apr 1997 17:55:51 -0700 (PDT)) - [Re: My Thread / Was--Re: Light Bulbs & newsgroups](/archive/1997/04/070848e9e0c0d64c4a8d8e0019e7bc3d3645aff725f336a6fac8548c8633dd1c) - _"Ross Wright" \<rwright@adnetsol.com\>_
+  + 1997-04-22 (Mon, 21 Apr 1997 18:12:37 -0700 (PDT)) - [Re: My Thread / Was--Re: Light Bulbs & newsgroups](/archive/1997/04/8568e301fb1a5f75e49e60d59742fe19760d2f0429e81df41c7fbac4ddada917) - _ichudov@algebra.com (Igor Chudov @ home)_
+  + 1997-04-28 (Mon, 28 Apr 1997 06:08:28 -0700 (PDT)) - Re: My Thread / Was--Re: Light Bulbs & newsgroups - _Rabid Wombat \<wombat@mcfeely.bsfs.org\>_
+

@@ -80,4 +80,5 @@ As for circumventing it, any law such as this should just be ignored.
 
 + 1997-07-28 (Mon, 28 Jul 1997 23:51:36 +0800) - [Cryptography Question (I hope it's not off-topic on this list)](/archive/1997/07/a2ecfe39f88227814a37116bae82bd09eeba3de0efc418eb378e3051bf4b5e01) - _nobody@REPLAY.COM (Anonymous)_
   + 1997-07-30 (Thu, 31 Jul 1997 02:01:15 +0800) - Re: Cryptography Question (I hope it's not off-topic on this list) - _Paul Bradley \<paul@fatmans.demon.co.uk\>_
+  + 1997-07-30 (Thu, 31 Jul 1997 04:30:22 +0800) - [Re: Cryptography Question (I hope it's not off-topic on this list)](/archive/1997/07/c811fb4b93a7b7806839a65c8bc727c0a21c327d405d5c4682ee84aa900f8556) - _iang@cs.berkeley.edu (Ian Goldberg)_
 

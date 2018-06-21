@@ -74,4 +74,6 @@ On Tue, 21 Nov 1995, Weld Pond wrote:
 
 + 1995-11-22 (Wed, 22 Nov 1995 11:01:17 +0800) - [Pedophiles use encoding devices to make secret use of Internet](/archive/1995/11/f933fce58cb95497a7575e0aba4a4b7afcb2064653cc24ec1f8c3c9e187ecf91) - _Weld Pond \<weld@l0pht.com\>_
   + 1995-11-22 (Thu, 23 Nov 1995 01:05:38 +0800) - Re: Pedophiles use encoding devices to make secret use of Internet - _NetSurfer \<netsurf@pixi.com\>_
+  + 1995-11-22 (Thu, 23 Nov 1995 02:07:10 +0800) - [Re: Pedophiles use encoding devices to make secret use of Internet](/archive/1995/11/50d602cc8c80dc343fc1333bd7953e24d748fc941f6922bb1141a63cb0cf3613) - _Sten Drescher \<dreschs@mpd.tandem.com\>_
+  + 1995-11-23 (Thu, 23 Nov 1995 09:36:51 +0800) - [Re: Pedophiles use encoding devices to make secret use of Internet](/archive/1995/11/ecb965e8aaf39dfc88322c9712fb841d8718d3a43541b7f8c162304136193ca0) - _"Perry E. Metzger" \<perry@piermont.com\>_
 

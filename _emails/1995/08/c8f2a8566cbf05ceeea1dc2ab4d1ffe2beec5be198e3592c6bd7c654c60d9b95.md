@@ -101,4 +101,5 @@ Higher Power: 2^756839    | Public Key: PGP and MailSafe available.
 
 + 1995-08-21 (Sun, 20 Aug 95 20:34:02 PDT) - Third World Man - _tcmay@got.net (Timothy C. May)_
   + 1995-08-21 (Mon, 21 Aug 95 07:04:41 PDT) - [Re: Third World Man](/archive/1995/08/41370428190ff355d24f9ef6ef60dcd990ee483b749bb037b01d5d77bc66fc62) - _Lyle Seaman \<lws+@transarc.com\>_
+  + 1995-08-21 (Mon, 21 Aug 95 14:41:46 PDT) - [Re: Third World Man](/archive/1995/08/6c9078a605992a6514e1aa7a0ca03c7e1425dae5a31f8953117b02bbb39c0e30) - _Adam Shostack \<adam@bwh.harvard.edu\>_
 

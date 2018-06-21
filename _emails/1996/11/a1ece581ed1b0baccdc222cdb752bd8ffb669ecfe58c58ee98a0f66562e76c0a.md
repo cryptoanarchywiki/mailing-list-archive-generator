@@ -86,4 +86,5 @@ smith@sctc.com
 
 + 1996-11-12 (Tue, 12 Nov 1996 13:54:06 -0800 (PST)) - Re: Secrecy: My life as a nym. (Was: nym blown?) - _Rick Smith \<smith@sctc.com\>_
   + 1996-11-13 (Tue, 12 Nov 1996 19:11:19 -0800 (PST)) - [Dossier on Rick Smith is Easily Obtainable](/archive/1996/11/d30c2c33e8a74030fbd8ce270e3e40710a18b8da5ec33cc889c25e8843709d70) - _"Timothy C. May" \<tcmay@got.net\>_
+  + 1996-11-13 (Wed, 13 Nov 1996 13:16:47 -0800 (PST)) - [Re: Secrecy: My life as a nym. (Was: nym blown?)](/archive/1996/11/459b324d1d4f0af1a78ff30c5b2d8a8b8249194302f4f6e223c78b993cd7e31a) - _Black Unicorn \<unicorn@schloss.li\>_
 

@@ -60,4 +60,5 @@ and more out of control?"
 
 + 1996-10-10 (Wed, 9 Oct 1996 19:22:37 -0700 (PDT)) - Re: "European Union Bank" - _Duncan Frissell \<frissell@panix.com\>_
   + 1996-10-10 (Thu, 10 Oct 1996 01:48:29 -0700 (PDT)) - [Re: "European Union Bank"](/archive/1996/10/54a9f593b1ab5a8d8a2f7c947e194fe9c252f0577d5784532ad6fceb8b177241) - _Black Unicorn \<unicorn@schloss.li\>_
+  + 1996-10-10 (Thu, 10 Oct 1996 08:07:53 -0700 (PDT)) - [Re: "European Union Bank"](/archive/1996/10/748884c2458dee15419281dd5bf142b002b8c925d562b3c67d002016d4b5b66b) - _Simon Spero \<ses@tipper.oit.unc.edu\>_
 

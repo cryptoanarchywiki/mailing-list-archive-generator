@@ -73,4 +73,6 @@ on what they plan to do with respect to the various PGP versions?
 
 + 1994-06-24 (Thu, 23 Jun 94 21:02:05 PDT) - RE: WARNING! - _nobody@ds1.wu-wien.ac.at_
   + 1994-06-24 (Thu, 23 Jun 94 22:22:34 PDT) - [Re: WARNING!](/archive/1994/06/0ddf3d1852a1d746dc2ff580650a8761c8170a2ad8311ea77429411d0758e395) - _Hal \<hfinney@shell.portal.com\>_
+  + 1994-06-24 (Fri, 24 Jun 94 00:56:53 PDT) - [Re: WARNING!](/archive/1994/06/a54fd67577911e754bb37b145fa7b57250928ece055ae2885699036ca752e315) - _ER CRAMER \<crame001@hio.tem.nhl.nl\>_
+    + 1994-06-24 (Fri, 24 Jun 94 01:35:35 PDT) - [Re: WARNING!](/archive/1994/06/090267001a3c646a6ffeda0d4476b64b863dcd8357247a14222db956ffeef87b) - _mgream@acacia.itd.uts.edu.au (Matthew Gream)_
 

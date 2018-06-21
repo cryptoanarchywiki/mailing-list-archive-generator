@@ -75,4 +75,5 @@ subscribe cypherpunks. FAQ available at ftp.netcom.com in pub/tcmay
 + 1994-09-24 (Sat, 24 Sep 94 16:13:10 PDT) - [Re: kerberosV telnet](/archive/1994/09/13c284aba4466876c2574d62ffacc05ca88de8f3d5939fe1a90196f6c0372d6f) - _Jef Poskanzer \<jef@ee.lbl.gov\>_
   + 1994-09-25 (Sun, 25 Sep 94 00:01:26 PDT) - [Re: kerberosV telnet](/archive/1994/09/8ef7dea43238264905a231035f623e01832ef02770e148cbeb38199fbf2a2d99) - _khijol!erc (Ed Carp [Sysadmin])_
     + 1994-09-25 (Sun, 25 Sep 94 00:20:16 PDT) - "Debt of Honor" and Solution to Congress Problem - _tcmay@netcom.com (Timothy C. May)_
+  + 1994-09-25 (Sun, 25 Sep 94 07:15:32 PDT) - [Re: kerberosV telnet](/archive/1994/09/75ae7c77505559b957fa928253572f085c88d5c98869594fa949f60e9d6b3761) - _"Perry E. Metzger" \<perry@imsi.com\>_
 

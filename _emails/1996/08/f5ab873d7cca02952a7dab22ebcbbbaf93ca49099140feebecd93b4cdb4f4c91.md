@@ -54,4 +54,5 @@ missing.)
 + 1996-08-09 (Sat, 10 Aug 1996 07:37:14 +0800) - [John Gilmore on the Radio!](/archive/1996/08/b63d9d7c1e5eb1bc40cb8da6c90f622bd851f2571bd66799e6d009c7af93875a) - _"P. J. Ponder" \<ponder@freenet.tlh.fl.us\>_
   + 1996-08-10 (Sat, 10 Aug 1996 10:17:34 +0800) - Re: John Gilmore on the Radio! - _Rich Graves \<rich@c2.org\>_
     + 1996-08-10 (Sat, 10 Aug 1996 13:32:21 +0800) - [Re: John Gilmore on the Radio!](/archive/1996/08/75a1bf38cc4590da2de3b938c4c2d0a8718cdc6f31def35b82de34dcdb36103d) - _Sandy Sandfort \<sandfort@crl.com\>_
+    + 1996-08-12 (Mon, 12 Aug 1996 16:48:28 +0800) - [Re: John Gilmore on the Radio!](/archive/1996/08/e13ef177abddb88dd7b64df3f89aa8b3a31a5b93c5988fbeef1486d40e74119b) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 
