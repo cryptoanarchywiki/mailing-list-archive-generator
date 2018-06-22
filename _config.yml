@@ -20,6 +20,9 @@ collections:
   emails:
     permalink: /archive/:path/
     output: true
+  authors:
+    permalink: /authors/:path/
+    output: true
 
 social:
     - icon: fa-twitter

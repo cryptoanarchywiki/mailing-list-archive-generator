@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+# Michael Hohensee <michael@sparta.mainstream.net> (3 posts)
+
+_Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
+
+## Threads
+
+### y2k/gary north delusions
++ 1998-11-29 (Sun, 29 Nov 1998 11:28:51 +0800) - [y2k/gary north delusions](/archive/1998/11/892f8bf5ef45828e1ba7575058b90a2ede41159ac220006c4e60c75159510065) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
+  + 1998-12-04 (Sat, 5 Dec 1998 03:15:09 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/8ee178024cff11bf00e9aaba172ee0c81591972b9f2d16604157b22140a1f893) - _Petro \<petro@playboy.com\>_
+    + 1998-12-04 (Sat, 5 Dec 1998 05:31:23 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/d9ea4507d4730a81eefb3c64cd12bafbc72de29baac15032dd607922e900ea3c) - _ichudov@Algebra.COM (Igor Chudov @ home)_
+      + 1998-12-05 (Sat, 5 Dec 1998 08:24:51 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/836c770ee8c43fa3de4d6fb800d2b232f9afa041b1679c294e38f0bf327f4c5a) - _Michal Hohensee \<mah248@nyu.edu\>_
+        + 1998-12-05 (Sat, 5 Dec 1998 09:08:06 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/63798d63fe82d8afd504180b44b8aed8380fe8984d5a2f65105d0a48f67fe36a) - _ichudov@Algebra.COM (Igor Chudov @ home)_
+          + 1998-12-05 (Sat, 5 Dec 1998 22:12:42 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/96f362300798853548a6a252b737e31997512cf69c69e5271bcd3dd92aaf0979) - _Michal Hohensee \<mah248@nyu.edu\>_
+            + 1998-12-05 (Sun, 6 Dec 1998 00:22:35 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/bc4de33ada071bf8eaf186c31c4ee34eca5ef3d1dcf7ea84fb62906bea8b6ec5) - _"William H. Geiger III" \<whgiii@openpgp.net\>_
+              + 1998-12-06 (Sun, 6 Dec 1998 13:49:34 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/c08638651919188e478a419e2fcbe2c8df7dd055c07241170db10ca71164b80b) - _Michael Hohensee \<mah248@nyu.edu\>_
+                + 1998-12-06 (Mon, 7 Dec 1998 05:20:43 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/4fdb40c3690158ffa1dcdd11f0f210fcfb742d333caf3e18acc71bc660830506) - _ichudov@Algebra.COM (Igor Chudov @ home)_
+                + 1998-12-06 (Mon, 7 Dec 1998 05:40:21 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/ea4e6ae683d1c55649b059277cafe367ea69c9231b6ea4a4baa87b8037bc5074) - _"William H. Geiger III" \<whgiii@openpgp.net\>_
+                  + 1998-12-07 (Mon, 7 Dec 1998 09:40:58 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/c8d4d38194ffd96140701811857d2539e545c2d5a0fc13170676f13e1534d02f) - _Michael Hohensee \<michael@sparta.mainstream.net\>_
+                  + 1998-12-08 (Tue, 8 Dec 1998 12:20:04 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/6053a83fe3dbe0eef5a012b7b5ac16b9b510bed9829c777465d1b50652173466) - _"Douglas L. Peterson" \<fnorky@chisp.net\>_
+                + 1998-12-07 (Tue, 8 Dec 1998 05:37:59 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/f2e426059f30647098b6d94eaaa4b2596b21934132efe704fd8bccd8d9b831d0) - _Petro \<petro@playboy.com\>_
+            + 1998-12-05 (Sun, 6 Dec 1998 01:08:23 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/44b093023bb4cf5827eff59a2bff8342f0aefbe5db7deac3f0d7f50f24501afd) - _ichudov@Algebra.COM (Igor Chudov @ home)_
+              + 1998-12-06 (Sun, 6 Dec 1998 13:51:38 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/7496f56b1d1e4cb28abd983a38454cb42ae48aad39269ce12fd9d8f0b31f5223) - _Michael Hohensee \<mah248@nyu.edu\>_
+                + 1998-12-06 (Mon, 7 Dec 1998 05:28:26 +0800) - [No food, no shit (Re: y2k/gary north delusionsn)](/archive/1998/12/a11f8ab1f7cc13f9d911e98bd43185be9b933a46849ffa02abf9c7b5d604089e) - _ichudov@Algebra.COM (Igor Chudov @ home)_
+            + 1998-12-07 (Tue, 8 Dec 1998 05:36:03 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/92d9c163941413285eb62b126b15a6862286f261c04fde963609bedb30f1cc95) - _Petro \<petro@playboy.com\>_
+          + 1998-12-05 (Sat, 5 Dec 1998 23:25:41 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/1aa04ff87fe181d8ac0c3fd00ba414320b87270162f98de61258c41ede9569cf) - _Soren \<sorens@workmail.com\>_
+          + 1998-12-05 (Sun, 6 Dec 1998 00:31:18 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/570b823657174bb548f129832613d4f7c87edd6c8882cbe5234b4465c491d124) - _John Young \<jya@pipeline.com\>_
+          + 1998-12-05 (Sun, 6 Dec 1998 03:49:28 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/d0e2fa780abec087928c601694b85a45c46d9c96c70f0cb3c40ff1a58ece56bc) - _Declan McCullagh \<declan@well.com\>_
+          + 1998-12-06 (Sun, 6 Dec 1998 13:35:17 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/782902b37c150ed455b0a8ecae574f39840e4ac561a4e3c2e5baed8de9bbeb72) - _Michael Hohensee \<mah248@nyu.edu\>_
+    + 1998-12-04 (Sat, 5 Dec 1998 07:22:39 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/0e4d2975a482a17a9fa7c100152b06be9f572acef7329553fe9f31406d233b34) - _Petro \<petro@playboy.com\>_
+      + 1998-12-05 (Sat, 5 Dec 1998 08:28:17 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/51105fb7dbd4a3867d5b4eaa0312d46d787693f8da363ae470f2dc755d4d218a) - _ichudov@Algebra.COM (Igor Chudov @ home)_
+        + 1998-12-07 (Tue, 8 Dec 1998 05:39:17 +0800) - [Re: [Fwd: y2k/gary north delusions]](/archive/1998/12/0f2ff0350249181853752c51e8a27b64fd46d26a16f27806755919289f3b6ff5) - _Petro \<petro@playboy.com\>_
+
+### CFS & TCFS (was Re: Linux Encrypted File System)
++ 1998-12-12 (Sat, 12 Dec 1998 23:45:49 +0800) - [CFS & TCFS (was Re: Linux Encrypted File System)](/archive/1998/12/449206c75d8e2405c563771827d5fad4663bb5ed7a4245f46350e97010bf77d0) - _mib \<mib@io.com\>_
+  + 1998-12-12 (Sun, 13 Dec 1998 02:28:40 +0800) - [Re: CFS & TCFS (was Re: Linux Encrypted File System)](/archive/1998/12/a040e615f7ff8f24652693950733bee7fb293295b39a965bb9c7453a371ce75d) - _Michael Hohensee \<michael@sparta.mainstream.net\>_
+  + 1998-12-12 (Sun, 13 Dec 1998 03:35:49 +0800) - [Re: CFS & TCFS](/archive/1998/12/fa896a6b78b803e423d7dbaf9823e84a5185f1d39579f73957953b83010aa08e) - _mib \<mib@io.com\>_
+  + 1998-12-12 (Sun, 13 Dec 1998 03:44:13 +0800) - [Re: CFS & TCFS](/archive/1998/12/969decd198ad950bb72f502c1dc8b673dc1049b73c85cdf7fc66482141dc59ab) - _Michael Hohensee \<michael@sparta.mainstream.net\>_
+

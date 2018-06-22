@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+# Vipul Ved Prakash <mail@vipul.net> (7 posts)
+
+_Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
+
+## Threads
+
+### oracle on feds (fwd)
++ 1998-01-09 (Fri, 9 Jan 1998 21:35:42 +0800) - [oracle on feds (fwd)](/archive/1998/01/f81c22351250911c1277616a2647e064b070ed688e7ba1a460efc3178934ac8e) - _Vipul Ved Prakash \<mail@vipul.net\>_
+
+### Re: Freedom Forum report on the State of the First Amendment
++ 1998-01-01 (Fri, 2 Jan 1998 06:10:42 +0800) - [Re: Freedom Forum report on the State of the First Amendment](/archive/1998/01/af748c09aff3e9488b5d9e49c4d2264cc012a8245b67e7fcb53763ddf80a69f2) - _Mikhael Frieden \<mikhaelf@mindspring.com\>_
+  + 1998-01-09 (Fri, 9 Jan 1998 21:38:34 +0800) - [Re: Freedom Forum report on the State of the First Amendment](/archive/1998/01/5b54b63c34267ae7b5c3b004d66979bad07e158796636f591971718342e2881e) - _Vipul Ved Prakash \<mail@vipul.net\>_
+
+### Netscape 5 will be GPL'ed
++ 1998-01-22 (Fri, 23 Jan 1998 04:28:22 +0800) - [Netscape 5 will be GPL'ed](/archive/1998/01/6f28667a3ea755281258d2871c2c1097aae484d3264e9e9242b21d85dfa8be56) - _root \<root@fountainhead.net\>_
+  + 1998-01-22 (Fri, 23 Jan 1998 07:09:23 +0800) - [Re: Netscape 5 will be GPL'ed](/archive/1998/01/ecf1e4ac366ff23157c1d03c8e342a5e5c603748aad2071bcdf03c8f6e2f9b55) - _Markus Kuhn \<Markus.Kuhn@cl.cam.ac.uk\>_
+    + 1998-01-23 (Fri, 23 Jan 1998 09:13:28 +0800) - [Re: Netscape 5 will be GPL'ed](/archive/1998/01/71402b49024806e7ddaaaeded472ef319917f134576881e60764d2e875200b2a) - _"William H. Geiger III" \<whgiii@invweb.net\>_
+    + 1998-01-23 (Sat, 24 Jan 1998 03:49:40 +0800) - [Re: Netscape 5 will be GPL'ed](/archive/1998/01/0fdbd62578cfae4ac2dd329766b9b8371de31cf72aaef7ce74e63738b7d1c11c) - _Adam Shostack \<adam@homeport.org\>_
+      + 1998-01-24 (Sat, 24 Jan 1998 09:50:16 +0800) - [Re: Netscape 5 will be GPL'ed](/archive/1998/01/1ea8733131a359d94def7f24b026a52396138a8b0e8115e11b86e3691eec98fb) - _Vipul Ved Prakash \<mail@vipul.net\>_
+    + 1998-01-27 (Tue, 27 Jan 1998 11:34:56 +0800) - [Re: Netscape 5 will be GPL'ed](/archive/1998/01/9e709a10b6be98b712f55f70856afcfb56f902b02a2cf61d6970ba1201efc9b8) - _Tom Weinstein \<tomw@netscape.com\>_
+      + 1998-01-27 (Tue, 27 Jan 1998 23:03:15 +0800) - [Re: Netscape 5 will be GPL'ed](/archive/1998/01/adb723390c058d374adadba5f448243e482bd29dd8c77990eb08eddf569dee1f) - _nobody@REPLAY.COM (Anonymous)_
+        + 1998-01-28 (Wed, 28 Jan 1998 08:16:08 +0800) - [Re: Netscape 5 will be GPL'ed](/archive/1998/01/a538807299bf4c72fb9a28ad9c87757ae4cf403249199ad0fcae7e67128f14ca) - _Adam Back \<aba@dcs.ex.ac.uk\>_
+      + 1998-01-28 (Wed, 28 Jan 1998 14:47:53 +0800) - [Exporting Code the Easy Way](/archive/1998/01/790ef79a2aea73baf70b92e5353178f673082f8b5cdc9ac33d7eab84346282de) - _Tim May \<tcmay@got.net\>_
+        + 1998-01-28 (Wed, 28 Jan 1998 19:18:39 +0800) - [how to ensure 128 bit netscape is used world wide (Re: Exporting Code the Easy Way)](/archive/1998/01/80e6b37a0844d3df3002dd6c2db0a6d0ddc915093eb1dcca46b282d6a602f22c) - _Adam Back \<aba@dcs.ex.ac.uk\>_
+        + 1998-01-28 (Thu, 29 Jan 1998 00:25:16 +0800) - [Re: Exporting Code the Easy Way](/archive/1998/01/a48801e1ae201cbdddfbf3583ee20c1f7be00af526309e94cdf7cf07ca84d0d1) - _"William H. Geiger III" \<whgiii@invweb.net\>_
+        + 1998-01-28 (Thu, 29 Jan 1998 04:26:37 +0800) - [Re: how to ensure 128 bit netscape is used world wide (Re:Exporting Code the Easy Way)](/archive/1998/01/2ebe4aa588520d456a484fd534ec0efe4029a3cc61d00c9bcc558bcf47231c9b) - _Tim May \<tcmay@got.net\>_
+    + 1998-01-28 (Wed, 28 Jan 1998 13:52:34 +0800) - [Re: Netscape 5 will be GPL'ed](/archive/1998/01/794cbd3ea15cd15db48996c4fcd89a3028499dabbe715294f51eaa38a55e60bd) - _Alan Olsen \<alan@clueserver.org\>_
+
+### Paper withdraws story of Clinton sex 'witness' [fwd - infobeat]
++ 1998-01-27 (Tue, 27 Jan 1998 21:50:33 +0800) - [Paper withdraws story of Clinton sex 'witness' [fwd - infobeat]](/archive/1998/01/5cc74cb95560037e28e944a0d4b14465fcd8d3682a7fe2f1bac7a3ebecdfc1ab) - _Vipul Ved Prakash \<mail@vipul.net\>_
+
+### EU considers letting police snoop on Internet [fwd infobeat]
++ 1998-01-30 (Fri, 30 Jan 1998 22:48:42 +0800) - [EU considers letting police snoop on Internet [fwd infobeat]](/archive/1998/01/88fe8757f3a1f56bc178695249f672c3c7487bcb2365b156dec6ef9a5174b7f1) - _Vipul Ved Prakash \<mail@vipul.net\>_
+
+### VSNL Censors Indian Internet Sites.
++ 1998-11-18 (Thu, 19 Nov 1998 05:45:32 +0800) - [VSNL Censors Indian Internet Sites.](/archive/1998/11/2c73ca180d81e6477fe8d21ea7ca752d98e33169ee74f3edece6438931452355) - _Vipul Ved Prakash \<mail@vipul.net\>_
+
+### VSNL Censors Indian Internet Sites.
++ 1998-11-19 (Fri, 20 Nov 1998 07:42:31 +0800) - [VSNL Censors Indian Internet Sites.](/archive/1998/11/018aef99d5b38b1f832f55d10923d5db4f48b7cee44b428401230c30f594e4ee) - _Vipul Ved Prakash \<mail@vipul.net\>_
+

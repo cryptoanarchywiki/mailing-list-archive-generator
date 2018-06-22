@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+# "James Lucier" <james.lucier@worldnet.att.net> (1 posts)
+
+_Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
+
+## Threads
+
+### Re: 090498_crypto
++ 1998-09-06 (Mon, 7 Sep 1998 04:15:17 +0800) - [Re: 090498_crypto](/archive/1998/09/854d51ba0f0f2c81e4453eff8156f84ff45031f8a917690e06eab905a5c0d919) - _Information Security \<guy@panix.com\>_
+  + 1998-09-07 (Mon, 7 Sep 1998 10:15:27 +0800) - [Re: 090498_crypto](/archive/1998/09/b120d6b404bdbb9e1f98a246ea5957d868b53d56bcdb0287ae1c3aeea888dbdf) - _Declan McCullagh \<declan@pathfinder.com\>_
+    + 1998-09-07 (Mon, 7 Sep 1998 20:27:49 +0800) - [Re: What we are Fighting](/archive/1998/09/b22b16e98bdeb5ca9ad177828505e031aa527f8e03c6432bb707c9ec196d31a7) - _John Young \<jya@pipeline.com\>_
+  + 1998-09-07 (Mon, 7 Sep 1998 11:06:10 +0800) - [What we are Fighting](/archive/1998/09/2ce9144ae44c35277aed0f9c8a6d9c8fb06875821df135d23df764cc2c4283ed) - _Tim May \<tcmay@got.net\>_
+    + 1998-09-07 (Mon, 7 Sep 1998 21:56:34 +0800) - [Re: What we are Fighting](/archive/1998/09/4d1a58f2cf69779cf9dd0f278d1006e148c1c93430240f29037aae16e224a0a8) - _Declan McCullagh \<declan@well.com\>_
+      + 1998-09-07 (Tue, 8 Sep 1998 00:31:30 +0800) - [Re: What we are Fighting](/archive/1998/09/064ee8a55bab51537159b73b233724979e08ff3dc28ce1844b0e67058b21bbe1) - _Tim May \<tcmay@got.net\>_
+        + 1998-09-07 (Tue, 8 Sep 1998 05:59:32 +0800) - [Re: What we are Fighting](/archive/1998/09/dd4c4a7c6360520c458c2b787aece3126adacb4874903ee2243494f16f2af6b8) - _Declan McCullagh \<declan@well.com\>_
+    + 1998-09-07 (Mon, 7 Sep 1998 23:47:28 +0800) - [Re: What we are Fighting](/archive/1998/09/ac206d821fbb91522c5194731d0fbd24db7133865275f7cde1b1ff95b8b7b42b) - _John Young \<jya@pipeline.com\>_
+      + 1998-09-07 (Tue, 8 Sep 1998 01:48:09 +0800) - [Re: What we are Fighting](/archive/1998/09/b79a866fa7949957a2b322d0e381224419cb08381beb2fbcf74ba8ff27798443) - _John Young \<jya@pipeline.com\>_
+      + 1998-09-07 (Tue, 8 Sep 1998 05:57:50 +0800) - [Re: What we are Fighting](/archive/1998/09/771b1b95da877980792e4b07dda30a9edbc772ae34f2e79ea363a7ccb769679e) - _Declan McCullagh \<declan@well.com\>_
+    + 1998-09-07 (Mon, 7 Sep 1998 23:54:31 +0800) - [Re: What we are Fighting](/archive/1998/09/400fccd5ea8b2f63be71888fdcca912b51e37e16c9b1c4ca81d0c69cfc4803e3) - _Tim May \<tcmay@got.net\>_
+      + 1998-09-07 (Tue, 8 Sep 1998 05:43:48 +0800) - [Re: What we are Fighting](/archive/1998/09/8b3539e99c8c14a5a8ef0b2da4ca2b01f44c7159279b5fa21e1b4f26e192f7fa) - _Declan McCullagh \<declan@well.com\>_
+        + 1998-09-08 (Tue, 8 Sep 1998 10:25:39 +0800) - [Re: What we are Fighting](/archive/1998/09/a06b7260d5f7ad260105e5d49da33f0da9ff21085a1e7ed078246440a0ca5a2d) - _Declan McCullagh \<declan@well.com\>_
+      + 1998-09-08 (Tue, 8 Sep 1998 15:58:32 +0800) - [RE: What we are Fighting](/archive/1998/09/e0c14b67fad4f3168851cb6153998000faa0c98a2958d03b2b5d5179e49fb4aa) - _"James Lucier" \<james.lucier@worldnet.att.net\>_
+
