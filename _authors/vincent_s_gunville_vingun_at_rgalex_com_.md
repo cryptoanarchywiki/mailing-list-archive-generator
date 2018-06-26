@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vincent_s_gunville_vingun_at_rgalex_com_
+post_count: 4
 ---
 
-# "Vincent S. Gunville" <vingun@rgalex.com> (4 posts)
+# "Vincent S. Gunville" <vingun<span>@</span>rgalex.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nmundy5276_at_aol_com
+post_count: 1
 ---
 
-# NMundy5276@aol.com (1 posts)
+# NMundy5276<span>@</span>aol.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

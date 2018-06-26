@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cort_at_ecn_purdue_edu_cortland_d_starrett_
+post_count: 5
 ---
 
-# cort@ecn.purdue.edu (Cortland D. Starrett) (5 posts)
+# cort<span>@</span>ecn.purdue.edu (Cortland D. Starrett) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

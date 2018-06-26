@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: xxx4free_at_xxxpics_org
+post_count: 1
 ---
 
-# xxx4free@xxxpics.org (1 posts)
+# xxx4free<span>@</span>xxxpics.org (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: albert_p_franco_ii_apf2_at_ctv_es_
+post_count: 5
 ---
 
-# "Albert P. Franco, II" <apf2@ctv.es> (5 posts)
+# "Albert P. Franco, II" <apf2<span>@</span>ctv.es> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

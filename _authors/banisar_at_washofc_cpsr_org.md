@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: banisar_at_washofc_cpsr_org
+post_count: 2
 ---
 
-# banisar@washofc.cpsr.org (2 posts)
+# banisar<span>@</span>washofc.cpsr.org (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

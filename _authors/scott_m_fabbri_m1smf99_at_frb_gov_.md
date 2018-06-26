@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_m_fabbri_m1smf99_at_frb_gov_
+post_count: 3
 ---
 
-# Scott M Fabbri <m1smf99@FRB.GOV> (3 posts)
+# Scott M Fabbri <m1smf99<span>@</span>FRB.GOV> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

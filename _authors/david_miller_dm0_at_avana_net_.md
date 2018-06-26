@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_miller_dm0_at_avana_net_
+post_count: 25
 ---
 
-# David Miller <dm0@avana.net> (25 posts)
+# David Miller <dm0<span>@</span>avana.net> (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

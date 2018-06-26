@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mp_at_moonmac_com_michael_pearce_
+post_count: 1
 ---
 
-# mp@moonmac.com (Michael Pearce) (1 posts)
+# mp<span>@</span>moonmac.com (Michael Pearce) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

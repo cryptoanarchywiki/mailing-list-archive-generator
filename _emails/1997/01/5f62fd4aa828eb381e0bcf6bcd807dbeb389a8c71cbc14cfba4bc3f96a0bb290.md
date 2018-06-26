@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Toto \<toto@sk.sympatico.ca\><br>
+From: Toto \<toto<span>@</span>sk.sympatico.ca\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5f62fd4aa828eb381e0bcf6bcd807dbeb389a8c71cbc14cfba4bc3f96a0bb290<br>
 Message ID: \<199701290226.SAA13870@toad.com\><br>
@@ -111,6 +111,8 @@ Toto
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-01-29 (Tue, 28 Jan 1997 18:26:20 -0800 (PST)) - Re: can Sun Tzu be a cypherpunks? - _Toto \<toto@sk.sympatico.ca\>_
 

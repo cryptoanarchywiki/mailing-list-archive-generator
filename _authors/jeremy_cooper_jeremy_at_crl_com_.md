@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremy_cooper_jeremy_at_crl_com_
+post_count: 27
 ---
 
-# Jeremy Cooper <jeremy@crl.com> (27 posts)
+# Jeremy Cooper <jeremy<span>@</span>crl.com> (27 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

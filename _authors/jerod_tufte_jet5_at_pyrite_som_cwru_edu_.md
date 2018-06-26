@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jerod_tufte_jet5_at_pyrite_som_cwru_edu_
+post_count: 1
 ---
 
-# Jerod Tufte <jet5@pyrite.SOM.CWRU.Edu> (1 posts)
+# Jerod Tufte <jet5<span>@</span>pyrite.SOM.CWRU.Edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

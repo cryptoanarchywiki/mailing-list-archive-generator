@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rich Graves \<llurch@networking.stanford.edu\><br>
+From: Rich Graves \<llurch<span>@</span>networking.stanford.edu\><br>
 To: graeme@chem2.chem.swin.edu.au\><br>
 Message Hash: ca99e6ffd8e3e47a2bf52ceea5a3d5fc1a1bfc11d4edeed6f90d5f58ff2dce4a<br>
 Message ID: \<Pine.ULT.3.91.951130212409.28316B-100000@Networking.Stanford.EDU\><br>
@@ -48,6 +48,13 @@ on the trans-pacific cables tomorrow :-)
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Adam Shostack <adam<span>@</span>lighthouse.homeport.org>](/author/adam_shostack_adam_at_lighthouse_homeport_org_)"
++ Return to "["Brian A. LaMacchia" <bal<span>@</span>martigny.ai.mit.edu>](/author/brian_a_lamacchia_bal_at_martigny_ai_mit_edu_)"
++ Return to "[Graeme Cross <graeme<span>@</span>chem2.chem.swin.edu.au>](/author/graeme_cross_graeme_at_chem2_chem_swin_edu_au_)"
++ Return to "[Jeff Weinstein <jsw<span>@</span>netscape.com>](/author/jeff_weinstein_jsw_at_netscape_com_)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
 
 + 1995-12-01 (Fri, 1 Dec 1995 14:46:37 +0800) - [Netscape 2.0b2 allows for invasion of privacy (fwd)](/archive/1995/12/957eb76a7e92370269e4d98e82a2b13a927bdf4960d64032ca00a9cc298f9172) - _Graeme Cross \<graeme@chem2.chem.swin.edu.au\>_
   + 1995-12-01 (Thu, 30 Nov 95 21:55:38 PST) - [Re: Netscape 2.0b2 allows for invasion of privacy (fwd)](/archive/1995/12/bf2c593f88f9c2e55e45bf15cc3fe14cc4475728f59c5a08dd8b1adc0ed254fd) - _sameer \<sameer@c2.org\>_

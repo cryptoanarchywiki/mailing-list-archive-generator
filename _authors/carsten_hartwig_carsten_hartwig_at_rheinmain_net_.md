@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carsten_hartwig_carsten_hartwig_at_rheinmain_net_
+post_count: 1
 ---
 
-# Carsten Hartwig <carsten.hartwig@rhein-main.net> (1 posts)
+# Carsten Hartwig <carsten.hartwig<span>@</span>rhein-main.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

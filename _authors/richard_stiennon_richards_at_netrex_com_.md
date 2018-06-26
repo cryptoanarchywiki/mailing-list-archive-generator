@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_stiennon_richards_at_netrex_com_
+post_count: 1
 ---
 
-# Richard Stiennon <richards@netrex.com> (1 posts)
+# Richard Stiennon <richards<span>@</span>netrex.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

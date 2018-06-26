@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: d_s_mclean_ranger90_at_mnsi_net_
+post_count: 1
 ---
 
-# "D.S.McLean" <ranger90@MNSi.Net> (1 posts)
+# "D.S.McLean" <ranger90<span>@</span>MNSi.Net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_s__ths_at_rz_tuilmenau_de_
+post_count: 2
 ---
 
-# "Thomas S." <ths@rz.tu-ilmenau.de> (2 posts)
+# "Thomas S." <ths<span>@</span>rz.tu-ilmenau.de> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

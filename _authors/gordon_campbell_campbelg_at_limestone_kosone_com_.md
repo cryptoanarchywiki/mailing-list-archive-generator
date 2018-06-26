@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gordon_campbell_campbelg_at_limestone_kosone_com_
+post_count: 10
 ---
 
-# Gordon Campbell <campbelg@limestone.kosone.com> (10 posts)
+# Gordon Campbell <campbelg<span>@</span>limestone.kosone.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

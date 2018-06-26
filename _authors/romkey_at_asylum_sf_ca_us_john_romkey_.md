@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: romkey_at_asylum_sf_ca_us_john_romkey_
+post_count: 1
 ---
 
-# romkey@asylum.sf.ca.us (John Romkey) (1 posts)
+# romkey<span>@</span>asylum.sf.ca.us (John Romkey) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

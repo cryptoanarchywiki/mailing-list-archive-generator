@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: eric@remailer.net (Eric Hughes)<br>
+From: eric<span>@</span>remailer.net (Eric Hughes)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0876b3ce5619a726cce5246246e2b76b37f8efdbdeaaaa1bbcd6fba1efff42ee<br>
 Message ID: \<199501140158.RAA03820@largo.remailer.net\><br>
@@ -61,6 +61,9 @@ Eric
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[Ben.Goren<span>@</span>asu.edu](/author/ben_goren_at_asu_edu)"
++ Return to "[eric<span>@</span>remailer.net (Eric Hughes)](/author/eric_at_remailer_net_eric_hughes_)"
 
 + 1995-01-13 (Fri, 13 Jan 95 11:27:56 PST) - [Re: How do I know if its encrypted?](/archive/1995/01/75503d96465837f3737396d0bffe4fc3075cf1296a130bee1d30d690a7a14d42) - _Ben.Goren@asu.edu_
   + 1995-01-14 (Fri, 13 Jan 95 18:00:08 PST) - Re: How do I know if its encrypted? - _eric@remailer.net (Eric Hughes)_

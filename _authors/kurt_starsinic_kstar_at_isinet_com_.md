@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kurt_starsinic_kstar_at_isinet_com_
+post_count: 1
 ---
 
-# Kurt Starsinic <kstar@isinet.com> (1 posts)
+# Kurt Starsinic <kstar<span>@</span>isinet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

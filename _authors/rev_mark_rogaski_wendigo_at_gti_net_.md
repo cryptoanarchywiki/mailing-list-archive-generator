@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rev_mark_rogaski_wendigo_at_gti_net_
+post_count: 1
 ---
 
-# "Rev. Mark Rogaski" <wendigo@gti.net> (1 posts)
+# "Rev. Mark Rogaski" <wendigo<span>@</span>gti.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

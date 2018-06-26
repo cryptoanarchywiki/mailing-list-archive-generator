@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert H Guttman \<guttman@media.mit.edu\><br>
+From: Robert H Guttman \<guttman<span>@</span>media.mit.edu\><br>
 To: "Robert Hettinga" \<unicorn@schloss.li\><br>
 Message Hash: d84aafcc9cbf2bf2e583318bebdd4abb8c59b5031c9db35e9007ab4bc7d92f7e<br>
 Message ID: \<199802042348.SAA17496@ml.media.mit.edu\><br>
@@ -72,6 +72,8 @@ http://ecommerce.media.mit.edu/         Agent-mediated E-Commerce
 ## Thread
 
 + Return to [February 1998](/archive/1998/02)
+
++ Return to "[Robert H Guttman <guttman<span>@</span>media.mit.edu>](/author/robert_h_guttman_guttman_at_media_mit_edu_)"
 
 + 1998-02-04 (Thu, 5 Feb 1998 07:54:18 +0800) - Re: The Continued Attack on Cash (Was: "The Right of  Anonymity"...) - _Robert H Guttman \<guttman@media.mit.edu\>_
 

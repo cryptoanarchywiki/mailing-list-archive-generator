@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ari_y_benbasat_pigsfly_at_unixg_ubc_ca_
+post_count: 1
 ---
 
-# "Ari Y. Benbasat" <pigsfly@unixg.ubc.ca> (1 posts)
+# "Ari Y. Benbasat" <pigsfly<span>@</span>unixg.ubc.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

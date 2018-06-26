@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_james_gebis_mjg51721_at_uxa_cso_uiuc_edu_
+post_count: 1
 ---
 
-# Michael James Gebis <mjg51721@uxa.cso.uiuc.edu> (1 posts)
+# Michael James Gebis <mjg51721<span>@</span>uxa.cso.uiuc.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

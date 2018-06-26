@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tihu_at_wvz_net
+post_count: 1
 ---
 
-# tihu@wvz.net (1 posts)
+# tihu<span>@</span>wvz.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

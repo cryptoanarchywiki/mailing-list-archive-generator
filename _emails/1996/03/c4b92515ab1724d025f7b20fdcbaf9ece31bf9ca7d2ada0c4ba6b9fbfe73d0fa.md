@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jf_avon@citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))<br>
+From: jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))<br>
 To: Bill Stewart \<stewarts@ix.netcom.com\><br>
 Message Hash: c4b92515ab1724d025f7b20fdcbaf9ece31bf9ca7d2ada0c4ba6b9fbfe73d0fa<br>
 Message ID: \<9603101837.AA24771@cti02.citenet.net\><br>
@@ -102,6 +102,8 @@ fingerprint=52 96 45 E8 20 5A 8A 5E  F8 7C C8 6F AE FE F8 91
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))](/author/jf_avon_at_citenet_net_jeanfrancois_avon_jfa_technologies_qc_canada_)"
 
 + 1996-03-10 (Mon, 11 Mar 1996 02:49:23 +0800) - [govt] artist coercion - _jf_avon@citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))_
 

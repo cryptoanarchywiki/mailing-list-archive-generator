@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chevelle_love5683_at_voicenet_com_
+post_count: 4
 ---
 
-# Chevelle <love5683@voicenet.com> (4 posts)
+# Chevelle <love5683<span>@</span>voicenet.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

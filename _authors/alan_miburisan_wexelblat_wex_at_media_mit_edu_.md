@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_miburisan_wexelblat_wex_at_media_mit_edu_
+post_count: 45
 ---
 
-# "Alan (Miburi-san) Wexelblat" <wex@media.mit.edu> (45 posts)
+# "Alan (Miburi-san) Wexelblat" <wex<span>@</span>media.mit.edu> (45 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

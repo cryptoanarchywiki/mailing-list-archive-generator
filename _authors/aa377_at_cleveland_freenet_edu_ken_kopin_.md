@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aa377_at_cleveland_freenet_edu_ken_kopin_
+post_count: 1
 ---
 
-# aa377@cleveland.Freenet.Edu (Ken Kopin) (1 posts)
+# aa377<span>@</span>cleveland.Freenet.Edu (Ken Kopin) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stuarth_at_netcom_com_stuart_haber_
+post_count: 1
 ---
 
-# stuarth@netcom.com (Stuart Haber) (1 posts)
+# stuarth<span>@</span>netcom.com (Stuart Haber) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

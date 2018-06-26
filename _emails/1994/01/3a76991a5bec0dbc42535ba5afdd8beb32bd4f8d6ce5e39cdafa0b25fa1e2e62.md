@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim choate \<ravage@wixer.bga.com\><br>
+From: Jim choate \<ravage<span>@</span>wixer.bga.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3a76991a5bec0dbc42535ba5afdd8beb32bd4f8d6ce5e39cdafa0b25fa1e2e62<br>
 Message ID: \<9401271618.AA03773@wixer\><br>
@@ -47,6 +47,8 @@ is going to the be processing sight paying their electric bill).
 ## Thread
 
 + Return to [January 1994](/archive/1994/01)
+
++ Return to "[Jim choate <ravage<span>@</span>wixer.bga.com>](/author/jim_choate_ravage_at_wixer_bga_com_)"
 
 + 1994-01-28 (Fri, 28 Jan 94 12:48:02 PST) - Digital Cash.... - _Jim choate \<ravage@wixer.bga.com\>_
 

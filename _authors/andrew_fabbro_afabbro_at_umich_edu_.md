@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_fabbro_afabbro_at_umich_edu_
+post_count: 11
 ---
 
-# andrew fabbro <afabbro@umich.edu> (11 posts)
+# andrew fabbro <afabbro<span>@</span>umich.edu> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

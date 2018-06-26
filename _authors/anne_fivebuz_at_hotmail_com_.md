@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anne_fivebuz_at_hotmail_com_
+post_count: 1
 ---
 
-# Anne <fivebuz@hotmail.com> (1 posts)
+# Anne <fivebuz<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: albert_p_franco_ii_apf2_at_apf2_com_
+post_count: 26
 ---
 
-# "Albert P. Franco, II" <apf2@apf2.com> (26 posts)
+# "Albert P. Franco, II" <apf2<span>@</span>apf2.com> (26 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

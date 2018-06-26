@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: randall_terpstra_terpsrw_at_wabe_network_com_
+post_count: 1
 ---
 
-# Randall Terpstra <terpsrw@wabe.network.com> (1 posts)
+# Randall Terpstra <terpsrw<span>@</span>wabe.network.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

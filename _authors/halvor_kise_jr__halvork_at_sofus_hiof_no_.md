@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: halvor_kise_jr__halvork_at_sofus_hiof_no_
+post_count: 1
 ---
 
-# "Halvor Kise jr." <HALVORK@sofus.hiof.no> (1 posts)
+# "Halvor Kise jr." <HALVORK<span>@</span>sofus.hiof.no> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daemon_at_anon_penet_fi_system_daemon_
+post_count: 2
 ---
 
-# daemon@anon.penet.fi (System Daemon) (2 posts)
+# daemon<span>@</span>anon.penet.fi (System Daemon) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

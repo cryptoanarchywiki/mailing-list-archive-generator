@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m_taylor_mctaylor_at_privacy_nb_ca_
+post_count: 4
 ---
 
-# M Taylor <mctaylor@privacy.nb.ca> (4 posts)
+# M Taylor <mctaylor<span>@</span>privacy.nb.ca> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

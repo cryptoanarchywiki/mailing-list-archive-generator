@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: maschino_at_phx_sectel_mot_com_mike_maschino_
+post_count: 1
 ---
 
-# maschino@phx.sectel.mot.com (Mike Maschino) (1 posts)
+# maschino<span>@</span>phx.sectel.mot.com (Mike Maschino) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

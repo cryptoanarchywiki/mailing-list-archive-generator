@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_klur_dklur_at_dttus_com_
+post_count: 7
 ---
 
-# "David Klur" <dklur@dttus.com> (7 posts)
+# "David Klur" <dklur<span>@</span>dttus.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

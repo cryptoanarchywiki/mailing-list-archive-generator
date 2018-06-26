@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edgevamp_at_juno_com_gregory_a_empey_
+post_count: 1
 ---
 
-# edgevamp@juno.com (Gregory A Empey) (1 posts)
+# edgevamp<span>@</span>juno.com (Gregory A Empey) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Carl Ellison \<cme@sw.stratus.com\><br>
+From: Carl Ellison \<cme<span>@</span>sw.stratus.com\><br>
 To: elbert2@darmstadt.gmd.de<br>
 Message Hash: eef4781ccf638c2597dcd8ee9ccaabddb6172c5bfbd42d0dc441fde027dd4bb2<br>
 Message ID: \<199403311844.NAA04532@galt.sw.stratus.com\><br>
@@ -55,6 +55,8 @@ ich habe das auch gesehen.  Aber, manchmal kommen die urspruengliche Mails
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[Carl Ellison <cme<span>@</span>sw.stratus.com>](/author/carl_ellison_cme_at_sw_stratus_com_)"
 
 + 1994-03-31 (Thu, 31 Mar 94 10:29:46 PST) - Re: Is this list alive? - _Carl Ellison \<cme@sw.stratus.com\>_
 

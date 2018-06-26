@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: owner-cypherpunks@toad.com<br>
+From: owner-cypherpunks<span>@</span>toad.com<br>
 To: _N/A_<br>
 Message Hash: ddf93aa027bc9e3b82e2ed308abf95f51d53e7f2ede4b0f3a6e5cc94dc2d9aca<br>
 Message ID: \<QQahyo07802.199603210634@relay3.UU.NET\><br>
@@ -111,6 +111,8 @@ information age.
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[owner-cypherpunks<span>@</span>toad.com](/author/ownercypherpunks_at_toad_com)"
 
 + 1996-03-21 (Thu, 21 Mar 1996 15:05:00 +0800) - No Subject - _owner-cypherpunks@toad.com_
 

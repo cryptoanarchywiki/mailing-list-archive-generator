@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_renner_dougr_at_skypointgw_globelle_com_
+post_count: 2
 ---
 
-# Doug Renner <dougr@skypoint-gw.globelle.com> (2 posts)
+# Doug Renner <dougr<span>@</span>skypoint-gw.globelle.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

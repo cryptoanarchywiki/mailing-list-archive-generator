@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gibo_at_ripco_com_giles_bowkett_
+post_count: 3
 ---
 
-# gibo@ripco.com (Giles Bowkett) (3 posts)
+# gibo<span>@</span>ripco.com (Giles Bowkett) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

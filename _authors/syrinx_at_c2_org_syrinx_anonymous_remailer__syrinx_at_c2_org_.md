@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: syrinx_at_c2_org_syrinx_anonymous_remailer__syrinx_at_c2_org_
+post_count: 2
 ---
 
-# "syrinx@c2.org (Syrinx Anonymous Remailer)" <syrinx@c2.org> (2 posts)
+# "syrinx<span>@</span>c2.org (Syrinx Anonymous Remailer)" <syrinx<span>@</span>c2.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

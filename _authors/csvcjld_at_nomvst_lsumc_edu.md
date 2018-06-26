@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: csvcjld_at_nomvst_lsumc_edu
+post_count: 4
 ---
 
-# csvcjld@nomvst.lsumc.edu (4 posts)
+# csvcjld<span>@</span>nomvst.lsumc.edu (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

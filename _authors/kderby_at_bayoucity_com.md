@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kderby_at_bayoucity_com
+post_count: 1
 ---
 
-# kderby@bayoucity.com (1 posts)
+# kderby<span>@</span>bayoucity.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

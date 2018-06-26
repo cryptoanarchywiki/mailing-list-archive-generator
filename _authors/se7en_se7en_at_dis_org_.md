@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: se7en_se7en_at_dis_org_
+post_count: 21
 ---
 
-# se7en <se7en@dis.org> (21 posts)
+# se7en <se7en<span>@</span>dis.org> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

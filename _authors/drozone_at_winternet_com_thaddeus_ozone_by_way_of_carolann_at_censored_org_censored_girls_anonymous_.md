@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: drozone_at_winternet_com_thaddeus_ozone_by_way_of_carolann_at_censored_org_censored_girls_anonymous_
+post_count: 1
 ---
 
-# drozone@winternet.com (Thaddeus Ozone) (by way of carolann@censored.org (Censored Girls Anonymous)) (1 posts)
+# drozone<span>@</span>winternet.com (Thaddeus Ozone) (by way of carolann<span>@</span>censored.org (Censored Girls Anonymous)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

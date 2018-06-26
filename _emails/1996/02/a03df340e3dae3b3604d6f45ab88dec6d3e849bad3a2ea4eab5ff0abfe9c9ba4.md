@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Declan B. McCullagh" \<declan+@CMU.EDU\><br>
+From: "Declan B. McCullagh" \<declan+<span>@</span>CMU.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a03df340e3dae3b3604d6f45ab88dec6d3e849bad3a2ea4eab5ff0abfe9c9ba4<br>
 Message ID: \<kl7tHCu00YUtEGVm0a@andrew.cmu.edu\><br>
@@ -340,6 +340,8 @@ Include the line(s):
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/author/declan_b_mccullagh_declan_at_cmu_edu_)"
 
 + 1996-02-13 (Tue, 13 Feb 1996 09:59:46 +0800) - Censorship and Snooping at Winthrop University - _"Declan B. McCullagh" \<declan+@CMU.EDU\>_
 

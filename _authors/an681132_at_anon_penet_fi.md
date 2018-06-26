@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an681132_at_anon_penet_fi
+post_count: 5
 ---
 
-# an681132@anon.penet.fi (5 posts)
+# an681132<span>@</span>anon.penet.fi (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

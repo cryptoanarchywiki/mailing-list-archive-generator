@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Tim May \<tcmay@got.net\><br>
+From: Tim May \<tcmay<span>@</span>got.net\><br>
 To: Adam Shostack \<adam@homeport.org\><br>
 Message Hash: 0329ab10d30e64ebbaf742737aef0314a9d9a6d5ce1baf45ea42fceceae96fad<br>
 Message ID: \<v03102801b0e189685883@[207.167.93.63]\><br>
@@ -80,6 +80,10 @@ Higher Power: 2^2,976,221   | black markets, collapse of governments.
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[? the Platypus {aka David Formosa} <dformosa<span>@</span>st.nepean.uws.edu.au>](/author/_the_platypus_aka_david_formosa_dformosa_at_st_nepean_uws_edu_au_)"
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1998-01-13 (Tue, 13 Jan 1998 11:19:24 +0800) - [mirroring services, web accounts for ecash](/archive/1998/01/96a76e53da0882cc3eac1e95ea84567c5f3536e30573e21fb18da6370c3de1c4) - _Adam Back \<aba@dcs.ex.ac.uk\>_
   + 1998-01-13 (Tue, 13 Jan 1998 11:53:48 +0800) - [Re: mirroring services, web accounts for ecash](/archive/1998/01/6fea51dd02f4627d4d4cbb770b59cd9a334d18ded3c2187decac72195a8d159d) - _Tim May \<tcmay@got.net\>_

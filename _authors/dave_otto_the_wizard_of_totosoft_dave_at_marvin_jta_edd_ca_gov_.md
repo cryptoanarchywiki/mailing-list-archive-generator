@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_otto_the_wizard_of_totosoft_dave_at_marvin_jta_edd_ca_gov_
+post_count: 6
 ---
 
-# Dave Otto (the Wizard of TOTOSoft) <dave@marvin.jta.edd.ca.gov> (6 posts)
+# Dave Otto (the Wizard of TOTOSoft) <dave<span>@</span>marvin.jta.edd.ca.gov> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

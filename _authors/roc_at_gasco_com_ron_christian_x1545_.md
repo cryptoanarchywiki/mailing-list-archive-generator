@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roc_at_gasco_com_ron_christian_x1545_
+post_count: 1
 ---
 
-# roc@gasco.com (Ron Christian x1545) (1 posts)
+# roc<span>@</span>gasco.com (Ron Christian x1545) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

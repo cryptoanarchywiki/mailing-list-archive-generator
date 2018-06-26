@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_glazer_72440_2236_at_compuserve_com_
+post_count: 1
 ---
 
-# Michael Glazer <72440.2236@CompuServe.COM> (1 posts)
+# Michael Glazer <72440.2236<span>@</span>CompuServe.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

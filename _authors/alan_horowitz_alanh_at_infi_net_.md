@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_horowitz_alanh_at_infi_net_
+post_count: 205
 ---
 
-# Alan Horowitz <alanh@infi.net> (205 posts)
+# Alan Horowitz <alanh<span>@</span>infi.net> (205 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: samantha_at_gamespot_com
+post_count: 1
 ---
 
-# samantha@gamespot.com (1 posts)
+# samantha<span>@</span>gamespot.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yjkim_at_ssrnet_snu_ac_kr_kim_yoonjeong_
+post_count: 1
 ---
 
-# yjkim@ssrnet.snu.ac.kr (Kim Yoonjeong) (1 posts)
+# yjkim<span>@</span>ssrnet.snu.ac.kr (Kim Yoonjeong) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: trump_at_pluto_ee_cua_edu_louis_edward_trumpbour_
+post_count: 7
 ---
 
-# trump@pluto.ee.cua.edu (Louis Edward Trumpbour) (7 posts)
+# trump<span>@</span>pluto.ee.cua.edu (Louis Edward Trumpbour) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

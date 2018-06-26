@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joee_at_li_net_j_ercole_
+post_count: 3
 ---
 
-# joee@li.net (j. ercole) (3 posts)
+# joee<span>@</span>li.net (j. ercole) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wopeunua84_at_toyomau_ac_jp
+post_count: 1
 ---
 
-# wopeunua84@toyoma-u.ac.jp (1 posts)
+# wopeunua84<span>@</span>toyoma-u.ac.jp (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)<br>
+From: wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 6bcb882b3c118b6d0437c407fa447a8f3bcedaccdab4ae8bb7fbf9b4d812dd27<br>
 Message ID: \<9408180100.AA02892@anchor.ho.att.com\><br>
@@ -70,6 +70,8 @@ that's the way it goes; any non-trusted system is, well, non-trusted....
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)](/author/wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_)"
 
 + 1994-08-18 (Wed, 17 Aug 94 18:02:20 PDT) - Re: Remailer ideas (Was: Re: Latency vs. Reordering) - _wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)_
 

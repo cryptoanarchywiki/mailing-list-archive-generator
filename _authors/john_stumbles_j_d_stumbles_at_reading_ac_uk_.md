@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_stumbles_j_d_stumbles_at_reading_ac_uk_
+post_count: 1
 ---
 
-# John Stumbles <J.D.Stumbles@reading.ac.uk> (1 posts)
+# John Stumbles <J.D.Stumbles<span>@</span>reading.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

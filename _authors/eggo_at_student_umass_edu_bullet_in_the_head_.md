@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eggo_at_student_umass_edu_bullet_in_the_head_
+post_count: 1
 ---
 
-# eggo@STUDENT.umass.edu (Bullet in the Head) (1 posts)
+# eggo<span>@</span>STUDENT.umass.edu (Bullet in the Head) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

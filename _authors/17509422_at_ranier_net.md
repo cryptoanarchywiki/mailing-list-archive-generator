@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 17509422_at_ranier_net
+post_count: 1
 ---
 
-# 17509422@ranier.net (1 posts)
+# 17509422<span>@</span>ranier.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

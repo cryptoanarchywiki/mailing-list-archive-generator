@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_deviant_deviant_at_poohcorner_com_
+post_count: 145
 ---
 
-# The Deviant <deviant@pooh-corner.com> (145 posts)
+# The Deviant <deviant<span>@</span>pooh-corner.com> (145 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

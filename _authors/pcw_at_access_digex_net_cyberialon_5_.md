@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pcw_at_access_digex_net_cyberialon_5_
+post_count: 1
 ---
 
-# pcw@access.digex.net (CyberiaLON_5) (1 posts)
+# pcw<span>@</span>access.digex.net (CyberiaLON_5) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

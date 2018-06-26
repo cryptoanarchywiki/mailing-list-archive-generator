@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dale Thorn \<dthorn@gte.net\><br>
+From: Dale Thorn \<dthorn<span>@</span>gte.net\><br>
 To: Duncan Frissell \<frissell@panix.com\><br>
 Message Hash: c8be0185e0fc2207df9b51cb57dd965bc2b3e3e31deb2fb57cc55ecb6decf7c1<br>
 Message ID: \<32816F8E.6580@gte.net\><br>
@@ -65,6 +65,10 @@ the people in the industrialized countries are just good little suck-up fascists
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
 
 + 1996-11-06 (Wed, 6 Nov 1996 03:59:42 -0800 (PST)) - [Re: [rant] Re: Censorship on cypherpunks](/archive/1996/11/98ae244adef90441f80c11efc8144ea6752e840c916c86a7576a5d6e2979a1fe) - _Duncan Frissell \<frissell@panix.com\>_
   + 1996-11-07 (Wed, 6 Nov 1996 21:14:49 -0800 (PST)) - Re: [rant] Re: Censorship on cypherpunks - _Dale Thorn \<dthorn@gte.net\>_

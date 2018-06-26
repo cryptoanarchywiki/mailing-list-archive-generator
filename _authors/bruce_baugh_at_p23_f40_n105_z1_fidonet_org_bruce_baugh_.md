@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_baugh_at_p23_f40_n105_z1_fidonet_org_bruce_baugh_
+post_count: 2
 ---
 
-# Bruce.Baugh@p23.f40.n105.z1.fidonet.org (Bruce Baugh) (2 posts)
+# Bruce.Baugh<span>@</span>p23.f40.n105.z1.fidonet.org (Bruce Baugh) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

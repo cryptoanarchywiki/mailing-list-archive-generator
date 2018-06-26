@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ed_falk_at_eng_sun_com_ed_falk_
+post_count: 17
 ---
 
-# Ed.Falk@Eng.Sun.COM (Ed Falk) (17 posts)
+# Ed.Falk<span>@</span>Eng.Sun.COM (Ed Falk) (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

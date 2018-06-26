@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: johns_at_macadam_mpce_mq_edu_au_john_savage_
+post_count: 2
 ---
 
-# johns@macadam.mpce.mq.edu.au (John Savage) (2 posts)
+# johns<span>@</span>macadam.mpce.mq.edu.au (John Savage) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

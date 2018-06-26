@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: schirado_at_lab_cc_wmich_edu_no_taxes_through_no_government_
+post_count: 1
 ---
 
-# schirado@lab.cc.wmich.edu (No Taxes through No Government) (1 posts)
+# schirado<span>@</span>lab.cc.wmich.edu (No Taxes through No Government) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

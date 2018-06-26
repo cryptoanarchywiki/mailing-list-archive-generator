@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joshua_geller_alkahestjoshua_at_dee_retix_com_
+post_count: 2
 ---
 
-# joshua geller <alkahest!joshua@dee.retix.com> (2 posts)
+# joshua geller <alkahest!joshua<span>@</span>dee.retix.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

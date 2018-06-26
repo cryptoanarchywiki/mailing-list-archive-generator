@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: read_me_doctor_memory_26aug1993_1434_yerazunis_at_aidev_enet_dec_com_
+post_count: 1
 ---
 
-# Read me doctor memory!  26-Aug-1993 1434 <yerazunis@aidev.enet.dec.com> (1 posts)
+# Read me doctor memory!  26-Aug-1993 1434 <yerazunis<span>@</span>aidev.enet.dec.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: juutoo91_at_jj008_at_drackin_com
+post_count: 1
 ---
 
-# juutoo91@jj008@drackin.com (1 posts)
+# juutoo91<span>@</span>jj008<span>@</span>drackin.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

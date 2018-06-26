@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_gurski_mgursk1_at_umbc_edu_
+post_count: 8
 ---
 
-# Michael Gurski <mgursk1@umbc.edu> (8 posts)
+# Michael Gurski <mgursk1<span>@</span>umbc.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

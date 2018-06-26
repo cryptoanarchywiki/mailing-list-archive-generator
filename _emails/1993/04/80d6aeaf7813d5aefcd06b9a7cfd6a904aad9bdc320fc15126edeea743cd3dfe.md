@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Harry Shapiro \<habs@Panix.Com\><br>
+From: Harry Shapiro \<habs<span>@</span>Panix.Com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 80d6aeaf7813d5aefcd06b9a7cfd6a904aad9bdc320fc15126edeea743cd3dfe<br>
 Message ID: \<199304171332.AA03999@sun.Panix.Com\><br>
@@ -56,6 +56,8 @@ Private Communication for the Extropian Community since 1991
 ## Thread
 
 + Return to [April 1993](/archive/1993/04)
+
++ Return to "[Harry Shapiro <habs<span>@</span>Panix.Com>](/author/harry_shapiro_habs_at_panix_com_)"
 
 + 1993-04-17 (Sat, 17 Apr 93 06:32:53 PDT) - Big Brother: Post Filtering the Clipper - _Harry Shapiro \<habs@Panix.Com\>_
 

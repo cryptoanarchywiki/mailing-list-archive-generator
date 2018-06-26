@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stanton_mccandlish_anton_at_hydra_unm_edu_
+post_count: 43
 ---
 
-# Stanton McCandlish <anton@hydra.unm.edu> (43 posts)
+# Stanton McCandlish <anton<span>@</span>hydra.unm.edu> (43 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

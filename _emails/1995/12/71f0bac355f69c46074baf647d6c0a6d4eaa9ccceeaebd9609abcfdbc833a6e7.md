@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: Alan Olsen \<alano@teleport.com\><br>
 Message Hash: 71f0bac355f69c46074baf647d6c0a6d4eaa9ccceeaebd9609abcfdbc833a6e7<br>
 Message ID: \<199512240247.SAA10588@ix5.ix.netcom.com\><br>
@@ -55,6 +55,8 @@ or load copies of it to other sites to reduce congestion on Netcom...
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1995-12-24 (Sun, 24 Dec 1995 11:22:52 +0800) - Re: cyphernomicon FTP site? - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

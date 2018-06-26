@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: peter_trei_trei_
+post_count: 14
 ---
 
 # "Peter Trei" <trei> (14 posts)

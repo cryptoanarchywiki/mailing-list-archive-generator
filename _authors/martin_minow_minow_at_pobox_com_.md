@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_minow_minow_at_pobox_com_
+post_count: 6
 ---
 
-# Martin Minow <minow@pobox.com> (6 posts)
+# Martin Minow <minow<span>@</span>pobox.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

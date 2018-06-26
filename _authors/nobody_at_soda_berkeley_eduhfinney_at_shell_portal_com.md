@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_soda_berkeley_eduhfinney_at_shell_portal_com
+post_count: 2
 ---
 
-# nobody@soda.berkeley.eduhfinney@shell.portal.com (2 posts)
+# nobody<span>@</span>soda.berkeley.eduhfinney<span>@</span>shell.portal.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

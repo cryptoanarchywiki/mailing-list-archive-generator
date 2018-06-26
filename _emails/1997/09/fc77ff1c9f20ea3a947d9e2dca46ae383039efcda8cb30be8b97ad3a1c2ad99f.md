@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>ssz.com\><br>
 To: cypherpunks@ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: fc77ff1c9f20ea3a947d9e2dca46ae383039efcda8cb30be8b97ad3a1c2ad99f<br>
 Message ID: \<199709110025.TAA13190@einstein.ssz.com\><br>
@@ -96,6 +96,8 @@ homogoneity in the desires of the people.
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1997-09-11 (Thu, 11 Sep 1997 08:27:49 +0800) - Re: Removing Tyranny from Democracy (Part II), (fwd) - _Jim Choate \<ravage@ssz.com\>_
 

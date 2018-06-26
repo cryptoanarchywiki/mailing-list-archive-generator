@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nobody@REPLAY.COM\><br>
+From: Anonymous \<nobody<span>@</span>REPLAY.COM\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: b48ffb5a3d0faa48546faeab3080b91de7ab8a2b330c9a882aaca75ad8a7cbb2<br>
 Message ID: \<199711170905.KAA06467@basement.replay.com\><br>
@@ -77,6 +77,8 @@ meat grinder.  Freeh's wet dream, I suppose.
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Anonymous <nobody<span>@</span>REPLAY.COM>](/author/anonymous_nobody_at_replay_com_)"
 
 + 1997-11-17 (Mon, 17 Nov 1997 17:21:18 +0800) - Re: (Fwd) Victory For Microbroad - _Anonymous \<nobody@REPLAY.COM\>_
 

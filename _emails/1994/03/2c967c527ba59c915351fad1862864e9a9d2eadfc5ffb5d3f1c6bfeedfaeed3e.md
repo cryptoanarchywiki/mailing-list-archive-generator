@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: paul braunbehrens \<pbraunb@netcom.com\><br>
+From: paul braunbehrens \<pbraunb<span>@</span>netcom.com\><br>
 To: cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: 2c967c527ba59c915351fad1862864e9a9d2eadfc5ffb5d3f1c6bfeedfaeed3e<br>
 Message ID: \<Pine.3.85.9403241249.A29485-0100000@netcom2\><br>
@@ -102,6 +102,8 @@ cc:  GR.CLG
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[paul braunbehrens <pbraunb<span>@</span>netcom.com>](/author/paul_braunbehrens_pbraunb_at_netcom_com_)"
 
 + 1994-03-24 (Thu, 24 Mar 94 12:11:39 PST) - clipper debate at stanford u. (fwd) - _paul braunbehrens \<pbraunb@netcom.com\>_
 

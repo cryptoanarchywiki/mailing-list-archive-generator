@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vaxn8_vax_at_linkdead_paranoia_com_
+post_count: 7
 ---
 
-# VaX#n8 <vax@linkdead.paranoia.com> (7 posts)
+# VaX#n8 <vax<span>@</span>linkdead.paranoia.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

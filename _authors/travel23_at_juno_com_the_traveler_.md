@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: travel23_at_juno_com_the_traveler_
+post_count: 8
 ---
 
-# travel23@juno.com (The Traveler) (8 posts)
+# travel23<span>@</span>juno.com (The Traveler) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

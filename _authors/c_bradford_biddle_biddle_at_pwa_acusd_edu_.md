@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c_bradford_biddle_biddle_at_pwa_acusd_edu_
+post_count: 1
 ---
 
-# "C. Bradford Biddle" <biddle@pwa.acusd.edu> (1 posts)
+# "C. Bradford Biddle" <biddle<span>@</span>pwa.acusd.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

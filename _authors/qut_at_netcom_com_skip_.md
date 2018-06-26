@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qut_at_netcom_com_skip_
+post_count: 9
 ---
 
-# qut@netcom.com (Skip) (9 posts)
+# qut<span>@</span>netcom.com (Skip) (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

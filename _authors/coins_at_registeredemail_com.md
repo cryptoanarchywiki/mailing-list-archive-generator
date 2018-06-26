@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: coins_at_registeredemail_com
+post_count: 1
 ---
 
-# coins@registered-e-mail.com (1 posts)
+# coins<span>@</span>registered-e-mail.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

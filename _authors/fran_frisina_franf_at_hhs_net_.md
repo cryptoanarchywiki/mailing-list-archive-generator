@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fran_frisina_franf_at_hhs_net_
+post_count: 1
 ---
 
-# Fran Frisina <franf@hhs.net> (1 posts)
+# Fran Frisina <franf<span>@</span>hhs.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Ross Wright" \<rwright@adnetsol.com\><br>
+From: "Ross Wright" \<rwright<span>@</span>adnetsol.com\><br>
 To: Sandy Sandfort \<sandfort@crl.com\><br>
 Message Hash: f53dd44bbbcbf5a03bdabe3ea27876804cf9dba89ffeb986dbd25bf0d10a3d06<br>
 Message ID: \<199612310637.WAA20954@adnetsol.adnetsol.com\><br>
@@ -53,6 +53,8 @@ Voice: 415-206-9906
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "["Ross Wright" <rwright<span>@</span>adnetsol.com>](/author/ross_wright_rwright_at_adnetsol_com_)"
 
 + 1996-12-31 (Mon, 30 Dec 1996 22:36:57 -0800 (PST)) - Re: (Fwd) Re: Mr. May's Posts. Other Things. - _"Ross Wright" \<rwright@adnetsol.com\>_
 

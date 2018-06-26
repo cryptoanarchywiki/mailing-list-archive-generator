@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ben_goren_ben_at_tux_music_asu_edu_
+post_count: 11
 ---
 
-# Ben Goren <ben@Tux.Music.ASU.Edu> (11 posts)
+# Ben Goren <ben<span>@</span>Tux.Music.ASU.Edu> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

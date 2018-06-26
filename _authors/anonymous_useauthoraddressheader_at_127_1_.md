@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_useauthoraddressheader_at_127_1_
+post_count: 9
 ---
 
-# Anonymous <Use-Author-Address-Header@[127.1]> (9 posts)
+# Anonymous <Use-Author-Address-Header<span>@</span>[127.1]> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

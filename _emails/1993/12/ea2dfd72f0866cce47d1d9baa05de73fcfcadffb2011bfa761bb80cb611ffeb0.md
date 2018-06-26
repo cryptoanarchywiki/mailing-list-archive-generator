@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Black Unicorn \<unicorn@access.digex.net\><br>
+From: Black Unicorn \<unicorn<span>@</span>access.digex.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ea2dfd72f0866cce47d1d9baa05de73fcfcadffb2011bfa761bb80cb611ffeb0<br>
 Message ID: \<199312170109.AA11945@access.digex.net\><br>
@@ -108,6 +108,8 @@ And argueably those who don't hold ViaCrypt licenses.
 ## Thread
 
 + Return to [December 1993](/archive/1993/12)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/author/black_unicorn_unicorn_at_access_digex_net_)"
 
 + 1993-12-17 (Thu, 16 Dec 93 17:11:08 PST) - Anonymous remailers and keyservers. - _Black Unicorn \<unicorn@access.digex.net\>_
 

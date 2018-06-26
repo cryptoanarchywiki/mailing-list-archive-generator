@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: j_michael_jmg123_at_hotmail_com_
+post_count: 1
 ---
 
-# "J. Michael" <jmg123@hotmail.com> (1 posts)
+# "J. Michael" <jmg123<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

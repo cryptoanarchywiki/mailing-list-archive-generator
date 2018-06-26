@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rich_at_c2_org_rich_graves_
+post_count: 1
 ---
 
-# rich@c2.org (Rich Graves) (1 posts)
+# rich<span>@</span>c2.org (Rich Graves) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

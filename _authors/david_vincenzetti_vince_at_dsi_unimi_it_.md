@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_vincenzetti_vince_at_dsi_unimi_it_
+post_count: 4
 ---
 
-# David Vincenzetti <vince@dsi.unimi.it> (4 posts)
+# David Vincenzetti <vince<span>@</span>dsi.unimi.it> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: norm@netcom.com (Norman Hardy)<br>
+From: norm<span>@</span>netcom.com (Norman Hardy)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0ee051abcd5d6cbfcd2b94fd50fdfa4e3d48a989afaf438f43eb8b8a6ac9ffe7<br>
 Message ID: \<9306090213.AA15326@netcom3.netcom.com\><br>
@@ -43,6 +43,8 @@ What I have seen there is technical and not political.
 ## Thread
 
 + Return to [June 1993](/archive/1993/06)
+
++ Return to "[norm<span>@</span>netcom.com (Norman Hardy)](/author/norm_at_netcom_com_norman_hardy_)"
 
 + 1993-06-09 (Tue, 8 Jun 93 19:12:57 PDT) - CERT netnews - _norm@netcom.com (Norman Hardy)_
 

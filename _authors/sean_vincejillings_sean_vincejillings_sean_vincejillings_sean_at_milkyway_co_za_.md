@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sean_vincejillings_sean_vincejillings_sean_vincejillings_sean_at_milkyway_co_za_
+post_count: 1
 ---
 
-# Sean Vince-Jillings (Sean Vince-Jillings) (Sean Vince"Jillings) <sean@milkyway.co.za> (1 posts)
+# Sean Vince-Jillings (Sean Vince-Jillings) (Sean Vince"Jillings) <sean<span>@</span>milkyway.co.za> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

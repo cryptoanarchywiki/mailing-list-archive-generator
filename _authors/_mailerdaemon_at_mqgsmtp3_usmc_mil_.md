@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _mailerdaemon_at_mqgsmtp3_usmc_mil_
+post_count: 5
 ---
 
-# <MAILER-DAEMON@mqg-smtp3.usmc.mil> (5 posts)
+# <MAILER-DAEMON<span>@</span>mqg-smtp3.usmc.mil> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

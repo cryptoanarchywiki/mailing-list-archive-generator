@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: orowley_at_imaginemedia_com_owen_rowley_
+post_count: 2
 ---
 
-# orowley@imaginemedia.com (Owen Rowley) (2 posts)
+# orowley<span>@</span>imaginemedia.com (Owen Rowley) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

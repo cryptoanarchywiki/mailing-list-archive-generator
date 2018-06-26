@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Kent Crispin \<kent@songbird.com\><br>
+From: Kent Crispin \<kent<span>@</span>songbird.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: d4d603a660a3f168e65f5d3afa86c47b9cdcbd5ddfef8f8f5fed88cbfbc3ac3f<br>
 Message ID: \<19970514153622.03633@bywater.songbird.com\><br>
@@ -102,6 +102,19 @@ http://songbird.com/kent/pgp_key.html
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "["Graham C. Hughes" <graham.hughes<span>@</span>resnet.ucsb.edu>](/author/graham_c_hughes_graham_hughes_at_resnet_ucsb_edu_)"
++ Return to "[Jim Burnes <jim.burnes<span>@</span>ssds.com>](/author/jim_burnes_jim_burnes_at_ssds_com_)"
++ Return to "[John Horton <jehorton<span>@</span>erols.com>](/author/john_horton_jehorton_at_erols_com_)"
++ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/author/kent_crispin_kent_at_songbird_com_)"
++ Return to "[Paul Bradley <paul<span>@</span>fatmans.demon.co.uk>](/author/paul_bradley_paul_at_fatmans_demon_co_uk_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Tom Allard <m1tca00<span>@</span>FRB.GOV>](/author/tom_allard_m1tca00_at_frb_gov_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1997-05-12 (Tue, 13 May 1997 05:38:29 +0800) - [The Inducement of Rapid Oxidation of Certain Materials in or Near Government Buildings](/archive/1997/05/2579f75f2a3dddf74852d9ef7ac969f31a9591db63adf53ea8bbfe3d9838d3e2) - _Duncan Frissell \<frissell@panix.com\>_
   + 1997-05-14 (Wed, 14 May 1997 09:09:15 +0800) - [Re: The Inducement of Rapid Oxidation of Certain Materials in or Near Government Buildings](/archive/1997/05/31eb9c853d639566076bcdc40cf167822bc5f326f3e3828ca45903d454a487d3) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_

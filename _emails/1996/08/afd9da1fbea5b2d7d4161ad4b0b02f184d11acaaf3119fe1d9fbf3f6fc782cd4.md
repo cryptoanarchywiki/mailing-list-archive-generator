@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Julian Assange \<proff@suburbia.net\><br>
+From: Julian Assange \<proff<span>@</span>suburbia.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: afd9da1fbea5b2d7d4161ad4b0b02f184d11acaaf3119fe1d9fbf3f6fc782cd4<br>
 Message ID: \<199608102127.HAA15949@suburbia.net\><br>
@@ -263,6 +263,8 @@ To this address: majordomo@igc.apc.org
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Julian Assange <proff<span>@</span>suburbia.net>](/author/julian_assange_proff_at_suburbia_net_)"
 
 + 1996-08-11 (Sun, 11 Aug 1996 08:06:58 +0800) - GOP Security (fwd) - _Julian Assange \<proff@suburbia.net\>_
 

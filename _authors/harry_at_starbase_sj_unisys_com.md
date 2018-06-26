@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: harry_at_starbase_sj_unisys_com
+post_count: 2
 ---
 
-# harry@starbase.sj.unisys.com (2 posts)
+# harry<span>@</span>starbase.sj.unisys.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

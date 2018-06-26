@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _echo_echo68916_at_delphi_com_
+post_count: 1
 ---
 
-# ".echo" <echo68916@delphi.com> (1 posts)
+# ".echo" <echo68916<span>@</span>delphi.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

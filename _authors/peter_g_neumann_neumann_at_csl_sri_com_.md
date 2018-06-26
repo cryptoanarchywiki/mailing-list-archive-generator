@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_g_neumann_neumann_at_csl_sri_com_
+post_count: 1
 ---
 
-# "Peter G. Neumann" <neumann@csl.sri.com> (1 posts)
+# "Peter G. Neumann" <neumann<span>@</span>csl.sri.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

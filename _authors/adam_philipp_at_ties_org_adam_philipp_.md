@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adam_philipp_at_ties_org_adam_philipp_
+post_count: 11
 ---
 
-# adam.philipp@ties.org (Adam Philipp) (11 posts)
+# adam.philipp<span>@</span>ties.org (Adam Philipp) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

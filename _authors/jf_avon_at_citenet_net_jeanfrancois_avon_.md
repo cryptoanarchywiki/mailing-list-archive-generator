@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jf_avon_at_citenet_net_jeanfrancois_avon_
+post_count: 3
 ---
 
-# jf_avon@citenet.net (Jean-Francois Avon) (3 posts)
+# jf_avon<span>@</span>citenet.net (Jean-Francois Avon) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

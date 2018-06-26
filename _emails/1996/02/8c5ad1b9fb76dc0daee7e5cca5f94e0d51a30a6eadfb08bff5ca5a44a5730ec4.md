@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jeff Weinstein \<jsw@netscape.com\><br>
+From: Jeff Weinstein \<jsw<span>@</span>netscape.com\><br>
 To: Alex Strasheim \<cp@proust.suba.com\><br>
 Message Hash: 8c5ad1b9fb76dc0daee7e5cca5f94e0d51a30a6eadfb08bff5ca5a44a5730ec4<br>
 Message ID: \<312EC5E6.540E@netscape.com\><br>
@@ -57,6 +57,13 @@ Any opinions expressed above are mine.
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[Adam Shostack <adam<span>@</span>lighthouse.homeport.org>](/author/adam_shostack_adam_at_lighthouse_homeport_org_)"
++ Return to "[Alex Strasheim <cp<span>@</span>proust.suba.com>](/author/alex_strasheim_cp_at_proust_suba_com_)"
++ Return to "[Jeff Barber <jeffb<span>@</span>sware.com>](/author/jeff_barber_jeffb_at_sware_com_)"
++ Return to "[Jeff Weinstein <jsw<span>@</span>netscape.com>](/author/jeff_weinstein_jsw_at_netscape_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[Phil Karlton <karlton<span>@</span>netscape.com>](/author/phil_karlton_karlton_at_netscape_com_)"
 
 + 1996-02-23 (Sat, 24 Feb 1996 05:02:53 +0800) - [REM_ote](/archive/1996/02/269c332f9c34fe9574bbf111e0c6c947e52ea351d61f861f8015e79fdc4f69ed) - _John Young \<jya@pipeline.com\>_
   + 1996-02-23 (Sat, 24 Feb 1996 06:33:23 +0800) - [Re: REM_ote](/archive/1996/02/d4542b3253dcf386e9cdbe96b5245d7533df5563773b17aea85f90842e693cbf) - _Jeff Barber \<jeffb@sware.com\>_

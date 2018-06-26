@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: STUFFED/EUREKA! \<stuffed@stuffed.net\><br>
+From: STUFFED/EUREKA! \<stuffed<span>@</span>stuffed.net\><br>
 To: All Eureka/Stuffed Subscribers: ;<br>
 Message Hash: 1b08a2f5eaec16bb6fdfc73a86dfaac8ea847bd5daf80d7438dcd5b13c5cde29<br>
 Message ID: \<19980814080000.28639.qmail@eureka.abc-web.com\><br>
@@ -49,6 +49,8 @@ instructions on unsubscribing  are in every issue of Eureka!
 ## Thread
 
 + Return to [August 1998](/archive/1998/08)
+
++ Return to "[STUFFED/EUREKA! <stuffed<span>@</span>stuffed.net>](/author/stuffedeureka_stuffed_at_stuffed_net_)"
 
 + 1998-08-14 (Fri, 14 Aug 1998 08:09:46 -0700 (PDT)) - Dennis Rodman hounded by porn stars/Mom dates alien son http://stuffed.net/98/8/14/ - _STUFFED/EUREKA! \<stuffed@stuffed.net\>_
 

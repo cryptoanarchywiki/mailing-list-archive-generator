@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: last_deliverer_ldeliverer_at_hotmail_com_
+post_count: 2
 ---
 
-# "last deliverer" <ldeliverer@hotmail.com> (2 posts)
+# "last deliverer" <ldeliverer<span>@</span>hotmail.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

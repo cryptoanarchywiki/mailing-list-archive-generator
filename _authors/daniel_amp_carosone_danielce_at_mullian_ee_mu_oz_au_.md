@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_amp_carosone_danielce_at_mullian_ee_mu_oz_au_
+post_count: 1
 ---
 
-# Daniel AMP Carosone <danielce@mullian.ee.mu.OZ.AU> (1 posts)
+# Daniel AMP Carosone <danielce<span>@</span>mullian.ee.mu.OZ.AU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

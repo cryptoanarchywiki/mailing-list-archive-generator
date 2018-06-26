@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_alan_at_clueserver_org_
+post_count: 5
 ---
 
-# Alan <alan@clueserver.org> (5 posts)
+# Alan <alan<span>@</span>clueserver.org> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_hohensee_michael_at_sparta_mainstream_net_
+post_count: 3
 ---
 
-# Michael Hohensee <michael@sparta.mainstream.net> (3 posts)
+# Michael Hohensee <michael<span>@</span>sparta.mainstream.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cynthia_brown_cynthb_at_sonetis_com_
+post_count: 8
 ---
 
-# Cynthia Brown <cynthb@sonetis.com> (8 posts)
+# Cynthia Brown <cynthb<span>@</span>sonetis.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

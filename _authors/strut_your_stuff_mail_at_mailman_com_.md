@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: strut_your_stuff_mail_at_mailman_com_
+post_count: 1
 ---
 
-# "Strut Your Stuff" <mail@mailman.com> (1 posts)
+# "Strut Your Stuff" <mail<span>@</span>mailman.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

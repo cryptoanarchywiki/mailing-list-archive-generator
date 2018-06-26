@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sucrum22_at_indyadp_at_smtpgw_cv62_navy_mil
+post_count: 5
 ---
 
-# SUCRUM22_at_INDY-ADP@smtp-gw.cv62.navy.mil (5 posts)
+# SUCRUM22_at_INDY-ADP<span>@</span>smtp-gw.cv62.navy.mil (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

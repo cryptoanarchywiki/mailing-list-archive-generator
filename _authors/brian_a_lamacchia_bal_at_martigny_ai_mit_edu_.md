@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_a_lamacchia_bal_at_martigny_ai_mit_edu_
+post_count: 38
 ---
 
-# "Brian A. LaMacchia" <bal@martigny.ai.mit.edu> (38 posts)
+# "Brian A. LaMacchia" <bal<span>@</span>martigny.ai.mit.edu> (38 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

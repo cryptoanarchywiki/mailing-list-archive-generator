@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_edwards_salaned_at_concentric_net_
+post_count: 3
 ---
 
-# Steve Edwards <SAlanEd@concentric.net> (3 posts)
+# Steve Edwards <SAlanEd<span>@</span>concentric.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

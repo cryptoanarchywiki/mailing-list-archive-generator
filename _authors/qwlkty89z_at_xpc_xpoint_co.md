@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qwlkty89z_at_xpc_xpoint_co
+post_count: 1
 ---
 
-# qwlkty89z@xpc.xpoint.co (1 posts)
+# qwlkty89z<span>@</span>xpc.xpoint.co (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

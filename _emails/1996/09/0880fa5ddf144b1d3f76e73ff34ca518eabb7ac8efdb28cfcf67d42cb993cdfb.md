@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0880fa5ddf144b1d3f76e73ff34ca518eabb7ac8efdb28cfcf67d42cb993cdfb<br>
 Message ID: \<199609260534.WAA00788@mail.pacifier.com\><br>
@@ -61,6 +61,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-09-26 (Thu, 26 Sep 1996 15:45:25 +0800) - Re: Mitsubishi MISTY LSI - _jim bell \<jimbell@pacifier.com\>_
 

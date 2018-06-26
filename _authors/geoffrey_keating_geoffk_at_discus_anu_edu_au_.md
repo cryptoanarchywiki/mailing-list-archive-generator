@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: geoffrey_keating_geoffk_at_discus_anu_edu_au_
+post_count: 3
 ---
 
-# Geoffrey KEATING <geoffk@discus.anu.edu.au> (3 posts)
+# Geoffrey KEATING <geoffk<span>@</span>discus.anu.edu.au> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

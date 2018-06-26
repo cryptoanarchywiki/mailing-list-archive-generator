@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 71440094_at_ix_netcom_com
+post_count: 1
 ---
 
-# 71440094@ix.netcom.com (1 posts)
+# 71440094<span>@</span>ix.netcom.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

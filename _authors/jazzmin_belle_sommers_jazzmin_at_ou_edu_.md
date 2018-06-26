@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jazzmin_belle_sommers_jazzmin_at_ou_edu_
+post_count: 4
 ---
 
-# Jazzmin Belle Sommers <jazzmin@ou.edu> (4 posts)
+# Jazzmin Belle Sommers <jazzmin<span>@</span>ou.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

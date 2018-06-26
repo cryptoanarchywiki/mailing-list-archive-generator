@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: k_r_lewis_krl_at_vicomp_com_
+post_count: 1
 ---
 
-# "K.R. Lewis" <krl@vicomp.com> (1 posts)
+# "K.R. Lewis" <krl<span>@</span>vicomp.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

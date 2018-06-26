@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: basic_at_altern_com_basic_
+post_count: 1
 ---
 
-# basic@altern.com (basic) (1 posts)
+# basic<span>@</span>altern.com (basic) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

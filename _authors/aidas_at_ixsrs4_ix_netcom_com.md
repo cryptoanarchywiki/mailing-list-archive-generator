@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aidas_at_ixsrs4_ix_netcom_com
+post_count: 1
 ---
 
-# aidas@ixsrs4.ix.netcom.com (1 posts)
+# aidas<span>@</span>ixsrs4.ix.netcom.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_lehmann_ssasyd_lehmannj_at_saatchi_com_au_
+post_count: 2
 ---
 
-# John Lehmann (SSASyd) <LEHMANNJ@saatchi.com.au> (2 posts)
+# John Lehmann (SSASyd) <LEHMANNJ<span>@</span>saatchi.com.au> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

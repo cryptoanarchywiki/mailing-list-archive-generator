@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _dwiley_at_pcy_mci_net_
+post_count: 1
 ---
 
-# <dwiley@pcy.mci.net> (1 posts)
+# <dwiley<span>@</span>pcy.mci.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

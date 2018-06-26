@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: arunas_norvaisa_arunas_at_post1_com_
+post_count: 5
 ---
 
-# Arunas Norvaisa <arunas@post1.com> (5 posts)
+# Arunas Norvaisa <arunas<span>@</span>post1.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

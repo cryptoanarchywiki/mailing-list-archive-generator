@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: attila \<attila@primenet.com\><br>
+From: attila \<attila<span>@</span>primenet.com\><br>
 To: amp \<Alan.Pugh@internetMCI.COM\><br>
 Message Hash: c411abadccfa63e4d91df579209fa0df4a47d45026fd0ccaac1baaa85aba2744<br>
 Message ID: \<Pine.BSD.3.91.960101093049.3196B-100000@usr5.primenet.com\><br>
@@ -85,6 +85,9 @@ On Mon, 1 Jan 1996, amp wrote:
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[amp <Alan.Pugh<span>@</span>internetMCI.COM>](/author/amp_alan_pugh_at_internetmci_com_)"
++ Return to "[attila <attila<span>@</span>primenet.com>](/author/attila_attila_at_primenet_com_)"
 
 + 1996-01-01 (Mon, 1 Jan 1996 14:57:23 +0800) - [Re: Australian "calculatorcard"](/archive/1996/01/b5ce56d430c520dbe7acac5423b1862529af57e554a8d8be1c651ac426af88a4) - _amp \<Alan.Pugh@internetMCI.COM\>_
   + 1996-01-01 (Mon, 1 Jan 1996 18:01:40 +0800) - Re: Australian "calculatorcard" - _attila \<attila@primenet.com\>_

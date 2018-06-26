@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jimp_at_wired_com_jim_petersen_
+post_count: 1
 ---
 
-# jimp@wired.com (Jim Petersen) (1 posts)
+# jimp<span>@</span>wired.com (Jim Petersen) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

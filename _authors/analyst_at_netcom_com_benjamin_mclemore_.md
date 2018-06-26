@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: analyst_at_netcom_com_benjamin_mclemore_
+post_count: 7
 ---
 
-# analyst@netcom.com (Benjamin McLemore) (7 posts)
+# analyst<span>@</span>netcom.com (Benjamin McLemore) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

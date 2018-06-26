@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@localhost.netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>localhost.netcom.com (Timothy C. May)<br>
 To: pcw@access.digex.net (Peter Wayner)<br>
 Message Hash: 09393bdcfdee7cc50f2c18ed16d888f4abdf3fb69b260b8eea41eba670a1eef4<br>
 Message ID: \<199408100435.VAA02566@netcom13.netcom.com\><br>
@@ -86,6 +86,8 @@ Higher Power: 2^859433 | Public Key: PGP and MailSafe available.
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[tcmay<span>@</span>localhost.netcom.com (Timothy C. May)](/author/tcmay_at_localhost_netcom_com_timothy_c_may_)"
 
 + 1994-08-10 (Tue, 9 Aug 94 21:36:03 PDT) - Re: No more NSA supra-computer? - _tcmay@localhost.netcom.com (Timothy C. May)_
 

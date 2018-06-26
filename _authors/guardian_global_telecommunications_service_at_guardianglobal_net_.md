@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: guardian_global_telecommunications_service_at_guardianglobal_net_
+post_count: 1
 ---
 
-# Guardian Global Telecommunications <service@guardian-global.net> (1 posts)
+# Guardian Global Telecommunications <service<span>@</span>guardian-global.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

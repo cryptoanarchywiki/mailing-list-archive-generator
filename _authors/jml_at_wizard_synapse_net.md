@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jml_at_wizard_synapse_net
+post_count: 8
 ---
 
-# jml@wizard.synapse.net (8 posts)
+# jml<span>@</span>wizard.synapse.net (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kaye_caldwell_kaye_at_ix_netcom_com_by_way_of_frantz_at_netcom_com_billfrantz_
+post_count: 1
 ---
 
-# Kaye Caldwell <kaye@ix.netcom.com> (by way of frantz@netcom.com (BillFrantz)) (1 posts)
+# Kaye Caldwell <kaye<span>@</span>ix.netcom.com> (by way of frantz<span>@</span>netcom.com (BillFrantz)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pobox_adminstrator_pobox_at_pobox_org_sg_
+post_count: 1
 ---
 
-# PObox Adminstrator <pobox@pobox.org.sg> (1 posts)
+# PObox Adminstrator <pobox<span>@</span>pobox.org.sg> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_scheidt_david_at_infocom_com_
+post_count: 2
 ---
 
-# David Scheidt <david@infocom.com> (2 posts)
+# David Scheidt <david<span>@</span>infocom.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: crys_rides_crys_at_cave_tcp_com_
+post_count: 5
 ---
 
-# Crys Rides <crys@cave.tcp.COM> (5 posts)
+# Crys Rides <crys<span>@</span>cave.tcp.COM> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

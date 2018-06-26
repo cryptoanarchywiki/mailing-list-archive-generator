@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sandy Sandfort \<sandfort@crl.com\><br>
+From: Sandy Sandfort \<sandfort<span>@</span>crl.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 77f1b7ad19127b07eb36ee4aebbcd1eefd85b1578aa03b4e659adcd08afeb2ba<br>
 Message ID: \<Pine.3.87.9404201444.A23718-0100000@crl2.crl.com\><br>
@@ -49,6 +49,9 @@ circular file.  I'll do my best.
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "["Christian D. Odhner" <cdodhner<span>@</span>indirect.com>](/author/christian_d_odhner_cdodhner_at_indirect_com_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1994-04-20 (Wed, 20 Apr 94 14:10:26 PDT) - SOF ARTICLE - _Sandy Sandfort \<sandfort@crl.com\>_
   + 1994-04-20 (Wed, 20 Apr 94 14:47:51 PDT) - [Re: SOF ARTICLE](/archive/1994/04/7f54e9f8eec209de8696533e973033d3c65a9bb7d945c3a32ea0acbec4878c0c) - _"Christian D. Odhner" \<cdodhner@indirect.com\>_

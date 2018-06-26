@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: renegade_renegade_at_texoma_net_
+post_count: 2
 ---
 
-# Renegade <renegade@texoma.net> (2 posts)
+# Renegade <renegade<span>@</span>texoma.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

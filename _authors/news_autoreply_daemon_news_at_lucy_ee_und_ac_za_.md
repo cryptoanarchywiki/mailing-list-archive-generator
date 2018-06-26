@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: news_autoreply_daemon_news_at_lucy_ee_und_ac_za_
+post_count: 1
 ---
 
-# News auto-reply daemon <news@lucy.ee.und.ac.za> (1 posts)
+# News auto-reply daemon <news<span>@</span>lucy.ee.und.ac.za> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

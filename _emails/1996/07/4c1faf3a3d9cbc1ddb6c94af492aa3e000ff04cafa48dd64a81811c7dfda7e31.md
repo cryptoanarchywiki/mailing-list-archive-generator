@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Horowitz \<alanh@infi.net\><br>
+From: Alan Horowitz \<alanh<span>@</span>infi.net\><br>
 To: Arun Mehta \<amehta@giasdl01.vsnl.net.in\><br>
 Message Hash: 4c1faf3a3d9cbc1ddb6c94af492aa3e000ff04cafa48dd64a81811c7dfda7e31<br>
 Message ID: \<Pine.SV4.3.91.960720235551.27174D-100000@larry.infi.net\><br>
@@ -57,6 +57,10 @@ writer of encyclopedia articles for the Stalin regime.
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/author/alan_horowitz_alanh_at_infi_net_)"
++ Return to "[Arun Mehta <amehta<span>@</span>giasdl01.vsnl.net.in>](/author/arun_mehta_amehta_at_giasdl01_vsnl_net_in_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1996-07-20 (Sun, 21 Jul 1996 05:52:23 +0800) - [Re: Responding to Pre-dawn Unannounced Ninja Raids](/archive/1996/07/77cc2a983e2a10de86ae87e24b6a0fd6bdb411b108dd5e0ab915a78e3bbd340f) - _Arun Mehta \<amehta@giasdl01.vsnl.net.in\>_
   + 1996-07-20 (Sun, 21 Jul 1996 06:37:18 +0800) - [Re: Responding to Pre-dawn Unannounced Ninja Raids](/archive/1996/07/10995f66c944156f263690e3f84491fdc257ca0681fe0b7b080fb299e733b723) - _"Perry E. Metzger" \<perry@piermont.com\>_

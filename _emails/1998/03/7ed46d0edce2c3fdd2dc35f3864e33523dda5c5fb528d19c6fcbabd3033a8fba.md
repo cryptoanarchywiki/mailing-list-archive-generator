@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Toto \<toto@sk.sympatico.ca\><br>
+From: Toto \<toto<span>@</span>sk.sympatico.ca\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7ed46d0edce2c3fdd2dc35f3864e33523dda5c5fb528d19c6fcbabd3033a8fba<br>
 Message ID: \<351C9E6E.FF00180C@sk.sympatico.ca\><br>
@@ -192,6 +192,8 @@ too big to serve God because they made her look like a prostitute.
 ## Thread
 
 + Return to [March 1998](/archive/1998/03)
+
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
 
 + 1998-03-28 (Fri, 27 Mar 1998 21:05:57 -0800 (PST)) - GRAND JURY: Jonesboro Guilty, Society and Christianity Indicted As Co-conspirators - _Toto \<toto@sk.sympatico.ca\>_
 

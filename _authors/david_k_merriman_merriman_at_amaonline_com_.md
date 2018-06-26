@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_k_merriman_merriman_at_amaonline_com_
+post_count: 14
 ---
 
-# "David K. Merriman" <merriman@amaonline.com> (14 posts)
+# "David K. Merriman" <merriman<span>@</span>amaonline.com> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

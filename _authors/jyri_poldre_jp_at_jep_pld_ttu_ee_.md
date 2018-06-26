@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jyri_poldre_jp_at_jep_pld_ttu_ee_
+post_count: 2
 ---
 
-# Jyri Poldre <jp@jep.pld.ttu.ee> (2 posts)
+# Jyri Poldre <jp<span>@</span>jep.pld.ttu.ee> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

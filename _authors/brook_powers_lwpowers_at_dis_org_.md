@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brook_powers_lwpowers_at_dis_org_
+post_count: 1
 ---
 
-# Brook Powers <lwpowers@dis.org> (1 posts)
+# Brook Powers <lwpowers<span>@</span>dis.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bob_bruen_mit_lab_for_nuclear_science_bruen_at_mitlns_mit_edu_
+post_count: 11
 ---
 
-# "Bob Bruen, MIT Lab for Nuclear Science" <BRUEN@mitlns.mit.edu> (11 posts)
+# "Bob Bruen, MIT Lab for Nuclear Science" <BRUEN<span>@</span>mitlns.mit.edu> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

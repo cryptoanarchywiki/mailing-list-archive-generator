@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ed_switalski_e_switalski_at_bnr_co_uk_
+post_count: 10
 ---
 
-# Ed Switalski <E.Switalski@bnr.co.uk> (10 posts)
+# Ed Switalski <E.Switalski<span>@</span>bnr.co.uk> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: SGT=DARREN=S.=HARLOW%ISB%MCTSSA@nwsfallbrook3.nwac.sea06.navy.mil<br>
+From: SGT=DARREN=S.=HARLOW%ISB%MCTSSA<span>@</span>nwsfallbrook3.nwac.sea06.navy.mil<br>
 To: cypherpunks%toad.com@pucc.princeton.edu<br>
 Message Hash: e12c36ac8b2a4c3c1fea9833feaa5a5d7eadabcce4acbef1c99575872bd8e02d<br>
 Message ID: \<9404151546.AA16205@toad.com\><br>
@@ -66,6 +66,9 @@ Lm53YWMuc2VhMDYubmF2eS5taWw+
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[SGT=DARREN=S.=HARLOW%ISB%MCTSSA<span>@</span>nwsfallbrook3.nwac.sea06.navy.mil](/author/sgtdarrens_harlowisbmctssa_at_nwsfallbrook3_nwac_sea06_navy_mil)"
++ Return to "[whitaker<span>@</span>dpair.csd.sgi.com (Russell Whitaker)](/author/whitaker_at_dpair_csd_sgi_com_russell_whitaker_)"
 
 + 1994-04-15 (Fri, 15 Apr 94 08:46:09 PDT) - Some Questions... - _SGT=DARREN=S.=HARLOW%ISB%MCTSSA@nwsfallbrook3.nwac.sea06.navy.mil_
   + 1994-04-15 (Fri, 15 Apr 94 10:31:13 PDT) - [Re: Some Questions...](/archive/1994/04/63782c054164610f6980e02adb991b8ebb466013259acf7095291a2a73d97ab2) - _whitaker@dpair.csd.sgi.com (Russell Whitaker)_

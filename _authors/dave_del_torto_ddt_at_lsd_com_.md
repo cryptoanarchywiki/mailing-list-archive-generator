@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_del_torto_ddt_at_lsd_com_
+post_count: 51
 ---
 
-# Dave Del Torto <ddt@lsd.com> (51 posts)
+# Dave Del Torto <ddt<span>@</span>lsd.com> (51 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

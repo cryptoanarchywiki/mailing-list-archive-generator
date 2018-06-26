@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: austin_hill_austin_at_zks_net_
+post_count: 3
 ---
 
-# "Austin Hill" <austin@zks.net> (3 posts)
+# "Austin Hill" <austin<span>@</span>zks.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

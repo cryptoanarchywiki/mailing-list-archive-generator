@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mccoy_at_io_com_jim_mccoy_
+post_count: 40
 ---
 
-# mccoy@io.com (Jim McCoy) (40 posts)
+# mccoy<span>@</span>io.com (Jim McCoy) (40 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

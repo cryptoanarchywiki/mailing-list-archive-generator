@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: an52436@anon.penet.fi (Mephisto)<br>
+From: an52436<span>@</span>anon.penet.fi (Mephisto)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: cba35c7a4ace2eb284fca4e1d361bc4ad3059cbd75fff29ce1ee3cdcda261634<br>
 Message ID: \<9401311107.AA09748@anon.penet.fi\><br>
@@ -57,6 +57,8 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 ## Thread
 
 + Return to [January 1994](/archive/1994/01)
+
++ Return to "[an52436<span>@</span>anon.penet.fi (Mephisto)](/author/an52436_at_anon_penet_fi_mephisto_)"
 
 + 1994-01-31 (Mon, 31 Jan 94 04:03:00 PST) - Applicability of ITAR - _an52436@anon.penet.fi (Mephisto)_
 

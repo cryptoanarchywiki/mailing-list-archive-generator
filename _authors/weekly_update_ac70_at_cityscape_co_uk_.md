@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: weekly_update_ac70_at_cityscape_co_uk_
+post_count: 1
 ---
 
-# Weekly Update <ac70@cityscape.co.uk> (1 posts)
+# Weekly Update <ac70<span>@</span>cityscape.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

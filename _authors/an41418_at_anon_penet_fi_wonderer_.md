@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an41418_at_anon_penet_fi_wonderer_
+post_count: 38
 ---
 
-# an41418@anon.penet.fi (wonderer) (38 posts)
+# an41418<span>@</span>anon.penet.fi (wonderer) (38 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

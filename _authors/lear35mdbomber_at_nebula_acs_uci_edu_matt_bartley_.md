@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lear35mdbomber_at_nebula_acs_uci_edu_matt_bartley_
+post_count: 4
 ---
 
-# lear35!mdbomber@nebula.acs.uci.edu (Matt Bartley) (4 posts)
+# lear35!mdbomber<span>@</span>nebula.acs.uci.edu (Matt Bartley) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

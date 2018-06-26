@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_rsholl_at_hotmail_com_
+post_count: 1
 ---
 
-# "Richard" <rsholl@hotmail.com> (1 posts)
+# "Richard" <rsholl<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

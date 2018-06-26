@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 75825118_at_cris_com
+post_count: 1
 ---
 
-# 75825118@cris.com (1 posts)
+# 75825118<span>@</span>cris.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_michael_johnson_at_mejl_com_
+post_count: 25
 ---
 
-# Mike <Michael.Johnson@mejl.com> (25 posts)
+# Mike <Michael.Johnson<span>@</span>mejl.com> (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

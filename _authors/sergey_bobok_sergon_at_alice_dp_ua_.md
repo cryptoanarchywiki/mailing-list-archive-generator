@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sergey_bobok_sergon_at_alice_dp_ua_
+post_count: 1
 ---
 
-# "Sergey Bobok" <sergon@alice.dp.ua> (1 posts)
+# "Sergey Bobok" <sergon<span>@</span>alice.dp.ua> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

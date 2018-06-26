@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jeff Simmons \<jsimmons@goblin.punk.net\><br>
+From: Jeff Simmons \<jsimmons<span>@</span>goblin.punk.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: dd47c539bfaeec694cb0dab1447dd2c528b15f26dab17bbfe4c6668c5ff1eebc<br>
 Message ID: \<199512020237.SAA03409@goblin.punk.net\><br>
@@ -104,6 +104,8 @@ Jeff Simmons                           jsimmons@goblin.punk.net
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Jeff Simmons <jsimmons<span>@</span>goblin.punk.net>](/author/jeff_simmons_jsimmons_at_goblin_punk_net_)"
 
 + 1995-12-02 (Sat, 2 Dec 1995 11:08:23 +0800) - Filtering Net Commercials - _Jeff Simmons \<jsimmons@goblin.punk.net\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joseph_at_genome_wi_mit_edu_joseph_sokolmargolis_
+post_count: 4
 ---
 
-# joseph@genome.wi.mit.edu (Joseph Sokol-Margolis) (4 posts)
+# joseph<span>@</span>genome.wi.mit.edu (Joseph Sokol-Margolis) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: crandall_jeffden_at_c2i2_com_
+post_count: 1
 ---
 
-# "Crandall" <jeffden@c2i2.com> (1 posts)
+# "Crandall" <jeffden<span>@</span>c2i2.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

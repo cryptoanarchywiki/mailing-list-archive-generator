@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kinney_william_h_kinney_at_pprince_colorado_edu_
+post_count: 1
 ---
 
-# KINNEY WILLIAM H <kinney@pprince.colorado.edu> (1 posts)
+# KINNEY WILLIAM H <kinney<span>@</span>pprince.colorado.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

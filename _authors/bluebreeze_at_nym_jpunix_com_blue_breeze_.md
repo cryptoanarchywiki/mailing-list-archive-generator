@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bluebreeze_at_nym_jpunix_com_blue_breeze_
+post_count: 1
 ---
 
-# bluebreeze@nym.jpunix.com (Blue Breeze) (1 posts)
+# bluebreeze<span>@</span>nym.jpunix.com (Blue Breeze) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

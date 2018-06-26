@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alk_at_et_msc_edu_anthony_l_kimball_
+post_count: 1
 ---
 
-# alk@et.msc.edu (Anthony L. Kimball) (1 posts)
+# alk<span>@</span>et.msc.edu (Anthony L. Kimball) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

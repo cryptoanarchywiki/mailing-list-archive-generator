@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: corey_at_hedgehog_mcom_com_corey_bridges_
+post_count: 2
 ---
 
-# corey@hedgehog.mcom.com (Corey Bridges) (2 posts)
+# corey<span>@</span>hedgehog.mcom.com (Corey Bridges) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

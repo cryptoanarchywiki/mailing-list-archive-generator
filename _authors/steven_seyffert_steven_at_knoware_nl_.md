@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steven_seyffert_steven_at_knoware_nl_
+post_count: 2
 ---
 
-# "Steven Seyffert" <steven@knoware.nl> (2 posts)
+# "Steven Seyffert" <steven<span>@</span>knoware.nl> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

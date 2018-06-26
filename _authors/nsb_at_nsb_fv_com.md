@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nsb_at_nsb_fv_com
+post_count: 3
 ---
 
-# nsb@nsb.fv.com (3 posts)
+# nsb<span>@</span>nsb.fv.com (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

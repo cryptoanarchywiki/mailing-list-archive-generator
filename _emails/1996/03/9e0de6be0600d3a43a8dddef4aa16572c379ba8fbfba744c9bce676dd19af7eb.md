@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9e0de6be0600d3a43a8dddef4aa16572c379ba8fbfba744c9bce676dd19af7eb<br>
 Message ID: \<199603081057.LAA24365@utopia.hacktic.nl\><br>
@@ -61,6 +61,8 @@ called a "patriot"....)
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1996-03-08 (Fri, 8 Mar 1996 20:29:38 +0800) - No Subject - _nobody@REPLAY.COM (Anonymous)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christian_claborne_claborne_at_cyberthought_com_
+post_count: 9
 ---
 
-# Christian Claborne <Claborne@CYBERTHOUGHT.com> (9 posts)
+# Christian Claborne <Claborne<span>@</span>CYBERTHOUGHT.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

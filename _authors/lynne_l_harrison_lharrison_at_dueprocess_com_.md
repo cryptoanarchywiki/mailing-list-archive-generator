@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lynne_l_harrison_lharrison_at_dueprocess_com_
+post_count: 13
 ---
 
-# "Lynne L. Harrison" <lharrison@dueprocess.com> (13 posts)
+# "Lynne L. Harrison" <lharrison<span>@</span>dueprocess.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

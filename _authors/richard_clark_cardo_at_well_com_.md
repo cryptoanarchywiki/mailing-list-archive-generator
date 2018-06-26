@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_clark_cardo_at_well_com_
+post_count: 1
 ---
 
-# Richard Clark <cardo@well.com> (1 posts)
+# Richard Clark <cardo<span>@</span>well.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

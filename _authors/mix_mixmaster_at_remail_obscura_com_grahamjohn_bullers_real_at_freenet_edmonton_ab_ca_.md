@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mix_mixmaster_at_remail_obscura_com_grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_
+post_count: 1
 ---
 
-# Mix <mixmaster@remail.obscura.com>Graham-John Bullers <real@freenet.edmonton.ab.ca> (1 posts)
+# Mix <mixmaster<span>@</span>remail.obscura.com>Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

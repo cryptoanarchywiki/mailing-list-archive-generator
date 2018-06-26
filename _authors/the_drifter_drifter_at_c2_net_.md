@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_drifter_drifter_at_c2_net_
+post_count: 2
 ---
 
-# The Drifter <drifter@c2.net> (2 posts)
+# The Drifter <drifter<span>@</span>c2.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

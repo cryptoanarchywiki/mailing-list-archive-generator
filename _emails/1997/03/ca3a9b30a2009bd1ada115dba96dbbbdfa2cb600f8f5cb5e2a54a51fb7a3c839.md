@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bubba Rom Dos \<bubba@dev.null\><br>
+From: Bubba Rom Dos \<bubba<span>@</span>dev.null\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ca3a9b30a2009bd1ada115dba96dbbbdfa2cb600f8f5cb5e2a54a51fb7a3c839<br>
 Message ID: \<333EF356.76ED@dev.null\><br>
@@ -449,6 +449,8 @@ Chapter 21 - All The Marbles
 ## Thread
 
 + Return to [March 1997](/archive/1997/03)
+
++ Return to "[Bubba Rom Dos <bubba<span>@</span>dev.null>](/author/bubba_rom_dos_bubba_at_dev_null_)"
 
 + 1997-03-30 (Sun, 30 Mar 1997 15:14:34 -0800 (PST)) - WebWorld 21 - _Bubba Rom Dos \<bubba@dev.null\>_
 

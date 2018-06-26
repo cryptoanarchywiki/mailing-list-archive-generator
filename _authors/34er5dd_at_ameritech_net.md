@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 34er5dd_at_ameritech_net
+post_count: 1
 ---
 
-# 34er5dd@ameritech.net (1 posts)
+# 34er5dd<span>@</span>ameritech.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

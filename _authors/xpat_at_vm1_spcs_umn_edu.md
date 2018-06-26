@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: xpat_at_vm1_spcs_umn_edu
+post_count: 15
 ---
 
-# xpat@vm1.spcs.umn.edu (15 posts)
+# xpat<span>@</span>vm1.spcs.umn.edu (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

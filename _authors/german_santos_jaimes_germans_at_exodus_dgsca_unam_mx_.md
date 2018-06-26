@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: german_santos_jaimes_germans_at_exodus_dgsca_unam_mx_
+post_count: 1
 ---
 
-# German Santos Jaimes <germans@exodus.dgsca.unam.mx> (1 posts)
+# German Santos Jaimes <germans<span>@</span>exodus.dgsca.unam.mx> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

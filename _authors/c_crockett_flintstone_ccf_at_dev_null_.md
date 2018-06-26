@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c_crockett_flintstone_ccf_at_dev_null_
+post_count: 2
 ---
 
-# "C. Crockett Flintstone" <ccf@dev.null> (2 posts)
+# "C. Crockett Flintstone" <ccf<span>@</span>dev.null> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

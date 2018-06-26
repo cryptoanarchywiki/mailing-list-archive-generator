@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>ssz.com\><br>
 To: cypherpunks@ssz.com<br>
 Message Hash: a8613cc23c8d88bba46d680e3b19b0aab45cb1fccc061dd83bd1fda8ffd6c72a<br>
 Message ID: \<199712290447.WAA00223@einstein.ssz.com\><br>
@@ -94,6 +94,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1997-12-29 (Mon, 29 Dec 1997 12:27:09 +0800) - 17.html - _Jim Choate \<ravage@ssz.com\>_
 

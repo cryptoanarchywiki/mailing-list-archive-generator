@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: donald_e_eastlake_3rd_beast__dee_at_skidrow_lkg_dec_com_
+post_count: 1
 ---
 
-# "Donald E. Eastlake 3rd (Beast)" <dee@skidrow.lkg.dec.com> (1 posts)
+# "Donald E. Eastlake 3rd (Beast)" <dee<span>@</span>skidrow.lkg.dec.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

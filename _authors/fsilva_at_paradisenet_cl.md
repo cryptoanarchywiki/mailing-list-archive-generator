@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fsilva_at_paradisenet_cl
+post_count: 1
 ---
 
-# fsilva@paradisenet.cl (1 posts)
+# fsilva<span>@</span>paradisenet.cl (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

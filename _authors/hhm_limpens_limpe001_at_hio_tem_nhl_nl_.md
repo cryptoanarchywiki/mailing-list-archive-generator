@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hhm_limpens_limpe001_at_hio_tem_nhl_nl_
+post_count: 4
 ---
 
-# HHM LIMPENS <limpe001@hio.tem.nhl.nl> (4 posts)
+# HHM LIMPENS <limpe001<span>@</span>hio.tem.nhl.nl> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

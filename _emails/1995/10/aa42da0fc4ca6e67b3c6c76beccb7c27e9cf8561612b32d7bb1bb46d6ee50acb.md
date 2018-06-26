@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: chen@intuit.com (Mark Chen)<br>
+From: chen<span>@</span>intuit.com (Mark Chen)<br>
 To: cypherpunks@toad.com (cypherpunks)<br>
 Message Hash: aa42da0fc4ca6e67b3c6c76beccb7c27e9cf8561612b32d7bb1bb46d6ee50acb<br>
 Message ID: \<9510192017.AA26270@doom\><br>
@@ -70,6 +70,11 @@ D4 99 54 2A 98 B1 48 0C  CF 95 A5 B0 6E E0 1E 1D
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[Bryce <wilcoxb<span>@</span>nag.cs.colorado.edu>](/author/bryce_wilcoxb_at_nag_cs_colorado_edu_)"
++ Return to "[chen<span>@</span>intuit.com (Mark Chen)](/author/chen_at_intuit_com_mark_chen_)"
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1995-10-19 (Thu, 19 Oct 95 11:26:28 PDT) - [Re: digital cash and identity disclosure](/archive/1995/10/3e3945bd506dc2ae2ef4d8c1850961dd590d230b2a7fc88dd0321bcf91a2472f) - _tcmay@got.net (Timothy C. May)_
   + 1995-10-19 (Thu, 19 Oct 95 12:49:07 PDT) - [Re: digital cash and identity disclosure](/archive/1995/10/aaffb1038aca1615900181cb1c4ab293cc8fa78bac605283e978892585538028) - _Bryce \<wilcoxb@nag.cs.colorado.edu\>_

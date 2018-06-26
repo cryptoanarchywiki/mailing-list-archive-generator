@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_janzen_janzen_at_idacom_hp_com_
+post_count: 34
 ---
 
-# Martin Janzen <janzen@idacom.hp.com> (34 posts)
+# Martin Janzen <janzen<span>@</span>idacom.hp.com> (34 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

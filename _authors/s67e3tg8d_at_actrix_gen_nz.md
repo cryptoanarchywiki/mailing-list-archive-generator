@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: s67e3tg8d_at_actrix_gen_nz
+post_count: 1
 ---
 
-# s67e3tG8D@actrix.gen.nz (1 posts)
+# s67e3tG8D<span>@</span>actrix.gen.nz (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

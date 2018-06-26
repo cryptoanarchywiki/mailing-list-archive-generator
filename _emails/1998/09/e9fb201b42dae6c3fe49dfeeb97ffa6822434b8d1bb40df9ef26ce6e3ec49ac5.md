@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Burnes \<jvb@ssds.com\><br>
+From: Jim Burnes \<jvb<span>@</span>ssds.com\><br>
 To: nnburk \<nnburk@cobain.HDC.NET\><br>
 Message Hash: e9fb201b42dae6c3fe49dfeeb97ffa6822434b8d1bb40df9ef26ce6e3ec49ac5<br>
 Message ID: \<Pine.LNX.3.96.980917232629.438C-100000@jb3.fastrans.net\><br>
@@ -68,6 +68,10 @@ rM1/eth1yrPAqKfXfXoYLTQw
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[Jim Burnes <jvb<span>@</span>ssds.com>](/author/jim_burnes_jvb_at_ssds_com_)"
++ Return to "[Matthew James Gering <mgering<span>@</span>ecosystems.net>](/author/matthew_james_gering_mgering_at_ecosystems_net_)"
++ Return to "[nnburk <nnburk<span>@</span>cobain.hdc.net>](/author/nnburk_nnburk_at_cobain_hdc_net_)"
 
 + 1998-09-17 (Thu, 17 Sep 1998 16:52:53 +0800) - [RE: Cyberpunks Signal-to-Noise Ratio](/archive/1998/09/fdf0fa82af2b41aa3b7235874bcd30a941aded21df1031ced15ad876647ab75f) - _Matthew James Gering \<mgering@ecosystems.net\>_
   + 1998-09-17 (Thu, 17 Sep 1998 19:57:29 +0800) - [Re: Cyberpunks Signal-to-Noise Ratio](/archive/1998/09/72c035b09386c988df3bc4e6ab0bc1926eee2d3bc32371f0c133d7781ccfda5b) - _nnburk \<nnburk@cobain.hdc.net\>_

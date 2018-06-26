@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hardin_at_cyberspace_com
+post_count: 4
 ---
 
-# hardin@cyberspace.com (4 posts)
+# hardin<span>@</span>cyberspace.com (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

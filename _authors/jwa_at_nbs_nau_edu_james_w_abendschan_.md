@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jwa_at_nbs_nau_edu_james_w_abendschan_
+post_count: 1
 ---
 
-# jwa@nbs.nau.edu (James W. Abendschan) (1 posts)
+# jwa<span>@</span>nbs.nau.edu (James W. Abendschan) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

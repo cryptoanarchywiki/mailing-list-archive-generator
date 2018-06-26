@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alvaro_ibanez_at_idg_encomix_com_alvaro_ibaez_
+post_count: 1
 ---
 
-# Alvaro_Ibanez@idg.encomix.com (Alvaro Iba-ez) (1 posts)
+# Alvaro_Ibanez<span>@</span>idg.encomix.com (Alvaro Iba-ez) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

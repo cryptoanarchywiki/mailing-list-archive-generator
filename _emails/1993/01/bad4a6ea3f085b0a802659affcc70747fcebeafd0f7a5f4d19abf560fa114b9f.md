@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Daniel Ray \<root@tnl.com\><br>
+From: Daniel Ray \<root<span>@</span>tnl.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: bad4a6ea3f085b0a802659affcc70747fcebeafd0f7a5f4d19abf560fa114b9f<br>
 Message ID: \<9301190731.AA07288@tnl.com\><br>
@@ -69,6 +69,8 @@ dan
 ## Thread
 
 + Return to [January 1993](/archive/1993/01)
+
++ Return to "[Daniel Ray <root<span>@</span>tnl.com>](/author/daniel_ray_root_at_tnl_com_)"
 
 + 1993-01-20 (Tue, 19 Jan 93 16:35:51 PST) - Re: need for more anon remailer sites - _Daniel Ray \<root@tnl.com\>_
 

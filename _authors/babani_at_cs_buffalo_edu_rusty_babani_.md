@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: babani_at_cs_buffalo_edu_rusty_babani_
+post_count: 11
 ---
 
-# babani@cs.Buffalo.EDU (Rusty Babani) (11 posts)
+# babani<span>@</span>cs.Buffalo.EDU (Rusty Babani) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

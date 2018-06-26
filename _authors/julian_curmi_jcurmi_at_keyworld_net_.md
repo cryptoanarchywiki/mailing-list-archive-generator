@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: julian_curmi_jcurmi_at_keyworld_net_
+post_count: 1
 ---
 
-# Julian Curmi <jcurmi@keyworld.net> (1 posts)
+# Julian Curmi <jcurmi<span>@</span>keyworld.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

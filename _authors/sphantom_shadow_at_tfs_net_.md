@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sphantom_shadow_at_tfs_net_
+post_count: 4
 ---
 
-# sphantom <shadow@tfs.net> (4 posts)
+# sphantom <shadow<span>@</span>tfs.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

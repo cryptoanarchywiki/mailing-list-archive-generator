@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nowhere@bsu-cs\><br>
+From: Anonymous \<nowhere<span>@</span>bsu-cs\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 01f2f16d6314fa4bcda0dbc5cadb6acee7283b2d8b5ccd7e10cee51f01e4e56a<br>
 Message ID: \<199406052225.RAA01329@bsu-cs.bsu.edu\><br>
@@ -325,6 +325,8 @@ Meeks out...
 ## Thread
 
 + Return to [June 1994](/archive/1994/06)
+
++ Return to "[Anonymous <nowhere<span>@</span>bsu-cs>](/author/anonymous_nowhere_at_bsucs_)"
 
 + 1994-06-05 (Sun, 5 Jun 94 15:26:31 PDT) - No Subject - _Anonymous \<nowhere@bsu-cs\>_
 

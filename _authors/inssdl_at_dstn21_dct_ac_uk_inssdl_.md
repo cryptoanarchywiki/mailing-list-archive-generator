@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: inssdl_at_dstn21_dct_ac_uk_inssdl_
+post_count: 3
 ---
 
-# inssdl@dstn21.dct.ac.uk (inssdl) (3 posts)
+# inssdl<span>@</span>dstn21.dct.ac.uk (inssdl) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

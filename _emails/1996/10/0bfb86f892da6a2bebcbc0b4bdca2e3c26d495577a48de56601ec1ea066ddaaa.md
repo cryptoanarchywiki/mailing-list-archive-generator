@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Black Unicorn \<unicorn@schloss.li\><br>
+From: Black Unicorn \<unicorn<span>@</span>schloss.li\><br>
 To: Ming-Ching Tiew \<mctiew@csi.po.my\><br>
 Message Hash: 0bfb86f892da6a2bebcbc0b4bdca2e3c26d495577a48de56601ec1ea066ddaaa<br>
 Message ID: \<Pine.SUN.3.94.961002031943.4404D-100000@polaris\><br>
@@ -95,5 +95,8 @@ unicorn@schloss.li
 
 + Return to [October 1996](/archive/1996/10)
 
-+ 1996-10-02 (Wed, 2 Oct 1996 17:57:34 +0800) - RE: LivePGP (fwd) - _Black Unicorn \<unicorn@schloss.li\>_
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
+
++ _Unknown thread root_
+  + 1996-10-02 (Wed, 2 Oct 1996 17:57:34 +0800) - RE: LivePGP (fwd) - _Black Unicorn \<unicorn@schloss.li\>_
 

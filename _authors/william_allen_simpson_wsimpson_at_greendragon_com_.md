@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_allen_simpson_wsimpson_at_greendragon_com_
+post_count: 1
 ---
 
-# "William Allen Simpson" <wsimpson@greendragon.com> (1 posts)
+# "William Allen Simpson" <wsimpson<span>@</span>greendragon.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

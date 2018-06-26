@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: mts2@volg15.mmtel.msk.su<br>
+From: mts2<span>@</span>volg15.mmtel.msk.su<br>
 To: Customer@yourplace.com<br>
 Message Hash: b109c00c73e4cb0b736bcd839bd0b4b6fadfbbcf0cbdaeb7f89558d0434a5e1a<br>
 Message ID: \<199807040527.OAA01790@axp3400.kyungpook.ac.kr\><br>
@@ -132,6 +132,8 @@ Offices:  London, Paris, Berlin, Hong Kong
 ## Thread
 
 + Return to [July 1998](/archive/1998/07)
+
++ Return to "[mts2<span>@</span>volg15.mmtel.msk.su](/author/mts2_at_volg15_mmtel_msk_su)"
 
 + 1998-07-04 (Fri, 3 Jul 1998 22:18:46 -0700 (PDT)) - YOUR CLASSIFIED - AD / 333  NEWSPAPERS   !!!!!!!!! - _mts2@volg15.mmtel.msk.su_
 

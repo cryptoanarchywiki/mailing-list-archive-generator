@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sameer_sameer_at_c2_org_
+post_count: 279
 ---
 
-# sameer <sameer@c2.org> (279 posts)
+# sameer <sameer<span>@</span>c2.org> (279 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

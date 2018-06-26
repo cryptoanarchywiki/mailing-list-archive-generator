@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: wcs@anchor.ho.att.com (Bill_Stewart(HOY002)1305)<br>
+From: wcs<span>@</span>anchor.ho.att.com (Bill_Stewart(HOY002)1305)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: dd1d41cf5eae2daf6f9d54ec424ed6ceebb82b7ece8f972c128ba3f6b556e909<br>
 Message ID: \<9303051954.AA22260@anchor.ho.att.com\><br>
@@ -68,6 +68,8 @@ Joe Bob says "Check it out!"
 ## Thread
 
 + Return to [March 1993](/archive/1993/03)
+
++ Return to "[wcs<span>@</span>anchor.ho.att.com (Bill_Stewart(HOY002)1305)](/author/wcs_at_anchor_ho_att_com_bill_stewart_hoy002_1305_)"
 
 + 1993-03-05 (Fri, 5 Mar 93 11:55:09 PST) - Re: Encrypted voice protocol? - _wcs@anchor.ho.att.com (Bill_Stewart(HOY002)1305)_
 

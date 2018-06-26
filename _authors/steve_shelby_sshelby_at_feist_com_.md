@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_shelby_sshelby_at_feist_com_
+post_count: 1
 ---
 
-# Steve Shelby <sshelby@feist.com> (1 posts)
+# Steve Shelby <sshelby<span>@</span>feist.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

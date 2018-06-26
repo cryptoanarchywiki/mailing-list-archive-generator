@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_mclean_alex_at_forestbk_demon_co_uk_
+post_count: 1
 ---
 
-# Alex McLean <alex@forestbk.demon.co.uk> (1 posts)
+# Alex McLean <alex<span>@</span>forestbk.demon.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

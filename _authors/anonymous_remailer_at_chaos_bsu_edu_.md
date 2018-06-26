@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_remailer_at_chaos_bsu_edu_
+post_count: 1
 ---
 
-# Anonymous <remailer@chaos.bsu.edu> (1 posts)
+# Anonymous <remailer<span>@</span>chaos.bsu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

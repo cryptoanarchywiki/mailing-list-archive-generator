@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_ronn_micron_at_accessone_net_
+post_count: 1
 ---
 
-# "Mike Ronn" <micron@accessone.net> (1 posts)
+# "Mike Ronn" <micron<span>@</span>accessone.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

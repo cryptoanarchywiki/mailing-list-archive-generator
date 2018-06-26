@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@EINSTEIN.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>EINSTEIN.ssz.com\><br>
 To: cypherpunks@EINSTEIN.ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: 4499b535f6eed3c5ef0efc3b4d22c33ffc8aadcf67afdd22ebfccb6e9a7ab1f1<br>
 Message ID: \<199809222352.SAA07394@einstein.ssz.com\><br>
@@ -63,6 +63,8 @@ What he did is respectable. Is he the first? I doubt it.
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-09-22 (Tue, 22 Sep 1998 18:26:38 +0800) - respect due to anonymous (Re: CHALLENGE response (fwd)) (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: stevenw@best.com (Steven Weller)<br>
+From: stevenw<span>@</span>best.com (Steven Weller)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3db5c3eec35edacbd70cdfac7db5c6dd184d131054ccaaa948f88f75cbf56161<br>
 Message ID: \<v01540b00ad90ceb34f24@[206.86.1.35]\><br>
@@ -93,6 +93,9 @@ stevenw@best.com                   |     3. Express what others cannot
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[Mike McNally <m5<span>@</span>vail.tivoli.com>](/author/mike_mcnally_m5_at_vail_tivoli_com_)"
++ Return to "[stevenw<span>@</span>best.com (Steven Weller)](/author/stevenw_at_best_com_steven_weller_)"
 
 + 1996-04-10 (Thu, 11 Apr 1996 01:08:37 +0800) - RISKS: Social Security (sic) Administration fraud - _stevenw@best.com (Steven Weller)_
   + 1996-04-10 (Thu, 11 Apr 1996 03:34:22 +0800) - [Re: RISKS: Social Security (sic) Administration fraud](/archive/1996/04/75f2e2541d9745c021e207dd5755c19622cd4cf6b6e2f09fceaaa88587ec90f8) - _Mike McNally \<m5@vail.tivoli.com\>_

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@amaranth.com\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>amaranth.com\><br>
 To: Tim May \<tcmay@got.net\><br>
 Message Hash: ee03c6b41bd0bc24c8fdaeaeb957ef29fc25b8b9da703f7e35dd1be8655fb0d0<br>
 Message ID: \<199708220232.VAA14845@mailhub.amaranth.com\><br>
@@ -74,6 +74,10 @@ D1NU2yeXjjw=
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[Alan <alan<span>@</span>ctrl-alt-del.com>](/author/alan_alan_at_ctrlaltdel_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-08-22 (Fri, 22 Aug 1997 10:14:32 +0800) - [Breaking Legal News....](/archive/1997/08/4afee6b29607775f5c4e0024d1885e54c6f69b2fb42b6149ffac9ef6f4f2c219) - _Tim May \<tcmay@got.net\>_
   + 1997-08-22 (Fri, 22 Aug 1997 10:39:17 +0800) - Re: Breaking Legal News.... - _"William H. Geiger III" \<whgiii@amaranth.com\>_

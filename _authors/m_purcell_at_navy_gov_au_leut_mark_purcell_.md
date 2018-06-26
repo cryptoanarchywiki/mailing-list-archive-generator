@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m_purcell_at_navy_gov_au_leut_mark_purcell_
+post_count: 2
 ---
 
-# m.purcell@navy.gov.au (LEUT Mark Purcell) (2 posts)
+# m.purcell<span>@</span>navy.gov.au (LEUT Mark Purcell) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robbie_gates_gates_r_at_maths_su_oz_au_
+post_count: 3
 ---
 
-# Robbie Gates <gates_r@maths.su.oz.au> (3 posts)
+# Robbie Gates <gates_r<span>@</span>maths.su.oz.au> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

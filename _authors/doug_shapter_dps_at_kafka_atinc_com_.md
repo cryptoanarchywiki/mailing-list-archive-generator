@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_shapter_dps_at_kafka_atinc_com_
+post_count: 2
 ---
 
-# Doug Shapter <dps@kafka.atinc.com> (2 posts)
+# Doug Shapter <dps<span>@</span>kafka.atinc.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

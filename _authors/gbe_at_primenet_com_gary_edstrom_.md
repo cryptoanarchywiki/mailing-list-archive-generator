@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gbe_at_primenet_com_gary_edstrom_
+post_count: 1
 ---
 
-# gbe@primenet.com (Gary Edstrom) (1 posts)
+# gbe<span>@</span>primenet.com (Gary Edstrom) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

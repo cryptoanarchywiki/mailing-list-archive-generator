@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bryce \<bryce@digicash.com\><br>
+From: Bryce \<bryce<span>@</span>digicash.com\><br>
 To: Wei Dai \<weidai@eskimo.com\><br>
 Message Hash: ebfcfc4b7cecd4a4ff8dbcae2c61a80d0a0f0eba34350d4b65132dcfa271679a<br>
 Message ID: \<199704081014.MAA05816@digicash.com\><br>
@@ -73,6 +73,11 @@ DigiCash or any other person or organization.  No PGP sig follows.
 ## Thread
 
 + Return to [April 1997](/archive/1997/04)
+
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
++ Return to "[Bryce <bryce<span>@</span>digicash.com>](/author/bryce_bryce_at_digicash_com_)"
++ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/author/greg_broiles_gbroiles_at_netbox_com_)"
++ Return to "[Wei Dai <weidai<span>@</span>eskimo.com>](/author/wei_dai_weidai_at_eskimo_com_)"
 
 + 1997-04-08 (Tue, 8 Apr 1997 02:15:12 -0700 (PDT)) - [some arguments for privacy](/archive/1997/04/57ce0381cb88661ded041390c8be4dca80c6688f6c4c1f06f3ba0f159af3c35f) - _Wei Dai \<weidai@eskimo.com\>_
   + 1997-04-08 (Tue, 8 Apr 1997 03:14:14 -0700 (PDT)) - Re: some arguments for privacy - _Bryce \<bryce@digicash.com\>_

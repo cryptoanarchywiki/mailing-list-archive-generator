@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kalliste_at_aci_net_j_orlin_grabbe_
+post_count: 1
 ---
 
-# kalliste@aci.net (J. Orlin Grabbe) (1 posts)
+# kalliste<span>@</span>aci.net (J. Orlin Grabbe) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_j_lopresti_patl_at_eiffel_lcs_mit_edu_
+post_count: 1
 ---
 
-# "Patrick J. LoPresti" <patl@eiffel.lcs.mit.edu> (1 posts)
+# "Patrick J. LoPresti" <patl<span>@</span>eiffel.lcs.mit.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

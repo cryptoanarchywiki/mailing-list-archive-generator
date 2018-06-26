@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bcox_at_gmu_edu_brad_cox_
+post_count: 2
 ---
 
-# bcox@gmu.edu (Brad Cox) (2 posts)
+# bcox<span>@</span>gmu.edu (Brad Cox) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Peter D. Junger" \<junger@upaya.multiverse.com\><br>
+From: "Peter D. Junger" \<junger<span>@</span>upaya.multiverse.com\><br>
 To: John Young \<jya@pipeline.com\><br>
 Message Hash: 0f90869fe58eca0ad6dde7eb0bfe8a5f5512ba195dca021c9de86b0bb7ecf43a<br>
 Message ID: \<199710062328.TAA04016@upaya.multiverse.com\><br>
@@ -63,6 +63,10 @@ Peter D. Junger--Case Western Reserve University Law School--Cleveland, OH
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "["Peter D. Junger" <junger<span>@</span>upaya.multiverse.com>](/author/peter_d_junger_junger_at_upaya_multiverse_com_)"
 
 + 1997-10-06 (Mon, 6 Oct 1997 19:34:44 +0800) - [Zergo Report](/archive/1997/10/90994acfd92a377ea1aba7b516ec88fc57b58fa07c4d31a2467be8ba33747287) - _John Young \<jya@pipeline.com\>_
   + 1997-10-06 (Tue, 7 Oct 1997 07:40:05 +0800) - Re: Zergo Report - _"Peter D. Junger" \<junger@upaya.multiverse.com\>_

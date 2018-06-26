@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: elee9sf_at_menudo_uh_edu
+post_count: 17
 ---
 
-# elee9sf@Menudo.UH.EDU (17 posts)
+# elee9sf<span>@</span>Menudo.UH.EDU (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

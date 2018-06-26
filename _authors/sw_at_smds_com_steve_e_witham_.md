@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sw_at_smds_com_steve_e_witham_
+post_count: 2
 ---
 
-# sw@smds.com (Steve E. Witham) (2 posts)
+# sw<span>@</span>smds.com (Steve E. Witham) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

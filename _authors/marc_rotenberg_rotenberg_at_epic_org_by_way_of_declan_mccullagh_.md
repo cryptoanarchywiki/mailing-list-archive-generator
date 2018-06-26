@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_rotenberg_rotenberg_at_epic_org_by_way_of_declan_mccullagh_
+post_count: 1
 ---
 
-# Marc Rotenberg <rotenberg@epic.org> (by way of Declan McCullagh) (1 posts)
+# Marc Rotenberg <rotenberg<span>@</span>epic.org> (by way of Declan McCullagh) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

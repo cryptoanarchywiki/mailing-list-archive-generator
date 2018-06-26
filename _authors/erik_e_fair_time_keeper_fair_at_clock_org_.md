@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erik_e_fair_time_keeper_fair_at_clock_org_
+post_count: 22
 ---
 
-# "Erik E. Fair" (Time Keeper) <fair@clock.org> (22 posts)
+# "Erik E. Fair" (Time Keeper) <fair<span>@</span>clock.org> (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

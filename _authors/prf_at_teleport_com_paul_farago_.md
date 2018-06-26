@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: prf_at_teleport_com_paul_farago_
+post_count: 1
 ---
 
-# prf@teleport.com (Paul Farago) (1 posts)
+# prf<span>@</span>teleport.com (Paul Farago) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

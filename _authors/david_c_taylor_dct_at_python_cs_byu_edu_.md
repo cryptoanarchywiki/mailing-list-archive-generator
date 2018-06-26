@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_c_taylor_dct_at_python_cs_byu_edu_
+post_count: 3
 ---
 
-# David C. Taylor <dct@python.cs.byu.edu> (3 posts)
+# David C. Taylor <dct<span>@</span>python.cs.byu.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

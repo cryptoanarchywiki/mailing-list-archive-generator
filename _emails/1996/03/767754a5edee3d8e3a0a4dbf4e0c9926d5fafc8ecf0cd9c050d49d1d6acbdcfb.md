@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 767754a5edee3d8e3a0a4dbf4e0c9926d5fafc8ecf0cd9c050d49d1d6acbdcfb<br>
 Message ID: \<ad60f3f80c021004bafb@[205.199.118.202]\><br>
@@ -137,6 +137,8 @@ Higher Power: 2^756839 - 1  | black markets, collapse of governments.
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-03-05 (Mon, 4 Mar 96 19:38:43 PST) - Re: Bombings, Surveillance, and Free Societies - _tcmay@got.net (Timothy C. May)_
 

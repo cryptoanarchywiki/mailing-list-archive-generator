@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nesta_stubbs_nesta_at_nesta_pr_mcs_net_
+post_count: 23
 ---
 
-# Nesta Stubbs <nesta@nesta.pr.mcs.net> (23 posts)
+# Nesta Stubbs <nesta<span>@</span>nesta.pr.mcs.net> (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: derek_at_cs_wisc_edu_derek_zahn_
+post_count: 11
 ---
 
-# derek@cs.wisc.edu (Derek Zahn) (11 posts)
+# derek<span>@</span>cs.wisc.edu (Derek Zahn) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_birkenstock_store_list_at_1800birks4u_com_
+post_count: 1
 ---
 
-# "The Birkenstock Store" <list@1800birks4u.com> (1 posts)
+# "The Birkenstock Store" <list<span>@</span>1800birks4u.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

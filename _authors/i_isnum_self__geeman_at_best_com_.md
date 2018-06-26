@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: i_isnum_self__geeman_at_best_com_
+post_count: 3
 ---
 
-# "I=(!isnum(self))" <geeman@best.com> (3 posts)
+# "I=(!isnum(self))" <geeman<span>@</span>best.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gimonca_at_skypoint_com_charles_gimon_
+post_count: 16
 ---
 
-# gimonca@skypoint.com (Charles Gimon) (16 posts)
+# gimonca<span>@</span>skypoint.com (Charles Gimon) (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

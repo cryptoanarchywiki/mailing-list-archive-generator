@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Tim May \<tcmay@got.net\><br>
+From: Tim May \<tcmay<span>@</span>got.net\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: e409c8d00600b4e6fcfbe8b55ae4ffe29c36aa8cc71aa4dbb81a78accf0495eb<br>
 Message ID: \<v03102807b1140738ade7@[207.167.93.63]\><br>
@@ -73,6 +73,11 @@ Higher Power: 2^3,021,377   | black markets, collapse of governments.
 ## Thread
 
 + Return to [February 1998](/archive/1998/02)
+
++ Return to "[Eric Cordian <emc<span>@</span>wire.insync.net>](/author/eric_cordian_emc_at_wire_insync_net_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/author/william_h_geiger_iii_whgiii_at_invweb_net_)"
 
 + 1998-02-21 (Sat, 21 Feb 1998 11:01:56 +0800) - [Pensacola Police have lost their mind!! (fwd)](/archive/1998/02/e5d89869425e7498a7e2fe5e031b77ca549521bce92a10016297fe15d0922b3f) - _Jim Choate \<ravage@ssz.com\>_
   + 1998-02-21 (Sat, 21 Feb 1998 11:39:06 +0800) - [Re: Pensacola Police have lost their mind!! (fwd)](/archive/1998/02/974adfac51fd560ccfccd0d457ad2020597c2d181aa4c68c58357e1abf09cfb5) - _"William H. Geiger III" \<whgiii@invweb.net\>_

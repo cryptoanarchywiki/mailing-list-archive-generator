@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adam Shostack \<adam@lighthouse.homeport.org\><br>
+From: Adam Shostack \<adam<span>@</span>lighthouse.homeport.org\><br>
 To: rsalz@osf.org (Rich Salz)<br>
 Message Hash: f56161111ecc4f5beb2309eefb7bfb054eafeacfdd11bfcd4b523f81663aec46<br>
 Message ID: \<199511091518.KAA08137@homeport.org\><br>
@@ -57,6 +57,12 @@ Rich Salz wrote:
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "[Adam Shostack <adam<span>@</span>lighthouse.homeport.org>](/author/adam_shostack_adam_at_lighthouse_homeport_org_)"
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "["Peter D. Junger" <junger<span>@</span>pdj2-ra.F-REMOTE.CWRU.Edu>](/author/peter_d_junger_junger_at_pdj2ra_fremote_cwru_edu_)"
++ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/author/rich_salz_rsalz_at_osf_org_)"
++ Return to "["Richard Martin" <rmartin<span>@</span>aw.sgi.com>](/author/richard_martin_rmartin_at_aw_sgi_com_)"
 
 + 1995-11-13 (Mon, 13 Nov 1995 20:42:41 +0800) - [Re: Pegasus Mail](/archive/1995/11/f15e6da256c6f8dbac6aa7aa0ed98faec1289048e42e0893fa9ef5c55f2a6a31) - _Rich Salz \<rsalz@osf.org\>_
   + 1995-11-09 (Thu, 9 Nov 1995 23:15:04 +0800) - [Re: Pegasus Mail](/archive/1995/11/291b8d95a93d0a8cb74b4f6eeeebf36338c1c8198730539ec62ccaba034a359b) - _"Richard Martin" \<rmartin@aw.sgi.com\>_

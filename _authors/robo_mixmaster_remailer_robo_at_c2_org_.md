@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robo_mixmaster_remailer_robo_at_c2_org_
+post_count: 2
 ---
 
-# ROBO Mixmaster Remailer <robo@c2.org> (2 posts)
+# ROBO Mixmaster Remailer <robo<span>@</span>c2.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

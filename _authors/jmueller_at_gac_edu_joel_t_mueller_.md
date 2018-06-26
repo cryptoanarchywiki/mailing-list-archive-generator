@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jmueller_at_gac_edu_joel_t_mueller_
+post_count: 4
 ---
 
-# jmueller@gac.edu (Joel T Mueller) (4 posts)
+# jmueller<span>@</span>gac.edu (Joel T Mueller) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

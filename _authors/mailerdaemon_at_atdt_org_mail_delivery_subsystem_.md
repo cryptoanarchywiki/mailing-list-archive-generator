@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mailerdaemon_at_atdt_org_mail_delivery_subsystem_
+post_count: 1
 ---
 
-# Mailer-Daemon@atdt.org (Mail Delivery Subsystem) (1 posts)
+# Mailer-Daemon<span>@</span>atdt.org (Mail Delivery Subsystem) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

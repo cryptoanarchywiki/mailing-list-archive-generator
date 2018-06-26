@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yuhyun_kim_5808_yhkim_at_dingo_etri_re_kr_
+post_count: 1
 ---
 
-# Yu-Hyun Kim (5808) <yhkim@dingo.etri.re.kr> (1 posts)
+# Yu-Hyun Kim (5808) <yhkim<span>@</span>dingo.etri.re.kr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

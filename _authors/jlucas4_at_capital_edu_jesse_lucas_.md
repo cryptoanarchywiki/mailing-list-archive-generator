@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jlucas4_at_capital_edu_jesse_lucas_
+post_count: 5
 ---
 
-# jlucas4@capital.edu (Jesse Lucas) (5 posts)
+# jlucas4<span>@</span>capital.edu (Jesse Lucas) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

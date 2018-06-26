@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_van_eecke_patrick_vaneecke_at_law_kuleuven_ac_be_
+post_count: 1
 ---
 
-# "patrick van eecke" <Patrick.VanEecke@law.kuleuven.ac.be> (1 posts)
+# "patrick van eecke" <Patrick.VanEecke<span>@</span>law.kuleuven.ac.be> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

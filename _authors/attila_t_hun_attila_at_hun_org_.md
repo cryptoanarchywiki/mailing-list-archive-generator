@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: attila_t_hun_attila_at_hun_org_
+post_count: 107
 ---
 
-# "Attila T. Hun" <attila@hun.org> (107 posts)
+# "Attila T. Hun" <attila<span>@</span>hun.org> (107 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ufy5pi7z6_at_top1story_net
+post_count: 1
 ---
 
-# UFy5Pi7z6@top1story.net (1 posts)
+# UFy5Pi7z6<span>@</span>top1story.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

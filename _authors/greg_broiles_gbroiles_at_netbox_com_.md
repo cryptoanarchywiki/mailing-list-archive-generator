@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_broiles_gbroiles_at_netbox_com_
+post_count: 236
 ---
 
-# Greg Broiles <gbroiles@netbox.com> (236 posts)
+# Greg Broiles <gbroiles<span>@</span>netbox.com> (236 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

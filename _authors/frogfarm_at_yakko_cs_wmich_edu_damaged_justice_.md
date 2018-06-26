@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frogfarm_at_yakko_cs_wmich_edu_damaged_justice_
+post_count: 9
 ---
 
-# frogfarm@yakko.cs.wmich.edu (Damaged Justice) (9 posts)
+# frogfarm<span>@</span>yakko.cs.wmich.edu (Damaged Justice) (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

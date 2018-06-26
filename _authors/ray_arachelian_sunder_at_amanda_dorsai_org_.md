@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ray_arachelian_sunder_at_amanda_dorsai_org_
+post_count: 16
 ---
 
-# Ray Arachelian <sunder@amanda.dorsai.org> (16 posts)
+# Ray Arachelian <sunder<span>@</span>amanda.dorsai.org> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

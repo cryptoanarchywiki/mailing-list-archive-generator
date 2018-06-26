@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_kozubik_kozubik_at_shoelace_firstlink_com_
+post_count: 8
 ---
 
-# John Kozubik <kozubik@shoelace.FirstLink.com> (8 posts)
+# John Kozubik <kozubik<span>@</span>shoelace.FirstLink.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

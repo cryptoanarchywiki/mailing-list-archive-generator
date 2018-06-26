@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_lewis_clewis_at_ferret_ocunix_on_ca_
+post_count: 1
 ---
 
-# Chris Lewis <clewis@ferret.ocunix.on.ca> (1 posts)
+# Chris Lewis <clewis<span>@</span>ferret.ocunix.on.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

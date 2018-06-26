@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an107744_at_anon_penet_fi_big_lama_
+post_count: 1
 ---
 
-# an107744@anon.penet.fi (Big Lama) (1 posts)
+# an107744<span>@</span>anon.penet.fi (Big Lama) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

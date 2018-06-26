@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a20794bbce8ac3aff37fbb5cba6fcebf164c979a618bdda7c29e2c6f335e7af2<br>
 Message ID: \<2P7JuD2w165w@bwalk.dm.com\><br>
@@ -473,6 +473,8 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
 
 + 1996-09-20 (Sat, 21 Sep 1996 03:48:35 +0800) - [NEWS] Crypto-relevant wire clippings - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 

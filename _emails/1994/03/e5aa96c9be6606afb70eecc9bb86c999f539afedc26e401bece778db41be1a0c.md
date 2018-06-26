@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Peter Murphy \<pkm@maths.uq.oz.au\><br>
+From: Peter Murphy \<pkm<span>@</span>maths.uq.oz.au\><br>
 To: owner-cypherpunks@toad.com<br>
 Message Hash: e5aa96c9be6606afb70eecc9bb86c999f539afedc26e401bece778db41be1a0c<br>
 Message ID: \<9403160244.AA02855@axiom.maths.uq.oz.au\><br>
@@ -47,6 +47,11 @@ about it.) Any criticisms of this method would be appreciated. Peter Murphy.
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[Ed Switalski <E.Switalski<span>@</span>bnr.co.uk>](/author/ed_switalski_e_switalski_at_bnr_co_uk_)"
++ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/author/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
++ Return to "[Peter Murphy <pkm<span>@</span>maths.uq.oz.au>](/author/peter_murphy_pkm_at_maths_uq_oz_au_)"
++ Return to "[rarachel<span>@</span>prism.poly.edu (Arsen Ray Arachelian)](/author/rarachel_at_prism_poly_edu_arsen_ray_arachelian_)"
 
 + 1994-03-16 (Tue, 15 Mar 94 18:44:52 PST) - IR Blocking. - _Peter Murphy \<pkm@maths.uq.oz.au\>_
   + 1994-03-16 (Tue, 15 Mar 94 20:53:03 PST) - [Re: IR Blocking.](/archive/1994/03/536758562391b0e05210db6022afc6acbb29127361931367afd99027cfc2c8c2) - _Matthew J Ghio \<mg5n+@andrew.cmu.edu\>_

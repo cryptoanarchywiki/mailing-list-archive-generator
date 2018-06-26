@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: alano@teleport.com (Alan Olsen)<br>
+From: alano<span>@</span>teleport.com (Alan Olsen)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 58d9eacb31df97f0dce6e0aeed21defc5b7d07e91c6bbe7ab1d80e13bdf6957b<br>
 Message ID: \<199408100351.UAA09774@teleport.com\><br>
@@ -70,6 +70,8 @@ Now you know why I do not have any credit cards.
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[alano<span>@</span>teleport.com (Alan Olsen)](/author/alano_at_teleport_com_alan_olsen_)"
 
 + 1994-08-10 (Tue, 9 Aug 94 20:51:16 PDT) - Re: CreditCard info - _alano@teleport.com (Alan Olsen)_
 

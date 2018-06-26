@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "CRYPTO" \<crypto@nas.edu\><br>
+From: "CRYPTO" \<crypto<span>@</span>nas.edu\><br>
 To: crypto@nas.edu<br>
 Message Hash: adeac80cd824cde2862fcc9effca76e3fb37cae7dfae509ba003c97a698edfb4<br>
 Message ID: \<9604248329.AA832977773@nas.edu\><br>
@@ -83,6 +83,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "["CRYPTO" <crypto<span>@</span>nas.edu>](/author/crypto_crypto_at_nas_edu_)"
 
 + 1996-05-25 (Sat, 25 May 1996 11:45:11 +0800) - Re: the NRC report on National Cryptography Policy - _"CRYPTO" \<crypto@nas.edu\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mario_freamat_mario_at_pa_uky_edu_
+post_count: 3
 ---
 
-# Mario Freamat <mario@pa.uky.edu> (3 posts)
+# Mario Freamat <mario<span>@</span>pa.uky.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

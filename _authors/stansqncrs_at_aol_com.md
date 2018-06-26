@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stansqncrs_at_aol_com
+post_count: 28
 ---
 
-# StanSqncrs@aol.com (28 posts)
+# StanSqncrs<span>@</span>aol.com (28 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

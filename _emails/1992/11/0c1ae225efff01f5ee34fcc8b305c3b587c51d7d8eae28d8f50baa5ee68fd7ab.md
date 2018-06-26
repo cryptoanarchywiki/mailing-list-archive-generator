@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Eric Hollander \<hh@soda.berkeley.edu\><br>
+From: Eric Hollander \<hh<span>@</span>soda.berkeley.edu\><br>
 To: "George A. Gleason" \<gg@well.sf.ca.us\><br>
 Message Hash: 0c1ae225efff01f5ee34fcc8b305c3b587c51d7d8eae28d8f50baa5ee68fd7ab<br>
 Message ID: \<9211180036.AA19273@soda.berkeley.edu\><br>
@@ -46,6 +46,11 @@ e
 ## Thread
 
 + Return to [November 1992](/archive/1992/11)
+
++ Return to "[Eric Hollander <hh<span>@</span>soda.berkeley.edu>](/author/eric_hollander_hh_at_soda_berkeley_edu_)"
++ Return to "[George A. Gleason <gg<span>@</span>well.sf.ca.us>](/author/george_a_gleason_gg_at_well_sf_ca_us_)"
++ Return to "["Mark W. Eichin" <eichin<span>@</span>cygnus.com>](/author/mark_w_eichin_eichin_at_cygnus_com_)"
++ Return to "[phr<span>@</span>napa.Telebit.COM (Paul Rubin)](/author/phr_at_napa_telebit_com_paul_rubin_)"
 
 + 1992-11-17 (Tue, 17 Nov 92 00:50:35 PST) - [Re: Rander box and other stuff](/archive/1992/11/fca6246762b691b33aad1dad0d5629b515c7001592aef0b10fca56fd6da540ee) - _George A. Gleason \<gg@well.sf.ca.us\>_
   + 1992-11-18 (Tue, 17 Nov 92 16:37:25 PST) - Re: Rander box and other stuff - _Eric Hollander \<hh@soda.berkeley.edu\>_

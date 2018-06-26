@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kevin_l_prigge_kevin_l_prigge2_at_tc_umn_edu_
+post_count: 19
 ---
 
-# Kevin L Prigge <Kevin.L.Prigge-2@tc.umn.edu> (19 posts)
+# Kevin L Prigge <Kevin.L.Prigge-2<span>@</span>tc.umn.edu> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

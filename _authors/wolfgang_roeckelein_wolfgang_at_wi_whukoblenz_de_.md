@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wolfgang_roeckelein_wolfgang_at_wi_whukoblenz_de_
+post_count: 5
 ---
 
-# Wolfgang Roeckelein <wolfgang@wi.WHU-Koblenz.de> (5 posts)
+# Wolfgang Roeckelein <wolfgang<span>@</span>wi.WHU-Koblenz.de> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

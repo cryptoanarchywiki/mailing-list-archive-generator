@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_kathro_at_insignia_com_paul_kathro_
+post_count: 1
 ---
 
-# paul.kathro@insignia.com (Paul Kathro) (1 posts)
+# paul.kathro<span>@</span>insignia.com (Paul Kathro) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

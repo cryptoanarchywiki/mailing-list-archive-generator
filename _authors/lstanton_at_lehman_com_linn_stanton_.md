@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lstanton_at_lehman_com_linn_stanton_
+post_count: 8
 ---
 
-# lstanton@lehman.com (Linn Stanton) (8 posts)
+# lstanton<span>@</span>lehman.com (Linn Stanton) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

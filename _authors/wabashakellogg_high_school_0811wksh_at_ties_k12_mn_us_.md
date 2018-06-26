@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wabashakellogg_high_school_0811wksh_at_ties_k12_mn_us_
+post_count: 5
 ---
 
-# Wabasha-Kellogg High School <0811wksh@ties.k12.mn.us> (5 posts)
+# Wabasha-Kellogg High School <0811wksh<span>@</span>ties.k12.mn.us> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

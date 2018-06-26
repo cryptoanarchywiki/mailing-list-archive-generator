@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mtl_hub_at_mbi_mercantile_com
+post_count: 2
 ---
 
-# MTL_HUB@mbi.mercantile.com (2 posts)
+# MTL_HUB<span>@</span>mbi.mercantile.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

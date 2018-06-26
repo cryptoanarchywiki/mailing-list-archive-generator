@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jiri_baum_jiri_at_baum_com_au_
+post_count: 1
 ---
 
-# Jiri Baum <jiri@baum.com.au> (1 posts)
+# Jiri Baum <jiri<span>@</span>baum.com.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

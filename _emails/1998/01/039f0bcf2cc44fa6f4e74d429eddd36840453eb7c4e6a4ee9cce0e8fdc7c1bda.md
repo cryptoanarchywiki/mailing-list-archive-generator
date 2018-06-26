@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Brian B. Riley" \<brianbr@together.net\><br>
+From: "Brian B. Riley" \<brianbr<span>@</span>together.net\><br>
 To: "CypherPunks List" \<cypherpunks@Algebra.COM\><br>
 Message Hash: 039f0bcf2cc44fa6f4e74d429eddd36840453eb7c4e6a4ee9cce0e8fdc7c1bda<br>
 Message ID: \<199801130405.XAA26577@mx02.together.net\><br>
@@ -73,6 +73,9 @@ Brian B. Riley --> http://members.macconnect.com/~brianbr
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "["Brian B. Riley" <brianbr<span>@</span>together.net>](/author/brian_b_riley_brianbr_at_together_net_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1998-01-13 (Tue, 13 Jan 1998 12:08:57 +0800) - Re: Talk of Banning Research into Human Cloning - _"Brian B. Riley" \<brianbr@together.net\>_
   + 1998-01-13 (Tue, 13 Jan 1998 12:36:59 +0800) - [Announcement: Clonerpunks mailing list](/archive/1998/01/debd371a8699a7aa10cd4a4422a940814972fa47c15db063d21885bfaaad3582) - _Tim May \<tcmay@got.net\>_

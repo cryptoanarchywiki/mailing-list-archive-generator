@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_hemming_ceo_marketnet_johnhemming_at_mkn_co_uk_by_way_ofrah_at_shipwright_com_robert_hettinga_
+post_count: 2
 ---
 
-# "John Hemming CEO MarketNet"  <JohnHemming@mkn.co.uk> (by way ofrah@shipwright.com (Robert Hettinga)) (2 posts)
+# "John Hemming CEO MarketNet"  <JohnHemming<span>@</span>mkn.co.uk> (by way ofrah<span>@</span>shipwright.com (Robert Hettinga)) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

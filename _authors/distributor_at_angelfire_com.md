@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: distributor_at_angelfire_com
+post_count: 1
 ---
 
-# distributor@angelfire.com (1 posts)
+# distributor<span>@</span>angelfire.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: publisher_program_techsupport_at_jgc_com_
+post_count: 1
 ---
 
-# Publisher Program <TechSupport@jgc.com> (1 posts)
+# Publisher Program <TechSupport<span>@</span>jgc.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

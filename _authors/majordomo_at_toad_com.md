@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: majordomo_at_toad_com
+post_count: 15
 ---
 
-# Majordomo@toad.com (15 posts)
+# Majordomo<span>@</span>toad.com (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

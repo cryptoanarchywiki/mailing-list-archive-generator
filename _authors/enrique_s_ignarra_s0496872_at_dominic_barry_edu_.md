@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: enrique_s_ignarra_s0496872_at_dominic_barry_edu_
+post_count: 2
 ---
 
-# "ENRIQUE S. IGNARRA" <S0496872@DOMINIC.BARRY.EDU> (2 posts)
+# "ENRIQUE S. IGNARRA" <S0496872<span>@</span>DOMINIC.BARRY.EDU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

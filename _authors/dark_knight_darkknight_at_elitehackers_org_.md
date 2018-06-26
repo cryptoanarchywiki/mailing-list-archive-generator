@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dark_knight_darkknight_at_elitehackers_org_
+post_count: 3
 ---
 
-# Dark Knight <DarkKnight@Elitehackers.org> (3 posts)
+# Dark Knight <DarkKnight<span>@</span>Elitehackers.org> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

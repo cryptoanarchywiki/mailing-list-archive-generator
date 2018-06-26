@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: x4_at_juno_com_x_four_
+post_count: 1
 ---
 
-# x4@juno.com (X Four) (1 posts)
+# x4<span>@</span>juno.com (X Four) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

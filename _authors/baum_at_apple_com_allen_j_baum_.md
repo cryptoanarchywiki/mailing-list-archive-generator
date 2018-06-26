@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: baum_at_apple_com_allen_j_baum_
+post_count: 8
 ---
 
-# baum@apple.com (Allen J. Baum) (8 posts)
+# baum<span>@</span>apple.com (Allen J. Baum) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bbehlen_at_soda_berkeley_edu_brian_behlendorf_vitamin_b_
+post_count: 1
 ---
 
-# bbehlen@soda.berkeley.edu (Brian Behlendorf (Vitamin B)) (1 posts)
+# bbehlen<span>@</span>soda.berkeley.edu (Brian Behlendorf (Vitamin B)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

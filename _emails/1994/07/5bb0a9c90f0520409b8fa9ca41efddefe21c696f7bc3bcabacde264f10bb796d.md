@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@imsi.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>imsi.com\><br>
 To: Sandy Sandfort \<sandfort@crl.com\><br>
 Message Hash: 5bb0a9c90f0520409b8fa9ca41efddefe21c696f7bc3bcabacde264f10bb796d<br>
 Message ID: \<9407131234.AA12940@snark.imsi.com\><br>
@@ -58,6 +58,12 @@ Perry
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Michael Handler <grendel<span>@</span>netaxs.com>](/author/michael_handler_grendel_at_netaxs_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[pstemari<span>@</span>bismark.cbis.com (Paul J. Ste. Marie)](/author/pstemari_at_bismark_cbis_com_paul_j_ste_marie_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-07-13 (Tue, 12 Jul 94 17:34:50 PDT) - [NATIONAL SECURITY PORN RISK](/archive/1994/07/e36bbf1ef84aff93ec6c7aca8a49e04af6b8d1cff0357a59a14a5be40b3d149c) - _Sandy Sandfort \<sandfort@crl.com\>_
   + 1994-07-13 (Tue, 12 Jul 94 18:18:01 PDT) - [Re: NATIONAL SECURITY PORN RISK](/archive/1994/07/519cbc9ccc59a0330318e8e55f94398b8b483c1808e8f1d790553e48c5122b8e) - _tcmay@netcom.com (Timothy C. May)_

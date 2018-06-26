@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pat_farrell_pfarrell_at_netcom_com_
+post_count: 106
 ---
 
-# Pat Farrell <pfarrell@netcom.com> (106 posts)
+# Pat Farrell <pfarrell<span>@</span>netcom.com> (106 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: judith_judith_at_sabotage_org_
+post_count: 1
 ---
 
-# Judith <judith@SABOTAGE.ORG> (1 posts)
+# Judith <judith<span>@</span>SABOTAGE.ORG> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

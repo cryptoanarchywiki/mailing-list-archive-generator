@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_j_miszewski_mjmiski_at_macc_wisc_edu_
+post_count: 44
 ---
 
-# Matthew J Miszewski <MJMISKI@macc.wisc.edu> (44 posts)
+# Matthew J Miszewski <MJMISKI<span>@</span>macc.wisc.edu> (44 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

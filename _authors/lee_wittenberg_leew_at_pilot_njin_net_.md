@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lee_wittenberg_leew_at_pilot_njin_net_
+post_count: 1
 ---
 
-# Lee Wittenberg <leew@pilot.njin.net> (1 posts)
+# Lee Wittenberg <leew<span>@</span>pilot.njin.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

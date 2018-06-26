@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: oren_mitz_oren_at_coma_huji_ac_il_
+post_count: 1
 ---
 
-# Oren Mitz <oren@coma.huji.ac.il> (1 posts)
+# Oren Mitz <oren<span>@</span>coma.huji.ac.il> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephen_zander_gibreel_at_pobox_com_
+post_count: 1
 ---
 
-# Stephen Zander <gibreel@pobox.com> (1 posts)
+# Stephen Zander <gibreel<span>@</span>pobox.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

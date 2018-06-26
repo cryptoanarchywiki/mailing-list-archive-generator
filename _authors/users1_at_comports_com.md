@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: users1_at_comports_com
+post_count: 1
 ---
 
-# users1@comports.com (1 posts)
+# users1<span>@</span>comports.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

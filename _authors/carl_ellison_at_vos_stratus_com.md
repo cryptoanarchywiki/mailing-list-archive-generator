@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carl_ellison_at_vos_stratus_com
+post_count: 6
 ---
 
-# Carl_Ellison@vos.stratus.com (6 posts)
+# Carl_Ellison<span>@</span>vos.stratus.com (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

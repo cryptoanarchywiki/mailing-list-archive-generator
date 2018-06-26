@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: laurent_demailly_dl_at_hplyot_obspm_fr_
+post_count: 56
 ---
 
-# Laurent Demailly <dl@hplyot.obspm.fr> (56 posts)
+# Laurent Demailly <dl<span>@</span>hplyot.obspm.fr> (56 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

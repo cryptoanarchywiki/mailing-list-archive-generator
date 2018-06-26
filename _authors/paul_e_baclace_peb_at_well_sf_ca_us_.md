@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_e_baclace_peb_at_well_sf_ca_us_
+post_count: 1
 ---
 
-# Paul E Baclace <peb@well.sf.ca.us> (1 posts)
+# Paul E Baclace <peb<span>@</span>well.sf.ca.us> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

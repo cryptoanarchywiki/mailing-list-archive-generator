@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: leonardo_machado_diarioam_at_ronet_com_br_
+post_count: 1
 ---
 
-# Leonardo Machado <diarioam@ronet.com.br> (1 posts)
+# Leonardo Machado <diarioam<span>@</span>ronet.com.br> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: futplex@pseudonym.com (Futplex)<br>
+From: futplex<span>@</span>pseudonym.com (Futplex)<br>
 To: cypherpunks@toad.com (Cypherpunks Mailing List)<br>
 Message Hash: b880d07ab26b8e46ab9fb24a58ecae84c04713adaa9badff02ca42d9cae2de2c<br>
 Message ID: \<199601290722.CAA21466@opine.cs.umass.edu\><br>
@@ -52,6 +52,11 @@ Futplex <futplex@pseudonym.com>
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/author/alan_horowitz_alanh_at_infi_net_)"
++ Return to "[futplex<span>@</span>pseudonym.com (Futplex)](/author/futplex_at_pseudonym_com_futplex_)"
++ Return to "[Mike Tighe <tighe<span>@</span>spectrum.titan.com>](/author/mike_tighe_tighe_at_spectrum_titan_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-01-28 (Sun, 28 Jan 1996 16:58:16 +0800) - [Downsizing the NSA](/archive/1996/01/d502e905ecc0b4c0d2ba6ced3e7c682823cf156d5ae61fcf15144186b728a15a) - _tcmay@got.net (Timothy C. May)_
   + 1996-01-28 (Sun, 28 Jan 1996 18:23:28 +0800) - [Re: Downsizing the NSA](/archive/1996/01/c58b0fffdae938605ec4c24f6267ddce7d4ae9efdcdd9e145289eb95dd3f2795) - _Alan Horowitz \<alanh@infi.net\>_

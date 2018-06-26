@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_at_mtcnet_com
+post_count: 1
 ---
 
-# mark@mtcnet.com (1 posts)
+# mark<span>@</span>mtcnet.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

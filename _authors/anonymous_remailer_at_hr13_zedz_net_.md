@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_remailer_at_hr13_zedz_net_
+post_count: 2
 ---
 
-# Anonymous <remailer@hr13.zedz.net> (2 posts)
+# Anonymous <remailer<span>@</span>hr13.zedz.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tidaore_at_aol_com_inforevolution_
+post_count: 1
 ---
 
-# tidaore@aol.com (INFOREVOLUTION) (1 posts)
+# tidaore<span>@</span>aol.com (INFOREVOLUTION) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

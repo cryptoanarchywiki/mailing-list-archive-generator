@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vcarlos35_at_juno_com_karl_rierson_
+post_count: 1
 ---
 
-# vcarlos35@juno.com (Karl Rierson) (1 posts)
+# vcarlos35<span>@</span>juno.com (Karl Rierson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

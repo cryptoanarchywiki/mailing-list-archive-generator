@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: xavier_naveira_a00467_at_servicom_es_
+post_count: 1
 ---
 
-# Xavier Naveira <A00467@servicom.es> (1 posts)
+# Xavier Naveira <A00467<span>@</span>servicom.es> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

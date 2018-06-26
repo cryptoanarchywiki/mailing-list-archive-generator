@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_at_cadence_com_scott_gustafson_
+post_count: 1
 ---
 
-# scott@Cadence.COM (Scott Gustafson) (1 posts)
+# scott<span>@</span>Cadence.COM (Scott Gustafson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

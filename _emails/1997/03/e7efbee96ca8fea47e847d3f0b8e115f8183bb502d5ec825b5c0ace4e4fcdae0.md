@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: e7efbee96ca8fea47e847d3f0b8e115f8183bb502d5ec825b5c0ace4e4fcdae0<br>
 Message ID: \<199703221709.JAA15053@mail.pacifier.com\><br>
@@ -49,6 +49,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [March 1997](/archive/1997/03)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1997-03-22 (Sat, 22 Mar 1997 09:09:57 -0800 (PST)) - Re: Cypherpunks & Ecash in WSJ, Chaum,and Amazing Revelation by NSA - _jim bell \<jimbell@pacifier.com\>_
 

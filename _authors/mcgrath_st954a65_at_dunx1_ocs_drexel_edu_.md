@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mcgrath_st954a65_at_dunx1_ocs_drexel_edu_
+post_count: 1
 ---
 
-# McGrath <st954a65@dunx1.ocs.drexel.edu> (1 posts)
+# McGrath <st954a65<span>@</span>dunx1.ocs.drexel.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

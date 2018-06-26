@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: amnesia_at_chardos_connix_com_anonymous_
+post_count: 8
 ---
 
-# amnesia@chardos.connix.com (Anonymous) (8 posts)
+# amnesia<span>@</span>chardos.connix.com (Anonymous) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

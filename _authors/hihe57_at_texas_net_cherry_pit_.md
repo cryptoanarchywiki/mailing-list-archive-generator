@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hihe57_at_texas_net_cherry_pit_
+post_count: 1
 ---
 
-# hihe57@texas.net (Cherry Pit) (1 posts)
+# hihe57<span>@</span>texas.net (Cherry Pit) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

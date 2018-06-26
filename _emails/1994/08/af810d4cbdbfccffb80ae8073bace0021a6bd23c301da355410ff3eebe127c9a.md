@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<hfinney@shell.portal.com\><br>
+From: Hal \<hfinney<span>@</span>shell.portal.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: af810d4cbdbfccffb80ae8073bace0021a6bd23c301da355410ff3eebe127c9a<br>
 Message ID: \<199408201652.JAA29752@jobe.shell.portal.com\><br>
@@ -189,6 +189,8 @@ Hal
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
 
 + 1994-08-20 (Sat, 20 Aug 94 09:53:19 PDT) - Brands cash - _Hal \<hfinney@shell.portal.com\>_
   + 1994-08-22 (Mon, 22 Aug 94 16:18:16 PDT) - [Re: Brands cash](/archive/1994/08/8748b9a96504d2df86c3ae4eab1e4ca65856298e1bcf5a3d9ed9a412c1032382) - _Hal \<hfinney@shell.portal.com\>_

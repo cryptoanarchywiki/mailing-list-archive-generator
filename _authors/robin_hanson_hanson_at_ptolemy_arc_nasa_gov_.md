@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robin_hanson_hanson_at_ptolemy_arc_nasa_gov_
+post_count: 2
 ---
 
-# Robin Hanson <hanson@ptolemy.arc.nasa.gov> (2 posts)
+# Robin Hanson <hanson<span>@</span>ptolemy.arc.nasa.gov> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

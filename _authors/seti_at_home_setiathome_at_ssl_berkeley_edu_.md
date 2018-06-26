@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: seti_at_home_setiathome_at_ssl_berkeley_edu_
+post_count: 2
 ---
 
-# "SETI@home" <setiathome@ssl.Berkeley.EDU> (2 posts)
+# "SETI<span>@</span>home" <setiathome<span>@</span>ssl.Berkeley.EDU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

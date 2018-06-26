@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: kae28@nims.nec.co.jp<br>
+From: kae28<span>@</span>nims.nec.co.jp<br>
 To: kae28@nims.nec.co.jp<br>
 Message Hash: cb865fe1e198379da8ee3bfec0da30ff35d1fb8dcebceacf9e11effb640aee54<br>
 Message ID: \<1997122815IAA3807@post.214.38.64\><br>
@@ -64,6 +64,8 @@ Subject:
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[kae28<span>@</span>nims.nec.co.jp](/author/kae28_at_nims_nec_co_jp)"
 
 + 1997-12-28 (Sun, 28 Dec 1997 04:01:07 -0800 (PST)) - XXX ADULT SEX!!! - _kae28@nims.nec.co.jp_
 

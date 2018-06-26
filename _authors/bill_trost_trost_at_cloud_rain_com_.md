@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_trost_trost_at_cloud_rain_com_
+post_count: 3
 ---
 
-# Bill Trost <trost@cloud.rain.com> (3 posts)
+# Bill Trost <trost<span>@</span>cloud.rain.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

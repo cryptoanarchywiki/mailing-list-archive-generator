@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roger_bryner_bryner_at_atlas_chem_utah_edu_
+post_count: 28
 ---
 
-# Roger Bryner <bryner@atlas.chem.utah.edu> (28 posts)
+# Roger Bryner <bryner<span>@</span>atlas.chem.utah.edu> (28 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

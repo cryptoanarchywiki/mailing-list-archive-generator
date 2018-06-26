@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_tridgell_tridge_at_arvidsjaur_anu_edu_au_
+post_count: 3
 ---
 
-# Andrew Tridgell <tridge@arvidsjaur.anu.edu.au> (3 posts)
+# Andrew Tridgell <tridge<span>@</span>arvidsjaur.anu.edu.au> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

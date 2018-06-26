@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: sameer@netcom.com (Sameer Parekh)<br>
+From: sameer<span>@</span>netcom.com (Sameer Parekh)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 6dd3d4fcdf462bb0a673e7ee04ca32d65cd6a6a5f4cca1b8bec9de57dd6e9a3b<br>
 Message ID: \<9309072346.AA22332@netcom.netcom.com\><br>
@@ -44,6 +44,8 @@ sameer@netcom.com
 ## Thread
 
 + Return to [September 1993](/archive/1993/09)
+
++ Return to "[sameer<span>@</span>netcom.com (Sameer Parekh)](/author/sameer_at_netcom_com_sameer_parekh_)"
 
 + 1993-09-07 (Tue, 7 Sep 93 16:51:46 PDT) - news.cs.indiana.edu *does* work - _sameer@netcom.com (Sameer Parekh)_
 

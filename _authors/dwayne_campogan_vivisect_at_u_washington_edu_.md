@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dwayne_campogan_vivisect_at_u_washington_edu_
+post_count: 2
 ---
 
-# Dwayne Campogan <vivisect@u.washington.edu> (2 posts)
+# Dwayne Campogan <vivisect<span>@</span>u.washington.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

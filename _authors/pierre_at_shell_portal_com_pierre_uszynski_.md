@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pierre_at_shell_portal_com_pierre_uszynski_
+post_count: 14
 ---
 
-# pierre@shell.portal.com (Pierre Uszynski) (14 posts)
+# pierre<span>@</span>shell.portal.com (Pierre Uszynski) (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

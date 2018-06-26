@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andr0id_at_midwest_net_jason_rentz_
+post_count: 11
 ---
 
-# andr0id@midwest.net (Jason Rentz) (11 posts)
+# andr0id<span>@</span>midwest.net (Jason Rentz) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

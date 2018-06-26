@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daegi16_at_aol_com_usa_
+post_count: 1
 ---
 
-# daegi16@aol.com (USA) (1 posts)
+# daegi16<span>@</span>aol.com (USA) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

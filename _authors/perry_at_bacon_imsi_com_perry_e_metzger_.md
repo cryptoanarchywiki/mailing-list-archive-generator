@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: perry_at_bacon_imsi_com_perry_e_metzger_
+post_count: 3
 ---
 
-# perry@bacon.imsi.com (Perry E. Metzger) (3 posts)
+# perry<span>@</span>bacon.imsi.com (Perry E. Metzger) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

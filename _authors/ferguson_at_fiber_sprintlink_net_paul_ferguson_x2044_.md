@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ferguson_at_fiber_sprintlink_net_paul_ferguson_x2044_
+post_count: 11
 ---
 
-# ferguson@fiber.sprintlink.net (Paul Ferguson x2044) (11 posts)
+# ferguson<span>@</span>fiber.sprintlink.net (Paul Ferguson x2044) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

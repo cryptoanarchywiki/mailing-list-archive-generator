@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_pinson_jpinson_at_polaris_net_
+post_count: 1
 ---
 
-# "Jim Pinson" <jpinson@polaris.net> (1 posts)
+# "Jim Pinson" <jpinson<span>@</span>polaris.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: grady_at_netcom_com_10162ef221_
+post_count: 13
 ---
 
-# grady@netcom.com (1016/2EF221) (13 posts)
+# grady<span>@</span>netcom.com (1016/2EF221) (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

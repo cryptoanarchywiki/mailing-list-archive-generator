@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_huddleston_reh_at_wam_umd_edu_
+post_count: 2
 ---
 
-# Richard Huddleston <reh@wam.umd.edu> (2 posts)
+# Richard Huddleston <reh<span>@</span>wam.umd.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

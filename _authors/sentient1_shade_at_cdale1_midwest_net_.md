@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sentient1_shade_at_cdale1_midwest_net_
+post_count: 1
 ---
 
-# "Sentient1" <Shade@cdale1.midwest.net> (1 posts)
+# "Sentient1" <Shade<span>@</span>cdale1.midwest.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

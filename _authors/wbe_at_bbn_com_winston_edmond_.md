@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wbe_at_bbn_com_winston_edmond_
+post_count: 1
 ---
 
-# wbe@bbn.com (Winston Edmond) (1 posts)
+# wbe<span>@</span>bbn.com (Winston Edmond) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

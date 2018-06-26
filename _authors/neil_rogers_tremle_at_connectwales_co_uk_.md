@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: neil_rogers_tremle_at_connectwales_co_uk_
+post_count: 2
 ---
 
-# "Neil Rogers" <tremle@connect-wales.co.uk> (2 posts)
+# "Neil Rogers" <tremle<span>@</span>connect-wales.co.uk> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

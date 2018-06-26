@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bubba_rom_dos_bubba_at_eunuchs_com_
+post_count: 3
 ---
 
-# Bubba Rom Dos <bubba@eunuchs.com> (3 posts)
+# Bubba Rom Dos <bubba<span>@</span>eunuchs.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

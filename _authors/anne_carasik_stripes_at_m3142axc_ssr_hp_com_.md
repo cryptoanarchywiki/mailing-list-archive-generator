@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anne_carasik_stripes_at_m3142axc_ssr_hp_com_
+post_count: 1
 ---
 
-# Anne Carasik <stripes@m3142axc.ssr.hp.com> (1 posts)
+# Anne Carasik <stripes<span>@</span>m3142axc.ssr.hp.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

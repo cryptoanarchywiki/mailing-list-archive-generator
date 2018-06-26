@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nobody@replay.com\><br>
+From: Anonymous \<nobody<span>@</span>replay.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: c95b94897ba47c89353ad33fdde2190b2c89cdba6f8b7ecdbdb2eb0ab4e59bde<br>
 Message ID: \<199809290514.HAA24812@replay.com\><br>
@@ -53,6 +53,8 @@ hoaxes which has hit the list in a long time.
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
 
 + 1998-09-28 (Tue, 29 Sep 1998 00:12:55 +0800) - Toto -- mimic function or the real thing (Re: no subject) - _Anonymous \<nobody@replay.com\>_
 

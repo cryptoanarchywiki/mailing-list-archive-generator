@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gr2kittrell_at_apsicc_aps_edu_too_many_secrets_
+post_count: 2
 ---
 
-# GR2KITTRELL@APSICC.APS.EDU (TOO MANY SECRETS) (2 posts)
+# GR2KITTRELL<span>@</span>APSICC.APS.EDU (TOO MANY SECRETS) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

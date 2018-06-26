@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jbass_at_dmsd_com_john_l_bass_
+post_count: 11
 ---
 
-# jbass@dmsd.com (John L. Bass) (11 posts)
+# jbass<span>@</span>dmsd.com (John L. Bass) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

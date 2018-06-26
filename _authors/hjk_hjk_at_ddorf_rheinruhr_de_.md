@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hjk_hjk_at_ddorf_rheinruhr_de_
+post_count: 6
 ---
 
-# hjk <hjk@ddorf.rhein-ruhr.de> (6 posts)
+# hjk <hjk<span>@</span>ddorf.rhein-ruhr.de> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

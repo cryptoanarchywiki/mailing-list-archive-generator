@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rick_hornbeck_rnh2_at_ix_netcom_com_
+post_count: 7
 ---
 
-# Rick Hornbeck <rnh2@ix.netcom.com> (7 posts)
+# Rick Hornbeck <rnh2<span>@</span>ix.netcom.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

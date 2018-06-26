@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rcgraves_at_ix_netcom_com_rich_graves_
+post_count: 1
 ---
 
-# rcgraves@ix.netcom.com (Rich Graves) (1 posts)
+# rcgraves<span>@</span>ix.netcom.com (Rich Graves) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

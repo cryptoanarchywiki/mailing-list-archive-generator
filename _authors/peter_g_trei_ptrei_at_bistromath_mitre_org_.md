@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_g_trei_ptrei_at_bistromath_mitre_org_
+post_count: 1
 ---
 
-# "Peter G. Trei" <ptrei@bistromath.mitre.org> (1 posts)
+# "Peter G. Trei" <ptrei<span>@</span>bistromath.mitre.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

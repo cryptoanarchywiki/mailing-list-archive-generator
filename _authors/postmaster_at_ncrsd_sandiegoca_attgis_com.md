@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: postmaster_at_ncrsd_sandiegoca_attgis_com
+post_count: 4
 ---
 
-# postmaster@ncr-sd.SanDiegoCA.ATTGIS.COM (4 posts)
+# postmaster<span>@</span>ncr-sd.SanDiegoCA.ATTGIS.COM (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

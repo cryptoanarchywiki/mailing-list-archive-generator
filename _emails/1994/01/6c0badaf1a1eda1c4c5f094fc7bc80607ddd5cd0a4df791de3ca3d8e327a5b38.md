@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Fred Cooper \<frc@bwh\><br>
+From: Fred Cooper \<frc<span>@</span>bwh\><br>
 To: cypherpunks@toad.com (Cypherpunks)<br>
 Message Hash: 6c0badaf1a1eda1c4c5f094fc7bc80607ddd5cd0a4df791de3ca3d8e327a5b38<br>
 Message ID: \<199401152314.SAA10095@duke.bwh.harvard.edu\><br>
@@ -75,6 +75,8 @@ oORKpOSn4H0=
 ## Thread
 
 + Return to [January 1994](/archive/1994/01)
+
++ Return to "[Fred Cooper <frc<span>@</span>bwh>](/author/fred_cooper_frc_at_bwh_)"
 
 + 1994-01-15 (Sat, 15 Jan 94 15:15:50 PST) - What is Real? - _Fred Cooper \<frc@bwh\>_
 

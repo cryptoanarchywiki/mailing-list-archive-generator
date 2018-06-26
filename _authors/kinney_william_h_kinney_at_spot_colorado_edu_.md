@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kinney_william_h_kinney_at_spot_colorado_edu_
+post_count: 4
 ---
 
-# KINNEY WILLIAM H <kinney@spot.Colorado.EDU> (4 posts)
+# KINNEY WILLIAM H <kinney<span>@</span>spot.Colorado.EDU> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: fergp@sytex.com (Paul Ferguson)<br>
+From: fergp<span>@</span>sytex.com (Paul Ferguson)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: e359ca5638cefdfef7eee49cf71abddb97c945f0a9dfbdd0b12d6eac6986711c<br>
 Message ID: \<NX544B1w165w@sytex.com\><br>
@@ -83,6 +83,8 @@ fergp@sytex.com             |  to shape it.
 ## Thread
 
 + Return to [May 1993](/archive/1993/05)
+
++ Return to "[fergp<span>@</span>sytex.com (Paul Ferguson)](/author/fergp_at_sytex_com_paul_ferguson_)"
 
 + 1993-05-25 (Tue, 25 May 93 09:17:06 PDT) - VinCrypt - _fergp@sytex.com (Paul Ferguson)_
 

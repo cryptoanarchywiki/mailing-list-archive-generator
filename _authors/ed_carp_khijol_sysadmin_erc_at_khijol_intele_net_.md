@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ed_carp_khijol_sysadmin_erc_at_khijol_intele_net_
+post_count: 20
 ---
 
-# "Ed Carp [khijol SysAdmin]" <erc@khijol.intele.net> (20 posts)
+# "Ed Carp [khijol SysAdmin]" <erc<span>@</span>khijol.intele.net> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

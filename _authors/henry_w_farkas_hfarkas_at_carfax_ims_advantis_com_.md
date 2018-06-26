@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: henry_w_farkas_hfarkas_at_carfax_ims_advantis_com_
+post_count: 2
 ---
 
-# "Henry W. Farkas" <hfarkas@carfax.ims.advantis.com> (2 posts)
+# "Henry W. Farkas" <hfarkas<span>@</span>carfax.ims.advantis.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

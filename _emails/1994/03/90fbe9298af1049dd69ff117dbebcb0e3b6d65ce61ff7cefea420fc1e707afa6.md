@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Darren Reed \<avalon@coombs.anu.edu.au\><br>
+From: Darren Reed \<avalon<span>@</span>coombs.anu.edu.au\><br>
 To: gtoal@an-teallach.com (Graham Toal)<br>
 Message Hash: 90fbe9298af1049dd69ff117dbebcb0e3b6d65ce61ff7cefea420fc1e707afa6<br>
 Message ID: \<9403110541.AA11095@toad.com\><br>
@@ -59,6 +59,10 @@ of the cover in front of the lens :)
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[Darren Reed <avalon<span>@</span>coombs.anu.edu.au>](/author/darren_reed_avalon_at_coombs_anu_edu_au_)"
++ Return to "[gtoal<span>@</span>an-teallach.com (Graham Toal)](/author/gtoal_at_anteallach_com_graham_toal_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-03-10 (Thu, 10 Mar 94 12:39:38 PST) - [Surveillance cameras](/archive/1994/03/d7c2901330cef8c713507ec2fce3d11a5bb20c3f90fcf9a0842d4359b9ccbdb4) - _gtoal@an-teallach.com (Graham Toal)_
   + 1994-03-11 (Thu, 10 Mar 94 21:42:15 PST) - Re: Surveillance cameras - _Darren Reed \<avalon@coombs.anu.edu.au\>_

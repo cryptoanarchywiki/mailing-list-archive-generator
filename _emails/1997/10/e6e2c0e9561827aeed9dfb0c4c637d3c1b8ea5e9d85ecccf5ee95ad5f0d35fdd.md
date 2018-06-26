@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Robert A. Costner" \<pooh@efga.org\><br>
+From: "Robert A. Costner" \<pooh<span>@</span>efga.org\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: e6e2c0e9561827aeed9dfb0c4c637d3c1b8ea5e9d85ecccf5ee95ad5f0d35fdd<br>
 Message ID: \<3.0.3.32.19971003133109.03358310@mail.atl.bellsouth.net\><br>
@@ -71,6 +71,9 @@ laws that explicitly define electronic documents as writings.
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
++ Return to "["Robert A. Costner" <pooh<span>@</span>efga.org>](/author/robert_a_costner_pooh_at_efga_org_)"
 
 + 1997-10-03 (Sat, 4 Oct 1997 00:31:14 +0800) - [legal question of DSA-based signatures?](/archive/1997/10/2a71f7d2b14ee8a7f9eed9d06b0fcb086c97afa49605f29abf4dce4727c65fac) - _Anonymous \<anon@anon.efga.org\>_
   + 1997-10-03 (Sat, 4 Oct 1997 02:25:56 +0800) - Re: legal question of DSA-based signatures? - _"Robert A. Costner" \<pooh@efga.org\>_

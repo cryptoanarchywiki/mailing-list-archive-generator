@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: petro_petro_at_playboy_com_
+post_count: 116
 ---
 
-# Petro <petro@playboy.com> (116 posts)
+# Petro <petro<span>@</span>playboy.com> (116 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

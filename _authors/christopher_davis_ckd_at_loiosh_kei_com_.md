@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christopher_davis_ckd_at_loiosh_kei_com_
+post_count: 1
 ---
 
-# Christopher Davis <ckd@loiosh.kei.com> (1 posts)
+# Christopher Davis <ckd<span>@</span>loiosh.kei.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

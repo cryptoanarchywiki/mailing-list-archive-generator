@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: les_pourciau_at_umem_pourciau_at_msuvx1_memphis_edu_
+post_count: 1
 ---
 
-# Les Pourciau at UMem <POURCIAU@MSUVX1.MEMPHIS.EDU> (1 posts)
+# Les Pourciau at UMem <POURCIAU<span>@</span>MSUVX1.MEMPHIS.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

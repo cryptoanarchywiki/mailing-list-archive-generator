@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: x_xasper8d_at_lobo_net_
+post_count: 18
 ---
 
-# "X" <xasper8d@lobo.net> (18 posts)
+# "X" <xasper8d<span>@</span>lobo.net> (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

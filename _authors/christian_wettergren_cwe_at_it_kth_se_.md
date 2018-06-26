@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christian_wettergren_cwe_at_it_kth_se_
+post_count: 21
 ---
 
-# Christian Wettergren <cwe@it.kth.se> (21 posts)
+# Christian Wettergren <cwe<span>@</span>it.kth.se> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

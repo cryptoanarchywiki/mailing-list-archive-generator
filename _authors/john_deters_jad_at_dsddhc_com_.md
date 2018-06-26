@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_deters_jad_at_dsddhc_com_
+post_count: 37
 ---
 
-# John Deters <jad@dsddhc.com> (37 posts)
+# John Deters <jad<span>@</span>dsddhc.com> (37 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

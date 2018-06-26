@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jpb_at_miamisci_org_joe_block_
+post_count: 22
 ---
 
-# jpb@miamisci.org (Joe Block) (22 posts)
+# jpb<span>@</span>miamisci.org (Joe Block) (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

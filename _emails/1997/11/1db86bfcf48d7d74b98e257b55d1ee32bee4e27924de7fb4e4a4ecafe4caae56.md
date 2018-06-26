@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 1db86bfcf48d7d74b98e257b55d1ee32bee4e27924de7fb4e4a4ecafe4caae56<br>
 Message ID: \<v0400270db098dc22bf8b@[139.167.130.248]\><br>
@@ -137,6 +137,8 @@ Ask me about FC98 in Anguilla!: <http://www.fc98.ai/>
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-11-19 (Thu, 20 Nov 1997 02:42:00 +0800) - [Fwd: *DLS Lecture -Robert Morris - NSA - Tomorrow*] - _Robert Hettinga \<rah@shipwright.com\>_
 

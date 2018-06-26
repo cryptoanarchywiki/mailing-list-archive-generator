@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cdmorgan_at_mosaic_uncc_edu_charles_d_morgan_
+post_count: 3
 ---
 
-# cdmorgan@mosaic.uncc.edu (Charles D Morgan) (3 posts)
+# cdmorgan<span>@</span>mosaic.uncc.edu (Charles D Morgan) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

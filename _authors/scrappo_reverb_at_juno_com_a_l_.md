@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scrappo_reverb_at_juno_com_a_l_
+post_count: 5
 ---
 
-# scrappo.reverb@juno.com (A L) (5 posts)
+# scrappo.reverb<span>@</span>juno.com (A L) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

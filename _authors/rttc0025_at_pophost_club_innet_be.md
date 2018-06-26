@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rttc0025_at_pophost_club_innet_be
+post_count: 1
 ---
 
-# rttc0025@pophost.club.innet.be (1 posts)
+# rttc0025<span>@</span>pophost.club.innet.be (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

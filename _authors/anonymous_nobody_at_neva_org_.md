@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_nobody_at_neva_org_
+post_count: 1
 ---
 
-# Anonymous <nobody@neva.org> (1 posts)
+# Anonymous <nobody<span>@</span>neva.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

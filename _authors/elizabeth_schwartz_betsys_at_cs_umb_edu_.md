@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: elizabeth_schwartz_betsys_at_cs_umb_edu_
+post_count: 2
 ---
 
-# Elizabeth Schwartz <betsys@cs.umb.edu> (2 posts)
+# Elizabeth Schwartz <betsys<span>@</span>cs.umb.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

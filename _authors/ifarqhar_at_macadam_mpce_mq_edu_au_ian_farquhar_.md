@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ifarqhar_at_macadam_mpce_mq_edu_au_ian_farquhar_
+post_count: 1
 ---
 
-# ifarqhar@macadam.mpce.mq.edu.au (Ian Farquhar) (1 posts)
+# ifarqhar<span>@</span>macadam.mpce.mq.edu.au (Ian Farquhar) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

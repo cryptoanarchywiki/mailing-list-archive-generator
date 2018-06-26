@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: darryl_gittins_at_edrd_dnd_ca_darryl_gittins_
+post_count: 1
 ---
 
-# darryl.gittins@edrd.dnd.ca (Darryl Gittins) (1 posts)
+# darryl.gittins<span>@</span>edrd.dnd.ca (Darryl Gittins) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

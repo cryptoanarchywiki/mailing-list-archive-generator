@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: neil_tunnicliffe_intaus2_at_ois_net_au_
+post_count: 2
 ---
 
-# Neil Tunnicliffe <intaus2@ois.net.au> (2 posts)
+# Neil Tunnicliffe <intaus2<span>@</span>ois.net.au> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c48af8f83d14bde317f9cc9f0cebfcb5b339447b6fc9bccd9d9b7cc4d01cf2ad<br>
 Message ID: \<HwgT2D79w165w@bwalk.dm.com\><br>
@@ -58,6 +58,9 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Mike Duvos <mpd<span>@</span>netcom.com>](/author/mike_duvos_mpd_at_netcom_com_)"
 
 + 1997-02-07 (Fri, 7 Feb 1997 13:20:59 -0800 (PST)) - [Re: My messages not appearing on either of the lists?](/archive/1997/02/f344d714f22437655fac3aa282923e1662f363b8831a34de1f6c2bf85cc1728e) - _Mike Duvos \<mpd@netcom.com\>_
   + 1997-02-08 (Sat, 8 Feb 1997 09:23:05 -0800 (PST)) - Re: My messages not appearing on either of the lists? - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

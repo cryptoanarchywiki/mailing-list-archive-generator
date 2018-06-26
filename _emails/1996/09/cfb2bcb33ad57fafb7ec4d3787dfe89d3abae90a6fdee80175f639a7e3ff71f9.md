@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: hallam@ai.mit.edu<br>
+From: hallam<span>@</span>ai.mit.edu<br>
 To: Jim Ray \<liberty@gate.net\><br>
 Message Hash: cfb2bcb33ad57fafb7ec4d3787dfe89d3abae90a6fdee80175f639a7e3ff71f9<br>
 Message ID: \<9609170603.AA03193@etna.ai.mit.edu\><br>
@@ -56,6 +56,10 @@ it is in danger of loosing business?
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[hallam<span>@</span>ai.mit.edu](/author/hallam_at_ai_mit_edu)"
++ Return to "[Jim Ray <liberty<span>@</span>gate.net>](/author/jim_ray_liberty_at_gate_net_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1996-09-17 (Tue, 17 Sep 1996 14:20:45 +0800) - [Re: Spam blacklist project](/archive/1996/09/8cc5b579b56d955797d95bc656554f0073a7f73ff26d63e4b9aac90d2428df18) - _Jim Ray \<liberty@gate.net\>_
   + 1996-09-17 (Tue, 17 Sep 1996 16:57:39 +0800) - Re: Spam blacklist project - _hallam@ai.mit.edu_

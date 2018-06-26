@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: e38a7acbeccc52d106597b654cf8e0edaaebd6ae3598aa562c7c02f2dbe2ce92<br>
 Message ID: \<3.0.2.32.19970801003421.007786bc@popd.ix.netcom.com\><br>
@@ -66,6 +66,8 @@ been a few firms like TIS that have developed it for its own sake.
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1997-08-01 (Fri, 1 Aug 1997 15:46:48 +0800) - Dorothy Denning changes Escrow position - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pics_at_bj_janey_com
+post_count: 1
 ---
 
-# pics@bj.janey.com (1 posts)
+# pics<span>@</span>bj.janey.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

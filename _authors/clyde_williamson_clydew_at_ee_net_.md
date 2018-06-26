@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: clyde_williamson_clydew_at_ee_net_
+post_count: 1
 ---
 
-# Clyde Williamson <clydew@ee.net> (1 posts)
+# Clyde Williamson <clydew<span>@</span>ee.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

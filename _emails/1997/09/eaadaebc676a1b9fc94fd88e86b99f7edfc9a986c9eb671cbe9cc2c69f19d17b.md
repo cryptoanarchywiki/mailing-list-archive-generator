@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sean Roach \<roach_s@alph.swosu.edu\><br>
+From: Sean Roach \<roach_s<span>@</span>alph.swosu.edu\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: eaadaebc676a1b9fc94fd88e86b99f7edfc9a986c9eb671cbe9cc2c69f19d17b<br>
 Message ID: \<199709172122.RAA10572@www.video-collage.com\><br>
@@ -60,6 +60,8 @@ something next to a quarter.
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[Sean Roach <roach_s<span>@</span>alph.swosu.edu>](/author/sean_roach_roach_s_at_alph_swosu_edu_)"
 
 + 1997-09-17 (Thu, 18 Sep 1997 05:31:18 +0800) - Re: Telephone bugging devices - _Sean Roach \<roach_s@alph.swosu.edu\>_
 

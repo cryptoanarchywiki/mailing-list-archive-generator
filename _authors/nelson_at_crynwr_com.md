@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nelson_at_crynwr_com
+post_count: 33
 ---
 
-# nelson@crynwr.com (33 posts)
+# nelson<span>@</span>crynwr.com (33 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

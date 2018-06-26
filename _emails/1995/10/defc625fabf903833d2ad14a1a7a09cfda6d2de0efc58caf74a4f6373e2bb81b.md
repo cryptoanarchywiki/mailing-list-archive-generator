@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: iagoldbe@csclub.uwaterloo.ca (Ian Goldberg)<br>
+From: iagoldbe<span>@</span>csclub.uwaterloo.ca (Ian Goldberg)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: defc625fabf903833d2ad14a1a7a09cfda6d2de0efc58caf74a4f6373e2bb81b<br>
 Message ID: \<46haei$i6o@calum.csclub.uwaterloo.ca\><br>
@@ -86,6 +86,10 @@ publish their protocols, if not their source.
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[iagoldbe<span>@</span>csclub.uwaterloo.ca (Ian Goldberg)](/author/iagoldbe_at_csclub_uwaterloo_ca_ian_goldberg_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1995-10-21 (Sat, 21 Oct 95 00:06:43 PDT) - [Article on Digital Cash in "Worth"](/archive/1995/10/66d1af8dfe5755c01aeca87879015136dbd7b429cb85aeac07fbf4a0f69be96b) - _tcmay@got.net (Timothy C. May)_
   + 1995-10-24 (Mon, 23 Oct 95 17:02:50 PDT) - Hacking Digicash (was: Article on Digital Cash in "Worth") - _iagoldbe@csclub.uwaterloo.ca (Ian Goldberg)_

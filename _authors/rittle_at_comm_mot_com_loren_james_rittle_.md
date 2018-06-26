@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rittle_at_comm_mot_com_loren_james_rittle_
+post_count: 3
 ---
 
-# rittle@comm.mot.com (Loren James Rittle) (3 posts)
+# rittle<span>@</span>comm.mot.com (Loren James Rittle) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

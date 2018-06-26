@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: announce_at_inbox_nytimes_com_new_york_times_subscription_robot_
+post_count: 3
 ---
 
-# announce@inbox.nytimes.com (New York Times subscription robot) (3 posts)
+# announce<span>@</span>inbox.nytimes.com (New York Times subscription robot) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

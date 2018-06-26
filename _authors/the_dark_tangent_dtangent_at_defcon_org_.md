@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_dark_tangent_dtangent_at_defcon_org_
+post_count: 1
 ---
 
-# The Dark Tangent <dtangent@defcon.org> (1 posts)
+# The Dark Tangent <dtangent<span>@</span>defcon.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

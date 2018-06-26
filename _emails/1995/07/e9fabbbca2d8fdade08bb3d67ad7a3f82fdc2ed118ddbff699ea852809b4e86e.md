@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jon Lasser \<jlasser@rwd.goucher.edu\><br>
+From: Jon Lasser \<jlasser<span>@</span>rwd.goucher.edu\><br>
 To: "Timothy C. May" \<tcmay@sensemedia.net\><br>
 Message Hash: e9fabbbca2d8fdade08bb3d67ad7a3f82fdc2ed118ddbff699ea852809b4e86e<br>
 Message ID: \<Pine.SUN.3.91.950720161632.12511A-100000@rwd.goucher.edu\><br>
@@ -91,6 +91,11 @@ Jon Lasser                <jlasser@rwd.goucher.edu>            (410) 494-3253
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[Jon Lasser <jlasser<span>@</span>rwd.goucher.edu>](/author/jon_lasser_jlasser_at_rwd_goucher_edu_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[Ray Cromwell <rjc<span>@</span>clark.net>](/author/ray_cromwell_rjc_at_clark_net_)"
++ Return to "[tcmay<span>@</span>sensemedia.net (Timothy C. May)](/author/tcmay_at_sensemedia_net_timothy_c_may_)"
 
 + 1995-07-20 (Thu, 20 Jul 95 13:02:10 PDT) - [Re: Netscape the Big Win](/archive/1995/07/192aacecf33c91147531eab2dd0ab4853e2979d794b8270e0678a73eef28194a) - _tcmay@sensemedia.net (Timothy C. May)_
   + 1995-07-20 (Thu, 20 Jul 95 13:28:20 PDT) - Re: Netscape the Big Win - _Jon Lasser \<jlasser@rwd.goucher.edu\>_

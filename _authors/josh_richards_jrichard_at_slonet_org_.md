@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: josh_richards_jrichard_at_slonet_org_
+post_count: 3
 ---
 
-# Josh Richards <jrichard@slonet.org> (3 posts)
+# Josh Richards <jrichard<span>@</span>slonet.org> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

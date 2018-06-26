@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. ALLEN SMITH" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: mfischer@nsi.edu<br>
 Message Hash: 4b59ab659a386a76fa56dbcfe0606a28b2bcaaab4afecffae9ad4b6843e079b2<br>
 Message ID: \<01HZTGS7MTBOA0UD8R@mbcl.rutgers.edu\><br>
@@ -47,6 +47,8 @@ at all.
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-01-10 (Wed, 10 Jan 1996 10:15:24 +0800) - Re: WIRE TAP ON NET - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: strat_at_sam_ksu_ksu_edu_steve_davis_
+post_count: 3
 ---
 
-# strat@sam.ksu.ksu.edu (Steve Davis) (3 posts)
+# strat<span>@</span>sam.ksu.ksu.edu (Steve Davis) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

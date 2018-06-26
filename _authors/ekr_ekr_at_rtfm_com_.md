@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ekr_ekr_at_rtfm_com_
+post_count: 1
 ---
 
-# EKR <ekr@rtfm.com> (1 posts)
+# EKR <ekr<span>@</span>rtfm.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jamie_zawinski_jwz_at_netscape_com_
+post_count: 10
 ---
 
-# Jamie Zawinski <jwz@netscape.com> (10 posts)
+# Jamie Zawinski <jwz<span>@</span>netscape.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: R.Hirschfeld@cwi.nl<br>
+From: R.Hirschfeld<span>@</span>cwi.nl<br>
 To: matts@pi.se<br>
 Message Hash: 45bd041abef53e3df9be8cceec19b926c05ad18cd333af966ff6aa4dd9c60a6e<br>
 Message ID: \<9605221739.AA03647=ray@groen.cwi.nl\><br>
@@ -48,6 +48,14 @@ currency exchange.
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[bryce<span>@</span>digicash.com](/author/bryce_at_digicash_com)"
++ Return to "[jonathon <grafolog<span>@</span>netcom.com>](/author/jonathon_grafolog_at_netcom_com_)"
++ Return to "[Matts Kallioniemi <matts<span>@</span>pi.se>](/author/matts_kallioniemi_matts_at_pi_se_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
++ Return to "["Paul S. Penrod" <furballs<span>@</span>netcom.com>](/author/paul_s_penrod_furballs_at_netcom_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[R.Hirschfeld<span>@</span>cwi.nl](/author/r_hirschfeld_at_cwi_nl)"
 
 + 1996-05-22 (Thu, 23 May 1996 03:41:16 +0800) - [Re: The Crisis with Remailers](/archive/1996/05/2f81d384349c499be6cba3a44f25b344fded30fd1749482e72c3f2561f33c75d) - _Matts Kallioniemi \<matts@pi.se\>_
   + 1996-05-22 (Thu, 23 May 1996 04:05:39 +0800) - [Re: The Crisis with Remailers](/archive/1996/05/ecf10b103405f4f62fdba314682a917f70b77101c34962dbb6bc4fb4ccf58bd1) - _bryce@digicash.com_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: franl_at_centerline_com_fran_litterio_
+post_count: 5
 ---
 
-# franl@centerline.com (Fran Litterio) (5 posts)
+# franl<span>@</span>centerline.com (Fran Litterio) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

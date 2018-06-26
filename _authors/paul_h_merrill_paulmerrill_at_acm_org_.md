@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_h_merrill_paulmerrill_at_acm_org_
+post_count: 42
 ---
 
-# "Paul H. Merrill" <PaulMerrill@acm.org> (42 posts)
+# "Paul H. Merrill" <PaulMerrill<span>@</span>acm.org> (42 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

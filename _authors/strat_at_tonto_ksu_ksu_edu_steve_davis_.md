@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: strat_at_tonto_ksu_ksu_edu_steve_davis_
+post_count: 1
 ---
 
-# strat@tonto.ksu.ksu.edu (Steve Davis) (1 posts)
+# strat<span>@</span>tonto.ksu.ksu.edu (Steve Davis) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wm_michael_denney_gomez0_at_pacbell_net_
+post_count: 2
 ---
 
-# "Wm. Michael Denney" <gomez0@pacbell.net> (2 posts)
+# "Wm. Michael Denney" <gomez0<span>@</span>pacbell.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

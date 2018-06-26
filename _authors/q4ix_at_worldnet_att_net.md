@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: q4ix_at_worldnet_att_net
+post_count: 1
 ---
 
-# q4ix@worldnet.att.net (1 posts)
+# q4ix<span>@</span>worldnet.att.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

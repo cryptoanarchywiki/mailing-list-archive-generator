@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mall_at_daltek_net
+post_count: 1
 ---
 
-# mall@daltek.net (1 posts)
+# mall<span>@</span>daltek.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

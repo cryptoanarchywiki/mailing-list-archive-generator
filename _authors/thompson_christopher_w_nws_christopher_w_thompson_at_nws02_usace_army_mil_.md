@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thompson_christopher_w_nws_christopher_w_thompson_at_nws02_usace_army_mil_
+post_count: 1
 ---
 
-# "Thompson, Christopher W NWS" <Christopher.W.Thompson@NWS02.usace.army.mil> (1 posts)
+# "Thompson, Christopher W NWS" <Christopher.W.Thompson<span>@</span>NWS02.usace.army.mil> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

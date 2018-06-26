@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nwosuck_at_harpo_wh_att_com_kingsley_nwosu_
+post_count: 1
 ---
 
-# nwosuck@harpo.wh.att.com (Kingsley Nwosu) (1 posts)
+# nwosuck<span>@</span>harpo.wh.att.com (Kingsley Nwosu) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

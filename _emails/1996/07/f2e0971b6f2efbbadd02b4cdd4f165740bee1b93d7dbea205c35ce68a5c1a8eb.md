@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: Robert Hettinga \<rah@shipwright.com\><br>
 Message Hash: f2e0971b6f2efbbadd02b4cdd4f165740bee1b93d7dbea205c35ce68a5c1a8eb<br>
 Message ID: \<2.2.32.19960723184711.0085912c@panix.com\><br>
@@ -64,6 +64,8 @@ DCF
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1996-07-24 (Wed, 24 Jul 1996 18:14:55 +0800) - Re: [Noise] Hettinga Sees Colors... - _Duncan Frissell \<frissell@panix.com\>_
 

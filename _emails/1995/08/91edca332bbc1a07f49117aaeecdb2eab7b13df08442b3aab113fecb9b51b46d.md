@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: keelings@wu1.wl.aecl.ca (S. Keeling)<br>
+From: keelings<span>@</span>wu1.wl.aecl.ca (S. Keeling)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 91edca332bbc1a07f49117aaeecdb2eab7b13df08442b3aab113fecb9b51b46d<br>
 Message ID: \<9508291415.AA02629@wu1.wl.aecl.ca\><br>
@@ -80,6 +80,8 @@ FWIW ...
 ## Thread
 
 + Return to [August 1995](/archive/1995/08)
+
++ Return to "[keelings<span>@</span>wu1.wl.aecl.ca (S. Keeling)](/author/keelings_at_wu1_wl_aecl_ca_s_keeling_)"
 
 + 1995-08-30 (Wed, 30 Aug 95 08:13:54 PDT) - Re: SSL trouble - _keelings@wu1.wl.aecl.ca (S. Keeling)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: murple_btherl_at_ikkles_cs_mu_oz_au_
+post_count: 1
 ---
 
-# Murple <btherl@ikkles.cs.mu.oz.au> (1 posts)
+# Murple <btherl<span>@</span>ikkles.cs.mu.oz.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

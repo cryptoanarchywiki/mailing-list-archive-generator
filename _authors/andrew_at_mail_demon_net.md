@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_at_mail_demon_net
+post_count: 1
 ---
 
-# Andrew@mail.demon.net (1 posts)
+# Andrew<span>@</span>mail.demon.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

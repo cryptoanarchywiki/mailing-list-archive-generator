@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pete_capelli_pete_at_ubisg_com_
+post_count: 2
 ---
 
-# Pete Capelli <pete@ubisg.com> (2 posts)
+# Pete Capelli <pete<span>@</span>ubisg.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

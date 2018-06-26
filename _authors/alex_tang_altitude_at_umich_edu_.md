@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_tang_altitude_at_umich_edu_
+post_count: 1
 ---
 
-# Alex Tang <altitude@umich.edu> (1 posts)
+# Alex Tang <altitude<span>@</span>umich.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

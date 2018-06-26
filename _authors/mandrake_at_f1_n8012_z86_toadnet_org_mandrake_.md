@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mandrake_at_f1_n8012_z86_toadnet_org_mandrake_
+post_count: 2
 ---
 
-# Mandrake@f1.n8012.z86.toadnet.org (Mandrake) (2 posts)
+# Mandrake<span>@</span>f1.n8012.z86.toadnet.org (Mandrake) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

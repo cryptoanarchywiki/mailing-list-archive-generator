@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthias_schunter_schunter_at_informatik_unihildesheim_de_
+post_count: 2
 ---
 
-# Matthias Schunter <schunter@informatik.uni-hildesheim.de> (2 posts)
+# Matthias Schunter <schunter<span>@</span>informatik.uni-hildesheim.de> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

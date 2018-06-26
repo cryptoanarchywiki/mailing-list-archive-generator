@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Tom Allard \<m1tca00@FRB.GOV\><br>
+From: Tom Allard \<m1tca00<span>@</span>FRB.GOV\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 82f21b31d4a22e3189caddc8bda2720efa5bbabfdb6d8b5e9fee5a3e0aeb144a<br>
 Message ID: \<199707031416.KAA11262@bksmp2.FRB.GOV\><br>
@@ -86,6 +86,10 @@ I don't speak for the Federal Reserve Board, it doesn't speak for me.
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[Tom Allard <m1tca00<span>@</span>FRB.GOV>](/author/tom_allard_m1tca00_at_frb_gov_)"
 
 + 1997-07-03 (Thu, 3 Jul 1997 17:12:44 +0800) - [Re: Jeff's Side of the Story.](/archive/1997/07/000c6a23b73315f84ed1da3268662adb7837a61f2a6ddc469d240eef6da381d0) - _nobody@REPLAY.COM (Anonymous)_
   + 1997-07-03 (Thu, 3 Jul 1997 23:00:21 +0800) - Re: Jeff's Side of the Story. - _Tom Allard \<m1tca00@FRB.GOV\>_

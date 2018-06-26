@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tech21_at_tectel_com
+post_count: 1
 ---
 
-# tech21@tectel.com (1 posts)
+# tech21<span>@</span>tectel.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

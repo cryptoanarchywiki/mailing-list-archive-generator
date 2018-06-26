@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tc_at_phantom_com_dave_banisar_
+post_count: 1
 ---
 
-# tc@phantom.com (Dave Banisar) (1 posts)
+# tc<span>@</span>phantom.com (Dave Banisar) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

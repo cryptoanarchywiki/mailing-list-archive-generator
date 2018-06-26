@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: benjamin_chad_wienke_woodwose_at_mailexcite_com_
+post_count: 19
 ---
 
-# "Benjamin Chad Wienke" <woodwose@mailexcite.com> (19 posts)
+# "Benjamin Chad Wienke" <woodwose<span>@</span>mailexcite.com> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

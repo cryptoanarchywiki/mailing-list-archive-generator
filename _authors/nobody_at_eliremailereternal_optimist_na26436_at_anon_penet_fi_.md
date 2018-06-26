@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_eliremailereternal_optimist_na26436_at_anon_penet_fi_
+post_count: 1
 ---
 
-# nobody@eli-remailerEternal Optimist <na26436@anon.penet.fi> (1 posts)
+# nobody<span>@</span>eli-remailerEternal Optimist <na26436<span>@</span>anon.penet.fi> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

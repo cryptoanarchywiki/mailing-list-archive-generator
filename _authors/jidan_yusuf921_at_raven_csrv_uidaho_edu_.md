@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jidan_yusuf921_at_raven_csrv_uidaho_edu_
+post_count: 2
 ---
 
-# Jidan <yusuf921@raven.csrv.uidaho.edu> (2 posts)
+# Jidan <yusuf921<span>@</span>raven.csrv.uidaho.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

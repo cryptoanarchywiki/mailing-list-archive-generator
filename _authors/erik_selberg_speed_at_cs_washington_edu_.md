@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erik_selberg_speed_at_cs_washington_edu_
+post_count: 3
 ---
 
-# Erik Selberg <speed@cs.washington.edu> (3 posts)
+# Erik Selberg <speed<span>@</span>cs.washington.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

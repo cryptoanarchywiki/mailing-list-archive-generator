@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lile_elam_lile_at_art_net_
+post_count: 18
 ---
 
-# Lile Elam <lile@art.net> (18 posts)
+# Lile Elam <lile<span>@</span>art.net> (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

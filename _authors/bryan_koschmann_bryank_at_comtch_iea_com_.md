@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bryan_koschmann_bryank_at_comtch_iea_com_
+post_count: 1
 ---
 
-# Bryan Koschmann <bryank@comtch.iea.com> (1 posts)
+# Bryan Koschmann <bryank<span>@</span>comtch.iea.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

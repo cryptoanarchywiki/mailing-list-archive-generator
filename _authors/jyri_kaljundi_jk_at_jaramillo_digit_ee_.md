@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jyri_kaljundi_jk_at_jaramillo_digit_ee_
+post_count: 1
 ---
 
-# Jyri Kaljundi <jk@jaramillo.digit.ee> (1 posts)
+# Jyri Kaljundi <jk<span>@</span>jaramillo.digit.ee> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_holmberg_dholmbrg_at_ncfcomm_com_
+post_count: 1
 ---
 
-# Doug Holmberg <dholmbrg@ncfcomm.com> (1 posts)
+# Doug Holmberg <dholmbrg<span>@</span>ncfcomm.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

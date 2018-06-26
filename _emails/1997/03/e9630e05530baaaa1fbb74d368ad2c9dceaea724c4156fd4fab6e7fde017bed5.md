@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Toto \<toto@sk.sympatico.ca\><br>
+From: Toto \<toto<span>@</span>sk.sympatico.ca\><br>
 To: sergey@el.net<br>
 Message Hash: e9630e05530baaaa1fbb74d368ad2c9dceaea724c4156fd4fab6e7fde017bed5<br>
 Message ID: \<332DF058.5DF9@sk.sympatico.ca\><br>
@@ -58,6 +58,10 @@ http://bureau42.base.org/public/xenix/xenbody.html
 ## Thread
 
 + Return to [March 1997](/archive/1997/03)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Sergey Goldgaber <sergey<span>@</span>el.net>](/author/sergey_goldgaber_sergey_at_el_net_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-03-16 (Sun, 16 Mar 1997 05:46:24 -0800 (PST)) - [Dark Fiber Redux](/archive/1997/03/3bd8d8a517c63619b343c595f256aaba816a229561b7cbf028506c5a63aabf3c) - _Robert Hettinga \<rah@shipwright.com\>_
   + 1997-03-17 (Mon, 17 Mar 1997 00:06:41 -0800 (PST)) - [Re: Dark Fiber Redux](/archive/1997/03/aa7f95d7dcfac24137b29c54793b18ac706d17f3816ea69f6df995e4f079c1d5) - _Sergey Goldgaber \<sergey@el.net\>_

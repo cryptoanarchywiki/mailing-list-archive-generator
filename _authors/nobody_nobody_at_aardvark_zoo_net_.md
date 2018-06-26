@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_nobody_at_aardvark_zoo_net_
+post_count: 1
 ---
 
-# nobody <nobody@aardvark.zoo.net> (1 posts)
+# nobody <nobody<span>@</span>aardvark.zoo.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

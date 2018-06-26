@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: f_estema_at_alcor_concordia_ca
+post_count: 5
 ---
 
-# f_estema@alcor.concordia.ca (5 posts)
+# f_estema<span>@</span>alcor.concordia.ca (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

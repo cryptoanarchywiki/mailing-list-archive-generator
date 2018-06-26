@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: doumakes@netcom.com (Don Doumakes)<br>
+From: doumakes<span>@</span>netcom.com (Don Doumakes)<br>
 To: Cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: a1f7e08a296a16ccc6e2fbb7fc2d327262ccdeb011a9b65c886de1cfafebc1cf<br>
 Message ID: \<199501071927.LAA09582@netcom20.netcom.com\><br>
@@ -57,6 +57,8 @@ YHzBctPXYt0=
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[doumakes<span>@</span>netcom.com (Don Doumakes)](/author/doumakes_at_netcom_com_don_doumakes_)"
 
 + 1995-01-07 (Sat, 7 Jan 95 11:27:20 PST) - Let's NOT talk about Netcom - _doumakes@netcom.com (Don Doumakes)_
 

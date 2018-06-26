@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: submitsoft_at_premiumproducts_com
+post_count: 1
 ---
 
-# submitsoft@premiumproducts.com (1 posts)
+# submitsoft<span>@</span>premiumproducts.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

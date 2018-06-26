@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chen_at_chen_com_mark_chen_
+post_count: 2
 ---
 
-# chen@chen.com (Mark Chen) (2 posts)
+# chen<span>@</span>chen.com (Mark Chen) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

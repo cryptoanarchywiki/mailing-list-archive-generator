@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: farber_at_central_cis_upenn_edu
+post_count: 1
 ---
 
-# farber@central.cis.upenn.edu (1 posts)
+# farber<span>@</span>central.cis.upenn.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_c_allard_m1tca00_at_frb_gov_
+post_count: 14
 ---
 
-# "Thomas C. Allard" <m1tca00@FRB.GOV> (14 posts)
+# "Thomas C. Allard" <m1tca00<span>@</span>FRB.GOV> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

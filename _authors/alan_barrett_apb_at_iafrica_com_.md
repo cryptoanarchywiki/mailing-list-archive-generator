@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_barrett_apb_at_iafrica_com_
+post_count: 19
 ---
 
-# Alan Barrett <apb@iafrica.com> (19 posts)
+# Alan Barrett <apb<span>@</span>iafrica.com> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

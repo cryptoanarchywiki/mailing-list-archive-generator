@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: strick__henry_strickland_strick_at_versant_com_
+post_count: 22
 ---
 
-# strick -- henry strickland <strick@versant.com> (22 posts)
+# strick -- henry strickland <strick<span>@</span>versant.com> (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

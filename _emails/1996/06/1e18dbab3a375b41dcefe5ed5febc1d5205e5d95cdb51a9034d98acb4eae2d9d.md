@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Raph Levien \<raph@cs.berkeley.edu\><br>
+From: Raph Levien \<raph<span>@</span>cs.berkeley.edu\><br>
 To: Lucky Green \<shamrock@netcom.com\><br>
 Message Hash: 1e18dbab3a375b41dcefe5ed5febc1d5205e5d95cdb51a9034d98acb4eae2d9d<br>
 Message ID: \<31B45529.747B@cs.berkeley.edu\><br>
@@ -68,6 +68,9 @@ Raph
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[Raph Levien <raph<span>@</span>cs.berkeley.edu>](/author/raph_levien_raph_at_cs_berkeley_edu_)"
++ Return to "[shamrock<span>@</span>netcom.com (Lucky Green)](/author/shamrock_at_netcom_com_lucky_green_)"
 
 + 1996-06-04 (Tue, 4 Jun 1996 11:35:42 +0800) - [Re: NRC Session Hiss](/archive/1996/06/0f637f10d9f20d70d5858a5728550c46f40d750e084d4b6306e0a55f4612da13) - _shamrock@netcom.com (Lucky Green)_
   + 1996-06-05 (Wed, 5 Jun 1996 08:59:30 +0800) - S/MIME key sizes - _Raph Levien \<raph@cs.berkeley.edu\>_

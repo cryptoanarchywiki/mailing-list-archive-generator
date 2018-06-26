@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pr_dept_at_submitking_at_keepmailing_com
+post_count: 1
 ---
 
-# PR.Dept.at.SUBMITKING@keepmailing.com (1 posts)
+# PR.Dept.at.SUBMITKING<span>@</span>keepmailing.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

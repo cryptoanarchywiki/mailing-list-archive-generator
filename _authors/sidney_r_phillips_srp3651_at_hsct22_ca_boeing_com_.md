@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sidney_r_phillips_srp3651_at_hsct22_ca_boeing_com_
+post_count: 1
 ---
 
-# "Sidney R. Phillips" <srp3651@hsct22.ca.boeing.com> (1 posts)
+# "Sidney R. Phillips" <srp3651<span>@</span>hsct22.ca.boeing.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

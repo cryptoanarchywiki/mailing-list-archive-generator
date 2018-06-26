@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: beattie_doug_doug_beattie_at_gsc_gte_com_
+post_count: 1
 ---
 
-# "Beattie, Doug" <Doug.Beattie@GSC.GTE.Com> (1 posts)
+# "Beattie, Doug" <Doug.Beattie<span>@</span>GSC.GTE.Com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

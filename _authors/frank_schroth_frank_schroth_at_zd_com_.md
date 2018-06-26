@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frank_schroth_frank_schroth_at_zd_com_
+post_count: 1
 ---
 
-# Frank Schroth <Frank_Schroth@zd.com> (1 posts)
+# Frank Schroth <Frank_Schroth<span>@</span>zd.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

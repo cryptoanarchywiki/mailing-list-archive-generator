@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ratak_jason_e_j_manaigre_ratak_at_escape_ca_
+post_count: 4
 ---
 
-# ratak (Jason E.J. Manaigre) <ratak@escape.ca> (4 posts)
+# ratak (Jason E.J. Manaigre) <ratak<span>@</span>escape.ca> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

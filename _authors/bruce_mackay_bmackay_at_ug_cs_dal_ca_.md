@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_mackay_bmackay_at_ug_cs_dal_ca_
+post_count: 1
 ---
 
-# Bruce MacKay <bmackay@ug.cs.dal.ca> (1 posts)
+# Bruce MacKay <bmackay<span>@</span>ug.cs.dal.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

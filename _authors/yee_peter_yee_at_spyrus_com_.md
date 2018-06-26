@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yee_peter_yee_at_spyrus_com_
+post_count: 1
 ---
 
-# "Yee, Peter" <yee@spyrus.com> (1 posts)
+# "Yee, Peter" <yee<span>@</span>spyrus.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

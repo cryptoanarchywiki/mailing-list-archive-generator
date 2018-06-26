@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: larry_gadallah_larry_at_owrlakh_wl_aecl_ca_
+post_count: 2
 ---
 
-# Larry Gadallah <larry@owrlakh.wl.aecl.ca> (2 posts)
+# Larry Gadallah <larry<span>@</span>owrlakh.wl.aecl.ca> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

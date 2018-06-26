@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeffrey_a_nimmo_janimmo_at_rigel_infonex_com_
+post_count: 2
 ---
 
-# Jeffrey A Nimmo <janimmo@rigel.infonex.com> (2 posts)
+# Jeffrey A Nimmo <janimmo<span>@</span>rigel.infonex.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

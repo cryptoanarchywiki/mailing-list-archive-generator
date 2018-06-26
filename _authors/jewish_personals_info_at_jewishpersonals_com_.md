@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jewish_personals_info_at_jewishpersonals_com_
+post_count: 1
 ---
 
-# Jewish Personals <info@jewishpersonals.com> (1 posts)
+# Jewish Personals <info<span>@</span>jewishpersonals.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

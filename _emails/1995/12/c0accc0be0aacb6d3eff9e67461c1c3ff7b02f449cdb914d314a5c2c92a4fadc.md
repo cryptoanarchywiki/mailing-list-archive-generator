@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Greg Broiles \<greg@ideath.goldenbear.com\><br>
+From: Greg Broiles \<greg<span>@</span>ideath.goldenbear.com\><br>
 To: raph@kiwi.cs.berkeley.edu<br>
 Message Hash: c0accc0be0aacb6d3eff9e67461c1c3ff7b02f449cdb914d314a5c2c92a4fadc<br>
 Message ID: \<199512092345.AA05521@ideath.goldenbear.com\><br>
@@ -59,6 +59,8 @@ W+azO+zC1+k6ozWaGwcCqtgwi2Kmbv/XtCnDbzzQdSI6k0rJFwhbw5rDkxQ4W5sQ
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Greg Broiles <greg<span>@</span>ideath.goldenbear.com>](/author/greg_broiles_greg_at_ideath_goldenbear_com_)"
 
 + 1995-12-10 (Sat, 9 Dec 95 16:25:55 PST) - ideath remailer temporarily down - _Greg Broiles \<greg@ideath.goldenbear.com\>_
 

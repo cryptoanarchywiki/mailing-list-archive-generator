@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_e_riggs_venom_at_kaos_aum_edu_
+post_count: 2
 ---
 
-# "James E. Riggs" <venom@kaos.aum.edu> (2 posts)
+# "James E. Riggs" <venom<span>@</span>kaos.aum.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

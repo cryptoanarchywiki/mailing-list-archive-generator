@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jf_avon_at_citenet_net_jeanfrancois_avon_jfa_technologies_qc_canada_
+post_count: 66
 ---
 
-# jf_avon@citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada)) (66 posts)
+# jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada)) (66 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

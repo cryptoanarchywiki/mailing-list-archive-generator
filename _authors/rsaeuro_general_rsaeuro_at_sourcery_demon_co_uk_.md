@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rsaeuro_general_rsaeuro_at_sourcery_demon_co_uk_
+post_count: 2
 ---
 
-# RSAEuro General <rsaeuro@sourcery.demon.co.uk> (2 posts)
+# RSAEuro General <rsaeuro<span>@</span>sourcery.demon.co.uk> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

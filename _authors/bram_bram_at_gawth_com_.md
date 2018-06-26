@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bram_bram_at_gawth_com_
+post_count: 3
 ---
 
-# bram <bram@gawth.com> (3 posts)
+# bram <bram<span>@</span>gawth.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phiberelic_phreaker_scholars_bellevue_edu_at_ns_ccsn_edu_
+post_count: 34
 ---
 
-# "Phiberelic Phreaker" <scholars.bellevue.edu@ns.ccsn.edu> (34 posts)
+# "Phiberelic Phreaker" <scholars.bellevue.edu<span>@</span>ns.ccsn.edu> (34 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

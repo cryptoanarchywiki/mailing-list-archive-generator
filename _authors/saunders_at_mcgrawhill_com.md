@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: saunders_at_mcgrawhill_com
+post_count: 1
 ---
 
-# saunders@mcgraw-hill.com (1 posts)
+# saunders<span>@</span>mcgraw-hill.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_love_love_at_cptech_org_
+post_count: 17
 ---
 
-# James Love <love@cptech.org> (17 posts)
+# James Love <love<span>@</span>cptech.org> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

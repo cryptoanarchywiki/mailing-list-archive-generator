@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>netcom.com (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 84b1b4c1bbb9c23ebfc1ee14cabe3abb58573d9e2f32fea037757d32afa7fcce<br>
 Message ID: \<199405171835.LAA07062@netcom.com\><br>
@@ -137,6 +137,8 @@ Higher Power: 2^859433 | Public Key: PGP and MailSafe available.
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-05-17 (Tue, 17 May 94 11:35:19 PDT) - Remailer low usage is not surprising - _tcmay@netcom.com (Timothy C. May)_
 

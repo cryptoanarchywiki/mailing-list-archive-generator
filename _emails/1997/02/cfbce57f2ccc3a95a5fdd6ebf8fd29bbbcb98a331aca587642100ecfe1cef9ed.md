@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Moroni \<moroni@scranton.com\><br>
+From: Moroni \<moroni<span>@</span>scranton.com\><br>
 To: Tobin Fricke \<tobin@edm.net\><br>
 Message Hash: cfbce57f2ccc3a95a5fdd6ebf8fd29bbbcb98a331aca587642100ecfe1cef9ed<br>
 Message ID: \<199702130513.VAA29426@toad.com\><br>
@@ -93,6 +93,8 @@ On Wed, 12 Feb 1997, Tobin Fricke wrote:
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Moroni <moroni<span>@</span>scranton.com>](/author/moroni_moroni_at_scranton_com_)"
 
 + 1997-02-13 (Wed, 12 Feb 1997 21:13:30 -0800 (PST)) - Re: NSA Rainbow Series. - _Moroni \<moroni@scranton.com\>_
 

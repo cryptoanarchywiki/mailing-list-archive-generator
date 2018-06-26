@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aba_at_exe_ex_ac_uk
+post_count: 2
 ---
 
-# aba@exe.ex.ac.uk (2 posts)
+# aba<span>@</span>exe.ex.ac.uk (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

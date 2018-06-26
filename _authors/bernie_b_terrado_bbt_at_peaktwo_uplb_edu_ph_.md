@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bernie_b_terrado_bbt_at_peaktwo_uplb_edu_ph_
+post_count: 1
 ---
 
-# "Bernie B. Terrado" <bbt@peak-two.uplb.edu.ph> (1 posts)
+# "Bernie B. Terrado" <bbt<span>@</span>peak-two.uplb.edu.ph> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

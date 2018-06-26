@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_styles_hpengwyn_at_cix_compulink_co_uk_
+post_count: 1
 ---
 
-# John Styles <hpengwyn@cix.compulink.co.uk> (1 posts)
+# John Styles <hpengwyn<span>@</span>cix.compulink.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blake_buzzini_bab282_at_psu_edu_
+post_count: 6
 ---
 
-# "Blake Buzzini" <bab282@psu.edu> (6 posts)
+# "Blake Buzzini" <bab282<span>@</span>psu.edu> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

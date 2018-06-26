@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hendra_halim_mestimas_at_elang_idola_net_id_
+post_count: 2
 ---
 
-# Hendra Halim <mestimas@elang.idola.net.id> (2 posts)
+# Hendra Halim <mestimas<span>@</span>elang.idola.net.id> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

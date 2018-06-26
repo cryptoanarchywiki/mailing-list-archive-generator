@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Horowitz \<alanh@infi.net\><br>
+From: Alan Horowitz \<alanh<span>@</span>infi.net\><br>
 To: ichudov@algebra.com<br>
 Message Hash: 9b5c80504ffea30eb1ad73ad1e04cd3cbbd9fe6e2fb4eb8fd439abb4794a04a5<br>
 Message ID: \<Pine.SV4.3.91.960727120502.18625F-100000@larry.infi.net\><br>
@@ -40,6 +40,10 @@ then you've set yourself inside a rather constrained emotional box, indeed.
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/author/alan_horowitz_alanh_at_infi_net_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-07-27 (Sat, 27 Jul 1996 10:43:14 +0800) - [Re: Bernstein files for partial summary judgement in crypto case](/archive/1996/07/b2ed4ab7f21fe664459b5ad19b8a95ff7f2784e1cc372d99b8c35ea74b8a1863) - _jim bell \<jimbell@pacifier.com\>_
   + 1996-07-27 (Sat, 27 Jul 1996 15:20:25 +0800) - [Re: Bernstein files for partial summary judgement in crypto](/archive/1996/07/a0cf43a92f533524dd09807583d44ea2048bbd8b9de7be084713a8a3441051de) - _ichudov@algebra.com (Igor Chudov @ home)_

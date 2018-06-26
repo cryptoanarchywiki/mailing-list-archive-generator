@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Horowitz \<alanh@infi.net\><br>
+From: Alan Horowitz \<alanh<span>@</span>infi.net\><br>
 To: Rick Campbell \<campbell@c2.org\><br>
 Message Hash: ae5cf9d4e69aefafe2e315706f938b2bbe5e63ace7c18bceab30c89650f8ff8e<br>
 Message ID: \<Pine.SV4.3.91.960819173426.22993K-100000@larry.infi.net\><br>
@@ -38,6 +38,11 @@ I didn't write the message, "I have an Alpha...."
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Alan Horowitz	<alanh<span>@</span>infi.net>](/author/alan_horowitz_alanh_at_infi_net_)"
++ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/author/alan_horowitz_alanh_at_infi_net_)"
++ Return to "[Matthew Carpenter <mcarpent<span>@</span>mailhost.tcs.tulane.edu>](/author/matthew_carpenter_mcarpent_at_mailhost_tcs_tulane_edu_)"
++ Return to "[Rick Campbell <campbell<span>@</span>c2.org>](/author/rick_campbell_campbell_at_c2_org_)"
 
 + 1996-08-19 (Mon, 19 Aug 1996 14:03:06 +0800) - [No Subject](/archive/1996/08/f067e84efef4ef6909a3b2bc5ad8f0718b84e23663982943b821923fe3b6ec93) - _Alan Horowitz	\<alanh@infi.net\>_
   + 1996-08-19 (Tue, 20 Aug 1996 02:21:00 +0800) - [No Subject](/archive/1996/08/7ef3e509de2292e100e7157f3150e40dd565d74bf39ecba1581557f3478244e4) - _Rick Campbell \<campbell@c2.org\>_

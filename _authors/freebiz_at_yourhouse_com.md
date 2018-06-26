@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: freebiz_at_yourhouse_com
+post_count: 1
 ---
 
-# freebiz@yourhouse.com (1 posts)
+# freebiz<span>@</span>yourhouse.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

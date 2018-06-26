@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: landmann_at_facstaff_wisc_edu_thomas_landmann_
+post_count: 2
 ---
 
-# landmann@facstaff.wisc.edu (Thomas Landmann) (2 posts)
+# landmann<span>@</span>facstaff.wisc.edu (Thomas Landmann) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

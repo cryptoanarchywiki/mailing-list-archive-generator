@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_hart_davehart_at_eskimo_com_
+post_count: 2
 ---
 
-# Dave Hart <davehart@eskimo.com> (2 posts)
+# Dave Hart <davehart<span>@</span>eskimo.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

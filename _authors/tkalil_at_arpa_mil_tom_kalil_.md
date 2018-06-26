@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tkalil_at_arpa_mil_tom_kalil_
+post_count: 1
 ---
 
-# tkalil@ARPA.MIL (Tom Kalil) (1 posts)
+# tkalil<span>@</span>ARPA.MIL (Tom Kalil) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cjl_cjl_at_welchlink_welch_jhu_edu_
+post_count: 34
 ---
 
-# cjl <cjl@welchlink.welch.jhu.edu> (34 posts)
+# cjl <cjl<span>@</span>welchlink.welch.jhu.edu> (34 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

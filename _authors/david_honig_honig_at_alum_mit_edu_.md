@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_honig_honig_at_alum_mit_edu_
+post_count: 17
 ---
 
-# David Honig <honig@alum.mit.edu> (17 posts)
+# David Honig <honig<span>@</span>alum.mit.edu> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

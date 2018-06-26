@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_k_merriman_merriman_at_arn_net_
+post_count: 84
 ---
 
-# "David K. Merriman" <merriman@arn.net> (84 posts)
+# "David K. Merriman" <merriman<span>@</span>arn.net> (84 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

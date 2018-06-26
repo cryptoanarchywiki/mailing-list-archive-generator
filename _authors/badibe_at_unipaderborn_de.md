@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: badibe_at_unipaderborn_de
+post_count: 1
 ---
 
-# badibe@uni-paderborn.de (1 posts)
+# badibe<span>@</span>uni-paderborn.de (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

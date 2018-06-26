@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: berezina_at_qed_net_paul_spirito_
+post_count: 11
 ---
 
-# berezina@qed.net (Paul Spirito) (11 posts)
+# berezina<span>@</span>qed.net (Paul Spirito) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

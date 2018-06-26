@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jmdaluz_at_kquest_com_jose_m_daluz_
+post_count: 4
 ---
 
-# jmdaluz@kquest.com (Jose M. daLuz) (4 posts)
+# jmdaluz<span>@</span>kquest.com (Jose M. daLuz) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

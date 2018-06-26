@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8dcacdb5c0cacee476ff24263247c6a3bd74d8eaefc9dcdd2f4a58c6cb408ee1<br>
 Message ID: \<v0300783dae8e1c8ee2d2@[206.119.69.46]\><br>
@@ -88,6 +88,8 @@ The e$ Home Page: http://www.vmeng.com/rah/
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1996-10-19 (Sat, 19 Oct 1996 10:33:40 -0700 (PDT)) - Judge rules "harmless flame" is harassment - _Robert Hettinga \<rah@shipwright.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cypherpunks_at_count04_mry_scruznet_com
+post_count: 11
 ---
 
-# cypherpunks@count04.mry.scruznet.com (11 posts)
+# cypherpunks<span>@</span>count04.mry.scruznet.com (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

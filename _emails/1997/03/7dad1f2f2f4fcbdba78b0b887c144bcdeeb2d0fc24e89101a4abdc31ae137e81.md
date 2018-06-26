@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Toto \<toto@sk.sympatico.ca\><br>
+From: Toto \<toto<span>@</span>sk.sympatico.ca\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7dad1f2f2f4fcbdba78b0b887c144bcdeeb2d0fc24e89101a4abdc31ae137e81<br>
 Message ID: \<333F7949.EB0@sk.sympatico.ca\><br>
@@ -87,6 +87,9 @@ http://bureau42.base.org/public/xenix/xenbody.html
 ## Thread
 
 + Return to [March 1997](/archive/1997/03)
+
++ Return to "[harka<span>@</span>nycmetro.com](/author/harka_at_nycmetro_com)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-03-31 (Sun, 30 Mar 1997 20:05:26 -0800 (PST)) - [Re: National Citizen-Unit](/archive/1997/03/652cf2b36d16f65823076a2816d63492c293eaeed4513f8184017bc9d3463e7f) - _harka@nycmetro.com_
   + 1997-03-31 (Mon, 31 Mar 1997 00:56:47 -0800 (PST)) - Re: National Citizen-Unit - _Toto \<toto@sk.sympatico.ca\>_

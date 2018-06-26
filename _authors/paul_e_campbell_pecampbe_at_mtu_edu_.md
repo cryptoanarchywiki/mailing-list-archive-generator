@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_e_campbell_pecampbe_at_mtu_edu_
+post_count: 2
 ---
 
-# "Paul E. Campbell" <pecampbe@mtu.edu> (2 posts)
+# "Paul E. Campbell" <pecampbe<span>@</span>mtu.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: administrator_administrator_at_dcacints_at_dca_com_by_way_of_john_deters_jad_
+post_count: 1
 ---
 
-# "Administrator" <Administrator_at_DCACINTS@dca.com> (by way of John Deters <jad>) (1 posts)
+# "Administrator" <Administrator_at_DCACINTS<span>@</span>dca.com> (by way of John Deters <jad>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

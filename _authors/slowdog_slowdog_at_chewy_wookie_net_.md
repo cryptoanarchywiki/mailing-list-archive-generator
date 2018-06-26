@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: slowdog_slowdog_at_chewy_wookie_net_
+post_count: 3
 ---
 
-# slowdog <slowdog@chewy.wookie.net> (3 posts)
+# slowdog <slowdog<span>@</span>chewy.wookie.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

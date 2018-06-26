@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jaltarri@lix.intercom.es (josep)<br>
+From: jaltarri<span>@</span>lix.intercom.es (josep)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 61318b3d8807d7fcebd9e6dca3ddfbc1fec24ae460f1d93d07ada0e3adab5f59<br>
 Message ID: \<v02140b00aec20a12e611@[194.179.122.140]\><br>
@@ -39,6 +39,8 @@ unsuscribe cypherpunks jaltarri@lix.intercom.es
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[jaltarri<span>@</span>lix.intercom.es (josep)](/author/jaltarri_at_lix_intercom_es_josep_)"
 
 + 1996-11-27 (Wed, 27 Nov 1996 07:05:40 -0800 (PST)) - No Subject - _jaltarri@lix.intercom.es (josep)_
 

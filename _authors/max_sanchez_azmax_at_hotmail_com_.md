@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: max_sanchez_azmax_at_hotmail_com_
+post_count: 1
 ---
 
-# "Max Sanchez" <azmax@hotmail.com> (1 posts)
+# "Max Sanchez" <azmax<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

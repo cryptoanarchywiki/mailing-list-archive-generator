@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hollyelliott_at_hotmail_com
+post_count: 1
 ---
 
-# hollyelliott@hotmail.com (1 posts)
+# hollyelliott<span>@</span>hotmail.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jack_bzoza_jbzoza_at_io_org_
+post_count: 1
 ---
 
-# Jack Bzoza <jbzoza@io.org> (1 posts)
+# Jack Bzoza <jbzoza<span>@</span>io.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

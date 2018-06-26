@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cfrye_at_mason1_gmu_edu_curtis_d_frye_
+post_count: 16
 ---
 
-# cfrye@mason1.gmu.edu (Curtis D Frye) (16 posts)
+# cfrye<span>@</span>mason1.gmu.edu (Curtis D Frye) (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

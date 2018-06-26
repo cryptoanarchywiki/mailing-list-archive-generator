@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frantz_at_netcom_com_william_s_frantz_
+post_count: 1
 ---
 
-# frantz@netcom.com (William S. Frantz) (1 posts)
+# frantz<span>@</span>netcom.com (William S. Frantz) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

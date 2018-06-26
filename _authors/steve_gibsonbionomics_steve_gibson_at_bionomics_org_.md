@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_gibsonbionomics_steve_gibson_at_bionomics_org_
+post_count: 1
 ---
 
-# Steve Gibson/Bionomics <Steve_Gibson@bionomics.org> (1 posts)
+# Steve Gibson/Bionomics <Steve_Gibson<span>@</span>bionomics.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cpunks_at_algebra_com
+post_count: 11
 ---
 
-# cpunks@algebra.com (11 posts)
+# cpunks<span>@</span>algebra.com (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

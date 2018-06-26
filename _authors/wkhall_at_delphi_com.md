@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wkhall_at_delphi_com
+post_count: 1
 ---
 
-# WKHALL@delphi.com (1 posts)
+# WKHALL<span>@</span>delphi.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_cabana_mth_drcc_at_ultrix_csc_usf_edu_
+post_count: 1
 ---
 
-# David Cabana (MTH) <drcc@ultrix.csc.usf.edu.> (1 posts)
+# David Cabana (MTH) <drcc<span>@</span>ultrix.csc.usf.edu.> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jodi_hoffman_jlhoffm_at_ibm_net_
+post_count: 5
 ---
 
-# Jodi Hoffman <jlhoffm@ibm.net> (5 posts)
+# Jodi Hoffman <jlhoffm<span>@</span>ibm.net> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: declan@well.com (Declan McCullagh)<br>
+From: declan<span>@</span>well.com (Declan McCullagh)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 6a34730da5e55cb8bf080c7fb55e09bbdfcb20b5692bccfeefa999dce2e6ebc4<br>
 Message ID: \<v01510104adf7b1cd7bca@[204.62.128.229]\><br>
@@ -85,6 +85,8 @@ The text of Taylor's amicus brief:
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[declan<span>@</span>well.com (Declan McCullagh)](/author/declan_at_well_com_declan_mccullagh_)"
 
 + 1996-06-27 (Thu, 27 Jun 1996 15:06:17 +0800) - Re: Bruce Taylor at HotWired - _declan@well.com (Declan McCullagh)_
 

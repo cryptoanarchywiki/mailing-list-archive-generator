@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: snow \<snow@smoke.suba.com\><br>
+From: snow \<snow<span>@</span>smoke.suba.com\><br>
 To: jya@pipeline.com (John Young)<br>
 Message Hash: d64c20a8d43dc3f5f551fbdbdbffe5e48c59c2e6baefc2c0dca921cb87a6a1db<br>
 Message ID: \<199704272222.RAA07351@smoke.suba.com\><br>
@@ -53,6 +53,9 @@ clueless anyone?
 ## Thread
 
 + Return to [April 1997](/archive/1997/04)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[snow <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
 
 + 1997-04-24 (Thu, 24 Apr 1997 09:36:21 -0700 (PDT)) - [New Crypto Panel](/archive/1997/04/7de1e837bfd4c667ec8191b4f2b7a83fd540f5e1a4a2abab73d9c9145a873e87) - _John Young \<jya@pipeline.com\>_
   + 1997-04-27 (Sun, 27 Apr 1997 15:22:06 -0700 (PDT)) - Re: New Crypto Panel - _snow \<snow@smoke.suba.com\>_

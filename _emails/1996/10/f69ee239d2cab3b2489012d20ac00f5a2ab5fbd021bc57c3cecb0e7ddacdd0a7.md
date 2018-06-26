@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jya@pipeline.com (John Young)<br>
+From: jya<span>@</span>pipeline.com (John Young)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: f69ee239d2cab3b2489012d20ac00f5a2ab5fbd021bc57c3cecb0e7ddacdd0a7<br>
 Message ID: \<199610022231.WAA11402@pipe3.ny2.usa.pipeline.com\><br>
@@ -176,6 +176,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
 
 + 1996-10-03 (Thu, 3 Oct 1996 10:33:11 +0800) - GAK Rat Pack - _jya@pipeline.com (John Young)_
 

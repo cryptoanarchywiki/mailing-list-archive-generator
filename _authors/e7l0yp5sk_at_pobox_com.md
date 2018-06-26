@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: e7l0yp5sk_at_pobox_com
+post_count: 1
 ---
 
-# e7L0yp5sK@pobox.com (1 posts)
+# e7L0yp5sK<span>@</span>pobox.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

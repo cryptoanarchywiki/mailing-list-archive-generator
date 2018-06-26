@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nicolas_j_hammond_njhm_at_ns_njh_com_
+post_count: 6
 ---
 
-# "Nicolas J. Hammond" <njhm@ns.njh.com> (6 posts)
+# "Nicolas J. Hammond" <njhm<span>@</span>ns.njh.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

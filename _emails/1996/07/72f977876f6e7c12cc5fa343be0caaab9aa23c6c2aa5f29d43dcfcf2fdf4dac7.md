@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: JMKELSEY@delphi.com<br>
+From: JMKELSEY<span>@</span>delphi.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 72f977876f6e7c12cc5fa343be0caaab9aa23c6c2aa5f29d43dcfcf2fdf4dac7<br>
 Message ID: \<01I7GBFL287694F9CD@delphi.com\><br>
@@ -99,6 +99,11 @@ plb/XsYBLLE=
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[David Sternlight <david<span>@</span>sternlight.com>](/author/david_sternlight_david_at_sternlight_com_)"
++ Return to "[JMKELSEY<span>@</span>delphi.com](/author/jmkelsey_at_delphi_com)"
++ Return to "[JonWienk<span>@</span>ix.netcom.com](/author/jonwienk_at_ix_netcom_com)"
++ Return to "[Paul Foley <mycroft<span>@</span>actrix.gen.nz>](/author/paul_foley_mycroft_at_actrix_gen_nz_)"
 
 + 1996-07-24 (Thu, 25 Jul 1996 05:36:31 +0800) - No Subject - _JMKELSEY@delphi.com_
   + 1996-07-26 (Fri, 26 Jul 1996 15:46:23 +0800) - [Defeating "Perp Profile" Analyses Of Written Materials](/archive/1996/07/23a74711fa7bd3f006bb063feed6967f3257aa48c3b652a315de265172fec212) - _JonWienk@ix.netcom.com_

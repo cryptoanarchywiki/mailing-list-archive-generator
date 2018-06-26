@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: n_adao_at_student_iag_ucl_ac_be_adaocruz_nuno_
+post_count: 1
 ---
 
-# n.adao@student.iag.ucl.ac.be (ADAO-CRUZ Nuno) (1 posts)
+# n.adao<span>@</span>student.iag.ucl.ac.be (ADAO-CRUZ Nuno) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

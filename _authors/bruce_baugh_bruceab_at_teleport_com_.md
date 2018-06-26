@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_baugh_bruceab_at_teleport_com_
+post_count: 15
 ---
 
-# Bruce Baugh <bruceab@teleport.com> (15 posts)
+# Bruce Baugh <bruceab<span>@</span>teleport.com> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

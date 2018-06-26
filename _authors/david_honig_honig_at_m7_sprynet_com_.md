@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_honig_honig_at_m7_sprynet_com_
+post_count: 8
 ---
 
-# David Honig <honig@m7.sprynet.com> (8 posts)
+# David Honig <honig<span>@</span>m7.sprynet.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

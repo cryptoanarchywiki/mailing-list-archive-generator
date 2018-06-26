@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Enzo Michelangeli \<enzo@ima.com\><br>
+From: Enzo Michelangeli \<enzo<span>@</span>ima.com\><br>
 To: Andrew Loewenstern \<andrew_loewenstern@il.us.swissbank.com\><br>
 Message Hash: fdf300b32abcff2253d5498ebb7ddfcf51770385b9deb4c0dfaf2de7f4a8d6f3<br>
 Message ID: \<Pine.LNX.3.91.951028163159.21370B-100000@ima.net\><br>
@@ -58,6 +58,9 @@ Enzo
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[Andrew Loewenstern <andrew_loewenstern<span>@</span>il.us.swissbank.com>](/author/andrew_loewenstern_andrew_loewenstern_at_il_us_swissbank_com_)"
++ Return to "[Enzo Michelangeli <enzo<span>@</span>ima.com>](/author/enzo_michelangeli_enzo_at_ima_com_)"
 
 + 1995-10-27 (Sat, 28 Oct 1995 01:55:29 +0800) - [Re: Mark Twain Bank's DigiCash offer](/archive/1995/10/22b74185f278e034a79635ece622d64ad4b7d8a92c6011608c16091c393e3eaf) - _Andrew Loewenstern \<andrew_loewenstern@il.us.swissbank.com\>_
   + 1995-10-28 (Sat, 28 Oct 95 01:30:49 PDT) - Re: Mark Twain Bank's DigiCash offer - _Enzo Michelangeli \<enzo@ima.com\>_

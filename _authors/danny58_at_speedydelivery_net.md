@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: danny58_at_speedydelivery_net
+post_count: 1
 ---
 
-# danny58@speedydelivery.net (1 posts)
+# danny58<span>@</span>speedydelivery.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

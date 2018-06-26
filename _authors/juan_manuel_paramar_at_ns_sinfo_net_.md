@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: juan_manuel_paramar_at_ns_sinfo_net_
+post_count: 1
 ---
 
-# "Juan Manuel" <Paramar@ns.sinfo.net> (1 posts)
+# "Juan Manuel" <Paramar<span>@</span>ns.sinfo.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

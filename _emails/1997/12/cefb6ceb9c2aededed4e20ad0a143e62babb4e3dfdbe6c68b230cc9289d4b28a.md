@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: The Sheriff \<sheriff@speakeasy.org\><br>
+From: The Sheriff \<sheriff<span>@</span>speakeasy.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: cefb6ceb9c2aededed4e20ad0a143e62babb4e3dfdbe6c68b230cc9289d4b28a<br>
 Message ID: \<l03020900b0ba3826dd8d@[209.130.131.50]\><br>
@@ -50,6 +50,8 @@ The Sheriff.
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[The Sheriff <sheriff<span>@</span>speakeasy.org>](/author/the_sheriff_sheriff_at_speakeasy_org_)"
 
 + 1997-12-14 (Sun, 14 Dec 1997 10:44:51 +0800) - replay.com - _The Sheriff \<sheriff@speakeasy.org\>_
 

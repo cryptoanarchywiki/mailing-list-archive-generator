@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c_laffra_laffra_at_watson_ibm_com_
+post_count: 1
 ---
 
-# "C.Laffra" <laffra@watson.ibm.com> (1 posts)
+# "C.Laffra" <laffra<span>@</span>watson.ibm.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

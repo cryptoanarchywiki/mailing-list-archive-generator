@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dr_d_c_williams_dcwill_at_python_ee_unr_edu_
+post_count: 10
 ---
 
-# "Dr. D.C. Williams" <dcwill@python.ee.unr.edu> (10 posts)
+# "Dr. D.C. Williams" <dcwill<span>@</span>python.ee.unr.edu> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

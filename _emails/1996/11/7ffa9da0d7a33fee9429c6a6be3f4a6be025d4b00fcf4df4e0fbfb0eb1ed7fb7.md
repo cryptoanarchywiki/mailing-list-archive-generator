@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jeremiah A Blatz \<jer+@andrew.cmu.edu\><br>
+From: Jeremiah A Blatz \<jer+<span>@</span>andrew.cmu.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7ffa9da0d7a33fee9429c6a6be3f4a6be025d4b00fcf4df4e0fbfb0eb1ed7fb7<br>
 Message ID: \<0mYJac200YUe083co0@andrew.cmu.edu\><br>
@@ -103,6 +103,9 @@ Wp9lXtznFeSZzGwECIGtfJSqphzS53Da
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Jeremiah A Blatz <jer+<span>@</span>andrew.cmu.edu>](/author/jeremiah_a_blatz_jer_at_andrew_cmu_edu_)"
++ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/author/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
 
 + 1996-11-19 (Mon, 18 Nov 1996 17:28:17 -0800 (PST)) - [Re: The Utility of Privacy](/archive/1996/11/b7e711397630f383e17c1f192747a4fde3554fbb8826cce185f5b2c30d92ae84) - _nobody@huge.cajones.com (Huge Cajones Remailer)_
   + 1996-11-19 (Mon, 18 Nov 1996 22:56:13 -0800 (PST)) - Re: The Utility of Privacy - _Jeremiah A Blatz \<jer+@andrew.cmu.edu\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_oelke_at_rdxsunhost_aud_alcatel_com_daniel_r_oelke_
+post_count: 1
 ---
 
-# Dan.Oelke@rdxsunhost.aud.alcatel.com (Daniel R. Oelke) (1 posts)
+# Dan.Oelke<span>@</span>rdxsunhost.aud.alcatel.com (Daniel R. Oelke) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

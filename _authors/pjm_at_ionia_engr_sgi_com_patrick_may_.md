@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pjm_at_ionia_engr_sgi_com_patrick_may_
+post_count: 10
 ---
 
-# pjm@ionia.engr.sgi.com (Patrick May) (10 posts)
+# pjm<span>@</span>ionia.engr.sgi.com (Patrick May) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

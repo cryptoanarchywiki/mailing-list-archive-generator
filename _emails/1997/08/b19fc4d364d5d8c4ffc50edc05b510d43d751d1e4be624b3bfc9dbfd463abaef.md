@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>ssz.com\><br>
 To: cypherpunks@ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: b19fc4d364d5d8c4ffc50edc05b510d43d751d1e4be624b3bfc9dbfd463abaef<br>
 Message ID: \<199708232212.RAA26592@einstein.ssz.com\><br>
@@ -91,6 +91,8 @@ more.
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1997-08-23 (Sun, 24 Aug 1997 06:14:15 +0800) - Re: Inside the Cypherpunks Cult (fwd) - _Jim Choate \<ravage@ssz.com\>_
 

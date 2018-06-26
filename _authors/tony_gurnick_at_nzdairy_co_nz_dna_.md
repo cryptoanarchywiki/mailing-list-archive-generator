@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tony_gurnick_at_nzdairy_co_nz_dna_
+post_count: 18
 ---
 
-# Tony.Gurnick@nzdairy.co.nz (DNA) (18 posts)
+# Tony.Gurnick<span>@</span>nzdairy.co.nz (DNA) (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

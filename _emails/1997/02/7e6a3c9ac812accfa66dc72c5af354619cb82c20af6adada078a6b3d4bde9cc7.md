@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@huge.cajones.com (Huge Cajones Remailer)<br>
+From: nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7e6a3c9ac812accfa66dc72c5af354619cb82c20af6adada078a6b3d4bde9cc7<br>
 Message ID: \<199702100531.VAA10184@mailmasher.com\><br>
@@ -45,6 +45,8 @@ finishes second, third and fifth.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/author/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
 
 + 1997-02-10 (Sun, 9 Feb 1997 21:31:56 -0800 (PST)) - Re: Black English - _nobody@huge.cajones.com (Huge Cajones Remailer)_
 

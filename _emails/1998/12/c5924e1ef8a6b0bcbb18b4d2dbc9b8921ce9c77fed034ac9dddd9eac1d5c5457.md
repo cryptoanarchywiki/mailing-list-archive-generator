@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rivers@twistedtunes.com (Bob Rivers)<br>
+From: rivers<span>@</span>twistedtunes.com (Bob Rivers)<br>
 To: \<cypherpunks@cyberpass.net\><br>
 Message Hash: c5924e1ef8a6b0bcbb18b4d2dbc9b8921ce9c77fed034ac9dddd9eac1d5c5457<br>
 Message ID: \<026ed13180019c8COSWEB2@twistedtunes.com\><br>
@@ -55,6 +55,8 @@ do I got to do to prove it to you?
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[rivers<span>@</span>twistedtunes.com (Bob Rivers)](/author/rivers_at_twistedtunes_com_bob_rivers_)"
 
 + 1998-12-25 (Fri, 25 Dec 1998 10:28:13 +0800) - It's Christmas Time - _rivers@twistedtunes.com (Bob Rivers)_
 

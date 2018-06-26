@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matt_schroth_charles_m_schroth_at_williams_edu_
+post_count: 1
 ---
 
-# Matt Schroth <Charles.M.Schroth@williams.edu> (1 posts)
+# Matt Schroth <Charles.M.Schroth<span>@</span>williams.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

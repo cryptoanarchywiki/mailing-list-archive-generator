@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: microserves_helpdesk_helpdesk_at_admin_microserve_net_
+post_count: 1
 ---
 
-# "MicroServe's HELPDESK" <helpdesk@admin.microserve.net> (1 posts)
+# "MicroServe's HELPDESK" <helpdesk<span>@</span>admin.microserve.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

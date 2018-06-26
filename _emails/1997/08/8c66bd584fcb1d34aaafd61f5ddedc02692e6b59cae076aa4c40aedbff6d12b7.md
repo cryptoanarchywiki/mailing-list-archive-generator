@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Toto \<toto@sk.sympatico.ca\><br>
+From: Toto \<toto<span>@</span>sk.sympatico.ca\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8c66bd584fcb1d34aaafd61f5ddedc02692e6b59cae076aa4c40aedbff6d12b7<br>
 Message ID: \<33EB8A5E.7661@sk.sympatico.ca\><br>
@@ -314,6 +314,9 @@ vicarious pleasure out of reading the posts in his killfile.
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[Paul Bradley <paul<span>@</span>fatmans.demon.co.uk>](/author/paul_bradley_paul_at_fatmans_demon_co_uk_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-08-08 (Sat, 9 Aug 1997 05:59:14 +0800) - The _Really_ Big Lie! - _Toto \<toto@sk.sympatico.ca\>_
   + 1997-08-11 (Mon, 11 Aug 1997 21:04:58 +0800) - [Re: The _Really_ Big Lie!](/archive/1997/08/7a3f030c53fca6f74c6591bd2b298e65ff0d28df1de6ffccc5796f3f9320a372) - _Paul Bradley \<paul@fatmans.demon.co.uk\>_

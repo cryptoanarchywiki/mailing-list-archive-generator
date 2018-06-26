@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cristian_schipor_skipo_at_sundy_cs_pub_ro_
+post_count: 6
 ---
 
-# Cristian SCHIPOR <skipo@sundy.cs.pub.ro> (6 posts)
+# Cristian SCHIPOR <skipo<span>@</span>sundy.cs.pub.ro> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: habs_at_acf3_nyu_edu_harry_a_b_shapiro_
+post_count: 2
 ---
 
-# habs@acf3.NYU.EDU (Harry A. B. Shapiro) (2 posts)
+# habs<span>@</span>acf3.NYU.EDU (Harry A. B. Shapiro) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

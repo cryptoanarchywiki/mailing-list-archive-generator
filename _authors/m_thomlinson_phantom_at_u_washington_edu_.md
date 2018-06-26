@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m_thomlinson_phantom_at_u_washington_edu_
+post_count: 1
 ---
 
-# "M. Thomlinson" <phantom@u.washington.edu> (1 posts)
+# "M. Thomlinson" <phantom<span>@</span>u.washington.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

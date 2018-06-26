@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dmandl_at_panix_com_david_mandl_
+post_count: 35
 ---
 
-# dmandl@panix.com (David Mandl) (35 posts)
+# dmandl<span>@</span>panix.com (David Mandl) (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

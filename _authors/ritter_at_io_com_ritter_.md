@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ritter_at_io_com_ritter_
+post_count: 1
 ---
 
-# ritter@IO.COM (ritter) (1 posts)
+# ritter<span>@</span>IO.COM (ritter) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

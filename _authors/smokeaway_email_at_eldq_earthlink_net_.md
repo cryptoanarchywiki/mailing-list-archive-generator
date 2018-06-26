@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: smokeaway_email_at_eldq_earthlink_net_
+post_count: 1
 ---
 
-# "Smoke-Away"<EMAIL@ELDQ.Earthlink.net> (1 posts)
+# "Smoke-Away"<EMAIL<span>@</span>ELDQ.Earthlink.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

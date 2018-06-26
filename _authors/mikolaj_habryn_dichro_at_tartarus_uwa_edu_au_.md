@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mikolaj_habryn_dichro_at_tartarus_uwa_edu_au_
+post_count: 23
 ---
 
-# Mikolaj Habryn <dichro@tartarus.uwa.edu.au> (23 posts)
+# Mikolaj Habryn <dichro<span>@</span>tartarus.uwa.edu.au> (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

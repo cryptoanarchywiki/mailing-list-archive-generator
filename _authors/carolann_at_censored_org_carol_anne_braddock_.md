@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carolann_at_censored_org_carol_anne_braddock_
+post_count: 1
 ---
 
-# carolann@censored.org (Carol Anne Braddock) (1 posts)
+# carolann<span>@</span>censored.org (Carol Anne Braddock) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

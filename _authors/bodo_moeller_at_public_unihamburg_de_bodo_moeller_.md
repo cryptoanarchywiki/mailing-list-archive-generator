@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bodo_moeller_at_public_unihamburg_de_bodo_moeller_
+post_count: 4
 ---
 
-# Bodo_Moeller@public.uni-hamburg.de (Bodo Moeller) (4 posts)
+# Bodo_Moeller<span>@</span>public.uni-hamburg.de (Bodo Moeller) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

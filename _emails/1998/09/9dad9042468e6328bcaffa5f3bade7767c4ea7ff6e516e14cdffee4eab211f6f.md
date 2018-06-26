@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: sales@galaxyhp.com<br>
+From: sales<span>@</span>galaxyhp.com<br>
 To: _N/A_<br>
 Message Hash: 9dad9042468e6328bcaffa5f3bade7767c4ea7ff6e516e14cdffee4eab211f6f<br>
 Message ID: \<199809271902.MAA21566@toad.com\><br>
@@ -96,6 +96,8 @@ GALAXY Hardware - 5075 Nectar Way - Eugene OR 97405
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[sales<span>@</span>galaxyhp.com](/author/sales_at_galaxyhp_com)"
 
 + 1998-09-27 (Sun, 27 Sep 1998 12:03:19 -0700 (PDT)) - Medical Equipment - _sales@galaxyhp.com_
 

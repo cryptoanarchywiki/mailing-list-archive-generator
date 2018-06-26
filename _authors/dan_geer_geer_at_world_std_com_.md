@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_geer_geer_at_world_std_com_
+post_count: 4
 ---
 
-# Dan Geer <geer@world.std.com> (4 posts)
+# Dan Geer <geer<span>@</span>world.std.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

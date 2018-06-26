@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c331673lbvm6_profs_at_mdcgwy_mdc_com
+post_count: 1
 ---
 
-# C331673%LBVM6.profs@mdcgwy.mdc.com (1 posts)
+# C331673%LBVM6.profs<span>@</span>mdcgwy.mdc.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

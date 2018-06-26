@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Brian A. LaMacchia \<bal@martigny.ai.mit.edu\><br>
+From: Brian A. LaMacchia \<bal<span>@</span>martigny.ai.mit.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4579d5afe64b1f213c1219fdd3cfcbb0ab6cd6dba7bbd4540e65c3e1b37cee4a<br>
 Message ID: \<9409170422.AA11092@toad.com\><br>
@@ -61,6 +61,8 @@ remailer at jpunix.com.
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[Brian A. LaMacchia <bal<span>@</span>martigny.ai.mit.edu>](/author/brian_a_lamacchia_bal_at_martigny_ai_mit_edu_)"
 
 + 1994-09-17 (Fri, 16 Sep 94 21:22:13 PDT) - NYT/Markoff article on RC4 - _Brian A. LaMacchia \<bal@martigny.ai.mit.edu\>_
 

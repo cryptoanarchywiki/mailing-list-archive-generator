@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: niehs_autoresponder_usenet_at_jeeves_niehs_nih_gov_
+post_count: 1
 ---
 
-# NIEHS Autoresponder <usenet@jeeves.niehs.nih.gov> (1 posts)
+# NIEHS Autoresponder <usenet<span>@</span>jeeves.niehs.nih.gov> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

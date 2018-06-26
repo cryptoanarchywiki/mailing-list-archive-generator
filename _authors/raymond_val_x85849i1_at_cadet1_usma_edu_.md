@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: raymond_val_x85849i1_at_cadet1_usma_edu_
+post_count: 1
 ---
 
-# "Raymond Val" <x85849i1@cadet1.USMA.EDU> (1 posts)
+# "Raymond Val" <x85849i1<span>@</span>cadet1.USMA.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

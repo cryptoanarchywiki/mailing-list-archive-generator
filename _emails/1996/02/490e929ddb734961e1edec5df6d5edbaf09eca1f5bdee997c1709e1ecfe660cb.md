@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. ALLEN SMITH" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 490e929ddb734961e1edec5df6d5edbaf09eca1f5bdee997c1709e1ecfe660cb<br>
 Message ID: \<01I1EB3MZ2BEA0V4SL@mbcl.rutgers.edu\><br>
@@ -198,6 +198,8 @@ within the Pentagon.
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-02-19 (Tue, 20 Feb 1996 02:04:14 +0800) - Pentagon net-trolling (from RRE) - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

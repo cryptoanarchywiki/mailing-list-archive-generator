@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sean_at_gomez_jpl_nasa_gov_sean_barrett_
+post_count: 2
 ---
 
-# sean@gomez.Jpl.Nasa.Gov (Sean Barrett) (2 posts)
+# sean<span>@</span>gomez.Jpl.Nasa.Gov (Sean Barrett) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

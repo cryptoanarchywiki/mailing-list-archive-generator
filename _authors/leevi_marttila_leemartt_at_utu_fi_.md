@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: leevi_marttila_leemartt_at_utu_fi_
+post_count: 1
 ---
 
-# Leevi Marttila <leemartt@utu.fi> (1 posts)
+# Leevi Marttila <leemartt<span>@</span>utu.fi> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

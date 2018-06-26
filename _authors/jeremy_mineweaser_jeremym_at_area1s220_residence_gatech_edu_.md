@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremy_mineweaser_jeremym_at_area1s220_residence_gatech_edu_
+post_count: 6
 ---
 
-# Jeremy Mineweaser <Jeremym@area1s220.residence.gatech.edu> (6 posts)
+# Jeremy Mineweaser <Jeremym<span>@</span>area1s220.residence.gatech.edu> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

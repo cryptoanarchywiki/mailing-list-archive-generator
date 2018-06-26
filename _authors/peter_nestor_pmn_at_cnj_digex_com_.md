@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_nestor_pmn_at_cnj_digex_com_
+post_count: 1
 ---
 
-# Peter Nestor <pmn@cnj.digex.com> (1 posts)
+# Peter Nestor <pmn<span>@</span>cnj.digex.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

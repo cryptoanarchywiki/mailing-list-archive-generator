@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nyuan_at_husc_harvard_edu_nina_yuan_
+post_count: 1
 ---
 
-# nyuan@husc.harvard.edu (Nina Yuan) (1 posts)
+# nyuan<span>@</span>husc.harvard.edu (Nina Yuan) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

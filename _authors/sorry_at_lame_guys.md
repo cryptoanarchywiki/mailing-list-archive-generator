@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sorry_at_lame_guys
+post_count: 1
 ---
 
-# sorry@lame.guys (1 posts)
+# sorry<span>@</span>lame.guys (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

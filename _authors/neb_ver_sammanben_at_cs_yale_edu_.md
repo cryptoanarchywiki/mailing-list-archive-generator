@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: neb_ver_sammanben_at_cs_yale_edu_
+post_count: 1
 ---
 
-# "neB .veR" <samman-ben@CS.YALE.EDU> (1 posts)
+# "neB .veR" <samman-ben<span>@</span>CS.YALE.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mgraffam_at_mhv_net
+post_count: 33
 ---
 
-# mgraffam@mhv.net (33 posts)
+# mgraffam<span>@</span>mhv.net (33 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

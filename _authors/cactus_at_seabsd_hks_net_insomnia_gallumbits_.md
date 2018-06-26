@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cactus_at_seabsd_hks_net_insomnia_gallumbits_
+post_count: 1
 ---
 
-# cactus@seabsd.hks.net (Insomnia Gallumbits) (1 posts)
+# cactus<span>@</span>seabsd.hks.net (Insomnia Gallumbits) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

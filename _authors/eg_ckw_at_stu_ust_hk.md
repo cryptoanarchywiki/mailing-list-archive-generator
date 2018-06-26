@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eg_ckw_at_stu_ust_hk
+post_count: 1
 ---
 
-# eg_ckw@stu.ust.hk (1 posts)
+# eg_ckw<span>@</span>stu.ust.hk (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

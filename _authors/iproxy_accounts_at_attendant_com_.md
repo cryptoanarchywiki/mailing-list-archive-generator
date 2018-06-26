@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iproxy_accounts_at_attendant_com_
+post_count: 1
 ---
 
-# Iproxy <accounts@attendant.com> (1 posts)
+# Iproxy <accounts<span>@</span>attendant.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

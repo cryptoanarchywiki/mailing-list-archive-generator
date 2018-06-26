@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wayne_clerke_wclerke_at_emirates_net_ae_
+post_count: 10
 ---
 
-# "wayne clerke" <wclerke@emirates.net.ae> (10 posts)
+# "wayne clerke" <wclerke<span>@</span>emirates.net.ae> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

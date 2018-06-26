@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_molnar_bigdaddy_at_shell_skylink_net_
+post_count: 2
 ---
 
-# David Molnar <bigdaddy@shell.skylink.net> (2 posts)
+# David Molnar <bigdaddy<span>@</span>shell.skylink.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

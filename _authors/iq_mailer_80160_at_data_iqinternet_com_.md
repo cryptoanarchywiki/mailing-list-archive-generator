@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iq_mailer_80160_at_data_iqinternet_com_
+post_count: 1
 ---
 
-# IQ Mailer <80160@data.iq-internet.com> (1 posts)
+# IQ Mailer <80160<span>@</span>data.iq-internet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

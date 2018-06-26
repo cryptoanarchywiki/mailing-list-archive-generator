@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: PAPAMICHAIL \<72133.1415@CompuServe.COM\><br>
+From: PAPAMICHAIL \<72133.1415<span>@</span>CompuServe.COM\><br>
 To: Cyphertechs \<cypherpunks@toad.com\><br>
 Message Hash: bf2861c465fd4165cbc54a32b64bbbd4277dc4f949cea6bfd64c0ebdbd9faf7e<br>
 Message ID: \<940414181530_72133.1415_FHF70-1@CompuServe.COM\><br>
@@ -44,6 +44,8 @@ Thanks - ERB
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[PAPAMICHAIL <72133.1415<span>@</span>CompuServe.COM>](/author/papamichail_72133_1415_at_compuserve_com_)"
 
 + 1994-04-14 (Thu, 14 Apr 94 11:19:08 PDT) - Re: Need info re Clipper/encryptions - _PAPAMICHAIL \<72133.1415@CompuServe.COM\>_
 

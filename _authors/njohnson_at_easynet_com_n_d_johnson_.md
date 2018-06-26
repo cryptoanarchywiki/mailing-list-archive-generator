@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: njohnson_at_easynet_com_n_d_johnson_
+post_count: 1
 ---
 
-# njohnson@easynet.com (N. D. Johnson) (1 posts)
+# njohnson<span>@</span>easynet.com (N. D. Johnson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

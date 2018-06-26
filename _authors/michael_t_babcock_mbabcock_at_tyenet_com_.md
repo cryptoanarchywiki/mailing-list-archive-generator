@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_t_babcock_mbabcock_at_tyenet_com_
+post_count: 6
 ---
 
-# "Michael T. Babcock" <mbabcock@tyenet.com> (6 posts)
+# "Michael T. Babcock" <mbabcock<span>@</span>tyenet.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

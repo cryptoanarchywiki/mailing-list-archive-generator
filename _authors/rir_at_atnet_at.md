@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rir_at_atnet_at
+post_count: 1
 ---
 
-# rir@atnet.at (1 posts)
+# rir<span>@</span>atnet.at (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

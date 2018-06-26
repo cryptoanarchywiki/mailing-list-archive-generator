@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: declan_mccullagh_declan_at_eff_org_
+post_count: 121
 ---
 
-# Declan McCullagh <declan@eff.org> (121 posts)
+# Declan McCullagh <declan<span>@</span>eff.org> (121 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

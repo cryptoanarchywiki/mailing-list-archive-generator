@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hans_guenter_weigand_hgweigand_at_wiesbaden_netsurf_de_
+post_count: 1
 ---
 
-# Hans Guenter Weigand <hgweigand@wiesbaden.netsurf.de> (1 posts)
+# Hans Guenter Weigand <hgweigand<span>@</span>wiesbaden.netsurf.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

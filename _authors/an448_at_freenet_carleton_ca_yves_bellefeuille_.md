@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an448_at_freenet_carleton_ca_yves_bellefeuille_
+post_count: 2
 ---
 
-# an448@freenet.carleton.ca (Yves Bellefeuille) (2 posts)
+# an448<span>@</span>freenet.carleton.ca (Yves Bellefeuille) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

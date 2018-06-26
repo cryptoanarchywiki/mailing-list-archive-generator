@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: visentin_at_imdwd01_milano_italtel_it
+post_count: 1
 ---
 
-# visentin@imdwd01.milano.italtel.it (1 posts)
+# visentin<span>@</span>imdwd01.milano.italtel.it (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

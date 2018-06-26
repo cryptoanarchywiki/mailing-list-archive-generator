@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dale Thorn \<dthorn@gte.net\><br>
+From: Dale Thorn \<dthorn<span>@</span>gte.net\><br>
 To: snow \<snow@smoke.suba.com\><br>
 Message Hash: fa1bf0b6ca22b1ada0a7d4ca2b7329b6219ea5e4daa59c2fb77f1af71e162efe<br>
 Message ID: \<199702191726.JAA27081@toad.com\><br>
@@ -55,6 +55,8 @@ how, when you switch the peer groups, you reverse the decisions.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
 
 + 1997-02-19 (Wed, 19 Feb 1997 09:26:44 -0800 (PST)) - Re: Constitution and a Right to Privacy - _Dale Thorn \<dthorn@gte.net\>_
 

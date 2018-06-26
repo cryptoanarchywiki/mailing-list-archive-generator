@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: frantz@netcom.com (Bill Frantz)<br>
+From: frantz<span>@</span>netcom.com (Bill Frantz)<br>
 To: Alan Horowitz \<alanh@infi.net\><br>
 Message Hash: ef8cfad73c7b7ffdf4fffebc26a880bb130e2d22fa854cda4f74a6fd6c478aac<br>
 Message ID: \<199608210220.TAA19927@netcom8.netcom.com\><br>
@@ -60,6 +60,9 @@ frantz@netcom.com |   book]  - Anonymous Latin | Los Gatos, CA 95032, USA
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/author/frantz_at_netcom_com_bill_frantz_)"
++ Return to "[Rich Graves <rich<span>@</span>c2.org>](/author/rich_graves_rich_at_c2_org_)"
 
 + 1996-08-21 (Wed, 21 Aug 1996 12:59:34 +0800) - Re: "Utilization Review" - _frantz@netcom.com (Bill Frantz)_
   + 1996-08-21 (Wed, 21 Aug 1996 16:15:16 +0800) - [Re: "Utilization Review"](/archive/1996/08/9f7f5faafd7d6ec73bcc5bb21643371e54de7e31e5c964e227b2b78f7b809860) - _Rich Graves \<rich@c2.org\>_

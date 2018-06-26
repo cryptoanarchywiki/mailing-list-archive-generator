@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kang_meng_chow_mckang_at_solomon_technet_sg_
+post_count: 2
 ---
 
-# Kang Meng Chow <mckang@solomon.technet.sg> (2 posts)
+# Kang Meng Chow <mckang<span>@</span>solomon.technet.sg> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

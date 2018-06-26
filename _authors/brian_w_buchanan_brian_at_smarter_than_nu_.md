@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_w_buchanan_brian_at_smarter_than_nu_
+post_count: 11
 ---
 
-# "Brian W. Buchanan" <brian@smarter.than.nu> (11 posts)
+# "Brian W. Buchanan" <brian<span>@</span>smarter.than.nu> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

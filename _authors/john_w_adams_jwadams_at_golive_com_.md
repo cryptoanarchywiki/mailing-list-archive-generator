@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_w_adams_jwadams_at_golive_com_
+post_count: 1
 ---
 
-# "John W. Adams"<jwadams@golive.com> (1 posts)
+# "John W. Adams"<jwadams<span>@</span>golive.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

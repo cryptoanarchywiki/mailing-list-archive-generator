@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_ritter_dritter_at_bbnplanet_com_
+post_count: 2
 ---
 
-# Dan Ritter <dritter@bbnplanet.com> (2 posts)
+# Dan Ritter <dritter<span>@</span>bbnplanet.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

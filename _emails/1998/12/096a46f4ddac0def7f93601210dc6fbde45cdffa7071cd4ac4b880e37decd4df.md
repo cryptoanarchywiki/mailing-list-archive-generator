@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Frederick Burroughs \<riburr@shentel.net\><br>
+From: Frederick Burroughs \<riburr<span>@</span>shentel.net\><br>
 To: Cypherpunks \<cypherpunks@ns.minder.net\><br>
 Message Hash: 096a46f4ddac0def7f93601210dc6fbde45cdffa7071cd4ac4b880e37decd4df<br>
 Message ID: \<36838BA9.1BE2E8DF@shentel.net\><br>
@@ -57,6 +57,10 @@ spin like slot machines that pay out every spin. We'd be stupid not to play.
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[Frederick Burroughs <riburr<span>@</span>shentel.net>](/author/frederick_burroughs_riburr_at_shentel_net_)"
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Reeza! <howree<span>@</span>cable.navy.mil>](/author/reeza_howree_at_cable_navy_mil_)"
 
 + 1998-12-25 (Fri, 25 Dec 1998 12:02:45 +0800) - [Forwarded mail...](/archive/1998/12/0f4c866867f6badb1e3b09dc6a3e709bb3e1ebd75b1d1bb62670f113ca06ab54) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
   + 1998-12-25 (Fri, 25 Dec 1998 17:41:37 +0800) - [Re: Forwarded mail...](/archive/1998/12/b22e29d1b7dfe249ccf56c8183ff42c5344fef122658486d6922f461affdf51b) - _Reeza! \<howree@cable.navy.mil\>_

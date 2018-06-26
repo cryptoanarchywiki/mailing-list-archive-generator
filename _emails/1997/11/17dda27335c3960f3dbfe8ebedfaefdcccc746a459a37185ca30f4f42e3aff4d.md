@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ian Grigg \<iang@systemics.com\><br>
+From: Ian Grigg \<iang<span>@</span>systemics.com\><br>
 To: Robert Hettinga \<rah@shipwright.com\><br>
 Message Hash: 17dda27335c3960f3dbfe8ebedfaefdcccc746a459a37185ca30f4f42e3aff4d<br>
 Message ID: \<34611C3B.60ACCF02@systemics.com\><br>
@@ -63,6 +63,19 @@ FP: 1189 4417 F202 5DBD  5DF3 4FCD 3685 FDDE on pgp.com
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
++ Return to "[Eric Young <eay<span>@</span>cryptsoft.com>](/author/eric_young_eay_at_cryptsoft_com_)"
++ Return to "[Ian Grigg <iang<span>@</span>systemics.com>](/author/ian_grigg_iang_at_systemics_com_)"
++ Return to "["John Kelsey" <kelsey<span>@</span>plnet.net>](/author/john_kelsey_kelsey_at_plnet_net_)"
++ Return to "[Lucky Green <shamrock<span>@</span>cypherpunks.to>](/author/lucky_green_shamrock_at_cypherpunks_to_)"
++ Return to "[Marc Horowitz <marc<span>@</span>cygnus.com>](/author/marc_horowitz_marc_at_cygnus_com_)"
++ Return to "["R. Jason Cronk" <listmanager<span>@</span>orange.redmans.com>](/author/r_jason_cronk_listmanager_at_orange_redmans_com_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Ryan Anderson <ryan<span>@</span>michonline.com>](/author/ryan_anderson_ryan_at_michonline_com_)"
++ Return to "[Steve Schear <schear<span>@</span>lvdi.net>](/author/steve_schear_schear_at_lvdi_net_)"
++ Return to "[Steve Schear <steve<span>@</span>lvdi.net>](/author/steve_schear_steve_at_lvdi_net_)"
 
 + 1997-11-02 (Mon, 3 Nov 1997 02:11:21 +0800) - [Copyright commerce and the street musician protocol](/archive/1997/11/1699662ddaea76dc4ad0033fd9f1788957390923d2386ff384facca5e2c44c5c) - _"John Kelsey" \<kelsey@plnet.net\>_
   + 1997-11-03 (Mon, 3 Nov 1997 08:34:01 +0800) - [Re: Copyright commerce and the street musician protocol](/archive/1997/11/8a0b3c93ee7edb01d04f961d747e4a5accdaff79cfe6b682ecfed20d3938ec7c) - _Steve Schear \<steve@lvdi.net\>_

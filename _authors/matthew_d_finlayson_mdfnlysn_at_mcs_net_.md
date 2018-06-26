@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_d_finlayson_mdfnlysn_at_mcs_net_
+post_count: 2
 ---
 
-# "Matthew D. Finlayson" <mdfnlysn@Mcs.Net> (2 posts)
+# "Matthew D. Finlayson" <mdfnlysn<span>@</span>Mcs.Net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

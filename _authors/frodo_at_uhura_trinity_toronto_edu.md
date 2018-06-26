@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frodo_at_uhura_trinity_toronto_edu
+post_count: 1
 ---
 
-# FRODO@uhura.trinity.toronto.edu (1 posts)
+# FRODO<span>@</span>uhura.trinity.toronto.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

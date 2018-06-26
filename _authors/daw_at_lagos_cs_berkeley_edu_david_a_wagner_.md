@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daw_at_lagos_cs_berkeley_edu_david_a_wagner_
+post_count: 5
 ---
 
-# daw@lagos.CS.Berkeley.EDU (David A Wagner) (5 posts)
+# daw<span>@</span>lagos.CS.Berkeley.EDU (David A Wagner) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

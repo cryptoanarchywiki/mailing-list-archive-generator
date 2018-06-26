@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: cfrye@ciis.mitre.org (Curtis D. Frye)<br>
+From: cfrye<span>@</span>ciis.mitre.org (Curtis D. Frye)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: db92b2deb46d13fec6ca9bf7976b08fade95af0f2975692b027e0faaddfc1b5f<br>
 Message ID: \<9404071951.AA28308@ciis.mitre.org\><br>
@@ -53,6 +53,8 @@ cfrye@ciis.mitre.org or cfrye@mason1.gmu.edu
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[cfrye<span>@</span>ciis.mitre.org (Curtis D. Frye)](/author/cfrye_at_ciis_mitre_org_curtis_d_frye_)"
 
 + 1994-04-07 (Thu, 7 Apr 94 12:42:47 PDT) - Re: I'm a little surprised - _cfrye@ciis.mitre.org (Curtis D. Frye)_
 

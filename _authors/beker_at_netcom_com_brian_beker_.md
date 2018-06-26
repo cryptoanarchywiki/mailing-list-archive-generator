@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: beker_at_netcom_com_brian_beker_
+post_count: 1
 ---
 
-# beker@netcom.com (Brian Beker) (1 posts)
+# beker<span>@</span>netcom.com (Brian Beker) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shadow_swalters_at_freenet3_scri_fsu_edu_
+post_count: 2
 ---
 
-# Shadow <swalters@freenet3.scri.fsu.edu> (2 posts)
+# Shadow <swalters<span>@</span>freenet3.scri.fsu.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

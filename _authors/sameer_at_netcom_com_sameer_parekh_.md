@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sameer_at_netcom_com_sameer_parekh_
+post_count: 13
 ---
 
-# sameer@netcom.com (Sameer Parekh) (13 posts)
+# sameer<span>@</span>netcom.com (Sameer Parekh) (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

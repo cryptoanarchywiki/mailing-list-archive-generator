@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ian_goldberg_iang_at_cory_eecs_berkeley_edu_
+post_count: 6
 ---
 
-# Ian Goldberg <iang@cory.EECS.Berkeley.EDU> (6 posts)
+# Ian Goldberg <iang<span>@</span>cory.EECS.Berkeley.EDU> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_watson_dwatson_at_deltanet_com_
+post_count: 1
 ---
 
-# "Dave Watson" <dwatson@deltanet.com> (1 posts)
+# "Dave Watson" <dwatson<span>@</span>deltanet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

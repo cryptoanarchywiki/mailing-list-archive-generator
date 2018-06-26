@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wolfgang_diemert_diem_at_bk_bosch_de_
+post_count: 1
 ---
 
-# Wolfgang Diemert <diem@bk.bosch.de> (1 posts)
+# Wolfgang Diemert <diem<span>@</span>bk.bosch.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

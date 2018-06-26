@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wixerjonl_at_bigtex_cactus_org_jon_lebkowsky_
+post_count: 1
 ---
 
-# wixer!jonl@bigtex.cactus.org (Jon Lebkowsky) (1 posts)
+# wixer!jonl<span>@</span>bigtex.cactus.org (Jon Lebkowsky) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

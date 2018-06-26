@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: goldberg_at_eit_com_carole_goldberg_
+post_count: 1
 ---
 
-# Goldberg@eit.com (Carole Goldberg) (1 posts)
+# Goldberg<span>@</span>eit.com (Carole Goldberg) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

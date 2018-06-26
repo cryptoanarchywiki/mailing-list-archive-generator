@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shawn_leas_sleas_at_d_umn_edu_
+post_count: 5
 ---
 
-# shawn leas <sleas@d.umn.edu> (5 posts)
+# shawn leas <sleas<span>@</span>d.umn.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

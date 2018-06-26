@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qut_at_netcom_com_skip_obc_
+post_count: 1
 ---
 
-# qut@netcom.com (Skip, OBC) (1 posts)
+# qut<span>@</span>netcom.com (Skip, OBC) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

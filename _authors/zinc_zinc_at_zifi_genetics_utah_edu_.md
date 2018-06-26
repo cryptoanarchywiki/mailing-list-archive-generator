@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zinc_zinc_at_zifi_genetics_utah_edu_
+post_count: 40
 ---
 
-# zinc <zinc@zifi.genetics.utah.edu> (40 posts)
+# zinc <zinc<span>@</span>zifi.genetics.utah.edu> (40 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

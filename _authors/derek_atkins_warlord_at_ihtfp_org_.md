@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: derek_atkins_warlord_at_ihtfp_org_
+post_count: 1
 ---
 
-# Derek Atkins <warlord@ihtfp.org> (1 posts)
+# Derek Atkins <warlord<span>@</span>ihtfp.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

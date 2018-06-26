@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_a_thomas_b858jt_at_utarlvm1_uta_edu_
+post_count: 3
 ---
 
-# "John A. Thomas" <B858JT@UTARLVM1.UTA.EDU> (3 posts)
+# "John A. Thomas" <B858JT<span>@</span>UTARLVM1.UTA.EDU> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

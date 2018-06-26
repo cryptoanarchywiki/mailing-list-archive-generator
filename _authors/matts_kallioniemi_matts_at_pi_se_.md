@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matts_kallioniemi_matts_at_pi_se_
+post_count: 20
 ---
 
-# Matts Kallioniemi <matts@pi.se> (20 posts)
+# Matts Kallioniemi <matts<span>@</span>pi.se> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

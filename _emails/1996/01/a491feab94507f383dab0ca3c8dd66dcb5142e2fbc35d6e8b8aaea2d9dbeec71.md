@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: markh@wimsey.bc.ca (Mark C. Henderson)<br>
+From: markh<span>@</span>wimsey.bc.ca (Mark C. Henderson)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a491feab94507f383dab0ca3c8dd66dcb5142e2fbc35d6e8b8aaea2d9dbeec71<br>
 Message ID: \<m0tWs3h-000A4QC@vanbc.wimsey.com\><br>
@@ -61,6 +61,8 @@ ftp://ftp.wimsey.com/pub/crypto/sun-stuff/change-sun-hostid-1.6.1.tar.gz
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[markh<span>@</span>wimsey.bc.ca (Mark C. Henderson)](/author/markh_at_wimsey_bc_ca_mark_c_henderson_)"
 
 + 1996-01-01 (Tue, 2 Jan 1996 06:36:54 +0800) - Re: Canadian Cypherpunks [NOISE] - _markh@wimsey.bc.ca (Mark C. Henderson)_
 

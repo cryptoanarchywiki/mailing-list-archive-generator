@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: attila_attila_at_primenet_com_
+post_count: 189
 ---
 
-# attila <attila@primenet.com> (189 posts)
+# attila <attila<span>@</span>primenet.com> (189 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

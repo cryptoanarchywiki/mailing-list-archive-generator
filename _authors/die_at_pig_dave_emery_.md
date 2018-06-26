@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: die_at_pig_dave_emery_
+post_count: 1
 ---
 
-# die@pig (Dave Emery) (1 posts)
+# die<span>@</span>pig (Dave Emery) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

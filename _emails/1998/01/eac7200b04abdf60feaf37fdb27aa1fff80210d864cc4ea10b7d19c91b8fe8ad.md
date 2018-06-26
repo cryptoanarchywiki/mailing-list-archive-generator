@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>ssz.com\><br>
 To: cypherpunks@ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: eac7200b04abdf60feaf37fdb27aa1fff80210d864cc4ea10b7d19c91b8fe8ad<br>
 Message ID: \<199801262346.RAA30042@einstein.ssz.com\><br>
@@ -62,6 +62,8 @@ allow time stamping the frame with a signed reference that could be checked.
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-01-26 (Tue, 27 Jan 1998 07:58:06 +0800) - Signing video... - _Jim Choate \<ravage@ssz.com\>_
 

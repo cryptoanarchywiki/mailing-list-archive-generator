@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nobody@replay.com\><br>
+From: Anonymous \<nobody<span>@</span>replay.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 85de84d20cf4bddbdf49b2003b3edc5ac6b9cdd2fdb73d5f417bda7a3043aa48<br>
 Message ID: \<199809270531.HAA09168@replay.com\><br>
@@ -82,6 +82,9 @@ Muff diving pics? Do we want to know? Serious questions.
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
++ Return to "["Paul H. Merrill" <paulmerrill<span>@</span>acm.org>](/author/paul_h_merrill_paulmerrill_at_acm_org_)"
 
 + 1998-09-26 (Sun, 27 Sep 1998 00:41:52 +0800) - Re: - _Anonymous \<nobody@replay.com\>_
   + 1998-09-26 (Sun, 27 Sep 1998 05:03:48 +0800) - [Re:](/archive/1998/09/0ce58f79fc62d47c3ddaaab10af0c273be94d71efb4839906ffcbff8cb90c65a) - _"Paul H. Merrill" \<paulmerrill@acm.org\>_

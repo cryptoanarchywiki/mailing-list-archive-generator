@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jerome_tan_jti_at_imanila_com_ph_
+post_count: 24
 ---
 
-# Jerome Tan <jti@i-manila.com.ph> (24 posts)
+# Jerome Tan <jti<span>@</span>i-manila.com.ph> (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

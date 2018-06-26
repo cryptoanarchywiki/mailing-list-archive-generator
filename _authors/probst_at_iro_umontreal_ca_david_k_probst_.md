@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: probst_at_iro_umontreal_ca_david_k_probst_
+post_count: 1
 ---
 
-# probst@iro.umontreal.ca (David K. Probst) (1 posts)
+# probst<span>@</span>iro.umontreal.ca (David K. Probst) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

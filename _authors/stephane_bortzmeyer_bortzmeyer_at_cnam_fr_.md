@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephane_bortzmeyer_bortzmeyer_at_cnam_fr_
+post_count: 1
 ---
 
-# Stephane Bortzmeyer <bortzmeyer@cnam.fr> (1 posts)
+# Stephane Bortzmeyer <bortzmeyer<span>@</span>cnam.fr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

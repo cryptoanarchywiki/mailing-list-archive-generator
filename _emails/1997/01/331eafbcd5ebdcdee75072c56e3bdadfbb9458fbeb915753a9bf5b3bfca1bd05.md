@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@zifi.genetics.utah.edu (Anonymous)<br>
+From: nobody<span>@</span>zifi.genetics.utah.edu (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 331eafbcd5ebdcdee75072c56e3bdadfbb9458fbeb915753a9bf5b3bfca1bd05<br>
 Message ID: \<199701230219.TAA01249@zifi.genetics.utah.edu\><br>
@@ -45,6 +45,8 @@ on the toilet.
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[nobody<span>@</span>zifi.genetics.utah.edu (Anonymous)](/author/nobody_at_zifi_genetics_utah_edu_anonymous_)"
 
 + 1997-01-23 (Wed, 22 Jan 1997 18:19:02 -0800 (PST)) - Digital signatures - _nobody@zifi.genetics.utah.edu (Anonymous)_
 

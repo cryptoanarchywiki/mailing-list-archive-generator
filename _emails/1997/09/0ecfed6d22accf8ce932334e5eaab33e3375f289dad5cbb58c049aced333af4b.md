@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Graham-John Bullers \<real@freenet.edmonton.ab.ca\><br>
+From: Graham-John Bullers \<real<span>@</span>freenet.edmonton.ab.ca\><br>
 To: Anonymous \<nobody@replay.com\><br>
 Message Hash: 0ecfed6d22accf8ce932334e5eaab33e3375f289dad5cbb58c049aced333af4b<br>
 Message ID: \<Pine.A41.3.95.970911003628.52406A-100000@fn2.freenet.edmonton.ab.ca\><br>
@@ -58,6 +58,9 @@ Graham-John Bullers                      Moderator of alt.2600.moderated
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/author/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1997-09-11 (Thu, 11 Sep 1997 13:40:56 +0800) - [Mondex](/archive/1997/09/6b9fa4c2e66fb7cd51c996c292426d9f97cc5cd19f219587caf672807eb8540c) - _nobody@REPLAY.COM (Anonymous)_
   + 1997-09-11 (Thu, 11 Sep 1997 15:32:26 +0800) - Re: Mondex - _Graham-John Bullers \<real@freenet.edmonton.ab.ca\>_

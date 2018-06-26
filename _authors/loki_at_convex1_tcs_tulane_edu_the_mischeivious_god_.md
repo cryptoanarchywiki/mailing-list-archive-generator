@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: loki_at_convex1_tcs_tulane_edu_the_mischeivious_god_
+post_count: 6
 ---
 
-# loki@convex1.TCS.Tulane.EDU (the mischeivious god) (6 posts)
+# loki<span>@</span>convex1.TCS.Tulane.EDU (the mischeivious god) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jthomas_at_ogi_com_joe_thomas_
+post_count: 2
 ---
 
-# jthomas@ogi.com (Joe Thomas) (2 posts)
+# jthomas<span>@</span>ogi.com (Joe Thomas) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

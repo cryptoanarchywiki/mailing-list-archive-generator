@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ajteel_at_andronix_org_a_j_teel_sui_juris_
+post_count: 1
 ---
 
-# ajteel@andronix.org (A. J. Teel, Sui Juris) (1 posts)
+# ajteel<span>@</span>andronix.org (A. J. Teel, Sui Juris) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

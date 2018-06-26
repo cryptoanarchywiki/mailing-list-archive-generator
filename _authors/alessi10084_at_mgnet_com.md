@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alessi10084_at_mgnet_com
+post_count: 1
 ---
 
-# ALESSI10084@mgnet.com (1 posts)
+# ALESSI10084<span>@</span>mgnet.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

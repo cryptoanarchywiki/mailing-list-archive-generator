@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mutant_rob_wlkngowl_at_unix_asb_com_
+post_count: 42
 ---
 
-# Mutant Rob <wlkngowl@UNiX.asb.com> (42 posts)
+# Mutant Rob <wlkngowl<span>@</span>UNiX.asb.com> (42 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

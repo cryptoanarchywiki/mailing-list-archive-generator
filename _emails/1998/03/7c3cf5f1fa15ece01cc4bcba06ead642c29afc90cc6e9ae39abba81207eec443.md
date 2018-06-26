@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dave Del Torto \<ddt@lsd.com\><br>
+From: Dave Del Torto \<ddt<span>@</span>lsd.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7c3cf5f1fa15ece01cc4bcba06ead642c29afc90cc6e9ae39abba81207eec443<br>
 Message ID: \<v04010f07b140b9bc8d1d@[192.187.167.52]\><br>
@@ -67,6 +67,8 @@ sophisticated scanners, and have made numerous arrests.
 ## Thread
 
 + Return to [March 1998](/archive/1998/03)
+
++ Return to "[Dave Del Torto <ddt<span>@</span>lsd.com>](/author/dave_del_torto_ddt_at_lsd_com_)"
 
 + 1998-03-27 (Fri, 27 Mar 1998 04:37:28 -0800 (PST)) - anti-snoop RF detector - _Dave Del Torto \<ddt@lsd.com\>_
 

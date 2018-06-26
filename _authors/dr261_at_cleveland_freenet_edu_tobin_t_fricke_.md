@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dr261_at_cleveland_freenet_edu_tobin_t_fricke_
+post_count: 11
 ---
 
-# dr261@cleveland.Freenet.Edu (Tobin T Fricke) (11 posts)
+# dr261<span>@</span>cleveland.Freenet.Edu (Tobin T Fricke) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

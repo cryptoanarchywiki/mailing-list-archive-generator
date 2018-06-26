@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bluesky17_at_mailexcite_com
+post_count: 2
 ---
 
-# bluesky17@mailexcite.com (2 posts)
+# bluesky17<span>@</span>mailexcite.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: simeon_ben_nevel_snevel_at_schwab_com_
+post_count: 1
 ---
 
-# Simeon ben Nevel <snevel@schwab.com> (1 posts)
+# Simeon ben Nevel <snevel<span>@</span>schwab.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

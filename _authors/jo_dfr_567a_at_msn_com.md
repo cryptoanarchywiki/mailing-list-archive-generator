@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jo_dfr_567a_at_msn_com
+post_count: 1
 ---
 
-# jo.dfr.567a@msn.com (1 posts)
+# jo.dfr.567a<span>@</span>msn.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

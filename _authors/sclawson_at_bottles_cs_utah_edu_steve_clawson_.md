@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sclawson_at_bottles_cs_utah_edu_steve_clawson_
+post_count: 2
 ---
 
-# sclawson@bottles.cs.utah.edu (steve clawson) (2 posts)
+# sclawson<span>@</span>bottles.cs.utah.edu (steve clawson) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

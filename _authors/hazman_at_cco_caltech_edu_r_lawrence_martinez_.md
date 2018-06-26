@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hazman_at_cco_caltech_edu_r_lawrence_martinez_
+post_count: 2
 ---
 
-# hazman@cco.caltech.edu (R. Lawrence Martinez) (2 posts)
+# hazman<span>@</span>cco.caltech.edu (R. Lawrence Martinez) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

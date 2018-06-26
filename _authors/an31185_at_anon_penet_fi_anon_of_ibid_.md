@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an31185_at_anon_penet_fi_anon_of_ibid_
+post_count: 6
 ---
 
-# an31185@anon.penet.fi (Anon of Ibid) (6 posts)
+# an31185<span>@</span>anon.penet.fi (Anon of Ibid) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bettyrubble_at_3253137429
+post_count: 1
 ---
 
-# bettyrubble@3253137429 (1 posts)
+# bettyrubble<span>@</span>3253137429 (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ray_arachelian_sunder_at_escape_com_
+post_count: 28
 ---
 
-# Ray Arachelian <sunder@escape.com> (28 posts)
+# Ray Arachelian <sunder<span>@</span>escape.com> (28 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

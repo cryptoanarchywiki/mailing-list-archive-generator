@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: klaus_e_vonebel_unicorn_at_schloss_li_
+post_count: 2
 ---
 
-# "Klaus E. vonEbel" <unicorn@schloss.li> (2 posts)
+# "Klaus E. vonEbel" <unicorn<span>@</span>schloss.li> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_j_tune_paladin_at_lvcablemodem_com_
+post_count: 3
 ---
 
-# "Eric J. Tune" <paladin@lvcablemodem.com> (3 posts)
+# "Eric J. Tune" <paladin<span>@</span>lvcablemodem.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

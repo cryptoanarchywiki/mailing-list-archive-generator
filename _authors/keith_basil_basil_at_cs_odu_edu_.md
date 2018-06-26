@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: keith_basil_basil_at_cs_odu_edu_
+post_count: 1
 ---
 
-# Keith Basil <basil@cs.odu.edu> (1 posts)
+# Keith Basil <basil<span>@</span>cs.odu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

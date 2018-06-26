@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: HyperReal-Anon \<nobody@sind.hyperreal.art.pl\><br>
+From: HyperReal-Anon \<nobody<span>@</span>sind.hyperreal.art.pl\><br>
 To: christopher.barkley@srcm.com<br>
 Message Hash: 2a6f7e4e80f0c9b4d8d192f6e910eb1ddb37d5ecceee8c051f6efcbe9d6f8a3b<br>
 Message ID: \<a56c37f4f3d17f8f97dc0d5f448246bf@anonymous\><br>
@@ -67,6 +67,8 @@ Regards, Voices, Harald, Woof, moans, and whatever.
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[HyperReal-Anon <nobody<span>@</span>sind.hyperreal.art.pl>](/author/hyperrealanon_nobody_at_sind_hyperreal_art_pl_)"
 
 + 1998-09-15 (Wed, 16 Sep 1998 01:52:07 +0800) - Re: Harald Fragner - _HyperReal-Anon \<nobody@sind.hyperreal.art.pl\>_
 

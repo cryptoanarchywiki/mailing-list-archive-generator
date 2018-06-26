@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lsoft_list_server_at_eds_1_8b__listserv_at_plwils00_xweb_eds_com_
+post_count: 7
 ---
 
-# "L-Soft list server at EDS (1.8b)"             <LISTSERV@plwils00.xweb.eds.com> (7 posts)
+# "L-Soft list server at EDS (1.8b)"             <LISTSERV<span>@</span>plwils00.xweb.eds.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

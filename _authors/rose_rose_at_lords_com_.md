@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rose_rose_at_lords_com_
+post_count: 1
 ---
 
-# Rose <rose@lords.com> (1 posts)
+# Rose <rose<span>@</span>lords.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: man_in_the_middle_mitm_at_dev_null_
+post_count: 3
 ---
 
-# Man In The Middle <mitm@dev.null> (3 posts)
+# Man In The Middle <mitm<span>@</span>dev.null> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

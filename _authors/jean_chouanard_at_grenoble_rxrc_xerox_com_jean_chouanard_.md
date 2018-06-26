@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jean_chouanard_at_grenoble_rxrc_xerox_com_jean_chouanard_
+post_count: 1
 ---
 
-# Jean.Chouanard@grenoble.rxrc.xerox.com (Jean Chouanard) (1 posts)
+# Jean.Chouanard<span>@</span>grenoble.rxrc.xerox.com (Jean Chouanard) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

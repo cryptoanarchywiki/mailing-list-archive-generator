@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: leonard_n_foner_foner_at_media_mit_edu_
+post_count: 1
 ---
 
-# "Leonard N. Foner" <foner@media.mit.edu> (1 posts)
+# "Leonard N. Foner" <foner<span>@</span>media.mit.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

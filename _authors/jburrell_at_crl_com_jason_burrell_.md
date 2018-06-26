@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jburrell_at_crl_com_jason_burrell_
+post_count: 2
 ---
 
-# jburrell@crl.com (Jason Burrell) (2 posts)
+# jburrell<span>@</span>crl.com (Jason Burrell) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

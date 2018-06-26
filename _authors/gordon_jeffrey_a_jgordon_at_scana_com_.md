@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gordon_jeffrey_a_jgordon_at_scana_com_
+post_count: 1
 ---
 
-# "GORDON, JEFFREY A" <JGORDON@scana.com> (1 posts)
+# "GORDON, JEFFREY A" <JGORDON<span>@</span>scana.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

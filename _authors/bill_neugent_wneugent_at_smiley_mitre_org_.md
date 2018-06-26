@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_neugent_wneugent_at_smiley_mitre_org_
+post_count: 1
 ---
 
-# Bill Neugent <wneugent@smiley.mitre.org> (1 posts)
+# Bill Neugent <wneugent<span>@</span>smiley.mitre.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

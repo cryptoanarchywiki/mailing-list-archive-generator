@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_at_kg6kf_ampr_org_marc_de_groot__kg6kf_
+post_count: 2
 ---
 
-# marc@kg6kf.ampr.org (Marc de Groot - KG6KF) (2 posts)
+# marc<span>@</span>kg6kf.ampr.org (Marc de Groot - KG6KF) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

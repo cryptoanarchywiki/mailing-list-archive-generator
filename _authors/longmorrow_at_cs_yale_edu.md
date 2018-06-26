@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: longmorrow_at_cs_yale_edu
+post_count: 1
 ---
 
-# long-morrow@CS.YALE.EDU (1 posts)
+# long-morrow<span>@</span>CS.YALE.EDU (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

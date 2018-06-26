@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scoop_at_www_kornet_nm_kr
+post_count: 1
 ---
 
-# Scoop@www.kornet.nm.kr (1 posts)
+# Scoop<span>@</span>www.kornet.nm.kr (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

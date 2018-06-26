@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jay_anderson_bboards_at_optical_bms_com_
+post_count: 1
 ---
 
-# Jay Anderson <bboards@optical.bms.com> (1 posts)
+# Jay Anderson <bboards<span>@</span>optical.bms.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

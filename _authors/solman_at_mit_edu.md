@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: solman_at_mit_edu
+post_count: 65
 ---
 
-# solman@MIT.EDU (65 posts)
+# solman<span>@</span>MIT.EDU (65 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

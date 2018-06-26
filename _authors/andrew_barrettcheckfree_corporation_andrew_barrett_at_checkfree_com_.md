@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_barrettcheckfree_corporation_andrew_barrett_at_checkfree_com_
+post_count: 4
 ---
 
-# Andrew Barrett/CheckFree Corporation <Andrew_Barrett@checkfree.com> (4 posts)
+# Andrew Barrett/CheckFree Corporation <Andrew_Barrett<span>@</span>checkfree.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

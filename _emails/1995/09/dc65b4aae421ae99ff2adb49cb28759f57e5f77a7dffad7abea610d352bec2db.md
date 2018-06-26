@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: thad@hammerhead.com (Thaddeus J. Beier)<br>
+From: thad<span>@</span>hammerhead.com (Thaddeus J. Beier)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: dc65b4aae421ae99ff2adb49cb28759f57e5f77a7dffad7abea610d352bec2db<br>
 Message ID: \<199509101504.IAA04932@hammerhead.com\><br>
@@ -61,6 +61,8 @@ thad
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[thad<span>@</span>hammerhead.com (Thaddeus J. Beier)](/author/thad_at_hammerhead_com_thaddeus_j_beier_)"
 
 + 1995-09-10 (Sun, 10 Sep 95 08:12:45 PDT) - 64 bit crypto - _thad@hammerhead.com (Thaddeus J. Beier)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_stallman_rms_at_santafe_edu_
+post_count: 10
 ---
 
-# Richard Stallman <rms@santafe.edu> (10 posts)
+# Richard Stallman <rms<span>@</span>santafe.edu> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sameer_parekh_cs60aqu_at_po_eecs_berkeley_edu_
+post_count: 1
 ---
 
-# Sameer Parekh <cs60a-qu@po.EECS.Berkeley.EDU> (1 posts)
+# Sameer Parekh <cs60a-qu<span>@</span>po.EECS.Berkeley.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

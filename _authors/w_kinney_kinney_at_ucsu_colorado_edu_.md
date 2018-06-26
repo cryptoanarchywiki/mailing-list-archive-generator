@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: w_kinney_kinney_at_ucsu_colorado_edu_
+post_count: 18
 ---
 
-# "W. Kinney" <kinney@ucsu.Colorado.EDU> (18 posts)
+# "W. Kinney" <kinney<span>@</span>ucsu.Colorado.EDU> (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: glenn_powers_gpowers_at_spectrum_bradley_edu_
+post_count: 1
 ---
 
-# Glenn Powers <gpowers@spectrum.bradley.edu> (1 posts)
+# Glenn Powers <gpowers<span>@</span>spectrum.bradley.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

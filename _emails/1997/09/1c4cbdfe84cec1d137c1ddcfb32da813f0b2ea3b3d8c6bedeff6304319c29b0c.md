@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 1c4cbdfe84cec1d137c1ddcfb32da813f0b2ea3b3d8c6bedeff6304319c29b0c<br>
 Message ID: \<199709270031.CAA28078@basement.replay.com\><br>
@@ -141,6 +141,8 @@ hLZWOhoZaxrBc8BrT/43dLQFd1WinDAsYuN5CfSYT3L5o0oCCKvciA==
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1997-09-27 (Sat, 27 Sep 1997 08:44:17 +0800) - Plea from a parent who wants to keep their kid free of SSNs - _nobody@REPLAY.COM (Anonymous)_
 

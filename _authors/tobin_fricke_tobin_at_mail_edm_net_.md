@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tobin_fricke_tobin_at_mail_edm_net_
+post_count: 2
 ---
 
-# "Tobin Fricke" <tobin@mail.edm.net> (2 posts)
+# "Tobin Fricke" <tobin<span>@</span>mail.edm.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

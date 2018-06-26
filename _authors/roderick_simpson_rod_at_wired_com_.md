@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roderick_simpson_rod_at_wired_com_
+post_count: 2
 ---
 
-# Roderick Simpson <rod@wired.com> (2 posts)
+# Roderick Simpson <rod<span>@</span>wired.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

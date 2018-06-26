@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremiah_a_blatz_jer_at_andrew_cmu_edu_
+post_count: 87
 ---
 
-# Jeremiah A Blatz <jer+@andrew.cmu.edu> (87 posts)
+# Jeremiah A Blatz <jer+<span>@</span>andrew.cmu.edu> (87 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

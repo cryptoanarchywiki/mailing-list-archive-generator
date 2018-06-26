@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: w_kinney_kinney_at_bogart_colorado_edu_
+post_count: 42
 ---
 
-# "W. Kinney" <kinney@bogart.Colorado.EDU> (42 posts)
+# "W. Kinney" <kinney<span>@</span>bogart.Colorado.EDU> (42 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

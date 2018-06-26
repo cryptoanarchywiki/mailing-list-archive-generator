@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: h0uugi93_at_galaxylink_com_hk
+post_count: 1
 ---
 
-# h0uugi93@galaxylink.com.hk (1 posts)
+# h0uugi93<span>@</span>galaxylink.com.hk (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

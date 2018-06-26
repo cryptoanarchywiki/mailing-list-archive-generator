@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nina_huupponen_nina_huupponen_at_datafellows_com_
+post_count: 2
 ---
 
-# Nina Huupponen <Nina.Huupponen@DataFellows.com> (2 posts)
+# Nina Huupponen <Nina.Huupponen<span>@</span>DataFellows.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

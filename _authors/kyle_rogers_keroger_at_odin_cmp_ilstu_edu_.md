@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kyle_rogers_keroger_at_odin_cmp_ilstu_edu_
+post_count: 1
 ---
 
-# "Kyle Rogers" <keroger@odin.cmp.ilstu.edu> (1 posts)
+# "Kyle Rogers" <keroger<span>@</span>odin.cmp.ilstu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

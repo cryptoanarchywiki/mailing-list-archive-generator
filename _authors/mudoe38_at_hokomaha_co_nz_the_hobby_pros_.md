@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mudoe38_at_hokomaha_co_nz_the_hobby_pros_
+post_count: 1
 ---
 
-# mudoe38@hokomaha.co.nz (The Hobby Pros) (1 posts)
+# mudoe38<span>@</span>hokomaha.co.nz (The Hobby Pros) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

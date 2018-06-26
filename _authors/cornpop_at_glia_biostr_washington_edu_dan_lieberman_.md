@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cornpop_at_glia_biostr_washington_edu_dan_lieberman_
+post_count: 1
 ---
 
-# cornpop@glia.biostr.washington.edu (Dan Lieberman) (1 posts)
+# cornpop<span>@</span>glia.biostr.washington.edu (Dan Lieberman) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

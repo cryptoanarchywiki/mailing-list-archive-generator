@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frank_vernaillen_frank_vernaillen_at_rug_ac_be_
+post_count: 2
 ---
 
-# Frank Vernaillen <Frank.Vernaillen@rug.ac.be> (2 posts)
+# Frank Vernaillen <Frank.Vernaillen<span>@</span>rug.ac.be> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

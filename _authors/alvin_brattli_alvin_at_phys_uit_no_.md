@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alvin_brattli_alvin_at_phys_uit_no_
+post_count: 1
 ---
 
-# Alvin Brattli <alvin@phys.uit.no> (1 posts)
+# Alvin Brattli <alvin<span>@</span>phys.uit.no> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

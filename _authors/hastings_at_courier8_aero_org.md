@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hastings_at_courier8_aero_org
+post_count: 11
 ---
 
-# Hastings@courier8.aero.org (11 posts)
+# Hastings<span>@</span>courier8.aero.org (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

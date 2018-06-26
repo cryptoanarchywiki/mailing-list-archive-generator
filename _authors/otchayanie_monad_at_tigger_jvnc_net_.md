@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: otchayanie_monad_at_tigger_jvnc_net_
+post_count: 1
 ---
 
-# "otchayanie" <monad@tigger.jvnc.net> (1 posts)
+# "otchayanie" <monad<span>@</span>tigger.jvnc.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

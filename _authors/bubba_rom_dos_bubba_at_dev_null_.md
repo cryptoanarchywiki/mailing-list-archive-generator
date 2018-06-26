@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bubba_rom_dos_bubba_at_dev_null_
+post_count: 46
 ---
 
-# Bubba Rom Dos <bubba@dev.null> (46 posts)
+# Bubba Rom Dos <bubba<span>@</span>dev.null> (46 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

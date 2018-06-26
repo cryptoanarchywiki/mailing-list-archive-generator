@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_payne_billp_at_nmol_com_by_way_of_x_x_at_x_com_
+post_count: 1
 ---
 
-# bill payne <billp@nmol.com> (by way of x <x@x.com>) (1 posts)
+# bill payne <billp<span>@</span>nmol.com> (by way of x <x<span>@</span>x.com>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

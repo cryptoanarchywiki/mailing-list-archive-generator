@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 01aa94c90f1ba156b43bd3de3c87258adff21de0b1cafee4515dc90be5f7dacd<br>
 Message ID: \<v03020911af4dcb826f58@[139.167.130.247]\><br>
@@ -200,6 +200,8 @@ The e$ Home Page: http://www.shipwright.com/rah/
 ## Thread
 
 + Return to [March 1997](/archive/1997/03)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-03-13 (Thu, 13 Mar 1997 07:32:07 -0800 (PST)) - 128 bit Server and Browser Solution? - _Robert Hettinga \<rah@shipwright.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jennifer_stinson_bdsi_jstinson_at_trip_net_
+post_count: 1
 ---
 
-# Jennifer Stinson-- BDSI <jstinson@trip.net> (1 posts)
+# Jennifer Stinson-- BDSI <jstinson<span>@</span>trip.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

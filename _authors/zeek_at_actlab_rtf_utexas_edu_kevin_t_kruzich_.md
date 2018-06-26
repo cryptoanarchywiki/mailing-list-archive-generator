@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zeek_at_actlab_rtf_utexas_edu_kevin_t_kruzich_
+post_count: 1
 ---
 
-# zeek@actlab.rtf.utexas.edu (Kevin T. Kruzich) (1 posts)
+# zeek<span>@</span>actlab.rtf.utexas.edu (Kevin T. Kruzich) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

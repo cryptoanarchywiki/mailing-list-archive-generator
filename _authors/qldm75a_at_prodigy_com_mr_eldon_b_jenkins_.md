@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qldm75a_at_prodigy_com_mr_eldon_b_jenkins_
+post_count: 3
 ---
 
-# QLDM75A@prodigy.com (MR ELDON B JENKINS) (3 posts)
+# QLDM75A<span>@</span>prodigy.com (MR ELDON B JENKINS) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tomw@orac.engr.sgi.com (Tom Weinstein)<br>
+From: tomw<span>@</span>orac.engr.sgi.com (Tom Weinstein)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2ca9add47b068dabdf9be3e03f7161d6faaf4ea40d14ff4a4a1967a0c9de9d0f<br>
 Message ID: \<199510201231.FAA15050@orac.engr.sgi.com\><br>
@@ -55,5 +55,8 @@ we *do* anything.  --  Washington DC motto          | tomw@engr.sgi.com
 
 + Return to [October 1995](/archive/1995/10)
 
-+ 1995-10-20 (Fri, 20 Oct 95 05:32:01 PDT) - Re: 50 attacks... [NOISE] - _tomw@orac.engr.sgi.com (Tom Weinstein)_
++ Return to "[tomw<span>@</span>orac.engr.sgi.com (Tom Weinstein)](/author/tomw_at_orac_engr_sgi_com_tom_weinstein_)"
+
++ _Unknown thread root_
+  + 1995-10-20 (Fri, 20 Oct 95 05:32:01 PDT) - Re: 50 attacks... [NOISE] - _tomw@orac.engr.sgi.com (Tom Weinstein)_
 

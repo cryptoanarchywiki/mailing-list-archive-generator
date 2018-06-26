@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sandy_sandfort_sandfort_at_crl9_crl_com_
+post_count: 3
 ---
 
-# Sandy Sandfort <sandfort@crl9.crl.com> (3 posts)
+# Sandy Sandfort <sandfort<span>@</span>crl9.crl.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

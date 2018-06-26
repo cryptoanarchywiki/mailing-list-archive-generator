@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_formosa__the_platypus__dformosa_at_zeta_org_au_
+post_count: 1
 ---
 
-# "David Formosa (? the Platypus)" <dformosa@zeta.org.au> (1 posts)
+# "David Formosa (? the Platypus)" <dformosa<span>@</span>zeta.org.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

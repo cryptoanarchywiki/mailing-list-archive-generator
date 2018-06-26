@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lcrocker_at_netcom_com_lee_daniel_crocker_
+post_count: 1
 ---
 
-# lcrocker@netcom.com (Lee Daniel Crocker) (1 posts)
+# lcrocker<span>@</span>netcom.com (Lee Daniel Crocker) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

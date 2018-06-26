@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_beattie_beattie_at_peak_org_
+post_count: 1
 ---
 
-# Brian Beattie <beattie@PEAK.ORG> (1 posts)
+# Brian Beattie <beattie<span>@</span>PEAK.ORG> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

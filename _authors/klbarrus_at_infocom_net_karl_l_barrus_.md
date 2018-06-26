@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: klbarrus_at_infocom_net_karl_l_barrus_
+post_count: 2
 ---
 
-# klbarrus@infocom.net (Karl L. Barrus) (2 posts)
+# klbarrus<span>@</span>infocom.net (Karl L. Barrus) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "R. David Murray" \<rdmurray@keene.edu\><br>
+From: "R. David Murray" \<rdmurray<span>@</span>keene.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: e4dbceadeeb1eaab70f3884624d3f62865f7e0b30ea15ebdc1efc46f2ba4b354<br>
 Message ID: \<Pine.3.89.9405141129.A1026-0100000@monadnock.keene.edu\><br>
@@ -45,6 +45,8 @@ private citizens to quarter troups in their home.
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "["R. David Murray" <rdmurray<span>@</span>keene.edu>](/author/r_david_murray_rdmurray_at_keene_edu_)"
 
 + 1994-05-14 (Sat, 14 May 94 08:39:29 PDT) - possible anti-mandatory-clipper constitutional angle? - _"R. David Murray" \<rdmurray@keene.edu\>_
 

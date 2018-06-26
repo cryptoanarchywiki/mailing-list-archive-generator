@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Timothy C. May" \<tcmay@got.net\><br>
+From: "Timothy C. May" \<tcmay<span>@</span>got.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 381fe09e2aa094eb4f8d5afcaafb5bb3fb3ed9d3bd4c2b9e44f4ce0c26e3037d<br>
 Message ID: \<v03007800aea00d0732bc@[207.167.93.63]\><br>
@@ -88,6 +88,9 @@ Higher Power: 2^1,257,787-1 | black markets, collapse of governments.
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Jeremiah A Blatz <jer+<span>@</span>andrew.cmu.edu>](/author/jeremiah_a_blatz_jer_at_andrew_cmu_edu_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
 
 + 1996-11-01 (Fri, 1 Nov 1996 12:36:40 -0800 (PST)) - Moneychangers and Shylocks - _"Timothy C. May" \<tcmay@got.net\>_
   + 1996-11-01 (Fri, 1 Nov 1996 14:13:11 -0800 (PST)) - [Re: Moneychangers and Shylocks](/archive/1996/11/ec9c2f761e85bfdee30a70dff5177f5b67a646d7f29140013518eb7307cef3c4) - _Jeremiah A Blatz \<jer+@andrew.cmu.edu\>_

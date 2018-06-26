@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tatu_ylonen_ylo_at_cs_hut_fi_
+post_count: 35
 ---
 
-# Tatu Ylonen <ylo@cs.hut.fi> (35 posts)
+# Tatu Ylonen <ylo<span>@</span>cs.hut.fi> (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

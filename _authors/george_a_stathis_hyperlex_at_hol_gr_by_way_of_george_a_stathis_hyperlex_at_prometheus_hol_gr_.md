@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: george_a_stathis_hyperlex_at_hol_gr_by_way_of_george_a_stathis_hyperlex_at_prometheus_hol_gr_
+post_count: 1
 ---
 
-# "George A. Stathis" <hyperlex@hol.gr> (by way of "George A. Stathis" <hyperlex@prometheus.hol.gr>) (1 posts)
+# "George A. Stathis" <hyperlex<span>@</span>hol.gr> (by way of "George A. Stathis" <hyperlex<span>@</span>prometheus.hol.gr>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

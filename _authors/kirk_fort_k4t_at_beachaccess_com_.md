@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kirk_fort_k4t_at_beachaccess_com_
+post_count: 1
 ---
 
-# "Kirk Fort" <k4t@beachaccess.com> (1 posts)
+# "Kirk Fort" <k4t<span>@</span>beachaccess.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

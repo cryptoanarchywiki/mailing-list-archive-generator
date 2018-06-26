@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Andrew.Spring@ping.be (Andrew Spring)<br>
+From: Andrew.Spring<span>@</span>ping.be (Andrew Spring)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: f674ec7fb06fc98b3ce77e14cd4f8054da7a8cdfbd47b3e1315ece3a9bb8e4aa<br>
 Message ID: \<v01510102ac3065ad0aaa@[193.74.217.20]\><br>
@@ -78,6 +78,9 @@ OWN words in the mail soon (and My Reply).
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[Andrew.Spring<span>@</span>ping.be (Andrew Spring)](/author/andrew_spring_at_ping_be_andrew_spring_)"
++ Return to "[lmccarth<span>@</span>cs.umass.edu (L. McCarthy)](/author/lmccarth_at_cs_umass_edu_l_mccarthy_)"
 
 + 1995-07-17 (Mon, 17 Jul 95 13:53:48 PDT) - Re: Anti-Electronic Racketeering Act of 1995 (fwd) - _Andrew.Spring@ping.be (Andrew Spring)_
   + 1995-07-17 (Mon, 17 Jul 95 15:28:00 PDT) - [Re: Anti-Electronic Racketeering Act of 1995 (fwd)](/archive/1995/07/5c577efe69e31442a164225deee380d426a14eaca7d572408b4d041847d5bc7a) - _lmccarth@cs.umass.edu (L. McCarthy)_

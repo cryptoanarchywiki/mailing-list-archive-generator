@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scallon_at_kiwi_pyrotechnics_com
+post_count: 1
 ---
 
-# scallon@kiwi.pyrotechnics.com (1 posts)
+# scallon<span>@</span>kiwi.pyrotechnics.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

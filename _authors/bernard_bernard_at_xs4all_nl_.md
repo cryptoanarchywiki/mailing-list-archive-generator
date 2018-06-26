@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bernard_bernard_at_xs4all_nl_
+post_count: 2
 ---
 
-# bernard <bernard@xs4all.nl> (2 posts)
+# bernard <bernard<span>@</span>xs4all.nl> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

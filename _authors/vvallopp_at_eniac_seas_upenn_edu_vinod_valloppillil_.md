@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vvallopp_at_eniac_seas_upenn_edu_vinod_valloppillil_
+post_count: 2
 ---
 
-# vvallopp@eniac.seas.upenn.edu (Vinod Valloppillil) (2 posts)
+# vvallopp<span>@</span>eniac.seas.upenn.edu (Vinod Valloppillil) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

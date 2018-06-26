@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Gillogly \<jim@acm.org\><br>
+From: Jim Gillogly \<jim<span>@</span>acm.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0de4ba2faf53dffddcdec2aaf722fa9fb8e3b60323bc189e3dd66a78d5c43b20<br>
 Message ID: \<9409282204.AA01197@mycroft.rand.org\><br>
@@ -62,6 +62,11 @@ than standalone security, since DES isn't a group.
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[Jim Gillogly <jim<span>@</span>acm.org>](/author/jim_gillogly_jim_at_acm_org_)"
++ Return to "[mccoy<span>@</span>io.com (Jim McCoy)](/author/mccoy_at_io_com_jim_mccoy_)"
++ Return to "[Phil Karn <karn<span>@</span>qualcomm.com>](/author/phil_karn_karn_at_qualcomm_com_)"
++ Return to "[pstemari<span>@</span>bismark.cbis.com (Paul J. Ste. Marie)](/author/pstemari_at_bismark_cbis_com_paul_j_ste_marie_)"
 
 + 1994-09-28 (Wed, 28 Sep 94 14:26:46 PDT) - [3DES](/archive/1994/09/806e5b20585f871e786b1c4237074be320c7308453bcd7d451bbc34b33d9a100) - _pstemari@bismark.cbis.com (Paul J. Ste. Marie)_
   + 1994-09-28 (Wed, 28 Sep 94 15:00:52 PDT) - [Re: 3DES](/archive/1994/09/2380e8290008fe0134eb55b3eecdc6784cd933980e629d57257731d7c6451ca7) - _Phil Karn \<karn@qualcomm.com\>_

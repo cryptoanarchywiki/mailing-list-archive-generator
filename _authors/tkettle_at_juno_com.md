@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tkettle_at_juno_com
+post_count: 2
 ---
 
-# TKettle@juno.com (2 posts)
+# TKettle<span>@</span>juno.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

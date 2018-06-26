@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matt_blaze_mab_at_nsa_tempo_att_com_
+post_count: 1
 ---
 
-# Matt Blaze <mab@nsa.tempo.att.com> (1 posts)
+# Matt Blaze <mab<span>@</span>nsa.tempo.att.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

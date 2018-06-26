@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathon_grafolog_at_netcom_com_
+post_count: 55
 ---
 
-# jonathon <grafolog@netcom.com> (55 posts)
+# jonathon <grafolog<span>@</span>netcom.com> (55 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

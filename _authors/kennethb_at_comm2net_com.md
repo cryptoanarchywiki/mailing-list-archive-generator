@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kennethb_at_comm2net_com
+post_count: 1
 ---
 
-# KennethB@comm2net.com (1 posts)
+# KennethB<span>@</span>comm2net.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

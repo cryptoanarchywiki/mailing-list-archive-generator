@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fjegan_at_airmail_net_frank_j_egan_
+post_count: 1
 ---
 
-# fjegan@airmail.net (Frank J. Egan) (1 posts)
+# fjegan<span>@</span>airmail.net (Frank J. Egan) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

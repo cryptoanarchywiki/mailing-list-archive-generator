@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jon_matonis_74774_3663_at_compuserve_com_
+post_count: 1
 ---
 
-# Jon Matonis <74774.3663@compuserve.com> (1 posts)
+# Jon Matonis <74774.3663<span>@</span>compuserve.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

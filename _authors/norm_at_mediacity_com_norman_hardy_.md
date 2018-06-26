@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: norm_at_mediacity_com_norman_hardy_
+post_count: 2
 ---
 
-# norm@mediacity.com (Norman Hardy) (2 posts)
+# norm<span>@</span>mediacity.com (Norman Hardy) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: weissman_gregg_gweissman_at_spyrus_com_
+post_count: 1
 ---
 
-# "Weissman, Gregg" <gweissman@spyrus.com> (1 posts)
+# "Weissman, Gregg" <gweissman<span>@</span>spyrus.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

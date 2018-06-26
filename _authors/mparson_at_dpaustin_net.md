@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mparson_at_dpaustin_net
+post_count: 1
 ---
 
-# mparson@dp-austin.net (1 posts)
+# mparson<span>@</span>dp-austin.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

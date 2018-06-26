@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: smb@research.att.com<br>
+From: smb<span>@</span>research.att.com<br>
 To: "L. Detweiler" \<ld231782@longs.lance.colostate.edu\><br>
 Message Hash: e0bb139e97a87a9e6e31eab63ddd79ffc02956e54c6c7ca8adcf56bcccac5bf8<br>
 Message ID: \<9310041054.AA10031@toad.com\><br>
@@ -46,6 +46,8 @@ provisions.
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[smb<span>@</span>research.att.com](/author/smb_at_research_att_com)"
 
 + 1993-10-04 (Mon, 4 Oct 93 03:54:38 PDT) - Re: FBI on BBS operator liability (fwd) - _smb@research.att.com_
 

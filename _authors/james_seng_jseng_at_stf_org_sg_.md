@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_seng_jseng_at_stf_org_sg_
+post_count: 1
 ---
 
-# James Seng <jseng@stf.org.sg> (1 posts)
+# James Seng <jseng<span>@</span>stf.org.sg> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

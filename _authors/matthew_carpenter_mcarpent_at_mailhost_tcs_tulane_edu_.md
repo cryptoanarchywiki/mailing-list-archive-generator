@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_carpenter_mcarpent_at_mailhost_tcs_tulane_edu_
+post_count: 3
 ---
 
-# Matthew Carpenter <mcarpent@mailhost.tcs.tulane.edu> (3 posts)
+# Matthew Carpenter <mcarpent<span>@</span>mailhost.tcs.tulane.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

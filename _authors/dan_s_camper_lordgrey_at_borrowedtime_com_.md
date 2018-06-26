@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_s_camper_lordgrey_at_borrowedtime_com_
+post_count: 2
 ---
 
-# "Dan S. Camper" <lordgrey@borrowedtime.com> (2 posts)
+# "Dan S. Camper" <lordgrey<span>@</span>borrowedtime.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: benjamin_grosman_bgrosman_at_sydney_healey_com_au_
+post_count: 1
 ---
 
-# Benjamin Grosman <bgrosman@sydney.healey.com.au> (1 posts)
+# Benjamin Grosman <bgrosman<span>@</span>sydney.healey.com.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

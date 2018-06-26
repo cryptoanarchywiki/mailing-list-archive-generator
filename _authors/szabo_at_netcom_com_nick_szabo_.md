@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: szabo_at_netcom_com_nick_szabo_
+post_count: 65
 ---
 
-# szabo@netcom.com (Nick Szabo) (65 posts)
+# szabo<span>@</span>netcom.com (Nick Szabo) (65 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

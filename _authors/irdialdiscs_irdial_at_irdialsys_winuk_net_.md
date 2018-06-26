@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: irdialdiscs_irdial_at_irdialsys_winuk_net_
+post_count: 2
 ---
 
-# Irdial-Discs <irdial@irdialsys.win-uk.net> (2 posts)
+# Irdial-Discs <irdial<span>@</span>irdialsys.win-uk.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

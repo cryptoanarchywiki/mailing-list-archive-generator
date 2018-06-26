@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: quazi_f_haque_qfh1_at_crux3_cit_cornell_edu_
+post_count: 2
 ---
 
-# "Quazi F. Haque" <qfh1@crux3.cit.cornell.edu> (2 posts)
+# "Quazi F. Haque" <qfh1<span>@</span>crux3.cit.cornell.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

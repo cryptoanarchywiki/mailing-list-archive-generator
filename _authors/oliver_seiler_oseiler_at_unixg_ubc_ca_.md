@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: oliver_seiler_oseiler_at_unixg_ubc_ca_
+post_count: 6
 ---
 
-# Oliver Seiler <oseiler@unixg.ubc.ca> (6 posts)
+# Oliver Seiler <oseiler<span>@</span>unixg.ubc.ca> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

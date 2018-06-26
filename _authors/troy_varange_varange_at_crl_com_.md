@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: troy_varange_varange_at_crl_com_
+post_count: 10
 ---
 
-# Troy Varange <varange@crl.com> (10 posts)
+# Troy Varange <varange<span>@</span>crl.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_allyn_206_8609454_allyn_at_allyn_com_
+post_count: 10
 ---
 
-# Mark Allyn (206) 860-9454 <allyn@allyn.com> (10 posts)
+# Mark Allyn (206) 860-9454 <allyn<span>@</span>allyn.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

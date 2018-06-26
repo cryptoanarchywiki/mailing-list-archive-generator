@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: actn_at_artnet_com_br
+post_count: 1
 ---
 
-# actn@artnet.com.br (1 posts)
+# actn<span>@</span>artnet.com.br (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

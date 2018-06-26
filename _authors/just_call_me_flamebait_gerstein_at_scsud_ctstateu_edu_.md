@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: just_call_me_flamebait_gerstein_at_scsud_ctstateu_edu_
+post_count: 1
 ---
 
-# Just call me Flame-bait <GERSTEIN@SCSUD.CTSTATEU.EDU> (1 posts)
+# Just call me Flame-bait <GERSTEIN<span>@</span>SCSUD.CTSTATEU.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charley_sparks_charley_at_clark_net_
+post_count: 2
 ---
 
-# Charley Sparks <charley@clark.net> (2 posts)
+# Charley Sparks <charley<span>@</span>clark.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

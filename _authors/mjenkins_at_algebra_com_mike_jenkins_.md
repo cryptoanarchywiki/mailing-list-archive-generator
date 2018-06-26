@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mjenkins_at_algebra_com_mike_jenkins_
+post_count: 1
 ---
 
-# mjenkins@algebra.com (Mike Jenkins) (1 posts)
+# mjenkins<span>@</span>algebra.com (Mike Jenkins) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

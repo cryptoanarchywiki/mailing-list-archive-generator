@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: a_j_janschewitz_ajay_at_holonet_net_
+post_count: 1
 ---
 
-# A.J. Janschewitz <ajay@holonet.net> (1 posts)
+# A.J. Janschewitz <ajay<span>@</span>holonet.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

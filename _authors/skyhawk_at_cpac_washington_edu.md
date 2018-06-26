@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: skyhawk_at_cpac_washington_edu
+post_count: 4
 ---
 
-# skyhawk@cpac.washington.edu (4 posts)
+# skyhawk<span>@</span>cpac.washington.edu (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

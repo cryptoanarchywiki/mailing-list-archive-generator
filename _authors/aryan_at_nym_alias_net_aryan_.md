@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aryan_at_nym_alias_net_aryan_
+post_count: 1
 ---
 
-# aryan@nym.alias.net (Aryan) (1 posts)
+# aryan<span>@</span>nym.alias.net (Aryan) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

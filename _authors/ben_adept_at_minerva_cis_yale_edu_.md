@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ben_adept_at_minerva_cis_yale_edu_
+post_count: 5
 ---
 
-# Ben <adept@minerva.cis.yale.edu> (5 posts)
+# Ben <adept<span>@</span>minerva.cis.yale.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

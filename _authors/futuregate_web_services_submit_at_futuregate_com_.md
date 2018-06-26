@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: futuregate_web_services_submit_at_futuregate_com_
+post_count: 1
 ---
 
-# FutureGate Web Services <submit@futuregate.com> (1 posts)
+# FutureGate Web Services <submit<span>@</span>futuregate.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: na26540anon_penet_fi_at_princeton_edu_walter_mitty_
+post_count: 1
 ---
 
-# na26540%anon.penet.fi@Princeton.EDU (Walter Mitty) (1 posts)
+# na26540%anon.penet.fi<span>@</span>Princeton.EDU (Walter Mitty) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

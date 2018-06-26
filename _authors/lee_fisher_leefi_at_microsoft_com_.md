@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lee_fisher_leefi_at_microsoft_com_
+post_count: 4
 ---
 
-# Lee Fisher <leefi@microsoft.com> (4 posts)
+# Lee Fisher <leefi<span>@</span>microsoft.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

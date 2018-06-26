@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aron_bierbaum_aronb_at_nishna_net_
+post_count: 2
 ---
 
-# Aron Bierbaum <aronb@nishna.net> (2 posts)
+# Aron Bierbaum <aronb<span>@</span>nishna.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

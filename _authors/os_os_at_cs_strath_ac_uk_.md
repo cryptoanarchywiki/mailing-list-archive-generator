@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: os_os_at_cs_strath_ac_uk_
+post_count: 1
 ---
 
-# os <os@cs.strath.ac.uk> (1 posts)
+# os <os<span>@</span>cs.strath.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

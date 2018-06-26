@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jay_holovacs_holovacs_at_idt_net_
+post_count: 11
 ---
 
-# Jay Holovacs <holovacs@idt.net> (11 posts)
+# Jay Holovacs <holovacs<span>@</span>idt.net> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

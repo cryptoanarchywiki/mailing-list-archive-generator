@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mike Godwin \<mnemonic@eff.org\><br>
+From: Mike Godwin \<mnemonic<span>@</span>eff.org\><br>
 To: cyberia-l@birds.wm.edu )<br>
 Message Hash: eff23eda09fadd7421c0b2fccbfaba9090b46c60f5e436fe0ca397c2344a9dff<br>
 Message ID: \<199402042259.RAA00674@eff.org\><br>
@@ -116,6 +116,8 @@ process, take steps to monitor compliance with the procedures.
 ## Thread
 
 + Return to [February 1994](/archive/1994/02)
+
++ Return to "[Mike Godwin <mnemonic<span>@</span>eff.org>](/author/mike_godwin_mnemonic_at_eff_org_)"
 
 + 1994-02-04 (Fri, 4 Feb 94 15:00:19 PST) - reno_key_escrow.statement (fwd) - _Mike Godwin \<mnemonic@eff.org\>_
 

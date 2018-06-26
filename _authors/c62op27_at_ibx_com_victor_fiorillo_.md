@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c62op27_at_ibx_com_victor_fiorillo_
+post_count: 6
 ---
 
-# c62op27@ibx.com (Victor Fiorillo) (6 posts)
+# c62op27<span>@</span>ibx.com (Victor Fiorillo) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

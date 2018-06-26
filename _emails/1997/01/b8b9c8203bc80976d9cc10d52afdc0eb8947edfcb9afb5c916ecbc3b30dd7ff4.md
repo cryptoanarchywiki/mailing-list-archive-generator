@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mullen, Patrick \<MullenP@ndhm06.ndhm.gtegsc.com\><br>
+From: Mullen, Patrick \<MullenP<span>@</span>ndhm06.ndhm.gtegsc.com\><br>
 To: "'ichudov@algebra.com\><br>
 Message Hash: b8b9c8203bc80976d9cc10d52afdc0eb8947edfcb9afb5c916ecbc3b30dd7ff4<br>
 Message ID: \<199701242112.NAA07643@toad.com\><br>
@@ -93,6 +93,8 @@ at work.  Unfortunately, the reduced mail is a result of censorship...
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Mullen, Patrick <MullenP<span>@</span>ndhm06.ndhm.gtegsc.com>](/author/mullen_patrick_mullenp_at_ndhm06_ndhm_gtegsc_com_)"
 
 + 1997-01-24 (Fri, 24 Jan 1997 13:12:36 -0800 (PST)) - RE: Rejection policy of the Cypherpunks maiing list - _Mullen, Patrick \<MullenP@ndhm06.ndhm.gtegsc.com\>_
 

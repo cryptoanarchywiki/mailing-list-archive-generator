@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ron_craswell_ronc_at_deming_com_
+post_count: 1
 ---
 
-# "Ron Craswell" <ronc@deming.com> (1 posts)
+# "Ron Craswell" <ronc<span>@</span>deming.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

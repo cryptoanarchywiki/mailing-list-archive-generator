@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: remailer_at_rebma_rebma_mn_org_mr_nobody_
+post_count: 1
 ---
 
-# remailer@rebma.rebma.mn.org (Mr. Nobody) (1 posts)
+# remailer<span>@</span>rebma.rebma.mn.org (Mr. Nobody) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

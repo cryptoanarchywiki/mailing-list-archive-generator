@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rhode_island_business_net_ici_at_ici_net_
+post_count: 2
 ---
 
-# "Rhode Island Business Net" <ici@ici.net> (2 posts)
+# "Rhode Island Business Net" <ici<span>@</span>ici.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

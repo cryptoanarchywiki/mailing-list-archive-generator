@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sameer_r_manek_seawolf_at_challenger_atc_fhda_edu_
+post_count: 3
 ---
 
-# Sameer R Manek <seawolf@challenger.atc.fhda.edu> (3 posts)
+# Sameer R Manek <seawolf<span>@</span>challenger.atc.fhda.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

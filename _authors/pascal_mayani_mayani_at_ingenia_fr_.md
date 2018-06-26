@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pascal_mayani_mayani_at_ingenia_fr_
+post_count: 1
 ---
 
-# Pascal Mayani <mayani@ingenia.fr> (1 posts)
+# Pascal Mayani <mayani<span>@</span>ingenia.fr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

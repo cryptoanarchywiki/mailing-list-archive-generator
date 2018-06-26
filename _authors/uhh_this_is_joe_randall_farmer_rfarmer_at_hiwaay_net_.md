@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uhh_this_is_joe_randall_farmer_rfarmer_at_hiwaay_net_
+post_count: 13
 ---
 
-# "Uhh...this is Joe [Randall Farmer]" <rfarmer@HiWAAY.net> (13 posts)
+# "Uhh...this is Joe [Randall Farmer]" <rfarmer<span>@</span>HiWAAY.net> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

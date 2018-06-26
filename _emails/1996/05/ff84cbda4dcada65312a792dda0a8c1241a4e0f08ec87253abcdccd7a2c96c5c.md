@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. ALLEN SMITH" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: stewarts@ix.netcom.com<br>
 Message Hash: ff84cbda4dcada65312a792dda0a8c1241a4e0f08ec87253abcdccd7a2c96c5c<br>
 Message ID: \<01I58Z1TPRZY8Y50T6@mbcl.rutgers.edu\><br>
@@ -70,6 +70,8 @@ bother backing up some directory or another - it saves them time and space.
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-05-29 (Wed, 29 May 1996 12:33:43 +0800) - Re: Remailers - What exists? - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

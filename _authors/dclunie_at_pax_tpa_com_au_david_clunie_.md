@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dclunie_at_pax_tpa_com_au_david_clunie_
+post_count: 17
 ---
 
-# dclunie@pax.tpa.com.au (David Clunie) (17 posts)
+# dclunie<span>@</span>pax.tpa.com.au (David Clunie) (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

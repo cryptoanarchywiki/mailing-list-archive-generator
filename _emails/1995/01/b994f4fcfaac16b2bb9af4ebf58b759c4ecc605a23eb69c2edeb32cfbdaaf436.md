@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dave Banisar \<tc@phantom.com\><br>
+From: Dave Banisar \<tc<span>@</span>phantom.com\><br>
 To: xpat@vm1.spcs.umn.edu<br>
 Message Hash: b994f4fcfaac16b2bb9af4ebf58b759c4ecc605a23eb69c2edeb32cfbdaaf436<br>
 Message ID: \<Pine.3.89.9501202321.A4231-0100000@mindvox\><br>
@@ -70,6 +70,11 @@ On Fri, 20 Jan 1995 xpat@vm1.spcs.umn.edu wrote:
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[Dave Banisar <tc<span>@</span>phantom.com>](/author/dave_banisar_tc_at_phantom_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[xpat<span>@</span>vm1.spcs.umn.edu](/author/xpat_at_vm1_spcs_umn_edu)"
 
 + 1995-01-20 (Fri, 20 Jan 95 10:45:38 PST) - [IRS to keep unreviewable secret dossiers on US citizens](/archive/1995/01/0db5ffb0a8354137fdecb29dd9dc244c35e08e5a6469600e9383a009a54c5efb) - _xpat@vm1.spcs.umn.edu_
   + 1995-01-20 (Fri, 20 Jan 95 11:00:02 PST) - [Re: IRS to keep unreviewable secret dossiers on US citizens](/archive/1995/01/5cfcb2fa39543088b671d38a87426af90067e888251b080d7ea35bd8ab5defeb) - _"Perry E. Metzger" \<perry@imsi.com\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: liveupdate_news_update_at_relay2_liveupdate_com_
+post_count: 1
 ---
 
-# "LiveUpdate News" <update@relay2.liveupdate.com> (1 posts)
+# "LiveUpdate News" <update<span>@</span>relay2.liveupdate.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

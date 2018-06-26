@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adam_fast_adamfast_at_u_washington_edu_
+post_count: 2
 ---
 
-# adam fast <adamfast@u.washington.edu> (2 posts)
+# adam fast <adamfast<span>@</span>u.washington.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

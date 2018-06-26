@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paulmerrill_at_acm_org_merlyn_at_camelot_bgould_at_home_com_brian_jay_gould_
+post_count: 1
 ---
 
-# paulmerrill@acm.org (Merlyn At Camelot)bgould@home.com (Brian Jay Gould) (1 posts)
+# paulmerrill<span>@</span>acm.org (Merlyn At Camelot)bgould<span>@</span>home.com (Brian Jay Gould) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lfws37a_at_prodigy_com_mr_steve_r_kell_
+post_count: 1
 ---
 
-# LFWS37A@prodigy.com (MR STEVE R KELL) (1 posts)
+# LFWS37A<span>@</span>prodigy.com (MR STEVE R KELL) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_herngaard_pethern_at_inet_unic_dk_
+post_count: 2
 ---
 
-# Peter Herngaard <pethern@inet.uni-c.dk> (2 posts)
+# Peter Herngaard <pethern<span>@</span>inet.uni-c.dk> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

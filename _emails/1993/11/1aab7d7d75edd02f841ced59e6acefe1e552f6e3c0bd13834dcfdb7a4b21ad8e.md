@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jdblair@nextsrv.cas.muohio.EDU<br>
+From: jdblair<span>@</span>nextsrv.cas.muohio.EDU<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1aab7d7d75edd02f841ced59e6acefe1e552f6e3c0bd13834dcfdb7a4b21ad8e<br>
 Message ID: \<9311062216.AA20823@ nextsrv.cas.muohio.EDU \><br>
@@ -72,6 +72,8 @@ iQBVAgUBLNvls6NqtARNqVmxAQG+0wIAnFlvkuRAVgkZyL7osC3S0lTqk44eMldI
 ## Thread
 
 + Return to [November 1993](/archive/1993/11)
+
++ Return to "[jdblair<span>@</span>nextsrv.cas.muohio.EDU](/author/jdblair_at_nextsrv_cas_muohio_edu)"
 
 + 1993-11-06 (Sat, 6 Nov 93 13:58:04 PST) - name for hardware list... - _jdblair@nextsrv.cas.muohio.EDU_
 

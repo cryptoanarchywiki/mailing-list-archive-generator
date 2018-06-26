@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joe_shea_joeshea_at_netcom_com_
+post_count: 3
 ---
 
-# Joe Shea <joeshea@netcom.com> (3 posts)
+# Joe Shea <joeshea<span>@</span>netcom.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

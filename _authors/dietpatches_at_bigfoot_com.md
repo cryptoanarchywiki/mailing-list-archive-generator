@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dietpatches_at_bigfoot_com
+post_count: 1
 ---
 
-# dietpatches@bigfoot.com (1 posts)
+# dietpatches<span>@</span>bigfoot.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

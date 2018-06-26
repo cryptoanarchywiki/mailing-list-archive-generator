@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ed_carp_erc_at_dal1820_computek_net_
+post_count: 46
 ---
 
-# Ed Carp <erc@dal1820.computek.net> (46 posts)
+# Ed Carp <erc<span>@</span>dal1820.computek.net> (46 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

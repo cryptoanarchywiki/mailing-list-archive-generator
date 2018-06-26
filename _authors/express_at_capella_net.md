@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: express_at_capella_net
+post_count: 2
 ---
 
-# express@capella.net (2 posts)
+# express<span>@</span>capella.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_nisewanger_at_eng_sun_com_jeff_nisewanger_
+post_count: 1
 ---
 
-# Jeff.Nisewanger@Eng.Sun.COM (Jeff Nisewanger) (1 posts)
+# Jeff.Nisewanger<span>@</span>Eng.Sun.COM (Jeff Nisewanger) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

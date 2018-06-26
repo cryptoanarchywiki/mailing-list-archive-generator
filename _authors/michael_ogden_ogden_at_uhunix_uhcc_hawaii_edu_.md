@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_ogden_ogden_at_uhunix_uhcc_hawaii_edu_
+post_count: 1
 ---
 
-# Michael Ogden <ogden@uhunix.uhcc.Hawaii.Edu> (1 posts)
+# Michael Ogden <ogden<span>@</span>uhunix.uhcc.Hawaii.Edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

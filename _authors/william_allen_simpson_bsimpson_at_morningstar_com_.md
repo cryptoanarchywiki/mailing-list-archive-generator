@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_allen_simpson_bsimpson_at_morningstar_com_
+post_count: 4
 ---
 
-# "William Allen Simpson" <bsimpson@morningstar.com> (4 posts)
+# "William Allen Simpson" <bsimpson<span>@</span>morningstar.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_cp_at_omaha_com_
+post_count: 5
 ---
 
-# alex <cp@omaha.com> (5 posts)
+# alex <cp<span>@</span>omaha.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mmidboe_at_uahcs2_cs_uah_edu_matt_midboe_computer_science_dept__univ_of_alabamahuntsville_
+post_count: 1
 ---
 
-# mmidboe@uahcs2.cs.uah.edu (Matt Midboe)     (Computer Science Dept., Univ. of Alabama-Huntsville) (1 posts)
+# mmidboe<span>@</span>uahcs2.cs.uah.edu (Matt Midboe)     (Computer Science Dept., Univ. of Alabama-Huntsville) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: a2@ah.com (Arthur Abraham)<br>
+From: a2<span>@</span>ah.com (Arthur Abraham)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d421fc4cfec8ef80eeea10e2b78a8df3219fcfd0defc19223009bd6ff056d0bc<br>
 Message ID: \<9405041904.AA01806@ah.com\><br>
@@ -82,5 +82,8 @@ available information should participate.]
 
 + Return to [May 1994](/archive/1994/05)
 
-+ 1994-05-04 (Wed, 4 May 94 12:06:36 PDT) - The ITARs   [support your CRYPT-IN rights!] - _a2@ah.com (Arthur Abraham)_
++ Return to "[a2<span>@</span>ah.com (Arthur Abraham)](/author/a2_at_ah_com_arthur_abraham_)"
+
++ _Unknown thread root_
+  + 1994-05-04 (Wed, 4 May 94 12:06:36 PDT) - The ITARs   [support your CRYPT-IN rights!] - _a2@ah.com (Arthur Abraham)_
 

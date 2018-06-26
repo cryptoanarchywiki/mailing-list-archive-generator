@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ryan_anderson_randerso_at_ece_eng_wayne_edu_
+post_count: 46
 ---
 
-# Ryan Anderson <randerso@ece.eng.wayne.edu> (46 posts)
+# Ryan Anderson <randerso<span>@</span>ece.eng.wayne.edu> (46 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

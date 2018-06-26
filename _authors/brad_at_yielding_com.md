@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brad_at_yielding_com
+post_count: 1
 ---
 
-# brad@yielding.com (1 posts)
+# brad<span>@</span>yielding.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

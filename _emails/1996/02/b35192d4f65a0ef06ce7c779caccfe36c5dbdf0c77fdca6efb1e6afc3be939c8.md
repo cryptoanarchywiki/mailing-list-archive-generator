@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: b35192d4f65a0ef06ce7c779caccfe36c5dbdf0c77fdca6efb1e6afc3be939c8<br>
 Message ID: \<ad480f2b0f02100420ba@[205.199.118.202]\><br>
@@ -66,6 +66,11 @@ Higher Power: 2^756839 - 1  | black markets, collapse of governments.
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1996-02-15 (Thu, 15 Feb 1996 21:01:39 +0800) - Re: True democracy the electronic way - _tcmay@got.net (Timothy C. May)_
   + 1996-02-16 (Fri, 16 Feb 1996 11:48:54 +0800) - [Re: True democracy the electronic way](/archive/1996/02/1cf674a3aaef8e7112fc08907cefd6761dd3dd6474a1047522fc6bdf97d737d9) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_

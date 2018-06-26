@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_james_gering_mgering_at_ecosystems_net_
+post_count: 78
 ---
 
-# Matthew James Gering <mgering@ecosystems.net> (78 posts)
+# Matthew James Gering <mgering<span>@</span>ecosystems.net> (78 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

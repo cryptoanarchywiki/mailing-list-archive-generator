@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jan_dobrucki_jdobruck_at_kki_net_pl_
+post_count: 4
 ---
 
-# Jan Dobrucki <jdobruck@kki.net.pl> (4 posts)
+# Jan Dobrucki <jdobruck<span>@</span>kki.net.pl> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

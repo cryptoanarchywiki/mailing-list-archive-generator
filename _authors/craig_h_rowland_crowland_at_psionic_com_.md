@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: craig_h_rowland_crowland_at_psionic_com_
+post_count: 1
 ---
 
-# "Craig H. Rowland" <crowland@psionic.com> (1 posts)
+# "Craig H. Rowland" <crowland<span>@</span>psionic.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

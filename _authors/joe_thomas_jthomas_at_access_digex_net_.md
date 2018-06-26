@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joe_thomas_jthomas_at_access_digex_net_
+post_count: 20
 ---
 
-# Joe Thomas <jthomas@access.digex.net> (20 posts)
+# Joe Thomas <jthomas<span>@</span>access.digex.net> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dorthy_at_coolmail_to
+post_count: 1
 ---
 
-# dorthy@coolmail.to (1 posts)
+# dorthy<span>@</span>coolmail.to (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

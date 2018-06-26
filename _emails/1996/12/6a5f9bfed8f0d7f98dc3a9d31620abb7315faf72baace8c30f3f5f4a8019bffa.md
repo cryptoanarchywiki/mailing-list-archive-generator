@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: paul@fatmans.demon.co.uk<br>
+From: paul<span>@</span>fatmans.demon.co.uk<br>
 To: "Dr.Dimitri Vulis KOTM" \<dlv@bwalk.dm.com\><br>
 Message Hash: 6a5f9bfed8f0d7f98dc3a9d31620abb7315faf72baace8c30f3f5f4a8019bffa<br>
 Message ID: \<851098860.921944.0@fatmans.demon.co.uk\><br>
@@ -58,6 +58,9 @@ race, colour, religion etc.
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[paul<span>@</span>fatmans.demon.co.uk](/author/paul_at_fatmans_demon_co_uk)"
 
 + 1996-12-20 (Fri, 20 Dec 1996 11:39:15 -0800 (PST)) - RE: Securing ActiveX. - _paul@fatmans.demon.co.uk_
   + 1996-12-21 (Sat, 21 Dec 1996 08:10:18 -0800 (PST)) - [RE: Securing ActiveX.](/archive/1996/12/b6c88c5b34e550b8957cc697c560d93dac1eae572ba3f52f189f07e38c5d236b) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

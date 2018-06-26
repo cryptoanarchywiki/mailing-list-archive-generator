@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathan_zamick_jonathanz_at_consensus_com_
+post_count: 23
 ---
 
-# Jonathan Zamick <JonathanZ@consensus.com> (23 posts)
+# Jonathan Zamick <JonathanZ<span>@</span>consensus.com> (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

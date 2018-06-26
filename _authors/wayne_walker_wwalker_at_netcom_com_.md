@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wayne_walker_wwalker_at_netcom_com_
+post_count: 1
 ---
 
-# Wayne Walker <wwalker@netcom.com> (1 posts)
+# Wayne Walker <wwalker<span>@</span>netcom.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robichaux_paul_e_perobich_at_ingr_com_
+post_count: 7
 ---
 
-# "Robichaux, Paul E" <perobich@ingr.com> (7 posts)
+# "Robichaux, Paul E" <perobich<span>@</span>ingr.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

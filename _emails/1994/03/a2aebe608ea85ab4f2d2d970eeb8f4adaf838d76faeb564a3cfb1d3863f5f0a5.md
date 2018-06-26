@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)<br>
+From: wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a2aebe608ea85ab4f2d2d970eeb8f4adaf838d76faeb564a3cfb1d3863f5f0a5<br>
 Message ID: \<9403050500.AA01957@anchor.ho.att.com\><br>
@@ -62,6 +62,8 @@ it stealthy so people who don't have the right keys just see noise.
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)](/author/wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_)"
 
 + 1994-03-05 (Fri, 4 Mar 94 21:01:04 PST) - Re:  more steganography talk - _wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)_
 

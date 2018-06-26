@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ford_prefect_remailer_at_binode_zerberus_de_
+post_count: 5
 ---
 
-# Ford Prefect <remailer@bi-node.zerberus.de> (5 posts)
+# Ford Prefect <remailer<span>@</span>bi-node.zerberus.de> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

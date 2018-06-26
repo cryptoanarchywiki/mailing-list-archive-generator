@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pgut01_at_cs_auckland_ac_nz
+post_count: 3
 ---
 
-# pgut01@cs.auckland.ac.nz (3 posts)
+# pgut01<span>@</span>cs.auckland.ac.nz (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

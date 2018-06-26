@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_elder_melder_at_descartes_coker_edu_
+post_count: 5
 ---
 
-# Michael Elder <melder@descartes.coker.edu> (5 posts)
+# Michael Elder <melder<span>@</span>descartes.coker.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

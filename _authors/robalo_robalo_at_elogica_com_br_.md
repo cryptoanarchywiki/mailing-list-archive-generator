@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robalo_robalo_at_elogica_com_br_
+post_count: 1
 ---
 
-# robalo <robalo@elogica.com.br> (1 posts)
+# robalo <robalo<span>@</span>elogica.com.br> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

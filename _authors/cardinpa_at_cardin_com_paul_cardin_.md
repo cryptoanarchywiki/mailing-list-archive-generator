@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cardinpa_at_cardin_com_paul_cardin_
+post_count: 1
 ---
 
-# cardinpa@cardin.com (Paul Cardin) (1 posts)
+# cardinpa<span>@</span>cardin.com (Paul Cardin) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

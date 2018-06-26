@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: usenet_at_agate_berkeley_edu_usenet_administration_
+post_count: 1
 ---
 
-# usenet@agate.berkeley.edu (Usenet Administration) (1 posts)
+# usenet<span>@</span>agate.berkeley.edu (Usenet Administration) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

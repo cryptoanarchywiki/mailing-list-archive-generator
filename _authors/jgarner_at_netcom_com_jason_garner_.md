@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jgarner_at_netcom_com_jason_garner_
+post_count: 1
 ---
 
-# jgarner@netcom.com (Jason Garner) (1 posts)
+# jgarner<span>@</span>netcom.com (Jason Garner) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

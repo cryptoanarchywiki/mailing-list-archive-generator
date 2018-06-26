@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lance_cottrell_loki_at_obscura_com_
+post_count: 8
 ---
 
-# Lance Cottrell <loki@obscura.com> (8 posts)
+# Lance Cottrell <loki<span>@</span>obscura.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

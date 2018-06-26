@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: isaac_norby_at_f217_n125_z1_fidonet_org_isaac_norby_
+post_count: 2
 ---
 
-# Isaac.Norby@f217.n125.z1.FIDONET.ORG (Isaac Norby) (2 posts)
+# Isaac.Norby<span>@</span>f217.n125.z1.FIDONET.ORG (Isaac Norby) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: banjo_lord_of_the_c_monkeys_kelli_at_zeus_towson_edu_
+post_count: 1
 ---
 
-# "banjo, lord of the c monkeys" <kelli@zeus.towson.edu> (1 posts)
+# "banjo, lord of the c monkeys" <kelli<span>@</span>zeus.towson.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

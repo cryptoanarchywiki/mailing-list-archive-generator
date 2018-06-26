@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alfred_michael_arzt_office_at_phoenix_com_ai_
+post_count: 1
 ---
 
-# Alfred Michael Arzt <office@phoenix.com.ai> (1 posts)
+# Alfred Michael Arzt <office<span>@</span>phoenix.com.ai> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

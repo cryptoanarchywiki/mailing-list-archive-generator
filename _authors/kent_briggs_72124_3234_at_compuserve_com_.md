@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kent_briggs_72124_3234_at_compuserve_com_
+post_count: 13
 ---
 
-# Kent Briggs <72124.3234@compuserve.com> (13 posts)
+# Kent Briggs <72124.3234<span>@</span>compuserve.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

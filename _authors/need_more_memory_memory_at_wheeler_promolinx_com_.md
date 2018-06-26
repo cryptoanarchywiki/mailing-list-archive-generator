@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: need_more_memory_memory_at_wheeler_promolinx_com_
+post_count: 1
 ---
 
-# Need More Memory? <memory@wheeler.promolinx.com> (1 posts)
+# Need More Memory? <memory<span>@</span>wheeler.promolinx.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

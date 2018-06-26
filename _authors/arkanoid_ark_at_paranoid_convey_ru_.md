@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: arkanoid_ark_at_paranoid_convey_ru_
+post_count: 5
 ---
 
-# ArkanoiD <ark@paranoid.convey.ru> (5 posts)
+# ArkanoiD <ark<span>@</span>paranoid.convey.ru> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

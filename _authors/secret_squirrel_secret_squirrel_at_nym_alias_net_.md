@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: secret_squirrel_secret_squirrel_at_nym_alias_net_
+post_count: 8
 ---
 
-# Secret Squirrel <secret_squirrel@nym.alias.net> (8 posts)
+# Secret Squirrel <secret_squirrel<span>@</span>nym.alias.net> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

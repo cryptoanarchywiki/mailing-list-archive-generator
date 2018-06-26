@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: travis_hassloch_x231_travis_at_evtech_com_
+post_count: 2
 ---
 
-# Travis Hassloch x231 <travis@evtech.com> (2 posts)
+# Travis Hassloch x231 <travis<span>@</span>evtech.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: amf_investments_amfho_at_nowhere_com_
+post_count: 1
 ---
 
-# AMF Investments <amf/h/o@nowhere.com> (1 posts)
+# AMF Investments <amf/h/o<span>@</span>nowhere.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

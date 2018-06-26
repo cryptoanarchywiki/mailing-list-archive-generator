@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_hedges_hedges_at_infonex_com_
+post_count: 8
 ---
 
-# Mark Hedges <hedges@infonex.com> (8 posts)
+# Mark Hedges <hedges<span>@</span>infonex.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

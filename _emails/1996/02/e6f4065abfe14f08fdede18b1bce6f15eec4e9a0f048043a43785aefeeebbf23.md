@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: e6f4065abfe14f08fdede18b1bce6f15eec4e9a0f048043a43785aefeeebbf23<br>
 Message ID: \<199602291708.SAA10852@utopia.hacktic.nl\><br>
@@ -122,6 +122,8 @@ well as Premenos corporate information materials.
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1996-02-29 (Fri, 1 Mar 1996 04:07:26 +0800) - Top Spy Hawks GAK - _nobody@REPLAY.COM (Anonymous)_
 

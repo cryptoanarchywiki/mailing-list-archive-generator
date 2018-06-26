@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: tien_lee_tien_
+post_count: 2
 ---
 
 # tien (Lee Tien) (2 posts)

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: msprague_at_owens_ridgecrest_ca_us_m_f_pat_sprague_
+post_count: 3
 ---
 
-# msprague@owens.ridgecrest.ca.us (M. F. (Pat) Sprague) (3 posts)
+# msprague<span>@</span>owens.ridgecrest.ca.us (M. F. (Pat) Sprague) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

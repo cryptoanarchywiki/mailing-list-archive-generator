@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Lance Cottrell \<loki@infonex.com\><br>
+From: Lance Cottrell \<loki<span>@</span>infonex.com\><br>
 To: Bill Stewart \<svmcguir@syr.edu\><br>
 Message Hash: 0e0cd8ea2f672fafe28dbc3d8d7b8cddea5a180916a1dcf3100cbaa4fdbba1c0<br>
 Message ID: \<199702070441.UAA09115@toad.com\><br>
@@ -113,6 +113,8 @@ weasels come."
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Lance Cottrell <loki<span>@</span>infonex.com>](/author/lance_cottrell_loki_at_infonex_com_)"
 
 + 1997-02-07 (Thu, 6 Feb 1997 20:41:11 -0800 (PST)) - Re: mail-to-news fun - _Lance Cottrell \<loki@infonex.com\>_
 

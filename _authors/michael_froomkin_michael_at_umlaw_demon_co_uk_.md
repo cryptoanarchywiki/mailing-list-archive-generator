@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_froomkin_michael_at_umlaw_demon_co_uk_
+post_count: 12
 ---
 
-# Michael Froomkin <Michael@umlaw.demon.co.uk> (12 posts)
+# Michael Froomkin <Michael<span>@</span>umlaw.demon.co.uk> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: weld_pond_weld_at_l0pht_com_
+post_count: 23
 ---
 
-# Weld Pond <weld@l0pht.com> (23 posts)
+# Weld Pond <weld<span>@</span>l0pht.com> (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

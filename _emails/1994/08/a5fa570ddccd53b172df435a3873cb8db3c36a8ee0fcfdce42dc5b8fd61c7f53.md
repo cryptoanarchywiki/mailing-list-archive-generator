@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: \<nobody@vox.hacktic.nl\><br>
+From: \<nobody<span>@</span>vox.hacktic.nl\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a5fa570ddccd53b172df435a3873cb8db3c36a8ee0fcfdce42dc5b8fd61c7f53<br>
 Message ID: \<199408181058.AA15812@xs4all.hacktic.nl\><br>
@@ -67,6 +67,9 @@ used by that same entity.
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[<nobody<span>@</span>vox.hacktic.nl>](/author/_nobody_at_vox_hacktic_nl_)"
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
 
 + 1994-08-18 (Thu, 18 Aug 94 03:58:21 PDT) - CIA Using Remailer System? - _\<nobody@vox.hacktic.nl\>_
   + 1994-08-19 (Fri, 19 Aug 94 12:23:06 PDT) - [CIA Using Remailer System?](/archive/1994/08/08013b0e03ae61ba610e76bacd0f549e11e2c36eb4ec16961cfc29a3e928b0c7) - _hughes@ah.com (Eric Hughes)_

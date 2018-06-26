@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: khijolerc_at_colossus_apple_com_ed_carp_
+post_count: 4
 ---
 
-# khijol!erc@colossus.apple.com (Ed Carp) (4 posts)
+# khijol!erc<span>@</span>colossus.apple.com (Ed Carp) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

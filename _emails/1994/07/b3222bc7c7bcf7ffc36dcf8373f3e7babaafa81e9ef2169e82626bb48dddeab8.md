@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rishab@dxm.ernet.in<br>
+From: rishab<span>@</span>dxm.ernet.in<br>
 To: cypherpunks@toad.com<br>
 Message Hash: b3222bc7c7bcf7ffc36dcf8373f3e7babaafa81e9ef2169e82626bb48dddeab8<br>
 Message ID: \<gate.suNoPc1w165w@dxm.ernet.in\><br>
@@ -48,6 +48,8 @@ Voicemail +91 11 3760335                 H 34C Saket, New Delhi 110017, INDIA
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[rishab<span>@</span>dxm.ernet.in](/author/rishab_at_dxm_ernet_in)"
 
 + 1994-07-18 (Mon, 18 Jul 94 07:48:44 PDT) - Re: ID card from hell - _rishab@dxm.ernet.in_
 

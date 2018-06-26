@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anil_das_das_at_razor_engr_sgi_com_
+post_count: 8
 ---
 
-# Anil Das <das@razor.engr.sgi.com> (8 posts)
+# Anil Das <das<span>@</span>razor.engr.sgi.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

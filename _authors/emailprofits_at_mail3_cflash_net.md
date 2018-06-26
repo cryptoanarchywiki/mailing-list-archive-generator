@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: emailprofits_at_mail3_cflash_net
+post_count: 1
 ---
 
-# emailprofits@mail3.c-flash.net (1 posts)
+# emailprofits<span>@</span>mail3.c-flash.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

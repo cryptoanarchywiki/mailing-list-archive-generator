@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_m_cobb_jcobb_at_ahcbsd1_ovnet_com_
+post_count: 72
 ---
 
-# "James M. Cobb" <jcobb@ahcbsd1.ovnet.com> (72 posts)
+# "James M. Cobb" <jcobb<span>@</span>ahcbsd1.ovnet.com> (72 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

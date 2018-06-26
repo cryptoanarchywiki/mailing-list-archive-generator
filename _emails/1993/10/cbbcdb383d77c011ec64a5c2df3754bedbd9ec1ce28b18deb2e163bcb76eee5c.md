@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: cman@IO.COM (Douglas Barnes)<br>
+From: cman<span>@</span>IO.COM (Douglas Barnes)<br>
 To: msattler@netcom.com (Michael Sattler)<br>
 Message Hash: cbbcdb383d77c011ec64a5c2df3754bedbd9ec1ce28b18deb2e163bcb76eee5c<br>
 Message ID: \<9310111620.AA23813@illuminati.IO.COM\><br>
@@ -65,6 +65,9 @@ Illuminati Online          metaverse.io.com 7777          /______\
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[cman<span>@</span>IO.COM (Douglas Barnes)](/author/cman_at_io_com_douglas_barnes_)"
++ Return to "[msattler<span>@</span>netcom.com (Michael Sattler)](/author/msattler_at_netcom_com_michael_sattler_)"
 
 + 1993-10-11 (Mon, 11 Oct 93 09:09:49 PDT) - [Re: The Bank of the Internet!? (fwd)](/archive/1993/10/e08ddd1aa69e13f75f7594254b7c0d7f250f4b969f37714afd75bdcfb17878d8) - _msattler@netcom.com (Michael Sattler)_
   + 1993-10-11 (Mon, 11 Oct 93 09:26:15 PDT) - Re: The Bank of the Internet!? (fwd) - _cman@IO.COM (Douglas Barnes)_

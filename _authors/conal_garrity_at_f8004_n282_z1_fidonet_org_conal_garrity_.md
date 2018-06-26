@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: conal_garrity_at_f8004_n282_z1_fidonet_org_conal_garrity_
+post_count: 1
 ---
 
-# Conal.Garrity@f8004.n282.z1.fidonet.org (Conal Garrity) (1 posts)
+# Conal.Garrity<span>@</span>f8004.n282.z1.fidonet.org (Conal Garrity) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

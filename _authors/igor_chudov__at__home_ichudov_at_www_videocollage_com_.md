@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: igor_chudov__at__home_ichudov_at_www_videocollage_com_
+post_count: 8
 ---
 
-# "Igor Chudov @ home" <ichudov@www.video-collage.com> (8 posts)
+# "Igor Chudov <span>@</span> home" <ichudov<span>@</span>www.video-collage.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

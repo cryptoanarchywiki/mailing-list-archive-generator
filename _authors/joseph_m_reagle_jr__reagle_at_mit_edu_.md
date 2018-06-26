@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joseph_m_reagle_jr__reagle_at_mit_edu_
+post_count: 45
 ---
 
-# "Joseph M. Reagle Jr." <reagle@MIT.EDU> (45 posts)
+# "Joseph M. Reagle Jr." <reagle<span>@</span>MIT.EDU> (45 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

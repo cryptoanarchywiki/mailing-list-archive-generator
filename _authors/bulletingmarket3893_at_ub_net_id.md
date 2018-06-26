@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bulletingmarket3893_at_ub_net_id
+post_count: 1
 ---
 
-# bulletingmarket3893@ub.net.id (1 posts)
+# bulletingmarket3893<span>@</span>ub.net.id (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: narayan_raghu_narry_at_geocities_com_
+post_count: 2
 ---
 
-# Narayan Raghu <narry@geocities.com> (2 posts)
+# Narayan Raghu <narry<span>@</span>geocities.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pgut001_at_cs_auckland_ac_nz_peter_gutmann_
+post_count: 39
 ---
 
-# pgut001@cs.auckland.ac.nz (Peter Gutmann) (39 posts)
+# pgut001<span>@</span>cs.auckland.ac.nz (Peter Gutmann) (39 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

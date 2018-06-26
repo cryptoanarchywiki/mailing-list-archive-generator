@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sandy Sandfort \<sandfort@crl.com\><br>
+From: Sandy Sandfort \<sandfort<span>@</span>crl.com\><br>
 To: Cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: f77e3daee44c9b79fdff6d99bee9decdbe4abb885a0ca995f7213517e4ae2a85<br>
 Message ID: \<Pine.SUN.3.91.961123094720.6554A-100000@crl7.crl.com\><br>
@@ -74,6 +74,8 @@ Archives, FAQ, words and more at the WWW site: http://www.wordsmith.org/awad/
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1996-11-23 (Sat, 23 Nov 1996 09:54:27 -0800 (PST)) - A.Word.A.Day--syncope (fwd) - _Sandy Sandfort \<sandfort@crl.com\>_
 

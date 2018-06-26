@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: colin_orion_chandler_orion_at_crl_com_
+post_count: 6
 ---
 
-# Colin Orion Chandler <orion@crl.com> (6 posts)
+# Colin Orion Chandler <orion<span>@</span>crl.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

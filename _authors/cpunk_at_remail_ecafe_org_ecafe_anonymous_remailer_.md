@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cpunk_at_remail_ecafe_org_ecafe_anonymous_remailer_
+post_count: 24
 ---
 
-# cpunk@remail.ecafe.org (ECafe Anonymous Remailer) (24 posts)
+# cpunk<span>@</span>remail.ecafe.org (ECafe Anonymous Remailer) (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

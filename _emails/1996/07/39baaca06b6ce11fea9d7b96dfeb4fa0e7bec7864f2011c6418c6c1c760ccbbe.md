@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Voters Telecommunications Watch \<shabbir@vtw.org\><br>
+From: Voters Telecommunications Watch \<shabbir<span>@</span>vtw.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 39baaca06b6ce11fea9d7b96dfeb4fa0e7bec7864f2011c6418c6c1c760ccbbe<br>
 Message ID: \<199607202316.TAA25104@panix3.panix.com\><br>
@@ -110,6 +110,8 @@ End crypto-news
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Voters Telecommunications Watch <shabbir<span>@</span>vtw.org>](/author/voters_telecommunications_watch_shabbir_at_vtw_org_)"
 
 + 1996-07-21 (Sun, 21 Jul 1996 09:32:15 +0800) - INFO: Submit your testimony to Congress for hearings on July 25! - _Voters Telecommunications Watch \<shabbir@vtw.org\>_
 

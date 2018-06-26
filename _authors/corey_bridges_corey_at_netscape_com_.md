@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: corey_bridges_corey_at_netscape_com_
+post_count: 10
 ---
 
-# Corey Bridges <corey@netscape.com> (10 posts)
+# Corey Bridges <corey<span>@</span>netscape.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

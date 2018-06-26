@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eknipp_at_lobo_rmhs_colorado_edu_ethan_knipp_
+post_count: 1
 ---
 
-# eknipp@lobo.rmhs.colorado.edu (Ethan Knipp) (1 posts)
+# eknipp<span>@</span>lobo.rmhs.colorado.edu (Ethan Knipp) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

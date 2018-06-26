@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: guy_at_theporch_raider_net_jonathan_guy_
+post_count: 3
 ---
 
-# guy@theporch.raider.net (Jonathan Guy) (3 posts)
+# guy<span>@</span>theporch.raider.net (Jonathan Guy) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

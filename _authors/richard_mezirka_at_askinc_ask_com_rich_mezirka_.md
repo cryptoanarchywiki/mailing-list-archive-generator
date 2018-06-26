@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_mezirka_at_askinc_ask_com_rich_mezirka_
+post_count: 1
 ---
 
-# richard_mezirka@askinc.ask.com (Rich Mezirka) (1 posts)
+# richard_mezirka<span>@</span>askinc.ask.com (Rich Mezirka) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

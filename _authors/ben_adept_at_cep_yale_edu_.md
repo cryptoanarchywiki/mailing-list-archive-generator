@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ben_adept_at_cep_yale_edu_
+post_count: 1
 ---
 
-# Ben <adept@cep.yale.edu> (1 posts)
+# Ben <adept<span>@</span>cep.yale.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

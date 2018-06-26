@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: missouri_freenet_administration_measl_at_mfn_org_
+post_count: 17
 ---
 
-# Missouri FreeNet Administration <measl@mfn.org> (17 posts)
+# Missouri FreeNet Administration <measl<span>@</span>mfn.org> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dave Hayes \<dave@kachina.jetcafe.org\><br>
+From: Dave Hayes \<dave<span>@</span>kachina.jetcafe.org\><br>
 To: shamrock@netcom.com<br>
 Message Hash: fda1d03877faa1eddfb654c45a711b55bcb6b574911c0015fdcadffcbeac6f22<br>
 Message ID: \<199702151020.CAA03178@kachina.jetcafe.org\><br>
@@ -49,6 +49,8 @@ Freedom Knight of Usenet - http://www.jetcafe.org/~dave/usenet
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Dave Hayes <dave<span>@</span>kachina.jetcafe.org>](/author/dave_hayes_dave_at_kachina_jetcafe_org_)"
 
 + 1997-02-15 (Sat, 15 Feb 1997 02:20:44 -0800 (PST)) - Re: Dissolving Choke Points - _Dave Hayes \<dave@kachina.jetcafe.org\>_
 

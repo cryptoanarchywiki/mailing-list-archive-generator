@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phil_karn_karn_at_homer_ka9q_ampr_org_
+post_count: 1
 ---
 
-# Phil Karn <karn@homer.ka9q.ampr.org> (1 posts)
+# Phil Karn <karn<span>@</span>homer.ka9q.ampr.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

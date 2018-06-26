@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 92640856_at_bellsouth_net
+post_count: 1
 ---
 
-# 92640856@bellsouth.net (1 posts)
+# 92640856<span>@</span>bellsouth.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

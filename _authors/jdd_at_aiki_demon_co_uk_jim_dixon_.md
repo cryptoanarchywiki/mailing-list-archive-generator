@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jdd_at_aiki_demon_co_uk_jim_dixon_
+post_count: 81
 ---
 
-# jdd@aiki.demon.co.uk (Jim Dixon) (81 posts)
+# jdd<span>@</span>aiki.demon.co.uk (Jim Dixon) (81 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ironwolf_at_minotaur_com_robert_mcnally_
+post_count: 1
 ---
 
-# Ironwolf@Minotaur.com (Robert McNally) (1 posts)
+# Ironwolf<span>@</span>Minotaur.com (Robert McNally) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: allen_robinson_sebago_at_earthlink_net_
+post_count: 4
 ---
 
-# "Allen Robinson" <sebago@earthlink.net> (4 posts)
+# "Allen Robinson" <sebago<span>@</span>earthlink.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: russ_allbery_eagle_at_cyclone_stanford_edu_
+post_count: 1
 ---
 
-# Russ Allbery <eagle@cyclone.Stanford.EDU> (1 posts)
+# Russ Allbery <eagle<span>@</span>cyclone.Stanford.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

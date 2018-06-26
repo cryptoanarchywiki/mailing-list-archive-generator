@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charlie_kaufmaniris_iris_at_iris_com
+post_count: 3
 ---
 
-# Charlie_Kaufman/Iris.IRIS@iris.com (3 posts)
+# Charlie_Kaufman/Iris.IRIS<span>@</span>iris.com (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

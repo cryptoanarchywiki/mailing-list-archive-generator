@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: douglas_hoover_doug_at_arcot_com_
+post_count: 1
 ---
 
-# Douglas Hoover <doug@arcot.com> (1 posts)
+# Douglas Hoover <doug<span>@</span>arcot.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

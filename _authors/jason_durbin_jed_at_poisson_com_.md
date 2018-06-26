@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jason_durbin_jed_at_poisson_com_
+post_count: 1
 ---
 
-# Jason Durbin <jed@poisson.com> (1 posts)
+# Jason Durbin <jed<span>@</span>poisson.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

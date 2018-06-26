@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_knowles_erehwon_at_dis_org_
+post_count: 5
 ---
 
-# William Knowles <erehwon@dis.org> (5 posts)
+# William Knowles <erehwon<span>@</span>dis.org> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jordan_at_macandco_com_jordan_mccrackin_by_way_of_alec_mccrackin_camcc_at_abraxis_com_
+post_count: 1
 ---
 
-# jordan@macandco.com (Jordan McCrackin) (by way of Alec McCrackin <camcc@abraxis.com>) (1 posts)
+# jordan<span>@</span>macandco.com (Jordan McCrackin) (by way of Alec McCrackin <camcc<span>@</span>abraxis.com>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

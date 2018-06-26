@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christoph_pagalies_at_hh2_maus_de_christoph_pagalies_by_way_of_habs_at_cmyk_warwick_com_harry_shapiro_
+post_count: 1
 ---
 
-# Christoph_Pagalies@hh2.maus.de (Christoph Pagalies) (by way of habs@cmyk.warwick.com (Harry Shapiro)) (1 posts)
+# Christoph_Pagalies<span>@</span>hh2.maus.de (Christoph Pagalies) (by way of habs<span>@</span>cmyk.warwick.com (Harry Shapiro)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

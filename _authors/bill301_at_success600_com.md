@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill301_at_success600_com
+post_count: 2
 ---
 
-# bill301@success600.com (2 posts)
+# bill301<span>@</span>success600.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

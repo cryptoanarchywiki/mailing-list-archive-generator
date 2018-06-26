@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stutzmjj_at_bigvax_alfred_edu
+post_count: 1
 ---
 
-# stutzmjj@bigvax.alfred.edu (1 posts)
+# stutzmjj<span>@</span>bigvax.alfred.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

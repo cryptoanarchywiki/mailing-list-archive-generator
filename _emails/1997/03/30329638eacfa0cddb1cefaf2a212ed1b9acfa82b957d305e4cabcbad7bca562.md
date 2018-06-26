@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: lucifer@dhp.com (lucifer Anonymous Remailer)<br>
+From: lucifer<span>@</span>dhp.com (lucifer Anonymous Remailer)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 30329638eacfa0cddb1cefaf2a212ed1b9acfa82b957d305e4cabcbad7bca562<br>
 Message ID: \<199703250408.XAA32673@dhp.com\><br>
@@ -48,6 +48,9 @@ fetal cranium (not much to begin with).
 ## Thread
 
 + Return to [March 1997](/archive/1997/03)
+
++ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/author/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
++ Return to "[lucifer<span>@</span>dhp.com (lucifer Anonymous Remailer)](/author/lucifer_at_dhp_com_lucifer_anonymous_remailer_)"
 
 + 1997-03-25 (Mon, 24 Mar 1997 20:08:26 -0800 (PST)) - [IMPORTANT] Forgery detection - _lucifer@dhp.com (lucifer Anonymous Remailer)_
   + 1997-03-25 (Mon, 24 Mar 1997 22:05:31 -0800 (PST)) - [Re: [IMPORTANT] Forgery detection](/archive/1997/03/d3356bcc38603d4424e409309f2d6f415b3473624475d934e9309a4692fe72e0) - _Graham-John Bullers \<real@freenet.edmonton.ab.ca\>_

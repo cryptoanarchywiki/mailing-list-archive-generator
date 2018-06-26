@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: btmoore_at_iquest_net_benjamin_t_moore_
+post_count: 7
 ---
 
-# btmoore@iquest.net (Benjamin T. Moore) (7 posts)
+# btmoore<span>@</span>iquest.net (Benjamin T. Moore) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

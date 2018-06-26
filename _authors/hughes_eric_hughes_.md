@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: hughes_eric_hughes_
+post_count: 12
 ---
 
 # hughes (Eric Hughes) (12 posts)

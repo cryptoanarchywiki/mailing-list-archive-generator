@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iagoldbe_at_calum_csclub_uwaterloo_ca_ian_goldberg_
+post_count: 19
 ---
 
-# iagoldbe@calum.csclub.uwaterloo.ca (Ian Goldberg) (19 posts)
+# iagoldbe<span>@</span>calum.csclub.uwaterloo.ca (Ian Goldberg) (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

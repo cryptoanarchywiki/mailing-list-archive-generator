@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cme_at_cybercash_com_carl_ellison_
+post_count: 11
 ---
 
-# cme@cybercash.com (Carl Ellison) (11 posts)
+# cme<span>@</span>cybercash.com (Carl Ellison) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mathew_ellman_mellman_at_niia_net_
+post_count: 2
 ---
 
-# Mathew Ellman <mellman@niia.net> (2 posts)
+# Mathew Ellman <mellman<span>@</span>niia.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

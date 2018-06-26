@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: j_michael_diehl_mdiehl_at_hydra_unm_edu_
+post_count: 2
 ---
 
-# J. Michael Diehl <mdiehl@hydra.unm.edu> (2 posts)
+# J. Michael Diehl <mdiehl<span>@</span>hydra.unm.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

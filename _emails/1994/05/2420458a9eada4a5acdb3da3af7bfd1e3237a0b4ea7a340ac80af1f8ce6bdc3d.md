@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Matt Thomlinson \<phantom@u.washington.edu\><br>
+From: Matt Thomlinson \<phantom<span>@</span>u.washington.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2420458a9eada4a5acdb3da3af7bfd1e3237a0b4ea7a340ac80af1f8ce6bdc3d<br>
 Message ID: \<Pine.3.89.9405061549.A20120-0100000@stein3.u.washington.edu\><br>
@@ -55,6 +55,8 @@ PGP 2.2 key available via email, or finger phantom@hardy.u.washington.edu
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[Matt Thomlinson <phantom<span>@</span>u.washington.edu>](/author/matt_thomlinson_phantom_at_u_washington_edu_)"
 
 + 1994-05-06 (Fri, 6 May 94 15:35:28 PDT) - Message to Pr0duct Cypher - _Matt Thomlinson \<phantom@u.washington.edu\>_
 

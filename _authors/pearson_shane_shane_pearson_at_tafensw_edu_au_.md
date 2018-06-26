@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pearson_shane_shane_pearson_at_tafensw_edu_au_
+post_count: 12
 ---
 
-# Pearson Shane <Shane.Pearson@tafensw.edu.au> (12 posts)
+# Pearson Shane <Shane.Pearson<span>@</span>tafensw.edu.au> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

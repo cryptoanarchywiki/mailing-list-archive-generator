@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_the_obscure_briandaniels_at_mindspring_com_
+post_count: 3
 ---
 
-# Brian the Obscure <briandaniels@mindspring.com> (3 posts)
+# Brian the Obscure <briandaniels<span>@</span>mindspring.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: merriman@metronet.com (David K. Merriman)<br>
+From: merriman<span>@</span>metronet.com (David K. Merriman)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8b36ddcb745a6bc6a78bb6868db0cf706e50dc080c2fb1fcee5c5df8aedd9bdb<br>
 Message ID: \<199411270602.AA29745@metronet.com\><br>
@@ -59,6 +59,8 @@ inevitable."  John F. Kennedy
 ## Thread
 
 + Return to [November 1994](/archive/1994/11)
+
++ Return to "[merriman<span>@</span>metronet.com (David K. Merriman)](/author/merriman_at_metronet_com_david_k_merriman_)"
 
 + 1994-11-27 (Sat, 26 Nov 94 22:01:53 PST) - PGP DLL (revisited - kinda) - _merriman@metronet.com (David K. Merriman)_
 

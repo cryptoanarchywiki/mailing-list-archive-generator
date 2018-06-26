@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fromtheroad_at_mapquest_com_from_the_road_
+post_count: 1
 ---
 
-# fromtheroad@mapquest.com (From The Road) (1 posts)
+# fromtheroad<span>@</span>mapquest.com (From The Road) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

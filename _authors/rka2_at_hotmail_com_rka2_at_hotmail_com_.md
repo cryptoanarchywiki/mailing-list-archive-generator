@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rka2_at_hotmail_com_rka2_at_hotmail_com_
+post_count: 1
 ---
 
-# rka2@hotmail.com (Rka2@hotmail.com) (1 posts)
+# rka2<span>@</span>hotmail.com (Rka2<span>@</span>hotmail.com) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

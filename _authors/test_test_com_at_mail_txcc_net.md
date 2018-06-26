@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: test_test_com_at_mail_txcc_net
+post_count: 1
 ---
 
-# test.test.com@mail.txcc.net (1 posts)
+# test.test.com<span>@</span>mail.txcc.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_at_openmind_com_doug_cutrell_
+post_count: 22
 ---
 
-# doug@openmind.com (Doug Cutrell) (22 posts)
+# doug<span>@</span>openmind.com (Doug Cutrell) (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

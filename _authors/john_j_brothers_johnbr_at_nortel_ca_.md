@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_j_brothers_johnbr_at_nortel_ca_
+post_count: 1
 ---
 
-# "john (j.) brothers" <johnbr@nortel.ca> (1 posts)
+# "john (j.) brothers" <johnbr<span>@</span>nortel.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

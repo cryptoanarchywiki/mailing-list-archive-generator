@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_g_diehl_mdiehl_at_nac_net_
+post_count: 1
 ---
 
-# "Martin G. Diehl" <mdiehl@nac.net> (1 posts)
+# "Martin G. Diehl" <mdiehl<span>@</span>nac.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

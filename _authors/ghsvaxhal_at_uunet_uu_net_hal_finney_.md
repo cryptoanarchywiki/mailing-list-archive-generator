@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ghsvaxhal_at_uunet_uu_net_hal_finney_
+post_count: 15
 ---
 
-# ghsvax!hal@uunet.UU.NET (Hal Finney) (15 posts)
+# ghsvax!hal<span>@</span>uunet.UU.NET (Hal Finney) (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _klimt_gustav_gggklimt_at_hotmail_com_
+post_count: 1
 ---
 
-# " klimt  gustav" <gggklimt@hotmail.com> (1 posts)
+# " klimt  gustav" <gggklimt<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

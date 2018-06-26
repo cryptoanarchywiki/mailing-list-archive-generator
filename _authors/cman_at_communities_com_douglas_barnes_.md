@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cman_at_communities_com_douglas_barnes_
+post_count: 73
 ---
 
-# cman@communities.com (Douglas Barnes) (73 posts)
+# cman<span>@</span>communities.com (Douglas Barnes) (73 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

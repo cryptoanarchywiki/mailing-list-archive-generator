@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aburt_at_nyx10_cs_du_edu_andrew_burt_
+post_count: 1
 ---
 
-# aburt@nyx10.cs.du.edu (Andrew Burt) (1 posts)
+# aburt<span>@</span>nyx10.cs.du.edu (Andrew Burt) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

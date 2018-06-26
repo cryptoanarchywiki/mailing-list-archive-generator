@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jms_at_tennis_opus1_com_its_like_a_network_only_different_
+post_count: 1
 ---
 
-# jms@tennis.opus1.com (It's like a network, only different) (1 posts)
+# jms<span>@</span>tennis.opus1.com (It's like a network, only different) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

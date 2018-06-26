@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sallis327_at_juno_com
+post_count: 1
 ---
 
-# sallis327@juno.com (1 posts)
+# sallis327<span>@</span>juno.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

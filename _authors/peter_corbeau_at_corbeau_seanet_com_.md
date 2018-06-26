@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_corbeau_at_corbeau_seanet_com_
+post_count: 1
 ---
 
-# Peter <corbeau@corbeau.seanet.com> (1 posts)
+# Peter <corbeau<span>@</span>corbeau.seanet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

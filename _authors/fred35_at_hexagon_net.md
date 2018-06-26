@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fred35_at_hexagon_net
+post_count: 1
 ---
 
-# fred35@hexagon.net (1 posts)
+# fred35<span>@</span>hexagon.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

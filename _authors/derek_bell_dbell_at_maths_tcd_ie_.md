@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: derek_bell_dbell_at_maths_tcd_ie_
+post_count: 23
 ---
 
-# Derek Bell <dbell@maths.tcd.ie> (23 posts)
+# Derek Bell <dbell<span>@</span>maths.tcd.ie> (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: romana_machado_romana_at_apple_com_by_way_of_plaz_at_netcom_com_plaz_
+post_count: 1
 ---
 
-# Romana Machado <romana@apple.com> (by way of plaz@netcom.com (Plaz)) (1 posts)
+# Romana Machado <romana<span>@</span>apple.com> (by way of plaz<span>@</span>netcom.com (Plaz)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

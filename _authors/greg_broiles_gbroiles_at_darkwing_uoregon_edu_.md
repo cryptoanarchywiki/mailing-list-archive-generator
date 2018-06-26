@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_broiles_gbroiles_at_darkwing_uoregon_edu_
+post_count: 20
 ---
 
-# Greg Broiles <gbroiles@darkwing.uoregon.edu> (20 posts)
+# Greg Broiles <gbroiles<span>@</span>darkwing.uoregon.edu> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

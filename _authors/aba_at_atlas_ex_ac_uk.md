@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aba_at_atlas_ex_ac_uk
+post_count: 19
 ---
 
-# aba@atlas.ex.ac.uk (19 posts)
+# aba<span>@</span>atlas.ex.ac.uk (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

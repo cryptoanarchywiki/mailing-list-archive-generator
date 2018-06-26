@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pfarrell_at_gmuvax2_gmu_edu_pat_farrell_
+post_count: 2
 ---
 
-# pfarrell@gmuvax2.gmu.edu (Pat Farrell) (2 posts)
+# pfarrell<span>@</span>gmuvax2.gmu.edu (Pat Farrell) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

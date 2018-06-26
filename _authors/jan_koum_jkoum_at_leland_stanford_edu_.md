@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jan_koum_jkoum_at_leland_stanford_edu_
+post_count: 1
 ---
 
-# Jan Koum <jkoum@leland.Stanford.EDU> (1 posts)
+# Jan Koum <jkoum<span>@</span>leland.Stanford.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

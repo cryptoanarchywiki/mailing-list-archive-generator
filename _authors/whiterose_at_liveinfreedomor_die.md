@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: whiterose_at_liveinfreedomor_die
+post_count: 1
 ---
 
-# whiterose@liveinfreedomor.die (1 posts)
+# whiterose<span>@</span>liveinfreedomor.die (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

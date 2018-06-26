@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: simonm_at_mindvox_phantom_com_simon_moon_
+post_count: 2
 ---
 
-# simonm@mindvox.phantom.com (Simon Moon) (2 posts)
+# simonm<span>@</span>mindvox.phantom.com (Simon Moon) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: maree19_at_kola_dcu_ie_grynomu_
+post_count: 1
 ---
 
-# maree19@kola.dcu.ie (grynomu) (1 posts)
+# maree19<span>@</span>kola.dcu.ie (grynomu) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

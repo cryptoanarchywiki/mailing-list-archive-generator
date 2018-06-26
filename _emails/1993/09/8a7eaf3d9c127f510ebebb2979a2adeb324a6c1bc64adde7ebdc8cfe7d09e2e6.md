@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: doug@netcom.com (Doug Merritt)<br>
+From: doug<span>@</span>netcom.com (Doug Merritt)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8a7eaf3d9c127f510ebebb2979a2adeb324a6c1bc64adde7ebdc8cfe7d09e2e6<br>
 Message ID: \<9309301559.AA23757@netcom4.netcom.com\><br>
@@ -63,7 +63,12 @@ service, whether or not it applies to the rest of what they do?
 
 + Return to [September 1993](/archive/1993/09)
 
-+ 1993-09-30 (Thu, 30 Sep 93 09:01:54 PDT) - Re: FIDOnet encryption (or lack thereof) - _doug@netcom.com (Doug Merritt)_
-  + 1993-09-30 (Thu, 30 Sep 93 11:11:55 PDT) - [Re: FIDOnet encryption (or lack thereof)](/archive/1993/09/3ddf7a8742df64393c92a64a2404e283623fb2bf486419d20646f9d653adbed6) - _Mike Godwin \<mnemonic@eff.org\>_
-    + 1993-09-30 (Thu, 30 Sep 93 15:27:29 PDT) - [Re: FIDOnet encryption (or lack thereof)](/archive/1993/09/432dd4f53a261890d3cd5ae6d2cd2140217786b655b7c734da14a317f34edb49) - _Marc Horowitz \<marc@GZA.COM\>_
++ Return to "[doug<span>@</span>netcom.com (Doug Merritt)](/author/doug_at_netcom_com_doug_merritt_)"
++ Return to "[Marc Horowitz <marc<span>@</span>GZA.COM>](/author/marc_horowitz_marc_at_gza_com_)"
++ Return to "[Mike Godwin <mnemonic<span>@</span>eff.org>](/author/mike_godwin_mnemonic_at_eff_org_)"
+
++ _Unknown thread root_
+  + 1993-09-30 (Thu, 30 Sep 93 09:01:54 PDT) - Re: FIDOnet encryption (or lack thereof) - _doug@netcom.com (Doug Merritt)_
+    + 1993-09-30 (Thu, 30 Sep 93 11:11:55 PDT) - [Re: FIDOnet encryption (or lack thereof)](/archive/1993/09/3ddf7a8742df64393c92a64a2404e283623fb2bf486419d20646f9d653adbed6) - _Mike Godwin \<mnemonic@eff.org\>_
+      + 1993-09-30 (Thu, 30 Sep 93 15:27:29 PDT) - [Re: FIDOnet encryption (or lack thereof)](/archive/1993/09/432dd4f53a261890d3cd5ae6d2cd2140217786b655b7c734da14a317f34edb49) - _Marc Horowitz \<marc@GZA.COM\>_
 

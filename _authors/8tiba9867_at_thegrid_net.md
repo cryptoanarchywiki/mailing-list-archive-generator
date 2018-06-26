@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 8tiba9867_at_thegrid_net
+post_count: 1
 ---
 
-# 8tIBa9867@thegrid.net (1 posts)
+# 8tIBa9867<span>@</span>thegrid.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

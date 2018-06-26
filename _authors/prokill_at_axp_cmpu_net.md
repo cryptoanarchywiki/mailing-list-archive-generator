@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: prokill_at_axp_cmpu_net
+post_count: 1
 ---
 
-# PROKILL@axp.cmpu.net (1 posts)
+# PROKILL<span>@</span>axp.cmpu.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

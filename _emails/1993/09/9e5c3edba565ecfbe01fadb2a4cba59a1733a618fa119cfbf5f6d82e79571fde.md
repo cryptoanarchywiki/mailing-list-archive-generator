@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: BRADLEY  ROBERT WESTON \<bradleyr@ucsu.Colorado.EDU\><br>
+From: BRADLEY  ROBERT WESTON \<bradleyr<span>@</span>ucsu.Colorado.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9e5c3edba565ecfbe01fadb2a4cba59a1733a618fa119cfbf5f6d82e79571fde<br>
 Message ID: \<Pine.3.07.9309251802.A3388-a100000@ucsu.Colorado.EDU\><br>
@@ -62,6 +62,8 @@ where I am a student in aerospace engineering.
 ## Thread
 
 + Return to [September 1993](/archive/1993/09)
+
++ Return to "[BRADLEY  ROBERT WESTON <bradleyr<span>@</span>ucsu.Colorado.EDU>](/author/bradley_robert_weston_bradleyr_at_ucsu_colorado_edu_)"
 
 + 1993-09-26 (Sat, 25 Sep 93 17:35:53 PDT) - hi - _BRADLEY  ROBERT WESTON \<bradleyr@ucsu.Colorado.EDU\>_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Carl Ellison \<cme@tis.com\><br>
+From: Carl Ellison \<cme<span>@</span>tis.com\><br>
 To: tcmay@netcom.com<br>
 Message Hash: cd8e5b35cca25cd984976b4afe5bd69a8cca1b761b39ffc3ea84354ccee0d2fb<br>
 Message ID: \<9407272036.AA20598@tis.com\><br>
@@ -104,6 +104,11 @@ The only real answer is (to me):
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Carl Ellison <cme<span>@</span>tis.com>](/author/carl_ellison_cme_at_tis_com_)"
++ Return to "[paul<span>@</span>poboy.b17c.ingr.com (Paul Robichaux)](/author/paul_at_poboy_b17c_ingr_com_paul_robichaux_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-07-27 (Wed, 27 Jul 94 11:44:52 PDT) - [Government-Controlled Trust Hierarchies](/archive/1994/07/09ce4c96971125d9766610e6eb513a4a1a5f1f3cba73892c2648dc32c9e8752b) - _tcmay@netcom.com (Timothy C. May)_
   + 1994-07-27 (Wed, 27 Jul 94 13:36:58 PDT) - Re: Government-Controlled Trust Hierarchies - _Carl Ellison \<cme@tis.com\>_

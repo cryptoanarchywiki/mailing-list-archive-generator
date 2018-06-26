@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 4aeaffc7bef3ee3c8b86b9db81c27616ab9a58ab6236d64d4c3bacf0cfe9fe82<br>
 Message ID: \<1.5.4.32.19971028115311.009a71e8@pop.pipeline.com\><br>
@@ -67,6 +67,8 @@ lazy DNA ISP.
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1997-10-28 (Tue, 28 Oct 1997 19:54:35 +0800) - Re: Tim's worst nightmare.,.. - _John Young \<jya@pipeline.com\>_
 

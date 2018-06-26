@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: paul@hawksbill.sprintmrn.com (Paul Ferguson)<br>
+From: paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8bf3c3e6e174bfe5a8cd8d5dca95638bcf52756acbf21afda77ad10d6a47cb8b<br>
 Message ID: \<9408091432.AA00220@hawksbill.sprintmrn.com\><br>
@@ -74,6 +74,8 @@ he said."
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)](/author/paul_at_hawksbill_sprintmrn_com_paul_ferguson_)"
 
 + 1994-08-09 (Tue, 9 Aug 94 06:29:20 PDT) - NRO spoof and deception - _paul@hawksbill.sprintmrn.com (Paul Ferguson)_
 

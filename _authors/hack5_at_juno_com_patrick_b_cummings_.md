@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hack5_at_juno_com_patrick_b_cummings_
+post_count: 1
 ---
 
-# hack5@juno.com (patrick b cummings) (1 posts)
+# hack5<span>@</span>juno.com (patrick b cummings) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

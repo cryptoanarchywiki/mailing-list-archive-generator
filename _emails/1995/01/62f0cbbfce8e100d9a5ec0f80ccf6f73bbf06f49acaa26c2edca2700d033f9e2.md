@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: m5@vail.tivoli.com (Mike McNally)<br>
+From: m5<span>@</span>vail.tivoli.com (Mike McNally)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 62f0cbbfce8e100d9a5ec0f80ccf6f73bbf06f49acaa26c2edca2700d033f9e2<br>
 Message ID: \<9501272235.AA05861@vail.tivoli.com\><br>
@@ -56,5 +56,8 @@ the language as defined by the ARM.)
 
 + Return to [January 1995](/archive/1995/01)
 
-+ 1995-01-27 (Fri, 27 Jan 95 14:35:59 PST) - Oops, Correction: one big error in "Even more unix holy war." - _m5@vail.tivoli.com (Mike McNally)_
++ Return to "[m5<span>@</span>vail.tivoli.com (Mike McNally)](/author/m5_at_vail_tivoli_com_mike_mcnally_)"
+
++ _Unknown thread root_
+  + 1995-01-27 (Fri, 27 Jan 95 14:35:59 PST) - Oops, Correction: one big error in "Even more unix holy war." - _m5@vail.tivoli.com (Mike McNally)_
 

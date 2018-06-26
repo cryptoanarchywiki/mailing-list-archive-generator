@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: juggy_at_cerc_wvu_edu_v_juggy_jagannathan_
+post_count: 1
 ---
 
-# juggy@cerc.wvu.edu (V. "Juggy" Jagannathan) (1 posts)
+# juggy<span>@</span>cerc.wvu.edu (V. "Juggy" Jagannathan) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

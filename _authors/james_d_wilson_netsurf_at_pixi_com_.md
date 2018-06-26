@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_d_wilson_netsurf_at_pixi_com_
+post_count: 1
 ---
 
-# "James D. Wilson" <netsurf@pixi.com> (1 posts)
+# "James D. Wilson" <netsurf<span>@</span>pixi.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

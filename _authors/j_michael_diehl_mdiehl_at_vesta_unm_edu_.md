@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: j_michael_diehl_mdiehl_at_vesta_unm_edu_
+post_count: 7
 ---
 
-# J. Michael Diehl <mdiehl@vesta.unm.edu> (7 posts)
+# J. Michael Diehl <mdiehl<span>@</span>vesta.unm.edu> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

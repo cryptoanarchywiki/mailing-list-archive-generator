@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marty_levy_rwww60_at_email_sps_mot_com_
+post_count: 4
 ---
 
-# "Marty Levy" <rwww60@email.sps.mot.com> (4 posts)
+# "Marty Levy" <rwww60<span>@</span>email.sps.mot.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

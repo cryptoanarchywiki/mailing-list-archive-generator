@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_informant_inform_at_cosmo_dartmouth_edu_
+post_count: 1
 ---
 
-# The Informant <inform@cosmo.dartmouth.edu> (1 posts)
+# The Informant <inform<span>@</span>cosmo.dartmouth.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

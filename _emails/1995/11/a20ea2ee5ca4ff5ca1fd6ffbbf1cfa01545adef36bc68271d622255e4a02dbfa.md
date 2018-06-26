@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. ALLEN SMITH" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a20ea2ee5ca4ff5ca1fd6ffbbf1cfa01545adef36bc68271d622255e4a02dbfa<br>
 Message ID: \<01HY5FBP59SG8WYPHF@mbcl.rutgers.edu\><br>
@@ -58,6 +58,8 @@ they get a clue enough to spot them. Yes, the shouting is theirs.
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1995-11-28 (Tue, 28 Nov 1995 09:24:48 +0800) - Cyberangels vs Anonymnity - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

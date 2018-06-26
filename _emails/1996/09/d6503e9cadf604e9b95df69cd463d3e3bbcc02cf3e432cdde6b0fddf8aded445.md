@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: remailer-operators@c2.org<br>
 Message Hash: d6503e9cadf604e9b95df69cd463d3e3bbcc02cf3e432cdde6b0fddf8aded445<br>
 Message ID: \<199609290623.XAA25604@dfw-ix3.ix.netcom.com\><br>
@@ -167,6 +167,10 @@ has been repeatedly denied by anyone in a position to know. :-) ]
 
 + Return to [September 1996](/archive/1996/09)
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[snow <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
 
 + 1996-09-29 (Sun, 29 Sep 1996 16:43:18 +0800) - Re: Making Remailers Widespread [REMAILERS] - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1996-09-29 (Mon, 30 Sep 1996 02:18:35 +0800) - [Re: Making Remailers Widespread [REMAILERS]](/archive/1996/09/fc2e9c9f835a6730bb76166d2b61c45680f4179748a660c0f8eacefa54a799d8) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

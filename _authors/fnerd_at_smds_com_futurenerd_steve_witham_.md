@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fnerd_at_smds_com_futurenerd_steve_witham_
+post_count: 115
 ---
 
-# fnerd@smds.com (FutureNerd Steve Witham) (115 posts)
+# fnerd<span>@</span>smds.com (FutureNerd Steve Witham) (115 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

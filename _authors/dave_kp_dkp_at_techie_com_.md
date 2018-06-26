@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_kp_dkp_at_techie_com_
+post_count: 1
 ---
 
-# Dave K-P <dkp@techie.com> (1 posts)
+# Dave K-P <dkp<span>@</span>techie.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

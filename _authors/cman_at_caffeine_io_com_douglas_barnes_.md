@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cman_at_caffeine_io_com_douglas_barnes_
+post_count: 17
 ---
 
-# cman@caffeine.io.com (Douglas Barnes) (17 posts)
+# cman<span>@</span>caffeine.io.com (Douglas Barnes) (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

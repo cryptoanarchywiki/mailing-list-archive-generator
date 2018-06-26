@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bob_atkinson_exchange__bobatk_at_exchange_microsoft_com_
+post_count: 1
 ---
 
-# "Bob Atkinson (Exchange)" <bobatk@EXCHANGE.MICROSOFT.com> (1 posts)
+# "Bob Atkinson (Exchange)" <bobatk<span>@</span>EXCHANGE.MICROSOFT.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: f4bc5bc8fcd4f604f7fb0566d1c7fea523f482505ffdf6bfccd2ebf0d06bdcc9<br>
 Message ID: \<199512210755.IAA28350@utopia.hacktic.nl\><br>
@@ -49,6 +49,8 @@ A.E.N.
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1995-12-21 (Wed, 20 Dec 95 23:55:10 PST) - Cypherpunks resumes? - _nobody@REPLAY.COM (Anonymous)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_webmaster_at_canes_gsw_peachnet_edu_
+post_count: 1
 ---
 
-# Bill <webmaster@canes.gsw.peachnet.edu> (1 posts)
+# Bill <webmaster<span>@</span>canes.gsw.peachnet.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

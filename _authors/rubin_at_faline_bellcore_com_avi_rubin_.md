@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rubin_at_faline_bellcore_com_avi_rubin_
+post_count: 3
 ---
 
-# rubin@faline.bellcore.com (Avi Rubin) (3 posts)
+# rubin<span>@</span>faline.bellcore.com (Avi Rubin) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

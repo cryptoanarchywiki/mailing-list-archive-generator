@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gwt_at_eskimo_com_george_taylor_
+post_count: 2
 ---
 
-# gwt@eskimo.com (George Taylor) (2 posts)
+# gwt<span>@</span>eskimo.com (George Taylor) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: truth_mongrel_tm_at_woof_nut_
+post_count: 1
 ---
 
-# Truth Mongrel <tm@woof.nut> (1 posts)
+# Truth Mongrel <tm<span>@</span>woof.nut> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

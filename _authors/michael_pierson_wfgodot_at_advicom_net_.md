@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_pierson_wfgodot_at_advicom_net_
+post_count: 1
 ---
 
-# "Michael Pierson" <wfgodot@advicom.net> (1 posts)
+# "Michael Pierson" <wfgodot<span>@</span>advicom.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

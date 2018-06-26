@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edyson_at_edventure_com_esther_dyson_
+post_count: 3
 ---
 
-# edyson@edventure.com (Esther Dyson) (3 posts)
+# edyson<span>@</span>edventure.com (Esther Dyson) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

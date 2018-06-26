@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 3yy1zc_3yy1zc_at_ix_netcom_com_
+post_count: 1
 ---
 
-# 3yy1zc <3yy1zc@ix.netcom.com> (1 posts)
+# 3yy1zc <3yy1zc<span>@</span>ix.netcom.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

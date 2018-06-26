@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blaster_at_kiae_su_victor_a_borisov_
+post_count: 1
 ---
 
-# blaster@kiae.su (Victor A. Borisov) (1 posts)
+# blaster<span>@</span>kiae.su (Victor A. Borisov) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

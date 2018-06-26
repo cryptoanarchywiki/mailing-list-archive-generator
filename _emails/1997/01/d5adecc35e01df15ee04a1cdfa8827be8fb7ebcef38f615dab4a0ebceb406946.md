@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: cyberdude@iname.com<br>
+From: cyberdude<span>@</span>iname.com<br>
 To: _N/A_<br>
 Message Hash: d5adecc35e01df15ee04a1cdfa8827be8fb7ebcef38f615dab4a0ebceb406946<br>
 Message ID: \<199701200249.SAA27748@toad.com\><br>
@@ -39,6 +39,8 @@ For more information contact   cyberdude@iname.com
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[cyberdude<span>@</span>iname.com](/author/cyberdude_at_iname_com)"
 
 + 1997-01-20 (Sun, 19 Jan 1997 18:49:50 -0800 (PST)) - 'Making Money Fast" - _cyberdude@iname.com_
 

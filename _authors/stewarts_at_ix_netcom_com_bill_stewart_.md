@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stewarts_at_ix_netcom_com_bill_stewart_
+post_count: 49
 ---
 
-# stewarts@ix.netcom.com (Bill Stewart) (49 posts)
+# stewarts<span>@</span>ix.netcom.com (Bill Stewart) (49 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

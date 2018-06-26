@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_right_guy_trg_at_dev_null_
+post_count: 2
 ---
 
-# The Right Guy <trg@dev.null> (2 posts)
+# The Right Guy <trg<span>@</span>dev.null> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

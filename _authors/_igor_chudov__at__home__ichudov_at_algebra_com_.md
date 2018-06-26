@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _igor_chudov__at__home__ichudov_at_algebra_com_
+post_count: 1
 ---
 
-# "(Igor Chudov @ home)" <ichudov@Algebra.COM> (1 posts)
+# "(Igor Chudov <span>@</span> home)" <ichudov<span>@</span>Algebra.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

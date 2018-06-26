@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: paul@fatmans.demon.co.uk<br>
+From: paul<span>@</span>fatmans.demon.co.uk<br>
 To: Fyodor Yarochkin \<fygrave@freenet.bishkek.su\><br>
 Message Hash: 62d79560cd25c2ed86c127e8ad3cdb08c619ecfaa2af760b4cdc6dccfb1b52dc<br>
 Message ID: \<849884579.522761.0@fatmans.demon.co.uk\><br>
@@ -53,6 +53,8 @@ signing it, to generate a PGP key fingerprint use pgp -kvc <username>
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[paul<span>@</span>fatmans.demon.co.uk](/author/paul_at_fatmans_demon_co_uk)"
 
 + 1996-12-06 (Fri, 6 Dec 1996 07:34:01 -0800 (PST)) - Re: What's a "fingerprint" ? - _paul@fatmans.demon.co.uk_
 

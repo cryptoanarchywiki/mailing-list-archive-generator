@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 6efdd4dafb645232bf3baacbf5e34f06c9cda5298f9e1c69c9ed53c141af6f3f<br>
 Message ID: \<199608090119.SAA20142@mail.pacifier.com\><br>
@@ -89,6 +89,9 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jonathon <grafolog<span>@</span>netcom.com>](/author/jonathon_grafolog_at_netcom_com_)"
 
 + 1996-08-09 (Fri, 9 Aug 1996 12:12:49 +0800) - Why should we trust the system? - _jim bell \<jimbell@pacifier.com\>_
   + 1996-08-09 (Fri, 9 Aug 1996 17:08:50 +0800) - [Re: Why should we trust the system?](/archive/1996/08/ead94eb11ce2012710a8f388a7efa93a5ac946d4d31a0cd35a59dee0f97787d8) - _jonathon \<grafolog@netcom.com\>_

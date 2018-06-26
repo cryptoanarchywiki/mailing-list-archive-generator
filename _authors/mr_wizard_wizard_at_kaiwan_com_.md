@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mr_wizard_wizard_at_kaiwan_com_
+post_count: 1
 ---
 
-# "Mr. Wizard" <wizard@kaiwan.com> (1 posts)
+# "Mr. Wizard" <wizard<span>@</span>kaiwan.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

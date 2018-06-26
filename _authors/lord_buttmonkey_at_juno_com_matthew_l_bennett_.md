@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lord_buttmonkey_at_juno_com_matthew_l_bennett_
+post_count: 7
 ---
 
-# lord_buttmonkey@juno.com (Matthew L Bennett) (7 posts)
+# lord_buttmonkey<span>@</span>juno.com (Matthew L Bennett) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

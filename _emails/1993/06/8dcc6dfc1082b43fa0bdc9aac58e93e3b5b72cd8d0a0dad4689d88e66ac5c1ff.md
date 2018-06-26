@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: kqb@whscad1.att.com<br>
+From: kqb<span>@</span>whscad1.att.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8dcc6dfc1082b43fa0bdc9aac58e93e3b5b72cd8d0a0dad4689d88e66ac5c1ff<br>
 Message ID: \<9306172216.AA11412@toad.com\><br>
@@ -78,6 +78,8 @@ PS: I found that a simple, semi-automatic algorithm can generate a
 ## Thread
 
 + Return to [June 1993](/archive/1993/06)
+
++ Return to "[kqb<span>@</span>whscad1.att.com](/author/kqb_at_whscad1_att_com)"
 
 + 1993-06-17 (Thu, 17 Jun 93 15:16:40 PDT) - Re: Weak steganography - _kqb@whscad1.att.com_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: spam_at_telerama_lm_com_steve_marting_
+post_count: 1
 ---
 
-# spam@telerama.lm.com (Steve Marting) (1 posts)
+# spam<span>@</span>telerama.lm.com (Steve Marting) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

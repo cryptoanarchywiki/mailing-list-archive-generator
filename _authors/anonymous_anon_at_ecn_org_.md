@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_anon_at_ecn_org_
+post_count: 2
 ---
 
-# Anonymous <anon@ecn.org> (2 posts)
+# Anonymous <anon<span>@</span>ecn.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

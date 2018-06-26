@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pdlamb_at_iquest_com_patrick_lamb_
+post_count: 4
 ---
 
-# pdlamb@iquest.com (Patrick Lamb) (4 posts)
+# pdlamb<span>@</span>iquest.com (Patrick Lamb) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

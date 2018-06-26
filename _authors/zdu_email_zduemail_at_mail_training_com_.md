@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zdu_email_zduemail_at_mail_training_com_
+post_count: 1
 ---
 
-# ZDU Email <ZDUEmail@mail.training.com> (1 posts)
+# ZDU Email <ZDUEmail<span>@</span>mail.training.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

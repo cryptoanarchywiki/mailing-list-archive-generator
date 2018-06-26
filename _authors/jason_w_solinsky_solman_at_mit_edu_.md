@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jason_w_solinsky_solman_at_mit_edu_
+post_count: 29
 ---
 
-# Jason W Solinsky <solman@MIT.EDU> (29 posts)
+# Jason W Solinsky <solman<span>@</span>MIT.EDU> (29 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

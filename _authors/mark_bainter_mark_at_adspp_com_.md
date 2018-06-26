@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_bainter_mark_at_adspp_com_
+post_count: 2
 ---
 
-# Mark Bainter <Mark@adspp.com> (2 posts)
+# Mark Bainter <Mark<span>@</span>adspp.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

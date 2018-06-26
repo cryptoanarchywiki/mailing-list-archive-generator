@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tallpaul@pipeline.com (tallpaul)<br>
+From: tallpaul<span>@</span>pipeline.com (tallpaul)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d29ab8a4ef3bc41018fdbd4edcab613b2ddda3b060671bdd5cdcc1151eb084c9<br>
 Message ID: \<199602191257.HAA09741@pipe12.nyc.pipeline.com\><br>
@@ -63,6 +63,8 @@ bad hysteria with good hysteria but with adult thinking.
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[tallpaul<span>@</span>pipeline.com (tallpaul)](/author/tallpaul_at_pipeline_com_tallpaul_)"
 
 + 1996-02-19 (Mon, 19 Feb 1996 21:30:39 +0800) - Re: Req. for soundbites - _tallpaul@pipeline.com (tallpaul)_
 

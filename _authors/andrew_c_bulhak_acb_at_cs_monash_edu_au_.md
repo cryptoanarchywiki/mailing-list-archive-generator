@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_c_bulhak_acb_at_cs_monash_edu_au_
+post_count: 1
 ---
 
-# Andrew C Bulhak <acb@cs.monash.edu.au> (1 posts)
+# Andrew C Bulhak <acb<span>@</span>cs.monash.edu.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

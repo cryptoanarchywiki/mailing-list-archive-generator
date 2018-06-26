@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erik_e_fair_time_keeper_fair_at_cesium_clock_org_
+post_count: 3
 ---
 
-# "Erik E. Fair" (Time Keeper) <fair@cesium.clock.org> (3 posts)
+# "Erik E. Fair" (Time Keeper) <fair<span>@</span>cesium.clock.org> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

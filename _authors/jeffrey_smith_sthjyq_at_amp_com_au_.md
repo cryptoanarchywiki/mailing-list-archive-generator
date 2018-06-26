@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeffrey_smith_sthjyq_at_amp_com_au_
+post_count: 1
 ---
 
-# Jeffrey Smith <sthjyq@amp.com.au> (1 posts)
+# Jeffrey Smith <sthjyq<span>@</span>amp.com.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

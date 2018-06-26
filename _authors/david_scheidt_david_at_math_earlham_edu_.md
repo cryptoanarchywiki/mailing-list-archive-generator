@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_scheidt_david_at_math_earlham_edu_
+post_count: 1
 ---
 
-# David Scheidt <david@math.earlham.edu> (1 posts)
+# David Scheidt <david<span>@</span>math.earlham.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

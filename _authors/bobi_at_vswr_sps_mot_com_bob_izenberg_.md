@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bobi_at_vswr_sps_mot_com_bob_izenberg_
+post_count: 7
 ---
 
-# bobi@vswr.sps.mot.com (Bob Izenberg) (7 posts)
+# bobi<span>@</span>vswr.sps.mot.com (Bob Izenberg) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

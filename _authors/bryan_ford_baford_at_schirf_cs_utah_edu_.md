@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bryan_ford_baford_at_schirf_cs_utah_edu_
+post_count: 3
 ---
 
-# Bryan Ford <baford@schirf.cs.utah.edu> (3 posts)
+# Bryan Ford <baford<span>@</span>schirf.cs.utah.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

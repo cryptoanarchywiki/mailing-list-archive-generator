@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rishab@dxm.ernet.in<br>
+From: rishab<span>@</span>dxm.ernet.in<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 41dfe5abd5ba2f41d8a9fbe7491bd1bef626d558c2b4e58d7c0aa5e1a0ca2bd6<br>
 Message ID: \<gate.ci8Xwc1w165w@dxm.ernet.in\><br>
@@ -63,6 +63,8 @@ Voicemail +91 11 3760335                 H 34C Saket, New Delhi 110017, INDIA
 ## Thread
 
 + Return to [December 1994](/archive/1994/12)
+
++ Return to "[rishab<span>@</span>dxm.ernet.in](/author/rishab_at_dxm_ernet_in)"
 
 + 1994-12-06 (Tue, 6 Dec 94 10:58:51 PST) - GATT and ITAR-crypto - _rishab@dxm.ernet.in_
 

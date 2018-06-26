@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mother_jones_electronic_subscription_esub_at_mojones_mojones_com_
+post_count: 1
 ---
 
-# Mother Jones Electronic Subscription <esub@mojones.mojones.com> (1 posts)
+# Mother Jones Electronic Subscription <esub<span>@</span>mojones.mojones.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

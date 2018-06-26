@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Nelson Minar \<nelson@media.mit.edu\><br>
+From: Nelson Minar \<nelson<span>@</span>media.mit.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 51061f83731cb126b2ea4a3c7130c91aaffebdebde7ebde80bb5cfcba9051abe<br>
 Message ID: \<cpa7mmi2jsc.fsf@hattrick.media.mit.edu\><br>
@@ -51,6 +51,14 @@ chrooted partition? That doesn't work, either.
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "[Nelson Minar <nelson<span>@</span>media.mit.edu>](/author/nelson_minar_nelson_at_media_mit_edu_)"
++ Return to "[Ray Arachelian <sunder<span>@</span>brainlink.com>](/author/ray_arachelian_sunder_at_brainlink_com_)"
++ Return to "[snow <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
 
 + 1996-12-10 (Tue, 10 Dec 1996 08:23:56 -0800 (PST)) - [Java DES breaker?](/archive/1996/12/b0b36153be219450127e5ebfab3472cfe09ad7e0b24c336b3d2230795ae4f5d5) - _Ray Arachelian \<sunder@brainlink.com\>_
   + 1996-12-11 (Tue, 10 Dec 1996 23:37:51 -0800 (PST)) - [Re: Java DES breaker?](/archive/1996/12/a9da789c68c8f0865b718c77ac1d56efdeedef650a50067718684b26ab8fee9e) - _Bill Frantz \<frantz@netcom.com\>_

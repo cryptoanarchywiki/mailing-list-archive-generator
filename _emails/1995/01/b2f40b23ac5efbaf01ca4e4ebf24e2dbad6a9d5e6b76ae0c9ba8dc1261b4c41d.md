@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: an172607@anon.penet.fi (duquesne duke)<br>
+From: an172607<span>@</span>anon.penet.fi (duquesne duke)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: b2f40b23ac5efbaf01ca4e4ebf24e2dbad6a9d5e6b76ae0c9ba8dc1261b4c41d<br>
 Message ID: \<9501020251.AA27454@anon.penet.fi\><br>
@@ -76,6 +76,8 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[an172607<span>@</span>anon.penet.fi (duquesne duke)](/author/an172607_at_anon_penet_fi_duquesne_duke_)"
 
 + 1995-01-02 (Sun, 1 Jan 95 19:48:12 PST) - cnonymity, law and order - _an172607@anon.penet.fi (duquesne duke)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_gorsuch_chrisg_at_chrisg_itg_ti_com_
+post_count: 2
 ---
 
-# Chris Gorsuch <chrisg@chrisg.itg.ti.com> (2 posts)
+# Chris Gorsuch <chrisg<span>@</span>chrisg.itg.ti.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

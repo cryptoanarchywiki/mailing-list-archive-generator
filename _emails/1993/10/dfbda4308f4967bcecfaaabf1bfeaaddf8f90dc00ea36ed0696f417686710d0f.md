@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: CYPHERPUNKS@toad.com<br>
 Message Hash: dfbda4308f4967bcecfaaabf1bfeaaddf8f90dc00ea36ed0696f417686710d0f<br>
 Message ID: \<199310121728.AA03421@panix.com\><br>
@@ -67,6 +67,8 @@ lives so naturally they started to kill each other for Health."
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1993-10-12 (Tue, 12 Oct 93 10:29:53 PDT) - Health Reform Smart Cards - _Duncan Frissell \<frissell@panix.com\>_
 

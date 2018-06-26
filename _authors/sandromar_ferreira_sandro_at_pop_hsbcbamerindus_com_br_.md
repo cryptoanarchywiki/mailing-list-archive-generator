@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sandromar_ferreira_sandro_at_pop_hsbcbamerindus_com_br_
+post_count: 3
 ---
 
-# Sandromar Ferreira <sandro@pop.hsbcbamerindus.com.br> (3 posts)
+# Sandromar Ferreira <sandro<span>@</span>pop.hsbcbamerindus.com.br> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

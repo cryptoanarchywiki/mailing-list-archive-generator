@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _schmittec_at_mj_laafb_af_mil_
+post_count: 1
 ---
 
-# <schmittec@MJ.LAAFB.AF.MIL> (1 posts)
+# <schmittec<span>@</span>MJ.LAAFB.AF.MIL> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

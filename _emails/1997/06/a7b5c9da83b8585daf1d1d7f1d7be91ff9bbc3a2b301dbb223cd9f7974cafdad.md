@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Secret Squirrel \<nobody@secret.squirrel.owl.de\><br>
+From: Secret Squirrel \<nobody<span>@</span>secret.squirrel.owl.de\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: a7b5c9da83b8585daf1d1d7f1d7be91ff9bbc3a2b301dbb223cd9f7974cafdad<br>
 Message ID: \<19970617011917.5241.qmail@squirrel.owl.de\><br>
@@ -55,6 +55,8 @@ BlackMonger
 ## Thread
 
 + Return to [June 1997](/archive/1997/06)
+
++ Return to "[Secret Squirrel <nobody<span>@</span>secret.squirrel.owl.de>](/author/secret_squirrel_nobody_at_secret_squirrel_owl_de_)"
 
 + 1997-06-17 (Tue, 17 Jun 1997 09:42:24 +0800) - Re: Homer on Terrorism - _Secret Squirrel \<nobody@secret.squirrel.owl.de\>_
 

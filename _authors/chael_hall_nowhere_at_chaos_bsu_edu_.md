@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chael_hall_nowhere_at_chaos_bsu_edu_
+post_count: 14
 ---
 
-# Chael Hall <nowhere@chaos.bsu.edu> (14 posts)
+# Chael Hall <nowhere<span>@</span>chaos.bsu.edu> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

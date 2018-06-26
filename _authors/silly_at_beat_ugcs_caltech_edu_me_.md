@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: silly_at_beat_ugcs_caltech_edu_me_
+post_count: 1
 ---
 
-# silly@beat.ugcs.caltech.edu ((me)) (1 posts)
+# silly<span>@</span>beat.ugcs.caltech.edu ((me)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

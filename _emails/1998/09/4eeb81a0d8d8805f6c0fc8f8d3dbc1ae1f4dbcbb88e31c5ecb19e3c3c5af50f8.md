@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Michael Motyka \<mmotyka@lsil.com\><br>
+From: Michael Motyka \<mmotyka<span>@</span>lsil.com\><br>
 To: Richard.Bragg@ssa.co.uk<br>
 Message Hash: 4eeb81a0d8d8805f6c0fc8f8d3dbc1ae1f4dbcbb88e31c5ecb19e3c3c5af50f8<br>
 Message ID: \<35FE8E27.542C@lsil.com\><br>
@@ -69,6 +69,9 @@ You're a customs inspector, what?
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[Michael Motyka <mmotyka<span>@</span>lsil.com>](/author/michael_motyka_mmotyka_at_lsil_com_)"
++ Return to "[Richard.Bragg<span>@</span>ssa.co.uk](/author/richard_bragg_at_ssa_co_uk)"
 
 + 1998-09-14 (Tue, 15 Sep 1998 05:47:08 +0800) - [Re: Joe Farah 9/14 (Pppbbbttt)](/archive/1998/09/d744c84921d05162696222d0be42f30c989296bdf845bc5a42c665e9b129b75c) - _Richard.Bragg@ssa.co.uk_
   + 1998-09-15 (Tue, 15 Sep 1998 11:01:48 +0800) - Re: Joe Farah 9/14 (Pppbbbttt) - _Michael Motyka \<mmotyka@lsil.com\>_

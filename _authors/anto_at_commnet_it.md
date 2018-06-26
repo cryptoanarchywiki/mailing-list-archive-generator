@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anto_at_commnet_it
+post_count: 3
 ---
 
-# anto@commnet.it (3 posts)
+# anto<span>@</span>commnet.it (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

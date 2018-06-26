@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_s_tyre_j_s_tyre_at_worldnet_att_net_
+post_count: 6
 ---
 
-# "James S. Tyre" <j.s.tyre@worldnet.att.net> (6 posts)
+# "James S. Tyre" <j.s.tyre<span>@</span>worldnet.att.net> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: enki_of_enridu_elkinsd_at_teleport_com_
+post_count: 1
 ---
 
-# Enki of Enridu <elkinsd@teleport.com> (1 posts)
+# Enki of Enridu <elkinsd<span>@</span>teleport.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

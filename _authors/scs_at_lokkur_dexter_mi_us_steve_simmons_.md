@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scs_at_lokkur_dexter_mi_us_steve_simmons_
+post_count: 11
 ---
 
-# scs@lokkur.dexter.mi.us (Steve Simmons) (11 posts)
+# scs<span>@</span>lokkur.dexter.mi.us (Steve Simmons) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

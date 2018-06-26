@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nowhere_at_bsucs_bsu_edu_chael_hall_
+post_count: 42
 ---
 
-# nowhere@bsu-cs.bsu.edu (Chael Hall) (42 posts)
+# nowhere<span>@</span>bsu-cs.bsu.edu (Chael Hall) (42 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

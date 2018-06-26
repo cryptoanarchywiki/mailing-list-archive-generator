@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pierre_oberholzer_pierre_oberholzer_at_pm_co_chgen_landisgyr_lgch_ch_tel_022__749_36_57_
+post_count: 1
 ---
 
-# Pierre Oberholzer <Pierre.Oberholzer@PM.CO.CH-GEN.LANDISGYR.LG-CH.CH>      (Tel 022 / 749 36 57) (1 posts)
+# Pierre Oberholzer <Pierre.Oberholzer<span>@</span>PM.CO.CH-GEN.LANDISGYR.LG-CH.CH>      (Tel 022 / 749 36 57) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

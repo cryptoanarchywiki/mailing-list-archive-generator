@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: a1_ray_arachelian_library_rarachel_at_ishara_poly_edu_
+post_count: 12
 ---
 
-# A1 ray arachelian (library)  <rarachel@ishara.poly.edu> (12 posts)
+# A1 ray arachelian (library)  <rarachel<span>@</span>ishara.poly.edu> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

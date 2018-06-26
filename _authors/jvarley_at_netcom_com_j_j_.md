@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jvarley_at_netcom_com_j_j_
+post_count: 1
 ---
 
-# jvarley@netcom.com (J.j.) (1 posts)
+# jvarley<span>@</span>netcom.com (J.j.) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

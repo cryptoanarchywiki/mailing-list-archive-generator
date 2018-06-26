@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jsled_at_free_org_josh_michael_sled_
+post_count: 4
 ---
 
-# jsled@free.org (Josh Michael Sled) (4 posts)
+# jsled<span>@</span>free.org (Josh Michael Sled) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

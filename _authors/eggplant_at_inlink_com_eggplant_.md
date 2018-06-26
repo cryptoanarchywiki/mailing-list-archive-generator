@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eggplant_at_inlink_com_eggplant_
+post_count: 7
 ---
 
-# eggplant@inlink.com (eggplant) (7 posts)
+# eggplant<span>@</span>inlink.com (eggplant) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

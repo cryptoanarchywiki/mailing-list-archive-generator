@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: 1900@qui.com<br>
+From: 1900<span>@</span>qui.com<br>
 To: 1900@qui.com<br>
 Message Hash: f1949ab1c52cdf04b7f5821cbe15d6d09e9353ebf1ee4d86daca7aa9cd0e5cef<br>
 Message ID: \<199710301309.FAA07476@toad.com\><br>
@@ -55,6 +55,8 @@ To be removed from this mailing list, auto-reply with remove in the subject fiel
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[1900<span>@</span>qui.com](/author/1900_at_qui_com)"
 
 + 1997-10-30 (Thu, 30 Oct 1997 05:09:54 -0800 (PST)) - WOMEN!! LIVE AND WAITING!! - _1900@qui.com_
 

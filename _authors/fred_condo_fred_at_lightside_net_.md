@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fred_condo_fred_at_lightside_net_
+post_count: 1
 ---
 
-# Fred Condo <fred@lightside.net> (1 posts)
+# Fred Condo <fred<span>@</span>lightside.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

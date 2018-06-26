@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_ghio_ghio_at_cmu_edu_
+post_count: 4
 ---
 
-# Matthew Ghio <ghio@cmu.edu> (4 posts)
+# Matthew Ghio <ghio<span>@</span>cmu.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

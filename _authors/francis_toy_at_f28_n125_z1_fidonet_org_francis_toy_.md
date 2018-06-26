@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: francis_toy_at_f28_n125_z1_fidonet_org_francis_toy_
+post_count: 1
 ---
 
-# Francis.Toy@f28.n125.z1.FIDONET.ORG (Francis Toy) (1 posts)
+# Francis.Toy<span>@</span>f28.n125.z1.FIDONET.ORG (Francis Toy) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

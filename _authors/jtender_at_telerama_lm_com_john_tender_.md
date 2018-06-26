@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jtender_at_telerama_lm_com_john_tender_
+post_count: 2
 ---
 
-# jtender@telerama.lm.com (John Tender) (2 posts)
+# jtender<span>@</span>telerama.lm.com (John Tender) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mok-Kong Shen \<mok-kong.shen@stud.uni-muenchen.de\><br>
+From: Mok-Kong Shen \<mok-kong.shen<span>@</span>stud.uni-muenchen.de\><br>
 To: Jim Choate \<ravage@EINSTEIN.ssz.com\><br>
 Message Hash: 0c41dd4ead380a255c53ed5a2e7cc0dcefe214ee9f6f0e1ce32c6fabb41582cf<br>
 Message ID: \<366EC969.DA01FF3F@stud.uni-muenchen.de\><br>
@@ -174,6 +174,9 @@ M. K. Shen
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Mok-Kong Shen <mok-kong.shen<span>@</span>stud.uni-muenchen.de>](/author/mokkong_shen_mokkong_shen_at_stud_unimuenchen_de_)"
 
 + 1998-12-09 (Thu, 10 Dec 1998 02:31:35 +0800) - [The politics of crypto archives](/archive/1998/12/f84e2ab8dcc74b520d0105c367e02811fbb6e3ccdd15a97cf01f0d932cc3075b) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
   + 1998-12-09 (Thu, 10 Dec 1998 04:13:58 +0800) - Re: The politics of crypto archives - _Mok-Kong Shen \<mok-kong.shen@stud.uni-muenchen.de\>_

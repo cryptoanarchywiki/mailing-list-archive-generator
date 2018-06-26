@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kszczypi_at_tele_pw_edu_pl_krzysztof_szczypiorski_
+post_count: 1
 ---
 
-# kszczypi@tele.pw.edu.pl (Krzysztof Szczypiorski) (1 posts)
+# kszczypi<span>@</span>tele.pw.edu.pl (Krzysztof Szczypiorski) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

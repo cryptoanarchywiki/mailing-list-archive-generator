@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_at_ideath_goldenbear_com_greg_broiles_
+post_count: 94
 ---
 
-# greg@ideath.goldenbear.com (Greg Broiles) (94 posts)
+# greg<span>@</span>ideath.goldenbear.com (Greg Broiles) (94 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

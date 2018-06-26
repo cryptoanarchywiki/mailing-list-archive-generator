@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_nowher_com_nobody_in_particular_
+post_count: 1
 ---
 
-# nobody@nowher.com (Nobody in particular) (1 posts)
+# nobody<span>@</span>nowher.com (Nobody in particular) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

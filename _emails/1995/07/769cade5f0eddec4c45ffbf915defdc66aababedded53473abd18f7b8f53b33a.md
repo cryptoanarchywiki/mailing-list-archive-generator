@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@sensemedia.net (Timothy C. May)<br>
+From: tcmay<span>@</span>sensemedia.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 769cade5f0eddec4c45ffbf915defdc66aababedded53473abd18f7b8f53b33a<br>
 Message ID: \<ac31ba320a0210047bdd@[205.199.118.202]\><br>
@@ -68,6 +68,8 @@ Higher Power: 2^756839 | Public Key: PGP and MailSafe available.
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[tcmay<span>@</span>sensemedia.net (Timothy C. May)](/author/tcmay_at_sensemedia_net_timothy_c_may_)"
 
 + 1995-07-19 (Tue, 18 Jul 95 19:21:18 PDT) - Re: Mandatory key registration - _tcmay@sensemedia.net (Timothy C. May)_
 

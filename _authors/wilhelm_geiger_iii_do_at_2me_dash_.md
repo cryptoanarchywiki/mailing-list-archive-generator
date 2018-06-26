@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wilhelm_geiger_iii_do_at_2me_dash_
+post_count: 1
 ---
 
-# Wilhelm Geiger III <do@2me.dash> (1 posts)
+# Wilhelm Geiger III <do<span>@</span>2me.dash> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

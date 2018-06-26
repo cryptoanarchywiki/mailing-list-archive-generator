@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeanne_a_e_devoto_jaed_at_best_com_
+post_count: 4
 ---
 
-# "Jeanne A. E. DeVoto" <jaed@best.com> (4 posts)
+# "Jeanne A. E. DeVoto" <jaed<span>@</span>best.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

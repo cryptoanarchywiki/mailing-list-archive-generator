@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: calumn_shearer_calumn_at_netcomuk_co_uk_
+post_count: 1
 ---
 
-# Calumn Shearer <calumn@netcomuk.co.uk> (1 posts)
+# Calumn Shearer <calumn<span>@</span>netcomuk.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

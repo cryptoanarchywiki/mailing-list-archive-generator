@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_melancon_cmm_at_engr_latech_edu_
+post_count: 1
 ---
 
-# Chris Melancon <cmm@engr.LaTech.edu> (1 posts)
+# Chris Melancon <cmm<span>@</span>engr.LaTech.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

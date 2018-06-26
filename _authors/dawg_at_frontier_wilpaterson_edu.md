@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dawg_at_frontier_wilpaterson_edu
+post_count: 1
 ---
 
-# dawg@frontier.wilpaterson.edu (1 posts)
+# dawg<span>@</span>frontier.wilpaterson.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

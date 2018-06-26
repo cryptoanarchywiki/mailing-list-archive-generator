@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: olivier_galibert_olivier_galibert_at_mines_unancy_fr_
+post_count: 1
 ---
 
-# Olivier GALIBERT <Olivier.Galibert@mines.u-nancy.fr> (1 posts)
+# Olivier GALIBERT <Olivier.Galibert<span>@</span>mines.u-nancy.fr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

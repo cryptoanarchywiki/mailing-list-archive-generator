@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jordyn_at_alinc_com_jordyn_a_buchanan_
+post_count: 2
 ---
 
-# jordyn@alinc.com (Jordyn A Buchanan) (2 posts)
+# jordyn<span>@</span>alinc.com (Jordyn A Buchanan) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

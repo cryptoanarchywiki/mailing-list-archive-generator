@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stu_green_stugreen_at_realtime_net_
+post_count: 7
 ---
 
-# Stu Green <stugreen@realtime.net> (7 posts)
+# Stu Green <stugreen<span>@</span>realtime.net> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

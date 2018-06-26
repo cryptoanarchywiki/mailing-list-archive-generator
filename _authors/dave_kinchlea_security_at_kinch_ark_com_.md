@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_kinchlea_security_at_kinch_ark_com_
+post_count: 20
 ---
 
-# Dave Kinchlea <security@kinch.ark.com> (20 posts)
+# Dave Kinchlea <security<span>@</span>kinch.ark.com> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

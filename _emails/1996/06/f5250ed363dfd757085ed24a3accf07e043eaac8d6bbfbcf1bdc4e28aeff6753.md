@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@piermont.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>piermont.com\><br>
 To: hallam@etna.ai.mit.edu<br>
 Message Hash: f5250ed363dfd757085ed24a3accf07e043eaac8d6bbfbcf1bdc4e28aeff6753<br>
 Message ID: \<199606071900.PAA18399@jekyll.piermont.com\><br>
@@ -55,6 +55,12 @@ Perry
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[Asgaard <asgaard<span>@</span>sos.sll.se>](/author/asgaard_asgaard_at_sos_sll_se_)"
++ Return to "[hallam<span>@</span>Etna.ai.mit.edu](/author/hallam_at_etna_ai_mit_edu)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1996-06-07 (Fri, 7 Jun 1996 20:21:56 +0800) - [Anonymous stock trades.](/archive/1996/06/6e104d7b0a648159f5d82424c54db648e2c4952cb8a1f3c65e875f14d39026aa) - _hallam@Etna.ai.mit.edu_
   + 1996-06-07 (Fri, 7 Jun 1996 18:02:37 +0800) - [Re: Anonymous stock trades.](/archive/1996/06/bdbcb4c0fcc5a3bdc4b73a873893925d5f4359de524f2bfffe12ef476433fa4a) - _Robert Hettinga \<rah@shipwright.com\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: grendel_grettisson_mimir_at_u_washington_edu_
+post_count: 3
 ---
 
-# Grendel Grettisson <mimir@u.washington.edu> (3 posts)
+# Grendel Grettisson <mimir<span>@</span>u.washington.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Lucky Green \<shamrock@netcom.com\><br>
+From: Lucky Green \<shamrock<span>@</span>netcom.com\><br>
 To: "Timothy C. May" \<tcmay@got.net\><br>
 Message Hash: f1594861bc440bfb4d3fb33c3e22d5ca8fed174d814a9ea0a3beab4ebeebfcf4<br>
 Message ID: \<Pine.3.89.9609172050.A9162-0100000@netcom22\><br>
@@ -77,6 +77,11 @@ Correct. As I explained in my post from the CommerceNet meeting in D.C.,
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/author/declan_mccullagh_declan_at_eff_org_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1996-09-18 (Wed, 18 Sep 1996 13:41:10 +0800) - [Re: The GAK Momentum is Building...](/archive/1996/09/a33c650d3b034b51e8a6a971b0d2c76f5db7597e050d18ea59cea0a9fb83ddd4) - _tcmay@got.net (Timothy C. May)_
   + 1996-09-18 (Wed, 18 Sep 1996 14:59:43 +0800) - [Re: The GAK Momentum is Building...](/archive/1996/09/dcd636a9e8d6f598ac6fc6d3d293db64c5a10e6092745a59be0b78983bc77730) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_

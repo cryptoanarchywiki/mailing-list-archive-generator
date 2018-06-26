@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bx_bix_at_geekforce_org_
+post_count: 8
 ---
 
-# b!X <bix@geekforce.org> (8 posts)
+# b!X <bix<span>@</span>geekforce.org> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

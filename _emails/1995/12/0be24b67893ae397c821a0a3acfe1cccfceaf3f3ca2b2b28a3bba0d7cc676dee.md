@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: btmoore@iquest.net (Benjamin T. Moore)<br>
+From: btmoore<span>@</span>iquest.net (Benjamin T. Moore)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0be24b67893ae397c821a0a3acfe1cccfceaf3f3ca2b2b28a3bba0d7cc676dee<br>
 Message ID: \<m0tM49q-00032oC@iquest.net\><br>
@@ -89,6 +89,8 @@ hRmFoVFudRPRn1qyU65tzLbGurpXT8hxYbWwv895qaDfLHdQ2IH0iQ==
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[btmoore<span>@</span>iquest.net (Benjamin T. Moore)](/author/btmoore_at_iquest_net_benjamin_t_moore_)"
 
 + 1995-12-03 (Sun, 3 Dec 1995 10:40:38 +0800) - Re: "Got a subpoena?" - _btmoore@iquest.net (Benjamin T. Moore)_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4b1eeca56d50d9eae403efd2336c9ba3d5fbddcf502f12c0c90cfe4cdafc482b<br>
 Message ID: \<199604280339.XAA07392@pipe2.nyc.pipeline.com\><br>
@@ -76,6 +76,10 @@ laser-celling killfile disinfo?
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[Asgaard <asgaard<span>@</span>sos.sll.se>](/author/asgaard_asgaard_at_sos_sll_se_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[Snow <snow<span>@</span>crash.suba.com>](/author/snow_snow_at_crash_suba_com_)"
 
 + 1996-04-28 (Sun, 28 Apr 1996 17:12:18 +0800) - Re: Cell Kill 2 - _John Young \<jya@pipeline.com\>_
   + 1996-04-29 (Mon, 29 Apr 1996 11:35:34 +0800) - [Re: Cell Kill 2](/archive/1996/04/4a89d2c4524608c279017b92f9a1422adcd9d90506ae458affcd561f2bf9fec1) - _Asgaard \<asgaard@sos.sll.se\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: catalyst_at_netcom_com_scott_collins_
+post_count: 12
 ---
 
-# catalyst@netcom.com (Scott Collins) (12 posts)
+# catalyst<span>@</span>netcom.com (Scott Collins) (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

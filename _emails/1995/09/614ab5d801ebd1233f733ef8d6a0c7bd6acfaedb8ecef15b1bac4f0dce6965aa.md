@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Derek Atkins \<warlord@MIT.EDU\><br>
+From: Derek Atkins \<warlord<span>@</span>MIT.EDU\><br>
 To: "Rev. Ben" \<samman-ben@CS.YALE.EDU\><br>
 Message Hash: 614ab5d801ebd1233f733ef8d6a0c7bd6acfaedb8ecef15b1bac4f0dce6965aa<br>
 Message ID: \<199509290305.XAA25007@toxicwaste.media.mit.edu\><br>
@@ -48,6 +48,9 @@ and a sample client/server that use it.  I believe you can find it on:
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/author/derek_atkins_warlord_at_mit_edu_)"
++ Return to "["Rev. Ben" <samman-ben<span>@</span>CS.YALE.EDU>](/author/rev_ben_sammanben_at_cs_yale_edu_)"
 
 + 1995-09-29 (Thu, 28 Sep 95 19:40:22 PDT) - [GSSAPI compliant Apps](/archive/1995/09/ca530d2becd49397b73f34e8fbcdb194741f70865ff23aa697fda6f365efd382) - _"Rev. Ben" \<samman-ben@CS.YALE.EDU\>_
   + 1995-09-29 (Thu, 28 Sep 95 20:06:05 PDT) - Re: GSSAPI compliant Apps - _Derek Atkins \<warlord@MIT.EDU\>_

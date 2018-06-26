@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kevin_hoogheem_khooghee_at_marys_smumn_edu_
+post_count: 2
 ---
 
-# Kevin Hoogheem <khooghee@marys.smumn.edu> (2 posts)
+# Kevin Hoogheem <khooghee<span>@</span>marys.smumn.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

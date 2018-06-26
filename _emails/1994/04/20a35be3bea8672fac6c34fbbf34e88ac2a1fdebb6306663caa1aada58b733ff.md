@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<hfinney@shell.portal.com\><br>
+From: Hal \<hfinney<span>@</span>shell.portal.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 20a35be3bea8672fac6c34fbbf34e88ac2a1fdebb6306663caa1aada58b733ff<br>
 Message ID: \<199404042000.NAA10597@jobe.shell.portal.com\><br>
@@ -100,6 +100,9 @@ Hal
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-04-04 (Mon, 4 Apr 94 12:59:10 PDT) - Re:  This List--Public, Private, or Other? - _Hal \<hfinney@shell.portal.com\>_
   + 1994-04-04 (Mon, 4 Apr 94 13:16:44 PDT) - [Re: This List--Public, Private, or Other?](/archive/1994/04/ba0a778c83661084edc2b8b9ca9df1384cb3773b22428cf9cd431736c8c4d661) - _tcmay@netcom.com (Timothy C. May)_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: arthur_chandler_arthurc_at_crl_com_
+post_count: 41
 ---
 
-# Arthur Chandler <arthurc@crl.com> (41 posts)
+# Arthur Chandler <arthurc<span>@</span>crl.com> (41 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

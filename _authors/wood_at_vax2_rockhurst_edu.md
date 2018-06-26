@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wood_at_vax2_rockhurst_edu
+post_count: 5
 ---
 
-# WOOD@VAX2.ROCKHURST.EDU (5 posts)
+# WOOD<span>@</span>VAX2.ROCKHURST.EDU (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

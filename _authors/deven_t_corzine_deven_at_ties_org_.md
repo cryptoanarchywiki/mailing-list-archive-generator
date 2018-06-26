@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deven_t_corzine_deven_at_ties_org_
+post_count: 1
 ---
 
-# "Deven T. Corzine" <deven@ties.org> (1 posts)
+# "Deven T. Corzine" <deven<span>@</span>ties.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

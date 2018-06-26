@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ichudov@algebra.com (Igor Chudov @ home)<br>
+From: ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)<br>
 To: cypherpunks@toad.com (Cypherpunks)<br>
 Message Hash: db9ed0e6e0bcdae978f218eaab5c08257d5ec63c9bef51dad0a6b8e46c508f7e<br>
 Message ID: \<199701020409.WAA16955@manifold.algebra.com\><br>
@@ -181,6 +181,8 @@ http://www.nytimes.com/yr/mo/day/news/national/psychopaths-educ.html
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
 
 + 1997-01-02 (Wed, 1 Jan 1997 20:58:43 -0800 (PST)) - stupid remailer-ignorant stud3nt caught by NY polic3 - _ichudov@algebra.com (Igor Chudov @ home)_
 

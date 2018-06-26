@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mikhael_frieden_mikhaelf_at_mindspring_com_
+post_count: 19
 ---
 
-# Mikhael Frieden <mikhaelf@mindspring.com> (19 posts)
+# Mikhael Frieden <mikhaelf<span>@</span>mindspring.com> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

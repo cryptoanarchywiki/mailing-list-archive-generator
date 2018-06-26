@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_williams_dwwillia_at_cet_co_jp_
+post_count: 1
 ---
 
-# David Williams <dwwillia@cet.co.jp> (1 posts)
+# David Williams <dwwillia<span>@</span>cet.co.jp> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

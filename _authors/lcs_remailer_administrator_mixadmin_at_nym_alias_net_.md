@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lcs_remailer_administrator_mixadmin_at_nym_alias_net_
+post_count: 11
 ---
 
-# lcs Remailer Administrator <mix-admin@nym.alias.net> (11 posts)
+# lcs Remailer Administrator <mix-admin<span>@</span>nym.alias.net> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Declan B. McCullagh" \<declan+@CMU.EDU\><br>
+From: "Declan B. McCullagh" \<declan+<span>@</span>CMU.EDU\><br>
 To: tcmay@got.net (Timothy C. May)<br>
 Message Hash: 21fbfe315ab7a44949df31eada40f8f1f779ffa04dc4ea7f23b6cea8ec2fa0da<br>
 Message ID: \<4lizxrC00YUy41ClsW@andrew.cmu.edu\><br>
@@ -54,6 +54,9 @@ campaign, it's Mark Helprin.
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/author/declan_b_mccullagh_declan_at_cmu_edu_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-06-10 (Mon, 10 Jun 1996 15:28:50 +0800) - [Gore's speech writers](/archive/1996/06/67beb39c355dbcb22b68baa1dc3544b0c7fb6c3e84eec6308524f5b5a3f78879) - _tcmay@got.net (Timothy C. May)_
   + 1996-06-10 (Mon, 10 Jun 1996 23:00:28 +0800) - Re: Gore's speech writers - _"Declan B. McCullagh" \<declan+@CMU.EDU\>_

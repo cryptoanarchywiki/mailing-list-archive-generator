@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: paul@poboy.b17c.ingr.com (Paul Robichaux)<br>
+From: paul<span>@</span>poboy.b17c.ingr.com (Paul Robichaux)<br>
 To: smb@research.att.com<br>
 Message Hash: 08d82eacb71f9d69c60becc1aaad19ed5a0d68dded9bd19b4d6cfae0387df399<br>
 Message ID: \<199404281519.AA10680@poboy.b17c.ingr.com\><br>
@@ -85,8 +85,13 @@ r4nNBLkJdI4=
 
 + Return to [April 1994](/archive/1994/04)
 
-+ 1994-04-28 (Thu, 28 Apr 94 08:19:13 PDT) - Re: AT&T, Clipper, & Saudi Arabia - _paul@poboy.b17c.ingr.com (Paul Robichaux)_
-  + 1994-04-28 (Thu, 28 Apr 94 09:02:44 PDT) - [Re: AT&T, Clipper, & Saudi Arabia](/archive/1994/04/0804a8f3dcfa5c3cc747108c1a3fdacbfe405c9993626e269d25e364b6af64df) - _Jim McCoy \<mccoy@ccwf.cc.utexas.edu\>_
-    + 1994-04-28 (Thu, 28 Apr 94 09:14:58 PDT) - [Re: AT&T, Clipper, & Saudi Arabia](/archive/1994/04/21a99eb9d3b790cd72c6ea6b4d804cf7ce0ddaf8678380fadc7ac257f729f081) - _paul@poboy.b17c.ingr.com (Paul Robichaux)_
-      + 1994-04-28 (Thu, 28 Apr 94 12:18:50 PDT) - [Re: AT&T, Clipper, & Saudi Arabia](/archive/1994/04/ac225bf38da2f6e9a81121457d4ae77a7f79891cdf3bef44b24c6af83dd46504) - _Black Unicorn \<unicorn@access.digex.net\>_
++ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/author/black_unicorn_unicorn_at_access_digex_net_)"
++ Return to "[Jim McCoy <mccoy<span>@</span>ccwf.cc.utexas.edu>](/author/jim_mccoy_mccoy_at_ccwf_cc_utexas_edu_)"
++ Return to "[paul<span>@</span>poboy.b17c.ingr.com (Paul Robichaux)](/author/paul_at_poboy_b17c_ingr_com_paul_robichaux_)"
+
++ _Unknown thread root_
+  + 1994-04-28 (Thu, 28 Apr 94 08:19:13 PDT) - Re: AT&T, Clipper, & Saudi Arabia - _paul@poboy.b17c.ingr.com (Paul Robichaux)_
+    + 1994-04-28 (Thu, 28 Apr 94 09:02:44 PDT) - [Re: AT&T, Clipper, & Saudi Arabia](/archive/1994/04/0804a8f3dcfa5c3cc747108c1a3fdacbfe405c9993626e269d25e364b6af64df) - _Jim McCoy \<mccoy@ccwf.cc.utexas.edu\>_
+      + 1994-04-28 (Thu, 28 Apr 94 09:14:58 PDT) - [Re: AT&T, Clipper, & Saudi Arabia](/archive/1994/04/21a99eb9d3b790cd72c6ea6b4d804cf7ce0ddaf8678380fadc7ac257f729f081) - _paul@poboy.b17c.ingr.com (Paul Robichaux)_
+        + 1994-04-28 (Thu, 28 Apr 94 12:18:50 PDT) - [Re: AT&T, Clipper, & Saudi Arabia](/archive/1994/04/ac225bf38da2f6e9a81121457d4ae77a7f79891cdf3bef44b24c6af83dd46504) - _Black Unicorn \<unicorn@access.digex.net\>_
 

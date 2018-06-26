@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John.Nieder@f33.n125.z1.FIDONET.ORG (John Nieder)<br>
+From: John.Nieder<span>@</span>f33.n125.z1.FIDONET.ORG (John Nieder)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 047faf616ce0cdb6a49c951fef21c0de1bfc8b3fe7a0ef7b86e0dd3fd9ea6819<br>
 Message ID: \<4854.2B7A6A61@fidogate.FIDONET.ORG\><br>
@@ -113,6 +113,8 @@ INTERNET - John.Nieder@f33.n125.z1.FIDONET.ORG
 ## Thread
 
 + Return to [February 1993](/archive/1993/02)
+
++ Return to "[John.Nieder<span>@</span>f33.n125.z1.FIDONET.ORG (John Nieder)](/author/john_nieder_at_f33_n125_z1_fidonet_org_john_nieder_)"
 
 + 1993-02-11 (Thu, 11 Feb 93 08:07:45 PST) - E PLURIBUS DOODAH - _John.Nieder@f33.n125.z1.FIDONET.ORG (John Nieder)_
 

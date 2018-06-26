@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kraiwut_at_samart_co_th
+post_count: 1
 ---
 
-# kraiwut@samart.co.th (1 posts)
+# kraiwut<span>@</span>samart.co.th (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

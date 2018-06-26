@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: schampeo_at_imonics_com_steve_champeon_working_from_home_
+post_count: 3
 ---
 
-# schampeo@imonics.com (Steve Champeon (working from home)) (3 posts)
+# schampeo<span>@</span>imonics.com (Steve Champeon (working from home)) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

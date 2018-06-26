@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeannie_at_accucomm_net_at_accucomm_net
+post_count: 2
 ---
 
-# "jeannie@accucomm.net"@accucomm.net (2 posts)
+# "jeannie<span>@</span>accucomm.net"<span>@</span>accucomm.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

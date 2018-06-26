@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_le_heux_alexlh_at_xs4all_nl_
+post_count: 6
 ---
 
-# Alex Le Heux <alexlh@xs4all.nl> (6 posts)
+# Alex Le Heux <alexlh<span>@</span>xs4all.nl> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

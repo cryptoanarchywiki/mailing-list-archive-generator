@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c8f2a8566cbf05ceeea1dc2ab4d1ffe2beec5be198e3592c6bd7c654c60d9b95<br>
 Message ID: \<ac5d49b804021004ff37@[205.199.118.202]\><br>
@@ -98,6 +98,10 @@ Higher Power: 2^756839    | Public Key: PGP and MailSafe available.
 ## Thread
 
 + Return to [August 1995](/archive/1995/08)
+
++ Return to "[Adam Shostack <adam<span>@</span>bwh.harvard.edu>](/author/adam_shostack_adam_at_bwh_harvard_edu_)"
++ Return to "[Lyle Seaman <lws+<span>@</span>transarc.com>](/author/lyle_seaman_lws_at_transarc_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1995-08-21 (Sun, 20 Aug 95 20:34:02 PDT) - Third World Man - _tcmay@got.net (Timothy C. May)_
   + 1995-08-21 (Mon, 21 Aug 95 07:04:41 PDT) - [Re: Third World Man](/archive/1995/08/41370428190ff355d24f9ef6ef60dcd990ee483b749bb037b01d5d77bc66fc62) - _Lyle Seaman \<lws+@transarc.com\>_

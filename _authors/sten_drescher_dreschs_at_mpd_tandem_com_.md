@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sten_drescher_dreschs_at_mpd_tandem_com_
+post_count: 15
 ---
 
-# Sten Drescher <dreschs@mpd.tandem.com> (15 posts)
+# Sten Drescher <dreschs<span>@</span>mpd.tandem.com> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

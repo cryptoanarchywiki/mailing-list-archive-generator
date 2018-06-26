@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: p.v.mcmahon.rea0803@oasis.icl.co.uk<br>
+From: p.v.mcmahon.rea0803<span>@</span>oasis.icl.co.uk<br>
 To: hughes@ah.com<br>
 Message Hash: 79b8ccb0e6d9c520ecaa5d23ecba1fbf5fec9eaad8659ef3e9abd4e11b583f41<br>
 Message ID: \<9408272055.AA25221@getafix.oasis.icl.co.uk\><br>
@@ -92,6 +92,8 @@ drive this status quo to alter ...?]
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[p.v.mcmahon.rea0803<span>@</span>oasis.icl.co.uk](/author/p_v_mcmahon_rea0803_at_oasis_icl_co_uk)"
 
 + 1994-08-27 (Sat, 27 Aug 94 13:54:13 PDT) - RE: In Search of Genuine DigiCash - _p.v.mcmahon.rea0803@oasis.icl.co.uk_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: toto@fhouse.org<br>
+From: toto<span>@</span>fhouse.org<br>
 To: cypherpunks@toad.com<br>
 Message Hash: de6fb5362be804d69681f6dd798ae70faaf53beb97d8bdf9d3ea3b4fbfd0cc7c<br>
 Message ID: \<TCPSMTP.18.7.31.8.47.8.2847582152.1142187@fhouse.org\><br>
@@ -313,6 +313,8 @@ dA0KLS0tLS1FTkQgUEdQIE1FU1NBR0UsIFBBUlQgMDcvMDctLS0tLQ0K
 ## Thread
 
 + Return to [July 1998](/archive/1998/07)
+
++ Return to "[toto<span>@</span>fhouse.org](/author/toto_at_fhouse_org)"
 
 + 1998-07-31 (Fri, 31 Jul 1998 07:59:41 -0700 (PDT)) - SECRET.AS7 - _toto@fhouse.org_
 

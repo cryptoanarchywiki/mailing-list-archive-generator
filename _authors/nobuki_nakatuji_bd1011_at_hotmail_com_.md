@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobuki_nakatuji_bd1011_at_hotmail_com_
+post_count: 50
 ---
 
-# "Nobuki Nakatuji" <bd1011@hotmail.com> (50 posts)
+# "Nobuki Nakatuji" <bd1011<span>@</span>hotmail.com> (50 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rich Salz \<rsalz@osf.org\><br>
+From: Rich Salz \<rsalz<span>@</span>osf.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 974a8ec2a8b4c44e6ba3e4b9bbabe8088004ac2e96c2e2dc6ecf7e2a5d16eabc<br>
 Message ID: \<9511140421.AA12502@sulphur.osf.org\><br>
@@ -42,6 +42,8 @@ export controlled -- there's a difference.
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/author/rich_salz_rsalz_at_osf_org_)"
 
 + 1995-11-14 (Tue, 14 Nov 1995 20:56:22 +0800) - Getting the ITAR - _Rich Salz \<rsalz@osf.org\>_
 

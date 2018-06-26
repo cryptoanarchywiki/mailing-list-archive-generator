@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sandy_harris_sharris_at_fox_nstn_ca_
+post_count: 1
 ---
 
-# "Sandy Harris" <sharris@fox.nstn.ca> (1 posts)
+# "Sandy Harris" <sharris<span>@</span>fox.nstn.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

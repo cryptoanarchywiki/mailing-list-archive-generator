@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: inverardi_at_abacus_ch_remo_inverardi_
+post_count: 1
 ---
 
-# Inverardi@abacus.ch (Remo Inverardi) (1 posts)
+# Inverardi<span>@</span>abacus.ch (Remo Inverardi) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

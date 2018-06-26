@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: verisign_digital_id_center_onlineca_at_verisign_com_
+post_count: 1
 ---
 
-# VeriSign Digital ID Center <onlineca@verisign.com> (1 posts)
+# VeriSign Digital ID Center <onlineca<span>@</span>verisign.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

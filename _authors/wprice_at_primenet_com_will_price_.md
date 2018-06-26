@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wprice_at_primenet_com_will_price_
+post_count: 1
 ---
 
-# wprice@primenet.com (Will Price) (1 posts)
+# wprice<span>@</span>primenet.com (Will Price) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

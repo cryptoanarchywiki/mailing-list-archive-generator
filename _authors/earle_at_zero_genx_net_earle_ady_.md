@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: earle_at_zero_genx_net_earle_ady_
+post_count: 2
 ---
 
-# earle@zero.genx.net (Earle Ady) (2 posts)
+# earle<span>@</span>zero.genx.net (Earle Ady) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

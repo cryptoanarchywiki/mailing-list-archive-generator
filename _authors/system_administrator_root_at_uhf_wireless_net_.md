@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: system_administrator_root_at_uhf_wireless_net_
+post_count: 1
 ---
 
-# System Administrator <root@uhf.wireless.net> (1 posts)
+# System Administrator <root<span>@</span>uhf.wireless.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_grantham_casper_at_optima_mme_wsu_edu_
+post_count: 5
 ---
 
-# Chris Grantham <casper@optima.mme.wsu.edu> (5 posts)
+# Chris Grantham <casper<span>@</span>optima.mme.wsu.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

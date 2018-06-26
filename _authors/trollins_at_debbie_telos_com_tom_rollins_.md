@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: trollins_at_debbie_telos_com_tom_rollins_
+post_count: 16
 ---
 
-# trollins@debbie.telos.com (Tom Rollins) (16 posts)
+# trollins<span>@</span>debbie.telos.com (Tom Rollins) (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

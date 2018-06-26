@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sfi_at_verity_com_stefan_fieldingisaacs_
+post_count: 1
 ---
 
-# sfi@verity.com (Stefan Fielding-Isaacs) (1 posts)
+# sfi<span>@</span>verity.com (Stefan Fielding-Isaacs) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

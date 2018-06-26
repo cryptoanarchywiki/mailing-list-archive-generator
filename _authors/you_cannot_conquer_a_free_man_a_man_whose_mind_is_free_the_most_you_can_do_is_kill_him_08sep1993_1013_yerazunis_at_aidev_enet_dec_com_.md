@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: you_cannot_conquer_a_free_man_a_man_whose_mind_is_free_the_most_you_can_do_is_kill_him_08sep1993_1013_yerazunis_at_aidev_enet_dec_com_
+post_count: 1
 ---
 
-# "You cannot conquer a free man, a man whose mind is free. The most you can do is kill him.  08-Sep-1993 1013" <yerazunis@aidev.enet.dec.com> (1 posts)
+# "You cannot conquer a free man, a man whose mind is free. The most you can do is kill him.  08-Sep-1993 1013" <yerazunis<span>@</span>aidev.enet.dec.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

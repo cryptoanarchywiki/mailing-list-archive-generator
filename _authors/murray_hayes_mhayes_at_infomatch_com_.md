@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: murray_hayes_mhayes_at_infomatch_com_
+post_count: 14
 ---
 
-# "Murray Hayes" <mhayes@infomatch.com> (14 posts)
+# "Murray Hayes" <mhayes<span>@</span>infomatch.com> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

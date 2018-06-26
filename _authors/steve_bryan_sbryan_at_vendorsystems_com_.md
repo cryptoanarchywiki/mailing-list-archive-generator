@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_bryan_sbryan_at_vendorsystems_com_
+post_count: 11
 ---
 
-# Steve Bryan <sbryan@vendorsystems.com> (11 posts)
+# Steve Bryan <sbryan<span>@</span>vendorsystems.com> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

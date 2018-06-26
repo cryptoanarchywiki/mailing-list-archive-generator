@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: koi8rqefe5ed_f0cfccd8dacfd7c1d4c5ccd8_kes21_at_chat_ru_
+post_count: 2
 ---
 
-# "=?KOI8-R?Q?=EF=E5=ED_=F0=CF=CC=D8=DA=CF=D7=C1=D4=C5=CC=D8?=" <kes21@chat.ru> (2 posts)
+# "=?KOI8-R?Q?=EF=E5=ED_=F0=CF=CC=D8=DA=CF=D7=C1=D4=C5=CC=D8?=" <kes21<span>@</span>chat.ru> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

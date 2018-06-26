@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@shell.portal.com<br>
+From: nobody<span>@</span>shell.portal.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: cfea7f0cac4b70a9eb78df6d2fb673ef213cbbd9ed117a0dbace520587fed055<br>
 Message ID: \<199405050624.XAA01250@jobe.shell.portal.com\><br>
@@ -166,6 +166,8 @@ Kxcra9o/xLmaUIZ3X+j0k6vXafv52Vm0BvvB62F6wanZFSdqBAx8xZ3A/KvYbRV8
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[nobody<span>@</span>shell.portal.com](/author/nobody_at_shell_portal_com)"
 
 + 1994-05-05 (Wed, 4 May 94 23:23:08 PDT) - Advertisement - _nobody@shell.portal.com_
 

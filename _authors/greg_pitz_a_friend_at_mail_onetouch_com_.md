@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_pitz_a_friend_at_mail_onetouch_com_
+post_count: 1
 ---
 
-# "greg pitz" <a_friend@mail.onetouch.com> (1 posts)
+# "greg pitz" <a_friend<span>@</span>mail.onetouch.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

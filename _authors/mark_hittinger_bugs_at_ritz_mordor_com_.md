@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_hittinger_bugs_at_ritz_mordor_com_
+post_count: 9
 ---
 
-# Mark Hittinger <bugs@ritz.mordor.com> (9 posts)
+# Mark Hittinger <bugs<span>@</span>ritz.mordor.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

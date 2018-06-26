@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Vladimir Z. Nuri" \<vznuri@netcom.com\><br>
+From: "Vladimir Z. Nuri" \<vznuri<span>@</span>netcom.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 2ed5db033da17abc3a4ba3d4c2ac17ed14aafe4aa2ac534b88ad537ba772df54<br>
 Message ID: \<199809230513.WAA16966@netcom13.netcom.com\><br>
@@ -56,6 +56,8 @@ another waste of time.
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1998-09-22 (Wed, 23 Sep 1998 00:11:47 +0800) - new sci am articles on encryption - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
 

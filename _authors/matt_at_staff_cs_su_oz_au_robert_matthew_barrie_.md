@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matt_at_staff_cs_su_oz_au_robert_matthew_barrie_
+post_count: 1
 ---
 
-# matt@staff.cs.su.oz.au (Robert Matthew Barrie) (1 posts)
+# matt<span>@</span>staff.cs.su.oz.au (Robert Matthew Barrie) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: felix_r_wilson_sr__asiceo_at_internetmci_com_
+post_count: 1
 ---
 
-# "FELIX R. WILSON SR." <ASICEO@internetMCI.COM> (1 posts)
+# "FELIX R. WILSON SR." <ASICEO<span>@</span>internetMCI.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

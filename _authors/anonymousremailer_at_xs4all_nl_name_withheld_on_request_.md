@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymousremailer_at_xs4all_nl_name_withheld_on_request_
+post_count: 8
 ---
 
-# anonymous-remailer@xs4all.nl (Name withheld on request) (8 posts)
+# anonymous-remailer<span>@</span>xs4all.nl (Name withheld on request) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ccat@casa-next1.Stanford.EDU (Chris Beaumont)<br>
+From: ccat<span>@</span>casa-next1.Stanford.EDU (Chris Beaumont)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d0a88e05cffefea01b36591db2fd2aaf98c27ca4fc39fbfa0c0cdea985914abc<br>
 Message ID: \<9211202300.AA10992@ casa-next1.Stanford.EDU \><br>
@@ -51,6 +51,8 @@ make this a win win situation..(except fotr the spooks and the crooks..)
 ## Thread
 
 + Return to [November 1992](/archive/1992/11)
+
++ Return to "[ccat<span>@</span>casa-next1.Stanford.EDU (Chris Beaumont)](/author/ccat_at_casanext1_stanford_edu_chris_beaumont_)"
 
 + 1992-11-20 (Fri, 20 Nov 92 15:04:50 PST) - Encrypting all mail and the protection of.. - _ccat@casa-next1.Stanford.EDU (Chris Beaumont)_
 

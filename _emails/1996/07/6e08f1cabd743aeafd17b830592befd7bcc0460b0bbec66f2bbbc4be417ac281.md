@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jfricker@vertexgroup.com (John F. Fricker)<br>
+From: jfricker<span>@</span>vertexgroup.com (John F. Fricker)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 6e08f1cabd743aeafd17b830592befd7bcc0460b0bbec66f2bbbc4be417ac281<br>
 Message ID: \<2.2.32.19960709010452.00c71718@vertexgroup.com\><br>
@@ -73,6 +73,8 @@ programmers just chomping at the bit to build cool IFS's like PGPDrive, etc.
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[jfricker<span>@</span>vertexgroup.com (John F. Fricker)](/author/jfricker_at_vertexgroup_com_john_f_fricker_)"
 
 + 1996-07-09 (Tue, 9 Jul 1996 12:37:30 +0800) - Re: What remains to be done. - _jfricker@vertexgroup.com (John F. Fricker)_
 

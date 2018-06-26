@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ie63_at_vaxb_acs_unt_edu
+post_count: 3
 ---
 
-# IE63@vaxb.acs.unt.edu (3 posts)
+# IE63<span>@</span>vaxb.acs.unt.edu (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

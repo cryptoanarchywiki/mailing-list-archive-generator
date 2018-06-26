@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Andrew Fairbanks \<apf@ma.ultranet.com\><br>
+From: Andrew Fairbanks \<apf<span>@</span>ma.ultranet.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 37802c20ea87066d9f94c07fab56087a4ffacbafbbff2f0de9bfcdf9e89fd61c<br>
 Message ID: \<199612032327.SAA04610@lucius.ultra.net\><br>
@@ -37,6 +37,9 @@ unsuscribe cypherpunks
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[Andrew Fairbanks <apf<span>@</span>ma.ultranet.com>](/author/andrew_fairbanks_apf_at_ma_ultranet_com_)"
++ Return to "[Jose Luis Delgado <jdelgado<span>@</span>nexus.net.mx>](/author/jose_luis_delgado_jdelgado_at_nexus_net_mx_)"
 
 + 1996-12-04 (Tue, 3 Dec 1996 16:21:09 -0800 (PST)) - (no subject) - _Andrew Fairbanks \<apf@ma.ultranet.com\>_
   + 1996-12-04 (Wed, 4 Dec 1996 07:49:11 -0800 (PST)) - [Re: (no subject)](/archive/1996/12/12c1b46db90bb0f52a1200d81f2baccf55ec491b76e1395946cc91e67ea54f9a) - _Jose Luis Delgado \<jdelgado@nexus.net.mx\>_

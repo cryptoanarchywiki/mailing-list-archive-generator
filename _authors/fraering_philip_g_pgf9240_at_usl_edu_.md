@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fraering_philip_g_pgf9240_at_usl_edu_
+post_count: 1
 ---
 
-# Fraering Philip G <pgf9240@usl.edu> (1 posts)
+# Fraering Philip G <pgf9240<span>@</span>usl.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

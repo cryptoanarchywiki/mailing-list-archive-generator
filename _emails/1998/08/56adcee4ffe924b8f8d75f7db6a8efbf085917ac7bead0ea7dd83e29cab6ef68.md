@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: fiy46@werker.com (Internet Sales)<br>
+From: fiy46<span>@</span>werker.com (Internet Sales)<br>
 To: fiy46@werker.com<br>
 Message Hash: 56adcee4ffe924b8f8d75f7db6a8efbf085917ac7bead0ea7dd83e29cab6ef68<br>
 Message ID: \<199808141372PAA25713@Oliver.goodacre.com\><br>
@@ -89,6 +89,8 @@ Thank You
 ## Thread
 
 + Return to [August 1998](/archive/1998/08)
+
++ Return to "[fiy46<span>@</span>werker.com (Internet Sales)](/author/fiy46_at_werker_com_internet_sales_)"
 
 + 1998-08-14 (Fri, 14 Aug 1998 02:56:06 -0700 (PDT)) - Now is the Time! National Credit Card Accounts! - _fiy46@werker.com (Internet Sales)_
 

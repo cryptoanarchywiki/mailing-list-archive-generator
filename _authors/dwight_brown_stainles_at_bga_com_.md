@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dwight_brown_stainles_at_bga_com_
+post_count: 1
 ---
 
-# Dwight Brown <stainles@bga.com> (1 posts)
+# Dwight Brown <stainles<span>@</span>bga.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

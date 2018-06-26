@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thanks_at_yourself_up
+post_count: 5
 ---
 
-# Thanks@yourself.up (5 posts)
+# Thanks<span>@</span>yourself.up (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

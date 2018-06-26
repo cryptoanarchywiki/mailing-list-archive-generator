@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_blossom_eb_at_comsec_com_
+post_count: 52
 ---
 
-# Eric Blossom <eb@comsec.com> (52 posts)
+# Eric Blossom <eb<span>@</span>comsec.com> (52 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_wise_jw250_at_columbia_edu_
+post_count: 9
 ---
 
-# Jim Wise <jw250@columbia.edu> (9 posts)
+# Jim Wise <jw250<span>@</span>columbia.edu> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tgustavo_sanjuan_at_interredes_com_ar_transportes_gustavo_s_r_l_
+post_count: 1
 ---
 
-# tgustavo.sanjuan@interredes.com.ar (Transportes Gustavo S.R.L.) (1 posts)
+# tgustavo.sanjuan<span>@</span>interredes.com.ar (Transportes Gustavo S.R.L.) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

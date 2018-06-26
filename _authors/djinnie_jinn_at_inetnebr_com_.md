@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: djinnie_jinn_at_inetnebr_com_
+post_count: 6
 ---
 
-# "D'jinnie" <jinn@inetnebr.com> (6 posts)
+# "D'jinnie" <jinn<span>@</span>inetnebr.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

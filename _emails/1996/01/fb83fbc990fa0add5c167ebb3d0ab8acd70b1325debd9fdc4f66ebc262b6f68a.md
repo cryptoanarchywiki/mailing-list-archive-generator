@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jeff Simmons \<jsimmons@goblin.punk.net\><br>
+From: Jeff Simmons \<jsimmons<span>@</span>goblin.punk.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fb83fbc990fa0add5c167ebb3d0ab8acd70b1325debd9fdc4f66ebc262b6f68a<br>
 Message ID: \<199601030032.QAA00749@goblin.punk.net\><br>
@@ -81,6 +81,8 @@ OjxkfDcxJjI=
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[Jeff Simmons <jsimmons<span>@</span>goblin.punk.net>](/author/jeff_simmons_jsimmons_at_goblin_punk_net_)"
 
 + 1996-01-03 (Thu, 4 Jan 1996 03:11:45 +0800) - Re: Guerilla Internet Service Providers - _Jeff Simmons \<jsimmons@goblin.punk.net\>_
 

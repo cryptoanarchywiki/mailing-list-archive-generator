@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_libert_libert_at_citi_umich_edu_
+post_count: 4
 ---
 
-# Tom Libert <libert@citi.umich.edu> (4 posts)
+# Tom Libert <libert<span>@</span>citi.umich.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

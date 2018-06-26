@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: root_at_sfdnpqi012_compuserve_net_8_9_centmin_no_switching_required_
+post_count: 1
 ---
 
-# root@sf-dnpqi-012.compuserve.net (8.9 Cent/Min. NO SWITCHING REQUIRED) (1 posts)
+# root<span>@</span>sf-dnpqi-012.compuserve.net (8.9 Cent/Min. NO SWITCHING REQUIRED) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

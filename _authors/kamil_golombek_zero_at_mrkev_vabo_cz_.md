@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kamil_golombek_zero_at_mrkev_vabo_cz_
+post_count: 2
 ---
 
-# Kamil Golombek <Zero@mrkev.vabo.cz> (2 posts)
+# Kamil Golombek <Zero<span>@</span>mrkev.vabo.cz> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

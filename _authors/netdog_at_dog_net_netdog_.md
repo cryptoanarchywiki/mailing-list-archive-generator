@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: netdog_at_dog_net_netdog_
+post_count: 1
 ---
 
-# netdog@dog.net (netdog) (1 posts)
+# netdog<span>@</span>dog.net (netdog) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kent_borg_remove_x_for_real_email_kentborg_at_borgx_org_
+post_count: 1
 ---
 
-# "Kent Borg, remove X for real email" <kentborg@borgX.org> (1 posts)
+# "Kent Borg, remove X for real email" <kentborg<span>@</span>borgX.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

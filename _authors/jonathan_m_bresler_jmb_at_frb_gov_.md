@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathan_m_bresler_jmb_at_frb_gov_
+post_count: 6
 ---
 
-# "Jonathan M. Bresler" <jmb@FRB.GOV> (6 posts)
+# "Jonathan M. Bresler" <jmb<span>@</span>FRB.GOV> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

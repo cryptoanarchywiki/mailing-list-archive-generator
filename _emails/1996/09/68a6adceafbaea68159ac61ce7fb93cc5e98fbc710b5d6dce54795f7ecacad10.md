@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Black Unicorn \<unicorn@schloss.li\><br>
+From: Black Unicorn \<unicorn<span>@</span>schloss.li\><br>
 To: Steve Schear \<azur@netcom.com\><br>
 Message Hash: 68a6adceafbaea68159ac61ce7fb93cc5e98fbc710b5d6dce54795f7ecacad10<br>
 Message ID: \<Pine.SUN.3.94.960917025301.27534G-100000@polaris\><br>
@@ -68,6 +68,9 @@ unicorn@schloss.li
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[azur<span>@</span>netcom.com (Steve Schear)](/author/azur_at_netcom_com_steve_schear_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
 
 + 1996-09-17 (Tue, 17 Sep 1996 13:21:02 +0800) - [Assassination Politics, was Kiddie porn on the Internet](/archive/1996/09/d058168cdc77e140ebe4da9db03f8afb7170f6b452c2e8c5451b30cc65a26f8a) - _azur@netcom.com (Steve Schear)_
   + 1996-09-17 (Tue, 17 Sep 1996 18:01:09 +0800) - Re: Assassination Politics, was Kiddie porn on the Internet - _Black Unicorn \<unicorn@schloss.li\>_

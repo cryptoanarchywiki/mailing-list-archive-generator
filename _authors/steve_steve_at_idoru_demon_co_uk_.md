@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_steve_at_idoru_demon_co_uk_
+post_count: 2
 ---
 
-# steve <steve@idoru.demon.co.uk> (2 posts)
+# steve <steve<span>@</span>idoru.demon.co.uk> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

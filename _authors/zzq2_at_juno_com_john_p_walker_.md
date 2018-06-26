@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zzq2_at_juno_com_john_p_walker_
+post_count: 2
 ---
 
-# zzq2@juno.com (John P Walker) (2 posts)
+# zzq2<span>@</span>juno.com (John P Walker) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

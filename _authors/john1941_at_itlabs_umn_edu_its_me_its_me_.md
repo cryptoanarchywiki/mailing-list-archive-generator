@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john1941_at_itlabs_umn_edu_its_me_its_me_
+post_count: 1
 ---
 
-# john1941@itlabs.umn.edu (It's Me! It's Me!) (1 posts)
+# john1941<span>@</span>itlabs.umn.edu (It's Me! It's Me!) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

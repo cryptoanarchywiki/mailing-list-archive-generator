@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ? the Platypus {aka David Formosa} \<dformosa@st.nepean.uws.edu.au\><br>
+From: ? the Platypus {aka David Formosa} \<dformosa<span>@</span>st.nepean.uws.edu.au\><br>
 To: Ray Arachelian \<sunder@brainlink.com\><br>
 Message Hash: ed0cc0c637ed60eba94d5f8afb553c67f0b98ccfaca289c9511d4ef9aa71fb9a<br>
 Message ID: \<Pine.LNX.3.93.970822052640.300B-100000@shirley\><br>
@@ -105,6 +105,18 @@ g/QMqix6C64=
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[? the Platypus {aka David Formosa} <dformosa<span>@</span>st.nepean.uws.edu.au>](/author/_the_platypus_aka_david_formosa_dformosa_at_st_nepean_uws_edu_au_)"
++ Return to "[? the platypus {aka David Formosa} <dformosa<span>@</span>st.nepean.uws.edu.au>](/author/_the_platypus_aka_david_formosa_dformosa_at_st_nepean_uws_edu_au_)"
++ Return to "[bennett_t1<span>@</span>popmail.firn.edu](/author/bennett_t1_at_popmail_firn_edu)"
++ Return to "[Charles <apache<span>@</span>bear.apana.org.au>](/author/charles_apache_at_bear_apana_org_au_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[gturk<span>@</span>concentric.net](/author/gturk_at_concentric_net)"
++ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/author/kent_crispin_kent_at_songbird_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[Ray Arachelian <sunder<span>@</span>brainlink.com>](/author/ray_arachelian_sunder_at_brainlink_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Zooko Journeyman <zooko<span>@</span>xs4all.nl>](/author/zooko_journeyman_zooko_at_xs4all_nl_)"
 
 + 1997-08-21 (Fri, 22 Aug 1997 01:27:03 +0800) - [heart](/archive/1997/08/901dfdd1108b9616264d0b14fcf258f9b1215ed6344dd3d9983b3810fb327383) - _Zooko Journeyman \<zooko@xs4all.nl\>_
   + 1997-08-21 (Fri, 22 Aug 1997 02:26:30 +0800) - [Re: heart](/archive/1997/08/0455336b18dcf2d39734e78535d7d63892e501aa5a8c5452486dc7e0635593d8) - _Ray Arachelian \<sunder@brainlink.com\>_

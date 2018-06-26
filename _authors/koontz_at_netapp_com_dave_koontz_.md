@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: koontz_at_netapp_com_dave_koontz_
+post_count: 10
 ---
 
-# koontz@netapp.com (Dave Koontz) (10 posts)
+# koontz<span>@</span>netapp.com (Dave Koontz) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

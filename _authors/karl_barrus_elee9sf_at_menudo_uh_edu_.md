@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: karl_barrus_elee9sf_at_menudo_uh_edu_
+post_count: 49
 ---
 
-# Karl Barrus <elee9sf@Menudo.UH.EDU> (49 posts)
+# Karl Barrus <elee9sf<span>@</span>Menudo.UH.EDU> (49 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zey69_at_uvm_haifa_ac_il_pacific_coast_mail_order_
+post_count: 1
 ---
 
-# zey69@uvm.haifa.ac.il (Pacific Coast Mail Order) (1 posts)
+# zey69<span>@</span>uvm.haifa.ac.il (Pacific Coast Mail Order) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

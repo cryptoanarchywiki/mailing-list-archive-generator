@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: i_a_eaglemail_eaglemailbox_at_hotmail_com_
+post_count: 1
 ---
 
-# "I.A. Eaglemail" <eaglemailbox@hotmail.com> (1 posts)
+# "I.A. Eaglemail" <eaglemailbox<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

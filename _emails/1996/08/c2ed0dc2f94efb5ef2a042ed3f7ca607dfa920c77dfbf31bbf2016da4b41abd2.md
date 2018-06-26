@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jean-Paul Kroepfli \<JeanPaul.Kroepfli@ns.fnet.fr\><br>
+From: Jean-Paul Kroepfli \<JeanPaul.Kroepfli<span>@</span>ns.fnet.fr\><br>
 To: "'Bruce Schneier'" \<schneier@counterpane.com\><br>
 Message Hash: c2ed0dc2f94efb5ef2a042ed3f7ca607dfa920c77dfbf31bbf2016da4b41abd2<br>
 Message ID: \<01BB80A1.2447DD00@JPKroepsli.S-IP.EUnet.fr\><br>
@@ -54,6 +54,8 @@ PGP Fingerprint : 19 FB 67 EA 20 70 53 89  AF B2 5C 7F 02 1F CA 8F
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Jean-Paul Kroepfli <JeanPaul.Kroepfli<span>@</span>ns.fnet.fr>](/author/jeanpaul_kroepfli_jeanpaul_kroepfli_at_ns_fnet_fr_)"
 
 + 1996-08-02 (Sat, 3 Aug 1996 04:12:20 +0800) - Tao Renji Public Key system - _Jean-Paul Kroepfli \<JeanPaul.Kroepfli@ns.fnet.fr\>_
 

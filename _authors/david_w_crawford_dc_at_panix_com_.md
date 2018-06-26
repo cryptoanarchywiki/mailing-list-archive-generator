@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_w_crawford_dc_at_panix_com_
+post_count: 2
 ---
 
-# "David W. Crawford" <dc@panix.com> (2 posts)
+# "David W. Crawford" <dc<span>@</span>panix.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pgruber_at_nz1_netzone_com
+post_count: 1
 ---
 
-# pgruber@nz1.netzone.com (1 posts)
+# pgruber<span>@</span>nz1.netzone.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

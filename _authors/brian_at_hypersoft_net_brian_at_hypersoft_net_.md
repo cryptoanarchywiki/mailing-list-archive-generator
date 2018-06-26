@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_at_hypersoft_net_brian_at_hypersoft_net_
+post_count: 1
 ---
 
-# "Brian@HyperSoft.Net" <brian@hypersoft.net> (1 posts)
+# "Brian<span>@</span>HyperSoft.Net" <brian<span>@</span>hypersoft.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

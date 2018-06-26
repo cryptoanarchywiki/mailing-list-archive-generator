@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_at_freezone_remailer_anonymous_at_freezone_remailer_
+post_count: 1
 ---
 
-# anonymous@freezone.remailer (Anonymous@freezone.remailer) (1 posts)
+# anonymous<span>@</span>freezone.remailer (Anonymous<span>@</span>freezone.remailer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

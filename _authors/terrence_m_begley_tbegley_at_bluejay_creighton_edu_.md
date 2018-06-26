@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: terrence_m_begley_tbegley_at_bluejay_creighton_edu_
+post_count: 1
 ---
 
-# "Terrence M. Begley" <tbegley@bluejay.creighton.edu> (1 posts)
+# "Terrence M. Begley" <tbegley<span>@</span>bluejay.creighton.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

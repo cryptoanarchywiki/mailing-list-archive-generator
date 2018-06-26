@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: doumakes@netcom.com (Don Doumakes)<br>
+From: doumakes<span>@</span>netcom.com (Don Doumakes)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 62e96fae0bfe1be0816a04ae74af8607fea2b5b636e1a1a9d3cfd45da7fbdbf9<br>
 Message ID: \<199412121820.KAA08206@netcom11.netcom.com\><br>
@@ -51,6 +51,8 @@ Foxpro databases built to your specifications.  Email me for details.
 ## Thread
 
 + Return to [December 1994](/archive/1994/12)
+
++ Return to "[doumakes<span>@</span>netcom.com (Don Doumakes)](/author/doumakes_at_netcom_com_don_doumakes_)"
 
 + 1994-12-12 (Mon, 12 Dec 94 10:21:56 PST) - Re: Real-time surveillance of the police - _doumakes@netcom.com (Don Doumakes)_
 

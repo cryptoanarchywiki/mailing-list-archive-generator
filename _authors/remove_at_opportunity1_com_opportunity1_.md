@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: remove_at_opportunity1_com_opportunity1_
+post_count: 1
 ---
 
-# remove@opportunity1.com (Opportunity1) (1 posts)
+# remove<span>@</span>opportunity1.com (Opportunity1) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: s675570_at_aix2_uottawa_ca
+post_count: 3
 ---
 
-# s675570@aix2.uottawa.ca (3 posts)
+# s675570<span>@</span>aix2.uottawa.ca (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

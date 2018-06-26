@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jennifer_mansfieldjones_cardtris_at_umich_edu_
+post_count: 5
 ---
 
-# Jennifer Mansfield-Jones <cardtris@umich.edu> (5 posts)
+# Jennifer Mansfield-Jones <cardtris<span>@</span>umich.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

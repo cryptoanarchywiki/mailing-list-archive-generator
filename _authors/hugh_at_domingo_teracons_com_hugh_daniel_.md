@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hugh_at_domingo_teracons_com_hugh_daniel_
+post_count: 11
 ---
 
-# hugh@domingo.teracons.com (Hugh Daniel) (11 posts)
+# hugh<span>@</span>domingo.teracons.com (Hugh Daniel) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

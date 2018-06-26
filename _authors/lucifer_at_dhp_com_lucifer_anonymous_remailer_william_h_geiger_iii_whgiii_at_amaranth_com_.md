@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lucifer_at_dhp_com_lucifer_anonymous_remailer_william_h_geiger_iii_whgiii_at_amaranth_com_
+post_count: 1
 ---
 
-# lucifer@dhp.com (lucifer Anonymous Remailer)"William H. Geiger III" <whgiii@amaranth.com> (1 posts)
+# lucifer<span>@</span>dhp.com (lucifer Anonymous Remailer)"William H. Geiger III" <whgiii<span>@</span>amaranth.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

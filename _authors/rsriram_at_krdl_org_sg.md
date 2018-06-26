@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rsriram_at_krdl_org_sg
+post_count: 1
 ---
 
-# rsriram@krdl.org.sg (1 posts)
+# rsriram<span>@</span>krdl.org.sg (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

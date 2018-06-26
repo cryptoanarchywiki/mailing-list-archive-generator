@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_k__strong_pauls_at_dcs_rhbnc_ac_uk_
+post_count: 3
 ---
 
-# Paul "K." Strong <pauls@dcs.rhbnc.ac.uk> (3 posts)
+# Paul "K." Strong <pauls<span>@</span>dcs.rhbnc.ac.uk> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

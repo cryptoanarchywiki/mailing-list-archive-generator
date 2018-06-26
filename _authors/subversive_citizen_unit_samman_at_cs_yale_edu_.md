@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: subversive_citizen_unit_samman_at_cs_yale_edu_
+post_count: 2
 ---
 
-# Subversive Citizen Unit <samman@CS.YALE.EDU> (2 posts)
+# Subversive Citizen Unit <samman<span>@</span>CS.YALE.EDU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

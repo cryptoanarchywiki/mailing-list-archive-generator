@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: firebrd123_at_ns_interconnect_net_dan_nikolai_
+post_count: 2
 ---
 
-# firebrd123@ns.interconnect.net (Dan Nikolai) (2 posts)
+# firebrd123<span>@</span>ns.interconnect.net (Dan Nikolai) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

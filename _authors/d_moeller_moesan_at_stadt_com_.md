@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: d_moeller_moesan_at_stadt_com_
+post_count: 3
 ---
 
-# "D. Moeller" <moe-san@stadt.com> (3 posts)
+# "D. Moeller" <moe-san<span>@</span>stadt.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: friedman_at_gnu_ai_mit_edu_noah_friedman_
+post_count: 2
 ---
 
-# friedman@gnu.ai.mit.edu (Noah Friedman) (2 posts)
+# friedman<span>@</span>gnu.ai.mit.edu (Noah Friedman) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

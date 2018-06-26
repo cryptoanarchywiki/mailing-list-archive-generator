@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mabidex1_102415_404_at_compuserve_com_
+post_count: 1
 ---
 
-# Mabidex1 <102415.404@CompuServe.com> (1 posts)
+# Mabidex1 <102415.404<span>@</span>CompuServe.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

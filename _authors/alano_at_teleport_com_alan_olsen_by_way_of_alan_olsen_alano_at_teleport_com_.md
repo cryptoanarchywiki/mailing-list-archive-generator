@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alano_at_teleport_com_alan_olsen_by_way_of_alan_olsen_alano_at_teleport_com_
+post_count: 1
 ---
 
-# alano@teleport.com (Alan Olsen) (by way of Alan Olsen <alano@teleport.com>) (1 posts)
+# alano<span>@</span>teleport.com (Alan Olsen) (by way of Alan Olsen <alano<span>@</span>teleport.com>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

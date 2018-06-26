@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mary_rose_m_landicho_at_biology_bbk_ac_uk_
+post_count: 3
 ---
 
-# Mary Rose <m.landicho@biology.bbk.ac.uk> (3 posts)
+# Mary Rose <m.landicho<span>@</span>biology.bbk.ac.uk> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

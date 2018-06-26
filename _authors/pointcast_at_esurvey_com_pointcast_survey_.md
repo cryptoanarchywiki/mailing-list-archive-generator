@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pointcast_at_esurvey_com_pointcast_survey_
+post_count: 1
 ---
 
-# pointcast@esurvey.com (PointCast Survey) (1 posts)
+# pointcast<span>@</span>esurvey.com (PointCast Survey) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

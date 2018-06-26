@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: omegaman_omega_at_bigeasy_com_
+post_count: 35
 ---
 
-# "Omegaman" <omega@bigeasy.com> (35 posts)
+# "Omegaman" <omega<span>@</span>bigeasy.com> (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

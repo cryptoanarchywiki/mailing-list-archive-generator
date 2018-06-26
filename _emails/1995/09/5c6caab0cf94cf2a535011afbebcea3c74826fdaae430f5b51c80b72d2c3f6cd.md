@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: monty.harder@famend.com (Monty.harder@famend.com)<br>
+From: monty.harder<span>@</span>famend.com (Monty.harder<span>@</span>famend.com)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5c6caab0cf94cf2a535011afbebcea3c74826fdaae430f5b51c80b72d2c3f6cd<br>
 Message ID: \<9509201546395394@ci.diamond-bar.ca.us\><br>
@@ -78,6 +78,8 @@ used to send me something that even the escrow agents can't read....
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[monty.harder<span>@</span>famend.com (Monty.harder<span>@</span>famend.com)](/author/monty_harder_at_famend_com_monty_harder_at_famend_com_)"
 
 + 1995-09-20 (Wed, 20 Sep 95 16:28:06 PDT) - O.J. ObCrypto:  Fuhrman's Folly Fans Fakery Fears... - _monty.harder@famend.com (Monty.harder@famend.com)_
 

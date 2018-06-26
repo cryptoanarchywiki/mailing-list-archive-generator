@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mccoy_at_communities_com_jim_mccoy_
+post_count: 52
 ---
 
-# mccoy@communities.com (Jim McCoy) (52 posts)
+# mccoy<span>@</span>communities.com (Jim McCoy) (52 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

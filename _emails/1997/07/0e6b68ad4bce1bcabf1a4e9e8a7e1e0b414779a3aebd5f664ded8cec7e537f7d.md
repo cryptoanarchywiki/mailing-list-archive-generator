@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Michael Froomkin - U.Miami School of Law" \<froomkin@law.miami.edu\><br>
+From: "Michael Froomkin - U.Miami School of Law" \<froomkin<span>@</span>law.miami.edu\><br>
 To: Joichi Ito \<jito@eccosys.com\><br>
 Message Hash: 0e6b68ad4bce1bcabf1a4e9e8a7e1e0b414779a3aebd5f664ded8cec7e537f7d<br>
 Message ID: \<Pine.SOL.3.95.970705000214.24715B-100000@viper.law.miami.edu\><br>
@@ -59,6 +59,10 @@ Coral Gables, FL 33124 USA | It's @%#$%$# hot here.
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "[Carl Ellison <cme<span>@</span>cybercash.com>](/author/carl_ellison_cme_at_cybercash_com_)"
++ Return to "[Joichi Ito <jito<span>@</span>eccosys.com>](/author/joichi_ito_jito_at_eccosys_com_)"
++ Return to "["Michael Froomkin - U.Miami School of Law" <froomkin<span>@</span>law.miami.edu>](/author/michael_froomkin__u_miami_school_of_law_froomkin_at_law_miami_edu_)"
 
 + 1997-07-05 (Sat, 5 Jul 1997 09:21:02 +0800) - [Key Recovery Policy in Japan](/archive/1997/07/1fc11a25f7828e6baa7145944b91754b350c4b3848ccd726d6edec26210cdcfc) - _Joichi Ito \<jito@eccosys.com\>_
   + 1997-07-05 (Sat, 5 Jul 1997 12:12:30 +0800) - Re: Key Recovery Policy in Japan - _"Michael Froomkin - U.Miami School of Law" \<froomkin@law.miami.edu\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hal_varian_hal_at_alfred_sims_berkeley_edu_
+post_count: 1
 ---
 
-# Hal Varian <hal@alfred.sims.berkeley.edu> (1 posts)
+# Hal Varian <hal<span>@</span>alfred.sims.berkeley.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

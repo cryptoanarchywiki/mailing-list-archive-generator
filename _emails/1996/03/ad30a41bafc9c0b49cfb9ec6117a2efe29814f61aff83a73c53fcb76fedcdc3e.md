@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: koontz@netapp.com (Dave Koontz)<br>
+From: koontz<span>@</span>netapp.com (Dave Koontz)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ad30a41bafc9c0b49cfb9ec6117a2efe29814f61aff83a73c53fcb76fedcdc3e<br>
 Message ID: \<9603141517.AA21378@supernova.netapp.com\><br>
@@ -64,6 +64,8 @@ commercial key escrow data recovery center in the United STates.
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[koontz<span>@</span>netapp.com (Dave Koontz)](/author/koontz_at_netapp_com_dave_koontz_)"
 
 + 1996-03-14 (Thu, 14 Mar 1996 12:47:10 -0500) - Commercial Key Escrow as Prerequisite to 64 bit Export - _koontz@netapp.com (Dave Koontz)_
 

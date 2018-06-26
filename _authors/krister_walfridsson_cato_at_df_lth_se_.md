@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: krister_walfridsson_cato_at_df_lth_se_
+post_count: 2
 ---
 
-# Krister Walfridsson <cato@df.lth.se> (2 posts)
+# Krister Walfridsson <cato<span>@</span>df.lth.se> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

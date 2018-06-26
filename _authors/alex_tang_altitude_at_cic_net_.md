@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_tang_altitude_at_cic_net_
+post_count: 11
 ---
 
-# Alex Tang <altitude@cic.net> (11 posts)
+# Alex Tang <altitude<span>@</span>cic.net> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

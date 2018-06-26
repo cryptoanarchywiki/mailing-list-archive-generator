@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roger_schlafly_schlafly_at_mail_cruzio_com_
+post_count: 1
 ---
 
-# Roger Schlafly <schlafly@mail.cruzio.com> (1 posts)
+# Roger Schlafly <schlafly<span>@</span>mail.cruzio.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

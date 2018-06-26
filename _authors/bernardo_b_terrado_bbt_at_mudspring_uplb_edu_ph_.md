@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bernardo_b_terrado_bbt_at_mudspring_uplb_edu_ph_
+post_count: 42
 ---
 
-# "Bernardo B. Terrado" <bbt@mudspring.uplb.edu.ph> (42 posts)
+# "Bernardo B. Terrado" <bbt<span>@</span>mudspring.uplb.edu.ph> (42 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

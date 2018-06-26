@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eamon_daly_eamon_at_cosc_canterbury_ac_nz_
+post_count: 2
 ---
 
-# Eamon Daly <eamon@cosc.canterbury.ac.nz> (2 posts)
+# Eamon Daly <eamon<span>@</span>cosc.canterbury.ac.nz> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

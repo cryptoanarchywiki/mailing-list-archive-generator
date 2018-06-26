@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alexander_oelzant_aoe_at_oeh_univie_ac_at_
+post_count: 1
 ---
 
-# Alexander Oelzant <aoe@oeh.univie.ac.at> (1 posts)
+# Alexander Oelzant <aoe<span>@</span>oeh.univie.ac.at> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: verify_at_nytimes_com_new_york_times_subscription_robot_
+post_count: 5
 ---
 
-# verify@nytimes.com (New York Times subscription robot) (5 posts)
+# verify<span>@</span>nytimes.com (New York Times subscription robot) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tekmasta@global.california.com<br>
+From: tekmasta<span>@</span>global.california.com<br>
 To: Genocide \<gen2600@aracnet.com\><br>
 Message Hash: fc413eef5c615302cdccf8c2edeb0ced9d90ccc3ea51d0f3ddd41671306caad5<br>
 Message ID: \<199701250958.BAA23623@toad.com\><br>
@@ -85,6 +85,9 @@ with eudora or netscape.... please help!
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[tekmasta<span>@</span>global.california.com](/author/tekmasta_at_global_california_com)"
++ Return to "[wiseleo<span>@</span>juno.com (Leonid S Knyshov)](/author/wiseleo_at_juno_com_leonid_s_knyshov_)"
 
 + 1997-01-25 (Sat, 25 Jan 1997 01:58:48 -0800 (PST)) - Re: your mail - _tekmasta@global.california.com_
   + 1997-01-25 (Sat, 25 Jan 1997 09:12:40 -0800 (PST)) - [Re: your mail](/archive/1997/01/f7cc73ae663463625457988ab354d5a1c3bd8e9b3c8a9919403d8ecf884468c5) - _wiseleo@juno.com (Leonid S Knyshov)_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edgar_at_spectrx_saigon_com_edgar_w_swank_
+post_count: 75
 ---
 
-# edgar@spectrx.saigon.com (Edgar W. Swank) (75 posts)
+# edgar<span>@</span>spectrx.saigon.com (Edgar W. Swank) (75 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jack_oswald__ceo__rpk_security_inc_joswald_at_rpkusa_com_
+post_count: 1
 ---
 
-# Jack Oswald / CEO / RPK Security Inc <joswald@rpkusa.com> (1 posts)
+# Jack Oswald / CEO / RPK Security Inc <joswald<span>@</span>rpkusa.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cv_communications_sales_at_quantcom_com_
+post_count: 2
 ---
 
-# CV Communications <sales@quantcom.com> (2 posts)
+# CV Communications <sales<span>@</span>quantcom.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

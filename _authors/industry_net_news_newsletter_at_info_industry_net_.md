@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: industry_net_news_newsletter_at_info_industry_net_
+post_count: 1
 ---
 
-# "Industry.net News" <newsletter@info.industry.net> (1 posts)
+# "Industry.net News" <newsletter<span>@</span>info.industry.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

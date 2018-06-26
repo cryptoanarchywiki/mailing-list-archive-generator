@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<hfinney@shell.portal.com\><br>
+From: Hal \<hfinney<span>@</span>shell.portal.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3ff3eadc26de6116ddcc8122effbcc31f6c6794cf9ae24cda786ebdbdb9bfd0a<br>
 Message ID: \<199407290406.VAA11397@jobe.shell.portal.com\><br>
@@ -68,6 +68,10 @@ Hal
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)](/author/paul_at_hawksbill_sprintmrn_com_paul_ferguson_)"
++ Return to "[trollins<span>@</span>debbie.telos.com (Tom Rollins)](/author/trollins_at_debbie_telos_com_tom_rollins_)"
 
 + 1994-07-28 (Thu, 28 Jul 94 15:21:15 PDT) - [Catch-22](/archive/1994/07/b307ce4e26d969497446d90bff63267a127940653c49d9be8d02dfdacaf81a4f) - _trollins@debbie.telos.com (Tom Rollins)_
   + 1994-07-28 (Thu, 28 Jul 94 16:19:01 PDT) - [Re: Catch-22](/archive/1994/07/e57db71fbb794afe05f7339a86fa0bb653c92e8397e2ec876d2f1a5c11bc93a6) - _paul@hawksbill.sprintmrn.com (Paul Ferguson)_

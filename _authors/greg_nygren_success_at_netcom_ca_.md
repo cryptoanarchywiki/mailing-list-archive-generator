@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_nygren_success_at_netcom_ca_
+post_count: 1
 ---
 
-# Greg Nygren <success@netcom.ca> (1 posts)
+# Greg Nygren <success<span>@</span>netcom.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

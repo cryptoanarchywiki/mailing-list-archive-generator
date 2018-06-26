@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_banisar_banisar_at_washofc_epic_org_
+post_count: 7
 ---
 
-# Dave Banisar <banisar@washofc.epic.org> (7 posts)
+# Dave Banisar <banisar<span>@</span>washofc.epic.org> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

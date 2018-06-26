@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sawyer_at_nextek_com_thomas_j_sawyer_
+post_count: 5
 ---
 
-# sawyer@nextek.com (Thomas J. Sawyer) (5 posts)
+# sawyer<span>@</span>nextek.com (Thomas J. Sawyer) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

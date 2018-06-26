@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lord_of_entropy_chaos_at_ilf_net_
+post_count: 1
 ---
 
-# Lord of Entropy <chaos@ilf.net> (1 posts)
+# Lord of Entropy <chaos<span>@</span>ilf.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

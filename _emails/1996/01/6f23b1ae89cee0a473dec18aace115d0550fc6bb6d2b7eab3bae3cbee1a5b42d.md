@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Nathaniel Borenstein \<nsb@nsb.fv.com\><br>
+From: Nathaniel Borenstein \<nsb<span>@</span>nsb.fv.com\><br>
 To: cypherpunks \<dvw@hamachi.epr.com\><br>
 Message Hash: 6f23b1ae89cee0a473dec18aace115d0550fc6bb6d2b7eab3bae3cbee1a5b42d<br>
 Message ID: \<Ql3UHiOMc50e5Ir1sa@nsb.fv.com\><br>
@@ -78,6 +78,11 @@ FAQ & PGP key: nsb+faq@nsb.fv.com
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[Bryce <wilcoxb<span>@</span>nag.cs.colorado.edu>](/author/bryce_wilcoxb_at_nag_cs_colorado_edu_)"
++ Return to "[David Van Wie <dvw<span>@</span>hamachi.epr.com>](/author/david_van_wie_dvw_at_hamachi_epr_com_)"
++ Return to "[Ernest Hua <hua<span>@</span>chromatic.com>](/author/ernest_hua_hua_at_chromatic_com_)"
++ Return to "[Nathaniel Borenstein <nsb<span>@</span>nsb.fv.com>](/author/nathaniel_borenstein_nsb_at_nsb_fv_com_)"
 
 + 1996-01-30 (Tue, 30 Jan 1996 17:16:55 +0800) - [RE: FV Demonstrates Fatal Flaw in Software Encryption of Credi   tCards](/archive/1996/01/f47bbbef234bdb15703d57b23c751f832d34cea912e05540ba881f71f99de95e) - _David Van Wie \<dvw@hamachi.epr.com\>_
   + 1996-01-30 (Wed, 31 Jan 1996 06:55:15 +0800) - [Re: FV Demonstrates Fatal Flaw in Software Encryption of Credi t Cards](/archive/1996/01/7ffb194cb692c61c38cf4d0b7f9986e1f2749330d8d9a1c8bf3b58523b88f459) - _Ernest Hua \<hua@chromatic.com\>_

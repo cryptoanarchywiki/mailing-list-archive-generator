@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: icefox_aka_robert_sturtz__rsturt_at_wilbur_mbark_swin_oz_au_
+post_count: 4
 ---
 
-# "Ice-Fox (aka Robert Sturtz)" <rsturt@wilbur.mbark.swin.oz.au> (4 posts)
+# "Ice-Fox (aka Robert Sturtz)" <rsturt<span>@</span>wilbur.mbark.swin.oz.au> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

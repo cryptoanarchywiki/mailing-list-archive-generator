@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jla_at_gnu_ai_mit_edu_joseph_arceneaux_
+post_count: 1
 ---
 
-# jla@gnu.ai.mit.edu (Joseph Arceneaux) (1 posts)
+# jla<span>@</span>gnu.ai.mit.edu (Joseph Arceneaux) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

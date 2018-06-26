@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: loren_fleckenstein_73211_3713_at_compuserve_com_
+post_count: 7
 ---
 
-# Loren Fleckenstein <73211.3713@compuserve.com> (7 posts)
+# Loren Fleckenstein <73211.3713<span>@</span>compuserve.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

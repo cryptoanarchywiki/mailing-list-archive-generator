@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: koontzd@lrcs.loral.com (David Koontz )<br>
+From: koontzd<span>@</span>lrcs.loral.com (David Koontz )<br>
 To: cypherpunks@toad.com<br>
 Message Hash: afc9b6e75eae5b2d980de89d77ecbfd829e91f86ebfbe3a7ddef5a676c949df7<br>
 Message ID: \<9403310316.AA18861@io.lrcs.loral.com\><br>
@@ -145,6 +145,9 @@ and is the sort of thing Tim May was talking about.
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[Eric Blossom <eb<span>@</span>sr.hp.com>](/author/eric_blossom_eb_at_sr_hp_com_)"
++ Return to "[koontzd<span>@</span>lrcs.loral.com (David Koontz )](/author/koontzd_at_lrcs_loral_com_david_koontz_)"
 
 + 1994-03-31 (Wed, 30 Mar 94 19:16:54 PST) - Re: Another view of the CFP - _koontzd@lrcs.loral.com (David Koontz )_
   + 1994-03-31 (Thu, 31 Mar 94 10:28:19 PST) - [Another view of the CFP](/archive/1994/03/7f5a3a7c917a5a9f1d8c3b95dc0b2e3bd3280b4cad54dbc8c9777f6c17383e16) - _Eric Blossom \<eb@sr.hp.com\>_

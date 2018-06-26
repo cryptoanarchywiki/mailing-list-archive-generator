@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tim_skirvin_tskirvin_at_math_uiuc_edu_
+post_count: 3
 ---
 
-# Tim Skirvin <tskirvin@math.uiuc.edu> (3 posts)
+# Tim Skirvin <tskirvin<span>@</span>math.uiuc.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

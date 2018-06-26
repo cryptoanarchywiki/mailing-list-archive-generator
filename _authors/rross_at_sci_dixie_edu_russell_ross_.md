@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rross_at_sci_dixie_edu_russell_ross_
+post_count: 5
 ---
 
-# rross@sci.dixie.edu (Russell Ross) (5 posts)
+# rross<span>@</span>sci.dixie.edu (Russell Ross) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

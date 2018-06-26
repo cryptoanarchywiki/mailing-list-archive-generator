@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_koningus3com3com_at_smtp1_isd_3com_com
+post_count: 13
 ---
 
-# Paul_Koning/US/3Com%3COM@smtp1.isd.3com.com (13 posts)
+# Paul_Koning/US/3Com%3COM<span>@</span>smtp1.isd.3com.com (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

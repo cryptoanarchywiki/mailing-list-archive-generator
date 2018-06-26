@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shabbir_safdar_shabbir_at_democracy_net_
+post_count: 9
 ---
 
-# Shabbir Safdar <shabbir@democracy.net> (9 posts)
+# Shabbir Safdar <shabbir<span>@</span>democracy.net> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: senders_at_domains_com_senders_
+post_count: 1
 ---
 
-# Senders@Domains.com (Senders) (1 posts)
+# Senders<span>@</span>Domains.com (Senders) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

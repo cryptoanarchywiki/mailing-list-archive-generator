@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremiah_harmsen_jeremiah_at_aldus_northnet_org_
+post_count: 1
 ---
 
-# Jeremiah Harmsen <jeremiah@Aldus.NorthNet.org> (1 posts)
+# Jeremiah Harmsen <jeremiah<span>@</span>Aldus.NorthNet.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

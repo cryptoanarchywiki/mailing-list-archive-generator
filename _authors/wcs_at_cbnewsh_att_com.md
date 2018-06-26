@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wcs_at_cbnewsh_att_com
+post_count: 1
 ---
 
-# wcs@cbnewsh.att.com (1 posts)
+# wcs<span>@</span>cbnewsh.att.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

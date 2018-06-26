@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brendon_macaraeg_bqm1808_at_is_nyu_edu_
+post_count: 2
 ---
 
-# Brendon Macaraeg <bqm1808@is.nyu.edu> (2 posts)
+# Brendon Macaraeg <bqm1808<span>@</span>is.nyu.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zipa21_at_kyla_kiruna_se_photo_transfer_specialties_
+post_count: 1
 ---
 
-# zipa21@kyla.kiruna.se (  Photo Transfer Specialties) (1 posts)
+# zipa21<span>@</span>kyla.kiruna.se (  Photo Transfer Specialties) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

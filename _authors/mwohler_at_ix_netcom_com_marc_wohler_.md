@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mwohler_at_ix_netcom_com_marc_wohler_
+post_count: 1
 ---
 
-# MWOHLER@ix.netcom.com (Marc Wohler) (1 posts)
+# MWOHLER<span>@</span>ix.netcom.com (Marc Wohler) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

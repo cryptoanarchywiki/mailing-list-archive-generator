@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_shiplett_michael_shiplett_at_umich_edu_
+post_count: 17
 ---
 
-# michael shiplett <michael.shiplett@umich.edu> (17 posts)
+# michael shiplett <michael.shiplett<span>@</span>umich.edu> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

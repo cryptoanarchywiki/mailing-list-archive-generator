@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: amanda_mclean_amanda_at_wineasy_se_
+post_count: 1
 ---
 
-# Amanda McLean <amanda@wineasy.se> (1 posts)
+# Amanda McLean <amanda<span>@</span>wineasy.se> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: drzaphod_ncselxsidrzaphod_at_ncselxsi_netcom_com_
+post_count: 26
 ---
 
-# "DrZaphod" <ncselxsi!drzaphod@ncselxsi.netcom.com> (26 posts)
+# "DrZaphod" <ncselxsi!drzaphod<span>@</span>ncselxsi.netcom.com> (26 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

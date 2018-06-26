@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jya@pipeline.com (John Young)<br>
+From: jya<span>@</span>pipeline.com (John Young)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8fdc8111e3edbfb840260ce76ec0ad0baeb9c0dd62d3fcceece4d59188f803fd<br>
 Message ID: \<199609160154.BAA05664@pipe3.ny3.usa.pipeline.com\><br>
@@ -63,6 +63,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
 
 + 1996-09-16 (Mon, 16 Sep 1996 12:25:58 +0800) - The Living and the Dead - _jya@pipeline.com (John Young)_
 

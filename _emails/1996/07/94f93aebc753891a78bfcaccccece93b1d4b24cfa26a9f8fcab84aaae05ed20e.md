@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adam Back \<aba@dcs.ex.ac.uk\><br>
+From: Adam Back \<aba<span>@</span>dcs.ex.ac.uk\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 94f93aebc753891a78bfcaccccece93b1d4b24cfa26a9f8fcab84aaae05ed20e<br>
 Message ID: \<199607191045.LAA00321@server.test.net\><br>
@@ -42,6 +42,8 @@ Adam
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
 
 + 1996-07-20 (Sat, 20 Jul 1996 22:25:25 +0800) - Netscape patch 40 bit -> 128 bit? - _Adam Back \<aba@dcs.ex.ac.uk\>_
 

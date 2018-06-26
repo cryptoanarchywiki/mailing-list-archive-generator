@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gt7508b_at_prism_gatech_edu_phreak_
+post_count: 4
 ---
 
-# gt7508b@prism.gatech.edu (PHrEaK!) (4 posts)
+# gt7508b<span>@</span>prism.gatech.edu (PHrEaK!) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

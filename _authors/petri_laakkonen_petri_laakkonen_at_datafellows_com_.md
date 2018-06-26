@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: petri_laakkonen_petri_laakkonen_at_datafellows_com_
+post_count: 1
 ---
 
-# Petri Laakkonen <Petri.Laakkonen@DataFellows.com> (1 posts)
+# Petri Laakkonen <Petri.Laakkonen<span>@</span>DataFellows.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

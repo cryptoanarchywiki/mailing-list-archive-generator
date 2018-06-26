@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: STUFFED/EUREKA! \<stuffed@stuffed.net\><br>
+From: STUFFED/EUREKA! \<stuffed<span>@</span>stuffed.net\><br>
 To: All Eureka/Stuffed Subscribers: ;<br>
 Message Hash: cfc64fdc5d509fee65d6defd46920b8c4eb49bdac4b64dc5de7b4e1b6a9f46d3<br>
 Message ID: \<19980820071000.28280.qmail@eureka.abc-web.com\><br>
@@ -49,6 +49,8 @@ instructions on unsubscribing  are in every issue of Eureka!
 ## Thread
 
 + Return to [August 1998](/archive/1998/08)
+
++ Return to "[STUFFED/EUREKA! <stuffed<span>@</span>stuffed.net>](/author/stuffedeureka_stuffed_at_stuffed_net_)"
 
 + 1998-08-21 (Thu, 20 Aug 1998 23:26:16 -0700 (PDT)) - Distraught chef cleaves own willy/Artist builds tapestry from 40,000 bras http://stuffed.net/98/8/20/ - _STUFFED/EUREKA! \<stuffed@stuffed.net\>_
 

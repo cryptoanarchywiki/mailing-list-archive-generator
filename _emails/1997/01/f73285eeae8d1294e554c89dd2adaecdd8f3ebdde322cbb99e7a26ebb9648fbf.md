@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: TiEPiLoT \<tiepilot@thepentagon.com\><br>
+From: TiEPiLoT \<tiepilot<span>@</span>thepentagon.com\><br>
 To: Erp \<erp@digiforest.com\><br>
 Message Hash: f73285eeae8d1294e554c89dd2adaecdd8f3ebdde322cbb99e7a26ebb9648fbf<br>
 Message ID: \<32DBB1F8.10F918E7@thepentagon.com\><br>
@@ -60,6 +60,9 @@ logs of last night's up yet.
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Erp <erp<span>@</span>digiforest.com>](/author/erp_erp_at_digiforest_com_)"
++ Return to "[TiEPiLoT <tiepilot<span>@</span>thepentagon.com>](/author/tiepilot_tiepilot_at_thepentagon_com_)"
 
 + 1997-01-14 (Tue, 14 Jan 1997 00:09:50 -0800 (PST)) - [UnderNet:](/archive/1997/01/8f0ad5659829ff1276ce6eb376006e9629b71465485becba855dd0781ad14e0d) - _Erp \<erp@digiforest.com\>_
   + 1997-01-14 (Tue, 14 Jan 1997 08:24:19 -0800 (PST)) - Re: UnderNet: - _TiEPiLoT \<tiepilot@thepentagon.com\>_

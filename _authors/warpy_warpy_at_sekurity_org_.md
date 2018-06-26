@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: warpy_warpy_at_sekurity_org_
+post_count: 4
 ---
 
-# Warpy <warpy@sekurity.org> (4 posts)
+# Warpy <warpy<span>@</span>sekurity.org> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

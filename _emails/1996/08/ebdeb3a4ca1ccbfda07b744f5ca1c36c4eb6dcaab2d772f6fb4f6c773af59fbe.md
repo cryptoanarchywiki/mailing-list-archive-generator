@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anne Eisenberg \<aeisenb@duke.poly.edu\><br>
+From: Anne Eisenberg \<aeisenb<span>@</span>duke.poly.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ebdeb3a4ca1ccbfda07b744f5ca1c36c4eb6dcaab2d772f6fb4f6c773af59fbe<br>
 Message ID: \<Pine.SUN.3.93.960806103613.20022F-100000@duke.poly.edu\><br>
@@ -44,6 +44,8 @@ aeisenb@duke.poly.edu
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Anne Eisenberg <aeisenb<span>@</span>duke.poly.edu>](/author/anne_eisenberg_aeisenb_at_duke_poly_edu_)"
 
 + 1996-08-07 (Wed, 7 Aug 1996 08:53:17 +0800) - DoubleClick: Does is track browsing across multiple sites? - _Anne Eisenberg \<aeisenb@duke.poly.edu\>_
 

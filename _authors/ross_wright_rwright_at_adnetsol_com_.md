@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ross_wright_rwright_at_adnetsol_com_
+post_count: 121
 ---
 
-# "Ross Wright" <rwright@adnetsol.com> (121 posts)
+# "Ross Wright" <rwright<span>@</span>adnetsol.com> (121 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

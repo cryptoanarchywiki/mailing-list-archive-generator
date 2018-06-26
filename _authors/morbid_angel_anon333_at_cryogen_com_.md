@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: morbid_angel_anon333_at_cryogen_com_
+post_count: 1
 ---
 
-# Morbid Angel <anon333@cryogen.com> (1 posts)
+# Morbid Angel <anon333<span>@</span>cryogen.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

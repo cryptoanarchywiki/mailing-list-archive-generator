@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gee_geeman_at_best_com_
+post_count: 1
 ---
 
-# gee <geeman@best.com> (1 posts)
+# gee <geeman<span>@</span>best.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: george_a_gleason_gg_at_well_sf_ca_us_
+post_count: 142
 ---
 
-# "George A. Gleason" <gg@well.sf.ca.us> (142 posts)
+# "George A. Gleason" <gg<span>@</span>well.sf.ca.us> (142 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

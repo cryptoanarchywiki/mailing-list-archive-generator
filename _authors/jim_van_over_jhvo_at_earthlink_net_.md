@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_van_over_jhvo_at_earthlink_net_
+post_count: 1
 ---
 
-# Jim Van Over <jhvo@earthlink.net> (1 posts)
+# Jim Van Over <jhvo<span>@</span>earthlink.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

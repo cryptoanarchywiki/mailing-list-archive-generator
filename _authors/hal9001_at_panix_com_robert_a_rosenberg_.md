@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hal9001_at_panix_com_robert_a_rosenberg_
+post_count: 5
 ---
 
-# hal9001@panix.com (Robert A. Rosenberg) (5 posts)
+# hal9001<span>@</span>panix.com (Robert A. Rosenberg) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

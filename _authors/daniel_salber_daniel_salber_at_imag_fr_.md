@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_salber_daniel_salber_at_imag_fr_
+post_count: 2
 ---
 
-# Daniel Salber <daniel.salber@imag.fr> (2 posts)
+# Daniel Salber <daniel.salber<span>@</span>imag.fr> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

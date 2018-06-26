@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Steve Gibbons \<steve@aztech.net\><br>
+From: Steve Gibbons \<steve<span>@</span>aztech.net\><br>
 To: frantz@netcom.com<br>
 Message Hash: c361bfdbc4d09f58edbecb86cd5a76feced601a5dd3e5159f8dd6b7e93a05b33<br>
 Message ID: \<0099FEF9.CAF81C60.361@aztech.net\><br>
@@ -81,6 +81,8 @@ Steve@AZTech.Net
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[Steve Gibbons <steve<span>@</span>aztech.net>](/author/steve_gibbons_steve_at_aztech_net_)"
 
 + 1996-03-28 (Thu, 28 Mar 1996 09:39:26 +0800) - Re: WSJ on Big Java Flaw - _Steve Gibbons \<steve@aztech.net\>_
 

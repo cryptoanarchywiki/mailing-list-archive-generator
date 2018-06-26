@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: promotions@web-promotions.com<br>
+From: promotions<span>@</span>web-promotions.com<br>
 To: promotions@web-promotions.com<br>
 Message Hash: a139b2efad737f74e0db4b45b5eadc13cfc48ee1dfe4e57e7b5753d0d4cbb6a5<br>
 Message ID: \<199708020404.AAA06976@loki.atcon.com\><br>
@@ -97,6 +97,8 @@ and put REMOVE in the SUBJECT BOX. Placing the word remove in any other area of 
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[promotions<span>@</span>web-promotions.com](/author/promotions_at_webpromotions_com)"
 
 + 1997-08-02 (Sat, 2 Aug 1997 00:42:24 -0700 (PDT)) - Fraud Control - _promotions@web-promotions.com_
 

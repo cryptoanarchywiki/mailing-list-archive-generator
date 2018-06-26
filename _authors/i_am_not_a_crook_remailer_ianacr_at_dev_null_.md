@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: i_am_not_a_crook_remailer_ianacr_at_dev_null_
+post_count: 2
 ---
 
-# I Am Not A Crook Remailer <ianacr@dev.null> (2 posts)
+# I Am Not A Crook Remailer <ianacr<span>@</span>dev.null> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

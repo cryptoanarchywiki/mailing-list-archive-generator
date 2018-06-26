@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_elliott_paul_elliott_at_hrnowl_lonestar_org_
+post_count: 28
 ---
 
-# Paul Elliott <paul.elliott@hrnowl.lonestar.org> (28 posts)
+# Paul Elliott <paul.elliott<span>@</span>hrnowl.lonestar.org> (28 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

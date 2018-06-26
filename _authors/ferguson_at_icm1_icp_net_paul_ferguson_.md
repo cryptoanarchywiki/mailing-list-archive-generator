@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ferguson_at_icm1_icp_net_paul_ferguson_
+post_count: 5
 ---
 
-# ferguson@icm1.icp.net (Paul Ferguson) (5 posts)
+# ferguson<span>@</span>icm1.icp.net (Paul Ferguson) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

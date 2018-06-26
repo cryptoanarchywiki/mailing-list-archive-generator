@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tomj_at_f111_n125_z1_fidonet_org_tomj_
+post_count: 1
 ---
 
-# tomj@f111.n125.z1.FIDONET.ORG (tomj) (1 posts)
+# tomj<span>@</span>f111.n125.z1.FIDONET.ORG (tomj) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

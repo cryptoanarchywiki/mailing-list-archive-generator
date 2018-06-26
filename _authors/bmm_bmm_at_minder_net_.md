@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bmm_bmm_at_minder_net_
+post_count: 8
 ---
 
-# BMM <bmm@minder.net> (8 posts)
+# BMM <bmm<span>@</span>minder.net> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

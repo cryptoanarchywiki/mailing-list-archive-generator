@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frederick_g_m_roeber_roeber_at_netscape_com_
+post_count: 2
 ---
 
-# "Frederick G.M. Roeber" <roeber@netscape.com> (2 posts)
+# "Frederick G.M. Roeber" <roeber<span>@</span>netscape.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

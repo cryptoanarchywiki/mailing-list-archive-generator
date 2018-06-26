@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_foley_paul_at_gec_co_nz_
+post_count: 1
 ---
 
-# "Paul Foley" <paul@gec.co.nz> (1 posts)
+# "Paul Foley" <paul<span>@</span>gec.co.nz> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

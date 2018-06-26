@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ron_strasburg_rstrasbu_at_bronco1_hastings_edu_
+post_count: 1
 ---
 
-# Ron Strasburg <rstrasbu@bronco1.hastings.edu> (1 posts)
+# Ron Strasburg <rstrasbu<span>@</span>bronco1.hastings.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

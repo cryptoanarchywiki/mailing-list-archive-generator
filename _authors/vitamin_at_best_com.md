@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vitamin_at_best_com
+post_count: 3
 ---
 
-# vitamin@best.com (3 posts)
+# vitamin<span>@</span>best.com (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

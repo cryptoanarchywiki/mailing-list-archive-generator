@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kevin_jessup_kevin_jessup_at_mail_mei_com_
+post_count: 1
 ---
 
-# Kevin Jessup <kevin.jessup@mail.mei.com> (1 posts)
+# Kevin Jessup <kevin.jessup<span>@</span>mail.mei.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

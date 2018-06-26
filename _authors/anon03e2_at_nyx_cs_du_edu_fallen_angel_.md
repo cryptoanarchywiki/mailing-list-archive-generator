@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anon03e2_at_nyx_cs_du_edu_fallen_angel_
+post_count: 3
 ---
 
-# anon03e2@nyx.cs.du.edu (Fallen Angel) (3 posts)
+# anon03e2<span>@</span>nyx.cs.du.edu (Fallen Angel) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

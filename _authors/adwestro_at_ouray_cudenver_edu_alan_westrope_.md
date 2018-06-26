@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adwestro_at_ouray_cudenver_edu_alan_westrope_
+post_count: 18
 ---
 
-# adwestro@ouray.cudenver.edu (Alan Westrope) (18 posts)
+# adwestro<span>@</span>ouray.cudenver.edu (Alan Westrope) (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rlpowell_at_calum_csclub_uwaterloo_ca_robin_lee_powell_
+post_count: 5
 ---
 
-# rlpowell@calum.csclub.uwaterloo.ca (Robin Lee Powell) (5 posts)
+# rlpowell<span>@</span>calum.csclub.uwaterloo.ca (Robin Lee Powell) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

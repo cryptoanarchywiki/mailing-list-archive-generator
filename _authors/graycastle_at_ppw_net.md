@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: graycastle_at_ppw_net
+post_count: 2
 ---
 
-# graycastle@ppw.net (2 posts)
+# graycastle<span>@</span>ppw.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

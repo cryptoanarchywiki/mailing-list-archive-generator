@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: arve_kjoelen_akjoele_at_ee_siue_edu_
+post_count: 1
 ---
 
-# Arve Kjoelen <akjoele@ee.siue.edu> (1 posts)
+# Arve Kjoelen <akjoele<span>@</span>ee.siue.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

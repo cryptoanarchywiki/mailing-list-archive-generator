@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_goerzen_goerzenj_at_complete_org_
+post_count: 1
 ---
 
-# John Goerzen <goerzenj@complete.org> (1 posts)
+# John Goerzen <goerzenj<span>@</span>complete.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

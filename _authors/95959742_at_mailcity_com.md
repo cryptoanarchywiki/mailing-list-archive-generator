@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 95959742_at_mailcity_com
+post_count: 1
 ---
 
-# 95959742@mailcity.com (1 posts)
+# 95959742<span>@</span>mailcity.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

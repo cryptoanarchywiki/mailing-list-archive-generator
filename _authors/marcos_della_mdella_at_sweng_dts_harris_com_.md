@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marcos_della_mdella_at_sweng_dts_harris_com_
+post_count: 1
 ---
 
-# Marcos Della <mdella@sw-eng.dts.harris.com> (1 posts)
+# Marcos Della <mdella<span>@</span>sw-eng.dts.harris.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

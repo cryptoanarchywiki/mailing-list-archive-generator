@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adri_adrimacedo_at_rocketmail_com_
+post_count: 1
 ---
 
-# adri <adrimacedo@rocketmail.com> (1 posts)
+# adri <adrimacedo<span>@</span>rocketmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

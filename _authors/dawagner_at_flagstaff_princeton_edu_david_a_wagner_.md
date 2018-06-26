@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dawagner_at_flagstaff_princeton_edu_david_a_wagner_
+post_count: 1
 ---
 
-# dawagner@flagstaff.princeton.edu (David A. Wagner) (1 posts)
+# dawagner<span>@</span>flagstaff.princeton.edu (David A. Wagner) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

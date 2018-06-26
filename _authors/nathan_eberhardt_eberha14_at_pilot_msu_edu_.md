@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nathan_eberhardt_eberha14_at_pilot_msu_edu_
+post_count: 1
 ---
 
-# Nathan Eberhardt <eberha14@pilot.msu.edu> (1 posts)
+# Nathan Eberhardt <eberha14<span>@</span>pilot.msu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

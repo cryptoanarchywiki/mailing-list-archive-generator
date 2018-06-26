@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an15489_at_anon_penet_fi_jack_daniels_
+post_count: 5
 ---
 
-# an15489@anon.penet.fi (Jack Daniels) (5 posts)
+# an15489<span>@</span>anon.penet.fi (Jack Daniels) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

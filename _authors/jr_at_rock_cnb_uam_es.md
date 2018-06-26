@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jr_at_rock_cnb_uam_es
+post_count: 5
 ---
 
-# JR@ROCK.CNB.UAM.ES (5 posts)
+# JR<span>@</span>ROCK.CNB.UAM.ES (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

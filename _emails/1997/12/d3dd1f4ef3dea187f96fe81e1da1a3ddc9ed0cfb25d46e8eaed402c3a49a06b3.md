@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adam Back \<aba@dcs.ex.ac.uk\><br>
+From: Adam Back \<aba<span>@</span>dcs.ex.ac.uk\><br>
 To: JonWienk@ix.netcom.com<br>
 Message Hash: d3dd1f4ef3dea187f96fe81e1da1a3ddc9ed0cfb25d46e8eaed402c3a49a06b3<br>
 Message ID: \<199712030033.AAA01161@server.test.net\><br>
@@ -50,6 +50,10 @@ Adam
 
 + Return to [December 1997](/archive/1997/12)
 
-+ 1997-12-02 (Tue, 2 Dec 1997 13:15:13 +0800) - [Re: Pasting in From:](/archive/1997/12/1552d214094aa3f4b0c39d02ae2046acf8101f00879ea39d9556fcab62deb5d4) - _Jonathan Wienke \<JonWienk@ix.netcom.com\>_
-  + 1997-12-03 (Wed, 3 Dec 1997 09:32:56 +0800) - Re: Pasting in From: - _Adam Back \<aba@dcs.ex.ac.uk\>_
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Jonathan Wienke <JonWienk<span>@</span>ix.netcom.com>](/author/jonathan_wienke_jonwienk_at_ix_netcom_com_)"
+
++ _Unknown thread root_
+  + 1997-12-02 (Tue, 2 Dec 1997 13:15:13 +0800) - [Re: Pasting in From:](/archive/1997/12/1552d214094aa3f4b0c39d02ae2046acf8101f00879ea39d9556fcab62deb5d4) - _Jonathan Wienke \<JonWienk@ix.netcom.com\>_
+    + 1997-12-03 (Wed, 3 Dec 1997 09:32:56 +0800) - Re: Pasting in From: - _Adam Back \<aba@dcs.ex.ac.uk\>_
 

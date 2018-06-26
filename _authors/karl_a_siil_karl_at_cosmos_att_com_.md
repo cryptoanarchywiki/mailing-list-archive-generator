@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: karl_a_siil_karl_at_cosmos_att_com_
+post_count: 1
 ---
 
-# "Karl A. Siil" <karl@cosmos.att.com> (1 posts)
+# "Karl A. Siil" <karl<span>@</span>cosmos.att.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

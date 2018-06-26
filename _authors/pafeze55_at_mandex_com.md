@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pafeze55_at_mandex_com
+post_count: 1
 ---
 
-# pafeze55@mandex.com (1 posts)
+# pafeze55<span>@</span>mandex.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

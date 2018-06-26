@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Gibb - Computer Centre \<jon@computer-science.paisley.ac.uk\><br>
+From: John Gibb - Computer Centre \<jon<span>@</span>computer-science.paisley.ac.uk\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: b35bab5fa625cc818dcd76d48cbf0bb2dffc5a7d67f1d7daead399fc382f2bb4<br>
 Message ID: \<2102.9310051610@chaos.cs.paisley.ac.uk\><br>
@@ -39,6 +39,8 @@ quit
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[John Gibb - Computer Centre <jon<span>@</span>computer-science.paisley.ac.uk>](/author/john_gibb__computer_centre_jon_at_computerscience_paisley_ac_uk_)"
 
 + 1993-10-05 (Tue, 5 Oct 93 08:34:53 PDT) - subscribe please - _John Gibb - Computer Centre \<jon@computer-science.paisley.ac.uk\>_
 

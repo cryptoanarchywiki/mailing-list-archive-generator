@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pete_hfen_at_newmail_net_
+post_count: 1
 ---
 
-# "Pete" <hfen@newmail.net> (1 posts)
+# "Pete" <hfen<span>@</span>newmail.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: clark_beau_clbm__clbm_at_chevron_com_
+post_count: 1
 ---
 
-# "Clark, Beau (CLBM)" <CLBM@chevron.com> (1 posts)
+# "Clark, Beau (CLBM)" <CLBM<span>@</span>chevron.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

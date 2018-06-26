@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_rosen_mrosen_at_peganet_com_
+post_count: 23
 ---
 
-# "Mark Rosen" <mrosen@peganet.com> (23 posts)
+# "Mark Rosen" <mrosen<span>@</span>peganet.com> (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

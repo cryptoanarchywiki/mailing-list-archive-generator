@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kurt_vile_vile_at_apdg_com_
+post_count: 1
 ---
 
-# Kurt Vile <vile@apdg.com> (1 posts)
+# Kurt Vile <vile<span>@</span>apdg.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

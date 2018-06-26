@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Secret Squirrel \<anon@squirrel.owl.de\><br>
+From: Secret Squirrel \<anon<span>@</span>squirrel.owl.de\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: 2b7e69e0afe0b5acec2fe19d3fb2af7d400bf201dcd462deda8bb7500ce0906b<br>
 Message ID: \<bb8f09fc541d7689e4de92c858ab4912@squirrel\><br>
@@ -47,6 +47,8 @@ Since when is Tim a government official?
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Secret Squirrel <anon<span>@</span>squirrel.owl.de>](/author/secret_squirrel_anon_at_squirrel_owl_de_)"
 
 + 1998-01-11 (Sun, 11 Jan 1998 17:52:12 +0800) - Accounts payable - _Secret Squirrel \<anon@squirrel.owl.de\>_
 

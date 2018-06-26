@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_pugh_at_internetmci_com_alan_pugh_
+post_count: 2
 ---
 
-# alan.pugh@internetmci.com (Alan Pugh) (2 posts)
+# alan.pugh<span>@</span>internetmci.com (Alan Pugh) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

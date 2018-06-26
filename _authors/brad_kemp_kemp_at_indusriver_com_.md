@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brad_kemp_kemp_at_indusriver_com_
+post_count: 1
 ---
 
-# Brad Kemp <kemp@indusriver.com> (1 posts)
+# Brad Kemp <kemp<span>@</span>indusriver.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

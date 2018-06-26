@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sswift_at_falcon_lhup_edu_sean_m_swift_
+post_count: 1
 ---
 
-# sswift@falcon.lhup.edu (Sean M. Swift) (1 posts)
+# sswift<span>@</span>falcon.lhup.edu (Sean M. Swift) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

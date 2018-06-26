@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pstemari_at_bismark_cbis_com_paul_j_ste_marie_
+post_count: 32
 ---
 
-# pstemari@bismark.cbis.com (Paul J. Ste. Marie) (32 posts)
+# pstemari<span>@</span>bismark.cbis.com (Paul J. Ste. Marie) (32 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

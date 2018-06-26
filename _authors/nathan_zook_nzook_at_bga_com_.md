@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nathan_zook_nzook_at_bga_com_
+post_count: 51
 ---
 
-# Nathan Zook <nzook@bga.com> (51 posts)
+# Nathan Zook <nzook<span>@</span>bga.com> (51 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

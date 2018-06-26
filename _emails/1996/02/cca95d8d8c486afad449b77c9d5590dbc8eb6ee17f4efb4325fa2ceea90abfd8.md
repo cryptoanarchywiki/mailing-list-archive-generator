@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. ALLEN SMITH" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: declan+@CMU.EDU<br>
 Message Hash: cca95d8d8c486afad449b77c9d5590dbc8eb6ee17f4efb4325fa2ceea90abfd8<br>
 Message ID: \<01I18USFWHX0A0V2IC@mbcl.rutgers.edu\><br>
@@ -56,6 +56,9 @@ like libel) also will be. I'd call this a good change.
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/author/declan_b_mccullagh_declan_at_cmu_edu_)"
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-02-16 (Sat, 17 Feb 1996 07:38:41 +0800) - Re: Spin Control Alert (LI Newsday, 2/12/96) - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
   + 1996-02-17 (Sun, 18 Feb 1996 07:54:33 +0800) - [Re: Spin Control Alert (LI Newsday, 2/12/96)](/archive/1996/02/2159bbe850a3537afb36fc0622e721f7ea2fc188503ddf05354fadc015675b0d) - _"Declan B. McCullagh" \<declan+@CMU.EDU\>_

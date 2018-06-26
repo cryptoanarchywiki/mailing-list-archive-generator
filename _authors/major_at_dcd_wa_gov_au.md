@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: major_at_dcd_wa_gov_au
+post_count: 3
 ---
 
-# major@dcd.wa.gov.au (3 posts)
+# major<span>@</span>dcd.wa.gov.au (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

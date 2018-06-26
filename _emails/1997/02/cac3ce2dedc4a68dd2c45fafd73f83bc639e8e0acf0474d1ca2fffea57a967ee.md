@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mullen, Patrick \<Patrick.Mullen@GSC.GTE.Com\><br>
+From: Mullen, Patrick \<Patrick.Mullen<span>@</span>GSC.GTE.Com\><br>
 To: "'Cypherpunks'" \<cryptography@c2.net\><br>
 Message Hash: cac3ce2dedc4a68dd2c45fafd73f83bc639e8e0acf0474d1ca2fffea57a967ee<br>
 Message ID: \<199702191727.JAA27124@toad.com\><br>
@@ -110,6 +110,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Mullen, Patrick <Patrick.Mullen<span>@</span>GSC.GTE.Com>](/author/mullen_patrick_patrick_mullen_at_gsc_gte_com_)"
 
 + 1997-02-19 (Wed, 19 Feb 1997 09:27:14 -0800 (PST)) - FW: Rules for The Great DES Replacement Contest - _Mullen, Patrick \<Patrick.Mullen@GSC.GTE.Com\>_
 

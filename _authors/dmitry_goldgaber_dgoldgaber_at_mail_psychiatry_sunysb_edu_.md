@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dmitry_goldgaber_dgoldgaber_at_mail_psychiatry_sunysb_edu_
+post_count: 1
 ---
 
-# Dmitry Goldgaber <dgoldgaber@mail.psychiatry.sunysb.edu> (1 posts)
+# Dmitry Goldgaber <dgoldgaber<span>@</span>mail.psychiatry.sunysb.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

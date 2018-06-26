@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tallpaul@pipeline.com (tallpaul)<br>
+From: tallpaul<span>@</span>pipeline.com (tallpaul)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4c8bd91bfc0b6cef3ae7bffca110d434a16a62d0fe5a841ddb796cef4e93d8ca<br>
 Message ID: \<199602240134.UAA07386@pipe11.nyc.pipeline.com\><br>
@@ -67,6 +67,8 @@ End of corporate problem. End of "worry" about problems with PGP.
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[tallpaul<span>@</span>pipeline.com (tallpaul)](/author/tallpaul_at_pipeline_com_tallpaul_)"
 
 + 1996-02-24 (Sat, 24 Feb 1996 11:52:35 +0800) - Re: TIS--Building in Big Brother for a Better Tommorrow - _tallpaul@pipeline.com (tallpaul)_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Carl Ellison \<cme@TIS.COM\><br>
+From: Carl Ellison \<cme<span>@</span>TIS.COM\><br>
 To: rsalz@osf.org<br>
 Message Hash: 551dea4dbbf6432c3eaeefa5428dea1bec5c1ad54e6eee5a2da2f083d9d407f1<br>
 Message ID: \<9509191440.AA18495@tis.com\><br>
@@ -52,6 +52,10 @@ in trouble just because he/she is USAF.
 
 + Return to [September 1995](/archive/1995/09)
 
-+ 1995-09-19 (Tue, 19 Sep 95 07:49:51 PDT) - Re: ftp://www.brooks.af.mil/pub/unix/utils/des.tar - _Carl Ellison \<cme@TIS.COM\>_
-  + 1995-09-20 (Tue, 19 Sep 95 17:37:33 PDT) - [Re: ftp://www.brooks.af.mil/pub/unix/utils/des.tar](/archive/1995/09/1b02bd2a471aba5baaee488dacc327666638f1ddbedea4672cdd86d22c2bab53) - _Tim Scanlon \<tfs@vampire.science.gmu.edu\>_
++ Return to "[Carl Ellison <cme<span>@</span>TIS.COM>](/author/carl_ellison_cme_at_tis_com_)"
++ Return to "[Tim Scanlon <tfs<span>@</span>vampire.science.gmu.edu>](/author/tim_scanlon_tfs_at_vampire_science_gmu_edu_)"
+
++ _Unknown thread root_
+  + 1995-09-19 (Tue, 19 Sep 95 07:49:51 PDT) - Re: ftp://www.brooks.af.mil/pub/unix/utils/des.tar - _Carl Ellison \<cme@TIS.COM\>_
+    + 1995-09-20 (Tue, 19 Sep 95 17:37:33 PDT) - [Re: ftp://www.brooks.af.mil/pub/unix/utils/des.tar](/archive/1995/09/1b02bd2a471aba5baaee488dacc327666638f1ddbedea4672cdd86d22c2bab53) - _Tim Scanlon \<tfs@vampire.science.gmu.edu\>_
 

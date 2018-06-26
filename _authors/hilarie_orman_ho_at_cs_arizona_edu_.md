@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hilarie_orman_ho_at_cs_arizona_edu_
+post_count: 2
 ---
 
-# Hilarie Orman <ho@cs.arizona.edu> (2 posts)
+# Hilarie Orman <ho<span>@</span>cs.arizona.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

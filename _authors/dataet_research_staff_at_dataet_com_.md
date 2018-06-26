@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dataet_research_staff_at_dataet_com_
+post_count: 2
 ---
 
-# DataET Research <staff@dataet.com> (2 posts)
+# DataET Research <staff<span>@</span>dataet.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Steve Reid \<steve@edmweb.com\><br>
+From: Steve Reid \<steve<span>@</span>edmweb.com\><br>
 To: The Deviant \<deviant@pooh-corner.com\><br>
 Message Hash: 8fa20d87f4e8f8cdecacf96867e79e56dc794a5c2eb6ccc8feabbf48c5cff5f5<br>
 Message ID: \<Pine.BSF.3.91.961128153422.182A-100000@bitbucket.edmweb.com\><br>
@@ -59,6 +59,9 @@ but it's not perfect.
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Steve Reid <steve<span>@</span>edmweb.com>](/author/steve_reid_steve_at_edmweb_com_)"
++ Return to "[The Deviant <deviant<span>@</span>pooh-corner.com>](/author/the_deviant_deviant_at_poohcorner_com_)"
 
 + 1996-11-29 (Thu, 28 Nov 1996 16:27:33 -0800 (PST)) - Re: Is /dev/random good enough to generate one-time pads? - _Steve Reid \<steve@edmweb.com\>_
   + 1996-11-29 (Thu, 28 Nov 1996 20:24:08 -0800 (PST)) - [Re: Is /dev/random good enough to generate one-time pads?](/archive/1996/11/c1c2d93535dd866723c6f82e5521a74b1e2c42975177d11a5b156b621ef8234a) - _The Deviant \<deviant@pooh-corner.com\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_dunlop_nospam_at_bitstream_net_
+post_count: 2
 ---
 
-# Steve Dunlop <nospam@bitstream.net> (2 posts)
+# Steve Dunlop <nospam<span>@</span>bitstream.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

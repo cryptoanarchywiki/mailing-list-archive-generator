@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zimm_at_alumni_cco_caltech_edu_mark_edward_zimmerman_
+post_count: 2
 ---
 
-# zimm@alumni.cco.caltech.edu (Mark Edward Zimmerman) (2 posts)
+# zimm<span>@</span>alumni.cco.caltech.edu (Mark Edward Zimmerman) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

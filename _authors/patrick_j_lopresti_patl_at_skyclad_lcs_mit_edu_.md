@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_j_lopresti_patl_at_skyclad_lcs_mit_edu_
+post_count: 9
 ---
 
-# "Patrick J. LoPresti" <patl@skyclad.lcs.mit.edu> (9 posts)
+# "Patrick J. LoPresti" <patl<span>@</span>skyclad.lcs.mit.edu> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

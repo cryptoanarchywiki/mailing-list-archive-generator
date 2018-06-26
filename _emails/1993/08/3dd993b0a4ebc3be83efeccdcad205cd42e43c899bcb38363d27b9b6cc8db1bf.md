@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: M..Stirner@f28.n125.z1.FIDONET.ORG (M. Stirner)<br>
+From: M..Stirner<span>@</span>f28.n125.z1.FIDONET.ORG (M. Stirner)<br>
 To: Cypherpunks@toad.com<br>
 Message Hash: 3dd993b0a4ebc3be83efeccdcad205cd42e43c899bcb38363d27b9b6cc8db1bf<br>
 Message ID: \<2028.2C78568C@shelter.FIDONET.ORG\><br>
@@ -59,6 +59,8 @@ INTERNET: M..Stirner@f28.n125.z1.FIDONET.ORG
 ## Thread
 
 + Return to [August 1993](/archive/1993/08)
+
++ Return to "[M..Stirner<span>@</span>f28.n125.z1.FIDONET.ORG (M. Stirner)](/author/m_stirner_at_f28_n125_z1_fidonet_org_m_stirner_)"
 
 + 1993-08-23 (Mon, 23 Aug 93 04:46:54 PDT) - Munged account feeding ol - _M..Stirner@f28.n125.z1.FIDONET.ORG (M. Stirner)_
 

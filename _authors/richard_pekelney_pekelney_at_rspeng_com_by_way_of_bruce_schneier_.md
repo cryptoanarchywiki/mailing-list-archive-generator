@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_pekelney_pekelney_at_rspeng_com_by_way_of_bruce_schneier_
+post_count: 1
 ---
 
-# Richard Pekelney <pekelney@rspeng.com> (by way of Bruce Schneier) (1 posts)
+# Richard Pekelney <pekelney<span>@</span>rspeng.com> (by way of Bruce Schneier) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

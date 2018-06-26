@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bmanning_at_whale_st_usm_edu_ben_manning_
+post_count: 1
 ---
 
-# bmanning@whale.st.usm.edu (Ben Manning) (1 posts)
+# bmanning<span>@</span>whale.st.usm.edu (Ben Manning) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

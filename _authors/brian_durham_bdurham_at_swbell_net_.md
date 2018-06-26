@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_durham_bdurham_at_swbell_net_
+post_count: 2
 ---
 
-# Brian Durham <bdurham@swbell.net> (2 posts)
+# Brian Durham <bdurham<span>@</span>swbell.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

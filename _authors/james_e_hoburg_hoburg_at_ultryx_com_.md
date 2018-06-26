@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_e_hoburg_hoburg_at_ultryx_com_
+post_count: 1
 ---
 
-# James E. Hoburg <hoburg@ultryx.com> (1 posts)
+# James E. Hoburg <hoburg<span>@</span>ultryx.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

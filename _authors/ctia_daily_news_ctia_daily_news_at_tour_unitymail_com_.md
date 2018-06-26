@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ctia_daily_news_ctia_daily_news_at_tour_unitymail_com_
+post_count: 9
 ---
 
-# CTIA Daily News <CTIA_Daily_News@tour.unitymail.com> (9 posts)
+# CTIA Daily News <CTIA_Daily_News<span>@</span>tour.unitymail.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

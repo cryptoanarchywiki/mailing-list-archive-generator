@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "DrZaphod" \<ncselxsi!drzaphod@ncselxsi.netcom.com\><br>
+From: "DrZaphod" \<ncselxsi!drzaphod<span>@</span>ncselxsi.netcom.com\><br>
 To: CypherPunks@toad.com<br>
 Message Hash: aae2d4f58d63e8f760acfd8ebe4973acaf74343cd3ca9cf686f29fd45dfabc3d<br>
 Message ID: \<18782.drzaphod@ncselxsi\><br>
@@ -90,6 +90,8 @@ Technicolorized
 ## Thread
 
 + Return to [March 1993](/archive/1993/03)
+
++ Return to "["DrZaphod" <ncselxsi!drzaphod<span>@</span>ncselxsi.netcom.com>](/author/drzaphod_ncselxsidrzaphod_at_ncselxsi_netcom_com_)"
 
 + 1993-03-07 (Sun, 7 Mar 93 15:05:31 PST) - Fw: Law and Disorder on the Electronic Frontier - _"DrZaphod" \<ncselxsi!drzaphod@ncselxsi.netcom.com\>_
 

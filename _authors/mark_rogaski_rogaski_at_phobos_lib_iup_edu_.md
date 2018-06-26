@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_rogaski_rogaski_at_phobos_lib_iup_edu_
+post_count: 11
 ---
 
-# Mark Rogaski <rogaski@phobos.lib.iup.edu> (11 posts)
+# Mark Rogaski <rogaski<span>@</span>phobos.lib.iup.edu> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

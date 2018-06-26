@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_camp_a037716t_at_bcfreenet_seflin_lib_fl_us_
+post_count: 1
 ---
 
-# Michael Camp <a037716t@bcfreenet.seflin.lib.fl.us> (1 posts)
+# Michael Camp <a037716t<span>@</span>bcfreenet.seflin.lib.fl.us> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

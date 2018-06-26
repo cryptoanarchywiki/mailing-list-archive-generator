@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: norman_hardy_norm_at_netcom_com_
+post_count: 6
 ---
 
-# Norman Hardy <norm@netcom.com> (6 posts)
+# Norman Hardy <norm<span>@</span>netcom.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

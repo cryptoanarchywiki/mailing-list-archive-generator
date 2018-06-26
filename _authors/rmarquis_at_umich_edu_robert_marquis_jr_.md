@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rmarquis_at_umich_edu_robert_marquis_jr_
+post_count: 2
 ---
 
-# rmarquis@umich.edu (Robert Marquis, Jr.) (2 posts)
+# rmarquis<span>@</span>umich.edu (Robert Marquis, Jr.) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

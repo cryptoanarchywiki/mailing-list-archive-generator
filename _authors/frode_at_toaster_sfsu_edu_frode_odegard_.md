@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frode_at_toaster_sfsu_edu_frode_odegard_
+post_count: 6
 ---
 
-# frode@toaster.SFSU.EDU (Frode Odegard) (6 posts)
+# frode<span>@</span>toaster.SFSU.EDU (Frode Odegard) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

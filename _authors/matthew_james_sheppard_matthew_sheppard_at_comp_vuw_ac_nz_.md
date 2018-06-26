@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_james_sheppard_matthew_sheppard_at_comp_vuw_ac_nz_
+post_count: 7
 ---
 
-# Matthew James Sheppard <Matthew.Sheppard@Comp.VUW.AC.NZ> (7 posts)
+# Matthew James Sheppard <Matthew.Sheppard<span>@</span>Comp.VUW.AC.NZ> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

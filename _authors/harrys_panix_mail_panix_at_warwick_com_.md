@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: harrys_panix_mail_panix_at_warwick_com_
+post_count: 1
 ---
 
-# "harry's panix mail" <panix@warwick.com> (1 posts)
+# "harry's panix mail" <panix<span>@</span>warwick.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

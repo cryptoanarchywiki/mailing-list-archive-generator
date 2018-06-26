@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_hart_hart_at_chaos_bsu_edu_
+post_count: 20
 ---
 
-# Jim Hart <hart@chaos.bsu.edu> (20 posts)
+# Jim Hart <hart<span>@</span>chaos.bsu.edu> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: samuel_tardieu_sam_at_inf_enst_fr_
+post_count: 3
 ---
 
-# Samuel Tardieu <sam@inf.enst.fr> (3 posts)
+# Samuel Tardieu <sam<span>@</span>inf.enst.fr> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

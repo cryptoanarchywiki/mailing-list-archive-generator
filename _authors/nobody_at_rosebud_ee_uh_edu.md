@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_rosebud_ee_uh_edu
+post_count: 41
 ---
 
-# nobody@rosebud.ee.uh.edu (41 posts)
+# nobody<span>@</span>rosebud.ee.uh.edu (41 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

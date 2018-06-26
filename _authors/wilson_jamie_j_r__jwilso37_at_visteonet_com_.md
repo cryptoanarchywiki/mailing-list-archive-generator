@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wilson_jamie_j_r__jwilso37_at_visteonet_com_
+post_count: 5
 ---
 
-# "Wilson, Jamie (J.R.)" <jwilso37@visteonet.com> (5 posts)
+# "Wilson, Jamie (J.R.)" <jwilso37<span>@</span>visteonet.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

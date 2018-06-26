@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hallyn_at_cs_hope_edu_kenshiro_
+post_count: 2
 ---
 
-# hallyn@cs.hope.edu (Kenshiro) (2 posts)
+# hallyn<span>@</span>cs.hope.edu (Kenshiro) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

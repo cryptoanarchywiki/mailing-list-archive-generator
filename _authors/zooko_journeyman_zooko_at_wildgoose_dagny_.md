@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zooko_journeyman_zooko_at_wildgoose_dagny_
+post_count: 1
 ---
 
-# Zooko Journeyman <zooko@wildgoose.dagny> (1 posts)
+# Zooko Journeyman <zooko<span>@</span>wildgoose.dagny> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jerry_ellig_at_jec_senate_gov
+post_count: 1
 ---
 
-# Jerry_Ellig@jec.senate.gov (1 posts)
+# Jerry_Ellig<span>@</span>jec.senate.gov (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

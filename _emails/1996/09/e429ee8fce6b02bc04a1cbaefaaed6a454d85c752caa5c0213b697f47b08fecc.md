@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: paul@fatmans.demon.co.uk<br>
+From: paul<span>@</span>fatmans.demon.co.uk<br>
 To: cypherpunks@toad.com<br>
 Message Hash: e429ee8fce6b02bc04a1cbaefaaed6a454d85c752caa5c0213b697f47b08fecc<br>
 Message ID: \<841572883.28748.0@fatmans.demon.co.uk\><br>
@@ -59,6 +59,8 @@ tCdQYXVsIEJyYWRsZXkgPHBhdWxAZmF0bWFucy5kZW1vbi5jby51az4=
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[paul<span>@</span>fatmans.demon.co.uk](/author/paul_at_fatmans_demon_co_uk)"
 
 + 1996-09-01 (Sun, 1 Sep 1996 20:13:50 +0800) - RE: Desubscribe - _paul@fatmans.demon.co.uk_
 

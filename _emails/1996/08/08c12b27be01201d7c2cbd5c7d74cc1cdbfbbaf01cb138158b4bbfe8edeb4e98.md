@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Martin Minow \<minow@apple.com\><br>
+From: Martin Minow \<minow<span>@</span>apple.com\><br>
 To: pjb@ny.ubs.com (Paul J. Bell)<br>
 Message Hash: 08c12b27be01201d7c2cbd5c7d74cc1cdbfbbaf01cb138158b4bbfe8edeb4e98<br>
 Message ID: \<v03007803ae3165aaac72@[17.202.12.102]\><br>
@@ -72,6 +72,10 @@ minow@apple.com
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
++ Return to "[Martin Minow <minow<span>@</span>apple.com>](/author/martin_minow_minow_at_apple_com_)"
++ Return to "[pjb<span>@</span>ny.ubs.com (Paul J. Bell)](/author/pjb_at_ny_ubs_com_paul_j_bell_)"
 
 + 1996-08-09 (Sat, 10 Aug 1996 04:00:17 +0800) - [SecurID](/archive/1996/08/03044867ff1459b39bfedb47fd976c94833a9c4ccf9045b3e56163873d6c4dcd) - _pjb@ny.ubs.com (Paul J. Bell)_
   + 1996-08-10 (Sat, 10 Aug 1996 08:16:09 +0800) - Re: SecurID - _Martin Minow \<minow@apple.com\>_

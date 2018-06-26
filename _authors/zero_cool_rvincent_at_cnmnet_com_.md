@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zero_cool_rvincent_at_cnmnet_com_
+post_count: 2
 ---
 
-# Zero Cool <rvincent@cnmnet.com> (2 posts)
+# Zero Cool <rvincent<span>@</span>cnmnet.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

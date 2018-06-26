@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stonecoldpt_pouttarac_at_yahoo_com_
+post_count: 2
 ---
 
-# StoneCold-PT <pouttarac@yahoo.com> (2 posts)
+# StoneCold-PT <pouttarac<span>@</span>yahoo.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

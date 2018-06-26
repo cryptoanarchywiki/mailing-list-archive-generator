@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nimrod_zimerman_zimerman_at_earthling_net_
+post_count: 1
 ---
 
-# Nimrod Zimerman <zimerman@earthling.net> (1 posts)
+# Nimrod Zimerman <zimerman<span>@</span>earthling.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

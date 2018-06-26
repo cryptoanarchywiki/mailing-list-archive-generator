@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_schauble_pls_at_crl_com_
+post_count: 8
 ---
 
-# Paul Schauble <pls@crl.com> (8 posts)
+# Paul Schauble <pls<span>@</span>crl.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_f_marshall_marshall_at_ibm_net_
+post_count: 3
 ---
 
-# "James F. Marshall" <marshall@ibm.net> (3 posts)
+# "James F. Marshall" <marshall<span>@</span>ibm.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charles_apache_at_bear_apana_org_au_
+post_count: 7
 ---
 
-# Charles <apache@bear.apana.org.au> (7 posts)
+# Charles <apache<span>@</span>bear.apana.org.au> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

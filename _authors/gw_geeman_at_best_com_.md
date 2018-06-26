@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gw_geeman_at_best_com_
+post_count: 3
 ---
 
-# gw <geeman@best.com> (3 posts)
+# gw <geeman<span>@</span>best.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alexandra_griffin_acg_at_mandrake_cen_ufl_edu_
+post_count: 3
 ---
 
-# Alexandra Griffin <acg@mandrake.cen.ufl.edu> (3 posts)
+# Alexandra Griffin <acg<span>@</span>mandrake.cen.ufl.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

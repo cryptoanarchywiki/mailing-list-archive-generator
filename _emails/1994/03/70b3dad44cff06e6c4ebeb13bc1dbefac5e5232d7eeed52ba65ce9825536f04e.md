@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rperkins-remailer@nyx.cs.du.edu<br>
+From: rperkins-remailer<span>@</span>nyx.cs.du.edu<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 70b3dad44cff06e6c4ebeb13bc1dbefac5e5232d7eeed52ba65ce9825536f04e<br>
 Message ID: \<9403110537.AA00413@nyx.cs.du.edu\><br>
@@ -55,6 +55,8 @@ appeared on the list before the original!)
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[rperkins-remailer<span>@</span>nyx.cs.du.edu](/author/rperkinsremailer_at_nyx_cs_du_edu)"
 
 + 1994-03-11 (Thu, 10 Mar 94 21:37:23 PST) - Delays & random message order? - _rperkins-remailer@nyx.cs.du.edu_
 

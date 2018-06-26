@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mail_delivery_subsystem_mailerdaemon_at_ncrhub4_attgis_com_
+post_count: 1
 ---
 
-# Mail Delivery Subsystem <MAILER-DAEMON@ncrhub4.attgis.com> (1 posts)
+# Mail Delivery Subsystem <MAILER-DAEMON<span>@</span>ncrhub4.attgis.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ethridge_at_netcom_com_allen_b_ethridge_
+post_count: 2
 ---
 
-# ethridge@netcom.com (Allen B. Ethridge) (2 posts)
+# ethridge<span>@</span>netcom.com (Allen B. Ethridge) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

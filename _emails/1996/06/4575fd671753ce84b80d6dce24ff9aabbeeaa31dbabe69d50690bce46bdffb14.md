@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@piermont.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>piermont.com\><br>
 To: dlv@bwalk.dm.com (Dr. Dimitri Vulis)<br>
 Message Hash: 4575fd671753ce84b80d6dce24ff9aabbeeaa31dbabe69d50690bce46bdffb14<br>
 Message ID: \<199606031601.MAA05367@jekyll.piermont.com\><br>
@@ -51,6 +51,13 @@ you think this one is going to be solved?
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/author/alan_horowitz_alanh_at_infi_net_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr. Dimitri Vulis)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[gregmi<span>@</span>galileo.mis.net (Greg Miller)](/author/gregmi_at_galileo_mis_net_greg_miller_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1996-06-03 (Mon, 3 Jun 1996 09:26:23 +0800) - [Fate of Ecash if RSA is cracked?](/archive/1996/06/fb2d83a6483363d32569472743ff6d6f491298b01d1925577b56c422c83a5b96) - _ichudov@algebra.com (Igor Chudov @ home)_
   + 1996-06-03 (Mon, 3 Jun 1996 12:51:40 +0800) - [Re: Fate of Ecash if RSA is cracked?](/archive/1996/06/5cc91c3e1067f5547fc1dc47e13d4837afe0cac9b8bbc1a1288ffe7abf116341) - _dlv@bwalk.dm.com (Dr. Dimitri Vulis)_

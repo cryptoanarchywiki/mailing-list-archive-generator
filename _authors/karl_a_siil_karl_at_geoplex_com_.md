@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: karl_a_siil_karl_at_geoplex_com_
+post_count: 1
 ---
 
-# "Karl A. Siil" <karl@geoplex.com> (1 posts)
+# "Karl A. Siil" <karl<span>@</span>geoplex.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: devnull_at_dhp_com_anonymous_
+post_count: 1
 ---
 
-# /dev/null@dhp.com (Anonymous) (1 posts)
+# /dev/null<span>@</span>dhp.com (Anonymous) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

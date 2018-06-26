@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_martinez_lastxit_at_alphachannel_com_
+post_count: 1
 ---
 
-# "Marc Martinez"   <lastxit@alphachannel.com> (1 posts)
+# "Marc Martinez"   <lastxit<span>@</span>alphachannel.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

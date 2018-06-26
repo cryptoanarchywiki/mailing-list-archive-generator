@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: red_rednax_at_asiapac_net_
+post_count: 1
 ---
 
-# "red" <rednax@asiapac.net> (1 posts)
+# "red" <rednax<span>@</span>asiapac.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

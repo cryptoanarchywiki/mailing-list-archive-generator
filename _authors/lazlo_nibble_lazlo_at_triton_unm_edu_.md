@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lazlo_nibble_lazlo_at_triton_unm_edu_
+post_count: 1
 ---
 
-# Lazlo Nibble <lazlo@triton.unm.edu> (1 posts)
+# Lazlo Nibble <lazlo<span>@</span>triton.unm.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: j_lasser_jon_at_lasser_org_
+post_count: 2
 ---
 
-# "J. Lasser" <jon@lasser.org> (2 posts)
+# "J. Lasser" <jon<span>@</span>lasser.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: netchaos_at_ix_netcom_com_daniel_gannon_
+post_count: 1
 ---
 
-# netchaos@ix.netcom.com (Daniel Gannon ) (1 posts)
+# netchaos<span>@</span>ix.netcom.com (Daniel Gannon ) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

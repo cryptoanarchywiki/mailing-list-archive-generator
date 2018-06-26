@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: merriman_at_metronet_com_david_k_merriman_
+post_count: 75
 ---
 
-# merriman@metronet.com (David K. Merriman) (75 posts)
+# merriman<span>@</span>metronet.com (David K. Merriman) (75 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

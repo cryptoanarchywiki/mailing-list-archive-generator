@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_strasheim_alex_at_omaha_com_
+post_count: 21
 ---
 
-# Alex Strasheim <alex@omaha.com> (21 posts)
+# Alex Strasheim <alex<span>@</span>omaha.com> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: seaex_seaex_at_big_net_au_
+post_count: 1
 ---
 
-# "Sea-Ex" <seaex@big.net.au> (1 posts)
+# "Sea-Ex" <seaex<span>@</span>big.net.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

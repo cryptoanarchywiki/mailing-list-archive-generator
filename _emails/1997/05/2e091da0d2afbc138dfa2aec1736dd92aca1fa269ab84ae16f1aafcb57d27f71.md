@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: daw@cs.berkeley.edu (David Wagner)<br>
+From: daw<span>@</span>cs.berkeley.edu (David Wagner)<br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 2e091da0d2afbc138dfa2aec1736dd92aca1fa269ab84ae16f1aafcb57d27f71<br>
 Message ID: \<5mihc6$2ln@joseph.cs.berkeley.edu\><br>
@@ -59,6 +59,10 @@ Declan McCullagh  <declan@well.com> wrote:
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[daw<span>@</span>cs.berkeley.edu (David Wagner)](/author/daw_at_cs_berkeley_edu_david_wagner_)"
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
++ Return to "[Steve Schear <azur<span>@</span>netcom.com>](/author/steve_schear_azur_at_netcom_com_)"
 
 + 1997-05-28 (Thu, 29 May 1997 06:04:41 +0800) - [Time Magazine: "No Privacy on the Web" (6/2/97)](/archive/1997/05/fc88bd9c890c87a1d5bb3e9b31afc552a7267a458d7463b1b9cd8742a738d53b) - _Declan McCullagh \<declan@well.com\>_
   + 1997-05-28 (Thu, 29 May 1997 07:39:08 +0800) - [Re: Time Magazine: "No Privacy on the Web" (6/2/97)](/archive/1997/05/42d9c4e31382a2f4606136a88e006337069b4f20f8f5d685b18796086ecdf38c) - _Steve Schear \<azur@netcom.com\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: spyking_spyking_at_thecodex_com_
+post_count: 6
 ---
 
-# SpyKing <spyking@thecodex.com> (6 posts)
+# SpyKing <spyking<span>@</span>thecodex.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

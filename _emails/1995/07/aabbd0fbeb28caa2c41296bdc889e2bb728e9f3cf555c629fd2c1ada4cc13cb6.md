@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ruf@osiris.cs.uow.edu.au (Justin J. Lister)<br>
+From: ruf<span>@</span>osiris.cs.uow.edu.au (Justin J. Lister)<br>
 To: ids@uow.edu.au (Intrusion Detection System Mailing List)<br>
 Message Hash: aabbd0fbeb28caa2c41296bdc889e2bb728e9f3cf555c629fd2c1ada4cc13cb6<br>
 Message ID: \<m0sZMBI-0005qDC@osiris\><br>
@@ -68,6 +68,8 @@ and would like to avoid making international phone calls.
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[ruf<span>@</span>osiris.cs.uow.edu.au (Justin J. Lister)](/author/ruf_at_osiris_cs_uow_edu_au_justin_j_lister_)"
 
 + 1995-07-22 (Sat, 22 Jul 95 00:42:42 PDT) - Searching for reference - _ruf@osiris.cs.uow.edu.au (Justin J. Lister)_
 

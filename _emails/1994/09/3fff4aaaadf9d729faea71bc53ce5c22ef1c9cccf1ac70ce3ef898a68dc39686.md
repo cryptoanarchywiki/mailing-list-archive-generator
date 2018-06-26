@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: j.hastings6@genie.geis.com<br>
+From: j.hastings6<span>@</span>genie.geis.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3fff4aaaadf9d729faea71bc53ce5c22ef1c9cccf1ac70ce3ef898a68dc39686<br>
 Message ID: \<199409011006.AA047183972@relay2.geis.com\><br>
@@ -469,6 +469,12 @@ Blame this very long post on Kent - j.hastings6@genie.geis.com
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[cactus<span>@</span>bb.com (L. Todd Masco)](/author/cactus_at_bb_com_l_todd_masco_)"
++ Return to "[j.hastings6<span>@</span>genie.geis.com](/author/j_hastings6_at_genie_geis_com)"
++ Return to "[jamesd<span>@</span>netcom.com (James A. Donald)](/author/jamesd_at_netcom_com_james_a_donald_)"
++ Return to "[Jim choate <ravage<span>@</span>bga.com>](/author/jim_choate_ravage_at_bga_com_)"
++ Return to "[roy<span>@</span>sendai.cybrspc.mn.org (Roy M. Silvernail)](/author/roy_at_sendai_cybrspc_mn_org_roy_m_silvernail_)"
 
 + 1994-09-01 (Thu, 1 Sep 94 03:16:56 PDT) - State Declaration of Ind. - _j.hastings6@genie.geis.com_
   + 1994-09-01 (Thu, 1 Sep 94 06:05:51 PDT) - [Re: State Declaration of Ind.](/archive/1994/09/2a782b86fbb51981cc66c78af89360f9210033c86290f5987b2e95d3b7b10c40) - _Jim choate \<ravage@bga.com\>_

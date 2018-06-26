@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_godwin_mnemonic_at_eff_org_
+post_count: 190
 ---
 
-# Mike Godwin <mnemonic@eff.org> (190 posts)
+# Mike Godwin <mnemonic<span>@</span>eff.org> (190 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: CYPHERPUNKS@toad.com<br>
 Message Hash: 9009ccb23fdb9041f99d0faa1f493efae546a3ead95b7f1d9edddbbd5194dc5a<br>
 Message ID: \<199407011155.AA04832@panix.com\><br>
@@ -96,6 +96,8 @@ Spooner's 'No Treason -- the Constitution of No Authority' in 1970."
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1994-07-01 (Fri, 1 Jul 94 04:55:25 PDT) - (Fwd) What motivates Cryp - _Duncan Frissell \<frissell@panix.com\>_
 

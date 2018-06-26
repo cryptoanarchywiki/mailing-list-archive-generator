@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c_kuethe_ckuethe_at_gpu_srv_ualberta_ca_
+post_count: 12
 ---
 
-# "C. Kuethe" <ckuethe@gpu.srv.ualberta.ca> (12 posts)
+# "C. Kuethe" <ckuethe<span>@</span>gpu.srv.ualberta.ca> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

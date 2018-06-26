@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_elkins_elkins_at_zzyzx_aero_org_
+post_count: 1
 ---
 
-# "Michael Elkins" <elkins@zzyzx.aero.org> (1 posts)
+# "Michael Elkins" <elkins<span>@</span>zzyzx.aero.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

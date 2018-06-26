@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: will_french_wfrench_at_interport_net_
+post_count: 13
 ---
 
-# Will French <wfrench@interport.net> (13 posts)
+# Will French <wfrench<span>@</span>interport.net> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

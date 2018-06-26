@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dataet_research_data_engineering_technologies_dataet_at_hotmail_com_
+post_count: 1
 ---
 
-# "DataET Research Data Engineering Technologies" <dataet@hotmail.com> (1 posts)
+# "DataET Research Data Engineering Technologies" <dataet<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

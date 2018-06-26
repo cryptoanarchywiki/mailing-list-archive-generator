@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_hughes_hughes_at_soda_berkeley_edu_
+post_count: 335
 ---
 
-# Eric Hughes <hughes@soda.berkeley.edu> (335 posts)
+# Eric Hughes <hughes<span>@</span>soda.berkeley.edu> (335 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

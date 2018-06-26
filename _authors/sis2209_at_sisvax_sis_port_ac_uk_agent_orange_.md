@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sis2209_at_sisvax_sis_port_ac_uk_agent_orange_
+post_count: 1
 ---
 
-# sis2209@sisvax.sis.port.ac.uk (Agent Orange) (1 posts)
+# sis2209<span>@</span>sisvax.sis.port.ac.uk (Agent Orange) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: p_v_mcmahon_rea0803_at_oasis_icl_co_uk
+post_count: 17
 ---
 
-# p.v.mcmahon.rea0803@oasis.icl.co.uk (17 posts)
+# p.v.mcmahon.rea0803<span>@</span>oasis.icl.co.uk (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

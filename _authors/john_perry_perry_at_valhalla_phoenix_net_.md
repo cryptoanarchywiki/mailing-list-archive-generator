@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_perry_perry_at_valhalla_phoenix_net_
+post_count: 1
 ---
 
-# John Perry <perry@valhalla.phoenix.net> (1 posts)
+# John Perry <perry<span>@</span>valhalla.phoenix.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bryce_at_cybernet_co_nz_bryce_boland_
+post_count: 2
 ---
 
-# bryce@cybernet.co.nz (Bryce Boland) (2 posts)
+# bryce<span>@</span>cybernet.co.nz (Bryce Boland) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

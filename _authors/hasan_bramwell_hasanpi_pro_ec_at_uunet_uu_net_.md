@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hasan_bramwell_hasanpi_pro_ec_at_uunet_uu_net_
+post_count: 3
 ---
 
-# "Hasan Bramwell" <hasan%pi.pro.ec@uunet.uu.net> (3 posts)
+# "Hasan Bramwell" <hasan%pi.pro.ec<span>@</span>uunet.uu.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

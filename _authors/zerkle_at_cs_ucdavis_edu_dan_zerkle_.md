@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zerkle_at_cs_ucdavis_edu_dan_zerkle_
+post_count: 1
 ---
 
-# zerkle@cs.ucdavis.edu (Dan Zerkle) (1 posts)
+# zerkle<span>@</span>cs.ucdavis.edu (Dan Zerkle) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

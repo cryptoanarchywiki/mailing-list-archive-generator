@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: xcott_craver_caj_at_math_niu_edu_
+post_count: 31
 ---
 
-# Xcott Craver <caj@math.niu.edu> (31 posts)
+# Xcott Craver <caj<span>@</span>math.niu.edu> (31 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

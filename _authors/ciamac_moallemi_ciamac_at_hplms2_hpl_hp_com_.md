@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ciamac_moallemi_ciamac_at_hplms2_hpl_hp_com_
+post_count: 3
 ---
 
-# Ciamac Moallemi <ciamac@hplms2.hpl.hp.com> (3 posts)
+# Ciamac Moallemi <ciamac<span>@</span>hplms2.hpl.hp.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

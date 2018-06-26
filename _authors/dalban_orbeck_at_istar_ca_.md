@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dalban_orbeck_at_istar_ca_
+post_count: 1
 ---
 
-# "Dalban" <orbeck@istar.ca> (1 posts)
+# "Dalban" <orbeck<span>@</span>istar.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

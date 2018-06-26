@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: makof_at_alias_cyberpass_net_makofi_
+post_count: 5
 ---
 
-# makof@alias.cyberpass.net (makofi) (5 posts)
+# makof<span>@</span>alias.cyberpass.net (makofi) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

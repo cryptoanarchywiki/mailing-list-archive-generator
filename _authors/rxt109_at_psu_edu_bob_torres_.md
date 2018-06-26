@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rxt109_at_psu_edu_bob_torres_
+post_count: 2
 ---
 
-# rxt109@psu.edu (Bob Torres) (2 posts)
+# rxt109<span>@</span>psu.edu (Bob Torres) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

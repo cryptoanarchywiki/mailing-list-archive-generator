@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mike Ingle \<MIKEINGLE@delphi.com\><br>
+From: Mike Ingle \<MIKEINGLE<span>@</span>delphi.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 98dfccfc4a0ba1bc992dde6c7235c3debc3db40a7f902e16eaf14112dae6aa59<br>
 Message ID: \<01H5BU6WYR0I987YTY@delphi.com\><br>
@@ -118,6 +118,8 @@ once and for all? Enough of this crap!
 ## Thread
 
 + Return to [November 1993](/archive/1993/11)
+
++ Return to "[Mike Ingle <MIKEINGLE<span>@</span>delphi.com>](/author/mike_ingle_mikeingle_at_delphi_com_)"
 
 + 1993-11-15 (Sun, 14 Nov 93 23:40:19 PST) - LD Admits he is S.Boxx (oops!) - _Mike Ingle \<MIKEINGLE@delphi.com\>_
 

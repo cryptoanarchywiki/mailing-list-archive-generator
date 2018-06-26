@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: against_moderation_antimod_at_nym_alias_net_
+post_count: 19
 ---
 
-# Against Moderation <antimod@nym.alias.net> (19 posts)
+# Against Moderation <antimod<span>@</span>nym.alias.net> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

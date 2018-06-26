@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: d_a_wagner_daw27_at_newton_cam_ac_uk_
+post_count: 3
 ---
 
-# "D.A. Wagner" <daw27@newton.cam.ac.uk> (3 posts)
+# "D.A. Wagner" <daw27<span>@</span>newton.cam.ac.uk> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

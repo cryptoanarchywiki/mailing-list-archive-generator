@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rkmoore@iol.ie (Richard K. Moore)<br>
+From: rkmoore<span>@</span>iol.ie (Richard K. Moore)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: b1d85efeae181e3f70e3d64a6f72bdc7cefb17d4cba7d0294ad06e1d942bdf9d<br>
 Message ID: \<199501271356.NAA12303@GPO.iol.ie\><br>
@@ -60,6 +60,8 @@ Richard K. Moore - rkmoore@iol.ie - Wexford, Ireland - fax +353 53 23970
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[rkmoore<span>@</span>iol.ie (Richard K. Moore)](/author/rkmoore_at_iol_ie_richard_k_moore_)"
 
 + 1995-01-27 (Fri, 27 Jan 95 05:57:01 PST) - re: Wei Dei: monitoring - _rkmoore@iol.ie (Richard K. Moore)_
 

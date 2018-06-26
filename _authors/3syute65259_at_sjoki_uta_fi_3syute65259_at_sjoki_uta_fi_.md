@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 3syute65259_at_sjoki_uta_fi_3syute65259_at_sjoki_uta_fi_
+post_count: 1
 ---
 
-# "3syute65259@sjoki.uta.fi" <3syute65259@sjoki.uta.fi> (1 posts)
+# "3syute65259<span>@</span>sjoki.uta.fi" <3syute65259<span>@</span>sjoki.uta.fi> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

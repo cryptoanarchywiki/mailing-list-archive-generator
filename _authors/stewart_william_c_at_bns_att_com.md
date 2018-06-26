@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stewart_william_c_at_bns_att_com
+post_count: 2
 ---
 
-# Stewart_William_C@bns.att.com (2 posts)
+# Stewart_William_C<span>@</span>bns.att.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

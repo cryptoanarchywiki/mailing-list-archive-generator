@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dhenson_at_itsnet_com_don_henson_
+post_count: 5
 ---
 
-# dhenson@itsnet.com (Don Henson) (5 posts)
+# dhenson<span>@</span>itsnet.com (Don Henson) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

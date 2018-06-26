@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: sidney@apple.com (Sidney Markowitz)<br>
+From: sidney<span>@</span>apple.com (Sidney Markowitz)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: f69db2397da84b7fd468e4fc3f968fce543bdafbabeb7c8bb54c7bf74c9219ac<br>
 Message ID: \<9405252256.AA01732@federal-excess.apple.com\><br>
@@ -57,6 +57,8 @@ compatibility?
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[sidney<span>@</span>apple.com (Sidney Markowitz)](/author/sidney_at_apple_com_sidney_markowitz_)"
 
 + 1994-05-26 (Wed, 25 May 94 18:16:02 PDT) - Re: MacPGP interface project - _sidney@apple.com (Sidney Markowitz)_
 

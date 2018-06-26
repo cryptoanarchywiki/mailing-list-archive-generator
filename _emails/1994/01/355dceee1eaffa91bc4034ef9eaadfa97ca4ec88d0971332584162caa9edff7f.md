@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sandy \<72114.1712@CompuServe.COM\><br>
+From: Sandy \<72114.1712<span>@</span>CompuServe.COM\><br>
 To: \<cypherpunks@toad.com\><br>
 Message Hash: 355dceee1eaffa91bc4034ef9eaadfa97ca4ec88d0971332584162caa9edff7f<br>
 Message ID: \<940123180755_72114.1712_FHF35-1@CompuServe.COM\><br>
@@ -140,6 +140,8 @@ a4zQWLImjcc=
 ## Thread
 
 + Return to [January 1994](/archive/1994/01)
+
++ Return to "[Sandy <72114.1712<span>@</span>CompuServe.COM>](/author/sandy_72114_1712_at_compuserve_com_)"
 
 + 1994-01-23 (Sun, 23 Jan 94 10:16:34 PST) - DIGITAL BARTER - _Sandy \<72114.1712@CompuServe.COM\>_
 

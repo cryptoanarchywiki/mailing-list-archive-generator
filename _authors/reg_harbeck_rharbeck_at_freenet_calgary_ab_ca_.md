@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: reg_harbeck_rharbeck_at_freenet_calgary_ab_ca_
+post_count: 1
 ---
 
-# Reg Harbeck <rharbeck@freenet.calgary.ab.ca> (1 posts)
+# Reg Harbeck <rharbeck<span>@</span>freenet.calgary.ab.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

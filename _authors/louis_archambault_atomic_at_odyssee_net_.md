@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: louis_archambault_atomic_at_odyssee_net_
+post_count: 1
 ---
 
-# Louis Archambault <atomic@odyssee.net> (1 posts)
+# Louis Archambault <atomic<span>@</span>odyssee.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

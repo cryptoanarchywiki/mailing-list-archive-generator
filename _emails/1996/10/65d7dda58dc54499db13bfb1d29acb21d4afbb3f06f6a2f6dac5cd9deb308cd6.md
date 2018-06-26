@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Greg Broiles \<gbroiles@netbox.com\><br>
+From: Greg Broiles \<gbroiles<span>@</span>netbox.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 65d7dda58dc54499db13bfb1d29acb21d4afbb3f06f6a2f6dac5cd9deb308cd6<br>
 Message ID: \<3.0b28.32.19961027192058.006eeea0@ricochet.net\><br>
@@ -76,6 +76,8 @@ http://www.io.com/~gbroiles |
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/author/greg_broiles_gbroiles_at_netbox_com_)"
 
 + 1996-10-28 (Sun, 27 Oct 1996 19:09:43 -0800 (PST)) - Re: considering internet/privacy periodical - _Greg Broiles \<gbroiles@netbox.com\>_
 

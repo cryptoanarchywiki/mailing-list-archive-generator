@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_soda_berkeley_edu
+post_count: 67
 ---
 
-# nobody@soda.berkeley.edu (67 posts)
+# nobody<span>@</span>soda.berkeley.edu (67 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

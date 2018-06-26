@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: net10_at_mail_domainserv_com
+post_count: 1
 ---
 
-# net10@mail.domain-serv.com (1 posts)
+# net10<span>@</span>mail.domain-serv.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: edeaf03d92d9386b48cdbbe45b28394a90ec5bac1fee60aba6e3f76ac2fbb109<br>
 Message ID: \<199502101758.MAA08815@ios.com\><br>
@@ -122,6 +122,8 @@ As seen on page B1 of today's WSJ:
 ## Thread
 
 + Return to [February 1995](/archive/1995/02)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1995-02-10 (Fri, 10 Feb 95 09:58:29 PST) - http://www.vocaltec.com/gti.html - _Duncan Frissell \<frissell@panix.com\>_
 

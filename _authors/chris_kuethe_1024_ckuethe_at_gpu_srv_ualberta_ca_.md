@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_kuethe_1024_ckuethe_at_gpu_srv_ualberta_ca_
+post_count: 2
 ---
 
-# Chris Kuethe 1024 <ckuethe@gpu.srv.ualberta.ca> (2 posts)
+# Chris Kuethe 1024 <ckuethe<span>@</span>gpu.srv.ualberta.ca> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

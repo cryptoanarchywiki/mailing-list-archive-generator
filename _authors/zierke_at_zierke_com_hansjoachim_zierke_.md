@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zierke_at_zierke_com_hansjoachim_zierke_
+post_count: 1
 ---
 
-# Zierke@zierke.COM (Hans-Joachim Zierke) (1 posts)
+# Zierke<span>@</span>zierke.COM (Hans-Joachim Zierke) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

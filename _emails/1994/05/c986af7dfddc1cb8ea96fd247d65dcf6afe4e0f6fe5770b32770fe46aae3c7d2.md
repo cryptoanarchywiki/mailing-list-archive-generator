@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: peb@netcom.com (Paul E. Baclace)<br>
+From: peb<span>@</span>netcom.com (Paul E. Baclace)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c986af7dfddc1cb8ea96fd247d65dcf6afe4e0f6fe5770b32770fe46aae3c7d2<br>
 Message ID: \<199405232123.OAA05708@netcom.com\><br>
@@ -53,6 +53,8 @@ peb@netcom.com
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[peb<span>@</span>netcom.com (Paul E. Baclace)](/author/peb_at_netcom_com_paul_e_baclace_)"
 
 + 1994-05-23 (Mon, 23 May 94 14:23:18 PDT) - Re:  Bruce Sterling's talk at CFP - _peb@netcom.com (Paul E. Baclace)_
 

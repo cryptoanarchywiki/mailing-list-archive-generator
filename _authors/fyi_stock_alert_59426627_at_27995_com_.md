@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fyi_stock_alert_59426627_at_27995_com_
+post_count: 1
 ---
 
-# "FYI Stock Alert" <59426627@27995.com> (1 posts)
+# "FYI Stock Alert" <59426627<span>@</span>27995.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

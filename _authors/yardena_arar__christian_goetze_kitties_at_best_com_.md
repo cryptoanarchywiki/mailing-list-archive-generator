@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yardena_arar__christian_goetze_kitties_at_best_com_
+post_count: 1
 ---
 
-# Yardena Arar + Christian Goetze <kitties@best.com> (1 posts)
+# Yardena Arar + Christian Goetze <kitties<span>@</span>best.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

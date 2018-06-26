@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: lmccarth@cs.umass.edu<br>
+From: lmccarth<span>@</span>cs.umass.edu<br>
 To: cypherpunks@toad.com (Cypherpunks Mailing List)<br>
 Message Hash: 47620baa7fa8faacefeaec1ae30acf8e4820fe87d73ed8d7fc77ad607364d8fe<br>
 Message ID: \<199602070853.DAA14781@opine.cs.umass.edu\><br>
@@ -85,6 +85,8 @@ Forwarded message:
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[lmccarth<span>@</span>cs.umass.edu](/author/lmccarth_at_cs_umass_edu)"
 
 + 1996-02-07 (Wed, 7 Feb 1996 20:25:05 +0800) - Re: has this been on cypherpunks? (fwd) - _lmccarth@cs.umass.edu_
 

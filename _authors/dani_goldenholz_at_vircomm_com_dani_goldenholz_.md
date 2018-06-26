@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dani_goldenholz_at_vircomm_com_dani_goldenholz_
+post_count: 1
 ---
 
-# dani.goldenholz@vircomm.com (Dani Goldenholz) (1 posts)
+# dani.goldenholz<span>@</span>vircomm.com (Dani Goldenholz) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

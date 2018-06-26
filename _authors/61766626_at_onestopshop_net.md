@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 61766626_at_onestopshop_net
+post_count: 1
 ---
 
-# 61766626@onestopshop.net (1 posts)
+# 61766626<span>@</span>onestopshop.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

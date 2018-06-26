@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: middlemanadmin_at_nym_jpunix_com
+post_count: 1
 ---
 
-# middle-man-admin@nym.jpunix.com (1 posts)
+# middle-man-admin<span>@</span>nym.jpunix.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

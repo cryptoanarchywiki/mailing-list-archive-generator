@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joe_mcguckin_joe_at_ns_via_net_
+post_count: 1
 ---
 
-# Joe McGuckin <joe@ns.via.net> (1 posts)
+# Joe McGuckin <joe<span>@</span>ns.via.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

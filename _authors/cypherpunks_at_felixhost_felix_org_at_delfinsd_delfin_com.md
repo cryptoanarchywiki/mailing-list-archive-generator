@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cypherpunks_at_felixhost_felix_org_at_delfinsd_delfin_com
+post_count: 1
 ---
 
-# cypherpunks@felixhost.felix.org@delfinsd.delfin.com (1 posts)
+# cypherpunks<span>@</span>felixhost.felix.org<span>@</span>delfinsd.delfin.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tramm_at_lsmsa_nsula_edu_tramm_x_programmer_hudson_
+post_count: 1
 ---
 
-# tramm@lsmsa.nsula.edu (Tramm "X Programmer" Hudson) (1 posts)
+# tramm<span>@</span>lsmsa.nsula.edu (Tramm "X Programmer" Hudson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

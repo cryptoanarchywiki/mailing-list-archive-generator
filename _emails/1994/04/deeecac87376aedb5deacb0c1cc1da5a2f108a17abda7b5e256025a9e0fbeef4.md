@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jpp@markv.com<br>
+From: jpp<span>@</span>markv.com<br>
 To: Naught Thugs \<cypherpunks@toad.com\><br>
 Message Hash: deeecac87376aedb5deacb0c1cc1da5a2f108a17abda7b5e256025a9e0fbeef4<br>
 Message ID: \<9404281429.ab03574@hermix.markv.com\><br>
@@ -58,5 +58,8 @@ j'
 
 + Return to [April 1994](/archive/1994/04)
 
-+ 1994-04-28 (Thu, 28 Apr 94 14:30:03 PDT) - Re: DId you ever think... - _jpp@markv.com_
++ Return to "[jpp<span>@</span>markv.com](/author/jpp_at_markv_com)"
+
++ _Unknown thread root_
+  + 1994-04-28 (Thu, 28 Apr 94 14:30:03 PDT) - Re: DId you ever think... - _jpp@markv.com_
 

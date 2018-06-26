@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_dragoncon_net_dctest_anonymous_remailer_
+post_count: 1
 ---
 
-# nobody@dragoncon.net (dctest Anonymous Remailer) (1 posts)
+# nobody<span>@</span>dragoncon.net (dctest Anonymous Remailer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

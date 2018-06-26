@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: um_at_c2_net_ulf_iso88591qmf6ller_
+post_count: 3
 ---
 
-# um@c2.net (Ulf =?ISO-8859-1?Q?M=F6ller?=) (3 posts)
+# um<span>@</span>c2.net (Ulf =?ISO-8859-1?Q?M=F6ller?=) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: support_at_vocaltec_com
+post_count: 1
 ---
 
-# support@vocaltec.com (1 posts)
+# support<span>@</span>vocaltec.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dale_drew_ddrew_at_mci_net_
+post_count: 2
 ---
 
-# Dale Drew <ddrew@mci.net> (2 posts)
+# Dale Drew <ddrew<span>@</span>mci.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

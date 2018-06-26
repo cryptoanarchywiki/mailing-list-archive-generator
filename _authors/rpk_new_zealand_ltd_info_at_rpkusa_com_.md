@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rpk_new_zealand_ltd_info_at_rpkusa_com_
+post_count: 1
 ---
 
-# RPK New Zealand Ltd <info@rpkusa.com> (1 posts)
+# RPK New Zealand Ltd <info<span>@</span>rpkusa.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

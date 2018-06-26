@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_black_black_at_sunflash_eng_usf_edu_
+post_count: 5
 ---
 
-# James Black <black@sunflash.eng.usf.edu> (5 posts)
+# James Black <black<span>@</span>sunflash.eng.usf.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_d_williams_talon57_at_well_com_
+post_count: 38
 ---
 
-# Brian D Williams <talon57@well.com> (38 posts)
+# Brian D Williams <talon57<span>@</span>well.com> (38 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

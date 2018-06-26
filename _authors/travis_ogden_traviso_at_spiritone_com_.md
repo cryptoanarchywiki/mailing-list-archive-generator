@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: travis_ogden_traviso_at_spiritone_com_
+post_count: 1
 ---
 
-# Travis Ogden <traviso@spiritone.com> (1 posts)
+# Travis Ogden <traviso<span>@</span>spiritone.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

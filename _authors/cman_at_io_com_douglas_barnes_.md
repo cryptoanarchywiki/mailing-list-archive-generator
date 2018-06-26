@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cman_at_io_com_douglas_barnes_
+post_count: 26
 ---
 
-# cman@IO.COM (Douglas Barnes) (26 posts)
+# cman<span>@</span>IO.COM (Douglas Barnes) (26 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: helmy_enterprises_inc__email_at_helmy_com_
+post_count: 1
 ---
 
-# "HELMY Enterprises, Inc." <email@helmy.com> (1 posts)
+# "HELMY Enterprises, Inc." <email<span>@</span>helmy.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

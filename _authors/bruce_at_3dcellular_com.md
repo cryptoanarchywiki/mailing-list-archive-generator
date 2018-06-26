@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_at_3dcellular_com
+post_count: 1
 ---
 
-# bruce@3d-cellular.com (1 posts)
+# bruce<span>@</span>3d-cellular.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hajo_at_quijote_inberlin_de_hansjoachim_zierke_
+post_count: 1
 ---
 
-# hajo@quijote.in-berlin.de (Hans-Joachim Zierke) (1 posts)
+# hajo<span>@</span>quijote.in-berlin.de (Hans-Joachim Zierke) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

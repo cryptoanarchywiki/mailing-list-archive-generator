@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daveg_at_pakse_mit_edu_david_golombek_
+post_count: 1
 ---
 
-# daveg@pakse.mit.edu (David Golombek) (1 posts)
+# daveg<span>@</span>pakse.mit.edu (David Golombek) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

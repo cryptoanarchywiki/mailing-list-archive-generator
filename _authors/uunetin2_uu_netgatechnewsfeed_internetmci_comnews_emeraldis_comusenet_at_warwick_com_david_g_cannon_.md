@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uunetin2_uu_netgatechnewsfeed_internetmci_comnews_emeraldis_comusenet_at_warwick_com_david_g_cannon_
+post_count: 1
 ---
 
-# uunet!in2.uu.net!gatech!newsfeed.internetmci.com!news.emeraldis.com!usenet@warwick.com (David G. Cannon) (1 posts)
+# uunet!in2.uu.net!gatech!newsfeed.internetmci.com!news.emeraldis.com!usenet<span>@</span>warwick.com (David G. Cannon) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

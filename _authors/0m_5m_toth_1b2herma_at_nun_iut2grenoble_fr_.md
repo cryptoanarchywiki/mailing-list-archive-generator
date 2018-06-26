@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 0m_5m_toth_1b2herma_at_nun_iut2grenoble_fr_
+post_count: 3
 ---
 
-# "[0m [5m    Toth"                         <1b2herma@nun.iut2-grenoble.fr> (3 posts)
+# "[0m [5m    Toth"                         <1b2herma<span>@</span>nun.iut2-grenoble.fr> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

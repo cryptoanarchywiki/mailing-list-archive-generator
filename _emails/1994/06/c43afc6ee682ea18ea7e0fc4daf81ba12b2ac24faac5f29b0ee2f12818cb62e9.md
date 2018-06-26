@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: lefty@apple.com (Lefty)<br>
+From: lefty<span>@</span>apple.com (Lefty)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c43afc6ee682ea18ea7e0fc4daf81ba12b2ac24faac5f29b0ee2f12818cb62e9<br>
 Message ID: \<9406022322.AA13406@internal.apple.com\><br>
@@ -115,6 +115,9 @@ C:.M:.C:., D:.O:.D:.
 ## Thread
 
 + Return to [June 1994](/archive/1994/06)
+
++ Return to "[grendel<span>@</span>netaxs.com (Michael Handler)](/author/grendel_at_netaxs_com_michael_handler_)"
++ Return to "[lefty<span>@</span>apple.com (Lefty)](/author/lefty_at_apple_com_lefty_)"
 
 + 1994-06-02 (Thu, 2 Jun 94 16:23:13 PDT) - HACK - U HAVE NO PRIVACY - _lefty@apple.com (Lefty)_
   + 1994-06-02 (Thu, 2 Jun 94 16:44:30 PDT) - [Re: HACK - U HAVE NO PRIVACY](/archive/1994/06/3c4a2dc2302ebcb7ada5a659120758ce462fcaf89132597bc39d8d048bb65fc4) - _grendel@netaxs.com (Michael Handler)_

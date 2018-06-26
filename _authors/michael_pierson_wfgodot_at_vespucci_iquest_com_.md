@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_pierson_wfgodot_at_vespucci_iquest_com_
+post_count: 1
 ---
 
-# Michael Pierson <wfgodot@vespucci.iquest.com> (1 posts)
+# Michael Pierson <wfgodot<span>@</span>vespucci.iquest.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

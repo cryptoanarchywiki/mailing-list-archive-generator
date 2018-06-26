@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_nsm_htp_org
+post_count: 16
 ---
 
-# nobody@nsm.htp.org (16 posts)
+# nobody<span>@</span>nsm.htp.org (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

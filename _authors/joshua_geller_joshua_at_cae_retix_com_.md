@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joshua_geller_joshua_at_cae_retix_com_
+post_count: 46
 ---
 
-# joshua geller <joshua@cae.retix.com> (46 posts)
+# joshua geller <joshua<span>@</span>cae.retix.com> (46 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

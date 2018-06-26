@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>netcom.com (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: dcfd6ccffd60b8ead5ebe901d2b8fea262e7b6e4f2ed3d5c4cac10f97a868cf8<br>
 Message ID: \<9308140532.AA24598@netcom5.netcom.com\><br>
@@ -69,6 +69,8 @@ Note: I put time and money into writing this posting. I hope you enjoy it.
 ## Thread
 
 + Return to [August 1993](/archive/1993/08)
+
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1993-08-14 (Fri, 13 Aug 93 22:33:09 PDT) - Anyone have the Gus Simmons paper? - _tcmay@netcom.com (Timothy C. May)_
 

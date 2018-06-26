@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_honig_honig_at_otc_net_
+post_count: 98
 ---
 
-# David Honig <honig@otc.net> (98 posts)
+# David Honig <honig<span>@</span>otc.net> (98 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

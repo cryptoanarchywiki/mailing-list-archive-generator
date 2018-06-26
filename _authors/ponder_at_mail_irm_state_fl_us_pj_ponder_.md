@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ponder_at_mail_irm_state_fl_us_pj_ponder_
+post_count: 1
 ---
 
-# ponder@mail.irm.state.fl.us (pj ponder) (1 posts)
+# ponder<span>@</span>mail.irm.state.fl.us (pj ponder) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

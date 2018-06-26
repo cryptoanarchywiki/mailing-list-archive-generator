@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: felsher_at_tmn_com_dr_murray_felsher_
+post_count: 1
 ---
 
-# felsher@tmn.com (Dr. Murray Felsher) (1 posts)
+# felsher<span>@</span>tmn.com (Dr. Murray Felsher) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

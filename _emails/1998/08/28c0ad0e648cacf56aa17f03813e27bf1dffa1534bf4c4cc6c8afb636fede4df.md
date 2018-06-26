@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: CTIA Daily News \<CTIA_Daily_News@um2.unitymail.com\><br>
+From: CTIA Daily News \<CTIA_Daily_News<span>@</span>um2.unitymail.com\><br>
 To: CTIA Daily News \<CTIA_Daily_News@um2.unitymail.com\><br>
 Message Hash: 28c0ad0e648cacf56aa17f03813e27bf1dffa1534bf4c4cc6c8afb636fede4df<br>
 Message ID: \<199808311737.MAA29806@mailstrom.revnet.com\><br>
@@ -315,6 +315,8 @@ cDs8L2NlbnRlcj4KPC9CT0RZPgo8L0hUTUw+Cg==
 ## Thread
 
 + Return to [August 1998](/archive/1998/08)
+
++ Return to "[CTIA Daily News <CTIA_Daily_News<span>@</span>um2.unitymail.com>](/author/ctia_daily_news_ctia_daily_news_at_um2_unitymail_com_)"
 
 + 1998-08-31 (Mon, 31 Aug 1998 10:46:16 -0700 (PDT)) - CTIA Daily News from WOW-COM - August 31, 1998 - _CTIA Daily News \<CTIA_Daily_News@um2.unitymail.com\>_
 

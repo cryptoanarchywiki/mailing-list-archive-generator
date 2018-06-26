@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_bell_bell_at_odo_law_udayton_edu_
+post_count: 2
 ---
 
-# "Tom Bell" <BELL@odo.law.udayton.edu> (2 posts)
+# "Tom Bell" <BELL<span>@</span>odo.law.udayton.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

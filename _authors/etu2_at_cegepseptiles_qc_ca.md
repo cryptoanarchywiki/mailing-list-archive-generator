@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: etu2_at_cegepseptiles_qc_ca
+post_count: 1
 ---
 
-# etu2@cegep-sept-iles.qc.ca (1 posts)
+# etu2<span>@</span>cegep-sept-iles.qc.ca (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

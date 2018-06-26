@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: bsteve@zontar.com (Steve Blasingame)<br>
+From: bsteve<span>@</span>zontar.com (Steve Blasingame)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ff3f5e4f9e3585af4606bd6f9d2bb4c0af9e1df3fda6bee1973b82e1f8ecad3f<br>
 Message ID: \<9405101538.AA27821@zontar.attmail.com\><br>
@@ -95,6 +95,8 @@ we can insure that we provide enough goodies.
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[bsteve<span>@</span>zontar.com (Steve Blasingame)](/author/bsteve_at_zontar_com_steve_blasingame_)"
 
 + 1994-05-10 (Tue, 10 May 94 10:10:52 PDT) - Party Announcement - _bsteve@zontar.com (Steve Blasingame)_
 

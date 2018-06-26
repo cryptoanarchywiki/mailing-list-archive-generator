@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Michael Johnson \<mpj@csn.net\><br>
+From: Michael Johnson \<mpj<span>@</span>csn.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f4ecc14a04af31c5d69efb9dd81a9e6617eb401676d0f9fbebaabe2eed4bd36a<br>
 Message ID: \<199701212358.PAA14297@toad.com\><br>
@@ -95,6 +95,8 @@ l//8Egaaz1IgZf+i11C/o/nIJWac0JBqRcSsDBaqMC01+RfN5zrJvw==
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Michael Johnson <mpj<span>@</span>csn.net>](/author/michael_johnson_mpj_at_csn_net_)"
 
 + 1997-01-21 (Tue, 21 Jan 1997 15:58:09 -0800 (PST)) - North American crypto archive - _Michael Johnson \<mpj@csn.net\>_
 

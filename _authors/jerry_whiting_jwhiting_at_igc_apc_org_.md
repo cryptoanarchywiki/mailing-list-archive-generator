@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jerry_whiting_jwhiting_at_igc_apc_org_
+post_count: 10
 ---
 
-# Jerry Whiting <jwhiting@igc.apc.org> (10 posts)
+# Jerry Whiting <jwhiting<span>@</span>igc.apc.org> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

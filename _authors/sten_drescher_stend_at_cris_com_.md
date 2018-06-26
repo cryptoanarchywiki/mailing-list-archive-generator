@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sten_drescher_stend_at_cris_com_
+post_count: 12
 ---
 
-# Sten Drescher <stend@cris.com> (12 posts)
+# Sten Drescher <stend<span>@</span>cris.com> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_howell_451degree_at_msn_com_
+post_count: 5
 ---
 
-# "Mike Howell" <451degree@msn.com> (5 posts)
+# "Mike Howell" <451degree<span>@</span>msn.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

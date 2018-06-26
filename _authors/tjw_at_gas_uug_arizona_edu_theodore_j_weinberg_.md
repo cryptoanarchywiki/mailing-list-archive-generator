@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tjw_at_gas_uug_arizona_edu_theodore_j_weinberg_
+post_count: 1
 ---
 
-# tjw@GAS.uug.Arizona.EDU (Theodore J Weinberg) (1 posts)
+# tjw<span>@</span>GAS.uug.Arizona.EDU (Theodore J Weinberg) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

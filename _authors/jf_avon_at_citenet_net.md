@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jf_avon_at_citenet_net
+post_count: 33
 ---
 
-# jf_avon@citenet.net (33 posts)
+# jf_avon<span>@</span>citenet.net (33 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

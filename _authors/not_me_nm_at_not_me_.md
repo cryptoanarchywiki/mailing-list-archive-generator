@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: not_me_nm_at_not_me_
+post_count: 1
 ---
 
-# "Not Me!" <nm@not.me> (1 posts)
+# "Not Me!" <nm<span>@</span>not.me> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

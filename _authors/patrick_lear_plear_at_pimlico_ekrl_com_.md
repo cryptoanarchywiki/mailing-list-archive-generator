@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_lear_plear_at_pimlico_ekrl_com_
+post_count: 2
 ---
 
-# Patrick Lear <plear@pimlico.ekrl.com> (2 posts)
+# Patrick Lear <plear<span>@</span>pimlico.ekrl.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

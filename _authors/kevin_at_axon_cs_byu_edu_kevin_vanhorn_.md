@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kevin_at_axon_cs_byu_edu_kevin_vanhorn_
+post_count: 9
 ---
 
-# kevin@axon.cs.byu.edu (Kevin Vanhorn) (9 posts)
+# kevin<span>@</span>axon.cs.byu.edu (Kevin Vanhorn) (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

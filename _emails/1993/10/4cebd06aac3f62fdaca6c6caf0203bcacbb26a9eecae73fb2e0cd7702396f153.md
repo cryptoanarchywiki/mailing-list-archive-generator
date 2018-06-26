@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: doug@netcom.com (Doug Merritt)<br>
+From: doug<span>@</span>netcom.com (Doug Merritt)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4cebd06aac3f62fdaca6c6caf0203bcacbb26a9eecae73fb2e0cd7702396f153<br>
 Message ID: \<9310150310.AA26447@netcom5.netcom.com\><br>
@@ -64,6 +64,10 @@ and success.
 
 + Return to [October 1993](/archive/1993/10)
 
-+ 1993-10-15 (Thu, 14 Oct 93 20:12:04 PDT) - Re: Spread-spectrum net (vulnerability of) - _doug@netcom.com (Doug Merritt)_
-  + 1993-10-15 (Thu, 14 Oct 93 21:40:02 PDT) - [Re: Spread-spectrum net (vulnerability of)](/archive/1993/10/55bd25314b352e17a9eece4757739ea64d0e2cac2ecfeb24f59667b6de42a17e) - _tcmay@netcom.com (Timothy C. May)_
++ Return to "[doug<span>@</span>netcom.com (Doug Merritt)](/author/doug_at_netcom_com_doug_merritt_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
+
++ _Unknown thread root_
+  + 1993-10-15 (Thu, 14 Oct 93 20:12:04 PDT) - Re: Spread-spectrum net (vulnerability of) - _doug@netcom.com (Doug Merritt)_
+    + 1993-10-15 (Thu, 14 Oct 93 21:40:02 PDT) - [Re: Spread-spectrum net (vulnerability of)](/archive/1993/10/55bd25314b352e17a9eece4757739ea64d0e2cac2ecfeb24f59667b6de42a17e) - _tcmay@netcom.com (Timothy C. May)_
 

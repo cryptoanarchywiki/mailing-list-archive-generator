@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@einstein.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>einstein.ssz.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4b68ad32d06c13c5fe26cabb6a4e8ae8bddd3f0cce258c550ecf844a3407aaae<br>
 Message ID: \<199701220449.WAA06765@einstein\><br>
@@ -77,6 +77,8 @@ he lived in.
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1997-01-22 (Tue, 21 Jan 1997 20:42:12 -0800 (PST)) - Nikola Tesla - _Jim Choate \<ravage@einstein.ssz.com\>_
 

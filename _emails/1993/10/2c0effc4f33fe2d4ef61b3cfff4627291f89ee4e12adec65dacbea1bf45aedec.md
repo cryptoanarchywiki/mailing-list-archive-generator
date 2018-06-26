@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jamie@netcom.com (Jamie Dinkelacker)<br>
+From: jamie<span>@</span>netcom.com (Jamie Dinkelacker)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2c0effc4f33fe2d4ef61b3cfff4627291f89ee4e12adec65dacbea1bf45aedec<br>
 Message ID: \<9310250105.AA24314@netcom.netcom.com\><br>
@@ -51,6 +51,8 @@ Jamie@netcom.com    415.941.4782
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[jamie<span>@</span>netcom.com (Jamie Dinkelacker)](/author/jamie_at_netcom_com_jamie_dinkelacker_)"
 
 + 1993-10-25 (Sun, 24 Oct 93 18:08:45 PDT) - Content vanquishes PSEUDOSPOOFING - _jamie@netcom.com (Jamie Dinkelacker)_
 

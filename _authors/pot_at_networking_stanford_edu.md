@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pot_at_networking_stanford_edu
+post_count: 1
 ---
 
-# Pot@networking.stanford.edu (1 posts)
+# Pot<span>@</span>networking.stanford.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

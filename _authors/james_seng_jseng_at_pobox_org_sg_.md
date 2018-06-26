@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_seng_jseng_at_pobox_org_sg_
+post_count: 2
 ---
 
-# James Seng <jseng@pobox.org.sg> (2 posts)
+# James Seng <jseng<span>@</span>pobox.org.sg> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

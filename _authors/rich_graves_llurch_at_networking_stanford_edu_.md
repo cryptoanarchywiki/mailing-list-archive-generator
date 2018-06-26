@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rich_graves_llurch_at_networking_stanford_edu_
+post_count: 403
 ---
 
-# Rich Graves <llurch@networking.stanford.edu> (403 posts)
+# Rich Graves <llurch<span>@</span>networking.stanford.edu> (403 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

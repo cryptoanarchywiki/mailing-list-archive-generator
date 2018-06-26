@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: cman@caffeine.io.com (Douglas Barnes)<br>
+From: cman<span>@</span>caffeine.io.com (Douglas Barnes)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a4dfede6e5cd5a34a3e67f7dfa6b9b863df9f3a1443f815eb8d94f4ecdafe6f6<br>
 Message ID: \<199311300811.CAA01529@caffeine.caffeine.io.com\><br>
@@ -55,6 +55,8 @@ Illuminati Online          metaverse.io.com 7777          /______\
 ## Thread
 
 + Return to [November 1993](/archive/1993/11)
+
++ Return to "[cman<span>@</span>caffeine.io.com (Douglas Barnes)](/author/cman_at_caffeine_io_com_douglas_barnes_)"
 
 + 1993-11-30 (Tue, 30 Nov 93 00:27:21 PST) - The REAL Conspiracy - _cman@caffeine.io.com (Douglas Barnes)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_renfro_srenfro_at_silvix_sirinet_net_
+post_count: 1
 ---
 
-# "Scott Renfro" <srenfro@silvix.sirinet.net> (1 posts)
+# "Scott Renfro" <srenfro<span>@</span>silvix.sirinet.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

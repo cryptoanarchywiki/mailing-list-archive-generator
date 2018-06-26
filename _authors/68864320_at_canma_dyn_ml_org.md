@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 68864320_at_canma_dyn_ml_org
+post_count: 1
 ---
 
-# 68864320@canma.dyn.ml.org (1 posts)
+# 68864320<span>@</span>canma.dyn.ml.org (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

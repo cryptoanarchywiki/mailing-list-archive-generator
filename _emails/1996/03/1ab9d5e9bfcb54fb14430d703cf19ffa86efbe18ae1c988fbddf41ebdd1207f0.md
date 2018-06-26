@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "David K. Merriman" \<merriman@arn.net\><br>
+From: "David K. Merriman" \<merriman<span>@</span>arn.net\><br>
 To: captain_lee@ns.interconnect.net<br>
 Message Hash: 1ab9d5e9bfcb54fb14430d703cf19ffa86efbe18ae1c988fbddf41ebdd1207f0<br>
 Message ID: \<2.2.32.19960328050605.00698058@arn.net\><br>
@@ -55,6 +55,11 @@ http://www.shellback.com/personal/merriman/index.htm
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/author/david_k_merriman_merriman_at_arn_net_)"
++ Return to "[firebrd123<span>@</span>ns.interconnect.net (Dan Nikolai)](/author/firebrd123_at_ns_interconnect_net_dan_nikolai_)"
++ Return to "[Mark Aldrich <maldrich<span>@</span>grctechs.va.grci.com>](/author/mark_aldrich_maldrich_at_grctechs_va_grci_com_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
 
 + 1996-03-29 (Fri, 29 Mar 1996 18:58:04 +0800) - Re: PPV Descrambler - _"David K. Merriman" \<merriman@arn.net\>_
   + 1996-03-29 (Fri, 29 Mar 1996 18:12:36 +0800) - [Re: PPV Descrambler](/archive/1996/03/9c3dd342b622c7f19c8be073396f1225247fa4473e353aefe9231e573afdc91b) - _firebrd123@ns.interconnect.net (Dan Nikolai)_

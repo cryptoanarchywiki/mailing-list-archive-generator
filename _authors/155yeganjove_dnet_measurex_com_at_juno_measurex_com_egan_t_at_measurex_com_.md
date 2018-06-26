@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 155yeganjove_dnet_measurex_com_at_juno_measurex_com_egan_t_at_measurex_com_
+post_count: 2
 ---
 
-# 155yegan%jove.dnet.measurex.com@juno.measurex.com (egan_t@measurex.com) (2 posts)
+# 155yegan%jove.dnet.measurex.com<span>@</span>juno.measurex.com (egan_t<span>@</span>measurex.com) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

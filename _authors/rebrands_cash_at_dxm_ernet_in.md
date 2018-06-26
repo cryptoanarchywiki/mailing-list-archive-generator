@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rebrands_cash_at_dxm_ernet_in
+post_count: 1
 ---
 
-# Re:Brands.cash@dxm.ernet.in (1 posts)
+# Re:Brands.cash<span>@</span>dxm.ernet.in (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

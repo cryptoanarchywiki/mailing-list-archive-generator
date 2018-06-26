@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: amir_y_rosenblatt_axon_at_neuron_net_
+post_count: 1
 ---
 
-# "Amir Y. Rosenblatt" <axon@neuron.net> (1 posts)
+# "Amir Y. Rosenblatt" <axon<span>@</span>neuron.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

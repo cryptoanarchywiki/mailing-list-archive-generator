@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qut_at_netcom_com_roger_healy_obc_
+post_count: 5
 ---
 
-# qut@netcom.com (Roger Healy OBC) (5 posts)
+# qut<span>@</span>netcom.com (Roger Healy OBC) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

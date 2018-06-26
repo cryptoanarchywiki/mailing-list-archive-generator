@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cheney_at_hurricane_seas_ucla_edu
+post_count: 1
 ---
 
-# cheney@hurricane.seas.ucla.edu (1 posts)
+# cheney<span>@</span>hurricane.seas.ucla.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

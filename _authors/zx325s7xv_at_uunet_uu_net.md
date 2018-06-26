@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zx325s7xv_at_uunet_uu_net
+post_count: 1
 ---
 
-# zx325s7xv@uunet.uu.net (1 posts)
+# zx325s7xv<span>@</span>uunet.uu.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

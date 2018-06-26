@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hugh_daniel_hugh_at_far_toad_com_
+post_count: 2
 ---
 
-# Hugh Daniel <hugh@far.toad.com> (2 posts)
+# Hugh Daniel <hugh<span>@</span>far.toad.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

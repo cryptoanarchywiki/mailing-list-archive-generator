@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: grady_at_public_btr_com_grady_ward_grady_at_btr_com_
+post_count: 1
 ---
 
-# grady@public.btr.com (Grady Ward  grady@btr.com) (1 posts)
+# grady<span>@</span>public.btr.com (Grady Ward  grady<span>@</span>btr.com) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

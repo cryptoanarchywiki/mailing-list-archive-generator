@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: terry_ott_steve_ott_at_m_cc_utah_edu_
+post_count: 1
 ---
 
-# Terry Ott <Steve.Ott@m.cc.utah.edu> (1 posts)
+# Terry Ott <Steve.Ott<span>@</span>m.cc.utah.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

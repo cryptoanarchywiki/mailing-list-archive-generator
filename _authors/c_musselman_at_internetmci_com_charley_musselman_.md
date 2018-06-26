@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c_musselman_at_internetmci_com_charley_musselman_
+post_count: 1
 ---
 
-# c.musselman@internetmci.com (Charley Musselman) (1 posts)
+# c.musselman<span>@</span>internetmci.com (Charley Musselman) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

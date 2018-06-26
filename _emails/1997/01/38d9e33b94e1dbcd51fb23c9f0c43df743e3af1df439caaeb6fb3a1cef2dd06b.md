@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@einstein.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>einstein.ssz.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 38d9e33b94e1dbcd51fb23c9f0c43df743e3af1df439caaeb6fb3a1cef2dd06b<br>
 Message ID: \<199701282212.OAA04677@toad.com\><br>
@@ -84,6 +84,8 @@ everything including social institutions.
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1997-01-28 (Tue, 28 Jan 1997 14:12:02 -0800 (PST)) - Re: Fighting the cybercensor. (fwd) - _Jim Choate \<ravage@einstein.ssz.com\>_
 

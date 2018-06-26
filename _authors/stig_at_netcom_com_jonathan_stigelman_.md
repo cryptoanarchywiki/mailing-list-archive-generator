@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stig_at_netcom_com_jonathan_stigelman_
+post_count: 3
 ---
 
-# stig@netcom.com (Jonathan Stigelman) (3 posts)
+# stig<span>@</span>netcom.com (Jonathan Stigelman) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

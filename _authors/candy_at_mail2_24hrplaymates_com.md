@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: candy_at_mail2_24hrplaymates_com
+post_count: 1
 ---
 
-# candy@mail2.24hrplaymates.com (1 posts)
+# candy<span>@</span>mail2.24hrplaymates.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

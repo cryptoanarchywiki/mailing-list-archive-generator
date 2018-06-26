@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: philippe_nave_pdn_at_dwroll_dw_att_com_
+post_count: 30
 ---
 
-# "Philippe Nave" <pdn@dwroll.dw.att.com> (30 posts)
+# "Philippe Nave" <pdn<span>@</span>dwroll.dw.att.com> (30 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

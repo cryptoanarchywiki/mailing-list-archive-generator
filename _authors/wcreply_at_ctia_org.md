@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wcreply_at_ctia_org
+post_count: 6
 ---
 
-# wcreply@ctia.org (6 posts)
+# wcreply<span>@</span>ctia.org (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

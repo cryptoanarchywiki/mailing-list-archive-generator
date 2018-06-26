@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sparkes_ian_zfrd_ac_ian_sparkes_at_17_dmst02_telekom400_dbp_de_
+post_count: 3
 ---
 
-# "Sparkes, Ian, ZFRD AC" <ian.sparkes@17.dmst02.telekom400.dbp.de> (3 posts)
+# "Sparkes, Ian, ZFRD AC" <ian.sparkes<span>@</span>17.dmst02.telekom400.dbp.de> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

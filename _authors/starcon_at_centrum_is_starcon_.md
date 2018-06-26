@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: starcon_at_centrum_is_starcon_
+post_count: 1
 ---
 
-# starcon@centrum.is (StarCon) (1 posts)
+# starcon<span>@</span>centrum.is (StarCon) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ski_man_at_mindvox_phantom_com_christopher_m_wisnos_
+post_count: 2
 ---
 
-# ski_man@mindvox.phantom.com (Christopher M. Wisnos) (2 posts)
+# ski_man<span>@</span>mindvox.phantom.com (Christopher M. Wisnos) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

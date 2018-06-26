@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sal_denaro_sal_at_panix_com_
+post_count: 2
 ---
 
-# Sal Denaro <sal@panix.com> (2 posts)
+# Sal Denaro <sal<span>@</span>panix.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mixmaster_at_vishnu_alias_net_mr_boffo_
+post_count: 2
 ---
 
-# mixmaster@vishnu.alias.net (Mr. Boffo) (2 posts)
+# mixmaster<span>@</span>vishnu.alias.net (Mr. Boffo) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

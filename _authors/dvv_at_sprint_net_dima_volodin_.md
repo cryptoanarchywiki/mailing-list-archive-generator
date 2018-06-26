@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dvv_at_sprint_net_dima_volodin_
+post_count: 1
 ---
 
-# dvv@sprint.net (Dima Volodin) (1 posts)
+# dvv<span>@</span>sprint.net (Dima Volodin) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

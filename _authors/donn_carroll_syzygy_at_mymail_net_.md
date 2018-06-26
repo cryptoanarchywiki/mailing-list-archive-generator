@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: donn_carroll_syzygy_at_mymail_net_
+post_count: 1
 ---
 
-# DONN CARROLL <syzygy@mymail.net> (1 posts)
+# DONN CARROLL <syzygy<span>@</span>mymail.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

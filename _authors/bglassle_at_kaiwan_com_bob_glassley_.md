@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bglassle_at_kaiwan_com_bob_glassley_
+post_count: 4
 ---
 
-# bglassle@kaiwan.com (Bob Glassley) (4 posts)
+# bglassle<span>@</span>kaiwan.com (Bob Glassley) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

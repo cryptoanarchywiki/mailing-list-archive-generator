@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_johnson_cmj_at_acsu_buffalo_edu_
+post_count: 1
 ---
 
-# Chris Johnson <cmj@acsu.buffalo.edu> (1 posts)
+# Chris Johnson <cmj<span>@</span>acsu.buffalo.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

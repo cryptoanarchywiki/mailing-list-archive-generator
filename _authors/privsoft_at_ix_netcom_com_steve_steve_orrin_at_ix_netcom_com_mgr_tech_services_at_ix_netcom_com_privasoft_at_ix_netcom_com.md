@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: privsoft_at_ix_netcom_com_steve_steve_orrin_at_ix_netcom_com_mgr_tech_services_at_ix_netcom_com_privasoft_at_ix_netcom_com
+post_count: 1
 ---
 
-# privsoft@ix.netcom.com (Steve )Steve Orrin@ix.netcom.com, Mgr.Tech.Services@ix.netcom.com,       PrivaSoft@ix.netcom.com (1 posts)
+# privsoft<span>@</span>ix.netcom.com (Steve )Steve Orrin<span>@</span>ix.netcom.com, Mgr.Tech.Services<span>@</span>ix.netcom.com,       PrivaSoft<span>@</span>ix.netcom.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

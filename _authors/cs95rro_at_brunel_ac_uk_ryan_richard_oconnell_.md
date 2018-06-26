@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cs95rro_at_brunel_ac_uk_ryan_richard_oconnell_
+post_count: 1
 ---
 
-# cs95rro@brunel.ac.uk (Ryan Richard O'Connell) (1 posts)
+# cs95rro<span>@</span>brunel.ac.uk (Ryan Richard O'Connell) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

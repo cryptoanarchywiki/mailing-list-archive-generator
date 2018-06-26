@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lou_zirko_lzirko_at_c2_net_
+post_count: 4
 ---
 
-# Lou Zirko <lzirko@c2.net> (4 posts)
+# Lou Zirko <lzirko<span>@</span>c2.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

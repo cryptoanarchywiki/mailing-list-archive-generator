@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Declan B. McCullagh" \<declan+@CMU.EDU\><br>
+From: "Declan B. McCullagh" \<declan+<span>@</span>CMU.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 80cd9a34aa2b58bdddaba4fd7ea15e38a3fad0f2112204abad1ca8ef11f5a059<br>
 Message ID: \<gkxcLeG00YUq85__A3@andrew.cmu.edu\><br>
@@ -593,6 +593,9 @@ Topic 1119 [media]:  Media Appearances of WELLperns VI, S.F.Bay Area Division
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/author/declan_b_mccullagh_declan_at_cmu_edu_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1996-01-12 (Sat, 13 Jan 1996 00:49:43 +0800) - Mitnick: Markoff responds to Platt's CuD "Takedown" critique - _"Declan B. McCullagh" \<declan+@CMU.EDU\>_
   + 1996-01-12 (Sat, 13 Jan 1996 01:36:18 +0800) - [Re: Mitnick: Markoff responds to Platt's CuD "Takedown" critique](/archive/1996/01/ab48437d13d16c692b6ddc4c6514a74a1c5f8acedee8d09d444e78b63a974017) - _"Perry E. Metzger" \<perry@piermont.com\>_

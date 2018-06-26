@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carlos_macedo_gomes_gomes_at_www_navigo_com_
+post_count: 1
 ---
 
-# Carlos Macedo Gomes <gomes@www.navigo.com> (1 posts)
+# Carlos Macedo Gomes <gomes<span>@</span>www.navigo.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

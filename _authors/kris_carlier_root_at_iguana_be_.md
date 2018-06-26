@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kris_carlier_root_at_iguana_be_
+post_count: 6
 ---
 
-# Kris Carlier <root@iguana.be> (6 posts)
+# Kris Carlier <root<span>@</span>iguana.be> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

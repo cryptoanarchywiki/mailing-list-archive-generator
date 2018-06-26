@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chongo_at_ncd_com_landon_curt_noll_
+post_count: 1
 ---
 
-# chongo@ncd.com (Landon Curt Noll) (1 posts)
+# chongo<span>@</span>ncd.com (Landon Curt Noll) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

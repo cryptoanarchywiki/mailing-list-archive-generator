@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fluffy_at_shout_net_chris_stillson_
+post_count: 2
 ---
 
-# fluffy@shout.net (Chris Stillson) (2 posts)
+# fluffy<span>@</span>shout.net (Chris Stillson) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

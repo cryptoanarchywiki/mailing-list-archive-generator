@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Lucky Green \<shamrock@netcom.com\><br>
+From: Lucky Green \<shamrock<span>@</span>netcom.com\><br>
 To: snow \<snow@smoke.suba.com\><br>
 Message Hash: c40e3ab65a1abaf4d9fcbf0b5b59a70b383629edfc4c766c7b9aae5fdcae36b1<br>
 Message ID: \<Pine.3.89.9609222127.A24532-0100000@netcom9\><br>
@@ -54,6 +54,10 @@ the way of a normal socialization process.
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/author/adamsc_at_ioonline_com_adamsc_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[snow <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
 
 + 1996-09-19 (Thu, 19 Sep 1996 09:17:55 +0800) - [Re: Informal Renegotiation of the Law](/archive/1996/09/4bf21f763b6878184754c79c8512042b7da17ba2a756fd3e7b3b27d27ae7a3bf) - _Adamsc@io-online.com (Adamsc)_
   + 1996-09-23 (Mon, 23 Sep 1996 17:09:00 +0800) - [Re: Informal Renegotiation of the Law](/archive/1996/09/16818e0881b677f6bca0a077b3acf811687b6e3a8ef6fa8d0b686d2bfe75dca1) - _snow \<snow@smoke.suba.com\>_

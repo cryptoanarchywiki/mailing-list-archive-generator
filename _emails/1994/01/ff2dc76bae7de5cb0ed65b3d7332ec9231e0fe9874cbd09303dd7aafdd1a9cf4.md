@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<pmetzger@lehman.com\><br>
+From: "Perry E. Metzger" \<pmetzger<span>@</span>lehman.com\><br>
 To: Hal \<hfinney@shell.portal.com\><br>
 Message Hash: ff2dc76bae7de5cb0ed65b3d7332ec9231e0fe9874cbd09303dd7aafdd1a9cf4<br>
 Message ID: \<199401130234.VAA24756@snark\><br>
@@ -50,6 +50,9 @@ Perry
 ## Thread
 
 + Return to [January 1994](/archive/1994/01)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/author/perry_e_metzger_pmetzger_at_lehman_com_)"
 
 + 1994-01-13 (Wed, 12 Jan 94 16:07:39 PST) - [Crypto and Taxes](/archive/1994/01/a73b12a273d56a97191b0584768f149ffd01e8495985cdb2867259c4dcf318e6) - _Hal \<hfinney@shell.portal.com\>_
   + 1994-01-13 (Wed, 12 Jan 94 18:37:14 PST) - Re: Crypto and Taxes - _"Perry E. Metzger" \<pmetzger@lehman.com\>_

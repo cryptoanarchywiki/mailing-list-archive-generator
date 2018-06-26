@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fc_at_symbolic_pr_it
+post_count: 1
 ---
 
-# fc@symbolic.pr.it (1 posts)
+# fc<span>@</span>symbolic.pr.it (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

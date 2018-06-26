@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robin_felix_felix_at_delfin_com_
+post_count: 1
 ---
 
-# Robin Felix <felix@delfin.com> (1 posts)
+# Robin Felix <felix<span>@</span>delfin.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

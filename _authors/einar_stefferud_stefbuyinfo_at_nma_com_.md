@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: einar_stefferud_stefbuyinfo_at_nma_com_
+post_count: 1
 ---
 
-# Einar Stefferud <Stef=buyinfo@nma.com> (1 posts)
+# Einar Stefferud <Stef=buyinfo<span>@</span>nma.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jumping_jack_flash_ddleeds_at_vm_cmp_ilstu_edu_
+post_count: 1
 ---
 
-# Jumping Jack Flash <DDLEEDS@VM.CMP.ILSTU.EDU> (1 posts)
+# Jumping Jack Flash <DDLEEDS<span>@</span>VM.CMP.ILSTU.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

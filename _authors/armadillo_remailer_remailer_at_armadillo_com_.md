@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: armadillo_remailer_remailer_at_armadillo_com_
+post_count: 2
 ---
 
-# Armadillo Remailer <remailer@armadillo.com> (2 posts)
+# Armadillo Remailer <remailer<span>@</span>armadillo.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

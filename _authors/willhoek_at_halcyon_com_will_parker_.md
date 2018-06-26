@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: willhoek_at_halcyon_com_will_parker_
+post_count: 1
 ---
 
-# willhoek@halcyon.com (Will Parker) (1 posts)
+# willhoek<span>@</span>halcyon.com (Will Parker) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

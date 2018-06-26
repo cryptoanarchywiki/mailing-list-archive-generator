@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_pool_m_pool_at_pharos_com_au_
+post_count: 3
 ---
 
-# Martin Pool <m.pool@pharos.com.au> (3 posts)
+# Martin Pool <m.pool<span>@</span>pharos.com.au> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_k_merriman_at_toad_com_webmaster_at_www_shellback_com_merriman_at_amaonline_com_
+post_count: 8
 ---
 
-# David.K.Merriman@toad.com,       "webmaster@www.shellback.com" <merriman@amaonline.com> (8 posts)
+# David.K.Merriman<span>@</span>toad.com,       "webmaster<span>@</span>www.shellback.com" <merriman<span>@</span>amaonline.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

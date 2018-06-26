@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: smm_at_engr_uark_edu_milligan_steven_m_
+post_count: 2
 ---
 
-# smm@engr.uark.edu (MILLIGAN STEVEN M) (2 posts)
+# smm<span>@</span>engr.uark.edu (MILLIGAN STEVEN M) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_rollins_trollins_at_hns_com_
+post_count: 3
 ---
 
-# Tom Rollins <trollins@hns.com> (3 posts)
+# Tom Rollins <trollins<span>@</span>hns.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremym_at_jax_jaxnet_com_jeremy_mineweaser_
+post_count: 1
 ---
 
-# jeremym@jax.jaxnet.com (Jeremy Mineweaser) (1 posts)
+# jeremym<span>@</span>jax.jaxnet.com (Jeremy Mineweaser) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Greg Broiles \<gbroiles@darkwing.uoregon.edu\><br>
+From: Greg Broiles \<gbroiles<span>@</span>darkwing.uoregon.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2d58fba5ae01d22b7a2aabd4fd31caf184de43a8eed89cd6fa4210d18dfeda57<br>
 Message ID: \<199512130721.AA23573@ideath.goldenbear.com\><br>
@@ -93,6 +93,8 @@ every temptation, every desire, every inhibition."   greg@goldenbear.com
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Greg Broiles <gbroiles<span>@</span>darkwing.uoregon.edu>](/author/greg_broiles_gbroiles_at_darkwing_uoregon_edu_)"
 
 + 1995-12-13 (Wed, 13 Dec 1995 16:47:02 +0800) - e-mail forwarding, for-pay remailers - _Greg Broiles \<gbroiles@darkwing.uoregon.edu\>_
 

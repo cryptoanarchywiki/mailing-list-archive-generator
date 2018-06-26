@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Vin McLellan \<vin@shore.net\><br>
+From: Vin McLellan \<vin<span>@</span>shore.net\><br>
 To: Marshall Clow \<mclow@owl.csusm.edu\><br>
 Message Hash: e16427a1b5cbe41e23e6dce63219be4a3b1aa7adbfda50fc6bd2aea0752cf8d6<br>
 Message ID: \<199702181951.OAA12558@relay1.shore.net\><br>
@@ -58,6 +58,9 @@ thoughtful and stimulating engagements that toad.com hosted.)
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
++ Return to "[Vin McLellan <vin<span>@</span>shore.net>](/author/vin_mclellan_vin_at_shore_net_)"
 
 + 1997-02-18 (Tue, 18 Feb 1997 11:51:48 -0800 (PST)) - Re: Constitution and a Right to Privacy - _Vin McLellan \<vin@shore.net\>_
   + 1997-02-18 (Tue, 18 Feb 1997 12:22:18 -0800 (PST)) - [Re: Constitution and a Right to Privacy](/archive/1997/02/5c4d2d6b72f8a525c99d5e541672d80da05c1d135b675bd903996195daa43d5f) - _"Timothy C. May" \<tcmay@got.net\>_

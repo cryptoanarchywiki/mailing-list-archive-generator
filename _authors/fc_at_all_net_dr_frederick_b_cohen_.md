@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fc_at_all_net_dr_frederick_b_cohen_
+post_count: 124
 ---
 
-# fc@all.net (Dr. Frederick B. Cohen) (124 posts)
+# fc<span>@</span>all.net (Dr. Frederick B. Cohen) (124 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

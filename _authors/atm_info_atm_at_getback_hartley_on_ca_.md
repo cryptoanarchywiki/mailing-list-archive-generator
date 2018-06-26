@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: atm_info_atm_at_getback_hartley_on_ca_
+post_count: 1
 ---
 
-# ATM INFO <atm@getback.hartley.on.ca> (1 posts)
+# ATM INFO <atm<span>@</span>getback.hartley.on.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

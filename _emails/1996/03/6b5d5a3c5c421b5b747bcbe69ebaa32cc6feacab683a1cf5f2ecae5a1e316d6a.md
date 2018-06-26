@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "David K. Merriman" \<merriman@arn.net\><br>
+From: "David K. Merriman" \<merriman<span>@</span>arn.net\><br>
 To: Leonardo Machado \<diarioam@ronet.com.br\><br>
 Message Hash: 6b5d5a3c5c421b5b747bcbe69ebaa32cc6feacab683a1cf5f2ecae5a1e316d6a<br>
 Message ID: \<2.2.32.19960318193329.00691228@arn.net\><br>
@@ -50,6 +50,8 @@ http://www.shellback.com/personal/merriman/index.htm
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/author/david_k_merriman_merriman_at_arn_net_)"
 
 + 1996-03-20 (Wed, 20 Mar 1996 19:25:12 +0800) - Re: DESCRIBE - _"David K. Merriman" \<merriman@arn.net\>_
 

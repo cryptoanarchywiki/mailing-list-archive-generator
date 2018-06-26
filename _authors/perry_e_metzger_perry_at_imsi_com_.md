@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: perry_e_metzger_perry_at_imsi_com_
+post_count: 527
 ---
 
-# "Perry E. Metzger" <perry@imsi.com> (527 posts)
+# "Perry E. Metzger" <perry<span>@</span>imsi.com> (527 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

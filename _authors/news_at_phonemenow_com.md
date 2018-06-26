@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: news_at_phonemenow_com
+post_count: 2
 ---
 
-# news@phonemenow.com (2 posts)
+# news<span>@</span>phonemenow.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lharrison_at_mhv_net_lynne_l_harrison_
+post_count: 1
 ---
 
-# lharrison@mhv.net (Lynne L. Harrison) (1 posts)
+# lharrison<span>@</span>mhv.net (Lynne L. Harrison) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

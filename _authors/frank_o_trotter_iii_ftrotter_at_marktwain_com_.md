@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frank_o_trotter_iii_ftrotter_at_marktwain_com_
+post_count: 2
 ---
 
-# "Frank O. Trotter, III" <ftrotter@marktwain.com> (2 posts)
+# "Frank O. Trotter, III" <ftrotter<span>@</span>marktwain.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

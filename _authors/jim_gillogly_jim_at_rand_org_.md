@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_gillogly_jim_at_rand_org_
+post_count: 38
 ---
 
-# Jim Gillogly <jim@rand.org> (38 posts)
+# Jim Gillogly <jim<span>@</span>rand.org> (38 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

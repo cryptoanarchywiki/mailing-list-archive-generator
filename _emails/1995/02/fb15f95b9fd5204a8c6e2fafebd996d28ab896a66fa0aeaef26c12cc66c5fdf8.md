@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: droelke@spirit.aud.alcatel.com (Daniel R. Oelke)<br>
+From: droelke<span>@</span>spirit.aud.alcatel.com (Daniel R. Oelke)<br>
 To: tedwards@src.umd.edu<br>
 Message Hash: fb15f95b9fd5204a8c6e2fafebd996d28ab896a66fa0aeaef26c12cc66c5fdf8<br>
 Message ID: \<9502090254.AA11147@spirit.aud.alcatel.com\><br>
@@ -65,6 +65,8 @@ http://spirit.aud.alcatel.com:8081/~droelke/
 ## Thread
 
 + Return to [February 1995](/archive/1995/02)
+
++ Return to "[droelke<span>@</span>spirit.aud.alcatel.com (Daniel R. Oelke)](/author/droelke_at_spirit_aud_alcatel_com_daniel_r_oelke_)"
 
 + 1995-02-09 (Wed, 8 Feb 95 18:54:49 PST) - Re: Not necessarily crypto but scary anyway... - _droelke@spirit.aud.alcatel.com (Daniel R. Oelke)_
 

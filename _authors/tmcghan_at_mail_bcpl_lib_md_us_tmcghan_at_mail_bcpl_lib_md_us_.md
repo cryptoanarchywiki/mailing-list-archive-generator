@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tmcghan_at_mail_bcpl_lib_md_us_tmcghan_at_mail_bcpl_lib_md_us_
+post_count: 4
 ---
 
-# "tmcghan@mail.bcpl.lib.md.us" <tmcghan@mail.bcpl.lib.md.us> (4 posts)
+# "tmcghan<span>@</span>mail.bcpl.lib.md.us" <tmcghan<span>@</span>mail.bcpl.lib.md.us> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

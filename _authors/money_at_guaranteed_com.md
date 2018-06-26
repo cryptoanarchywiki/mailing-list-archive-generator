@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: money_at_guaranteed_com
+post_count: 1
 ---
 
-# money@guaranteed.com (1 posts)
+# money<span>@</span>guaranteed.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

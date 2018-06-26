@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: staff_at_mailcorporation_com
+post_count: 6
 ---
 
-# staff@mailcorporation.com (6 posts)
+# staff<span>@</span>mailcorporation.com (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

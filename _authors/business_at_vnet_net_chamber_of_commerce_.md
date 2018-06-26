@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: business_at_vnet_net_chamber_of_commerce_
+post_count: 2
 ---
 
-# BUSINESS@VNET.NET (CHAMBER OF COMMERCE) (2 posts)
+# BUSINESS<span>@</span>VNET.NET (CHAMBER OF COMMERCE) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

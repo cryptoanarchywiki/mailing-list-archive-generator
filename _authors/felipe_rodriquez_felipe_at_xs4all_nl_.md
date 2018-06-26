@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: felipe_rodriquez_felipe_at_xs4all_nl_
+post_count: 3
 ---
 
-# Felipe Rodriquez <felipe@xs4all.nl> (3 posts)
+# Felipe Rodriquez <felipe<span>@</span>xs4all.nl> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

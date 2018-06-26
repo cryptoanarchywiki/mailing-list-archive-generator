@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: poier@sfu.ca (Skye Merlin Poier)<br>
+From: poier<span>@</span>sfu.ca (Skye Merlin Poier)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: b60bcbcbd36c42ae00d9ef542bfed45ebda0bc208ceb6255b0cf58d946eadaee<br>
 Message ID: \<9308202031.AA02041@malibu.sfu.ca\><br>
@@ -76,6 +76,9 @@ QWbC9a5J28c=
 ## Thread
 
 + Return to [August 1993](/archive/1993/08)
+
++ Return to "[Panzer Boy <panzer<span>@</span>drown.slip.andrew.cmu.edu>](/author/panzer_boy_panzer_at_drown_slip_andrew_cmu_edu_)"
++ Return to "[poier<span>@</span>sfu.ca (Skye Merlin Poier)](/author/poier_at_sfu_ca_skye_merlin_poier_)"
 
 + 1993-08-20 (Fri, 20 Aug 93 00:56:17 PDT) - [Anonymous IRC](/archive/1993/08/24050f5e05136c91f28888026f0fda190f9081122c45383a87ec91705f76b1c7) - _Panzer Boy \<panzer@drown.slip.andrew.cmu.edu\>_
   + 1993-08-20 (Fri, 20 Aug 93 13:36:37 PDT) - Re: Anonymous IRC - _poier@sfu.ca (Skye Merlin Poier)_

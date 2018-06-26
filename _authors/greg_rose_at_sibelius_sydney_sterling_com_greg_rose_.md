@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_rose_at_sibelius_sydney_sterling_com_greg_rose_
+post_count: 9
 ---
 
-# Greg_Rose@sibelius.sydney.sterling.com (Greg ROSE) (9 posts)
+# Greg_Rose<span>@</span>sibelius.sydney.sterling.com (Greg ROSE) (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

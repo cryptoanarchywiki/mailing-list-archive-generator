@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_replay_com_anonymous_nerthus_cypherpunks_at_cyberpass_net_
+post_count: 6
 ---
 
-# nobody@REPLAY.COM (Anonymous)Nerthus <cypherpunks@cyberpass.net> (6 posts)
+# nobody<span>@</span>REPLAY.COM (Anonymous)Nerthus <cypherpunks<span>@</span>cyberpass.net> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

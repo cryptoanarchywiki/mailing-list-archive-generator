@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lat_at_iac_net_lynn_terwoerds_
+post_count: 1
 ---
 
-# lat@iac.net (Lynn TerWoerds) (1 posts)
+# lat<span>@</span>iac.net (Lynn TerWoerds) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

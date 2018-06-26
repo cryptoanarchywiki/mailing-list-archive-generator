@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_young_jy_at_jya_com_
+post_count: 3
 ---
 
-# John Young <jy@jya.com> (3 posts)
+# John Young <jy<span>@</span>jya.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

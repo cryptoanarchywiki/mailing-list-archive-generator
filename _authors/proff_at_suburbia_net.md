@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: proff_at_suburbia_net
+post_count: 14
 ---
 
-# proff@suburbia.net (14 posts)
+# proff<span>@</span>suburbia.net (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

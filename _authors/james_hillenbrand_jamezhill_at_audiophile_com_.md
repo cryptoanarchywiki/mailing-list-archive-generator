@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_hillenbrand_jamezhill_at_audiophile_com_
+post_count: 1
 ---
 
-# James Hillenbrand <JamezHill@Audiophile.com> (1 posts)
+# James Hillenbrand <JamezHill<span>@</span>Audiophile.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

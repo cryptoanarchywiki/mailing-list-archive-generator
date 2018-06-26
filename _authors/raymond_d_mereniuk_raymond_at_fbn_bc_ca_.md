@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: raymond_d_mereniuk_raymond_at_fbn_bc_ca_
+post_count: 7
 ---
 
-# "Raymond D. Mereniuk" <Raymond@fbn.bc.ca> (7 posts)
+# "Raymond D. Mereniuk" <Raymond<span>@</span>fbn.bc.ca> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

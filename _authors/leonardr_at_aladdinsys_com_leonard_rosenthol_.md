@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: leonardr_at_aladdinsys_com_leonard_rosenthol_
+post_count: 1
 ---
 
-# leonardr@aladdinsys.com (Leonard Rosenthol) (1 posts)
+# leonardr<span>@</span>aladdinsys.com (Leonard Rosenthol) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

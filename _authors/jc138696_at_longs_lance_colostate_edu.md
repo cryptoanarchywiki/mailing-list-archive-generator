@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jc138696_at_longs_lance_colostate_edu
+post_count: 1
 ---
 
-# jc138696@longs.lance.colostate.edu (1 posts)
+# jc138696<span>@</span>longs.lance.colostate.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

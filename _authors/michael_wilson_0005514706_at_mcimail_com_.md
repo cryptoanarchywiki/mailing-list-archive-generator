@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_wilson_0005514706_at_mcimail_com_
+post_count: 23
 ---
 
-# Michael Wilson <0005514706@MCIMAIL.COM> (23 posts)
+# Michael Wilson <0005514706<span>@</span>MCIMAIL.COM> (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

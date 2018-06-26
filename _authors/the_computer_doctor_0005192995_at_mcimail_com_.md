@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_computer_doctor_0005192995_at_mcimail_com_
+post_count: 1
 ---
 
-# The Computer Doctor <0005192995@mcimail.com> (1 posts)
+# The Computer Doctor <0005192995<span>@</span>mcimail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

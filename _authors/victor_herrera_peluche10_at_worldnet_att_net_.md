@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: victor_herrera_peluche10_at_worldnet_att_net_
+post_count: 1
 ---
 
-# "VICTOR HERRERA" <PELUCHE-10@worldnet.att.net> (1 posts)
+# "VICTOR HERRERA" <PELUCHE-10<span>@</span>worldnet.att.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

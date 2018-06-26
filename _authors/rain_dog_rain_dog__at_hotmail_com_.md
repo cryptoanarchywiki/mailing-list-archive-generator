@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rain_dog_rain_dog__at_hotmail_com_
+post_count: 2
 ---
 
-# "Rain Dog" <rain_dog_@hotmail.com> (2 posts)
+# "Rain Dog" <rain_dog_<span>@</span>hotmail.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

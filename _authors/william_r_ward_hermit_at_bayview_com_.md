@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_r_ward_hermit_at_bayview_com_
+post_count: 2
 ---
 
-# "William R. Ward" <hermit@bayview.com> (2 posts)
+# "William R. Ward" <hermit<span>@</span>bayview.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

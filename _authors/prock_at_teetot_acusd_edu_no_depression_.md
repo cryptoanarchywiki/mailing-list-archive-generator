@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: prock_at_teetot_acusd_edu_no_depression_
+post_count: 2
 ---
 
-# prock@teetot.acusd.edu (no depression) (2 posts)
+# prock<span>@</span>teetot.acusd.edu (no depression) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

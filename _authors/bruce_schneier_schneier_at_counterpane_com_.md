@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_schneier_schneier_at_counterpane_com_
+post_count: 67
 ---
 
-# Bruce Schneier <schneier@counterpane.com> (67 posts)
+# Bruce Schneier <schneier<span>@</span>counterpane.com> (67 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

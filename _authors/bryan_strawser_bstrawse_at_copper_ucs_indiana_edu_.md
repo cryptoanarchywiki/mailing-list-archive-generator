@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bryan_strawser_bstrawse_at_copper_ucs_indiana_edu_
+post_count: 3
 ---
 
-# Bryan Strawser <bstrawse@copper.ucs.indiana.edu> (3 posts)
+# Bryan Strawser <bstrawse<span>@</span>copper.ucs.indiana.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

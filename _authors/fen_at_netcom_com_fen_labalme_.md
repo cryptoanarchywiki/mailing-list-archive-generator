@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fen_at_netcom_com_fen_labalme_
+post_count: 2
 ---
 
-# fen@netcom.com (Fen Labalme) (2 posts)
+# fen<span>@</span>netcom.com (Fen Labalme) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

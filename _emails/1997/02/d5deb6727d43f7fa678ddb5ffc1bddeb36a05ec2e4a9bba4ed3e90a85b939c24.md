@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Charley Musselman \<c.musselman@internetmci.com\><br>
+From: Charley Musselman \<c.musselman<span>@</span>internetmci.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: d5deb6727d43f7fa678ddb5ffc1bddeb36a05ec2e4a9bba4ed3e90a85b939c24<br>
 Message ID: \<199702062301.PAA02208@toad.com\><br>
@@ -45,6 +45,10 @@ Cheers (?),  Charley
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Andrew Loewenstern <andrew_loewenstern<span>@</span>il.us.swissbank.com>](/author/andrew_loewenstern_andrew_loewenstern_at_il_us_swissbank_com_)"
++ Return to "[Charley Musselman <c.musselman<span>@</span>internetmci.com>](/author/charley_musselman_c_musselman_at_internetmci_com_)"
++ Return to "[Jeremiah A Blatz <jer+<span>@</span>andrew.cmu.edu>](/author/jeremiah_a_blatz_jer_at_andrew_cmu_edu_)"
 
 + 1997-02-06 (Thu, 6 Feb 1997 15:01:08 -0800 (PST)) - anonymous remailers - _Charley Musselman \<c.musselman@internetmci.com\>_
   + 1997-02-07 (Fri, 7 Feb 1997 10:49:56 -0800 (PST)) - [Re: anonymous remailers](/archive/1997/02/303ff36e0ffa8c541a1477270555da147a49905b3741ac319c2e329210aa1517) - _Andrew Loewenstern \<andrew_loewenstern@il.us.swissbank.com\>_

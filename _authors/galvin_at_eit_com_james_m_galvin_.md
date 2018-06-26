@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: galvin_at_eit_com_james_m_galvin_
+post_count: 5
 ---
 
-# galvin@eit.com (James M. Galvin) (5 posts)
+# galvin<span>@</span>eit.com (James M. Galvin) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

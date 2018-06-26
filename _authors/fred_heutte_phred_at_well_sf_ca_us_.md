@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fred_heutte_phred_at_well_sf_ca_us_
+post_count: 15
 ---
 
-# "Fred Heutte" <phred@well.sf.ca.us> (15 posts)
+# "Fred Heutte" <phred<span>@</span>well.sf.ca.us> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

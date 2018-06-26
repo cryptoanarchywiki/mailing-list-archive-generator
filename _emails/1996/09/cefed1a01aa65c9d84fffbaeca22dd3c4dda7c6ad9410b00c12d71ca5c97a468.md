@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jason Vagner \<jlv@signet.sig.bsh.com\><br>
+From: Jason Vagner \<jlv<span>@</span>signet.sig.bsh.com\><br>
 To: _N/A_<br>
 Message Hash: cefed1a01aa65c9d84fffbaeca22dd3c4dda7c6ad9410b00c12d71ca5c97a468<br>
 Message ID: \<Pine.SGI.3.95.960915170645.22199D-100000@www\><br>
@@ -48,6 +48,13 @@ jlv
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Jason Vagner <jlv<span>@</span>signet.sig.bsh.com>](/author/jason_vagner_jlv_at_signet_sig_bsh_com_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "[stewarts<span>@</span>ix.netcom.com](/author/stewarts_at_ix_netcom_com)"
 
 + 1996-09-13 (Sat, 14 Sep 1996 07:14:14 +0800) - [Re: J'accuse!: Whitehouse and NSA vs. Panix and VTW](/archive/1996/09/61db2862edc7df6cda7f1058617ff885b311030c435e3630d9027c6b255e2a99) - _stewarts@ix.netcom.com_
   + 1996-09-13 (Sat, 14 Sep 1996 07:54:09 +0800) - [Internet Drivers' Licenses](/archive/1996/09/698d6887fbcb709ce46e767c9cbb2d35c1008195d69b5aa9d6f5da437965b307) - _mpd@netcom.com (Mike Duvos)_

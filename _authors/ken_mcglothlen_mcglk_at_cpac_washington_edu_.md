@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ken_mcglothlen_mcglk_at_cpac_washington_edu_
+post_count: 4
 ---
 
-# Ken McGlothlen <mcglk@cpac.washington.edu> (4 posts)
+# Ken McGlothlen <mcglk<span>@</span>cpac.washington.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

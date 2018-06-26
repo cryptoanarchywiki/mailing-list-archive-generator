@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yiorgos_adamopoulos_y_adamopoulos_at_noc_ntua_gr_
+post_count: 1
 ---
 
-# Yiorgos Adamopoulos <Y.Adamopoulos@noc.ntua.gr> (1 posts)
+# Yiorgos Adamopoulos <Y.Adamopoulos<span>@</span>noc.ntua.gr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

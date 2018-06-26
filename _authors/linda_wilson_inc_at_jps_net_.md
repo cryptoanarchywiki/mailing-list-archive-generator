@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: linda_wilson_inc_at_jps_net_
+post_count: 1
 ---
 
-# linda wilson <inc@jps.net> (1 posts)
+# linda wilson <inc<span>@</span>jps.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

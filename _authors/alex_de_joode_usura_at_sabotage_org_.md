@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_de_joode_usura_at_sabotage_org_
+post_count: 6
 ---
 
-# Alex de Joode <usura@sabotage.org> (6 posts)
+# Alex de Joode <usura<span>@</span>sabotage.org> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: matt@oc.com (Matthew Lyle)<br>
+From: matt<span>@</span>oc.com (Matthew Lyle)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 407e0ee8a4427d543fd96adf581a0d4eabae9de742ccc5919cd8fdfb6fca90cb<br>
 Message ID: \<199304191602.AA04101@ra.oc.com\><br>
@@ -149,6 +149,8 @@ Transmitted:  93-04-18 21:06:00 EDT
 ## Thread
 
 + Return to [April 1993](/archive/1993/04)
+
++ Return to "[matt<span>@</span>oc.com (Matthew Lyle)](/author/matt_at_oc_com_matthew_lyle_)"
 
 + 1993-04-19 (Mon, 19 Apr 93 09:02:59 PDT) - Article 2 from Knight/Ridder - _matt@oc.com (Matthew Lyle)_
 

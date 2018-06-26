@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: russw_at_netcom_com_russell_earl_whitaker_
+post_count: 3
 ---
 
-# russw@netcom.com (Russell Earl Whitaker) (3 posts)
+# russw<span>@</span>netcom.com (Russell Earl Whitaker) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

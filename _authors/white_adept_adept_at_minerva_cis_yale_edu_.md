@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: white_adept_adept_at_minerva_cis_yale_edu_
+post_count: 4
 ---
 
-# White Adept <adept@minerva.cis.yale.edu> (4 posts)
+# White Adept <adept<span>@</span>minerva.cis.yale.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

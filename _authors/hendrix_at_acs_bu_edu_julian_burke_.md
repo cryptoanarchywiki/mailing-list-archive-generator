@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hendrix_at_acs_bu_edu_julian_burke_
+post_count: 1
 ---
 
-# hendrix@acs.bu.edu (Julian Burke) (1 posts)
+# hendrix<span>@</span>acs.bu.edu (Julian Burke) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: Steve Schear \<azur@netcom.com\><br>
 Message Hash: f9be063aa3fec15feffbd09fa4bc390211518fe28b017bfaf86deb3eae1b50f7<br>
 Message ID: \<199702010527.VAA05255@toad.com\><br>
@@ -56,6 +56,8 @@ Could all of these figures have been 6, 30, and 44 _meters_ instead? :-)
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1997-02-01 (Fri, 31 Jan 1997 21:27:18 -0800 (PST)) - Re: Intelligence Update (fwd) - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

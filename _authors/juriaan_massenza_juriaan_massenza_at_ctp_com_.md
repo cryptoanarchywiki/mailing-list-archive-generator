@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: juriaan_massenza_juriaan_massenza_at_ctp_com_
+post_count: 5
 ---
 
-# Juriaan Massenza <juriaan_massenza@ctp.com> (5 posts)
+# Juriaan Massenza <juriaan_massenza<span>@</span>ctp.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

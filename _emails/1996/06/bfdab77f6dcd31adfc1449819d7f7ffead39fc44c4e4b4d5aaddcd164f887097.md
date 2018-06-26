@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@piermont.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>piermont.com\><br>
 To: frantz@netcom.com (Bill Frantz)<br>
 Message Hash: bfdab77f6dcd31adfc1449819d7f7ffead39fc44c4e4b4d5aaddcd164f887097<br>
 Message ID: \<199606042241.SAA09606@jekyll.piermont.com\><br>
@@ -58,6 +58,9 @@ Perry
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/author/frantz_at_netcom_com_bill_frantz_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1996-06-05 (Wed, 5 Jun 1996 13:56:25 +0800) - [Re: Java](/archive/1996/06/62bd2f6037101334e947277b7ecceffa6597e68ad21fa3522ee0fd7ba1b18f3c) - _frantz@netcom.com (Bill Frantz)_
   + 1996-06-05 (Wed, 5 Jun 1996 16:24:42 +0800) - Re: Java - _"Perry E. Metzger" \<perry@piermont.com\>_

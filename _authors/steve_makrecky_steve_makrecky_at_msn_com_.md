@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_makrecky_steve_makrecky_at_msn_com_
+post_count: 3
 ---
 
-# "Steve Makrecky" <Steve_Makrecky@msn.com> (3 posts)
+# "Steve Makrecky" <Steve_Makrecky<span>@</span>msn.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

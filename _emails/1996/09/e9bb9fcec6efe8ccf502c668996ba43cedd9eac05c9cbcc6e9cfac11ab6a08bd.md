@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Asgaard \<asgaard@Cor.sos.sll.se\><br>
+From: Asgaard \<asgaard<span>@</span>Cor.sos.sll.se\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: e9bb9fcec6efe8ccf502c668996ba43cedd9eac05c9cbcc6e9cfac11ab6a08bd<br>
 Message ID: \<Pine.HPP.3.91.960925180702.2695A-100000@cor.sos.sll.se\><br>
@@ -56,6 +56,10 @@ Asgaard
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Asgaard <asgaard<span>@</span>Cor.sos.sll.se>](/author/asgaard_asgaard_at_cor_sos_sll_se_)"
++ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/author/james_a_donald_jamesd_at_echeque_com_)"
++ Return to "[Rolf Weber <weber<span>@</span>iez.com>](/author/rolf_weber_weber_at_iez_com_)"
 
 + 1996-09-25 (Wed, 25 Sep 1996 13:05:07 +0800) - [Re: We removed radikal 154 from xs4all :(](/archive/1996/09/62ee0cdd768449b63898a78ff89f591a9b9fde7a1959b7a3298b06bbf2505339) - _"James A. Donald" \<jamesd@echeque.com\>_
   + 1996-09-25 (Thu, 26 Sep 1996 04:02:16 +0800) - Re: We removed radikal 154 from xs4all :( - _Asgaard \<asgaard@Cor.sos.sll.se\>_

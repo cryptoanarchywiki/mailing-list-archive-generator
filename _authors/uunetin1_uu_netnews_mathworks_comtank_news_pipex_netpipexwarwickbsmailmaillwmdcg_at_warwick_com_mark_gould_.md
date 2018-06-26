@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uunetin1_uu_netnews_mathworks_comtank_news_pipex_netpipexwarwickbsmailmaillwmdcg_at_warwick_com_mark_gould_
+post_count: 1
 ---
 
-# uunet!in1.uu.net!news.mathworks.com!tank.news.pipex.net!pipex!warwick!bsmail!mail!lwmdcg@warwick.com (Mark Gould) (1 posts)
+# uunet!in1.uu.net!news.mathworks.com!tank.news.pipex.net!pipex!warwick!bsmail!mail!lwmdcg<span>@</span>warwick.com (Mark Gould) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

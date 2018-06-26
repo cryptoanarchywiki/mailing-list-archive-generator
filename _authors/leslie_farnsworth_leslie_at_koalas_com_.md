@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: leslie_farnsworth_leslie_at_koalas_com_
+post_count: 2
 ---
 
-# Leslie Farnsworth <leslie@koalas.com> (2 posts)
+# Leslie Farnsworth <leslie<span>@</span>koalas.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

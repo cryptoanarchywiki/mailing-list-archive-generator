@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pclow_pclow_at_pc_jaring_my_
+post_count: 7
 ---
 
-# pclow <pclow@pc.jaring.my> (7 posts)
+# pclow <pclow<span>@</span>pc.jaring.my> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

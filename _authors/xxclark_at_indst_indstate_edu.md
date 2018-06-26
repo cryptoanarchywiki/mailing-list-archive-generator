@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: xxclark_at_indst_indstate_edu
+post_count: 16
 ---
 
-# XXCLARK@indst.indstate.edu (16 posts)
+# XXCLARK<span>@</span>indst.indstate.edu (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

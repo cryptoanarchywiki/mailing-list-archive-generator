@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_barrett_barrett_at_daisy_ee_und_ac_za_
+post_count: 28
 ---
 
-# Alan Barrett <barrett@daisy.ee.und.ac.za> (28 posts)
+# Alan Barrett <barrett<span>@</span>daisy.ee.und.ac.za> (28 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

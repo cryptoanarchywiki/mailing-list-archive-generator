@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gast_at_cs_ucla_edu
+post_count: 1
 ---
 
-# gast@cs.ucla.edu (1 posts)
+# gast<span>@</span>cs.ucla.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Matthew James Gering \<mgering@ecosystems.net\><br>
+From: Matthew James Gering \<mgering<span>@</span>ecosystems.net\><br>
 To: "Cypherpunks (E-mail)" \<cypherpunks@cyberpass.net\><br>
 Message Hash: d98e28b166401f0bfdddbf3e0198fc3a3efab33f88ec547b5a7e0b0dfceebaa1<br>
 Message ID: \<33CCFE438B9DD01192E800A024C84A193A7A25@mossbay.chaffeyhomes.com\><br>
@@ -71,6 +71,8 @@ lack of supply and demand, but for lack of free competition.
 ## Thread
 
 + Return to [October 1998](/archive/1998/10)
+
++ Return to "[Matthew James Gering <mgering<span>@</span>ecosystems.net>](/author/matthew_james_gering_mgering_at_ecosystems_net_)"
 
 + 1998-10-06 (Tue, 6 Oct 1998 08:28:47 +0800) - RE: GPL & commercial software, the critical distinction (fwd) - _Matthew James Gering \<mgering@ecosystems.net\>_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: trei@process.com<br>
 Message Hash: ab52fcfc0dbb4a7a42281534edb1fe5ecf4972c0c3dfad61ad69bb2cf2cb3fb2<br>
 Message ID: \<199509181426.KAA03412@panix.com\><br>
@@ -53,6 +53,8 @@ DCF
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1995-09-18 (Mon, 18 Sep 95 07:27:17 PDT) - Re: "Hackers"-- brief review and anecdote... - _Duncan Frissell \<frissell@panix.com\>_
 

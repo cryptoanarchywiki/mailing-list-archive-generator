@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_gilmore_gnu_at_toad_com_
+post_count: 173
 ---
 
-# John Gilmore <gnu@toad.com> (173 posts)
+# John Gilmore <gnu<span>@</span>toad.com> (173 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

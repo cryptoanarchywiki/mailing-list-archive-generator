@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: investigations_comv_at_angel_chico_joshuanet_com_by_way_of_geeman_nospamgeeman_at_best_com_
+post_count: 1
 ---
 
-# investigations.comv@angel.chico.joshuanet.com (by way of geeman <NOSPAM-geeman@best.com>) (1 posts)
+# investigations.comv<span>@</span>angel.chico.joshuanet.com (by way of geeman <NOSPAM-geeman<span>@</span>best.com>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ryan_russellsybase_ryan_russell_at_sybase_com_
+post_count: 39
 ---
 
-# Ryan Russell/SYBASE <Ryan.Russell@sybase.com> (39 posts)
+# Ryan Russell/SYBASE <Ryan.Russell<span>@</span>sybase.com> (39 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

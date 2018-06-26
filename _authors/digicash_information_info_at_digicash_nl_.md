@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: digicash_information_info_at_digicash_nl_
+post_count: 3
 ---
 
-# "DigiCash Information" <info@DigiCash.nl> (3 posts)
+# "DigiCash Information" <info<span>@</span>DigiCash.nl> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

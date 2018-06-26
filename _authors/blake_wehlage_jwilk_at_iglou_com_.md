@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blake_wehlage_jwilk_at_iglou_com_
+post_count: 31
 ---
 
-# Blake Wehlage <jwilk@iglou.com> (31 posts)
+# Blake Wehlage <jwilk<span>@</span>iglou.com> (31 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

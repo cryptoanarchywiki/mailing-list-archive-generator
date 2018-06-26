@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kristian_sagi_sagi_at_physic_ut_ee_
+post_count: 1
 ---
 
-# Kristian Sagi <sagi@physic.ut.ee> (1 posts)
+# Kristian Sagi <sagi<span>@</span>physic.ut.ee> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

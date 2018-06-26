@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mjb_at_aiinc_com_michael_bailey_
+post_count: 1
 ---
 
-# mjb@aiinc.com (Michael Bailey) (1 posts)
+# mjb<span>@</span>aiinc.com (Michael Bailey) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

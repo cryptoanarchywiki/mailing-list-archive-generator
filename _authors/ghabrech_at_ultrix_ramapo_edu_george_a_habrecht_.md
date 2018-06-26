@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ghabrech_at_ultrix_ramapo_edu_george_a_habrecht_
+post_count: 3
 ---
 
-# ghabrech@ultrix.ramapo.edu (George A. Habrecht) (3 posts)
+# ghabrech<span>@</span>ultrix.ramapo.edu (George A. Habrecht) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

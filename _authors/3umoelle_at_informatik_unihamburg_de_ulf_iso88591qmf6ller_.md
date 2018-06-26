@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 3umoelle_at_informatik_unihamburg_de_ulf_iso88591qmf6ller_
+post_count: 30
 ---
 
-# 3umoelle@informatik.uni-hamburg.de (Ulf =?iso-8859-1?Q?M=F6ller?=) (30 posts)
+# 3umoelle<span>@</span>informatik.uni-hamburg.de (Ulf =?iso-8859-1?Q?M=F6ller?=) (30 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

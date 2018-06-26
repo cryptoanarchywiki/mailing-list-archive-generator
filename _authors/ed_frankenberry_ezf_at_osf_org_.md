@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ed_frankenberry_ezf_at_osf_org_
+post_count: 1
 ---
 
-# Ed Frankenberry <ezf@osf.org> (1 posts)
+# Ed Frankenberry <ezf<span>@</span>osf.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

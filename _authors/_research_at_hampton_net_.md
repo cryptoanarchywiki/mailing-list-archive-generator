@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _research_at_hampton_net_
+post_count: 1
 ---
 
-# <research@hampton.net> (1 posts)
+# <research<span>@</span>hampton.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

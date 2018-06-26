@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mikepb_at_freke_hoplite_org_michael_p_brininstool_
+post_count: 1
 ---
 
-# mikepb@freke.hoplite.org (Michael P. Brininstool) (1 posts)
+# mikepb<span>@</span>freke.hoplite.org (Michael P. Brininstool) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

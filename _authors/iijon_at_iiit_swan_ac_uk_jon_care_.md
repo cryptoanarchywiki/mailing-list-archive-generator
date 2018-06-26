@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iijon_at_iiit_swan_ac_uk_jon_care_
+post_count: 2
 ---
 
-# iijon@iiit.swan.ac.uk (Jon Care) (2 posts)
+# iijon<span>@</span>iiit.swan.ac.uk (Jon Care) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

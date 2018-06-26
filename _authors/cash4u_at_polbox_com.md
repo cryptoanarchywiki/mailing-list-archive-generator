@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cash4u_at_polbox_com
+post_count: 1
 ---
 
-# cash4u@polbox.com (1 posts)
+# cash4u<span>@</span>polbox.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

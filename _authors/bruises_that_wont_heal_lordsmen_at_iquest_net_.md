@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruises_that_wont_heal_lordsmen_at_iquest_net_
+post_count: 1
 ---
 
-# "Bruises that won't heal" <lordsmen@iquest.net> (1 posts)
+# "Bruises that won't heal" <lordsmen<span>@</span>iquest.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Matthew J Ghio \<mg5n+@andrew.cmu.edu\><br>
+From: Matthew J Ghio \<mg5n+<span>@</span>andrew.cmu.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: bb074f9b00bfaab9ebbb38ef6e85001d5f54da0c7a98fd54eed39d7818a3abbc<br>
 Message ID: \<8gk23ji00awHMvCUd3@andrew.cmu.edu\><br>
@@ -55,6 +55,12 @@ foreign bank account.  (Bank of Oceania?  hmm...)
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[Anthony D Ortenzi <ao27+<span>@</span>andrew.cmu.edu>](/author/anthony_d_ortenzi_ao27_at_andrew_cmu_edu_)"
++ Return to "[karn<span>@</span>qualcomm.com (Phil Karn)](/author/karn_at_qualcomm_com_phil_karn_)"
++ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/author/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
++ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/author/perry_e_metzger_pmetzger_at_lehman_com_)"
++ Return to "[Sandy <72114.1712<span>@</span>CompuServe.COM>](/author/sandy_72114_1712_at_compuserve_com_)"
 
 + 1993-10-16 (Fri, 15 Oct 93 19:37:12 PDT) - [IRS LEARNING . . .](/archive/1993/10/2760da6b0ae8bb9d4c66a522b668557896dd3ddb88f27303d61d725ba0e97af3) - _Sandy \<72114.1712@CompuServe.COM\>_
   + 1993-10-16 (Fri, 15 Oct 93 20:40:13 PDT) - [IRS LEARNING . . .](/archive/1993/10/cb82f917d5ab2281df842d3b18ca989ef3c41bb20172dbceeedb529860f9e5c1) - _karn@qualcomm.com (Phil Karn)_

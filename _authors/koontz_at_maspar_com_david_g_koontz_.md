@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: koontz_at_maspar_com_david_g_koontz_
+post_count: 25
 ---
 
-# koontz@MasPar.COM (David G. Koontz) (25 posts)
+# koontz<span>@</span>MasPar.COM (David G. Koontz) (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

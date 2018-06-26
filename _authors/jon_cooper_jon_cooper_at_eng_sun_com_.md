@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jon_cooper_jon_cooper_at_eng_sun_com_
+post_count: 2
 ---
 
-# Jon Cooper <Jon.Cooper@Eng.Sun.COM> (2 posts)
+# Jon Cooper <Jon.Cooper<span>@</span>Eng.Sun.COM> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

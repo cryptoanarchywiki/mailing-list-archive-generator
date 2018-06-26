@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Brian D Williams \<talon57@well.sf.ca.us\><br>
+From: Brian D Williams \<talon57<span>@</span>well.sf.ca.us\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1e92856e71cbab9c3b6ce4be6c4bfdb3b2f6f3f229d2da2f716c5f5601ecdbdb<br>
 Message ID: \<199408111553.IAA08505@well.sf.ca.us\><br>
@@ -80,6 +80,8 @@ For further information, call Mike Potter at 708 960-0133 x15.
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[Brian D Williams <talon57<span>@</span>well.sf.ca.us>](/author/brian_d_williams_talon57_at_well_sf_ca_us_)"
 
 + 1994-08-11 (Thu, 11 Aug 94 08:53:16 PDT) - Bruce Schneier appearance - _Brian D Williams \<talon57@well.sf.ca.us\>_
 

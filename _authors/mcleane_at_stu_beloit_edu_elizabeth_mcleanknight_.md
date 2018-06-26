@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mcleane_at_stu_beloit_edu_elizabeth_mcleanknight_
+post_count: 1
 ---
 
-# mcleane@stu.beloit.edu (Elizabeth McLean-Knight) (1 posts)
+# mcleane<span>@</span>stu.beloit.edu (Elizabeth McLean-Knight) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_mazieres_dm_at_amsterdam_lcs_mit_edu_
+post_count: 22
 ---
 
-# David Mazieres <dm@amsterdam.lcs.mit.edu> (22 posts)
+# David Mazieres <dm<span>@</span>amsterdam.lcs.mit.edu> (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

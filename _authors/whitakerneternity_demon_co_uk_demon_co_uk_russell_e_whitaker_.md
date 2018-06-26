@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: whitakerneternity_demon_co_uk_demon_co_uk_russell_e_whitaker_
+post_count: 1
 ---
 
-# whitakerNeternity.demon.co.uk.demon.co.uk ("Russell E. Whitaker") (1 posts)
+# whitakerNeternity.demon.co.uk.demon.co.uk ("Russell E. Whitaker") (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

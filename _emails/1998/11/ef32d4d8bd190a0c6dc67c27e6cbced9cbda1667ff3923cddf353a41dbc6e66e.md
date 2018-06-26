@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nobody@replay.com\><br>
+From: Anonymous \<nobody<span>@</span>replay.com\><br>
 To: vin@shore.net<br>
 Message Hash: ef32d4d8bd190a0c6dc67c27e6cbced9cbda1667ff3923cddf353a41dbc6e66e<br>
 Message ID: \<199811150026.BAA28478@replay.com\><br>
@@ -42,6 +42,8 @@ there actually).
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
 
 + 1998-11-15 (Sun, 15 Nov 1998 08:51:46 +0800) - No Subject - _Anonymous \<nobody@replay.com\>_
 

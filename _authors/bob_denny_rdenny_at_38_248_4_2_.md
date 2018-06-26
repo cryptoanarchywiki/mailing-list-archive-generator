@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bob_denny_rdenny_at_38_248_4_2_
+post_count: 1
 ---
 
-# "Bob Denny" <rdenny@[38.248.4.2]> (1 posts)
+# "Bob Denny" <rdenny<span>@</span>[38.248.4.2]> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

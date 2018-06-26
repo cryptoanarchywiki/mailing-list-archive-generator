@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sameer_parekh_sameer_at_palladium_corp_sgi_com_
+post_count: 1
 ---
 
-# Sameer Parekh <sameer@palladium.corp.sgi.com> (1 posts)
+# Sameer Parekh <sameer<span>@</span>palladium.corp.sgi.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

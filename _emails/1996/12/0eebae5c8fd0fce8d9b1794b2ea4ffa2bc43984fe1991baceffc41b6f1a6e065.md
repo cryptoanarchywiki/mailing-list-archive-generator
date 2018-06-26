@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: "Timothy C. May" \<cypherpunks@toad.com<br>
 Message Hash: 0eebae5c8fd0fce8d9b1794b2ea4ffa2bc43984fe1991baceffc41b6f1a6e065<br>
 Message ID: \<199612221910.LAA28887@mail.pacifier.com\><br>
@@ -50,6 +50,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-12-22 (Sun, 22 Dec 1996 11:10:45 -0800 (PST)) - Re: Executing Encrypted Code - _jim bell \<jimbell@pacifier.com\>_
 

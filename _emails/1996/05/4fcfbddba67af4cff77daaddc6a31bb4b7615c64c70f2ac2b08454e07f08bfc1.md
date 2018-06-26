@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dan McGuirk \<mcguirk@indirect.com\><br>
+From: Dan McGuirk \<mcguirk<span>@</span>indirect.com\><br>
 To: unicorn@schloss.li<br>
 Message Hash: 4fcfbddba67af4cff77daaddc6a31bb4b7615c64c70f2ac2b08454e07f08bfc1<br>
 Message ID: \<Pine.BSD/.3.91.960505222735.24544H-100000@bud.indirect.com\><br>
@@ -52,6 +52,11 @@ open(STDERR,">&N");chop($r=<N>);$r=~s/^GET //i;select(N);getprint($r);exit;}}
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[Dan McGuirk <mcguirk<span>@</span>indirect.com>](/author/dan_mcguirk_mcguirk_at_indirect_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
++ Return to "[shamrock<span>@</span>netcom.com (Lucky Green)](/author/shamrock_at_netcom_com_lucky_green_)"
 
 + 1996-05-05 (Mon, 6 May 1996 04:05:42 +0800) - [Re: WWW proxies?](/archive/1996/05/b427be03f3690f27783379f9a5e001162f9011dc987d7de5b3cafc897b2c2f9a) - _shamrock@netcom.com (Lucky Green)_
   + 1996-05-05 (Mon, 6 May 1996 06:50:13 +0800) - [Re: WWW proxies?](/archive/1996/05/bb0bb2cbeb24a562d658fc6058cc9dbf40b12ab58a64eb170dc7e92f1621cb6a) - _"Mark M." \<markm@voicenet.com\>_

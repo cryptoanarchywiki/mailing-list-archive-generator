@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: todd_ackman_tka_at_brutus_bright_net_
+post_count: 1
 ---
 
-# Todd Ackman <tka@brutus.bright.net> (1 posts)
+# Todd Ackman <tka<span>@</span>brutus.bright.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

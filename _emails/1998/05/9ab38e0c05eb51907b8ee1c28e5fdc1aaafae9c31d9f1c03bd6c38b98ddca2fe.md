@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: bill payne \<billp@nmol.com\><br>
+From: bill payne \<billp<span>@</span>nmol.com\><br>
 To: lawya@lucs-01.novell.leeds.ac.uk<br>
 Message Hash: 9ab38e0c05eb51907b8ee1c28e5fdc1aaafae9c31d9f1c03bd6c38b98ddca2fe<br>
 Message ID: \<354A351C.20B8@nmol.com\><br>
@@ -81,6 +81,8 @@ bill and art
 ## Thread
 
 + Return to [May 1998](/archive/1998/05)
+
++ Return to "[bill payne <billp<span>@</span>nmol.com>](/author/bill_payne_billp_at_nmol_com_)"
 
 + 1998-05-01 (Fri, 1 May 1998 13:54:27 -0700 (PDT)) - Ruling in Payne & Morales v NSA's Minihan - _bill payne \<billp@nmol.com\>_
 

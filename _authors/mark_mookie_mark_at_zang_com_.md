@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_mookie_mark_at_zang_com_
+post_count: 4
 ---
 
-# Mark (Mookie) <mark@zang.com> (4 posts)
+# Mark (Mookie) <mark<span>@</span>zang.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

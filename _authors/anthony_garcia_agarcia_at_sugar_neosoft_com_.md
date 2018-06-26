@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anthony_garcia_agarcia_at_sugar_neosoft_com_
+post_count: 9
 ---
 
-# Anthony Garcia <agarcia@sugar.NeoSoft.COM> (9 posts)
+# Anthony Garcia <agarcia<span>@</span>sugar.NeoSoft.COM> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

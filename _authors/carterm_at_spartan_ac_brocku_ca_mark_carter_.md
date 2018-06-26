@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carterm_at_spartan_ac_brocku_ca_mark_carter_
+post_count: 4
 ---
 
-# carterm@spartan.ac.brocku.ca (Mark Carter) (4 posts)
+# carterm<span>@</span>spartan.ac.brocku.ca (Mark Carter) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

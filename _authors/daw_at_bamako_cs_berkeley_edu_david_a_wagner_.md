@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daw_at_bamako_cs_berkeley_edu_david_a_wagner_
+post_count: 1
 ---
 
-# daw@bamako.CS.Berkeley.EDU (David A Wagner) (1 posts)
+# daw<span>@</span>bamako.CS.Berkeley.EDU (David A Wagner) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

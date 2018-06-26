@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ncselxsichasw_at_netcom_com_charles_e_wareing_
+post_count: 1
 ---
 
-# ncselxsi!chasw@netcom.com (Charles E. Wareing) (1 posts)
+# ncselxsi!chasw<span>@</span>netcom.com (Charles E. Wareing) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

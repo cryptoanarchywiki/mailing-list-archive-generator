@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: announce_at_lp_org_by_way_of_edwin_e_smith_edsmith_at_intnet_net_
+post_count: 1
 ---
 
-# announce@lp.org (by way of "Edwin E. Smith" <edsmith@IntNet.net>) (1 posts)
+# announce<span>@</span>lp.org (by way of "Edwin E. Smith" <edsmith<span>@</span>IntNet.net>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

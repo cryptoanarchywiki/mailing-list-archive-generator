@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: giulio_gexing_at_mbox_vol_it_
+post_count: 1
 ---
 
-# "Giulio" <gexing@mbox.vol.it> (1 posts)
+# "Giulio" <gexing<span>@</span>mbox.vol.it> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Vladimir Z. Nuri" \<vznuri@netcom.com\><br>
+From: "Vladimir Z. Nuri" \<vznuri<span>@</span>netcom.com\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: 0a382b2bc940d9fdc91be3deb58576c9eb93d38f2b7bf341eccc5ca135caebeb<br>
 Message ID: \<199801310522.VAA17339@netcom13.netcom.com\><br>
@@ -439,6 +439,8 @@ Om
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1998-01-31 (Sat, 31 Jan 1998 13:28:39 +0800) - orlin grabbe on digital cash - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
 

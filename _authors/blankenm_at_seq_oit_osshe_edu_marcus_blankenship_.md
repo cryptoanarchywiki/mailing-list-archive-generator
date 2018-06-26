@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blankenm_at_seq_oit_osshe_edu_marcus_blankenship_
+post_count: 1
 ---
 
-# blankenm@seq.oit.osshe.edu (Marcus Blankenship) (1 posts)
+# blankenm<span>@</span>seq.oit.osshe.edu (Marcus Blankenship) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

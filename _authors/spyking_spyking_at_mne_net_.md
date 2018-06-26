@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: spyking_spyking_at_mne_net_
+post_count: 2
 ---
 
-# SpyKing <spyking@mne.net> (2 posts)
+# SpyKing <spyking<span>@</span>mne.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

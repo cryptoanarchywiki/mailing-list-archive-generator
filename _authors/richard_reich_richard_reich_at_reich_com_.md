@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_reich_richard_reich_at_reich_com_
+post_count: 3
 ---
 
-# Richard Reich <Richard_Reich@reich.com> (3 posts)
+# Richard Reich <Richard_Reich<span>@</span>reich.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

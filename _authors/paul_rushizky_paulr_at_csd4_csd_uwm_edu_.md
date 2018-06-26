@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_rushizky_paulr_at_csd4_csd_uwm_edu_
+post_count: 1
 ---
 
-# Paul Rushizky <paulr@csd4.csd.uwm.edu> (1 posts)
+# Paul Rushizky <paulr<span>@</span>csd4.csd.uwm.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

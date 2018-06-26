@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jamie_lawrence_foodie_at_netcom_com_
+post_count: 7
 ---
 
-# Jamie Lawrence <foodie@netcom.com> (7 posts)
+# Jamie Lawrence <foodie<span>@</span>netcom.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

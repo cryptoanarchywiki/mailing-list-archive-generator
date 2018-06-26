@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jamesd@echeque.com<br>
+From: jamesd<span>@</span>echeque.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 24f62fb530aacf9de3d2b3c377dc4cc4ba5d2e59b7b80af85f502acaaf01a5bb<br>
 Message ID: \<199603090339.TAA15249@dns1.noc.best.net\><br>
@@ -65,6 +65,8 @@ arbitrary power of the state.		|   jamesd@echeque.com
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[jamesd<span>@</span>echeque.com](/author/jamesd_at_echeque_com)"
 
 + 1996-03-10 (Sun, 10 Mar 1996 14:39:23 +0800) - Re: Another Motivation for the CDA (Federal Sentencing Guid - _jamesd@echeque.com_
 

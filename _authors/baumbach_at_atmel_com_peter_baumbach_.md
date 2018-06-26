@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: baumbach_at_atmel_com_peter_baumbach_
+post_count: 28
 ---
 
-# baumbach@atmel.com (Peter Baumbach) (28 posts)
+# baumbach<span>@</span>atmel.com (Peter Baumbach) (28 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

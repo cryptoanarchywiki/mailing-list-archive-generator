@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_hahn_mhahn_at_tcbtech_com_
+post_count: 6
 ---
 
-# Mark Hahn <mhahn@tcbtech.com> (6 posts)
+# Mark Hahn <mhahn<span>@</span>tcbtech.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

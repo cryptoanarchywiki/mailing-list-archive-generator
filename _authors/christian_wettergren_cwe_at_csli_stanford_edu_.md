@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christian_wettergren_cwe_at_csli_stanford_edu_
+post_count: 31
 ---
 
-# Christian Wettergren <cwe@Csli.Stanford.EDU> (31 posts)
+# Christian Wettergren <cwe<span>@</span>Csli.Stanford.EDU> (31 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

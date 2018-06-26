@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: regnic902c_at_gte_net
+post_count: 2
 ---
 
-# regnic902c@gte.net (2 posts)
+# regnic902c<span>@</span>gte.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

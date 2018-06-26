@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rjc_at_powermail_com_ray_
+post_count: 4
 ---
 
-# rjc@powermail.com (Ray) (4 posts)
+# rjc<span>@</span>powermail.com (Ray) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

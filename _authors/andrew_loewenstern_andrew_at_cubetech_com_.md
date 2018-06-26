@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_loewenstern_andrew_at_cubetech_com_
+post_count: 5
 ---
 
-# Andrew Loewenstern <andrew@cubetech.com> (5 posts)
+# Andrew Loewenstern <andrew<span>@</span>cubetech.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: davidm@iconz.co.nz (David Murray)<br>
+From: davidm<span>@</span>iconz.co.nz (David Murray)<br>
 To: hfinney@shell.portal.com<br>
 Message Hash: fecf1f69ed01dc076aa557d5d642818b3c1f89ecf06e9a0ddebcfddbc54f1a54<br>
 Message ID: \<199501202120.KAA03412@iconz.co.nz\><br>
@@ -155,6 +155,8 @@ David
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[davidm<span>@</span>iconz.co.nz (David Murray)](/author/davidm_at_iconz_co_nz_david_murray_)"
 
 + 1995-01-20 (Fri, 20 Jan 95 13:22:09 PST) - Little ebanks -- a modest proposal. - _davidm@iconz.co.nz (David Murray)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: s950272_at_slvaxa_umsl_edu
+post_count: 1
 ---
 
-# S950272@slvaxa.umsl.edu (1 posts)
+# S950272<span>@</span>slvaxa.umsl.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

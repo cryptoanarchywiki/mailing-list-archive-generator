@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: qut@netcom.com (Be Good)<br>
+From: qut<span>@</span>netcom.com (Be Good)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ce8dbef00dee8abad771d078f7cb08de5bebf37e4e710bea743f61db2cfefde7<br>
 Message ID: \<199606091911.MAA27107@netcom22.netcom.com\><br>
@@ -107,6 +107,9 @@ Kill Your Television
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[qut<span>@</span>netcom.com (Be Good)](/author/qut_at_netcom_com_be_good_)"
 
 + 1996-06-10 (Mon, 10 Jun 1996 08:09:14 +0800) - Re: Thank you for the Archives 100 messages - _qut@netcom.com (Be Good)_
   + 1996-06-10 (Mon, 10 Jun 1996 09:51:14 +0800) - [Re: Thank you for the Archives 100 messages](/archive/1996/06/10a1a4522b57625ebc85a384d22089885a8703e38528682cff49b46a66471318) - _Black Unicorn \<unicorn@schloss.li\>_

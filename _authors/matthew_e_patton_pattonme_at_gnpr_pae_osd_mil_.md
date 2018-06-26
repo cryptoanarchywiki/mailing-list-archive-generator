@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_e_patton_pattonme_at_gnpr_pae_osd_mil_
+post_count: 1
 ---
 
-# "Matthew E. Patton" <pattonme@gnpr.pae.osd.mil> (1 posts)
+# "Matthew E. Patton" <pattonme<span>@</span>gnpr.pae.osd.mil> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

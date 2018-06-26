@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: moe_moesan_at_elcafe_com_
+post_count: 1
 ---
 
-# "Moe!" <moe-san@elcafe.com> (1 posts)
+# "Moe!" <moe-san<span>@</span>elcafe.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

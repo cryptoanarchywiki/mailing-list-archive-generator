@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jovi_at_telnor_net
+post_count: 1
 ---
 
-# jovi@telnor.net (1 posts)
+# jovi<span>@</span>telnor.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

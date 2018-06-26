@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_mason__mis_czar_approachdouglas_at_approach_com_
+post_count: 1
 ---
 
-# Doug Mason - MIS Czar <approach!douglas@approach.com> (1 posts)
+# Doug Mason - MIS Czar <approach!douglas<span>@</span>approach.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

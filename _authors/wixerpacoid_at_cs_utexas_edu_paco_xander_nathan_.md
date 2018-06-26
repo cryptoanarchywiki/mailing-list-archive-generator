@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wixerpacoid_at_cs_utexas_edu_paco_xander_nathan_
+post_count: 2
 ---
 
-# wixer!pacoid@cs.utexas.edu (Paco Xander Nathan) (2 posts)
+# wixer!pacoid<span>@</span>cs.utexas.edu (Paco Xander Nathan) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_hudson_ghudson_at_mit_edu_
+post_count: 1
 ---
 
-# Greg Hudson <ghudson@mit.edu> (1 posts)
+# Greg Hudson <ghudson<span>@</span>mit.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

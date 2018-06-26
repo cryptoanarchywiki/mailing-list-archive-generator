@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_landgren_pub__david_d_l_landgren_at_pub_oecd_fr_
+post_count: 2
 ---
 
-# "David LANDGREN, PUB           " <David.D.L.LANDGREN@PUB.oecd.fr> (2 posts)
+# "David LANDGREN, PUB           " <David.D.L.LANDGREN<span>@</span>PUB.oecd.fr> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

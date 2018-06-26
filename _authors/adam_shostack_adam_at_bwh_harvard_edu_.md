@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adam_shostack_adam_at_bwh_harvard_edu_
+post_count: 197
 ---
 
-# Adam Shostack <adam@bwh.harvard.edu> (197 posts)
+# Adam Shostack <adam<span>@</span>bwh.harvard.edu> (197 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

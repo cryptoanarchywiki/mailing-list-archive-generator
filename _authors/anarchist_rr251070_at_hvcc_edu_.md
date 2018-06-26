@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anarchist_rr251070_at_hvcc_edu_
+post_count: 1
 ---
 
-# Anarchist <rr251070@hvcc.edu> (1 posts)
+# Anarchist <rr251070<span>@</span>hvcc.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

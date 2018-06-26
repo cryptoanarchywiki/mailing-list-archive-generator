@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_c_brice_ag588_at_hela_ins_cwru_edu_
+post_count: 5
 ---
 
-# "John C. Brice" <ag588@hela.INS.CWRU.Edu> (5 posts)
+# "John C. Brice" <ag588<span>@</span>hela.INS.CWRU.Edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

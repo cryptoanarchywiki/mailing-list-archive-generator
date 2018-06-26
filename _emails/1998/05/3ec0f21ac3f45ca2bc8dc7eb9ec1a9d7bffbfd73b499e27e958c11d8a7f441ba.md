@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3ec0f21ac3f45ca2bc8dc7eb9ec1a9d7bffbfd73b499e27e958c11d8a7f441ba<br>
 Message ID: \<199805181737.NAA03845@camel8.mindspring.com\><br>
@@ -94,6 +94,8 @@ lectroniquement les cartes usages, croit savoir l'hebdomadaire.
 ## Thread
 
 + Return to [May 1998](/archive/1998/05)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1998-05-18 (Mon, 18 May 1998 10:37:57 -0700 (PDT)) - German Phone Cards Hacked - _John Young \<jya@pipeline.com\>_
   + 1998-05-19 (Tue, 19 May 1998 04:39:44 -0700 (PDT)) - [Re: German Phone Cards Hacked](/archive/1998/05/6051e7f1861c622b305ca24c493d48dc35692e62c4178466ba2bb66e2e0ddfee) - _John Young \<jya@pipeline.com\>_

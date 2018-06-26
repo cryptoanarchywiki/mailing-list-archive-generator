@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@openpgp.net\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>openpgp.net\><br>
 To: Michal Hohensee \<mah248@nyu.edu\><br>
 Message Hash: bc4de33ada071bf8eaf186c31c4ee34eca5ef3d1dcf7ea84fb62906bea8b6ec5<br>
 Message ID: \<199812051511.KAA001.50@whgiii\><br>
@@ -59,6 +59,18 @@ OS/2 PGP 5.0 at: http://www.openpgp.net/pgp.html
 
 + Return to [November 1998](/archive/1998/11)
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
++ Return to "["Douglas L. Peterson" <fnorky<span>@</span>chisp.net>](/author/douglas_l_peterson_fnorky_at_chisp_net_)"
++ Return to "[ichudov<span>@</span>Algebra.COM (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[Michael Hohensee <mah248<span>@</span>nyu.edu>](/author/michael_hohensee_mah248_at_nyu_edu_)"
++ Return to "[Michael Hohensee <michael<span>@</span>sparta.mainstream.net>](/author/michael_hohensee_michael_at_sparta_mainstream_net_)"
++ Return to "[Michal Hohensee <mah248<span>@</span>nyu.edu>](/author/michal_hohensee_mah248_at_nyu_edu_)"
++ Return to "[Petro <petro<span>@</span>playboy.com>](/author/petro_petro_at_playboy_com_)"
++ Return to "[Soren <sorens<span>@</span>workmail.com>](/author/soren_sorens_at_workmail_com_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>openpgp.net>](/author/william_h_geiger_iii_whgiii_at_openpgp_net_)"
 
 + 1998-11-29 (Sun, 29 Nov 1998 11:28:51 +0800) - [y2k/gary north delusions](/archive/1998/11/892f8bf5ef45828e1ba7575058b90a2ede41159ac220006c4e60c75159510065) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
   + 1998-12-04 (Sat, 5 Dec 1998 03:15:09 +0800) - [Re: y2k/gary north delusions](/archive/1998/12/8ee178024cff11bf00e9aaba172ee0c81591972b9f2d16604157b22140a1f893) - _Petro \<petro@playboy.com\>_

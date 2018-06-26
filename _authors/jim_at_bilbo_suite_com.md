@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_at_bilbo_suite_com
+post_count: 1
 ---
 
-# jim@bilbo.suite.com (1 posts)
+# jim<span>@</span>bilbo.suite.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

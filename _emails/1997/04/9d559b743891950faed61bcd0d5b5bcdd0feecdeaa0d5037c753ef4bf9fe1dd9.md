@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jimbell@pacifier.com (Jim Bell)<br>
+From: jimbell<span>@</span>pacifier.com (Jim Bell)<br>
 To: Bill Stewart \<cypherpunks@toad.com<br>
 Message Hash: 9d559b743891950faed61bcd0d5b5bcdd0feecdeaa0d5037c753ef4bf9fe1dd9<br>
 Message ID: \<199704132245.PAA28164@mail.pacifier.com\><br>
@@ -58,6 +58,9 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [April 1997](/archive/1997/04)
+
++ Return to "[jimbell<span>@</span>pacifier.com (Jim Bell)](/author/jimbell_at_pacifier_com_jim_bell_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-04-13 (Sun, 13 Apr 1997 15:45:23 -0700 (PDT)) - Re: APRIL BAY AREA CYPHERPUNKS MEETING - _jimbell@pacifier.com (Jim Bell)_
   + 1997-04-14 (Sun, 13 Apr 1997 17:09:27 -0700 (PDT)) - [Re: APRIL BAY AREA CYPHERPUNKS MEETING](/archive/1997/04/e01e98f5755312ed59a463c039f56e83e6f1eeb6502937d736510c53c865b505) - _Toto \<toto@sk.sympatico.ca\>_

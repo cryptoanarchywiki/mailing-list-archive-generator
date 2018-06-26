@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rick_osborne_osborne_at_gateway_grumman_com_
+post_count: 53
 ---
 
-# Rick Osborne <osborne@gateway.grumman.com> (53 posts)
+# Rick Osborne <osborne<span>@</span>gateway.grumman.com> (53 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

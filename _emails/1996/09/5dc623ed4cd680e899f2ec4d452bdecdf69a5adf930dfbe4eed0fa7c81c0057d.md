@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5dc623ed4cd680e899f2ec4d452bdecdf69a5adf930dfbe4eed0fa7c81c0057d<br>
 Message ID: \<4X1VTD27w165w@bwalk.dm.com\><br>
@@ -136,6 +136,10 @@ of course.)
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-09-06 (Sat, 7 Sep 1996 05:35:42 +0800) - ["The Bill of Rights can be dangerous...."](/archive/1996/09/af0a259d67a20ae221d337595398243889e38de02d177596c3e04a206ebce78b) - _tcmay@got.net (Timothy C. May)_
   + 1996-09-07 (Sun, 8 Sep 1996 03:38:57 +0800) - Re: "The Bill of Rights can be dangerous...." - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

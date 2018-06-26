@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: squirrel_remailer_nobody_at_squirrel_owl_de_
+post_count: 1
 ---
 
-# Squirrel Remailer <nobody@squirrel.owl.de> (1 posts)
+# Squirrel Remailer <nobody<span>@</span>squirrel.owl.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

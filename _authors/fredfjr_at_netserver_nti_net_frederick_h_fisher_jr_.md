@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fredfjr_at_netserver_nti_net_frederick_h_fisher_jr_
+post_count: 1
 ---
 
-# fredfjr@netserver.nti.net (Frederick H. Fisher, JR.) (1 posts)
+# fredfjr<span>@</span>netserver.nti.net (Frederick H. Fisher, JR.) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

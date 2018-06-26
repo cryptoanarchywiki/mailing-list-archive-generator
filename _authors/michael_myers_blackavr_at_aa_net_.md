@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_myers_blackavr_at_aa_net_
+post_count: 6
 ---
 
-# Michael Myers <blackavr@aa.net> (6 posts)
+# Michael Myers <blackavr<span>@</span>aa.net> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

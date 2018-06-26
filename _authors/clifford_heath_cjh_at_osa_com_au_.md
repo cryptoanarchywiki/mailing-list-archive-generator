@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: clifford_heath_cjh_at_osa_com_au_
+post_count: 1
 ---
 
-# Clifford Heath <cjh@osa.com.au> (1 posts)
+# Clifford Heath <cjh<span>@</span>osa.com.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

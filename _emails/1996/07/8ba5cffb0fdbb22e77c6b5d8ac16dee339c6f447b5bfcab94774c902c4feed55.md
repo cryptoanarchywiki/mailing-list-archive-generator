@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jya@pipeline.com (John Young)<br>
+From: jya<span>@</span>pipeline.com (John Young)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8ba5cffb0fdbb22e77c6b5d8ac16dee339c6f447b5bfcab94774c902c4feed55<br>
 Message ID: \<199607072119.VAA10773@pipe1.t2.usa.pipeline.com\><br>
@@ -72,6 +72,8 @@ technology as alternatives to breaking strong crypto?
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
 
 + 1996-07-08 (Mon, 8 Jul 1996 08:38:38 +0800) - DEA Intercepts - _jya@pipeline.com (John Young)_
 

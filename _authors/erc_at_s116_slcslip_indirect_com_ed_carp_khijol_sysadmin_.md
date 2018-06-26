@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erc_at_s116_slcslip_indirect_com_ed_carp_khijol_sysadmin_
+post_count: 19
 ---
 
-# erc@s116.slcslip.indirect.com (Ed Carp [khijol Sysadmin]) (19 posts)
+# erc<span>@</span>s116.slcslip.indirect.com (Ed Carp [khijol Sysadmin]) (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

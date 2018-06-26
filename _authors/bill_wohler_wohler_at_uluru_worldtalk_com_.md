@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_wohler_wohler_at_uluru_worldtalk_com_
+post_count: 1
 ---
 
-# Bill Wohler <wohler@uluru.worldtalk.com> (1 posts)
+# Bill Wohler <wohler<span>@</span>uluru.worldtalk.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

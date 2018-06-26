@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_t_darling_darl0006_at_tc_umn_edu_
+post_count: 2
 ---
 
-# Matthew T Darling <darl0006@tc.umn.edu> (2 posts)
+# Matthew T Darling <darl0006<span>@</span>tc.umn.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

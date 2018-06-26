@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Robert A. Hayden" \<hayden@krypton.mankato.msus.edu\><br>
+From: "Robert A. Hayden" \<hayden<span>@</span>krypton.mankato.msus.edu\><br>
 To: Cypherpunks Mailing List \<cyberia-l@birds.wm.edu\><br>
 Message Hash: acbfdefdad9e00cbec81aa70c582004b7f0eab91573bdab2f4884d3fc4a6c5c8<br>
 Message ID: \<Pine.ULT.3.95.961016132428.2346A-100000@krypton.mankato.msus.edu\><br>
@@ -75,6 +75,8 @@ R+++>$ tv+ b+ DI+++ D+++ G+++++>$ e++$>++++ h r-- y+**
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "["Robert A. Hayden" <hayden<span>@</span>krypton.mankato.msus.edu>](/author/robert_a_hayden_hayden_at_krypton_mankato_msus_edu_)"
 
 + 1996-10-16 (Wed, 16 Oct 1996 11:26:42 -0700 (PDT)) - Censorship-related Web Sites? - _"Robert A. Hayden" \<hayden@krypton.mankato.msus.edu\>_
 

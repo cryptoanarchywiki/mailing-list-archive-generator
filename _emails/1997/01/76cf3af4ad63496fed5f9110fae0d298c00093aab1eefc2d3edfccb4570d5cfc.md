@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Mark M." \<markm@voicenet.com\><br>
+From: "Mark M." \<markm<span>@</span>voicenet.com\><br>
 To: Cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: 76cf3af4ad63496fed5f9110fae0d298c00093aab1eefc2d3edfccb4570d5cfc<br>
 Message ID: \<Pine.LNX.3.95.970130172237.1585F-100000@purple.voicenet.com\><br>
@@ -81,6 +81,8 @@ function FindProxyForURL(url, host) {
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
 
 + 1997-01-30 (Thu, 30 Jan 1997 14:23:34 -0800 (PST)) - ad.doubleclick.net (fwd) - _"Mark M." \<markm@voicenet.com\>_
 

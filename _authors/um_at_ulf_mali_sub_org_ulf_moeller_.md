@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: um_at_ulf_mali_sub_org_ulf_moeller_
+post_count: 1
 ---
 
-# um@ulf.mali.sub.org (Ulf Moeller) (1 posts)
+# um<span>@</span>ulf.mali.sub.org (Ulf Moeller) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

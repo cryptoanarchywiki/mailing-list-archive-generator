@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fernando_pinho_fpinho_at_dglnet_com_br_
+post_count: 1
 ---
 
-# Fernando Pinho <fpinho@dglnet.com.br> (1 posts)
+# Fernando Pinho <fpinho<span>@</span>dglnet.com.br> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

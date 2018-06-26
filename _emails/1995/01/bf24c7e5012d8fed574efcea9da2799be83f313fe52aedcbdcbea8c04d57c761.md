@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: root \<root@einstein.ssz.com\><br>
+From: root \<root<span>@</span>einstein.ssz.com\><br>
 To: ekr@eit.COM (Eric Rescorla)<br>
 Message Hash: bf24c7e5012d8fed574efcea9da2799be83f313fe52aedcbdcbea8c04d57c761<br>
 Message ID: \<199501102342.RAA00418@einstein.ssz.com\><br>
@@ -91,5 +91,8 @@ anything to do with Constitutional rights.
 
 + Return to [January 1995](/archive/1995/01)
 
-+ 1995-01-10 (Tue, 10 Jan 95 15:47:47 PST) - Re: Pornography, What is it? - _root \<root@einstein.ssz.com\>_
++ Return to "[root <root<span>@</span>einstein.ssz.com>](/author/root_root_at_einstein_ssz_com_)"
+
++ _Unknown thread root_
+  + 1995-01-10 (Tue, 10 Jan 95 15:47:47 PST) - Re: Pornography, What is it? - _root \<root@einstein.ssz.com\>_
 

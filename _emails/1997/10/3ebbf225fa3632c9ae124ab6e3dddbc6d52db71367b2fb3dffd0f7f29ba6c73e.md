@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3ebbf225fa3632c9ae124ab6e3dddbc6d52db71367b2fb3dffd0f7f29ba6c73e<br>
 Message ID: \<1.5.4.32.19971012183512.006a9260@pop.pipeline.com\><br>
@@ -86,6 +86,9 @@ Billy Sunday
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1997-10-12 (Mon, 13 Oct 1997 02:52:36 +0800) - Re: Stronghold - _John Young \<jya@pipeline.com\>_
   + 1997-10-12 (Mon, 13 Oct 1997 07:42:39 +0800) - [Re: Stronghold](/archive/1997/10/56e4158aef2c9e7c71bc07ae21d96757ab0ba65a49cf440005d7323453e373f7) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

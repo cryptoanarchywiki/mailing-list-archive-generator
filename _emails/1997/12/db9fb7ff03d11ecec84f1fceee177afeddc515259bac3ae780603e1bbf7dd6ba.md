@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: db9fb7ff03d11ecec84f1fceee177afeddc515259bac3ae780603e1bbf7dd6ba<br>
 Message ID: \<3.0.3.32.19971206155107.006d03d8@popd.ix.netcom.com\><br>
@@ -61,6 +61,10 @@ Regular Key PGP Fingerprint D454 E202 CBC8 40BF  3C85 B884 0ABE 4639
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/author/kent_crispin_kent_at_songbird_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1997-12-06 (Sun, 7 Dec 1997 03:27:28 +0800) - [Problems with PGP Finland site?](/archive/1997/12/0dc27b0e7d4d6ec318fa3fa661d305ed0a52e87c73462345ca40ded45ff6c326) - _Tim May \<tcmay@got.net\>_
   + 1997-12-06 (Sun, 7 Dec 1997 07:57:56 +0800) - NA PGP Future (Re: Problems with PGP Finland site?) - _Bill Stewart \<stewarts@ix.netcom.com\>_

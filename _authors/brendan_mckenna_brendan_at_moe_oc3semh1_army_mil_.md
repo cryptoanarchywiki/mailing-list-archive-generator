@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brendan_mckenna_brendan_at_moe_oc3semh1_army_mil_
+post_count: 1
 ---
 
-# "Brendan McKenna" <brendan@moe.oc3s-emh1.army.mil> (1 posts)
+# "Brendan McKenna" <brendan<span>@</span>moe.oc3s-emh1.army.mil> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

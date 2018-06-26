@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: remove_at_webpromotions_com
+post_count: 1
 ---
 
-# remove@web-promotions.com (1 posts)
+# remove<span>@</span>web-promotions.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

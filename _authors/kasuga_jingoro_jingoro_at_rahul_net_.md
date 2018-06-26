@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kasuga_jingoro_jingoro_at_rahul_net_
+post_count: 1
 ---
 
-# Kasuga Jingoro <jingoro@rahul.net> (1 posts)
+# Kasuga Jingoro <jingoro<span>@</span>rahul.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

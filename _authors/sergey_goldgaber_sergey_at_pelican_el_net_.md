@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sergey_goldgaber_sergey_at_pelican_el_net_
+post_count: 2
 ---
 
-# Sergey Goldgaber <sergey@pelican.el.net> (2 posts)
+# Sergey Goldgaber <sergey<span>@</span>pelican.el.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

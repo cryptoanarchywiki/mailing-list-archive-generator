@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_pack_jdpack_at_foxinternet_net_
+post_count: 1
 ---
 
-# james pack <j-dpack@foxinternet.net> (1 posts)
+# james pack <j-dpack<span>@</span>foxinternet.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

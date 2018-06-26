@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_stewart_bill_stewart_at_pobox_com_
+post_count: 244
 ---
 
-# Bill Stewart <bill.stewart@pobox.com> (244 posts)
+# Bill Stewart <bill.stewart<span>@</span>pobox.com> (244 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

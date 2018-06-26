@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: miron_at_extropia_wimsey_com_miron_cuperman_
+post_count: 32
 ---
 
-# miron@extropia.wimsey.com (Miron Cuperman) (32 posts)
+# miron<span>@</span>extropia.wimsey.com (Miron Cuperman) (32 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

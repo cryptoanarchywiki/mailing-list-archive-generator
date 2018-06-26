@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: faried_nawaz_nawaz921_at_cs_uidaho_edu_
+post_count: 1
 ---
 
-# faried nawaz <nawaz921@cs.uidaho.edu> (1 posts)
+# faried nawaz <nawaz921<span>@</span>cs.uidaho.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

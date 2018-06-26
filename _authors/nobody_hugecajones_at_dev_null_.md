@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_hugecajones_at_dev_null_
+post_count: 2
 ---
 
-# Nobody <hugecajones@dev.null> (2 posts)
+# Nobody <hugecajones<span>@</span>dev.null> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

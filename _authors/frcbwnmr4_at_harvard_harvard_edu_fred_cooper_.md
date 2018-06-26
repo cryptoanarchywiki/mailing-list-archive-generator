@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frcbwnmr4_at_harvard_harvard_edu_fred_cooper_
+post_count: 13
 ---
 
-# frc%bwnmr4@harvard.harvard.edu (Fred Cooper) (13 posts)
+# frc%bwnmr4<span>@</span>harvard.harvard.edu (Fred Cooper) (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

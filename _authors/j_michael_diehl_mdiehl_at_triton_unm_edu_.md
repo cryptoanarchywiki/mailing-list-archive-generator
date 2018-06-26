@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: j_michael_diehl_mdiehl_at_triton_unm_edu_
+post_count: 154
 ---
 
-# J. Michael Diehl <mdiehl@triton.unm.edu> (154 posts)
+# J. Michael Diehl <mdiehl<span>@</span>triton.unm.edu> (154 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: president_president_at_shithouse_cum_
+post_count: 1
 ---
 
-# PRESIDENT <PRESIDENT@SHITHOUSE.CUM> (1 posts)
+# PRESIDENT <PRESIDENT<span>@</span>SHITHOUSE.CUM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

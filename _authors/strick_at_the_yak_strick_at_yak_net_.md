@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: strick_at_the_yak_strick_at_yak_net_
+post_count: 2
 ---
 
-# strick at The Yak <strick@yak.net> (2 posts)
+# strick at The Yak <strick<span>@</span>yak.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

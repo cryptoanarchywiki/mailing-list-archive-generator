@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blanc_weber_blanc_at_cover_ed_
+post_count: 1
 ---
 
-# Blanc Weber <blanc@cover.ed> (1 posts)
+# Blanc Weber <blanc<span>@</span>cover.ed> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

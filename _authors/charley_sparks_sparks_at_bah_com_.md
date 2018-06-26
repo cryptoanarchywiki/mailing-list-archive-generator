@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charley_sparks_sparks_at_bah_com_
+post_count: 25
 ---
 
-# Charley Sparks <sparks@bah.com> (25 posts)
+# Charley Sparks <sparks<span>@</span>bah.com> (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

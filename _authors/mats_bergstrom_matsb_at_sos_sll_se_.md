@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mats_bergstrom_matsb_at_sos_sll_se_
+post_count: 33
 ---
 
-# Mats Bergstrom <matsb@sos.sll.se> (33 posts)
+# Mats Bergstrom <matsb<span>@</span>sos.sll.se> (33 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

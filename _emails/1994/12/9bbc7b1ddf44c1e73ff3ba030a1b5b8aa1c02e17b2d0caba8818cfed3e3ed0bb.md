@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "L. McCarthy" \<lmccarth@ducie.cs.umass.edu\><br>
+From: "L. McCarthy" \<lmccarth<span>@</span>ducie.cs.umass.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9bbc7b1ddf44c1e73ff3ba030a1b5b8aa1c02e17b2d0caba8818cfed3e3ed0bb<br>
 Message ID: \<199412111013.FAA19099@bb.hks.net\><br>
@@ -73,6 +73,8 @@ MasfVZJdFg1M7XmjMEZZ2lEW1eecjm0U
 ## Thread
 
 + Return to [December 1994](/archive/1994/12)
+
++ Return to "["L. McCarthy" <lmccarth<span>@</span>ducie.cs.umass.edu>](/author/l_mccarthy_lmccarth_at_ducie_cs_umass_edu_)"
 
 + 1994-12-11 (Sun, 11 Dec 94 02:08:18 PST) - Re: manual processing of big list messages - _"L. McCarthy" \<lmccarth@ducie.cs.umass.edu\>_
 

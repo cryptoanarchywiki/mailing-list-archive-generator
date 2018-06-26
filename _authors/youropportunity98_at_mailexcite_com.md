@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: youropportunity98_at_mailexcite_com
+post_count: 1
 ---
 
-# youropportunity98@mailexcite.com (1 posts)
+# youropportunity98<span>@</span>mailexcite.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

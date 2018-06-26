@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rabid Wombat \<wombat@mcfeely.bsfs.org\><br>
+From: Rabid Wombat \<wombat<span>@</span>mcfeely.bsfs.org\><br>
 To: Tom Lojewski \<lojewski@switzerland-c.it.earthlink.net\><br>
 Message Hash: e86f00f268266140d7bceffd8f7cfcbebe9255f9ca93ffe1e29dada11ead96d0<br>
 Message ID: \<Pine.BSF.3.91.961014112431.23550D-100000@mcfeely.bsfs.org\><br>
@@ -73,6 +73,9 @@ unsubscribe cypherpunks lojewski@switzerland-c.it.earthlink.net
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "[Tom Lojewski <lojewski<span>@</span>switzerland-c.it.earthlink.net>](/author/tom_lojewski_lojewski_at_switzerlandc_it_earthlink_net_)"
 
 + 1996-10-14 (Sun, 13 Oct 1996 18:29:55 -0700 (PDT)) - [Clinternet?](/archive/1996/10/8b2344b069a450b06355ffeb08b967722cf6ff22a27f0d4b9eeec227a0e2670c) - _Tom Lojewski \<lojewski@switzerland-c.it.earthlink.net\>_
   + 1996-10-14 (Mon, 14 Oct 1996 09:49:18 -0700 (PDT)) - [NOISE] Re: Clinternet? - _Rabid Wombat \<wombat@mcfeely.bsfs.org\>_

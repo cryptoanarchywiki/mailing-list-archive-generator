@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: samlb_at_baynetworks_com_sam_bassett_c_
+post_count: 1
 ---
 
-# samlb@baynetworks.com (Sam Bassett (C)) (1 posts)
+# samlb<span>@</span>baynetworks.com (Sam Bassett (C)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

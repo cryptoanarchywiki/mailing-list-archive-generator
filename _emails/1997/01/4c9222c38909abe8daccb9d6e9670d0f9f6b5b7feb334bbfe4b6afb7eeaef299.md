@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dennis10301@www1.utech.net (Dennis Alverson)<br>
+From: dennis10301<span>@</span>www1.utech.net (Dennis Alverson)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4c9222c38909abe8daccb9d6e9670d0f9f6b5b7feb334bbfe4b6afb7eeaef299<br>
 Message ID: \<Ready Aim Fire!_1/3/97 5:12:09 PM_10301@utech.net\><br>
@@ -46,6 +46,8 @@ me again.
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[dennis10301<span>@</span>www1.utech.net (Dennis Alverson)](/author/dennis10301_at_www1_utech_net_dennis_alverson_)"
 
 + 1997-01-04 (Fri, 3 Jan 1997 17:12:46 -0800 (PST)) - Guaranteed downline!!! - _dennis10301@www1.utech.net (Dennis Alverson)_
 

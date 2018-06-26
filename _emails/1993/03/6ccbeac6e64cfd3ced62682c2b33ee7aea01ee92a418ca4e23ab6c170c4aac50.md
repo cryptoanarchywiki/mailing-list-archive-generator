@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<74076.1041@CompuServe.COM\><br>
+From: Hal \<74076.1041<span>@</span>CompuServe.COM\><br>
 To: Cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: 6ccbeac6e64cfd3ced62682c2b33ee7aea01ee92a418ca4e23ab6c170c4aac50<br>
 Message ID: \<930301171036_74076.1041_DHJ55-1@CompuServe.COM\><br>
@@ -51,6 +51,10 @@ Hal
 ## Thread
 
 + Return to [March 1993](/archive/1993/03)
+
++ Return to "[Eli Brandt <ebrandt<span>@</span>jarthur.Claremont.EDU>](/author/eli_brandt_ebrandt_at_jarthur_claremont_edu_)"
++ Return to "[Hal <74076.1041<span>@</span>CompuServe.COM>](/author/hal_74076_1041_at_compuserve_com_)"
++ Return to "[Johan Helsingius <julf<span>@</span>penet.FI>](/author/johan_helsingius_julf_at_penet_fi_)"
 
 + 1993-03-01 (Mon, 1 Mar 93 09:34:08 PST) - anon.penet.fi hacking - _Hal \<74076.1041@CompuServe.COM\>_
   + 1993-03-03 (Tue, 2 Mar 93 23:40:45 PST) - [Re: anon.penet.fi hacking](/archive/1993/03/fd4bae87bd4baa2917237da385aceb09c8af9a4a14fd5ca5ba8d7bfda1569e5c) - _Eli Brandt \<ebrandt@jarthur.Claremont.EDU\>_

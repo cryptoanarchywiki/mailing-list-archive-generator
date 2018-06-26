@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: black_unicorn_unicorn_at_access3_digex_net_
+post_count: 1
 ---
 
-# Black Unicorn <unicorn@access3.digex.net> (1 posts)
+# Black Unicorn <unicorn<span>@</span>access3.digex.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: sameer \<sameer@c2.net\><br>
 Message Hash: b64232763aaee0cfa44bf0941ee49e1c6d0eba431fab081ebdc77d8fae9c7aaf<br>
 Message ID: \<199702010755.XAA09518@toad.com\><br>
@@ -74,6 +74,8 @@ At 11:50 AM 1/31/97 -0800, sameer wrote:
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1997-02-01 (Fri, 31 Jan 1997 23:55:43 -0800 (PST)) - Re: Cats Out of Bags - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: abusebot_at_savetrees_com_mail_autoresponder_
+post_count: 1
 ---
 
-# abusebot@savetrees.com (Mail AutoResponder) (1 posts)
+# abusebot<span>@</span>savetrees.com (Mail AutoResponder) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

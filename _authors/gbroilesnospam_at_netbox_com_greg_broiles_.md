@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gbroilesnospam_at_netbox_com_greg_broiles_
+post_count: 2
 ---
 
-# gbroiles-nospam@netbox.com (Greg Broiles) (2 posts)
+# gbroiles-nospam<span>@</span>netbox.com (Greg Broiles) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

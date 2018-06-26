@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 7dca9adfc03e53e78e65fab5c6eee34e0bc6c444d467a42cbc0a3a8bdcaa70d5<br>
 Message ID: \<199801182057.VAA18102@basement.replay.com\><br>
@@ -59,6 +59,9 @@ macro viruses, that's beyond 'deficiencies' it's utter incompetance...
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[bill payne <billp<span>@</span>nmol.com>](/author/bill_payne_billp_at_nmol_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1998-01-18 (Sun, 18 Jan 1998 23:35:29 +0800) - [diplomacy](/archive/1998/01/37eef120f9cb6e74df170aeddec76ac9a5b82ed20635f939b06160ca5202140a) - _bill payne \<billp@nmol.com\>_
   + 1998-01-18 (Mon, 19 Jan 1998 05:02:12 +0800) - Re: diplomacy - _nobody@REPLAY.COM (Anonymous)_

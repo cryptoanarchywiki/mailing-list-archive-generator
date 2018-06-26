@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mr_nobody_mixmaster_at_anon_alias_net_
+post_count: 4
 ---
 
-# "Mr. Nobody" <mixmaster@anon.alias.net> (4 posts)
+# "Mr. Nobody" <mixmaster<span>@</span>anon.alias.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

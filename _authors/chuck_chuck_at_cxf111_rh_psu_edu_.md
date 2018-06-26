@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chuck_chuck_at_cxf111_rh_psu_edu_
+post_count: 2
 ---
 
-# chuck <chuck@cxf111.rh.psu.edu> (2 posts)
+# chuck <chuck<span>@</span>cxf111.rh.psu.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

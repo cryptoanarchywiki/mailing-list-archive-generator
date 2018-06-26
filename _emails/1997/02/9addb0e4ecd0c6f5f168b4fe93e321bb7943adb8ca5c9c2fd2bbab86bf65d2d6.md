@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Gilmore \<gnu@toad.com\><br>
+From: John Gilmore \<gnu<span>@</span>toad.com\><br>
 To: Firebeard \<stend@sten.tivoli.com\><br>
 Message Hash: 9addb0e4ecd0c6f5f168b4fe93e321bb7943adb8ca5c9c2fd2bbab86bf65d2d6<br>
 Message ID: \<199702062301.PAA02240@toad.com\><br>
@@ -66,6 +66,8 @@ goes through into the unedited list.  Let me know.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
 
 + 1997-02-06 (Thu, 6 Feb 1997 15:01:41 -0800 (PST)) - Re: "Why am I being completely censored"? - _John Gilmore \<gnu@toad.com\>_
 

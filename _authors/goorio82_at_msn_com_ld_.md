@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: goorio82_at_msn_com_ld_
+post_count: 1
 ---
 
-# goorio82@msn.com (ld) (1 posts)
+# goorio82<span>@</span>msn.com (ld) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

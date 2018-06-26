@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fallen_angel_fallenangel_at_multipro_com_
+post_count: 1
 ---
 
-# Fallen Angel <fallenangel@multipro.com> (1 posts)
+# Fallen Angel <fallenangel<span>@</span>multipro.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

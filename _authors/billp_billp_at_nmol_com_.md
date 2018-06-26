@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: billp_billp_at_nmol_com_
+post_count: 2
 ---
 
-# billp <billp@nmol.com> (2 posts)
+# billp <billp<span>@</span>nmol.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

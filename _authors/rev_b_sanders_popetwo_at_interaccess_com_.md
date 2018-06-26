@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rev_b_sanders_popetwo_at_interaccess_com_
+post_count: 1
 ---
 
-# "Rev. B. Sanders" <popetwo@interaccess.com> (1 posts)
+# "Rev. B. Sanders" <popetwo<span>@</span>interaccess.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

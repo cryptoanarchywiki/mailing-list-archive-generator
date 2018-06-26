@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_f_cassidy_pcassidy_at_world_std_com_
+post_count: 13
 ---
 
-# Peter F Cassidy <pcassidy@world.std.com> (13 posts)
+# Peter F Cassidy <pcassidy<span>@</span>world.std.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

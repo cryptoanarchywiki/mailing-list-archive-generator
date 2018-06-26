@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cmckie_at_ccs_carleton_ca_craig_mckie_
+post_count: 4
 ---
 
-# cmckie@ccs.carleton.ca (Craig McKie) (4 posts)
+# cmckie<span>@</span>ccs.carleton.ca (Craig McKie) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

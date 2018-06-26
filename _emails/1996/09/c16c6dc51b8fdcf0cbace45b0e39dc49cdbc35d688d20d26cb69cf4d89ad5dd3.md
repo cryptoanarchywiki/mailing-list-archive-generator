@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Timothy C. May" \<tcmay@got.net\><br>
+From: "Timothy C. May" \<tcmay<span>@</span>got.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: c16c6dc51b8fdcf0cbace45b0e39dc49cdbc35d688d20d26cb69cf4d89ad5dd3<br>
 Message ID: \<v03007806ae746a3db7ef@[207.167.93.63]\><br>
@@ -76,6 +76,12 @@ Higher Power: 2^1,257,787-1 | black markets, collapse of governments.
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Gary Howland <gary<span>@</span>systemics.com>](/author/gary_howland_gary_at_systemics_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
 
 + 1996-09-28 (Sun, 29 Sep 1996 03:53:56 +0800) - [Re: crypto anarchy vs AP](/archive/1996/09/ff32fdd04db1b615378310c0c9f092be79fb345627e0f7f405c5fd382f54b3ee) - _jim bell \<jimbell@pacifier.com\>_
   + 1996-09-28 (Sun, 29 Sep 1996 06:29:32 +0800) - [Re: crypto anarchy vs AP](/archive/1996/09/cf565ce8d134fb3b2a97ffd2d52584c0c9b5290c03e28c0ed2ce6669b81d5e1b) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

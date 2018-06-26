@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Deranged Mutant" \<WlkngOwl@unix.asb.com\><br>
+From: "Deranged Mutant" \<WlkngOwl<span>@</span>unix.asb.com\><br>
 To: perry@piermont.com<br>
 Message Hash: dc43f4da7ed1a8abfb58ce22d59b67073990e3bbaf0109bdef911bc7a0acd1fa<br>
 Message ID: \<199607092154.RAA24955@unix.asb.com\><br>
@@ -57,6 +57,8 @@ Send a message with the subject "send pgp-key" for a copy of my key.
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/author/deranged_mutant_wlkngowl_at_unix_asb_com_)"
 
 + 1996-07-10 (Wed, 10 Jul 1996 16:03:01 +0800) - Re: [RANT] Giving Mind Control Drugs to Children - _"Deranged Mutant" \<WlkngOwl@unix.asb.com\>_
 

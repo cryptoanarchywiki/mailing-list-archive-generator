@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_at_itconsult_co_uk_matthew_richardson_
+post_count: 7
 ---
 
-# matthew@itconsult.co.uk (Matthew Richardson) (7 posts)
+# matthew<span>@</span>itconsult.co.uk (Matthew Richardson) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

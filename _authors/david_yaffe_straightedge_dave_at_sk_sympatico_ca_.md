@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_yaffe_straightedge_dave_at_sk_sympatico_ca_
+post_count: 6
 ---
 
-# David Yaffe <straightedge.dave@sk.sympatico.ca> (6 posts)
+# David Yaffe <straightedge.dave<span>@</span>sk.sympatico.ca> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

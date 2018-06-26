@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mlm_at_netscape_com_mike_mccool_
+post_count: 1
 ---
 
-# mlm@netscape.com (Mike McCool) (1 posts)
+# mlm<span>@</span>netscape.com (Mike McCool) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

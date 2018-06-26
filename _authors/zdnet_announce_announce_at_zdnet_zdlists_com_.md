@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zdnet_announce_announce_at_zdnet_zdlists_com_
+post_count: 2
 ---
 
-# "ZDNet Announce" <announce@zdnet.zdlists.com> (2 posts)
+# "ZDNet Announce" <announce<span>@</span>zdnet.zdlists.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

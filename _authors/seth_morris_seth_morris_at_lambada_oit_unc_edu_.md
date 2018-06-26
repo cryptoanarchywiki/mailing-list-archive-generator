@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: seth_morris_seth_morris_at_lambada_oit_unc_edu_
+post_count: 12
 ---
 
-# Seth Morris <Seth.Morris@lambada.oit.unc.edu> (12 posts)
+# Seth Morris <Seth.Morris<span>@</span>lambada.oit.unc.edu> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

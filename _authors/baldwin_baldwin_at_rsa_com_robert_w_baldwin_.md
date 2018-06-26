@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: baldwin_baldwin_at_rsa_com_robert_w_baldwin_
+post_count: 24
 ---
 
-# "baldwin" <baldwin@RSA.COM (Robert W. Baldwin)> (24 posts)
+# "baldwin" <baldwin<span>@</span>RSA.COM (Robert W. Baldwin)> (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

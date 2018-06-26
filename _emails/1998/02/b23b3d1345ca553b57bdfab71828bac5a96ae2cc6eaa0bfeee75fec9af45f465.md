@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>ssz.com\><br>
 To: users@ssz.com (SSZ User Mail List)<br>
 Message Hash: b23b3d1345ca553b57bdfab71828bac5a96ae2cc6eaa0bfeee75fec9af45f465<br>
 Message ID: \<199802042241.QAA06983@einstein.ssz.com\><br>
@@ -76,6 +76,8 @@ Forwarded message:
 ## Thread
 
 + Return to [February 1998](/archive/1998/02)
+
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-02-04 (Thu, 5 Feb 1998 06:40:56 +0800) - IBM cpu breaks 1GHz barrier [CNN] - _Jim Choate \<ravage@ssz.com\>_
 

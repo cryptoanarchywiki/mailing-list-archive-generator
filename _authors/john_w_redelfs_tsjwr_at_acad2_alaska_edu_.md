@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_w_redelfs_tsjwr_at_acad2_alaska_edu_
+post_count: 3
 ---
 
-# "John W. Redelfs" <TSJWR@acad2.alaska.edu> (3 posts)
+# "John W. Redelfs" <TSJWR<span>@</span>acad2.alaska.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

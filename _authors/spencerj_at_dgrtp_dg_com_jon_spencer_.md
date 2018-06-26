@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: spencerj_at_dgrtp_dg_com_jon_spencer_
+post_count: 1
 ---
 
-# spencerj@dg-rtp.dg.com (Jon Spencer) (1 posts)
+# spencerj<span>@</span>dg-rtp.dg.com (Jon Spencer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

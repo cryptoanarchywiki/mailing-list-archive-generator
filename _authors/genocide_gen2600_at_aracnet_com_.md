@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: genocide_gen2600_at_aracnet_com_
+post_count: 16
 ---
 
-# Genocide <gen2600@aracnet.com> (16 posts)
+# Genocide <gen2600<span>@</span>aracnet.com> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

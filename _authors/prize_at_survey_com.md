@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: prize_at_survey_com
+post_count: 2
 ---
 
-# prize@survey.com (2 posts)
+# prize<span>@</span>survey.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

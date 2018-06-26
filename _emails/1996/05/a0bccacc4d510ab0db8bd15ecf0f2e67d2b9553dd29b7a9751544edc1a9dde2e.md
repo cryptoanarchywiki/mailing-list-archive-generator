@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: "Pablo Escobar" \<vznuri@netcom.com\><br>
 Message Hash: a0bccacc4d510ab0db8bd15ecf0f2e67d2b9553dd29b7a9751544edc1a9dde2e<br>
 Message ID: \<adaffd66050210048aa0@[205.199.118.202]\><br>
@@ -55,6 +55,9 @@ On occasion we meet to do a Vulcan mind-meld and adopt new identities.
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-05-04 (Sat, 4 May 1996 16:53:34 +0800) - Re: proposed anti-pseudospoofing law in Georgia - _tcmay@got.net (Timothy C. May)_
   + 1996-05-04 (Sat, 4 May 1996 22:25:39 +0800) - [Re: proposed anti-pseudospoofing law in Georgia](/archive/1996/05/9262657a63b36a1987c92f9b541b12347d8083c60cd5697fa1084a7afce6ca8f) - _Robert Hettinga \<rah@shipwright.com\>_

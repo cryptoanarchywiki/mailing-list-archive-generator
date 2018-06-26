@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: p_j_ponder_ponder_at_waneleonmail_scri_fsu_edu_
+post_count: 22
 ---
 
-# "P.J. Ponder" <ponder@wane-leon-mail.scri.fsu.edu> (22 posts)
+# "P.J. Ponder" <ponder<span>@</span>wane-leon-mail.scri.fsu.edu> (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

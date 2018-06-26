@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: firebrd123_at_ns_interconnect_net_firebrd123_
+post_count: 1
 ---
 
-# firebrd123@ns.interconnect.net (Firebrd123) (1 posts)
+# firebrd123<span>@</span>ns.interconnect.net (Firebrd123) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

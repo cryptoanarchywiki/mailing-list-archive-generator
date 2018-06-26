@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: johnl_at_radix_net_john_a_limpert_
+post_count: 2
 ---
 
-# johnl@radix.net (John A. Limpert) (2 posts)
+# johnl<span>@</span>radix.net (John A. Limpert) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

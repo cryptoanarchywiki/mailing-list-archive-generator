@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: r_j_blakemore_cs94rjb_at_dcs_ex_ac_uk_
+post_count: 1
 ---
 
-# "R.J.Blakemore" <cs94rjb@dcs.ex.ac.uk> (1 posts)
+# "R.J.Blakemore" <cs94rjb<span>@</span>dcs.ex.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

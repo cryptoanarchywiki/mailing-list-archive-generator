@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: asgaard_asgaard_at_sos_sll_se_
+post_count: 31
 ---
 
-# Asgaard <asgaard@sos.sll.se> (31 posts)
+# Asgaard <asgaard<span>@</span>sos.sll.se> (31 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

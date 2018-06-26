@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jonathan Zamick \<JonathanZ@consensus.com\><br>
+From: Jonathan Zamick \<JonathanZ<span>@</span>consensus.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 61e84d4632afbd4eb87990d4aeb5e65fbafe4ade8cca9a625ff6eb6a0d734f9e<br>
 Message ID: \<v02120d01ad297b95a32c@[157.22.240.13]\><br>
@@ -105,6 +105,8 @@ Jonathan
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[Jonathan Zamick <JonathanZ<span>@</span>consensus.com>](/author/jonathan_zamick_jonathanz_at_consensus_com_)"
 
 + 1996-01-22 (Mon, 22 Jan 96 09:40:05 PST) - An IDEA whose time has come (Notes from the RSA Conference) - _Jonathan Zamick \<JonathanZ@consensus.com\>_
 

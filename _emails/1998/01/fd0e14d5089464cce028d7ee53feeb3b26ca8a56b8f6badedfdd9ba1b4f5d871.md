@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: fd0e14d5089464cce028d7ee53feeb3b26ca8a56b8f6badedfdd9ba1b4f5d871<br>
 Message ID: \<kPL7Je15w165w@bwalk.dm.com\><br>
@@ -47,6 +47,8 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
 
 + 1998-01-31 (Sun, 1 Feb 1998 03:11:13 +0800) - Dr Dobbs crypto CD - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 

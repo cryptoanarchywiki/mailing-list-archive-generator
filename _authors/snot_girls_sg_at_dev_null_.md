@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: snot_girls_sg_at_dev_null_
+post_count: 1
 ---
 
-# Snot Girls <sg@dev.null> (1 posts)
+# Snot Girls <sg<span>@</span>dev.null> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lithron_lithron_at_bellsouth_net_
+post_count: 1
 ---
 
-# lithron <lithron@bellsouth.net> (1 posts)
+# lithron <lithron<span>@</span>bellsouth.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

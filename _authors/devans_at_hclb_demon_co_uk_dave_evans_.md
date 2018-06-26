@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: devans_at_hclb_demon_co_uk_dave_evans_
+post_count: 3
 ---
 
-# devans@hclb.demon.co.uk (Dave Evans) (3 posts)
+# devans<span>@</span>hclb.demon.co.uk (Dave Evans) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

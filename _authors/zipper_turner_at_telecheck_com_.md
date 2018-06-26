@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zipper_turner_at_telecheck_com_
+post_count: 1
 ---
 
-# Zipper <turner@telecheck.com> (1 posts)
+# Zipper <turner<span>@</span>telecheck.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

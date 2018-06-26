@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tburns_at_mason1_gmu_edu_t_david_burns_
+post_count: 1
 ---
 
-# tburns@mason1.gmu.edu (T. David Burns) (1 posts)
+# tburns<span>@</span>mason1.gmu.edu (T. David Burns) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

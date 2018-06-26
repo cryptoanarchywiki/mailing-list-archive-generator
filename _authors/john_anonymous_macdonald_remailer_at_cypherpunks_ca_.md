@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_anonymous_macdonald_remailer_at_cypherpunks_ca_
+post_count: 9
 ---
 
-# John Anonymous MacDonald <remailer@cypherpunks.ca> (9 posts)
+# John Anonymous MacDonald <remailer<span>@</span>cypherpunks.ca> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

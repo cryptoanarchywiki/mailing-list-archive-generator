@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Toto \<toto@sk.sympatico.ca\><br>
+From: Toto \<toto<span>@</span>sk.sympatico.ca\><br>
 To: Blanc Weber \<blancw@MICROSOFT.com\><br>
 Message Hash: 5d61b55410c32e4dcdfdf08f6ed61cfb657d8b7ad9115befcfca4cfee87c5ade<br>
 Message ID: \<32E41D5E.4C62@sk.sympatico.ca\><br>
@@ -48,6 +48,9 @@ Toto
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Blanc Weber <blancw<span>@</span>MICROSOFT.com>](/author/blanc_weber_blancw_at_microsoft_com_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-01-20 (Mon, 20 Jan 1997 09:40:09 -0800 (PST)) - [RE: Take it to sci.math](/archive/1997/01/9eebaf7e09a9c18966f83bc6e201e34b69d072591c0db5edfc3cf834530c1211) - _Blanc Weber \<blancw@MICROSOFT.com\>_
   + 1997-01-21 (Mon, 20 Jan 1997 16:11:41 -0800 (PST)) - Re: Take it to sci.math - _Toto \<toto@sk.sympatico.ca\>_

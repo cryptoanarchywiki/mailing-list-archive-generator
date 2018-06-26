@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rob_p_martin_rpmartin_at_acs_ucalgary_ca_
+post_count: 3
 ---
 
-# Rob P. Martin <rpmartin@acs.ucalgary.ca> (3 posts)
+# Rob P. Martin <rpmartin<span>@</span>acs.ucalgary.ca> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

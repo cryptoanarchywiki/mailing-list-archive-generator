@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: biqa_at_uspacmall_com_uspacmall_
+post_count: 1
 ---
 
-# biqa@uspacmall.com (USPACMALL) (1 posts)
+# biqa<span>@</span>uspacmall.com (USPACMALL) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

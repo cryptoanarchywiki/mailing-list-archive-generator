@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adam Back \<aba@dcs.ex.ac.uk\><br>
+From: Adam Back \<aba<span>@</span>dcs.ex.ac.uk\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fb0b06f4002611df3cd7e2edf7dc5ca05b48bef3bae8bbcfedf7f29e7ac15ff5<br>
 Message ID: \<199609222158.WAA00325@server.test.net\><br>
@@ -112,6 +112,8 @@ lK[d2%Sa2/d0$^Ixp"|dc`;s/\W//g;$_=pack('H*',/((..)*)$/)
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
 
 + 1996-09-23 (Mon, 23 Sep 1996 12:26:35 +0800) - provably hard PK cryptosystems - _Adam Back \<aba@dcs.ex.ac.uk\>_
 

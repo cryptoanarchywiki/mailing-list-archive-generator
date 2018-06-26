@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gburnore_at_netcom_com_gary_l_burnore_
+post_count: 2
 ---
 
-# gburnore@netcom.com (Gary L. Burnore) (2 posts)
+# gburnore<span>@</span>netcom.com (Gary L. Burnore) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

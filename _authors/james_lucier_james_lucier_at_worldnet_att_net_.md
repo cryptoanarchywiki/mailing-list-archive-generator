@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_lucier_james_lucier_at_worldnet_att_net_
+post_count: 1
 ---
 
-# "James Lucier" <james.lucier@worldnet.att.net> (1 posts)
+# "James Lucier" <james.lucier<span>@</span>worldnet.att.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

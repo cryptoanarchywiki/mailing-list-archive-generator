@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mench_at_cs_unr_edu_peter_j_menchetti_
+post_count: 3
 ---
 
-# mench@cs.unr.edu (Peter J Menchetti) (3 posts)
+# mench<span>@</span>cs.unr.edu (Peter J Menchetti) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

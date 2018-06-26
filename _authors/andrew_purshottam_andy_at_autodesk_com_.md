@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_purshottam_andy_at_autodesk_com_
+post_count: 13
 ---
 
-# Andrew Purshottam <andy@autodesk.com> (13 posts)
+# Andrew Purshottam <andy<span>@</span>autodesk.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_hrabinsky_peter_james_hrabinsky_at_eagle_wbm_ca_
+post_count: 1
 ---
 
-# "Peter Hrabinsky" <Peter.James.Hrabinsky@eagle.wbm.ca> (1 posts)
+# "Peter Hrabinsky" <Peter.James.Hrabinsky<span>@</span>eagle.wbm.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

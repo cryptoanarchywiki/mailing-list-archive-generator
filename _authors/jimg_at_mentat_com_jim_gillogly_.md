@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jimg_at_mentat_com_jim_gillogly_
+post_count: 7
 ---
 
-# jimg@mentat.com (Jim Gillogly) (7 posts)
+# jimg<span>@</span>mentat.com (Jim Gillogly) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

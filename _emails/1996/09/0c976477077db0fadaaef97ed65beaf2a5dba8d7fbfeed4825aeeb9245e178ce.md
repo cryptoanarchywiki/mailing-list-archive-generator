@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@cypherpunks.ca (John Anonymous MacDonald)<br>
+From: nobody<span>@</span>cypherpunks.ca (John Anonymous MacDonald)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0c976477077db0fadaaef97ed65beaf2a5dba8d7fbfeed4825aeeb9245e178ce<br>
 Message ID: \<199609061523.IAA29080@abraham.cs.berkeley.edu\><br>
@@ -51,6 +51,12 @@ Do they have a bomb squad destroy it (could get expensive if a lot of
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "["<pstira<span>@</span>escape.com>" <pstira<span>@</span>escape.com>](/author/_pstira_at_escape_com__pstira_at_escape_com_)"
++ Return to "[David Lesher <wb8foz<span>@</span>nrk.com>](/author/david_lesher_wb8foz_at_nrk_com_)"
++ Return to "[JonWienk<span>@</span>ix.netcom.com](/author/jonwienk_at_ix_netcom_com)"
++ Return to "[nobody<span>@</span>cypherpunks.ca (John Anonymous MacDonald)](/author/nobody_at_cypherpunks_ca_john_anonymous_macdonald_)"
++ Return to "["Omegaman" <omega<span>@</span>bigeasy.com>](/author/omegaman_omega_at_bigeasy_com_)"
 
 + 1996-09-06 (Fri, 6 Sep 1996 19:25:15 +0800) - [Re: What is the EFF doing exactly?](/archive/1996/09/39006694505002a17049890f7e3df76a8991a226dc2a399cc70764f7cae9c309) - _"Omegaman" \<omega@bigeasy.com\>_
   + 1996-09-06 (Fri, 6 Sep 1996 23:27:01 +0800) - [16oz packages](/archive/1996/09/153f13445451d187aa0643d3c8b6c8ca998e4e7465ed09471b057739db6ff6bf) - _David Lesher \<wb8foz@nrk.com\>_

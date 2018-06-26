@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_a_licquia_jalicqui_at_prairienet_org_
+post_count: 2
 ---
 
-# Jeff A Licquia <jalicqui@prairienet.org> (2 posts)
+# Jeff A Licquia <jalicqui<span>@</span>prairienet.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

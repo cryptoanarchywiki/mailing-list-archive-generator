@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bbrown_at_coos_dartmouth_edu_brice_a_brown_
+post_count: 2
 ---
 
-# bbrown@coos.dartmouth.edu (Brice A. Brown) (2 posts)
+# bbrown<span>@</span>coos.dartmouth.edu (Brice A. Brown) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

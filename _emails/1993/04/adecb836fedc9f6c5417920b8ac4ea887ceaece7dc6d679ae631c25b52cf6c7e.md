@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "John (FuzzFace/Fast-Eddie) McMahon" \<MCMAHON@Eisner.DECUS.Org\><br>
+From: "John (FuzzFace/Fast-Eddie) McMahon" \<MCMAHON<span>@</span>Eisner.DECUS.Org\><br>
 To: Cypherpunks@toad.com<br>
 Message Hash: adecb836fedc9f6c5417920b8ac4ea887ceaece7dc6d679ae631c25b52cf6c7e<br>
 Message ID: \<01GXH67HAH8Y001HDW@Eisner.DECUS.Org\><br>
@@ -49,6 +49,8 @@ Fuzz
 ## Thread
 
 + Return to [April 1993](/archive/1993/04)
+
++ Return to "["John (FuzzFace/Fast-Eddie) McMahon" <MCMAHON<span>@</span>Eisner.DECUS.Org>](/author/john_fuzzfacefasteddie_mcmahon_mcmahon_at_eisner_decus_org_)"
 
 + 1993-04-26 (Mon, 26 Apr 93 15:27:12 PDT) - Re: MEETING SUMMARY: 4-24-93 Cypherpunks Meeting - _"John (FuzzFace/Fast-Eddie) McMahon" \<MCMAHON@Eisner.DECUS.Org\>_
 

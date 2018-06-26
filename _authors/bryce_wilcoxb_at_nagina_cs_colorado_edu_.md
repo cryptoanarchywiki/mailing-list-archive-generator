@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bryce_wilcoxb_at_nagina_cs_colorado_edu_
+post_count: 36
 ---
 
-# Bryce <wilcoxb@nagina.cs.colorado.edu> (36 posts)
+# Bryce <wilcoxb<span>@</span>nagina.cs.colorado.edu> (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

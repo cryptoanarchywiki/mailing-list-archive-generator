@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. ALLEN SMITH" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: tcmay@got.net<br>
 Message Hash: d461adadf5fb9d6736916cbb09ff01c6bffd0326ac7e2647dcc9b9aee8c4dcef<br>
 Message ID: \<01I4ONUV5GI88Y5D1N@mbcl.rutgers.edu\><br>
@@ -52,6 +52,8 @@ before.
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-05-14 (Tue, 14 May 1996 22:59:32 +0800) - Re: Fingerprinting annoyance - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

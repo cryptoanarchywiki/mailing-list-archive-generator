@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adam Back \<aba@dcs.ex.ac.uk\><br>
+From: Adam Back \<aba<span>@</span>dcs.ex.ac.uk\><br>
 To: eternity@internexus.net<br>
 Message Hash: 5c9d86e70edee2aafc25d75b499eb3b9f00e90db680beeac29ccccbb4ab6da8f<br>
 Message ID: \<199801132146.VAA00420@server.eternity.org\><br>
@@ -70,6 +70,8 @@ Adam
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
 
 + 1998-01-13 (Wed, 14 Jan 1998 07:31:18 +0800) - load balancing web proxy and server networks - _Adam Back \<aba@dcs.ex.ac.uk\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rtfm_rtfm_at_ctrlaltdel_com_
+post_count: 1
 ---
 
-# RTFM <rtfm@ctrl-alt-del.com> (1 posts)
+# RTFM <rtfm<span>@</span>ctrl-alt-del.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

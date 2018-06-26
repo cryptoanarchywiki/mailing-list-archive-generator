@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: willer_at_carolian_com_steve_willer_
+post_count: 5
 ---
 
-# willer@carolian.com (Steve Willer) (5 posts)
+# willer<span>@</span>carolian.com (Steve Willer) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

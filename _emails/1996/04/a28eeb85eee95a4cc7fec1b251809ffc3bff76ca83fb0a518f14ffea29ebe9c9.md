@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a28eeb85eee95a4cc7fec1b251809ffc3bff76ca83fb0a518f14ffea29ebe9c9<br>
 Message ID: \<199604060252.VAA22047@pipe2.nyc.pipeline.com\><br>
@@ -86,6 +86,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1996-04-06 (Sat, 6 Apr 1996 17:31:56 +0800) - Re: e$ Signorage - _John Young \<jya@pipeline.com\>_
 

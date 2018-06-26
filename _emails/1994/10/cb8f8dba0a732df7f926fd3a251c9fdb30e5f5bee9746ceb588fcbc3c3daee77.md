@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: cb8f8dba0a732df7f926fd3a251c9fdb30e5f5bee9746ceb588fcbc3c3daee77<br>
 Message ID: \<199410012056.QAA11171@pipe3.pipeline.com\><br>
@@ -89,6 +89,10 @@ END
 ## Thread
 
 + Return to [October 1994](/archive/1994/10)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "["M. Hedlund" <hedlund<span>@</span>halcyon.com>](/author/m_hedlund_hedlund_at_halcyon_com_)"
++ Return to "[pstemari<span>@</span>bismark.cbis.com (Paul J. Ste. Marie)](/author/pstemari_at_bismark_cbis_com_paul_j_ste_marie_)"
 
 + 1994-10-01 (Sat, 1 Oct 94 13:56:51 PDT) - EFFy Wiretap Win? - _John Young \<jya@pipeline.com\>_
   + 1994-10-03 (Mon, 3 Oct 94 04:15:51 PDT) - [EFFy Wiretap Win?](/archive/1994/10/05062309010d651e7246a223a135c7766828d8f2adf5672ab751bdcf26642005) - _pstemari@bismark.cbis.com (Paul J. Ste. Marie)_

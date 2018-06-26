@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uunetin2_uu_netpsinntppsinntppsinntpinterramp_comusenet_at_warwick_com_alan_beale_
+post_count: 1
 ---
 
-# uunet!in2.uu.net!psinntp!psinntp!psinntp!interramp.com!usenet@warwick.com (Alan Beale) (1 posts)
+# uunet!in2.uu.net!psinntp!psinntp!psinntp!interramp.com!usenet<span>@</span>warwick.com (Alan Beale) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

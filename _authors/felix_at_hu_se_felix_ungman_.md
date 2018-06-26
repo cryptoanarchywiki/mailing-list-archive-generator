@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: felix_at_hu_se_felix_ungman_
+post_count: 6
 ---
 
-# felix@hu.se (Felix Ungman) (6 posts)
+# felix<span>@</span>hu.se (Felix Ungman) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

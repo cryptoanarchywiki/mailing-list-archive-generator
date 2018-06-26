@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lone_wolf_gt6511a_at_cad_gatech_edu_
+post_count: 2
 ---
 
-# Lone_Wolf <gt6511a@cad.gatech.edu> (2 posts)
+# Lone_Wolf <gt6511a<span>@</span>cad.gatech.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

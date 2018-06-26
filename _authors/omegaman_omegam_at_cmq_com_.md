@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: omegaman_omegam_at_cmq_com_
+post_count: 7
 ---
 
-# Omegaman <omegam@cmq.com> (7 posts)
+# Omegaman <omegam<span>@</span>cmq.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

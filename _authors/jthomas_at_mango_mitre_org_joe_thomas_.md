@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jthomas_at_mango_mitre_org_joe_thomas_
+post_count: 6
 ---
 
-# jthomas@mango.mitre.org (Joe Thomas) (6 posts)
+# jthomas<span>@</span>mango.mitre.org (Joe Thomas) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phil_helms_phil_at_cccs_cccoes_edu_
+post_count: 1
 ---
 
-# Phil Helms <phil@cccs.cccoes.edu> (1 posts)
+# Phil Helms <phil<span>@</span>cccs.cccoes.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_van_de_wiele_tomvdw_at_glo_be_
+post_count: 1
 ---
 
-# "Tom Van de Wiele" <tomvdw@glo.be> (1 posts)
+# "Tom Van de Wiele" <tomvdw<span>@</span>glo.be> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

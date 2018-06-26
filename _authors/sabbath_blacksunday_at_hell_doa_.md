@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sabbath_blacksunday_at_hell_doa_
+post_count: 1
 ---
 
-# +Sabbath+ <BlackSunday@Hell.DOA> (1 posts)
+# +Sabbath+ <BlackSunday<span>@</span>Hell.DOA> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

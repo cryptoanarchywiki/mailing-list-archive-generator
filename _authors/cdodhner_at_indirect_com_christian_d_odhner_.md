@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cdodhner_at_indirect_com_christian_d_odhner_
+post_count: 20
 ---
 
-# cdodhner@indirect.com (Christian D. Odhner) (20 posts)
+# cdodhner<span>@</span>indirect.com (Christian D. Odhner) (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

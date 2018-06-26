@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_patton_patton_at_sysnet_net_
+post_count: 1
 ---
 
-# Matthew Patton <patton@sysnet.net> (1 posts)
+# Matthew Patton <patton<span>@</span>sysnet.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

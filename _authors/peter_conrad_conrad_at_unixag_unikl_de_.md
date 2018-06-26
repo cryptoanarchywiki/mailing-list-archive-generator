@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_conrad_conrad_at_unixag_unikl_de_
+post_count: 2
 ---
 
-# Peter Conrad <conrad@unix-ag.uni-kl.de> (2 posts)
+# Peter Conrad <conrad<span>@</span>unix-ag.uni-kl.de> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

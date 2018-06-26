@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_b_fleming_flemingj_at_wabash_edu_
+post_count: 1
 ---
 
-# "John B. Fleming" <FLEMINGJ@WABASH.EDU> (1 posts)
+# "John B. Fleming" <FLEMINGJ<span>@</span>WABASH.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

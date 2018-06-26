@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonwienk_at_ix_netcom_com_jonathan_l_wienke_
+post_count: 1
 ---
 
-# jonwienk@ix.netcom.com (Jonathan L Wienke) (1 posts)
+# jonwienk<span>@</span>ix.netcom.com (Jonathan L Wienke) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

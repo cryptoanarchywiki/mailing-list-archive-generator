@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: open_net_postmaster_postmaster_at_opennet_net_au_
+post_count: 50
 ---
 
-# Open Net Postmaster <postmaster@opennet.net.au> (50 posts)
+# Open Net Postmaster <postmaster<span>@</span>opennet.net.au> (50 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

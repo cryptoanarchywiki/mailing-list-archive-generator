@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: agermain_at_cmp_com_germain_arthur_
+post_count: 25
 ---
 
-# agermain@cmp.com (Germain Arthur) (25 posts)
+# agermain<span>@</span>cmp.com (Germain Arthur) (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

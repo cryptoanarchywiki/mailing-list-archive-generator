@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: disney_online_site_admin_at_online_disney_com_
+post_count: 1
 ---
 
-# Disney Online <site_admin@online.disney.com> (1 posts)
+# Disney Online <site_admin<span>@</span>online.disney.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

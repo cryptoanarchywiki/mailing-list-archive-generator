@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_heidegger_rh_at_dev_null_
+post_count: 1
 ---
 
-# Robert Heidegger <rh@dev.null> (1 posts)
+# Robert Heidegger <rh<span>@</span>dev.null> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

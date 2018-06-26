@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pramote_j__pramotej_at_thai_com_
+post_count: 3
 ---
 
-# "Pramote J." <pramotej@thai.com> (3 posts)
+# "Pramote J." <pramotej<span>@</span>thai.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sglass_at_netcom_com_sheldon_glass_
+post_count: 2
 ---
 
-# sglass@netcom.com (Sheldon Glass) (2 posts)
+# sglass<span>@</span>netcom.com (Sheldon Glass) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

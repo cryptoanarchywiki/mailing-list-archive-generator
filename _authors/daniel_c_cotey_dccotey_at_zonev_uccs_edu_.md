@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_c_cotey_dccotey_at_zonev_uccs_edu_
+post_count: 1
 ---
 
-# "Daniel C. Cotey" <dccotey@zonev.uccs.edu> (1 posts)
+# "Daniel C. Cotey" <dccotey<span>@</span>zonev.uccs.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

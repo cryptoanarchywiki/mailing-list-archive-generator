@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gscottimsbradenounsic1odosprmdalcanetadmdtelemailcus_at_alcatel_aud_alcatel_com
+post_count: 1
 ---
 
-# /G=Scott/I=M/S=Braden/OU=nsic1/O=DOS/PRMD=ALCANET/ADMD=TELEMAIL/C=US/@alcatel.aud.alcatel.com (1 posts)
+# /G=Scott/I=M/S=Braden/OU=nsic1/O=DOS/PRMD=ALCANET/ADMD=TELEMAIL/C=US/<span>@</span>alcatel.aud.alcatel.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: glen_mcbride_at_baynetworks_com_glen_mcbride_
+post_count: 1
 ---
 
-# GLEN_MCBRIDE@BayNetworks.com (Glen McBride) (1 posts)
+# GLEN_MCBRIDE<span>@</span>BayNetworks.com (Glen McBride) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

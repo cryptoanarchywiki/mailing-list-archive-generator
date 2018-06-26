@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: frissell@panix.com (Duncan Frissell)<br>
+From: frissell<span>@</span>panix.com (Duncan Frissell)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 06b2c82696917fd79e30ec62b0db9e056dfc23beeec1fa863bfedfffadfcc1a6<br>
 Message ID: \<199407141357.AA22955@panix.com\><br>
@@ -70,6 +70,8 @@ Desperately seeking HTML expert for (paid) consulting and handholding.
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[frissell<span>@</span>panix.com (Duncan Frissell)](/author/frissell_at_panix_com_duncan_frissell_)"
 
 + 1994-07-14 (Thu, 14 Jul 94 06:57:49 PDT) - Re: NATIONAL SECURITY PORN RISK - _frissell@panix.com (Duncan Frissell)_
 

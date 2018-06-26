@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lurker_lurker_at_mail_tcbi_com_
+post_count: 7
 ---
 
-# "Lurker" <lurker@mail.tcbi.com> (7 posts)
+# "Lurker" <lurker<span>@</span>mail.tcbi.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

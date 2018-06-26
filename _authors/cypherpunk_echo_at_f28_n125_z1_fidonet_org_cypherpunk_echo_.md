@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cypherpunk_echo_at_f28_n125_z1_fidonet_org_cypherpunk_echo_
+post_count: 1
 ---
 
-# Cypherpunk.Echo@f28.n125.z1.FIDONET.ORG (Cypherpunk Echo) (1 posts)
+# Cypherpunk.Echo<span>@</span>f28.n125.z1.FIDONET.ORG (Cypherpunk Echo) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

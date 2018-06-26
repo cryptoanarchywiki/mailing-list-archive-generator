@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: janetdove_at_infosat_com_janet_dove_
+post_count: 1
 ---
 
-# janetdove@infosat.com (Janet Dove) (1 posts)
+# janetdove<span>@</span>infosat.com (Janet Dove) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

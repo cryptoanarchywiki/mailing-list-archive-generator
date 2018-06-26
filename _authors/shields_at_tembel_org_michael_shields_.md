@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shields_at_tembel_org_michael_shields_
+post_count: 31
 ---
 
-# shields@tembel.org (Michael Shields) (31 posts)
+# shields<span>@</span>tembel.org (Michael Shields) (31 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

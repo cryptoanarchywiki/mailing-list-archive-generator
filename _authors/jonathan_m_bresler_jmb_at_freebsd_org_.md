@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathan_m_bresler_jmb_at_freebsd_org_
+post_count: 2
 ---
 
-# "Jonathan M. Bresler" <jmb@FreeBSD.ORG> (2 posts)
+# "Jonathan M. Bresler" <jmb<span>@</span>FreeBSD.ORG> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

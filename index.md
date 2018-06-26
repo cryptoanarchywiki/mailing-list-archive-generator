@@ -19,6 +19,11 @@ layout: default
 + [1998](/archive/1998)
 + [1999](/archive/1999)
 
+## Browse Archive by Author:
+
++ [Authors by Number of Posts (Highest First)](/authors/by-posts/)
++ [Notable Posters (First Name A-Z)](/authors/by-posts/)
+
 ### Basic Information
 
 The following mailing list archive has been compiled using txt dumps available via Ryan Lackey's archive at [cypherpunks.venona.com/raw/](https://cypherpunks.venona.com/raw/).

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: warren_e_agin_agin_at_tiac_net_
+post_count: 3
 ---
 
-# "Warren E. Agin" <agin@tiac.net> (3 posts)
+# "Warren E. Agin" <agin<span>@</span>tiac.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

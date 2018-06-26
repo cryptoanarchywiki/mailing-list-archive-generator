@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hupiu79_at_arbi_informatik_unioldenburg_de_floodgate_
+post_count: 1
 ---
 
-# hupiu79@arbi.informatik.uni-oldenburg.de (Floodgate) (1 posts)
+# hupiu79<span>@</span>arbi.informatik.uni-oldenburg.de (Floodgate) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aegis_at_netcom_com_dale_harrison_
+post_count: 1
 ---
 
-# aegis@netcom.com (Dale Harrison) (1 posts)
+# aegis<span>@</span>netcom.com (Dale Harrison) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

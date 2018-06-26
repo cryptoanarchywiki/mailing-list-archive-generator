@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_townsend_townsend_at_smokin_fly_net_
+post_count: 3
 ---
 
-# Chris Townsend <townsend@smokin.fly.net> (3 posts)
+# Chris Townsend <townsend<span>@</span>smokin.fly.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

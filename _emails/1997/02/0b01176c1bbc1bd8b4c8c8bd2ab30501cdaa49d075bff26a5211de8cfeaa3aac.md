@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Olsen \<alan@ctrl-alt-del.com\><br>
+From: Alan Olsen \<alan<span>@</span>ctrl-alt-del.com\><br>
 To: "E. Allen Smith" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
 Message Hash: 0b01176c1bbc1bd8b4c8c8bd2ab30501cdaa49d075bff26a5211de8cfeaa3aac<br>
 Message ID: \<3.0.1.32.19970215125020.02ca86d0@mail.teleport.com\><br>
@@ -80,6 +80,9 @@ Ptie4DMvz2MSymBYWDPap0rwTLxPK+SOw31I5rUzPdpyA0gjaj/7/Q==
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Alan Olsen <alan<span>@</span>ctrl-alt-del.com>](/author/alan_olsen_alan_at_ctrlaltdel_com_)"
++ Return to "["E. Allen Smith" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1997-02-15 (Fri, 14 Feb 1997 17:12:04 -0800 (PST)) - [RRE: Cybersitter](/archive/1997/02/a3f47f772a33dc757ca3c8bc56dc3440471ce8d8cfdd221d8f06d515c323af07) - _"E. Allen Smith" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
   + 1997-02-15 (Sat, 15 Feb 1997 13:02:00 -0800 (PST)) - Re: RRE: Cybersitter - _Alan Olsen \<alan@ctrl-alt-del.com\>_

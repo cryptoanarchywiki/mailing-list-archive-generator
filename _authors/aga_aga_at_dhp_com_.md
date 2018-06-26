@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aga_aga_at_dhp_com_
+post_count: 115
 ---
 
-# aga <aga@dhp.com> (115 posts)
+# aga <aga<span>@</span>dhp.com> (115 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

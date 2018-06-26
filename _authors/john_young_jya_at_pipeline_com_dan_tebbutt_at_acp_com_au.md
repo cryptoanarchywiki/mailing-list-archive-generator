@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_young_jya_at_pipeline_com_dan_tebbutt_at_acp_com_au
+post_count: 1
 ---
 
-# John Young <jya@pipeline.com>Dan_Tebbutt@acp.com.au (1 posts)
+# John Young <jya<span>@</span>pipeline.com>Dan_Tebbutt<span>@</span>acp.com.au (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

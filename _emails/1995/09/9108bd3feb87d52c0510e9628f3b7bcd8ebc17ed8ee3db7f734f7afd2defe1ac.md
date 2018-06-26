@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: SINCLAIR  DOUGLAS N \<sinclai@ecf.toronto.edu\><br>
+From: SINCLAIR  DOUGLAS N \<sinclai<span>@</span>ecf.toronto.edu\><br>
 To: vznuri@netcom.com (Vladimir Z. Nuri)<br>
 Message Hash: 9108bd3feb87d52c0510e9628f3b7bcd8ebc17ed8ee3db7f734f7afd2defe1ac<br>
 Message ID: \<95Sep3.231607edt.994@cannon.ecf.toronto.edu\><br>
@@ -59,6 +59,9 @@ would solve this, but XOR is still very weak.
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[SINCLAIR  DOUGLAS N <sinclai<span>@</span>ecf.toronto.edu>](/author/sinclair_douglas_n_sinclai_at_ecf_toronto_edu_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1995-09-04 (Sun, 3 Sep 95 18:52:47 PDT) - [maximizing cryptographic return](/archive/1995/09/32fbe29715482d369e0b7ab85f48141f0d01eac41f260813ea7272193aee3bbf) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
   + 1995-09-04 (Sun, 3 Sep 95 20:16:35 PDT) - Re: maximizing cryptographic return - _SINCLAIR  DOUGLAS N \<sinclai@ecf.toronto.edu\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jamie_at_netcom_com_jamie_dinkelacker_
+post_count: 15
 ---
 
-# jamie@netcom.com (Jamie Dinkelacker) (15 posts)
+# jamie<span>@</span>netcom.com (Jamie Dinkelacker) (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

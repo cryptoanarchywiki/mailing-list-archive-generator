@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: pfarrell@cs.gmu.edu (Pat Farrell)<br>
+From: pfarrell<span>@</span>cs.gmu.edu (Pat Farrell)<br>
 To: tytso@ATHENA.MIT.EDU<br>
 Message Hash: cdce0de739bb4cfa648b6029c50522a5bf4ffcf4ffcdc21c8a6c05653afea1f2<br>
 Message ID: \<9211301910.AA11750@cs.gmu.edu\><br>
@@ -83,6 +83,8 @@ Write PKP. Offer money for a personal use license for RSA.
 ## Thread
 
 + Return to [November 1992](/archive/1992/11)
+
++ Return to "[pfarrell<span>@</span>cs.gmu.edu (Pat Farrell)](/author/pfarrell_at_cs_gmu_edu_pat_farrell_)"
 
 + 1992-11-30 (Mon, 30 Nov 92 11:11:12 PST) - Re: Secure Key exchange - _pfarrell@cs.gmu.edu (Pat Farrell)_
 

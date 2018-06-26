@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: vin@shore.net (Vin McLellan)<br>
+From: vin<span>@</span>shore.net (Vin McLellan)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: cb1bbbde1633af49b944904bf445a9876ebeffb09260f8d3fdaedb1e6cd0bf2f<br>
 Message ID: \<v02140b02ade3451bc523@[198.115.179.222]\><br>
@@ -88,6 +88,8 @@ away from a microphone)  is one answer.  Of a sort.
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[vin<span>@</span>shore.net (Vin McLellan)](/author/vin_at_shore_net_vin_mclellan_)"
 
 + 1996-06-12 (Wed, 12 Jun 1996 12:54:37 +0800) - Re: Terrorism Hysteria on the Net - _vin@shore.net (Vin McLellan)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_martin_frodo_g4frodo_at_cdf_toronto_edu_
+post_count: 2
 ---
 
-# Richard Martin ( frodo ) <g4frodo@cdf.toronto.edu> (2 posts)
+# Richard Martin ( frodo ) <g4frodo<span>@</span>cdf.toronto.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

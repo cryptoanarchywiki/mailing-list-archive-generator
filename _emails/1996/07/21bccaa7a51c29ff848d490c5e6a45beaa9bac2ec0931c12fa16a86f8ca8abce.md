@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: David Sternlight \<ota+@transarc.com\><br>
 Message Hash: 21bccaa7a51c29ff848d490c5e6a45beaa9bac2ec0931c12fa16a86f8ca8abce<br>
 Message ID: \<199607232310.QAA29698@mail.pacifier.com\><br>
@@ -95,6 +95,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-07-24 (Wed, 24 Jul 1996 19:42:09 +0800) - Re: Netscape - _jim bell \<jimbell@pacifier.com\>_
 

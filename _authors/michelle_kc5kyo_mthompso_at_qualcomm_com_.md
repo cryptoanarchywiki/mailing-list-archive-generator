@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michelle_kc5kyo_mthompso_at_qualcomm_com_
+post_count: 1
 ---
 
-# Michelle KC5KYO <mthompso@qualcomm.com> (1 posts)
+# Michelle KC5KYO <mthompso<span>@</span>qualcomm.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

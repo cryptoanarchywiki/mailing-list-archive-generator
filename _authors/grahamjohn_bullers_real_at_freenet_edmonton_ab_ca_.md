@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_
+post_count: 161
 ---
 
-# "Graham-John Bullers" <real@freenet.edmonton.ab.ca> (161 posts)
+# "Graham-John Bullers" <real<span>@</span>freenet.edmonton.ab.ca> (161 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

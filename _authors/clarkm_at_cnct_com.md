@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: clarkm_at_cnct_com
+post_count: 5
 ---
 
-# clarkm@cnct.com (5 posts)
+# clarkm<span>@</span>cnct.com (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

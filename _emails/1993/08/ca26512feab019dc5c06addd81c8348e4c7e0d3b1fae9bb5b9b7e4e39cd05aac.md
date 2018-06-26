@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: fergp@sytex.com (Paul Ferguson)<br>
+From: fergp<span>@</span>sytex.com (Paul Ferguson)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ca26512feab019dc5c06addd81c8348e4c7e0d3b1fae9bb5b9b7e4e39cd05aac<br>
 Message ID: \<Jk8u9B3w165w@sytex.com\><br>
@@ -94,6 +94,8 @@ pub  1024/1CC04D 1993/03/15  Paul Ferguson <fergp@sytex.com>
 ## Thread
 
 + Return to [August 1993](/archive/1993/08)
+
++ Return to "[fergp<span>@</span>sytex.com (Paul Ferguson)](/author/fergp_at_sytex_com_paul_ferguson_)"
 
 + 1993-08-28 (Fri, 27 Aug 93 18:42:58 PDT) - Cisco vulnerabilities? - _fergp@sytex.com (Paul Ferguson)_
 

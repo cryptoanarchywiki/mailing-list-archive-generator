@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: futor_at_llnl_gov
+post_count: 2
 ---
 
-# futor@llnl.gov (2 posts)
+# futor<span>@</span>llnl.gov (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

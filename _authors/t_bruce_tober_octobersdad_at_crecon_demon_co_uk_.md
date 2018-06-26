@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: t_bruce_tober_octobersdad_at_crecon_demon_co_uk_
+post_count: 3
 ---
 
-# T Bruce Tober <octobersdad@crecon.demon.co.uk> (3 posts)
+# T Bruce Tober <octobersdad<span>@</span>crecon.demon.co.uk> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

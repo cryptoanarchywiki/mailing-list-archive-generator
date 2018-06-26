@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: heinzjuergen_keller_hjk_at_dip_de_
+post_count: 1
 ---
 
-# Heinz-Juergen Keller <hjk@dip.de> (1 posts)
+# Heinz-Juergen Keller <hjk<span>@</span>dip.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

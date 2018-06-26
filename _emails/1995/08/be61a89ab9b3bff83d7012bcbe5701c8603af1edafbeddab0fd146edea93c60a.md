@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@panix.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>panix.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: be61a89ab9b3bff83d7012bcbe5701c8603af1edafbeddab0fd146edea93c60a<br>
 Message ID: \<199508100206.WAA08666@panix4.panix.com\><br>
@@ -51,6 +51,9 @@ have a Tessera card to test it against?
 ## Thread
 
 + Return to [August 1995](/archive/1995/08)
+
++ Return to "["Perry E. Metzger" <perry<span>@</span>panix.com>](/author/perry_e_metzger_perry_at_panix_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1995-08-10 (Wed, 9 Aug 95 18:34:58 PDT) - [This summer's special delivery?](/archive/1995/08/e0b2a2935e74cdd194353ee968d504157073fc3c44fa8bd30f3e51eafcff887e) - _tcmay@got.net (Timothy C. May)_
   + 1995-08-10 (Wed, 9 Aug 95 19:06:51 PDT) - Re: This summer's special delivery? - _"Perry E. Metzger" \<perry@panix.com\>_

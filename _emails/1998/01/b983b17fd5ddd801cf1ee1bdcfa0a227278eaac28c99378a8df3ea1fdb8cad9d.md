@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nobody@REPLAY.COM\><br>
+From: Anonymous \<nobody<span>@</span>REPLAY.COM\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: b983b17fd5ddd801cf1ee1bdcfa0a227278eaac28c99378a8df3ea1fdb8cad9d<br>
 Message ID: \<199801230335.EAA13849@basement.replay.com\><br>
@@ -41,6 +41,8 @@ Yes. Welcome to America, Land of the Freeh.
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Anonymous <nobody<span>@</span>REPLAY.COM>](/author/anonymous_nobody_at_replay_com_)"
 
 + 1998-01-23 (Fri, 23 Jan 1998 11:44:19 +0800) - Re: SC rules 1st doesn't cover lies [CNN] (fwd) - _Anonymous \<nobody@REPLAY.COM\>_
 

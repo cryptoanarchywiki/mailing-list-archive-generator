@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremey_barrett_jeremey_at_cypherpunks_to_
+post_count: 1
 ---
 
-# Jeremey Barrett <jeremey@cypherpunks.to> (1 posts)
+# Jeremey Barrett <jeremey<span>@</span>cypherpunks.to> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

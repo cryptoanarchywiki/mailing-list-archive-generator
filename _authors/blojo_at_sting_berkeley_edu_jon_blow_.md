@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blojo_at_sting_berkeley_edu_jon_blow_
+post_count: 2
 ---
 
-# blojo@sting.Berkeley.EDU (Jon Blow) (2 posts)
+# blojo<span>@</span>sting.Berkeley.EDU (Jon Blow) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

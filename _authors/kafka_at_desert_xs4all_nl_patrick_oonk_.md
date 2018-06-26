@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kafka_at_desert_xs4all_nl_patrick_oonk_
+post_count: 1
 ---
 
-# kafka@desert.xs4all.nl (Patrick Oonk) (1 posts)
+# kafka<span>@</span>desert.xs4all.nl (Patrick Oonk) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

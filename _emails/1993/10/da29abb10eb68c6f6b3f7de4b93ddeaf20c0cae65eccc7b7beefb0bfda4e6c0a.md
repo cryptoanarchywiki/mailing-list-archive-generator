@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim@bilbo.suite.com (Jim Miller)<br>
+From: jim<span>@</span>bilbo.suite.com (Jim Miller)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: da29abb10eb68c6f6b3f7de4b93ddeaf20c0cae65eccc7b7beefb0bfda4e6c0a<br>
 Message ID: \<9310251931.AA03854@bilbo.suite.com\><br>
@@ -98,6 +98,8 @@ Jim_Miller@suite.com
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[jim<span>@</span>bilbo.suite.com (Jim Miller)](/author/jim_at_bilbo_suite_com_jim_miller_)"
 
 + 1993-10-25 (Mon, 25 Oct 93 12:34:29 PDT) - Re: Interesting reading - _jim@bilbo.suite.com (Jim Miller)_
 

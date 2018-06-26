@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: combee_at_ssoaustin_sps_mot_com_ben_combee_
+post_count: 4
 ---
 
-# combee@sso-austin.sps.mot.com (Ben Combee) (4 posts)
+# combee<span>@</span>sso-austin.sps.mot.com (Ben Combee) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

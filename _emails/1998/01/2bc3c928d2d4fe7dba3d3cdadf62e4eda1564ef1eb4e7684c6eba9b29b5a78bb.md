@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: telcard@worldnet.att.net<br>
+From: telcard<span>@</span>worldnet.att.net<br>
 To: host@savings.com<br>
 Message Hash: 2bc3c928d2d4fe7dba3d3cdadf62e4eda1564ef1eb4e7684c6eba9b29b5a78bb<br>
 Message ID: \<9876569865.dre98755@savings.com\><br>
@@ -55,6 +55,8 @@ PS.  Refer a friend and receive a FREE 10 MINUTE card with their purchase!
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[telcard<span>@</span>worldnet.att.net](/author/telcard_at_worldnet_att_net)"
 
 + 1998-01-12 (Mon, 12 Jan 1998 02:13:13 -0800 (PST)) - Hi - _telcard@worldnet.att.net_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kurt_at_grogatch_seaslug_org_kurt_cockrum_
+post_count: 1
 ---
 
-# kurt@grogatch.seaslug.org (Kurt Cockrum) (1 posts)
+# kurt<span>@</span>grogatch.seaslug.org (Kurt Cockrum) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

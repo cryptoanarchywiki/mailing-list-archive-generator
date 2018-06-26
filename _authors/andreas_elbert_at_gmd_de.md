@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andreas_elbert_at_gmd_de
+post_count: 3
 ---
 
-# andreas.elbert@gmd.de (3 posts)
+# andreas.elbert<span>@</span>gmd.de (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

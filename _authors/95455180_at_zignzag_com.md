@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 95455180_at_zignzag_com
+post_count: 1
 ---
 
-# 95455180@zignzag.com (1 posts)
+# 95455180<span>@</span>zignzag.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

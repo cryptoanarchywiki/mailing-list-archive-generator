@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Brad Dolan \<bdolan@well.sf.ca.us\><br>
+From: Brad Dolan \<bdolan<span>@</span>well.sf.ca.us\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f749f2cf7ccb3f98dfd702ca51e2c5cce250dd11cf8f06efaf0fda1f5a6e2aa7<br>
 Message ID: \<199407090212.TAA19855@well.sf.ca.us\><br>
@@ -43,6 +43,9 @@ Brad  bdolan@well.sf.ca.us
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Brad Dolan <bdolan<span>@</span>well.sf.ca.us>](/author/brad_dolan_bdolan_at_well_sf_ca_us_)"
++ Return to "[paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)](/author/paul_at_hawksbill_sprintmrn_com_paul_ferguson_)"
 
 + 1994-07-09 (Fri, 8 Jul 94 19:12:20 PDT) - .rainbow.folks - _Brad Dolan \<bdolan@well.sf.ca.us\>_
   + 1994-07-09 (Fri, 8 Jul 94 19:33:40 PDT) - [Re: .rainbow.folks](/archive/1994/07/b9b9866dedc3223978de134f0efaf3ae7d1416cb457680a8cf3f8f22e1af8ad8) - _paul@hawksbill.sprintmrn.com (Paul Ferguson)_

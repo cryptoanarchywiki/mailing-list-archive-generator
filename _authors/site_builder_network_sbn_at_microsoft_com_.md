@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: site_builder_network_sbn_at_microsoft_com_
+post_count: 5
 ---
 
-# Site Builder Network <sbn@MICROSOFT.COM> (5 posts)
+# Site Builder Network <sbn<span>@</span>MICROSOFT.COM> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

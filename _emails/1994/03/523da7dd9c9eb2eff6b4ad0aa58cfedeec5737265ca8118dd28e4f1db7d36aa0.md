@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: an57322@anon.penet.fi (T.A.Z.)<br>
+From: an57322<span>@</span>anon.penet.fi (T.A.Z.)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 523da7dd9c9eb2eff6b4ad0aa58cfedeec5737265ca8118dd28e4f1db7d36aa0<br>
 Message ID: \<9403101121.AA26621@anon.penet.fi\><br>
@@ -72,6 +72,8 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[an57322<span>@</span>anon.penet.fi (T.A.Z.)](/author/an57322_at_anon_penet_fi_t_a_z_)"
 
 + 1994-03-10 (Thu, 10 Mar 94 03:33:47 PST) - Re: chips... - _an57322@anon.penet.fi (T.A.Z.)_
 

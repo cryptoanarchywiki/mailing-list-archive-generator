@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_tygar_at_cs_cmu_edu
+post_count: 1
 ---
 
-# Doug_Tygar@cs.cmu.edu (1 posts)
+# Doug_Tygar<span>@</span>cs.cmu.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

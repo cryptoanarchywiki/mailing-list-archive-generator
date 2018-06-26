@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: freematt_at_coil_com_matthew_gaylor_
+post_count: 3
 ---
 
-# freematt@coil.com (Matthew Gaylor) (3 posts)
+# freematt<span>@</span>coil.com (Matthew Gaylor) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

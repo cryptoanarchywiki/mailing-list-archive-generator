@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: werner_at_mc_ab_com
+post_count: 15
 ---
 
-# werner@mc.ab.com (15 posts)
+# werner<span>@</span>mc.ab.com (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

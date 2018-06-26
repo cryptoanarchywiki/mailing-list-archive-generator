@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jbaber_at_mi_leeds_ac_uk
+post_count: 12
 ---
 
-# jbaber@mi.leeds.ac.uk (12 posts)
+# jbaber<span>@</span>mi.leeds.ac.uk (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

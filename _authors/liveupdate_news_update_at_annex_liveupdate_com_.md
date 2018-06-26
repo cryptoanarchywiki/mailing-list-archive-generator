@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: liveupdate_news_update_at_annex_liveupdate_com_
+post_count: 2
 ---
 
-# "LiveUpdate News" <update@annex.liveupdate.com> (2 posts)
+# "LiveUpdate News" <update<span>@</span>annex.liveupdate.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

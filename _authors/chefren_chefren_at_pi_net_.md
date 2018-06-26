@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chefren_chefren_at_pi_net_
+post_count: 4
 ---
 
-# "chefren" <chefren@pi.net> (4 posts)
+# "chefren" <chefren<span>@</span>pi.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

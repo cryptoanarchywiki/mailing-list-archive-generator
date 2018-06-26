@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremy_rusnock_jeremy_at_microserve_net_
+post_count: 1
 ---
 
-# Jeremy Rusnock <jeremy@microserve.net> (1 posts)
+# Jeremy Rusnock <jeremy<span>@</span>microserve.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

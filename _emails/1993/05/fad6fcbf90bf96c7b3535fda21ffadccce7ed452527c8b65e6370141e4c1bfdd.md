@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: meyer \<wixer!wixer.bga.com!meyer@cactus.org\><br>
+From: meyer \<wixer!wixer.bga.com!meyer<span>@</span>cactus.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fad6fcbf90bf96c7b3535fda21ffadccce7ed452527c8b65e6370141e4c1bfdd<br>
 Message ID: \<9305240651.AA16024@wixer\><br>
@@ -59,6 +59,8 @@ not be a public-key cryptosystem.  Thus:
 ## Thread
 
 + Return to [May 1993](/archive/1993/05)
+
++ Return to "[meyer <wixer!wixer.bga.com!meyer<span>@</span>cactus.org>](/author/meyer_wixerwixer_bga_commeyer_at_cactus_org_)"
 
 + 1993-05-24 (Mon, 24 May 93 05:42:30 PDT) - FAQ - _meyer \<wixer!wixer.bga.com!meyer@cactus.org\>_
 

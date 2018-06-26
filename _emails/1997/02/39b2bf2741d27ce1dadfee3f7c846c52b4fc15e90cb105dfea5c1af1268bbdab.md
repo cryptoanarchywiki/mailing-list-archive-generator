@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jeremiah A Blatz \<jer+@andrew.cmu.edu\><br>
+From: Jeremiah A Blatz \<jer+<span>@</span>andrew.cmu.edu\><br>
 To: cypherpunks-unedited@toad.com<br>
 Message Hash: 39b2bf2741d27ce1dadfee3f7c846c52b4fc15e90cb105dfea5c1af1268bbdab<br>
 Message ID: \<199702121411.GAA19622@toad.com\><br>
@@ -73,6 +73,8 @@ irV8YtXhDlsqbVaZDIPoweE5viibrR0ZrfuCqRm4oClGRvttSJdPxTN5iY5ry+HQ
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Jeremiah A Blatz <jer+<span>@</span>andrew.cmu.edu>](/author/jeremiah_a_blatz_jer_at_andrew_cmu_edu_)"
 
 + 1997-02-12 (Wed, 12 Feb 1997 06:11:33 -0800 (PST)) - Re: Germany Versus Scientology - _Jeremiah A Blatz \<jer+@andrew.cmu.edu\>_
 

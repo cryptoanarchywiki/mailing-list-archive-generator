@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_minow_mm_at_apple_byte_
+post_count: 1
 ---
 
-# Martin Minow <mm@apple.byte> (1 posts)
+# Martin Minow <mm<span>@</span>apple.byte> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

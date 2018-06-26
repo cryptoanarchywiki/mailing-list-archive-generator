@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fwjz05a_at_prodigy_com_clerk_phillip_g_roberts_
+post_count: 6
 ---
 
-# FWJZ05A@prodigy.com (CLERK PHILLIP G ROBERTS) (6 posts)
+# FWJZ05A<span>@</span>prodigy.com (CLERK PHILLIP G ROBERTS) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

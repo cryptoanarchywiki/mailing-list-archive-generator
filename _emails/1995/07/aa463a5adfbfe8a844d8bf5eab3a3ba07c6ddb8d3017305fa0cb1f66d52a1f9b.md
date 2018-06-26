@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Phil Fraering        \<pgf@tyrell.net\><br>
+From: Phil Fraering        \<pgf<span>@</span>tyrell.net\><br>
 To: tcmay@sensemedia.net<br>
 Message Hash: aa463a5adfbfe8a844d8bf5eab3a3ba07c6ddb8d3017305fa0cb1f66d52a1f9b<br>
 Message ID: \<199507152320.AA05094@tyrell.net\><br>
@@ -55,6 +55,11 @@ Phil
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[alex <cp<span>@</span>proust.suba.com>](/author/alex_cp_at_proust_suba_com_)"
++ Return to "[Nesta Stubbs <nesta<span>@</span>nesta.pr.mcs.net>](/author/nesta_stubbs_nesta_at_nesta_pr_mcs_net_)"
++ Return to "[Phil Fraering        <pgf<span>@</span>tyrell.net>](/author/phil_fraering_pgf_at_tyrell_net_)"
++ Return to "[tcmay<span>@</span>sensemedia.net (Timothy C. May)](/author/tcmay_at_sensemedia_net_timothy_c_may_)"
 
 + 1995-07-15 (Sat, 15 Jul 95 16:04:03 PDT) - [Unix not the Only Place for "Vanguard" Applications](/archive/1995/07/1bcaa8e560fda2bd8652f6fc47b337292a21b7f06ea0817ae2d39c7d53e1a514) - _tcmay@sensemedia.net (Timothy C. May)_
   + 1995-07-15 (Sat, 15 Jul 95 16:25:04 PDT) - Unix not the Only Place for "Vanguard" Applications - _Phil Fraering        \<pgf@tyrell.net\>_

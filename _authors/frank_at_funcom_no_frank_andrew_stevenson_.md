@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frank_at_funcom_no_frank_andrew_stevenson_
+post_count: 1
 ---
 
-# frank@funcom.no (Frank Andrew Stevenson) (1 posts)
+# frank<span>@</span>funcom.no (Frank Andrew Stevenson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

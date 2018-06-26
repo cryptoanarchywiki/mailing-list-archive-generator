@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joe_spainhour_spainhou_at_giex_coastalnet_com_
+post_count: 1
 ---
 
-# Joe Spainhour <spainhou@giex.coastalnet.com> (1 posts)
+# Joe Spainhour <spainhou<span>@</span>giex.coastalnet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

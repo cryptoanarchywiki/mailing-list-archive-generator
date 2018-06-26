@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: truthmonger_tm_at_algebra_com_
+post_count: 9
 ---
 
-# TruthMonger <tm@algebra.com> (9 posts)
+# TruthMonger <tm<span>@</span>algebra.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

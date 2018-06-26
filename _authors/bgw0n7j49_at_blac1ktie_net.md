@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bgw0n7j49_at_blac1ktie_net
+post_count: 1
 ---
 
-# bgw0N7j49@blac1ktie.net (1 posts)
+# bgw0N7j49<span>@</span>blac1ktie.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

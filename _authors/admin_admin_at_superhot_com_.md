@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: admin_admin_at_superhot_com_
+post_count: 5
 ---
 
-# Admin <admin@superhot.com> (5 posts)
+# Admin <admin<span>@</span>superhot.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: syed_yusuf_yusuf921_at_uidaho_edu_
+post_count: 17
 ---
 
-# Syed Yusuf <yusuf921@uidaho.edu> (17 posts)
+# Syed Yusuf <yusuf921<span>@</span>uidaho.edu> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

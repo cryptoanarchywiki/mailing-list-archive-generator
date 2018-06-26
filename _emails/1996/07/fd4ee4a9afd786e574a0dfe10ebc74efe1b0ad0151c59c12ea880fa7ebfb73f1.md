@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: David Lesher \<wb8foz@nrk.com\><br>
+From: David Lesher \<wb8foz<span>@</span>nrk.com\><br>
 To: cypherpunks@toad.com (Cypherpunks)<br>
 Message Hash: fd4ee4a9afd786e574a0dfe10ebc74efe1b0ad0151c59c12ea880fa7ebfb73f1<br>
 Message ID: \<199607291733.NAA02778@nrk.com\><br>
@@ -59,6 +59,8 @@ is busy, hung or dead....................................20915-1433
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[David Lesher <wb8foz<span>@</span>nrk.com>](/author/david_lesher_wb8foz_at_nrk_com_)"
 
 + 1996-07-29 (Tue, 30 Jul 1996 06:04:27 +0800) - what's a weapon? (fwd) - _David Lesher \<wb8foz@nrk.com\>_
 

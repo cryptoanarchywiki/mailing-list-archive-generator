@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chrmsync_at_mindvox_phantom_com_chrome_sync_
+post_count: 2
 ---
 
-# chrmsync@mindvox.phantom.com (Chrome Sync) (2 posts)
+# chrmsync<span>@</span>mindvox.phantom.com (Chrome Sync) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

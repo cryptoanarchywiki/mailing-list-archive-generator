@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anders_bxdker_flyvebed_at_eel_org_
+post_count: 1
 ---
 
-# "Anders B\xdker" <flyvebed@eel.org> (1 posts)
+# "Anders B\xdker" <flyvebed<span>@</span>eel.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qwerty_at_netcom_com_xenon_
+post_count: 25
 ---
 
-# qwerty@netcom.com (-=Xenon=-) (25 posts)
+# qwerty<span>@</span>netcom.com (-=Xenon=-) (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

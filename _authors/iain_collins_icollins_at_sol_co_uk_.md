@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iain_collins_icollins_at_sol_co_uk_
+post_count: 1
 ---
 
-# Iain Collins <icollins@sol.co.uk> (1 posts)
+# Iain Collins <icollins<span>@</span>sol.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_bromage_bromage_at_cs_mu_oz_au_
+post_count: 3
 ---
 
-# Andrew Bromage <bromage@cs.mu.oz.au> (3 posts)
+# Andrew Bromage <bromage<span>@</span>cs.mu.oz.au> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: chen@chen.com (Mark Chen)<br>
+From: chen<span>@</span>chen.com (Mark Chen)<br>
 To: ericm@lne.com (Eric Murray)<br>
 Message Hash: 0cd11eefc995e26cf4d6b40b2ceed46bf85fce7e4e3cffca7fe4b7b5fa6f5b6d<br>
 Message ID: \<9609211924.AA00422@pela.chen.com.\><br>
@@ -54,6 +54,10 @@ D4 99 54 2A 98 B1 48 0C  CF 95 A5 B0 6E E0 1E 1D
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[chen<span>@</span>chen.com (Mark Chen)](/author/chen_at_chen_com_mark_chen_)"
++ Return to "[Eric Murray <ericm<span>@</span>lne.com>](/author/eric_murray_ericm_at_lne_com_)"
++ Return to "[Phil Fraering <pgf<span>@</span>acadian.net>](/author/phil_fraering_pgf_at_acadian_net_)"
 
 + 1996-09-21 (Sat, 21 Sep 1996 11:03:25 +0800) - [How's the list?](/archive/1996/09/79aa1cd5e24174f45bc3d2bba7a04faa9746e8ed7229825f9e5cef1310fe2424) - _Phil Fraering \<pgf@acadian.net\>_
   + 1996-09-21 (Sat, 21 Sep 1996 13:03:03 +0800) - [Re: How's the list?](/archive/1996/09/b245f641addac9d430c78d5c6f928625e47dbc26441f9e92f5e4e469fbc92ee8) - _Eric Murray \<ericm@lne.com\>_

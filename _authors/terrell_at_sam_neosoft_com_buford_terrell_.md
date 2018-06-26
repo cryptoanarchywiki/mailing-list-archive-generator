@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: terrell_at_sam_neosoft_com_buford_terrell_
+post_count: 11
 ---
 
-# terrell@sam.neosoft.com (Buford Terrell) (11 posts)
+# terrell<span>@</span>sam.neosoft.com (Buford Terrell) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

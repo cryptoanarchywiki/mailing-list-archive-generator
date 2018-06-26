@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ulf_moeller_at_hamburg_netsurf_de_ulf_moeller_
+post_count: 3
 ---
 
-# Ulf.Moeller@hamburg.netsurf.de (Ulf Moeller) (3 posts)
+# Ulf.Moeller<span>@</span>hamburg.netsurf.de (Ulf Moeller) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

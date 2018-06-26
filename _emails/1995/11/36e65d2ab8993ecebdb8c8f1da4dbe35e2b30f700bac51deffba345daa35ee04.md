@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: NetSurfer \<netsurf@pixi.com\><br>
+From: NetSurfer \<netsurf<span>@</span>pixi.com\><br>
 To: Weld Pond \<weld@l0pht.com\><br>
 Message Hash: 36e65d2ab8993ecebdb8c8f1da4dbe35e2b30f700bac51deffba345daa35ee04<br>
 Message ID: \<Pine.SUN.3.91.951122053926.8346L-100000@akamai.pixi.com\><br>
@@ -71,6 +71,11 @@ On Tue, 21 Nov 1995, Weld Pond wrote:
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "[NetSurfer <netsurf<span>@</span>pixi.com>](/author/netsurfer_netsurf_at_pixi_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[Sten Drescher <dreschs<span>@</span>mpd.tandem.com>](/author/sten_drescher_dreschs_at_mpd_tandem_com_)"
++ Return to "[Weld Pond <weld<span>@</span>l0pht.com>](/author/weld_pond_weld_at_l0pht_com_)"
 
 + 1995-11-22 (Wed, 22 Nov 1995 11:01:17 +0800) - [Pedophiles use encoding devices to make secret use of Internet](/archive/1995/11/f933fce58cb95497a7575e0aba4a4b7afcb2064653cc24ec1f8c3c9e187ecf91) - _Weld Pond \<weld@l0pht.com\>_
   + 1995-11-22 (Thu, 23 Nov 1995 01:05:38 +0800) - Re: Pedophiles use encoding devices to make secret use of Internet - _NetSurfer \<netsurf@pixi.com\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_farber_farber_at_cis_upenn_edu_
+post_count: 4
 ---
 
-# David Farber <farber@cis.upenn.edu> (4 posts)
+# David Farber <farber<span>@</span>cis.upenn.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

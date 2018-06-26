@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _nobody_at_vox_hacktic_nl_
+post_count: 5
 ---
 
-# <nobody@vox.hacktic.nl> (5 posts)
+# <nobody<span>@</span>vox.hacktic.nl> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

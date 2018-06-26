@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>ssz.com\><br>
 To: cypherpunks@ssz.com<br>
 Message Hash: aab52401b24adebe56ed48f9b884a592da4fc6facea8e7fb83cecbf3ab466651<br>
 Message ID: \<199711250316.VAA15746@einstein.ssz.com\><br>
@@ -106,6 +106,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1997-11-25 (Tue, 25 Nov 1997 11:11:46 +0800) - 1812_Napoleon_in_Moscow.htm - _Jim Choate \<ravage@ssz.com\>_
 

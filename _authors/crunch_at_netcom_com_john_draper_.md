@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: crunch_at_netcom_com_john_draper_
+post_count: 51
 ---
 
-# crunch@netcom.com (John Draper) (51 posts)
+# crunch<span>@</span>netcom.com (John Draper) (51 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: paul@hawksbill.sprintmrn.com (Paul Ferguson)<br>
+From: paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)<br>
 To: nowhere@chaos.bsu.edu (Chael Hall)<br>
 Message Hash: 1ea67eddf38ffa8556799013bcffcebb7ce9ff81ce7ebe4c85e079e06c73eef7<br>
 Message ID: \<9404291620.AA00114@hawksbill.sprintmrn.com\><br>
@@ -53,6 +53,9 @@ chaos.bsu.edu  or bsu-cs.bsu.edu
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Chael Hall <nowhere<span>@</span>chaos.bsu.edu>](/author/chael_hall_nowhere_at_chaos_bsu_edu_)"
++ Return to "[paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)](/author/paul_at_hawksbill_sprintmrn_com_paul_ferguson_)"
 
 + 1994-04-29 (Fri, 29 Apr 94 08:09:31 PDT) - [REMAIL:  Logging turned off](/archive/1994/04/0545142a281cd36b535d43a1c329119dd5e48a2d1126fad4064881c45a7ffa98) - _Chael Hall \<nowhere@chaos.bsu.edu\>_
   + 1994-04-29 (Fri, 29 Apr 94 08:19:16 PDT) - Re: REMAIL:  Logging turned off - _paul@hawksbill.sprintmrn.com (Paul Ferguson)_

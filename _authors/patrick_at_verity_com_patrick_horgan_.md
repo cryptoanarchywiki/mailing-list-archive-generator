@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_at_verity_com_patrick_horgan_
+post_count: 68
 ---
 
-# patrick@Verity.COM (Patrick Horgan) (68 posts)
+# patrick<span>@</span>Verity.COM (Patrick Horgan) (68 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_m_humphrey_robert_at_rmh_khabarovsk_su_
+post_count: 1
 ---
 
-# "Robert M. Humphrey" <Robert@rmh.khabarovsk.su> (1 posts)
+# "Robert M. Humphrey" <Robert<span>@</span>rmh.khabarovsk.su> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

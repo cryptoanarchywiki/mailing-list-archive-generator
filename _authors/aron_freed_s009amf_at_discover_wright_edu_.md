@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aron_freed_s009amf_at_discover_wright_edu_
+post_count: 19
 ---
 
-# Aron Freed <s009amf@discover.wright.edu> (19 posts)
+# Aron Freed <s009amf<span>@</span>discover.wright.edu> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

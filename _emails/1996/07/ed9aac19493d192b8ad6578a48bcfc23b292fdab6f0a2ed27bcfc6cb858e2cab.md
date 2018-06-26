@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: David Sternlight \<david@sternlight.com\><br>
+From: David Sternlight \<david<span>@</span>sternlight.com\><br>
 To: The Deviant \<jimbell@pacifier.com\><br>
 Message Hash: ed9aac19493d192b8ad6578a48bcfc23b292fdab6f0a2ed27bcfc6cb858e2cab<br>
 Message ID: \<v03007805ae1c7565dfa7@[192.187.162.15]\><br>
@@ -57,6 +57,11 @@ David
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[David Sternlight <david<span>@</span>sternlight.com>](/author/david_sternlight_david_at_sternlight_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[The Deviant <deviant<span>@</span>pooh-corner.com>](/author/the_deviant_deviant_at_poohcorner_com_)"
++ Return to "[Tom Weinstein <tomw<span>@</span>netscape.com>](/author/tom_weinstein_tomw_at_netscape_com_)"
 
 + 1996-07-24 (Thu, 25 Jul 1996 05:40:57 +0800) - [Re: Netscape](/archive/1996/07/905a263abd5409b76c549cdaa62a4b493aef37627e60fe8687d0ad9c14682835) - _jim bell \<jimbell@pacifier.com\>_
   + 1996-07-24 (Thu, 25 Jul 1996 07:19:37 +0800) - [Re: Netscape](/archive/1996/07/e2ac4ae08d5f6daf16752d75cd45155288e7167a6b1ff3ed642f72dc76a4c831) - _The Deviant \<deviant@pooh-corner.com\>_

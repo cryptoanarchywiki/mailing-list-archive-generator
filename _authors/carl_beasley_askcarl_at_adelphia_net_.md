@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carl_beasley_askcarl_at_adelphia_net_
+post_count: 1
 ---
 
-# Carl Beasley <askcarl@adelphia.net> (1 posts)
+# Carl Beasley <askcarl<span>@</span>adelphia.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

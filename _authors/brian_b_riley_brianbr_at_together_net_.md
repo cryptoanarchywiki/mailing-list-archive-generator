@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_b_riley_brianbr_at_together_net_
+post_count: 114
 ---
 
-# "Brian B. Riley" <brianbr@together.net> (114 posts)
+# "Brian B. Riley" <brianbr<span>@</span>together.net> (114 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

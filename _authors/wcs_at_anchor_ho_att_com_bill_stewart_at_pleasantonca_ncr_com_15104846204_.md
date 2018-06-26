@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_
+post_count: 268
 ---
 
-# wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204) (268 posts)
+# wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204) (268 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

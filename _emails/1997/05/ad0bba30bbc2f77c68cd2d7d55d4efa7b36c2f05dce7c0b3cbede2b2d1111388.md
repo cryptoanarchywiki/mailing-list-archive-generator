@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rick Smith \<smith@securecomputing.com\><br>
+From: Rick Smith \<smith<span>@</span>securecomputing.com\><br>
 To: Will Rodger \<cypherpunks@toad.com<br>
 Message Hash: ad0bba30bbc2f77c68cd2d7d55d4efa7b36c2f05dce7c0b3cbede2b2d1111388<br>
 Message ID: \<v03007804af9928766aa6@[172.17.1.61]\><br>
@@ -73,6 +73,10 @@ smith@securecomputing.com      secure computing corporation
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
++ Return to "[Rick Smith <smith<span>@</span>securecomputing.com>](/author/rick_smith_smith_at_securecomputing_com_)"
++ Return to "[Will Rodger <rodger<span>@</span>worldnet.att.net>](/author/will_rodger_rodger_at_worldnet_att_net_)"
 
 + 1997-05-09 (Fri, 9 May 1997 23:48:40 +0800) - [Re: Clinton Admin. to announce new Crypto regs](/archive/1997/05/4679ea27ecd459d8de25712ecc6782bc165df0c1aa1c767b9a553bba2014c177) - _Will Rodger \<rodger@worldnet.att.net\>_
   + 1997-05-09 (Sat, 10 May 1997 02:24:10 +0800) - [Re: Clinton Admin. to announce new Crypto regs](/archive/1997/05/36bb8b6bd6a9eabdedac0d13de2a1fc5157fdfdfe5d7a5a3d336a86580a83471) - _Adam Shostack \<adam@homeport.org\>_

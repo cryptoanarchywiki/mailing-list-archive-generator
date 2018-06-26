@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steven_hodas_hhll_at_u_washington_edu_
+post_count: 3
 ---
 
-# Steven Hodas <hhll@u.washington.edu> (3 posts)
+# Steven Hodas <hhll<span>@</span>u.washington.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

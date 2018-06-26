@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_at_fairgate_com_paul_robichaux_
+post_count: 1
 ---
 
-# paul@fairgate.com (Paul Robichaux) (1 posts)
+# paul<span>@</span>fairgate.com (Paul Robichaux) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

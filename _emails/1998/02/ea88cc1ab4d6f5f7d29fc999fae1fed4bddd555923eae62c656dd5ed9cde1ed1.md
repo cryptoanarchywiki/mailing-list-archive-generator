@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Black Unicorn \<unicorn@schloss.li\><br>
+From: Black Unicorn \<unicorn<span>@</span>schloss.li\><br>
 To: Tim May \<tcmay@got.net\><br>
 Message Hash: ea88cc1ab4d6f5f7d29fc999fae1fed4bddd555923eae62c656dd5ed9cde1ed1<br>
 Message ID: \<3.0.3.32.19980202005111.006c10d0@schloss.li\><br>
@@ -101,6 +101,10 @@ better start thinking about what's happening.
 
 + Return to [February 1998](/archive/1998/02)
 
-+ 1998-02-02 (Mon, 2 Feb 1998 14:56:29 +0800) - The Continued Attack on Cash (Was: "The Right of Anonymity"...) - _Black Unicorn \<unicorn@schloss.li\>_
-  + 1998-02-02 (Mon, 2 Feb 1998 22:39:06 +0800) - [Re: The Continued Attack on Cash (Was: "The Right of Anonymity"...)](/archive/1998/02/35ec07d3347763053ae8badec1b1b9c0c2aa03f38db4cd0d15b715405769d9ba) - _Anonymous \<anon@anon.efga.org\>_
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
+
++ _Unknown thread root_
+  + 1998-02-02 (Mon, 2 Feb 1998 14:56:29 +0800) - The Continued Attack on Cash (Was: "The Right of Anonymity"...) - _Black Unicorn \<unicorn@schloss.li\>_
+    + 1998-02-02 (Mon, 2 Feb 1998 22:39:06 +0800) - [Re: The Continued Attack on Cash (Was: "The Right of Anonymity"...)](/archive/1998/02/35ec07d3347763053ae8badec1b1b9c0c2aa03f38db4cd0d15b715405769d9ba) - _Anonymous \<anon@anon.efga.org\>_
 

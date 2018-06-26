@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: some_days_werent_there_at_all_pandemic_at_hotmail_com_
+post_count: 2
 ---
 
-# "some days weren't there at all" <pandemic@hotmail.com> (2 posts)
+# "some days weren't there at all" <pandemic<span>@</span>hotmail.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

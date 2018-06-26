@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lyman_hazelton_lrh_at_crl_com_
+post_count: 7
 ---
 
-# Lyman Hazelton <lrh@crl.com> (7 posts)
+# Lyman Hazelton <lrh<span>@</span>crl.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

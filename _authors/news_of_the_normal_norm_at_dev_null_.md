@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: news_of_the_normal_norm_at_dev_null_
+post_count: 1
 ---
 
-# News of the Normal <norm@dev.null> (1 posts)
+# News of the Normal <norm<span>@</span>dev.null> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

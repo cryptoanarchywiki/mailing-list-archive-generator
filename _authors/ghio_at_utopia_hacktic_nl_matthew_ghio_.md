@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ghio_at_utopia_hacktic_nl_matthew_ghio_
+post_count: 2
 ---
 
-# ghio@utopia.hacktic.nl (Matthew Ghio) (2 posts)
+# ghio<span>@</span>utopia.hacktic.nl (Matthew Ghio) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

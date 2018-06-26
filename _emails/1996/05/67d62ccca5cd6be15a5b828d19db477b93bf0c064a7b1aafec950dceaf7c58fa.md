@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Bert-Jaap Koops" \<E.J.Koops@kub.nl\><br>
+From: "Bert-Jaap Koops" \<E.J.Koops<span>@</span>kub.nl\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 67d62ccca5cd6be15a5b828d19db477b93bf0c064a7b1aafec950dceaf7c58fa<br>
 Message ID: \<D3A215E4528@frw3.kub.nl\><br>
@@ -57,6 +57,8 @@ The Netherlands  |                (Howard Nemerov)                  |
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "["Bert-Jaap Koops" <E.J.Koops<span>@</span>kub.nl>](/author/bertjaap_koops_e_j_koops_at_kub_nl_)"
 
 + 1996-05-10 (Sat, 11 May 1996 04:26:30 +0800) - Crypto Law Survey - updated - _"Bert-Jaap Koops" \<E.J.Koops@kub.nl\>_
 

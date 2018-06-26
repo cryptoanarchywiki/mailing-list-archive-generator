@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: aba@dcs.exeter.ac.uk<br>
+From: aba<span>@</span>dcs.exeter.ac.uk<br>
 To: eay@mincom.oz.au<br>
 Message Hash: 6a0481ccedcb724271ccef9dca4d69ed9b71cc3a6dedd24a85ee90693d4bccca<br>
 Message ID: \<28592.9509191106@exe.dcs.exeter.ac.uk\><br>
@@ -105,6 +105,9 @@ pack('H*',$_)while read(STDIN,$m,($w=2*$d-1+length($n)&~1)/2)
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[aba<span>@</span>dcs.exeter.ac.uk](/author/aba_at_dcs_exeter_ac_uk)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
 
 + 1995-09-19 (Tue, 19 Sep 95 04:12:01 PDT) - Re: NYT on Netscape Crack - _aba@dcs.exeter.ac.uk_
   + 1995-09-19 (Tue, 19 Sep 95 07:08:27 PDT) - [Re: NYT on Netscape Crack](/archive/1995/09/f7837d3b9cc2e5e5cc1bfb46f9317022523edf4d6ef9dd743b69d032366bc8ee) - _sameer \<sameer@c2.org\>_

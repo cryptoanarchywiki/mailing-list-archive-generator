@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: slothrop_at_poisson_com_j_durbin_
+post_count: 4
 ---
 
-# slothrop@poisson.com (J Durbin) (4 posts)
+# slothrop<span>@</span>poisson.com (J Durbin) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

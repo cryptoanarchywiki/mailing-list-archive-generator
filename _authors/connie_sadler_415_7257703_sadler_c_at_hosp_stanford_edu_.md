@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: connie_sadler_415_7257703_sadler_c_at_hosp_stanford_edu_
+post_count: 2
 ---
 
-# "Connie Sadler (415)725-7703" <SADLER_C@HOSP.STANFORD.EDU> (2 posts)
+# "Connie Sadler (415)725-7703" <SADLER_C<span>@</span>HOSP.STANFORD.EDU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

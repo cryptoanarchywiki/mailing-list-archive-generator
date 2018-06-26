@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Johan Helsingius \<julf@penet.fi\><br>
+From: Johan Helsingius \<julf<span>@</span>penet.fi\><br>
 To: Matt Blaze \<mab@crypto.com\><br>
 Message Hash: ffa1c0ba71ad0c4de16f65a31bf1a4767ecf8d8b6bec820a8e83203deffdbd51<br>
 Message ID: \<199310231907.AA11705@mail.eunet.fi\><br>
@@ -69,6 +69,12 @@ get messages like:
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[Alan Barrett <barrett<span>@</span>daisy.ee.und.ac.za>](/author/alan_barrett_barrett_at_daisy_ee_und_ac_za_)"
++ Return to "[Eli Brandt <ebrandt<span>@</span>jarthur.Claremont.EDU>](/author/eli_brandt_ebrandt_at_jarthur_claremont_edu_)"
++ Return to "[hfinney<span>@</span>shell.portal.com (Hal Finney)](/author/hfinney_at_shell_portal_com_hal_finney_)"
++ Return to "[Johan Helsingius <julf<span>@</span>penet.fi>](/author/johan_helsingius_julf_at_penet_fi_)"
++ Return to "[Matt Blaze <mab<span>@</span>crypto.com>](/author/matt_blaze_mab_at_crypto_com_)"
 
 + 1993-10-23 (Sat, 23 Oct 93 10:53:06 PDT) - [Re: Warning about exposing anon id](/archive/1993/10/f5a47c6e561e6d61415d1efb937c8c0c1f901f57bdd46105c17750a27f9b2957) - _hfinney@shell.portal.com (Hal Finney)_
   + 1993-10-23 (Sat, 23 Oct 93 11:43:06 PDT) - [Re: Warning about exposing anon id](/archive/1993/10/53aeeb10a3d1e6b5ed5b4613bd2cc3747fbacade8dd4e26b38698164ad21d983) - _Matt Blaze \<mab@crypto.com\>_

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>netcom.com (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 454bf8bb6abc514d5b4f2fe7acfd8ac35136eddfe7b410d1f9816eae26d4cece<br>
 Message ID: \<199403230821.AAA01297@mail.netcom.com\><br>
@@ -83,6 +83,9 @@ Higher Power: 2^859433 | Public Key: PGP and MailSafe available.
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)](/author/wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_)"
 
 + 1994-03-23 (Wed, 23 Mar 94 00:03:15 PST) - [Re: CLIPPER CHIP ON LIMBAUGH](/archive/1994/03/3406010ce93221c6639415162aa28455ad862e905f80b62a581537f2d8f16f68) - _wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)_
   + 1994-03-23 (Wed, 23 Mar 94 00:20:55 PST) - I'm Glad Clinton Won in '92 - _tcmay@netcom.com (Timothy C. May)_

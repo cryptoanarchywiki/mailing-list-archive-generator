@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_at_parallax_com_eric_messick_
+post_count: 3
 ---
 
-# eric@parallax.com (Eric Messick) (3 posts)
+# eric<span>@</span>parallax.com (Eric Messick) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

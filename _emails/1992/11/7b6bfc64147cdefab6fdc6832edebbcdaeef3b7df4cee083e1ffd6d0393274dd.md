@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: mcmahonm@wybbs.mi.org (Mike McMahon)<br>
+From: mcmahonm<span>@</span>wybbs.mi.org (Mike McMahon)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7b6bfc64147cdefab6fdc6832edebbcdaeef3b7df4cee083e1ffd6d0393274dd<br>
 Message ID: \<9211072044.AA14863@wybbs.mi.org\><br>
@@ -38,6 +38,8 @@ Please add my address to the mailing list.
 ## Thread
 
 + Return to [November 1992](/archive/1992/11)
+
++ Return to "[mcmahonm<span>@</span>wybbs.mi.org (Mike McMahon)](/author/mcmahonm_at_wybbs_mi_org_mike_mcmahon_)"
 
 + 1992-11-08 (Sat, 7 Nov 92 19:08:31 PPE) - No Subject - _mcmahonm@wybbs.mi.org (Mike McMahon)_
 

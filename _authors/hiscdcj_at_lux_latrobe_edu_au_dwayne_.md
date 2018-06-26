@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hiscdcj_at_lux_latrobe_edu_au_dwayne_
+post_count: 16
 ---
 
-# hiscdcj@lux.latrobe.edu.au  (Dwayne) (16 posts)
+# hiscdcj<span>@</span>lux.latrobe.edu.au  (Dwayne) (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

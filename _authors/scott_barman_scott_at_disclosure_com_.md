@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_barman_scott_at_disclosure_com_
+post_count: 1
 ---
 
-# Scott Barman <scott@Disclosure.COM> (1 posts)
+# Scott Barman <scott<span>@</span>Disclosure.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

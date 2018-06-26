@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jmr_at_rmisp_com_justin_robbins_
+post_count: 1
 ---
 
-# jmr@rmisp.com (Justin Robbins) (1 posts)
+# jmr<span>@</span>rmisp.com (Justin Robbins) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

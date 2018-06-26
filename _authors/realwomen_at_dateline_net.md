@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: realwomen_at_dateline_net
+post_count: 1
 ---
 
-# realwomen@dateline.net (1 posts)
+# realwomen<span>@</span>dateline.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

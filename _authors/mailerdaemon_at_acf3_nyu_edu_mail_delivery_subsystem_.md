@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mailerdaemon_at_acf3_nyu_edu_mail_delivery_subsystem_
+post_count: 1
 ---
 
-# MAILER-DAEMON@acf3.NYU.EDU (Mail Delivery Subsystem) (1 posts)
+# MAILER-DAEMON<span>@</span>acf3.NYU.EDU (Mail Delivery Subsystem) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

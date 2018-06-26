@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qweasd123_at_mydejanews_com
+post_count: 2
 ---
 
-# qweasd123@my-dejanews.com (2 posts)
+# qweasd123<span>@</span>my-dejanews.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

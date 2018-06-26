@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fyodor_yarochkin_fygrave_at_freenet_bishkek_su_
+post_count: 9
 ---
 
-# Fyodor Yarochkin <fygrave@freenet.bishkek.su> (9 posts)
+# Fyodor Yarochkin <fygrave<span>@</span>freenet.bishkek.su> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

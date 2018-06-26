@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vdomingo_at_medialabs_es_victor_domingo__medialabs_comunicacion_
+post_count: 1
 ---
 
-# vdomingo@medialabs.es (Victor Domingo - MediaLabs Comunicacion) (1 posts)
+# vdomingo<span>@</span>medialabs.es (Victor Domingo - MediaLabs Comunicacion) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

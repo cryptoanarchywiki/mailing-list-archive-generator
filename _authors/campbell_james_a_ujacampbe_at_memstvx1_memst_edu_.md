@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: campbell_james_a_ujacampbe_at_memstvx1_memst_edu_
+post_count: 2
 ---
 
-# "Campbell James A" <UJACAMPBE@memstvx1.memst.edu> (2 posts)
+# "Campbell James A" <UJACAMPBE<span>@</span>memstvx1.memst.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

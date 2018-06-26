@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rwhelan_at_mason1_gmu_edu_ryan_a_whelan_
+post_count: 1
 ---
 
-# rwhelan@mason1.gmu.edu (Ryan A. Whelan) (1 posts)
+# rwhelan<span>@</span>mason1.gmu.edu (Ryan A. Whelan) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

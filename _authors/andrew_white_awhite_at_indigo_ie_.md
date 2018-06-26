@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_white_awhite_at_indigo_ie_
+post_count: 1
 ---
 
-# "Andrew White" <awhite@indigo.ie> (1 posts)
+# "Andrew White" <awhite<span>@</span>indigo.ie> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: q2ds_at_q2dsuv_net
+post_count: 1
 ---
 
-# q2ds@q2dsuv.net (1 posts)
+# q2ds<span>@</span>q2dsuv.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

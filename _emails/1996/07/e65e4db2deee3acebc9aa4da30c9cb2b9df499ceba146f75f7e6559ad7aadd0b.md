@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: David Sternlight \<david@sternlight.com\><br>
+From: David Sternlight \<david<span>@</span>sternlight.com\><br>
 To: cypherpunks@toad.com (Cypherpunks)<br>
 Message Hash: e65e4db2deee3acebc9aa4da30c9cb2b9df499ceba146f75f7e6559ad7aadd0b<br>
 Message ID: \<v03007612ae15b6edb039@[192.187.162.15]\><br>
@@ -58,6 +58,9 @@ David
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[David Lesher <wb8foz<span>@</span>nrk.com>](/author/david_lesher_wb8foz_at_nrk_com_)"
++ Return to "[David Sternlight <david<span>@</span>sternlight.com>](/author/david_sternlight_david_at_sternlight_com_)"
 
 + 1996-07-19 (Sat, 20 Jul 1996 03:07:38 +0800) - [PictureTel Licenses Cylink Security Technology For Encrypted Videoconfe (fwd)](/archive/1996/07/39e0a520f9bc77290cc8e375ef436db1c0682103b28131030633592bcc691656) - _David Lesher \<wb8foz@nrk.com\>_
   + 1996-07-20 (Sat, 20 Jul 1996 13:16:55 +0800) - Re: PictureTel Licenses Cylink Security Technology For EncryptedVideoconfe (fwd) - _David Sternlight \<david@sternlight.com\>_

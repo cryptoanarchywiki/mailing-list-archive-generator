@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ian_f_silver_silveri_at_mgmtscience_com_
+post_count: 1
 ---
 
-# "Ian F. Silver" <silveri@mgmtscience.com> (1 posts)
+# "Ian F. Silver" <silveri<span>@</span>mgmtscience.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

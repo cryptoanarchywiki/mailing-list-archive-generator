@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: internet_free_terra_carljohn_at_sk_sympatico_ca_
+post_count: 2
 ---
 
-# InterNet Free Terra <carljohn@sk.sympatico.ca> (2 posts)
+# InterNet Free Terra <carljohn<span>@</span>sk.sympatico.ca> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

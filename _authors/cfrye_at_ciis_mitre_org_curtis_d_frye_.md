@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cfrye_at_ciis_mitre_org_curtis_d_frye_
+post_count: 24
 ---
 
-# cfrye@ciis.mitre.org (Curtis D. Frye) (24 posts)
+# cfrye<span>@</span>ciis.mitre.org (Curtis D. Frye) (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

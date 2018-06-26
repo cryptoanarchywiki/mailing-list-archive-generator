@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ichudov_at_algebra_com_ignoramus_
+post_count: 1
 ---
 
-# ichudov@Algebra.COM (Ignoramus) (1 posts)
+# ichudov<span>@</span>Algebra.COM (Ignoramus) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

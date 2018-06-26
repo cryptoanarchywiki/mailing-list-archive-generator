@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hughes_at_toad_com_eric_hughes_
+post_count: 1
 ---
 
-# hughes@toad.com (Eric Hughes) (1 posts)
+# hughes<span>@</span>toad.com (Eric Hughes) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

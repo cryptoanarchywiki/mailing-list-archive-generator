@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: klemen_ramoves_klemen_at_ljoz_sik_si_
+post_count: 1
 ---
 
-# KLEMEN RAMOVES <KLEMEN@lj-oz.sik.si> (1 posts)
+# KLEMEN RAMOVES <KLEMEN<span>@</span>lj-oz.sik.si> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

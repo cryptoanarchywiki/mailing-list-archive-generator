@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jf_avon@citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))<br>
+From: jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 41adc3da46c8eb9ff9e15f5e09dcfdd35fdf54bbf43ed516e5414fdd3f1f602c<br>
 Message ID: \<9603091853.AA15821@cti02.citenet.net\><br>
@@ -91,6 +91,8 @@ fingerprint=52 96 45 E8 20 5A 8A 5E  F8 7C C8 6F AE FE F8 91
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))](/author/jf_avon_at_citenet_net_jeanfrancois_avon_jfa_technologies_qc_canada_)"
 
 + 1996-03-09 (Sun, 10 Mar 1996 05:06:27 +0800) - Re: Assassination Politics(tm) was V-chips, CC, and Motorcycle  Helmets - _jf_avon@citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))_
 

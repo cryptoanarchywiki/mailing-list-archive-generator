@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nowhere_at_bsucs_bsu_edu_anonymous_
+post_count: 12
 ---
 
-# nowhere@bsu-cs.bsu.edu (Anonymous) (12 posts)
+# nowhere<span>@</span>bsu-cs.bsu.edu (Anonymous) (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_jennings_at_f111_n125_z1_fidonet_org_tom_jennings_
+post_count: 45
 ---
 
-# tom.jennings@f111.n125.z1.FIDONET.ORG (tom jennings) (45 posts)
+# tom.jennings<span>@</span>f111.n125.z1.FIDONET.ORG (tom jennings) (45 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

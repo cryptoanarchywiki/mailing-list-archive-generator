@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adam Back \<aba@dcs.ex.ac.uk\><br>
+From: Adam Back \<aba<span>@</span>dcs.ex.ac.uk\><br>
 To: fod@brd.ie<br>
 Message Hash: 1c4bf161f1aee9ddcdf6cc6285bb823ce63bec071f052cefbecebd635d40f972<br>
 Message ID: \<199810081945.UAA14149@server.eternity.org\><br>
@@ -127,6 +127,13 @@ print pack"C*",split/\D+/,`echo "16iII*o\U@{$/=$z;[(pop,pop,unpack"H*",<>
 ## Thread
 
 + Return to [October 1998](/archive/1998/10)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
++ Return to "["Frank O'Dwyer" <fod<span>@</span>brd.ie>](/author/frank_odwyer_fod_at_brd_ie_)"
++ Return to "["Jim McCoy" <mccoy<span>@</span>yahoo-inc.com>](/author/jim_mccoy_mccoy_at_yahooinc_com_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[Richard Stallman <rms<span>@</span>gnu.org>](/author/richard_stallman_rms_at_gnu_org_)"
 
 + 1998-10-07 (Thu, 8 Oct 1998 04:06:20 +0800) - [Re: propose: `cypherpunks license' (Re: Wanted: Twofish source   code)](/archive/1998/10/baf74756cfea7b417c75051bb1a9fd52f3479c1819652d04e3a2590fcfa0d95a) - _"Jim McCoy" \<mccoy@yahoo-inc.com\>_
   + 1998-10-07 (Thu, 8 Oct 1998 06:59:35 +0800) - [Re: propose: `cypherpunks license' (Re: Wanted: Twofish source   code)](/archive/1998/10/7f92d43a9d8190926a12c834b3251dbc796b6cb279f4f0e579e8a1e79b9fe054) - _"Frank O'Dwyer" \<fod@brd.ie\>_

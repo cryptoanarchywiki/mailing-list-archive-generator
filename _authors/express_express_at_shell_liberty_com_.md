@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: express_express_at_shell_liberty_com_
+post_count: 1
 ---
 
-# "EXPRESS" <express@shell.liberty.com> (1 posts)
+# "EXPRESS" <express<span>@</span>shell.liberty.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

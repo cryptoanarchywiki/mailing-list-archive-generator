@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: myers_w_carpenter_bmcarpenter_at_trevecca_edu_
+post_count: 3
 ---
 
-# "Myers W. Carpenter" <bmcarpenter@trevecca.edu> (3 posts)
+# "Myers W. Carpenter" <bmcarpenter<span>@</span>trevecca.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bruce Baugh \<bruce@aracnet.com\><br>
+From: Bruce Baugh \<bruce<span>@</span>aracnet.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ecce53c3f9c50efaa5dd1a2db5e6cb98eab16890fee4fb75f37769c0b0177cae<br>
 Message ID: \<2.2.32.19960223034206.00686e9c@mail.aracnet.com\><br>
@@ -141,6 +141,9 @@ http://www.aracnet.com/~bruce
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[Bruce Baugh <bruce<span>@</span>aracnet.com>](/author/bruce_baugh_bruce_at_aracnet_com_)"
++ Return to "[Bryan Strawser <bstrawse<span>@</span>copper.ucs.indiana.edu>](/author/bryan_strawser_bstrawse_at_copper_ucs_indiana_edu_)"
 
 + 1996-02-23 (Sat, 24 Feb 1996 07:05:15 +0800) - Remailers, Feb - _Bruce Baugh \<bruce@aracnet.com\>_
   + 1996-02-23 (Sat, 24 Feb 1996 07:08:13 +0800) - [Re: Remailers, Feb](/archive/1996/02/d3cd3a9b510673b8989d72978f0470e3e8c833fb8b6d556631ba7d1b540c49d6) - _Bryan Strawser \<bstrawse@copper.ucs.indiana.edu\>_

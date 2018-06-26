@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christopher_kotze_kotze1_at_batis_bis_und_ac_za_
+post_count: 3
 ---
 
-# Christopher Kotze <kotze1@batis.bis.und.ac.za> (3 posts)
+# Christopher Kotze <kotze1<span>@</span>batis.bis.und.ac.za> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

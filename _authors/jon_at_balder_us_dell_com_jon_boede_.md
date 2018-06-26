@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jon_at_balder_us_dell_com_jon_boede_
+post_count: 8
 ---
 
-# jon@balder.us.dell.com (Jon Boede) (8 posts)
+# jon<span>@</span>balder.us.dell.com (Jon Boede) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

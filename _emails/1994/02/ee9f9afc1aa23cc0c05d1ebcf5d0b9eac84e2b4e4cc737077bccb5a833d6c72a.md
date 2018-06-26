@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: catalyst-remailer@netcom.com<br>
+From: catalyst-remailer<span>@</span>netcom.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ee9f9afc1aa23cc0c05d1ebcf5d0b9eac84e2b4e4cc737077bccb5a833d6c72a<br>
 Message ID: \<199402040732.XAA02211@mail.netcom.com\><br>
@@ -298,6 +298,8 @@ Remailer Public Keys:
 ## Thread
 
 + Return to [February 1994](/archive/1994/02)
+
++ Return to "[catalyst-remailer<span>@</span>netcom.com](/author/catalystremailer_at_netcom_com)"
 
 + 1994-02-04 (Thu, 3 Feb 94 23:34:53 PST) - Remailer FAQ. Details. - _catalyst-remailer@netcom.com_
 

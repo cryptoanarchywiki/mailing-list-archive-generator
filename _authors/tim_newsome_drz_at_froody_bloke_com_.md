@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tim_newsome_drz_at_froody_bloke_com_
+post_count: 3
 ---
 
-# Tim Newsome <drz@froody.bloke.com> (3 posts)
+# Tim Newsome <drz<span>@</span>froody.bloke.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

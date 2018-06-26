@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_grubs_w8grt__jgrubs_at_webcasters_com_
+post_count: 1
 ---
 
-# "Jim Grubs (W8GRT)" <jgrubs@webcasters.com> (1 posts)
+# "Jim Grubs (W8GRT)" <jgrubs<span>@</span>webcasters.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

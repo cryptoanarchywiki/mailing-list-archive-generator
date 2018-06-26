@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 100000_business_opportunitie_cbear_at_adgrafix_com_
+post_count: 1
 ---
 
-# "$100,000 BUSINESS OPPORTUNITIE!" <cbear@adgrafix.com> (1 posts)
+# "$100,000 BUSINESS OPPORTUNITIE!" <cbear<span>@</span>adgrafix.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

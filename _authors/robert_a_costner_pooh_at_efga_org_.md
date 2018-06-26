@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_a_costner_pooh_at_efga_org_
+post_count: 94
 ---
 
-# "Robert A. Costner" <pooh@efga.org> (94 posts)
+# "Robert A. Costner" <pooh<span>@</span>efga.org> (94 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

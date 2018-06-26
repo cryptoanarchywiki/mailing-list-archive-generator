@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tomaz_borstnar_tomaz_borstnar_at_arnes_si_
+post_count: 5
 ---
 
-# Tomaz Borstnar <Tomaz.Borstnar@arnes.si> (5 posts)
+# Tomaz Borstnar <Tomaz.Borstnar<span>@</span>arnes.si> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

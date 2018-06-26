@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 78173518_at_arosnet_se
+post_count: 1
 ---
 
-# 78173518@arosnet.se (1 posts)
+# 78173518<span>@</span>arosnet.se (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

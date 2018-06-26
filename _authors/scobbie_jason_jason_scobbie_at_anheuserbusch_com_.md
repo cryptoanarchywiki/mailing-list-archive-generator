@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scobbie_jason_jason_scobbie_at_anheuserbusch_com_
+post_count: 1
 ---
 
-# "Scobbie, Jason" <jason.scobbie@anheuser-busch.com> (1 posts)
+# "Scobbie, Jason" <jason.scobbie<span>@</span>anheuser-busch.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

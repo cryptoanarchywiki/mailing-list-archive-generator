@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alpine_sys_a_i_s_at_hotmail_com_
+post_count: 1
 ---
 
-# "Alpine Sys" <a_i_s@hotmail.com> (1 posts)
+# "Alpine Sys" <a_i_s<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

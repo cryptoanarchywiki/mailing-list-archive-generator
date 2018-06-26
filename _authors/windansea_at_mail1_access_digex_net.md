@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: windansea_at_mail1_access_digex_net
+post_count: 1
 ---
 
-# Windansea@mail1.access.digex.net (1 posts)
+# Windansea<span>@</span>mail1.access.digex.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

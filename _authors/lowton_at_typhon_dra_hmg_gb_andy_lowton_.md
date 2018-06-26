@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lowton_at_typhon_dra_hmg_gb_andy_lowton_
+post_count: 1
 ---
 
-# lowton@typhon.dra.hmg.gb (Andy Lowton) (1 posts)
+# lowton<span>@</span>typhon.dra.hmg.gb (Andy Lowton) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

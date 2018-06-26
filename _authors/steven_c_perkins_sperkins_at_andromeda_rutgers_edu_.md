@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steven_c_perkins_sperkins_at_andromeda_rutgers_edu_
+post_count: 5
 ---
 
-# "Steven C. Perkins" <sperkins@andromeda.rutgers.edu> (5 posts)
+# "Steven C. Perkins" <sperkins<span>@</span>andromeda.rutgers.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

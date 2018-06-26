@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: forinformationvisitus_at_ourwebsite_now
+post_count: 1
 ---
 
-# ForInformationVisitUs@OurWebSite.Now (1 posts)
+# ForInformationVisitUs<span>@</span>OurWebSite.Now (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

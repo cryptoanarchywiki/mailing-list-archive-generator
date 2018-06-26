@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: meredith_balcom_mbalcom_at_awai_com_
+post_count: 1
 ---
 
-# Meredith Balcom <mbalcom@awai.com> (1 posts)
+# Meredith Balcom <mbalcom<span>@</span>awai.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

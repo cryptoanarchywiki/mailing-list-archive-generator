@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: grm_at_bighorn_dr_att_com_g_r_martinez_
+post_count: 3
 ---
 
-# grm@bighorn.dr.att.com (G.R.Martinez) (3 posts)
+# grm<span>@</span>bighorn.dr.att.com (G.R.Martinez) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

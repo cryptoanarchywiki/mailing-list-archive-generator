@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_robichaux_paul_at_ljl_com_
+post_count: 7
 ---
 
-# Paul Robichaux <paul@ljl.COM> (7 posts)
+# Paul Robichaux <paul<span>@</span>ljl.COM> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

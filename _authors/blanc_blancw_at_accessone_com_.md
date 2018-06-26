@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blanc_blancw_at_accessone_com_
+post_count: 50
 ---
 
-# blanc <blancw@accessone.com> (50 posts)
+# blanc <blancw<span>@</span>accessone.com> (50 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

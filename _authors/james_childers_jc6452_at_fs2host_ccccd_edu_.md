@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_childers_jc6452_at_fs2host_ccccd_edu_
+post_count: 2
 ---
 
-# James Childers <JC6452@FS2HOST.CCCCD.EDU> (2 posts)
+# James Childers <JC6452<span>@</span>FS2HOST.CCCCD.EDU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

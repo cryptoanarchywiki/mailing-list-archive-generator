@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: johan_at_eniac_campus_luth_se_johan_sandberg_
+post_count: 4
 ---
 
-# johan@eniac.campus.luth.se (Johan Sandberg) (4 posts)
+# johan<span>@</span>eniac.campus.luth.se (Johan Sandberg) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

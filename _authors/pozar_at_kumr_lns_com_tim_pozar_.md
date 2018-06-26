@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pozar_at_kumr_lns_com_tim_pozar_
+post_count: 13
 ---
 
-# pozar@kumr.lns.com (Tim Pozar) (13 posts)
+# pozar<span>@</span>kumr.lns.com (Tim Pozar) (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_at_staff_udc_upenn_edu_r_david_murray_
+post_count: 6
 ---
 
-# david@staff.udc.upenn.edu (R. David Murray) (6 posts)
+# david<span>@</span>staff.udc.upenn.edu (R. David Murray) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

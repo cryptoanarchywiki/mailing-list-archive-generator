@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bjorn_e_andersson_bea_at_algonet_se_
+post_count: 2
 ---
 
-# "Bjorn E. Andersson" <bea@algonet.se> (2 posts)
+# "Bjorn E. Andersson" <bea<span>@</span>algonet.se> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

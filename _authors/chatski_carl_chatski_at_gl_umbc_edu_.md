@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chatski_carl_chatski_at_gl_umbc_edu_
+post_count: 4
 ---
 
-# chatski carl <chatski@gl.umbc.edu> (4 posts)
+# chatski carl <chatski<span>@</span>gl.umbc.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

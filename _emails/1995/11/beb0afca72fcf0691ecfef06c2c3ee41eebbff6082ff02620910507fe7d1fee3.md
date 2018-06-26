@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Carl Ellison \<cme@TIS.COM\><br>
+From: Carl Ellison \<cme<span>@</span>TIS.COM\><br>
 To: tcmay@got.net<br>
 Message Hash: beb0afca72fcf0691ecfef06c2c3ee41eebbff6082ff02620910507fe7d1fee3<br>
 Message ID: \<9511022143.AA26596@tis.com\><br>
@@ -88,6 +88,10 @@ claiming that.)
 
 + Return to [November 1995](/archive/1995/11)
 
-+ 1995-11-02 (Fri, 3 Nov 1995 07:13:18 +0800) - Sources of randomness - _Carl Ellison \<cme@TIS.COM\>_
-  + 1995-11-03 (Fri, 3 Nov 1995 10:00:07 +0800) - [Re: Sources of randomness](/archive/1995/11/d3345dcaf84808e388e1d17423d0b221e0b251be739944294854410254be7e3d) - _"Perry E. Metzger" \<perry@piermont.com\>_
++ Return to "[Carl Ellison <cme<span>@</span>TIS.COM>](/author/carl_ellison_cme_at_tis_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
+
++ _Unknown thread root_
+  + 1995-11-02 (Fri, 3 Nov 1995 07:13:18 +0800) - Sources of randomness - _Carl Ellison \<cme@TIS.COM\>_
+    + 1995-11-03 (Fri, 3 Nov 1995 10:00:07 +0800) - [Re: Sources of randomness](/archive/1995/11/d3345dcaf84808e388e1d17423d0b221e0b251be739944294854410254be7e3d) - _"Perry E. Metzger" \<perry@piermont.com\>_
 

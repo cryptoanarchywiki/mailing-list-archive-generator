@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: howard_cheng_howard_at_cs_ualberta_ca_
+post_count: 1
 ---
 
-# Howard Cheng <howard@cs.ualberta.ca> (1 posts)
+# Howard Cheng <howard<span>@</span>cs.ualberta.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

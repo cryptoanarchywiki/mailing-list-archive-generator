@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_at_riskdev_ml_com_andrew_brown_
+post_count: 4
 ---
 
-# andrew@riskdev.ml.com (Andrew Brown) (4 posts)
+# andrew<span>@</span>riskdev.ml.com (Andrew Brown) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

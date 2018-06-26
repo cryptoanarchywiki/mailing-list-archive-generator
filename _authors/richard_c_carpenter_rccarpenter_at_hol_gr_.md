@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_c_carpenter_rccarpenter_at_hol_gr_
+post_count: 1
 ---
 
-# "Richard C. Carpenter" <rccarpenter@hol.gr> (1 posts)
+# "Richard C. Carpenter" <rccarpenter<span>@</span>hol.gr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: teezi62_at_nimbus_rz_unikonstanz_de_jorge_boback_
+post_count: 1
 ---
 
-# teezi62@nimbus.rz.uni-konstanz.de (Jorge Boback) (1 posts)
+# teezi62<span>@</span>nimbus.rz.uni-konstanz.de (Jorge Boback) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

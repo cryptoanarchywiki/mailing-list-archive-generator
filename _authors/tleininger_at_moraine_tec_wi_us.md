@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tleininger_at_moraine_tec_wi_us
+post_count: 1
 ---
 
-# tleininger@moraine.tec.wi.us (1 posts)
+# tleininger<span>@</span>moraine.tec.wi.us (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

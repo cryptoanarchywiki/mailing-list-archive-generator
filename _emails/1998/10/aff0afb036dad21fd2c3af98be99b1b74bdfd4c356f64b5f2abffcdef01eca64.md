@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Vladimir Z. Nuri" \<vznuri@netcom.com\><br>
+From: "Vladimir Z. Nuri" \<vznuri<span>@</span>netcom.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: aff0afb036dad21fd2c3af98be99b1b74bdfd4c356f64b5f2abffcdef01eca64<br>
 Message ID: \<199810162207.PAA10003@netcom13.netcom.com\><br>
@@ -178,6 +178,9 @@ www.telepath.com/believer
 ## Thread
 
 + Return to [October 1998](/archive/1998/10)
+
++ Return to "[chatski carl <chatski<span>@</span>gl.umbc.edu>](/author/chatski_carl_chatski_at_gl_umbc_edu_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1998-10-16 (Sat, 17 Oct 1998 06:33:29 +0800) - IP: Silent Weapon of Mass Destruction - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
   + 1998-10-17 (Sat, 17 Oct 1998 22:34:20 +0800) - [Re: IP: Silent Weapon of Mass Destruction](/archive/1998/10/e60423630c04b2cb591dbcd32292d5c8797c2e7201990c95bad6dd9c0a8bd95e) - _chatski carl \<chatski@gl.umbc.edu\>_

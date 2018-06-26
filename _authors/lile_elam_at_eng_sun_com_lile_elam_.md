@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lile_elam_at_eng_sun_com_lile_elam_
+post_count: 1
 ---
 
-# Lile.Elam@Eng.Sun.COM (Lile Elam) (1 posts)
+# Lile.Elam<span>@</span>Eng.Sun.COM (Lile Elam) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

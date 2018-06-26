@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: inquiry_at_assetmax_com_assetmax_
+post_count: 1
 ---
 
-# inquiry@asset-max.com (Asset-Max) (1 posts)
+# inquiry<span>@</span>asset-max.com (Asset-Max) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

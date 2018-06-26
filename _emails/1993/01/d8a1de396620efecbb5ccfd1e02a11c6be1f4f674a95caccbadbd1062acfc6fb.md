@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>netcom.com (Timothy C. May)<br>
 To: Eric.Fogleman@analog.com (Eric Fogleman)<br>
 Message Hash: d8a1de396620efecbb5ccfd1e02a11c6be1f4f674a95caccbadbd1062acfc6fb<br>
 Message ID: \<9301191933.AA11035@netcom3.netcom.com\><br>
@@ -100,6 +100,9 @@ Higher Power: 2^756839 | PGP Public Key: by arrangement.
 ## Thread
 
 + Return to [January 1993](/archive/1993/01)
+
++ Return to "[Eric Fogleman <Eric.Fogleman<span>@</span>analog.com>](/author/eric_fogleman_eric_fogleman_at_analog_com_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1993-01-19 (Tue, 19 Jan 93 10:48:46 PST) - [Q: What's happening in cryptography?](/archive/1993/01/435e88d493be5cbe58b88470f91f272b0bf1d48bf141cdc2333bf7d334138ded) - _Eric Fogleman \<Eric.Fogleman@analog.com\>_
   + 1993-01-19 (Tue, 19 Jan 93 11:36:09 PST) - Re: Q: What's happening in cryptography? - _tcmay@netcom.com (Timothy C. May)_

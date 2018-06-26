@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_prisoner_the_village_at_null_gov_
+post_count: 2
 ---
 
-# the prisoner <the_village@null.gov> (2 posts)
+# the prisoner <the_village<span>@</span>null.gov> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

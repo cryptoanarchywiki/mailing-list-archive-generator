@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: munro_saunders_munro_at_ci_com_au_
+post_count: 1
 ---
 
-# Munro Saunders <munro@ci.com.au> (1 posts)
+# Munro Saunders <munro<span>@</span>ci.com.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

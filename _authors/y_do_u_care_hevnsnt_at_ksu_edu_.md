@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: y_do_u_care_hevnsnt_at_ksu_edu_
+post_count: 2
 ---
 
-# Y Do U Care <hevnsnt@ksu.edu> (2 posts)
+# Y Do U Care <hevnsnt<span>@</span>ksu.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

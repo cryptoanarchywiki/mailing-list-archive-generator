@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: max_domeika_max_domeika_at_ccm_jf_intel_com_
+post_count: 1
 ---
 
-# Max Domeika <Max_Domeika@ccm.jf.intel.com> (1 posts)
+# Max Domeika <Max_Domeika<span>@</span>ccm.jf.intel.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

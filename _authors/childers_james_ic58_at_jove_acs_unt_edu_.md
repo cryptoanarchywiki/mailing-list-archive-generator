@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: childers_james_ic58_at_jove_acs_unt_edu_
+post_count: 7
 ---
 
-# Childers James <ic58@jove.acs.unt.edu> (7 posts)
+# Childers James <ic58<span>@</span>jove.acs.unt.edu> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

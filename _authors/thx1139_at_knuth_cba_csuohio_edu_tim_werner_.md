@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thx1139_at_knuth_cba_csuohio_edu_tim_werner_
+post_count: 1
 ---
 
-# thx1139@knuth.cba.csuohio.edu (tim werner) (1 posts)
+# thx1139<span>@</span>knuth.cba.csuohio.edu (tim werner) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

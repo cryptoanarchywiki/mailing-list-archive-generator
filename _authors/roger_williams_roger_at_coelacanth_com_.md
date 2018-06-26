@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roger_williams_roger_at_coelacanth_com_
+post_count: 37
 ---
 
-# Roger Williams <roger@coelacanth.com> (37 posts)
+# Roger Williams <roger<span>@</span>coelacanth.com> (37 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

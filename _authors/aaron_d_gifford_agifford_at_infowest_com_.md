@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aaron_d_gifford_agifford_at_infowest_com_
+post_count: 2
 ---
 
-# "Aaron D. gifford" <agifford@infowest.com> (2 posts)
+# "Aaron D. gifford" <agifford<span>@</span>infowest.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ht1_howell_reese_r7_x7572_prd_0398_howree_at_cable_navy_mil_
+post_count: 1
 ---
 
-# "HT1 HOWELL, REESE R-7 X7572  PRD 03/98" <howree@cable.navy.mil> (1 posts)
+# "HT1 HOWELL, REESE R-7 X7572  PRD 03/98" <howree<span>@</span>cable.navy.mil> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

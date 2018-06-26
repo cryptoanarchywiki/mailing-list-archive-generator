@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kelly_at_netcom_com_kelly_goen_
+post_count: 40
 ---
 
-# kelly@netcom.com (Kelly Goen) (40 posts)
+# kelly<span>@</span>netcom.com (Kelly Goen) (40 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

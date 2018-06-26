@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mo Baxter \<morpheus@math.whitman.edu\><br>
+From: Mo Baxter \<morpheus<span>@</span>math.whitman.edu\><br>
 To: Matthew Ghio \<ghio@myriad.pc.cc.cmu.edu\><br>
 Message Hash: 44eda9adcbaf0bd37b9f8df3c0dcc96a762bdfdfbf61d8cb8d4dfc28c851ae2a<br>
 Message ID: \<Pine.SOL.3.91.950125121853.5452A-100000@calvin\><br>
@@ -46,6 +46,8 @@ Thanks,
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[Mo Baxter <morpheus<span>@</span>math.whitman.edu>](/author/mo_baxter_morpheus_at_math_whitman_edu_)"
 
 + 1995-01-25 (Wed, 25 Jan 95 12:53:16 PST) - Starting a remailer - _Mo Baxter \<morpheus@math.whitman.edu\>_
 

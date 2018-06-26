@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dmiskell_at_envirolink_org_daniel_christopher_miskell_
+post_count: 6
 ---
 
-# DMiskell@envirolink.org (Daniel Christopher Miskell) (6 posts)
+# DMiskell<span>@</span>envirolink.org (Daniel Christopher Miskell) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

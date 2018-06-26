@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: iang@cs.berkeley.edu (Ian Goldberg)<br>
+From: iang<span>@</span>cs.berkeley.edu (Ian Goldberg)<br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 79b8b0a6889acafb0e8f0eaeaab94d038c53db7dcda990ae23ebfd8f36db72c1<br>
 Message ID: \<5vh3n6$qm9$1@abraham.cs.berkeley.edu\><br>
@@ -49,6 +49,15 @@ passed that would fix this.  The court challenges, of course, move slowly.
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[? the Lunatic <hehehe<span>@</span>dev.null>](/author/_the_lunatic_hehehe_at_dev_null_)"
++ Return to "[Declan McCullagh <declan<span>@</span>pathfinder.com>](/author/declan_mccullagh_declan_at_pathfinder_com_)"
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
++ Return to "[iang<span>@</span>cs.berkeley.edu (Ian Goldberg)](/author/iang_at_cs_berkeley_edu_ian_goldberg_)"
++ Return to "["John Smith" <jsmith58<span>@</span>hotmail.com>](/author/john_smith_jsmith58_at_hotmail_com_)"
++ Return to "[Lee Tien <tien<span>@</span>well.com>](/author/lee_tien_tien_at_well_com_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[Will Rodger <rodger<span>@</span>worldnet.att.net>](/author/will_rodger_rodger_at_worldnet_att_net_)"
 
 + 1997-09-12 (Sat, 13 Sep 1997 01:27:28 +0800) - [unSAFE won't pass?](/archive/1997/09/8d76bdbb0263060dfb5817c7168275a471f1b5deea69d3d197524345305b39a1) - _"John Smith" \<jsmith58@hotmail.com\>_
   + 1997-09-12 (Sat, 13 Sep 1997 04:22:12 +0800) - [Re: unSAFE won't pass?](/archive/1997/09/d738e94d288593440d08d82c438416af386696dd1d6e7d36931b511d765a16e9) - _Lee Tien \<tien@well.com\>_

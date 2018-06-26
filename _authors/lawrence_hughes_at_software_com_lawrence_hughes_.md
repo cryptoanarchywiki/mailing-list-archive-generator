@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lawrence_hughes_at_software_com_lawrence_hughes_
+post_count: 1
 ---
 
-# Lawrence.Hughes@Software.com (Lawrence Hughes) (1 posts)
+# Lawrence.Hughes<span>@</span>Software.com (Lawrence Hughes) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

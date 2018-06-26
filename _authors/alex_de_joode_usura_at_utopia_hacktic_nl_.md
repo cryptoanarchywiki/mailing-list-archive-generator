@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_de_joode_usura_at_utopia_hacktic_nl_
+post_count: 8
 ---
 
-# Alex de Joode <usura@utopia.hacktic.nl> (8 posts)
+# Alex de Joode <usura<span>@</span>utopia.hacktic.nl> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

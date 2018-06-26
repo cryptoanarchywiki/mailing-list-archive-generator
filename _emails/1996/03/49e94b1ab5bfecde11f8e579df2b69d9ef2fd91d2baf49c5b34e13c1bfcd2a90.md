@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "David K. Merriman" \<merriman@arn.net\><br>
+From: "David K. Merriman" \<merriman<span>@</span>arn.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 49e94b1ab5bfecde11f8e579df2b69d9ef2fd91d2baf49c5b34e13c1bfcd2a90<br>
 Message ID: \<2.2.32.19960303090718.006a7d38@arn.net\><br>
@@ -76,6 +76,9 @@ For privacy tools: http://www.geocities.com/capitolhill/1148
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/author/david_k_merriman_merriman_at_arn_net_)"
 
 + 1996-03-03 (Mon, 4 Mar 1996 05:40:12 +0800) - Re: Duress - _"David K. Merriman" \<merriman@arn.net\>_
   + 1996-03-04 (Mon, 4 Mar 1996 08:18:38 +0800) - [Re: Duress](/archive/1996/03/0287ccc5cc94744c68f67bf2c582cca27cf4c333b5f184cc4963358f5f3572d2) - _Black Unicorn \<unicorn@schloss.li\>_

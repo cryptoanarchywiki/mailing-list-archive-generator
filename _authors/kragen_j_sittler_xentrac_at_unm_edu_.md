@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kragen_j_sittler_xentrac_at_unm_edu_
+post_count: 1
 ---
 
-# Kragen J Sittler <xentrac@unm.edu> (1 posts)
+# Kragen J Sittler <xentrac<span>@</span>unm.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

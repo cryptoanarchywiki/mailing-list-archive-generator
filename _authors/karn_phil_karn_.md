@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: karn_phil_karn_
+post_count: 3
 ---
 
 # karn (Phil Karn) (3 posts)

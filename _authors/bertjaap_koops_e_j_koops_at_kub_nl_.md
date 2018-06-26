@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bertjaap_koops_e_j_koops_at_kub_nl_
+post_count: 26
 ---
 
-# "Bert-Jaap Koops" <E.J.Koops@kub.nl> (26 posts)
+# "Bert-Jaap Koops" <E.J.Koops<span>@</span>kub.nl> (26 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ddfr_at_best_com_david_friedman_
+post_count: 4
 ---
 
-# ddfr@best.com (david friedman) (4 posts)
+# ddfr<span>@</span>best.com (david friedman) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

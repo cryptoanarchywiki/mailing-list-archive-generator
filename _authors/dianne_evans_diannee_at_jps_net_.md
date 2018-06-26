@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dianne_evans_diannee_at_jps_net_
+post_count: 1
 ---
 
-# Dianne Evans <diannee@jps.net> (1 posts)
+# Dianne Evans <diannee<span>@</span>jps.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

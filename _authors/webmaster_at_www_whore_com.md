@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: webmaster_at_www_whore_com
+post_count: 1
 ---
 
-# webmaster@www.whore.com (1 posts)
+# webmaster<span>@</span>www.whore.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

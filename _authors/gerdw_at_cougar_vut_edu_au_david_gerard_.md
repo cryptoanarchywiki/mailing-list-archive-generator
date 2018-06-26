@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gerdw_at_cougar_vut_edu_au_david_gerard_
+post_count: 1
 ---
 
-# gerdw@cougar.vut.edu.au (David Gerard) (1 posts)
+# gerdw<span>@</span>cougar.vut.edu.au (David Gerard) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Olsen \<alano@teleport.com\><br>
+From: Alan Olsen \<alano<span>@</span>teleport.com\><br>
 To: "Jim Thompson" \<cypherpunks@toad.com<br>
 Message Hash: e91fd0fdc0cef3beab640f3f9a36a66afa87443daaf98a62957a5dafcb0a6ee9<br>
 Message ID: \<2.2.32.19960315040715.008a98b0@mail.teleport.com\><br>
@@ -56,6 +56,8 @@ Yes.  And your point...?
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/author/alan_olsen_alano_at_teleport_com_)"
 
 + 1996-03-15 (Fri, 15 Mar 1996 15:30:24 +0800) - Re: SCHWA - New Web Search Engine!! - _Alan Olsen \<alano@teleport.com\>_
 

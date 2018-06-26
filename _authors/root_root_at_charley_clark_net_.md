@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: root_root_at_charley_clark_net_
+post_count: 2
 ---
 
-# root <root@charley.clark.net> (2 posts)
+# root <root<span>@</span>charley.clark.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

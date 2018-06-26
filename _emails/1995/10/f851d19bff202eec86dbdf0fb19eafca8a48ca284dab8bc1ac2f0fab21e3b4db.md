@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@piermont.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>piermont.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f851d19bff202eec86dbdf0fb19eafca8a48ca284dab8bc1ac2f0fab21e3b4db<br>
 Message ID: \<199510251818.OAA09128@jekyll.piermont.com\><br>
@@ -52,6 +52,9 @@ Anonymous writes:
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1995-10-25 (Wed, 25 Oct 95 11:02:04 PDT) - [arg](/archive/1995/10/36038f579869bb5d7e74343a34c171ecdd985ab4930839a69fae3b7b247e37d3) - _nobody@REPLAY.COM (Anonymous)_
   + 1995-10-25 (Wed, 25 Oct 95 11:18:17 PDT) - Re: arg - _"Perry E. Metzger" \<perry@piermont.com\>_

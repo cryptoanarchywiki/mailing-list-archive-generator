@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deja_news_members_dejanews_at_list_emailpub_com_
+post_count: 1
 ---
 
-# Deja News Members <dejanews@list.emailpub.com> (1 posts)
+# Deja News Members <dejanews<span>@</span>list.emailpub.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

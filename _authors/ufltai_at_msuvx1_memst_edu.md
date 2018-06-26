@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ufltai_at_msuvx1_memst_edu
+post_count: 1
 ---
 
-# UFLTAI@MSUVX1.MEMST.EDU (1 posts)
+# UFLTAI<span>@</span>MSUVX1.MEMST.EDU (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: im_wozz_wozzeck_at_phantom_com_
+post_count: 4
 ---
 
-# I'm Wozz <wozzeck@phantom.com> (4 posts)
+# I'm Wozz <wozzeck<span>@</span>phantom.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

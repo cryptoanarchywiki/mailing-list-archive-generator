@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bienfait_nutly_news_bnn_at_dev_null_
+post_count: 3
 ---
 
-# Bienfait Nutly News <bnn@dev.null> (3 posts)
+# Bienfait Nutly News <bnn<span>@</span>dev.null> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

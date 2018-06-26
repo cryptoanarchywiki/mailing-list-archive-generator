@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: net_at_wedeliver_net
+post_count: 1
 ---
 
-# net@we-deliver.net (1 posts)
+# net<span>@</span>we-deliver.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

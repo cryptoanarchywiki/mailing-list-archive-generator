@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: starrd_at_iia2_org_starrd_at_starrd_
+post_count: 3
 ---
 
-# "starrd@iia2.org" <starrd@starrd> (3 posts)
+# "starrd<span>@</span>iia2.org" <starrd<span>@</span>starrd> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

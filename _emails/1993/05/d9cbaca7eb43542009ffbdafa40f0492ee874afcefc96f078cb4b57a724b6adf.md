@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: mbriceno@aol.com<br>
+From: mbriceno<span>@</span>aol.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d9cbaca7eb43542009ffbdafa40f0492ee874afcefc96f078cb4b57a724b6adf<br>
 Message ID: \<9305220255.tn18219@aol.com\><br>
@@ -61,6 +61,8 @@ without the protection (read: controll) of the government.
 ## Thread
 
 + Return to [May 1993](/archive/1993/05)
+
++ Return to "[mbriceno<span>@</span>aol.com](/author/mbriceno_at_aol_com)"
 
 + 1993-05-22 (Fri, 21 May 93 23:54:04 PDT) - Re: The New Mykotronix phones... - _mbriceno@aol.com_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f4fff5ea1b426d3253fef99dba1aaf574e076dc4bbcc51d64caea67f0c626beb<br>
 Message ID: \<2.2.32.19960420221948.00cfdef4@panix.com\><br>
@@ -51,6 +51,8 @@ DCF
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1996-04-21 (Sun, 21 Apr 1996 08:43:13 +0800) - Re: TERRORISM PREVENTION ACT--CONFERENCE REPORT was: EFF/Bernstein Press Release - _Duncan Frissell \<frissell@panix.com\>_
 

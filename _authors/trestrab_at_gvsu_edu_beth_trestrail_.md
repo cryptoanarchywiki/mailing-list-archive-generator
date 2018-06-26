@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: trestrab_at_gvsu_edu_beth_trestrail_
+post_count: 19
 ---
 
-# trestrab@GVSU.EDU (BETH TRESTRAIL) (19 posts)
+# trestrab<span>@</span>GVSU.EDU (BETH TRESTRAIL) (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

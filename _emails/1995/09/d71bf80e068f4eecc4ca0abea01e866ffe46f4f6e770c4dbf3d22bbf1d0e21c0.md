@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Black Unicorn \<unicorn@polaris.mindport.net\><br>
+From: Black Unicorn \<unicorn<span>@</span>polaris.mindport.net\><br>
 To: Jeff Simmons \<jsimmons@goblin.punk.net\><br>
 Message Hash: d71bf80e068f4eecc4ca0abea01e866ffe46f4f6e770c4dbf3d22bbf1d0e21c0<br>
 Message ID: \<Pine.SUN.3.91.950906235249.14145B-100000@polaris.mindport.net\><br>
@@ -59,6 +59,13 @@ Which University please?
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>polaris.mindport.net>](/author/black_unicorn_unicorn_at_polaris_mindport_net_)"
++ Return to "[Bob Snyder <rsnyder<span>@</span>janet.advsys.com>](/author/bob_snyder_rsnyder_at_janet_advsys_com_)"
++ Return to "[Deranged Mutant <rrothenb<span>@</span>ic.sunysb.edu>](/author/deranged_mutant_rrothenb_at_ic_sunysb_edu_)"
++ Return to "[Jeff Simmons <jsimmons<span>@</span>goblin.punk.net>](/author/jeff_simmons_jsimmons_at_goblin_punk_net_)"
++ Return to "["Josh M. Osborne" <stripes<span>@</span>va.pubnix.com>](/author/josh_m_osborne_stripes_at_va_pubnix_com_)"
++ Return to "["Robert A. Hayden" <hayden<span>@</span>krypton.mankato.msus.edu>](/author/robert_a_hayden_hayden_at_krypton_mankato_msus_edu_)"
 
 + 1995-09-07 (Wed, 6 Sep 95 19:32:32 PDT) - [University logging mail to anon.penet](/archive/1995/09/50a17fee1aefa62e630aa7af84a4cb2f1d62fd61aa3d9325f74e4f52f2c23878) - _Jeff Simmons \<jsimmons@goblin.punk.net\>_
   + 1995-09-07 (Wed, 6 Sep 95 20:05:35 PDT) - [Re: University logging mail to anon.penet](/archive/1995/09/1d27d84588850cf3228f7e9e5a46f8f5bd3034253fcf62238440f04318dab4f6) - _Deranged Mutant \<rrothenb@ic.sunysb.edu\>_

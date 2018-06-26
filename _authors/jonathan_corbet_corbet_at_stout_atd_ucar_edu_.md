@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathan_corbet_corbet_at_stout_atd_ucar_edu_
+post_count: 19
 ---
 
-# Jonathan Corbet <corbet@stout.atd.ucar.edu> (19 posts)
+# Jonathan Corbet <corbet<span>@</span>stout.atd.ucar.edu> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

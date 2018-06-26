@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: arif_at_stat_fsu_edu
+post_count: 1
 ---
 
-# arif@stat.fsu.edu (1 posts)
+# arif<span>@</span>stat.fsu.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

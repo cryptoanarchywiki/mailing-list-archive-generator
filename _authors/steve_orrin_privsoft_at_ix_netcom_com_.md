@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_orrin_privsoft_at_ix_netcom_com_
+post_count: 5
 ---
 
-# Steve Orrin <privsoft@ix.netcom.com> (5 posts)
+# Steve Orrin <privsoft<span>@</span>ix.netcom.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

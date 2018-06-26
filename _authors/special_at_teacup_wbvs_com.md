@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: special_at_teacup_wbvs_com
+post_count: 1
 ---
 
-# special@teacup.wbvs.com (1 posts)
+# special<span>@</span>teacup.wbvs.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

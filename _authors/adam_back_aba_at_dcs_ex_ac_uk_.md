@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adam_back_aba_at_dcs_ex_ac_uk_
+post_count: 732
 ---
 
-# Adam Back <aba@dcs.ex.ac.uk> (732 posts)
+# Adam Back <aba<span>@</span>dcs.ex.ac.uk> (732 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

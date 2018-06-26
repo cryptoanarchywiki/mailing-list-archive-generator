@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jamiel@sybase.com (Jamie Lawrence)<br>
+From: jamiel<span>@</span>sybase.com (Jamie Lawrence)<br>
 To: "Gary Jeffers" \<CCGARY@MIZZOU1.missouri.edu\><br>
 Message Hash: ae899a5d2eae2d0afe18c4c6fa199a68768aa2b287638dee90ade9ddafea6f5a<br>
 Message ID: \<aaaf52df000210034e7e@[130.214.233.13]\><br>
@@ -116,6 +116,8 @@ Comments? Is this dumb? Did I just duplicate someone elses idea?
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[jamiel<span>@</span>sybase.com (Jamie Lawrence)](/author/jamiel_at_sybase_com_jamie_lawrence_)"
 
 + 1994-09-28 (Wed, 28 Sep 94 11:02:26 PDT) - Re: SUFFERANCE remailers - _jamiel@sybase.com (Jamie Lawrence)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lyle_seaman_at_transarc_com
+post_count: 20
 ---
 
-# Lyle_Seaman@transarc.com (20 posts)
+# Lyle_Seaman<span>@</span>transarc.com (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deckard_at_chezrob_pinetree_org_stephen_pandke_
+post_count: 1
 ---
 
-# deckard@chezrob.pinetree.org (Stephen Pandke) (1 posts)
+# deckard<span>@</span>chezrob.pinetree.org (Stephen Pandke) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

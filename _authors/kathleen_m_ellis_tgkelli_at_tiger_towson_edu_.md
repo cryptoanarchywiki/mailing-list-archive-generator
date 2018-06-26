@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kathleen_m_ellis_tgkelli_at_tiger_towson_edu_
+post_count: 2
 ---
 
-# "Kathleen M. Ellis" <tgkelli@tiger.towson.edu> (2 posts)
+# "Kathleen M. Ellis" <tgkelli<span>@</span>tiger.towson.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

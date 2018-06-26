@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: piete_brooks_piete_brooks_at_cl_cam_ac_uk_
+post_count: 47
 ---
 
-# Piete Brooks <Piete.Brooks@cl.cam.ac.uk> (47 posts)
+# Piete Brooks <Piete.Brooks<span>@</span>cl.cam.ac.uk> (47 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

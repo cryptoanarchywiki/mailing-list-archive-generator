@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shit_f_brains_cypherpunks_at_toad_com_
+post_count: 2
 ---
 
-# "Shit F. Brains" <cypherpunks@toad.com> (2 posts)
+# "Shit F. Brains" <cypherpunks<span>@</span>toad.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

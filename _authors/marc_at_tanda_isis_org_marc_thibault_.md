@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_at_tanda_isis_org_marc_thibault_
+post_count: 2
 ---
 
-# marc@tanda.isis.org (Marc Thibault) (2 posts)
+# marc<span>@</span>tanda.isis.org (Marc Thibault) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: llywarch_hen_ecgwulf_at_worldnet_att_net_
+post_count: 4
 ---
 
-# Llywarch Hen <ecgwulf@worldnet.att.net> (4 posts)
+# Llywarch Hen <ecgwulf<span>@</span>worldnet.att.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

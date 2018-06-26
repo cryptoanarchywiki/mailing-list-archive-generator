@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nathan_syfrig_nsyfrig_at_condor_depaul_edu_
+post_count: 3
 ---
 
-# Nathan Syfrig <nsyfrig@condor.depaul.edu> (3 posts)
+# Nathan Syfrig <nsyfrig<span>@</span>condor.depaul.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

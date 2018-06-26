@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: isptv_central_tedwards_at_access_digex_net_
+post_count: 1
 ---
 
-# ISP-TV Central <tedwards@access.digex.net> (1 posts)
+# ISP-TV Central <tedwards<span>@</span>access.digex.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@EINSTEIN.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>EINSTEIN.ssz.com\><br>
 To: cypherpunks@EINSTEIN.ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: 2e8c7423c6e7bfeccadecdaebdd9ecc828b44c054c0e4394dde23f5a0f160d63<br>
 Message ID: \<199811060134.TAA15903@einstein.ssz.com\><br>
@@ -289,6 +289,8 @@ I'm going to stop now since the rest of your email is more of the same.
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-11-06 (Fri, 6 Nov 1998 10:01:01 +0800) - RE: dbts: Privacy Fetishes, Perfect Competition, and the Foregone (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

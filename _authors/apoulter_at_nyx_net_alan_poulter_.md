@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: apoulter_at_nyx_net_alan_poulter_
+post_count: 1
 ---
 
-# apoulter@nyx.net (Alan  Poulter) (1 posts)
+# apoulter<span>@</span>nyx.net (Alan  Poulter) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

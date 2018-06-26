@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3e6a1f2beb39bface7fdfc59a0d78f2d6f409fedff34fca7d38aba4aadef4582<br>
 Message ID: \<NP69VD2w165w@bwalk.dm.com\><br>
@@ -62,6 +62,8 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
 
 + 1996-10-23 (Wed, 23 Oct 1996 08:17:10 -0700 (PDT)) - [NEWS] - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: James Black \<black@eng.usf.edu\><br>
 Message Hash: 5d8cd102baf7a90ef7c3927d3aeafa01469f5f934a2e09edaefd7de8c1bedc02<br>
 Message ID: \<199511062107.NAA29648@ix5.ix.netcom.com\><br>
@@ -74,6 +74,9 @@ protected adequately.
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[James Black <black<span>@</span>eng.usf.edu>](/author/james_black_black_at_eng_usf_edu_)"
 
 + 1995-11-06 (Tue, 7 Nov 1995 05:41:42 +0800) - re:using PGP only for digital signatures - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1995-11-07 (Tue, 7 Nov 1995 11:55:32 +0800) - [re:using PGP only for digital signatures](/archive/1995/11/70bb6981c5e30644377d6d79a47fbc0dfb6cb0a9f3cf9f67af532bc30f2151ea) - _James Black \<black@eng.usf.edu\>_

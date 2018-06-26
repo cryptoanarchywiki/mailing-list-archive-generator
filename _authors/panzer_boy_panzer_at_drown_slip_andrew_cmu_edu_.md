@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: panzer_boy_panzer_at_drown_slip_andrew_cmu_edu_
+post_count: 9
 ---
 
-# Panzer Boy <panzer@drown.slip.andrew.cmu.edu> (9 posts)
+# Panzer Boy <panzer<span>@</span>drown.slip.andrew.cmu.edu> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: Jim Choate \<ravage@einstein.ssz.com\><br>
 Message Hash: 7cdcdc6adfb3f79f4f5f303a1defe4a6bcfdd1c0077f74a7a21c9bde1faf1255<br>
 Message ID: \<199701251011.CAA23818@toad.com\><br>
@@ -57,6 +57,8 @@ social engineering.......)
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1997-01-25 (Sat, 25 Jan 1997 02:11:35 -0800 (PST)) - Re: Fighting the cybercensor. (fwd) - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

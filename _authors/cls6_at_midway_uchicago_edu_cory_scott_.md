@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cls6_at_midway_uchicago_edu_cory_scott_
+post_count: 1
 ---
 
-# cls6@midway.uchicago.edu (Cory Scott) (1 posts)
+# cls6<span>@</span>midway.uchicago.edu (Cory Scott) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

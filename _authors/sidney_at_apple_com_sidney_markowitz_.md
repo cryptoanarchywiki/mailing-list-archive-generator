@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sidney_at_apple_com_sidney_markowitz_
+post_count: 6
 ---
 
-# sidney@apple.com (Sidney Markowitz) (6 posts)
+# sidney<span>@</span>apple.com (Sidney Markowitz) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

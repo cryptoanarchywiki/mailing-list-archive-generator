@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_at_chiba_tadpole_com_jim_thompson_
+post_count: 3
 ---
 
-# jim@chiba.Tadpole.COM (Jim Thompson) (3 posts)
+# jim<span>@</span>chiba.Tadpole.COM (Jim Thompson) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

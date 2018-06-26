@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: overseas_at_4link_net
+post_count: 1
 ---
 
-# overseas@4link.net (1 posts)
+# overseas<span>@</span>4link.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

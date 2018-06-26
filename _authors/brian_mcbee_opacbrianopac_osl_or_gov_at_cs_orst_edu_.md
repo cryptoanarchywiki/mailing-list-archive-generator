@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_mcbee_opacbrianopac_osl_or_gov_at_cs_orst_edu_
+post_count: 2
 ---
 
-# BRIAN MCBEE <opac!brian%OPAC.osl.or.gov@CS.ORST.EDU> (2 posts)
+# BRIAN MCBEE <opac!brian%OPAC.osl.or.gov<span>@</span>CS.ORST.EDU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

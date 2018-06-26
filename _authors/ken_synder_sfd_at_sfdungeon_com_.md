@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ken_synder_sfd_at_sfdungeon_com_
+post_count: 1
 ---
 
-# Ken Synder <sfd@sfdungeon.com> (1 posts)
+# Ken Synder <sfd<span>@</span>sfdungeon.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

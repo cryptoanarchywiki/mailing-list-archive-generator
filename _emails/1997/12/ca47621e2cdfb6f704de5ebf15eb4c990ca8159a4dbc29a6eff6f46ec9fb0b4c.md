@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@invweb.net\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>invweb.net\><br>
 To: Robert Hettinga \<rah@shipwright.com\><br>
 Message Hash: ca47621e2cdfb6f704de5ebf15eb4c990ca8159a4dbc29a6eff6f46ec9fb0b4c<br>
 Message ID: \<199712040255.VAA24642@users.invweb.net\><br>
@@ -70,6 +70,18 @@ zqhfjlk2oos=
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
++ Return to "["Brian W. Buchanan" <brian<span>@</span>smarter.than.nu>](/author/brian_w_buchanan_brian_at_smarter_than_nu_)"
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
++ Return to "[Jonathan Wienke <JonWienk<span>@</span>ix.netcom.com>](/author/jonathan_wienke_jonwienk_at_ix_netcom_com_)"
++ Return to "[Lucky Green <shamrock<span>@</span>cypherpunks.to>](/author/lucky_green_shamrock_at_cypherpunks_to_)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Steve Schear <schear<span>@</span>lvdi.net>](/author/steve_schear_schear_at_lvdi_net_)"
++ Return to "[stewarts<span>@</span>ix.netcom.com](/author/stewarts_at_ix_netcom_com)"
++ Return to "[TruthMonger <tm<span>@</span>dev.null>](/author/truthmonger_tm_at_dev_null_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/author/william_h_geiger_iii_whgiii_at_invweb_net_)"
 
 + 1997-12-04 (Thu, 4 Dec 1997 08:44:04 +0800) - [Superdistribution development/release](/archive/1997/12/5fe46f2920147b67bfbcb4c20944c7629db06d26617eda1e1e27157d6293649c) - _Robert Hettinga \<rah@shipwright.com\>_
   + 1997-12-04 (Thu, 4 Dec 1997 10:38:55 +0800) - [Re: Superdistribution development/release](/archive/1997/12/b90834d9aae727a27caf9f40ca2314eb9e8ff33de4cbd4ebb6dd16454f9900b4) - _Declan McCullagh \<declan@well.com\>_

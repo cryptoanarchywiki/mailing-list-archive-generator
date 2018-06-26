@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2c07c552b9d7aa40843e30cf2bcbda4d27b06debbe34bf05eaf1ec9eb1cc4b64<br>
 Message ID: \<ad931eee1502100491ce@[205.199.118.202]\><br>
@@ -81,6 +81,9 @@ Higher Power: 2^756839 - 1  | black markets, collapse of governments.
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "[Wei Dai <weidai<span>@</span>eskimo.com>](/author/wei_dai_weidai_at_eskimo_com_)"
 
 + 1996-04-12 (Sat, 13 Apr 1996 07:23:34 +0800) - Re: why compression doesn't perfectly even out entropy - _tcmay@got.net (Timothy C. May)_
   + 1996-04-16 (Tue, 16 Apr 1996 09:52:32 +0800) - [Re: why compression doesn't perfectly even out entropy](/archive/1996/04/778bd930d48a26dbba5f1bfee149eb539254da561066ad0603a8e637143726d3) - _Wei Dai \<weidai@eskimo.com\>_

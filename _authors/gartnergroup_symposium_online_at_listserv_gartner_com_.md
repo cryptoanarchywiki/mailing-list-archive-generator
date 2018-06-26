@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gartnergroup_symposium_online_at_listserv_gartner_com_
+post_count: 1
 ---
 
-# "GartnerGroup" <symposium_online@listserv.gartner.com> (1 posts)
+# "GartnerGroup" <symposium_online<span>@</span>listserv.gartner.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

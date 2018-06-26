@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: smid_at_evan1_nl_edu
+post_count: 1
 ---
 
-# smid@evan1.nl.edu (1 posts)
+# smid<span>@</span>evan1.nl.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

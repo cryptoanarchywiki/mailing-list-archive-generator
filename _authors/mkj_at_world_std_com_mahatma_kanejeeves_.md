@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mkj_at_world_std_com_mahatma_kanejeeves_
+post_count: 2
 ---
 
-# mkj@world.std.com (Mahatma Kane-Jeeves) (2 posts)
+# mkj<span>@</span>world.std.com (Mahatma Kane-Jeeves) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

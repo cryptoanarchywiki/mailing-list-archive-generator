@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Gilmore \<gnu@toad.com\><br>
+From: John Gilmore \<gnu<span>@</span>toad.com\><br>
 To: gnu@toad.com<br>
 Message Hash: 9507bda9feedb4ea7a476212ccde1e9ac0a18aed7fa28d72e0bf3b2f9eda3722<br>
 Message ID: \<199706300237.TAA24136@toad.com\><br>
@@ -166,6 +166,8 @@ Forwarded-by: Hal Abelson (I don't know the original source).
 ## Thread
 
 + Return to [June 1997](/archive/1997/06)
+
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
 
 + 1997-06-30 (Mon, 30 Jun 1997 10:57:59 +0800) - Australian "Walsh" report exposes the hole in key escrow - _John Gilmore \<gnu@toad.com\>_
 

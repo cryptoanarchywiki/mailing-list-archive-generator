@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: bcba621d4bec6af81d8ae5b0512a4d2daa6fccb2fb8c199c9f2a627baea11ea4<br>
 Message ID: \<v03110715b0022b11505a@[139.167.130.248]\><br>
@@ -93,6 +93,8 @@ The e$ Home Page: http://www.shipwright.com/
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-07-28 (Mon, 28 Jul 1997 19:48:29 +0800) - House Committee Hearing on Money Laundering - _Robert Hettinga \<rah@shipwright.com\>_
 

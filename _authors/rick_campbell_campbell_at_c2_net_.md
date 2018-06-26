@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rick_campbell_campbell_at_c2_net_
+post_count: 3
 ---
 
-# Rick Campbell <campbell@c2.net> (3 posts)
+# Rick Campbell <campbell<span>@</span>c2.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

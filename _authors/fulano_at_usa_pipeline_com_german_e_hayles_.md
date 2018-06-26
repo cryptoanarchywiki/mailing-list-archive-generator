@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fulano_at_usa_pipeline_com_german_e_hayles_
+post_count: 1
 ---
 
-# fulano@usa.pipeline.com (German E. Hayles) (1 posts)
+# fulano<span>@</span>usa.pipeline.com (German E. Hayles) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

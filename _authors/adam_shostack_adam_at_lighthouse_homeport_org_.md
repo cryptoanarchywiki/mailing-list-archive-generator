@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adam_shostack_adam_at_lighthouse_homeport_org_
+post_count: 179
 ---
 
-# Adam Shostack <adam@lighthouse.homeport.org> (179 posts)
+# Adam Shostack <adam<span>@</span>lighthouse.homeport.org> (179 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

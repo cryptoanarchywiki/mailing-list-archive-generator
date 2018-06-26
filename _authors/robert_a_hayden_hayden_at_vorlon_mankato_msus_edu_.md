@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_a_hayden_hayden_at_vorlon_mankato_msus_edu_
+post_count: 24
 ---
 
-# "Robert A. Hayden" <hayden@vorlon.mankato.msus.edu> (24 posts)
+# "Robert A. Hayden" <hayden<span>@</span>vorlon.mankato.msus.edu> (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

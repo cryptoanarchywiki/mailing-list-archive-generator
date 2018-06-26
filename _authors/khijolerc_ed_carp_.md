@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: khijolerc_ed_carp_
+post_count: 15
 ---
 
 # khijol!erc (Ed Carp) (15 posts)

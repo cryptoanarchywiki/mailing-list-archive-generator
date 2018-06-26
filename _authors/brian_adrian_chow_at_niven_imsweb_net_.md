@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_adrian_chow_at_niven_imsweb_net_
+post_count: 2
 ---
 
-# "Brian Adrian" <chow@niven.imsweb.net> (2 posts)
+# "Brian Adrian" <chow<span>@</span>niven.imsweb.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: henri_la_bouche_hedgehog_at_anon_efga_org_
+post_count: 1
 ---
 
-# Henri La Bouche <hedgehog@anon.efga.org> (1 posts)
+# Henri La Bouche <hedgehog<span>@</span>anon.efga.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

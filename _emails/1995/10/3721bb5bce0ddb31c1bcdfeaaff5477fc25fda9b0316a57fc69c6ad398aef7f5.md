@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "David E. Smith" \<dsmith@midwest.net\><br>
+From: "David E. Smith" \<dsmith<span>@</span>midwest.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3721bb5bce0ddb31c1bcdfeaaff5477fc25fda9b0316a57fc69c6ad398aef7f5<br>
 Message ID: \<199510242333.SAA05678@cdale1.midwest.net\><br>
@@ -68,6 +68,8 @@ YdvbDA4w0x0=
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "["David E. Smith" <dsmith<span>@</span>midwest.net>](/author/david_e_smith_dsmith_at_midwest_net_)"
 
 + 1995-10-24 (Tue, 24 Oct 95 16:04:57 PDT) - [NOISE] Re: Hack DigiCash: Payee Anonymity - _"David E. Smith" \<dsmith@midwest.net\>_
 

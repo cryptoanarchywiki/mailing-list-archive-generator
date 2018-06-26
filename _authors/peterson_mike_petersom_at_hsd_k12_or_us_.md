@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peterson_mike_petersom_at_hsd_k12_or_us_
+post_count: 2
 ---
 
-# "Peterson, Mike" <petersom@hsd.k12.or.us> (2 posts)
+# "Peterson, Mike" <petersom<span>@</span>hsd.k12.or.us> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

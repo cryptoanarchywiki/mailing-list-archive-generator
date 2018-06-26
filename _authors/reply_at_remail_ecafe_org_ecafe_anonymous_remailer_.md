@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: reply_at_remail_ecafe_org_ecafe_anonymous_remailer_
+post_count: 1
 ---
 
-# reply@remail.ecafe.org (ECafe Anonymous Remailer) (1 posts)
+# reply<span>@</span>remail.ecafe.org (ECafe Anonymous Remailer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

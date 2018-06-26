@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: khijolerc_at_cygnus_com_ed_carp_sysadmin_
+post_count: 1
 ---
 
-# khijol!erc@cygnus.com (Ed Carp [Sysadmin]) (1 posts)
+# khijol!erc<span>@</span>cygnus.com (Ed Carp [Sysadmin]) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

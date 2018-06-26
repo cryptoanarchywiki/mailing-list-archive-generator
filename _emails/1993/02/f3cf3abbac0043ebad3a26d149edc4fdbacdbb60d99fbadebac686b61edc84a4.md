@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: fergp@sytex.com (Paul Ferguson)<br>
+From: fergp<span>@</span>sytex.com (Paul Ferguson)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: f3cf3abbac0043ebad3a26d149edc4fdbacdbb60d99fbadebac686b61edc84a4<br>
 Message ID: \<4JPgZB2w165w@sytex.com\><br>
@@ -77,6 +77,8 @@ sytex.com!fergp     (UUNet)       |
 ## Thread
 
 + Return to [February 1993](/archive/1993/02)
+
++ Return to "[fergp<span>@</span>sytex.com (Paul Ferguson)](/author/fergp_at_sytex_com_paul_ferguson_)"
 
 + 1993-02-24 (Wed, 24 Feb 93 01:13:36 PST) - Enough's enough already - _fergp@sytex.com (Paul Ferguson)_
 

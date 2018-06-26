@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 9307905p_at_ntx_city_unisa_edu_au_cahos_
+post_count: 1
 ---
 
-# 9307905p@ntx.city.unisa.edu.au (CaHoS) (1 posts)
+# 9307905p<span>@</span>ntx.city.unisa.edu.au (CaHoS) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_strunoph_norman_cbnorman_at_undergrad_math_uwaterloo_ca_
+post_count: 1
 ---
 
-# "Chris \"Strunoph\" Norman" <cbnorman@undergrad.math.uwaterloo.ca> (1 posts)
+# "Chris \"Strunoph\" Norman" <cbnorman<span>@</span>undergrad.math.uwaterloo.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

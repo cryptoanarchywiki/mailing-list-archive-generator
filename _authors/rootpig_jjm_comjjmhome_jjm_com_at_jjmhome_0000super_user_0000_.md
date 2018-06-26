@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rootpig_jjm_comjjmhome_jjm_com_at_jjmhome_0000super_user_0000_
+post_count: 2
 ---
 
-# root%pig.jjm.com%jjmhome.jjm.com@jjmhome (0000-Super User(0000)) (2 posts)
+# root%pig.jjm.com%jjmhome.jjm.com<span>@</span>jjmhome (0000-Super User(0000)) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

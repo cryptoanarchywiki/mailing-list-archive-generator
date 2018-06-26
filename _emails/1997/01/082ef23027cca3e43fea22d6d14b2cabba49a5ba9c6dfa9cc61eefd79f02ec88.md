@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dale Thorn \<dthorn@gte.net\><br>
+From: Dale Thorn \<dthorn<span>@</span>gte.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 082ef23027cca3e43fea22d6d14b2cabba49a5ba9c6dfa9cc61eefd79f02ec88<br>
 Message ID: \<199701290656.WAA21793@toad.com\><br>
@@ -57,6 +57,8 @@ Tom Wolfe and the pirates thing.
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
 
 + 1997-01-29 (Tue, 28 Jan 1997 22:56:14 -0800 (PST)) - Re: can Sun Tzu be a cypherpunks? - _Dale Thorn \<dthorn@gte.net\>_
 

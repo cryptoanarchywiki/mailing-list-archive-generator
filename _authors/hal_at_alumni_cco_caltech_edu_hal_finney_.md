@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hal_at_alumni_cco_caltech_edu_hal_finney_
+post_count: 8
 ---
 
-# hal@alumni.cco.caltech.edu (Hal Finney) (8 posts)
+# hal<span>@</span>alumni.cco.caltech.edu (Hal Finney) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

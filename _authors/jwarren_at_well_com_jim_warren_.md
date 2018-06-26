@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jwarren_at_well_com_jim_warren_
+post_count: 4
 ---
 
-# jwarren@well.com (Jim Warren) (4 posts)
+# jwarren<span>@</span>well.com (Jim Warren) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

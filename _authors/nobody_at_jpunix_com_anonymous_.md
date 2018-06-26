@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_jpunix_com_anonymous_
+post_count: 23
 ---
 
-# nobody@jpunix.com (Anonymous) (23 posts)
+# nobody<span>@</span>jpunix.com (Anonymous) (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

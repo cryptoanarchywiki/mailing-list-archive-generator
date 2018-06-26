@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carol_anne_cypherpunk_cap_at_knees_gun_
+post_count: 1
 ---
 
-# Carol Anne CypherPunk <cap@knees.gun> (1 posts)
+# Carol Anne CypherPunk <cap<span>@</span>knees.gun> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kevin_keil_webmaster_at_innerbody_com_
+post_count: 1
 ---
 
-# Kevin Keil <webmaster@innerbody.com> (1 posts)
+# Kevin Keil <webmaster<span>@</span>innerbody.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

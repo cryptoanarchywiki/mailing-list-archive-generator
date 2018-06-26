@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 59fecfc465f9fdb798d926e9dcb1b11f686702cfee766ce1ddf9bde1fff21ea1<br>
 Message ID: \<0HJuuD36w165w@bwalk.dm.com\><br>
@@ -51,6 +51,11 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[John Anonymous MacDonald <remailer<span>@</span>cypherpunks.ca>](/author/john_anonymous_macdonald_remailer_at_cypherpunks_ca_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1996-09-26 (Thu, 26 Sep 1996 13:14:16 +0800) - [Newsgroup proposal: misc.anonymous](/archive/1996/09/556872e12b8209493b9b990bf04204f5be19dfbece6f671b791cb086bd292f3b) - _"Mark M." \<markm@voicenet.com\>_
   + 1996-09-26 (Thu, 26 Sep 1996 17:27:02 +0800) - Re: Newsgroup proposal: misc.anonymous - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

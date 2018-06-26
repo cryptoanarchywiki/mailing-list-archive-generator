@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: garry_bentlin_garry_at_zip_com_au_
+post_count: 1
 ---
 
-# Garry Bentlin <Garry@zip.com.au> (1 posts)
+# Garry Bentlin <Garry<span>@</span>zip.com.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

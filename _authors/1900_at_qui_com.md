@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 1900_at_qui_com
+post_count: 1
 ---
 
-# 1900@qui.com (1 posts)
+# 1900<span>@</span>qui.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

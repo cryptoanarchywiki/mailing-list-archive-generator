@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Chris Adams" \<adamsc@io-online.com\><br>
+From: "Chris Adams" \<adamsc<span>@</span>io-online.com\><br>
 To: "cypherpunks" \<ceridwyn@wolfenet.com\><br>
 Message Hash: 29ba7ee397b8fa8e25caa47b61c71f4ff9e3ef2ebdebed924e9719a961d3dfdb<br>
 Message ID: \<199607221803.LAA03165@toad.com\><br>
@@ -71,6 +71,8 @@ http://www.ddj.com - if you can't find it there, drop me a note.
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "["Chris Adams" <adamsc<span>@</span>io-online.com>](/author/chris_adams_adamsc_at_ioonline_com_)"
 
 + 1996-07-23 (Tue, 23 Jul 1996 12:09:56 +0800) - Re: Opiated file systems - _"Chris Adams" \<adamsc@io-online.com\>_
 

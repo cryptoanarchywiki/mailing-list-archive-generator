@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Edward Elhauge \<ee@lever.com\><br>
+From: Edward Elhauge \<ee<span>@</span>lever.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4bcf9fee7eeffbdee614f4e1b39b39231cd45a8daf509e50b1b10d65baebc2cf<br>
 Message ID: \<m0op2Bx-0001ZtC@lever.lever.com\><br>
@@ -62,6 +62,9 @@ enough power over you that you depend on them to be honest.
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[Edward Elhauge <ee<span>@</span>lever.com>](/author/edward_elhauge_ee_at_lever_com_)"
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
 
 + 1993-10-18 (Mon, 18 Oct 93 11:22:15 PDT) - [ANON: _The Economist_ on South Korea](/archive/1993/10/4e3112b6ea2dfe2b736442be500c5c48c84bfda816fc681390b6d6d3a918d4aa) - _hughes@ah.com (Eric Hughes)_
   + 1993-10-18 (Mon, 18 Oct 93 15:12:29 PDT) - Re: ANON: _The Economist_ on South Korea - _Edward Elhauge \<ee@lever.com\>_

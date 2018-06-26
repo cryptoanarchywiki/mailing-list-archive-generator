@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richardr_at_netcom_com_richard_l_robertson_
+post_count: 2
 ---
 
-# richardr@netcom.com (Richard L. Robertson) (2 posts)
+# richardr<span>@</span>netcom.com (Richard L. Robertson) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

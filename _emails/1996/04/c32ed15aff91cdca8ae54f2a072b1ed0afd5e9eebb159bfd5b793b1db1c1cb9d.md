@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. ALLEN SMITH" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: unicorn@schloss.li<br>
 Message Hash: c32ed15aff91cdca8ae54f2a072b1ed0afd5e9eebb159bfd5b793b1db1c1cb9d<br>
 Message ID: \<01I3RZ4OQ1KW8Y4XUR@mbcl.rutgers.edu\><br>
@@ -57,6 +57,9 @@ Now, I wouldn't disagree that she should have posted through a nym.
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-04-21 (Sun, 21 Apr 1996 10:44:18 +0800) - Re: OS/2 encryption utilities - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
   + 1996-04-21 (Sun, 21 Apr 1996 10:50:33 +0800) - [Re: OS/2 encryption utilities](/archive/1996/04/76c6779d9d665632077e6e796890d4053d2e2d185c60b05bd75ce27ead41e2b6) - _Black Unicorn \<unicorn@schloss.li\>_

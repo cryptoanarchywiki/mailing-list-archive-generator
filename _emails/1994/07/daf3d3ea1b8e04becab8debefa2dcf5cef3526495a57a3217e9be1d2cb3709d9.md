@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ben Goren \<ben@Tux.Music.ASU.Edu\><br>
+From: Ben Goren \<ben<span>@</span>Tux.Music.ASU.Edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: daf3d3ea1b8e04becab8debefa2dcf5cef3526495a57a3217e9be1d2cb3709d9<br>
 Message ID: \<Pine.3.89.9407112119.A22909-0100000@Tux.Music.ASU.Edu\><br>
@@ -93,6 +93,9 @@ Ben.Goren@asu.edu, Arizona State University School of Music
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Ben Goren <ben<span>@</span>Tux.Music.ASU.Edu>](/author/ben_goren_ben_at_tux_music_asu_edu_)"
++ Return to "[Mike Johnson second login <exabyte!gedora!mikej2<span>@</span>uunet.uu.net>](/author/mike_johnson_second_login_exabytegedoramikej2_at_uunet_uu_net_)"
 
 + 1994-07-12 (Mon, 11 Jul 94 21:09:48 PDT) - Security for under a buck fifty - _Ben Goren \<ben@Tux.Music.ASU.Edu\>_
   + 1994-07-12 (Tue, 12 Jul 94 09:46:14 PDT) - [Re: Security for under a buck fifty](/archive/1994/07/bb448331def48f0698073f12cd13d74660213762a8548efac93a17ce3c148c39) - _Mike Johnson second login \<exabyte!gedora!mikej2@uunet.uu.net\>_

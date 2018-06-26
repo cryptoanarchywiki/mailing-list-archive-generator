@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_punisher__judge_jury_executioner_kaseyu_at_acad_stedwards_edu_
+post_count: 1
 ---
 
-# The PUNISHER - Judge; Jury; Executioner <kaseyu@acad.stedwards.edu> (1 posts)
+# The PUNISHER - Judge; Jury; Executioner <kaseyu<span>@</span>acad.stedwards.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bholiday_bholiday_at_trader_tlx_net_
+post_count: 1
 ---
 
-# Bholiday <bholiday@trader.tlx.net> (1 posts)
+# Bholiday <bholiday<span>@</span>trader.tlx.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

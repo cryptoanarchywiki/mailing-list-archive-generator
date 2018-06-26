@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rolf Michelsen \<Rolf.Michelsen@delab.sintef.no\><br>
+From: Rolf Michelsen \<Rolf.Michelsen<span>@</span>delab.sintef.no\><br>
 To: Cypherpunks mailing list \<cypherpunks@toad.com\><br>
 Message Hash: 6c24761f4f7e4e3ba31d8d59fdf0dadafbfba6cf39eb1911aa0820157fbfa5bb<br>
 Message ID: \<Pine.3.88.9407010848.A7636-0100000@svme.er.sintef.no\><br>
@@ -60,6 +60,9 @@ Phone: +47 73 59 87 33                       -- Ancient FORTH proverb
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Jim choate <ravage<span>@</span>bga.com>](/author/jim_choate_ravage_at_bga_com_)"
++ Return to "[Rolf Michelsen <Rolf.Michelsen<span>@</span>delab.sintef.no>](/author/rolf_michelsen_rolf_michelsen_at_delab_sintef_no_)"
 
 + 1994-07-01 (Thu, 30 Jun 94 17:21:44 PDT) - [Opinions of a book requested...](/archive/1994/07/a8ab326b6daccae7d8f4cb0637f4becb89402cecc102766e7b0592156ba0a05d) - _Jim choate \<ravage@bga.com\>_
   + 1994-07-01 (Thu, 30 Jun 94 23:51:21 PDT) - Re: Opinions of a book requested... - _Rolf Michelsen \<Rolf.Michelsen@delab.sintef.no\>_

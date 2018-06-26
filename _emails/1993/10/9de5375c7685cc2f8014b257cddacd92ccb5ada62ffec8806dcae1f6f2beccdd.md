@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: a2@ah.com (Arthur Abraham)<br>
+From: a2<span>@</span>ah.com (Arthur Abraham)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9de5375c7685cc2f8014b257cddacd92ccb5ada62ffec8806dcae1f6f2beccdd<br>
 Message ID: \<9310312317.AA00275@ah.com\><br>
@@ -54,6 +54,8 @@ the insights are similar.
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[a2<span>@</span>ah.com (Arthur Abraham)](/author/a2_at_ah_com_arthur_abraham_)"
 
 + 1993-10-31 (Sun, 31 Oct 93 15:23:44 PST) - NSA Security - _a2@ah.com (Arthur Abraham)_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@sensemedia.net (Timothy C. May)<br>
+From: tcmay<span>@</span>sensemedia.net (Timothy C. May)<br>
 To: hfinney@shell.portal.com\><br>
 Message Hash: 4d231dd8478fa9defb543e51cdaf36aab9ddef595e6fee840de0d1af23f3ed53<br>
 Message ID: \<ac3568170402100454ef@[205.199.118.202]\><br>
@@ -77,6 +77,8 @@ Higher Power: 2^756839 | Public Key: PGP and MailSafe available.
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[tcmay<span>@</span>sensemedia.net (Timothy C. May)](/author/tcmay_at_sensemedia_net_timothy_c_may_)"
 
 + 1995-07-21 (Fri, 21 Jul 95 14:23:09 PDT) - Re:  Java (was Netscape: the big win) - _tcmay@sensemedia.net (Timothy C. May)_
 

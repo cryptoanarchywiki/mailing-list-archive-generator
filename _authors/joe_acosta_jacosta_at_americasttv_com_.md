@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joe_acosta_jacosta_at_americasttv_com_
+post_count: 2
 ---
 
-# Joe Acosta <jacosta@americasttv.com> (2 posts)
+# Joe Acosta <jacosta<span>@</span>americasttv.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

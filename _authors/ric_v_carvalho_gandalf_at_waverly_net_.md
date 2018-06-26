@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ric_v_carvalho_gandalf_at_waverly_net_
+post_count: 3
 ---
 
-# "Ric V. Carvalho" <gandalf@waverly.net> (3 posts)
+# "Ric V. Carvalho" <gandalf<span>@</span>waverly.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

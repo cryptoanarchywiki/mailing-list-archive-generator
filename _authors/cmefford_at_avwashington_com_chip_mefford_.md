@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cmefford_at_avwashington_com_chip_mefford_
+post_count: 1
 ---
 
-# cmefford@avwashington.com (Chip Mefford) (1 posts)
+# cmefford<span>@</span>avwashington.com (Chip Mefford) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

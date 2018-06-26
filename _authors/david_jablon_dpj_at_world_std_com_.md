@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_jablon_dpj_at_world_std_com_
+post_count: 2
 ---
 
-# David Jablon <dpj@world.std.com> (2 posts)
+# David Jablon <dpj<span>@</span>world.std.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

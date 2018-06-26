@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daleh_at_ix_netcom_com_dale_harrison_aegis_
+post_count: 15
 ---
 
-# daleh@ix.netcom.com (Dale Harrison (AEGIS)) (15 posts)
+# daleh<span>@</span>ix.netcom.com (Dale Harrison (AEGIS)) (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

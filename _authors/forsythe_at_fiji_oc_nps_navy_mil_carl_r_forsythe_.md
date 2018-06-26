@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: forsythe_at_fiji_oc_nps_navy_mil_carl_r_forsythe_
+post_count: 2
 ---
 
-# forsythe@fiji.oc.nps.navy.mil (Carl R. Forsythe) (2 posts)
+# forsythe<span>@</span>fiji.oc.nps.navy.mil (Carl R. Forsythe) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

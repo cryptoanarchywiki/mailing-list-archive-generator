@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_s_penrod_furballs_at_netcom_com_
+post_count: 49
 ---
 
-# "Paul S. Penrod" <furballs@netcom.com> (49 posts)
+# "Paul S. Penrod" <furballs<span>@</span>netcom.com> (49 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

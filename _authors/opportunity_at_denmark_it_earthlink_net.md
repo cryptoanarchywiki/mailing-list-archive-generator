@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: opportunity_at_denmark_it_earthlink_net
+post_count: 1
 ---
 
-# $$$$$opportunity@denmark.it.earthlink.net (1 posts)
+# $$$$$opportunity<span>@</span>denmark.it.earthlink.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

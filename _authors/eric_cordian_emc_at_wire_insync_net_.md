@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_cordian_emc_at_wire_insync_net_
+post_count: 123
 ---
 
-# Eric Cordian <emc@wire.insync.net> (123 posts)
+# Eric Cordian <emc<span>@</span>wire.insync.net> (123 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

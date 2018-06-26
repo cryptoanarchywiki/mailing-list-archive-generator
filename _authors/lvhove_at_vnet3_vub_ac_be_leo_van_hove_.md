@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lvhove_at_vnet3_vub_ac_be_leo_van_hove_
+post_count: 3
 ---
 
-# lvhove@vnet3.vub.ac.be (Leo Van Hove) (3 posts)
+# lvhove<span>@</span>vnet3.vub.ac.be (Leo Van Hove) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

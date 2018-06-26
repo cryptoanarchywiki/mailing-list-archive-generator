@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ecafe_mixmaster_remailer_mixmaster_at_remail_ecafe_org_
+post_count: 8
 ---
 
-# Ecafe Mixmaster Remailer <mixmaster@remail.ecafe.org> (8 posts)
+# Ecafe Mixmaster Remailer <mixmaster<span>@</span>remail.ecafe.org> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

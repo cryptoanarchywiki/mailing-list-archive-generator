@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brett_smith_bretts_at_trojan_neta_com_
+post_count: 1
 ---
 
-# Brett Smith <bretts@trojan.neta.com> (1 posts)
+# Brett Smith <bretts<span>@</span>trojan.neta.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

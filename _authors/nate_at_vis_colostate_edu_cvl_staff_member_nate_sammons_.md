@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nate_at_vis_colostate_edu_cvl_staff_member_nate_sammons_
+post_count: 63
 ---
 
-# nate@VIS.ColoState.EDU (CVL staff member Nate Sammons) (63 posts)
+# nate<span>@</span>VIS.ColoState.EDU (CVL staff member Nate Sammons) (63 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

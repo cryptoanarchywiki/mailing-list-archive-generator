@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ecarp_at_netcom_com_ed_carp_
+post_count: 15
 ---
 
-# ecarp@netcom.com (Ed Carp) (15 posts)
+# ecarp<span>@</span>netcom.com (Ed Carp) (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

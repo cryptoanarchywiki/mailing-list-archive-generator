@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_benjamin_at_juno_com_stephen_benjamin_
+post_count: 2
 ---
 
-# steve.benjamin@juno.com (Stephen Benjamin) (2 posts)
+# steve.benjamin<span>@</span>juno.com (Stephen Benjamin) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: elisabeth_grace_baker_elisabeth_baker_at_datafellows_com_
+post_count: 1
 ---
 
-# Elisabeth Grace Baker <Elisabeth.Baker@DataFellows.com> (1 posts)
+# Elisabeth Grace Baker <Elisabeth.Baker<span>@</span>DataFellows.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

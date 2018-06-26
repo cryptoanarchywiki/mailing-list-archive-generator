@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Gillogly \<jim@acm.org\><br>
+From: Jim Gillogly \<jim<span>@</span>acm.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: c8a7dcdadbe6bdb01d2fcbfa3f2ccfb2fe02c0bfdf5346f23e6c7a68e164feeb<br>
 Message ID: \<9409202112.AA17883@mycroft.rand.org\><br>
@@ -247,6 +247,9 @@ ___________________________________________________________________________
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[Carl Ellison <cme<span>@</span>tis.com>](/author/carl_ellison_cme_at_tis_com_)"
++ Return to "[Jim Gillogly <jim<span>@</span>acm.org>](/author/jim_gillogly_jim_at_acm_org_)"
 
 + 1994-09-20 (Tue, 20 Sep 94 13:45:34 PDT) - [any CP going to the International Cryptography Institute this week?](/archive/1994/09/9e576ec9ea1329491e51c18e9e07f21c7b225df442cf6351695817af84ad2ede) - _Carl Ellison \<cme@tis.com\>_
   + 1994-09-20 (Tue, 20 Sep 94 14:48:09 PDT) - Re: any CP going to the International Cryptography Institute this week? - _Jim Gillogly \<jim@acm.org\>_

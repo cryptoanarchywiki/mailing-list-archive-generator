@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: darren_daniels_darren_at_aone_com_
+post_count: 1
 ---
 
-# Darren Daniels <darren@aone.com> (1 posts)
+# Darren Daniels <darren<span>@</span>aone.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

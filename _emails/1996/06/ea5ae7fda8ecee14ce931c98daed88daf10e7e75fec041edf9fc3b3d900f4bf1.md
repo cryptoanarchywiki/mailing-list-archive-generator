@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tonie@efn.org (Tonie Nathan)<br>
+From: tonie<span>@</span>efn.org (Tonie Nathan)<br>
 To: jim bell \<jimbell@pacifier.com\><br>
 Message Hash: ea5ae7fda8ecee14ce931c98daed88daf10e7e75fec041edf9fc3b3d900f4bf1<br>
 Message ID: \<199606200837.BAA17016@haus.efn.org\><br>
@@ -53,6 +53,8 @@ Tonie
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[tonie<span>@</span>efn.org (Tonie Nathan)](/author/tonie_at_efn_org_tonie_nathan_)"
 
 + 1996-06-20 (Thu, 20 Jun 1996 19:50:30 +0800) - Matching funds - _tonie@efn.org (Tonie Nathan)_
 

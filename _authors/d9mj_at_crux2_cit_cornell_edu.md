@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: d9mj_at_crux2_cit_cornell_edu
+post_count: 1
 ---
 
-# d9mj@crux2.cit.cornell.edu (1 posts)
+# d9mj<span>@</span>crux2.cit.cornell.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

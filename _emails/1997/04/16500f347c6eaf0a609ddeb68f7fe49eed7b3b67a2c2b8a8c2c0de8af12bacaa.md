@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Declan McCullagh \<declan@well.com\><br>
+From: Declan McCullagh \<declan<span>@</span>well.com\><br>
 To: Hallam-Baker \<hallam@ai.mit.edu\><br>
 Message Hash: 16500f347c6eaf0a609ddeb68f7fe49eed7b3b67a2c2b8a8c2c0de8af12bacaa<br>
 Message ID: \<v03007804af6f310c7004@[168.161.105.191]\><br>
@@ -71,5 +71,8 @@ http://netlynews.com/
 
 + Return to [April 1997](/archive/1997/04)
 
-+ 1997-04-07 (Mon, 7 Apr 1997 16:50:31 -0700 (PDT)) - Re: Helping Prof. Jim Bell - _Declan McCullagh \<declan@well.com\>_
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
+
++ _Unknown thread root_
+  + 1997-04-07 (Mon, 7 Apr 1997 16:50:31 -0700 (PDT)) - Re: Helping Prof. Jim Bell - _Declan McCullagh \<declan@well.com\>_
 

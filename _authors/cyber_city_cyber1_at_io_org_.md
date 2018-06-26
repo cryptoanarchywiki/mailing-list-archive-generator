@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cyber_city_cyber1_at_io_org_
+post_count: 6
 ---
 
-# Cyber City <cyber1@io.org> (6 posts)
+# Cyber City <cyber1<span>@</span>io.org> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

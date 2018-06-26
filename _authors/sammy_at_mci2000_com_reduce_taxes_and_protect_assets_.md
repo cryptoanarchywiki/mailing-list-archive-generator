@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sammy_at_mci2000_com_reduce_taxes_and_protect_assets_
+post_count: 1
 ---
 
-# sammy@mci2000.com (Reduce Taxes and Protect Assets) (1 posts)
+# sammy<span>@</span>mci2000.com (Reduce Taxes and Protect Assets) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

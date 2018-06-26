@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dreschs_at_austnsc_tandem_com_sten_drescher_
+post_count: 1
 ---
 
-# dreschs@austnsc.tandem.com (Sten Drescher) (1 posts)
+# dreschs<span>@</span>austnsc.tandem.com (Sten Drescher) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

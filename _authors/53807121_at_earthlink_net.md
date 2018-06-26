@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 53807121_at_earthlink_net
+post_count: 1
 ---
 
-# 53807121@earthlink.net (1 posts)
+# 53807121<span>@</span>earthlink.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

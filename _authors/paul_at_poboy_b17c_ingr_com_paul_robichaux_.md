@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_at_poboy_b17c_ingr_com_paul_robichaux_
+post_count: 94
 ---
 
-# paul@poboy.b17c.ingr.com (Paul Robichaux) (94 posts)
+# paul<span>@</span>poboy.b17c.ingr.com (Paul Robichaux) (94 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

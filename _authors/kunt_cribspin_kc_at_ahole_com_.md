@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kunt_cribspin_kc_at_ahole_com_
+post_count: 1
 ---
 
-# Kunt Cribspin <kc@ahole.com> (1 posts)
+# Kunt Cribspin <kc<span>@</span>ahole.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

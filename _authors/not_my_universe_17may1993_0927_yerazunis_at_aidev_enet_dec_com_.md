@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: not_my_universe_17may1993_0927_yerazunis_at_aidev_enet_dec_com_
+post_count: 1
 ---
 
-# Not MY universe!  17-May-1993 0927 <yerazunis@aidev.enet.dec.com> (1 posts)
+# Not MY universe!  17-May-1993 0927 <yerazunis<span>@</span>aidev.enet.dec.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

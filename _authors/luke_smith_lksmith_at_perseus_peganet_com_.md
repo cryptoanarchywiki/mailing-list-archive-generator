@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: luke_smith_lksmith_at_perseus_peganet_com_
+post_count: 1
 ---
 
-# Luke Smith <lksmith@perseus.peganet.com> (1 posts)
+# Luke Smith <lksmith<span>@</span>perseus.peganet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

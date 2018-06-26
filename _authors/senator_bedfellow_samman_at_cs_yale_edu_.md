@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: senator_bedfellow_samman_at_cs_yale_edu_
+post_count: 4
 ---
 
-# Senator Bedfellow <samman@CS.YALE.EDU> (4 posts)
+# Senator Bedfellow <samman<span>@</span>CS.YALE.EDU> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

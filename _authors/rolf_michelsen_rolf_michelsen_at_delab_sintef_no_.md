@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rolf_michelsen_rolf_michelsen_at_delab_sintef_no_
+post_count: 21
 ---
 
-# Rolf Michelsen <Rolf.Michelsen@delab.sintef.no> (21 posts)
+# Rolf Michelsen <Rolf.Michelsen<span>@</span>delab.sintef.no> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

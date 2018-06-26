@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: edfaccdaf5ab43544dc77035feb08d8c72f57dae3c89b1bf958595d78b8cffbc<br>
 Message ID: \<199801100844.JAA10497@basement.replay.com\><br>
@@ -160,6 +160,8 @@ __biometric herd management__"(The) children"__state granted privilege_____!
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1998-01-10 (Sat, 10 Jan 1998 16:51:08 +0800) - Surprise - Anonymous Journalist Opposes Laundering [1/4] - _nobody@REPLAY.COM (Anonymous)_
 

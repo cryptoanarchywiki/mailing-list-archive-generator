@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jon_mittelhauser_jonm_at_netscape_com_
+post_count: 3
 ---
 
-# Jon Mittelhauser <jonm@netscape.com> (3 posts)
+# Jon Mittelhauser <jonm<span>@</span>netscape.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

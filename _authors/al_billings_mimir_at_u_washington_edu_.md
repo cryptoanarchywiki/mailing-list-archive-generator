@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: al_billings_mimir_at_u_washington_edu_
+post_count: 26
 ---
 
-# Al Billings <mimir@u.washington.edu> (26 posts)
+# Al Billings <mimir<span>@</span>u.washington.edu> (26 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

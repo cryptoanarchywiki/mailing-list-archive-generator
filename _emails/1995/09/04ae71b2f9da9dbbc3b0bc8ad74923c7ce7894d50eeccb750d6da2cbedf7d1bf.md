@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: pfarrell@netcom.com (Pat Farrell)<br>
+From: pfarrell<span>@</span>netcom.com (Pat Farrell)<br>
 To: dccp@eff.org<br>
 Message Hash: 04ae71b2f9da9dbbc3b0bc8ad74923c7ce7894d50eeccb750d6da2cbedf7d1bf<br>
 Message ID: \<199509121958.MAA01005@netcom3.netcom.com\><br>
@@ -65,6 +65,8 @@ PGP key available via finger or request           #include standard.disclaimer
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[pfarrell<span>@</span>netcom.com (Pat Farrell)](/author/pfarrell_at_netcom_com_pat_farrell_)"
 
 + 1995-09-12 (Tue, 12 Sep 95 13:01:10 PDT) - DC-C'punks meeting - _pfarrell@netcom.com (Pat Farrell)_
 

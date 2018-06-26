@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_van_wie_dvw_at_hamachi_epr_com_
+post_count: 22
 ---
 
-# David Van Wie <dvw@hamachi.epr.com> (22 posts)
+# David Van Wie <dvw<span>@</span>hamachi.epr.com> (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

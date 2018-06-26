@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: remailer_at_merde_dis_org_remailer_bogus_account_
+post_count: 16
 ---
 
-# remailer@merde.dis.org (remailer bogus account) (16 posts)
+# remailer<span>@</span>merde.dis.org (remailer bogus account) (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

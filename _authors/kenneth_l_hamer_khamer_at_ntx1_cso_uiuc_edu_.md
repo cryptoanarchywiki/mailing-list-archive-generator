@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kenneth_l_hamer_khamer_at_ntx1_cso_uiuc_edu_
+post_count: 1
 ---
 
-# "Kenneth L. Hamer" <k-hamer@ntx1.cso.uiuc.edu> (1 posts)
+# "Kenneth L. Hamer" <k-hamer<span>@</span>ntx1.cso.uiuc.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

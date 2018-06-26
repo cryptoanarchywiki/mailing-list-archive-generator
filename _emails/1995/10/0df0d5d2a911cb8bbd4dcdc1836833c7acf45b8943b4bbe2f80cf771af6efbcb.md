@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Scott Brickner \<sjb@universe.digex.net\><br>
+From: Scott Brickner \<sjb<span>@</span>universe.digex.net\><br>
 To: don@cs.byu.edu<br>
 Message Hash: 0df0d5d2a911cb8bbd4dcdc1836833c7acf45b8943b4bbe2f80cf771af6efbcb<br>
 Message ID: \<199510111901.PAA15377@universe.digex.net\><br>
@@ -76,6 +76,9 @@ knowledge of Alice, you don't care who's behind the key.
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[don<span>@</span>cs.byu.edu](/author/don_at_cs_byu_edu)"
++ Return to "[Scott Brickner <sjb<span>@</span>universe.digex.net>](/author/scott_brickner_sjb_at_universe_digex_net_)"
 
 + 1995-10-11 (Tue, 10 Oct 95 23:59:21 PDT) - [MITM garbage](/archive/1995/10/61b8517a2e116fa4d2f805bc671c0dbe2ee57cd9c16f93a783be326a0d6dfe39) - _don@cs.byu.edu_
   + 1995-10-11 (Wed, 11 Oct 95 12:01:42 PDT) - Re: MITM garbage - _Scott Brickner \<sjb@universe.digex.net\>_

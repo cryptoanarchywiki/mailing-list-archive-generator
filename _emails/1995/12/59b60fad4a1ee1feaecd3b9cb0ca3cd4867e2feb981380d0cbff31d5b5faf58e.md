@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: gibo@ripco.com (Giles Bowkett)<br>
+From: gibo<span>@</span>ripco.com (Giles Bowkett)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 59b60fad4a1ee1feaecd3b9cb0ca3cd4867e2feb981380d0cbff31d5b5faf58e<br>
 Message ID: \<v01530501acf1028a30f2@[192.0.2.1]\><br>
@@ -66,6 +66,9 @@ I am who I am because I say so.  So there.
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[gibo<span>@</span>ripco.com (Giles Bowkett)](/author/gibo_at_ripco_com_giles_bowkett_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1995-12-14 (Thu, 14 Dec 1995 12:49:50 +0800) - Timing Attack Paper - _gibo@ripco.com (Giles Bowkett)_
   + 1995-12-12 (Wed, 13 Dec 1995 01:27:58 +0800) - [Re: Timing Attack Paper](/archive/1995/12/407b369ea4e6e1f7319a06471ffe180832dada3fae1cbe7f84ae2c71126301c8) - _"Perry E. Metzger" \<perry@piermont.com\>_

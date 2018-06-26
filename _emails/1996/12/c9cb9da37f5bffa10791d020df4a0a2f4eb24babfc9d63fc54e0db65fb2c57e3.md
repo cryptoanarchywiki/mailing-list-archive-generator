@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: c9cb9da37f5bffa10791d020df4a0a2f4eb24babfc9d63fc54e0db65fb2c57e3<br>
 Message ID: \<1.5.4.32.19961213125042.00690070@pop.pipeline.com\><br>
@@ -99,6 +99,9 @@ KRA_gak  (19 kb)
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1996-12-13 (Fri, 13 Dec 1996 04:54:03 -0800 (PST)) - KRA_gak - _John Young \<jya@pipeline.com\>_
   + 1996-12-13 (Fri, 13 Dec 1996 10:15:21 -0800 (PST)) - [Re: KRA_gak](/archive/1996/12/ced5e32d8208d59cebe3a7c24776b47227057d7c3d58e032e8f24d395b678e65) - _Adam Shostack \<adam@homeport.org\>_

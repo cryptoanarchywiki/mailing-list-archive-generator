@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: j_r_valverde_embl_outstation_the_ebi__txomsy_at_ebi_ac_uk_
+post_count: 6
 ---
 
-# "J. R. Valverde (EMBL Outstation: the EBI)" <txomsy@ebi.ac.uk> (6 posts)
+# "J. R. Valverde (EMBL Outstation: the EBI)" <txomsy<span>@</span>ebi.ac.uk> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

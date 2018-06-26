@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: info_at_aidsactionleague_org
+post_count: 1
 ---
 
-# info@aidsactionleague.org (1 posts)
+# info<span>@</span>aidsactionleague.org (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

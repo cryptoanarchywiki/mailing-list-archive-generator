@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: j_at_gangsta_com
+post_count: 1
 ---
 
-# j@gangsta.com (1 posts)
+# j<span>@</span>gangsta.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

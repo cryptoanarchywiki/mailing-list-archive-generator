@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hibbert_at_memex_com_chris_hibbert_
+post_count: 1
 ---
 
-# hibbert@memex.com (Chris Hibbert) (1 posts)
+# hibbert<span>@</span>memex.com (Chris Hibbert) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ryan Lackey \<rdl@mit.edu\><br>
+From: Ryan Lackey \<rdl<span>@</span>mit.edu\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 9d0572f1bafa6a4a00dfefc6be0c7d902a63b7ac9c4cdb0227d2f773ca8bd5ba<br>
 Message ID: \<199711161443.JAA01554@tana.mit.edu\><br>
@@ -118,6 +118,9 @@ http://mit.edu/rdl/
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Ryan Lackey <rdl<span>@</span>mit.edu>](/author/ryan_lackey_rdl_at_mit_edu_)"
 
 + 1997-11-16 (Sun, 16 Nov 1997 22:48:12 +0800) - Re: trusting untrusted platforms - _Ryan Lackey \<rdl@mit.edu\>_
   + 1997-11-18 (Tue, 18 Nov 1997 08:42:39 +0800) - [Re: trusting untrusted platforms](/archive/1997/11/08e470d77f22ff3c7363e4d7522d78cd69f6f4b7b1fd9dd2a46de9293cbf2e20) - _Robert Hettinga \<rah@shipwright.com\>_

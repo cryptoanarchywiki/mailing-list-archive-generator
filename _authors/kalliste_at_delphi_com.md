@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kalliste_at_delphi_com
+post_count: 4
 ---
 
-# KALLISTE@delphi.com (4 posts)
+# KALLISTE<span>@</span>delphi.com (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

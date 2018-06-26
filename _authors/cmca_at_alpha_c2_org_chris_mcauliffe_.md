@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cmca_at_alpha_c2_org_chris_mcauliffe_
+post_count: 25
 ---
 
-# cmca@alpha.c2.org (Chris McAuliffe) (25 posts)
+# cmca<span>@</span>alpha.c2.org (Chris McAuliffe) (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

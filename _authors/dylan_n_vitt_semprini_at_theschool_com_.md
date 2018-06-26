@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dylan_n_vitt_semprini_at_theschool_com_
+post_count: 1
 ---
 
-# "Dylan N. Vitt" <semprini@theschool.com> (1 posts)
+# "Dylan N. Vitt" <semprini<span>@</span>theschool.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

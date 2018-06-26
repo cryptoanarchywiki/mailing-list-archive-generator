@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: herbert_feran_porsche_at_themall_net_
+post_count: 1
 ---
 
-# Herbert Feran <porsche@themall.net> (1 posts)
+# Herbert Feran <porsche<span>@</span>themall.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

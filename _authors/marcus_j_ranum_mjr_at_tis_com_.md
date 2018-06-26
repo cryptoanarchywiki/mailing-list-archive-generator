@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marcus_j_ranum_mjr_at_tis_com_
+post_count: 1
 ---
 
-# Marcus J Ranum <mjr@tis.com> (1 posts)
+# Marcus J Ranum <mjr<span>@</span>tis.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

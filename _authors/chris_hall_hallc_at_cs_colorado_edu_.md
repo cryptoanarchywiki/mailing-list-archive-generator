@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_hall_hallc_at_cs_colorado_edu_
+post_count: 1
 ---
 
-# Chris Hall <hallc@cs.colorado.edu> (1 posts)
+# Chris Hall <hallc<span>@</span>cs.colorado.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

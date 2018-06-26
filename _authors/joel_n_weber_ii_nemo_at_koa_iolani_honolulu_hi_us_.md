@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joel_n_weber_ii_nemo_at_koa_iolani_honolulu_hi_us_
+post_count: 1
 ---
 
-# "Joel N. Weber II" <nemo@koa.iolani.honolulu.hi.us> (1 posts)
+# "Joel N. Weber II" <nemo<span>@</span>koa.iolani.honolulu.hi.us> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

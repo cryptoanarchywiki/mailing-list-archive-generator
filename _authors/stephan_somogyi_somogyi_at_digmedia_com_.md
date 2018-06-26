@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephan_somogyi_somogyi_at_digmedia_com_
+post_count: 15
 ---
 
-# Stephan Somogyi <somogyi@digmedia.com> (15 posts)
+# Stephan Somogyi <somogyi<span>@</span>digmedia.com> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

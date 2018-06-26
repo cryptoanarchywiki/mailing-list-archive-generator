@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: szabo_at_techbook_com_nick_szabo_
+post_count: 14
 ---
 
-# szabo@techbook.com (Nick Szabo) (14 posts)
+# szabo<span>@</span>techbook.com (Nick Szabo) (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cmp_at_iddqd_org_concrete_maintenance_products_
+post_count: 1
 ---
 
-# cmp@iddqd.org (Concrete Maintenance Products) (1 posts)
+# cmp<span>@</span>iddqd.org (Concrete Maintenance Products) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

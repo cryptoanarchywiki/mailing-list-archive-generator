@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_campbell_wcampbel_at_peganet_com_
+post_count: 17
 ---
 
-# "Bill Campbell" <wcampbel@peganet.com> (17 posts)
+# "Bill Campbell" <wcampbel<span>@</span>peganet.com> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

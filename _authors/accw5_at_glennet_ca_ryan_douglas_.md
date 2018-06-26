@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: accw5_at_glennet_ca_ryan_douglas_
+post_count: 1
 ---
 
-# accw5@glen-net.ca (Ryan Douglas) (1 posts)
+# accw5<span>@</span>glen-net.ca (Ryan Douglas) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

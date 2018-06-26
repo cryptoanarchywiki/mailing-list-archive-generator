@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: grand_epopt_feotus_68954_at_brahms_udel_edu_
+post_count: 23
 ---
 
-# Grand Epopt Feotus <68954@brahms.udel.edu> (23 posts)
+# Grand Epopt Feotus <68954<span>@</span>brahms.udel.edu> (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

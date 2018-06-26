@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ALAN DORN HETZEL JR \<dorn@indigo.mese.com\><br>
+From: ALAN DORN HETZEL JR \<dorn<span>@</span>indigo.mese.com\><br>
 To: cypherpunks@indigo.mese.com<br>
 Message Hash: 20e7e90d1aa1cc9b57dc6a42771bb94dcfd73c6f15cd5f6bdaa796bda82c4ccc<br>
 Message ID: \<00968D43.DD87FB00.21534@INDIGO.MESE.COM\><br>
@@ -69,6 +69,8 @@ Dorn
 ## Thread
 
 + Return to [March 1993](/archive/1993/03)
+
++ Return to "[ALAN DORN HETZEL JR <dorn<span>@</span>indigo.mese.com>](/author/alan_dorn_hetzel_jr_dorn_at_indigo_mese_com_)"
 
 + 1993-03-01 (Sun, 28 Feb 93 22:45:09 PST) - anonymity + untraceable digital money = potential problems - _ALAN DORN HETZEL JR \<dorn@indigo.mese.com\>_
 

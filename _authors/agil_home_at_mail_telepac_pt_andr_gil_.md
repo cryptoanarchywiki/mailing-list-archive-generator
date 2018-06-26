@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: agil_home_at_mail_telepac_pt_andr_gil_
+post_count: 2
 ---
 
-# agil.home@mail.telepac.pt (André Gil) (2 posts)
+# agil.home<span>@</span>mail.telepac.pt (André Gil) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

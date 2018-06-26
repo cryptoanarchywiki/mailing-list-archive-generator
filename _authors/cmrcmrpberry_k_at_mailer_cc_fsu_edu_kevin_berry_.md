@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cmrcmrpberry_k_at_mailer_cc_fsu_edu_kevin_berry_
+post_count: 1
 ---
 
-# cmr!cmrp!berry_k@mailer.cc.fsu.edu (Kevin Berry) (1 posts)
+# cmr!cmrp!berry_k<span>@</span>mailer.cc.fsu.edu (Kevin Berry) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

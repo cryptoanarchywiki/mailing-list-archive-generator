@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lwp_at_garnet_msen_com_lou_poppler_
+post_count: 1
 ---
 
-# lwp@garnet.msen.com (Lou Poppler) (1 posts)
+# lwp<span>@</span>garnet.msen.com (Lou Poppler) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

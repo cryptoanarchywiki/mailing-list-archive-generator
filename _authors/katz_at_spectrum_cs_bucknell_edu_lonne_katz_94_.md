@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: katz_at_spectrum_cs_bucknell_edu_lonne_katz_94_
+post_count: 2
 ---
 
-# katz@spectrum.cs.bucknell.edu (lonne katz `94) (2 posts)
+# katz<span>@</span>spectrum.cs.bucknell.edu (lonne katz `94) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

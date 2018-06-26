@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vanguard_at_gribb_hsr_no
+post_count: 4
 ---
 
-# VANGUARD@gribb.hsr.no (4 posts)
+# VANGUARD<span>@</span>gribb.hsr.no (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

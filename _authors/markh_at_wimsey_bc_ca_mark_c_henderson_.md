@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: markh_at_wimsey_bc_ca_mark_c_henderson_
+post_count: 43
 ---
 
-# markh@wimsey.bc.ca (Mark C. Henderson) (43 posts)
+# markh<span>@</span>wimsey.bc.ca (Mark C. Henderson) (43 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

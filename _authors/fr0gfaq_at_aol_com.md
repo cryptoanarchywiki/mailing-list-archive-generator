@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fr0gfaq_at_aol_com
+post_count: 1
 ---
 
-# Fr0gFAQ@aol.com (1 posts)
+# Fr0gFAQ<span>@</span>aol.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

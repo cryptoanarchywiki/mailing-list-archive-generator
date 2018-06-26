@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: carolann@censored.org (UnCensored Girls Anonymous)<br>
+From: carolann<span>@</span>censored.org (UnCensored Girls Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 36b1c0cd5b95ee8fb96b47efcb0e50f08ae75bcd6211ea65dfc8fdbbb264da9f<br>
 Message ID: \<199507280641.XAA14433@mailhost.primenet.com\><br>
@@ -74,6 +74,8 @@ for next chunk to export --> http://dcs.ex.ac.uk/~aba/export/
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[carolann<span>@</span>censored.org (UnCensored Girls Anonymous)](/author/carolann_at_censored_org_uncensored_girls_anonymous_)"
 
 + 1995-07-28 (Thu, 27 Jul 95 23:41:29 PDT) - Re: The Value of "Attachments" on this List - _carolann@censored.org (UnCensored Girls Anonymous)_
 

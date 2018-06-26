@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: PURTEB@vaxc.hofstra.edu<br>
+From: PURTEB<span>@</span>vaxc.hofstra.edu<br>
 To: cypherpunks@toad.com<br>
 Message Hash: bc313c2ac7e45fedf5931e452e4aea82a34f8deb30038f87bfcb0bf427bacbbd<br>
 Message ID: \<01H8HL3EC4ZS94EJ83@vaxc.hofstra.edu\><br>
@@ -60,6 +60,8 @@ purteb@vaxc.hofstra.edu
 ## Thread
 
 + Return to [February 1994](/archive/1994/02)
+
++ Return to "[PURTEB<span>@</span>vaxc.hofstra.edu](/author/purteb_at_vaxc_hofstra_edu)"
 
 + 1994-02-04 (Fri, 4 Feb 94 09:59:51 PST) - Information - _PURTEB@vaxc.hofstra.edu_
 

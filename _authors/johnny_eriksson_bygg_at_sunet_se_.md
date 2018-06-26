@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: johnny_eriksson_bygg_at_sunet_se_
+post_count: 2
 ---
 
-# Johnny Eriksson <bygg@sunet.se> (2 posts)
+# Johnny Eriksson <bygg<span>@</span>sunet.se> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

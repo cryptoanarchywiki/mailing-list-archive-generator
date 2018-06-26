@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: exabytesmtplinkmikej_at_uunet_uu_net
+post_count: 6
 ---
 
-# exabyte!smtplink!mikej@uunet.UU.NET (6 posts)
+# exabyte!smtplink!mikej<span>@</span>uunet.UU.NET (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

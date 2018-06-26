@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frank_o_trotter_iii_fotiii_at_crl_com_
+post_count: 7
 ---
 
-# "Frank O. Trotter, III" <fotiii@crl.com> (7 posts)
+# "Frank O. Trotter, III" <fotiii<span>@</span>crl.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

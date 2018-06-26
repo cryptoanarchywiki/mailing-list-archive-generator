@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: acspring_at_knoware_nl_andrew_spring_
+post_count: 5
 ---
 
-# acspring@knoware.nl (Andrew Spring) (5 posts)
+# acspring<span>@</span>knoware.nl (Andrew Spring) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: buzz_at_static_noise_net_buzz_white_
+post_count: 3
 ---
 
-# Buzz@static.noise.net (Buzz White) (3 posts)
+# Buzz<span>@</span>static.noise.net (Buzz White) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

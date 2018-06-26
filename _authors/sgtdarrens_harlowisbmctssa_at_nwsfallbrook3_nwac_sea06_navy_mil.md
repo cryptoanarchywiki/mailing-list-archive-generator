@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sgtdarrens_harlowisbmctssa_at_nwsfallbrook3_nwac_sea06_navy_mil
+post_count: 14
 ---
 
-# SGT=DARREN=S.=HARLOW%ISB%MCTSSA@nwsfallbrook3.nwac.sea06.navy.mil (14 posts)
+# SGT=DARREN=S.=HARLOW%ISB%MCTSSA<span>@</span>nwsfallbrook3.nwac.sea06.navy.mil (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

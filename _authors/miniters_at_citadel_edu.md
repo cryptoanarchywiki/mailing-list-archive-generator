@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: miniters_at_citadel_edu
+post_count: 2
 ---
 
-# MINITERS@citadel.edu (2 posts)
+# MINITERS<span>@</span>citadel.edu (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

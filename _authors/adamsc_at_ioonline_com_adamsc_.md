@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adamsc_at_ioonline_com_adamsc_
+post_count: 141
 ---
 
-# Adamsc@io-online.com (Adamsc) (141 posts)
+# Adamsc<span>@</span>io-online.com (Adamsc) (141 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

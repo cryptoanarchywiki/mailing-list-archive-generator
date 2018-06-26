@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: george_kuzmowycz_gkuzmo_at_ix_netcom_com_
+post_count: 4
 ---
 
-# "George Kuzmowycz" <gkuzmo@ix.netcom.com> (4 posts)
+# "George Kuzmowycz" <gkuzmo<span>@</span>ix.netcom.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

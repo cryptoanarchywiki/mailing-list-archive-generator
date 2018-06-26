@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: g_ackerman_gerhard_at_192_96_77_1_
+post_count: 1
 ---
 
-# "G Ackerman" <gerhard@[192.96.77.1]> (1 posts)
+# "G Ackerman" <gerhard<span>@</span>[192.96.77.1]> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

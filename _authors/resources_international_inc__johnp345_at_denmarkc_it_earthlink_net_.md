@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: resources_international_inc__johnp345_at_denmarkc_it_earthlink_net_
+post_count: 1
 ---
 
-# "Resources International, Inc." <johnp345@denmark-c.it.earthlink.net> (1 posts)
+# "Resources International, Inc." <johnp345<span>@</span>denmark-c.it.earthlink.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

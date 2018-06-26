@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: karl_l_barrus_barrus_at_tree_egr_uh_edu_
+post_count: 26
 ---
 
-# Karl L. Barrus <barrus@tree.egr.uh.edu> (26 posts)
+# Karl L. Barrus <barrus<span>@</span>tree.egr.uh.edu> (26 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

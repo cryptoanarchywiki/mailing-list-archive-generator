@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jay_a_tolkoff_103637_641_at_compuserve_com_
+post_count: 1
 ---
 
-# "Jay A. Tolkoff" <103637.641@compuserve.com> (1 posts)
+# "Jay A. Tolkoff" <103637.641<span>@</span>compuserve.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

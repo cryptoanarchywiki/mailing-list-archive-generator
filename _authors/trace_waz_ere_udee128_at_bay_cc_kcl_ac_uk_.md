@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: trace_waz_ere_udee128_at_bay_cc_kcl_ac_uk_
+post_count: 1
 ---
 
-# Trace waz ere <udee128@bay.cc.kcl.ac.uk> (1 posts)
+# Trace waz ere <udee128<span>@</span>bay.cc.kcl.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

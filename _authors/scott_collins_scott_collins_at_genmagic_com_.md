@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_collins_scott_collins_at_genmagic_com_
+post_count: 1
 ---
 
-# "Scott Collins" <scott_collins@genmagic.com> (1 posts)
+# "Scott Collins" <scott_collins<span>@</span>genmagic.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

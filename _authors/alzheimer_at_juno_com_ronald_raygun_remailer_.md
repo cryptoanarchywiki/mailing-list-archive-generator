@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alzheimer_at_juno_com_ronald_raygun_remailer_
+post_count: 18
 ---
 
-# alzheimer@juno.com (Ronald Raygun Remailer) (18 posts)
+# alzheimer<span>@</span>juno.com (Ronald Raygun Remailer) (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

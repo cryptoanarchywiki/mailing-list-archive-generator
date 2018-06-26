@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: panzer_at_dhp_com_panzer_boy_
+post_count: 1
 ---
 
-# panzer@dhp.com (Panzer Boy) (1 posts)
+# panzer<span>@</span>dhp.com (Panzer Boy) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

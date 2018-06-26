@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Chris Adams" \<adamsc@io-online.com\><br>
+From: "Chris Adams" \<adamsc<span>@</span>io-online.com\><br>
 To: "cypherpunks" \<dfloyd@IO.COM\><br>
 Message Hash: 0dc3ece2e6ff6bbefe5cef34897f16dc1e9b458eb088811cdf7c93d7ca5f8ba2<br>
 Message ID: \<199607200454.VAA10536@toad.com\><br>
@@ -69,6 +69,8 @@ B) bounce trash back.
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "["Chris Adams" <adamsc<span>@</span>io-online.com>](/author/chris_adams_adamsc_at_ioonline_com_)"
 
 + 1996-07-20 (Sat, 20 Jul 1996 19:29:04 +0800) - Re: Opiated file systems - _"Chris Adams" \<adamsc@io-online.com\>_
 

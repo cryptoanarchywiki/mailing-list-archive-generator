@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jyy_at_gnn_com_john_young_
+post_count: 1
 ---
 
-# jyy@gnn.com (John Young) (1 posts)
+# jyy<span>@</span>gnn.com (John Young) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

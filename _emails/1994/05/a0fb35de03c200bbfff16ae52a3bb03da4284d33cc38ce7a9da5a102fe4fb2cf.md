@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: greg@ideath.goldenbear.com (Greg Broiles)<br>
+From: greg<span>@</span>ideath.goldenbear.com (Greg Broiles)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a0fb35de03c200bbfff16ae52a3bb03da4284d33cc38ce7a9da5a102fe4fb2cf<br>
 Message ID: \<m0q1gHf-0001abC@ideath.goldenbear.com\><br>
@@ -105,6 +105,9 @@ AOkTBh7aRTg=
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[greg<span>@</span>ideath.goldenbear.com (Greg Broiles)](/author/greg_at_ideath_goldenbear_com_greg_broiles_)"
++ Return to "[Phil Karn <karn<span>@</span>qualcomm.com>](/author/phil_karn_karn_at_qualcomm_com_)"
 
 + 1994-05-12 (Thu, 12 May 94 13:48:51 PDT) - Case law re ITAR and export control - _greg@ideath.goldenbear.com (Greg Broiles)_
   + 1994-05-12 (Thu, 12 May 94 14:22:02 PDT) - [Re: Case law re ITAR and export control](/archive/1994/05/5bf36a0ec1eea18cb2ecf930fd0ea7bd43b9b1402bced38532fc80ca7d407159) - _Phil Karn \<karn@qualcomm.com\>_

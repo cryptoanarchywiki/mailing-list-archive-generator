@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_at_bilbo_jim_miller_
+post_count: 6
 ---
 
-# jim@bilbo (Jim Miller) (6 posts)
+# jim<span>@</span>bilbo (Jim Miller) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

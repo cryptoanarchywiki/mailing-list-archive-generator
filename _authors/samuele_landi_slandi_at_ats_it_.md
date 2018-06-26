@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: samuele_landi_slandi_at_ats_it_
+post_count: 1
 ---
 
-# Samuele Landi <slandi@ats.it> (1 posts)
+# Samuele Landi <slandi<span>@</span>ats.it> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

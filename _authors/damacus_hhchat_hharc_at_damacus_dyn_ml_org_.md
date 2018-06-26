@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: damacus_hhchat_hharc_at_damacus_dyn_ml_org_
+post_count: 1
 ---
 
-# Damacus -HHChat <hharc@damacus.dyn.ml.org> (1 posts)
+# Damacus -HHChat <hharc<span>@</span>damacus.dyn.ml.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: oluf_bagger_ob_at_id_dtu_dk_
+post_count: 1
 ---
 
-# Oluf Bagger <ob@id.dtu.dk> (1 posts)
+# Oluf Bagger <ob<span>@</span>id.dtu.dk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

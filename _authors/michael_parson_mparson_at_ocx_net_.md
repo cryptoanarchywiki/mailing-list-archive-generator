@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_parson_mparson_at_ocx_net_
+post_count: 1
 ---
 
-# Michael Parson <mparson@ocx.net> (1 posts)
+# Michael Parson <mparson<span>@</span>ocx.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

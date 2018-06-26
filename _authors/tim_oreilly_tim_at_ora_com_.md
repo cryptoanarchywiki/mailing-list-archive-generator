@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tim_oreilly_tim_at_ora_com_
+post_count: 1
 ---
 
-# "Tim O'Reilly" <tim@ora.com> (1 posts)
+# "Tim O'Reilly" <tim<span>@</span>ora.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

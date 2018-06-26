@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iain_collins_icollins_at_scotland_net_
+post_count: 4
 ---
 
-# "Iain Collins" <icollins@scotland.net> (4 posts)
+# "Iain Collins" <icollins<span>@</span>scotland.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: David Sternlight \<david@sternlight.com\><br>
+From: David Sternlight \<david<span>@</span>sternlight.com\><br>
 To: Troy Denkinger \<cypherpunks@toad.com<br>
 Message Hash: a1367fff5be7bdca9be2f18a928f8ae16dc9d6efceedf3f4a72d01e7d30f0de1<br>
 Message ID: \<v03007613ae15b757c962@[192.187.162.15]\><br>
@@ -60,6 +60,13 @@ David
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[David Sternlight <david<span>@</span>sternlight.com>](/author/david_sternlight_david_at_sternlight_com_)"
++ Return to "[Ernest Hua <hua<span>@</span>chromatic.com>](/author/ernest_hua_hua_at_chromatic_com_)"
++ Return to "[Ernest Hua <hua<span>@</span>xenon.chromatic.com>](/author/ernest_hua_hua_at_xenon_chromatic_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
++ Return to "[Troy Denkinger <troy_d<span>@</span>ix.netcom.com>](/author/troy_denkinger_troy_d_at_ix_netcom_com_)"
 
 + 1996-07-19 (Sat, 20 Jul 1996 02:20:55 +0800) - [Re: Filtering out Queers is OK](/archive/1996/07/5daca95938810a6f7464b17311c133b6fce7fa8fd1de624eefe103844c9804a4) - _Troy Denkinger \<troy_d@ix.netcom.com\>_
   + 1996-07-20 (Sat, 20 Jul 1996 15:15:24 +0800) - [Re: Filtering out Queers is OK](/archive/1996/07/967373579d617c2bdf089b18c45bea92da7012eda108c155f72e030c94359dde) - _"Mark M." \<markm@voicenet.com\>_

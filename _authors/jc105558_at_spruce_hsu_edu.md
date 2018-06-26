@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jc105558_at_spruce_hsu_edu
+post_count: 3
 ---
 
-# jc105558@spruce.hsu.edu (3 posts)
+# jc105558<span>@</span>spruce.hsu.edu (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Rev. Mark Grant" \<mark@unicorn.com\><br>
+From: "Rev. Mark Grant" \<mark<span>@</span>unicorn.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8afee8e7140cbbddc9bd3edcb7072b6f16dffcf960944f9f4d0b92f6eef6049c<br>
 Message ID: \<Pine.3.89.9510271651.A410-0100000@unicorn.com\><br>
@@ -56,6 +56,8 @@ improvement.
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "["Rev. Mark Grant" <mark<span>@</span>unicorn.com>](/author/rev_mark_grant_mark_at_unicorn_com_)"
 
 + 1995-10-27 (Sat, 28 Oct 1995 02:08:35 +0800) - Re: Linux security issues - _"Rev. Mark Grant" \<mark@unicorn.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: giuseppe_cimmino_0005533039_at_mcimail_com_
+post_count: 6
 ---
 
-# Giuseppe Cimmino <0005533039@mcimail.com> (6 posts)
+# Giuseppe Cimmino <0005533039<span>@</span>mcimail.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

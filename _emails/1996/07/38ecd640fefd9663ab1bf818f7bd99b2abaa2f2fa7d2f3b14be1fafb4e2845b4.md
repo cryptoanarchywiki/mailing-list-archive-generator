@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Wei Dai \<weidai@eskimo.com\><br>
+From: Wei Dai \<weidai<span>@</span>eskimo.com\><br>
 To: Cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: 38ecd640fefd9663ab1bf818f7bd99b2abaa2f2fa7d2f3b14be1fafb4e2845b4<br>
 Message ID: \<Pine.SUN.3.95.960729183503.27103A-100000@eskimo.com\><br>
@@ -84,6 +84,8 @@ Wei Dai
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Wei Dai <weidai<span>@</span>eskimo.com>](/author/wei_dai_weidai_at_eskimo_com_)"
 
 + 1996-07-30 (Tue, 30 Jul 1996 12:37:52 +0800) - game theory - _Wei Dai \<weidai@eskimo.com\>_
 

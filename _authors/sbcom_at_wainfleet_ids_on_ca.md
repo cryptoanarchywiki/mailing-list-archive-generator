@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sbcom_at_wainfleet_ids_on_ca
+post_count: 1
 ---
 
-# sbcom@wainfleet.ids.on.ca (1 posts)
+# sbcom<span>@</span>wainfleet.ids.on.ca (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

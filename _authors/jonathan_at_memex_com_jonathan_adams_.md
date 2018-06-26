@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathan_at_memex_com_jonathan_adams_
+post_count: 2
 ---
 
-# jonathan@memex.com (Jonathan Adams) (2 posts)
+# jonathan<span>@</span>memex.com (Jonathan Adams) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

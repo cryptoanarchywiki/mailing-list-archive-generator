@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: herb_lin_hlin_at_nas_edu_
+post_count: 12
 ---
 
-# "Herb Lin" <hlin@nas.edu> (12 posts)
+# "Herb Lin" <hlin<span>@</span>nas.edu> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

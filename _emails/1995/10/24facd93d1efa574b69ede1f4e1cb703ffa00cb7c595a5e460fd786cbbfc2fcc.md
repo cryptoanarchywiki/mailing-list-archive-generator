@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "& E. Metzger" \<perry@piermont.com\><br>
+From: "& E. Metzger" \<perry<span>@</span>piermont.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 24facd93d1efa574b69ede1f4e1cb703ffa00cb7c595a5e460fd786cbbfc2fcc<br>
 Message ID: \<199510152310.TAA29098@jekyll.piermont.com\><br>
@@ -48,6 +48,8 @@ Perry
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "["& E. Metzger" <perry<span>@</span>piermont.com>](/author/_e_metzger_perry_at_piermont_com_)"
 
 + 1995-10-15 (Sun, 15 Oct 95 16:10:42 PDT) - Netscape bugs bounty - _"& E. Metzger" \<perry@piermont.com\>_
 

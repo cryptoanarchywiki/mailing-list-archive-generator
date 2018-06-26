@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_nobody_at_em07_em_springer_de_
+post_count: 1
 ---
 
-# Nobody <nobody@em07.em.springer.de> (1 posts)
+# Nobody <nobody<span>@</span>em07.em.springer.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

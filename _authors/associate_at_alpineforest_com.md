@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: associate_at_alpineforest_com
+post_count: 1
 ---
 
-# associate@alpineforest.com (1 posts)
+# associate<span>@</span>alpineforest.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: markkujuhani_saarinen_marks_at_evitech_fi_
+post_count: 1
 ---
 
-# Markku-Juhani Saarinen <marks@evitech.fi> (1 posts)
+# Markku-Juhani Saarinen <marks<span>@</span>evitech.fi> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

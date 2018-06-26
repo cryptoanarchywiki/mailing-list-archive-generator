@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andreas_bogk_andreas_at_artcom_de_
+post_count: 10
 ---
 
-# Andreas Bogk <andreas@artcom.de> (10 posts)
+# Andreas Bogk <andreas<span>@</span>artcom.de> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

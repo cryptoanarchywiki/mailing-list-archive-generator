@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ichudov@Algebra.COM (Igor Chudov @ home)<br>
+From: ichudov<span>@</span>Algebra.COM (Igor Chudov <span>@</span> home)<br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: 077b9d4bcf8a70d0cac4f7fc5d1d5af96d072fcdc7c83d2cbdb1da5e3b19ee8b<br>
 Message ID: \<199801251819.MAA17338@manifold.algebra.com\><br>
@@ -45,6 +45,12 @@ shredding.
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/author/bill_stewart_bill_stewart_at_pobox_com_)"
++ Return to "[ichudov<span>@</span>Algebra.COM (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/author/kent_crispin_kent_at_songbird_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "["Uhh...this is Joe [Randall Farmer]" <rfarmer<span>@</span>HiWAAY.net>](/author/uhh_this_is_joe_randall_farmer_rfarmer_at_hiwaay_net_)"
 
 + 1998-01-25 (Mon, 26 Jan 1998 02:23:45 +0800) - Burning papers - _ichudov@Algebra.COM (Igor Chudov @ home)_
   + 1998-01-25 (Mon, 26 Jan 1998 04:04:26 +0800) - [Re: Burning papers](/archive/1998/01/e73291418920c195067367718c803d2efef9bbc07e751cc1e6ac03a490ab763e) - _Bill Stewart \<bill.stewart@pobox.com\>_

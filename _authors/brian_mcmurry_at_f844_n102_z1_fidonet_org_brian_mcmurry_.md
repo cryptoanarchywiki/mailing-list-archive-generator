@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_mcmurry_at_f844_n102_z1_fidonet_org_brian_mcmurry_
+post_count: 2
 ---
 
-# Brian.McMurry@f844.n102.z1.fidonet.org (Brian McMurry) (2 posts)
+# Brian.McMurry<span>@</span>f844.n102.z1.fidonet.org (Brian McMurry) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

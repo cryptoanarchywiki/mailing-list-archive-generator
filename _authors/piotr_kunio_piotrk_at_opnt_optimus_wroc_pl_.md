@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: piotr_kunio_piotrk_at_opnt_optimus_wroc_pl_
+post_count: 1
 ---
 
-# Piotr Kunio <piotrk@opnt.optimus.wroc.pl> (1 posts)
+# Piotr Kunio <piotrk<span>@</span>opnt.optimus.wroc.pl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: goedel_at_tezcat_com_dietrich_j_kappe_
+post_count: 18
 ---
 
-# goedel@tezcat.com (Dietrich J. Kappe) (18 posts)
+# goedel<span>@</span>tezcat.com (Dietrich J. Kappe) (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

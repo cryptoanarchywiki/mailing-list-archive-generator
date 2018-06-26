@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pjb_at_ny_ubs_com
+post_count: 26
 ---
 
-# pjb@ny.ubs.com (26 posts)
+# pjb<span>@</span>ny.ubs.com (26 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

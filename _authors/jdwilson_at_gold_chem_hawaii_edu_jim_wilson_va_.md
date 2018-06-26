@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jdwilson_at_gold_chem_hawaii_edu_jim_wilson_va_
+post_count: 30
 ---
 
-# jdwilson@gold.chem.hawaii.edu (Jim Wilson (VA)) (30 posts)
+# jdwilson<span>@</span>gold.chem.hawaii.edu (Jim Wilson (VA)) (30 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

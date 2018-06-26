@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lindat_at_iquest_net_linda_thompson_american_justice_federation_
+post_count: 2
 ---
 
-# lindat@iquest.net (Linda Thompson, American Justice Federation) (2 posts)
+# lindat<span>@</span>iquest.net (Linda Thompson, American Justice Federation) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

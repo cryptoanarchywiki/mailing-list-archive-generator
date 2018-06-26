@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: sameer \<sameer@c2.org\><br>
+From: sameer \<sameer<span>@</span>c2.org\><br>
 To: remailer-operators@c2.org<br>
 Message Hash: af7eff37a74b90f083d895c89c6bf7261bbfc4bb403ccdb4a21ce8cd2bab2bae<br>
 Message ID: \<199502010224.SAA24809@infinity.c2.org\><br>
@@ -44,6 +44,9 @@ http://www.c2.org (or login as "guest")			sameer@c2.org
 ## Thread
 
 + Return to [February 1995](/archive/1995/02)
+
++ Return to "[Dave Horsfall <dave<span>@</span>esi.COM.AU>](/author/dave_horsfall_dave_at_esi_com_au_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
 
 + 1995-02-01 (Tue, 31 Jan 95 18:27:47 PST) - CD-ROM [brief addition] - _sameer \<sameer@c2.org\>_
   + 1995-02-01 (Tue, 31 Jan 95 22:33:39 PST) - [Re: CD-ROM [brief addition]](/archive/1995/02/53c9ab2188e60bf94a499c564a8187489814624474501061ed9766b0410d4038) - _Dave Horsfall \<dave@esi.COM.AU\>_

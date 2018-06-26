@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: leo_wong_wingyan_wywong2_at_cs_cuhk_hk_
+post_count: 1
 ---
 
-# Leo WONG Wing-yan <wywong2@cs.cuhk.hk> (1 posts)
+# Leo WONG Wing-yan <wywong2<span>@</span>cs.cuhk.hk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

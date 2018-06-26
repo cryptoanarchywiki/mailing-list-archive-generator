@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rj_harvey_harveyrj_at_vt_edu_
+post_count: 1
 ---
 
-# RJ Harvey <harveyrj@vt.edu> (1 posts)
+# RJ Harvey <harveyrj<span>@</span>vt.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

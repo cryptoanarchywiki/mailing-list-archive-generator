@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_brickner_sjb_at_universe_digex_net_
+post_count: 85
 ---
 
-# Scott Brickner <sjb@universe.digex.net> (85 posts)
+# Scott Brickner <sjb<span>@</span>universe.digex.net> (85 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

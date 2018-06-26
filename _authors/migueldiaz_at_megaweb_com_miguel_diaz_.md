@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: migueldiaz_at_megaweb_com_miguel_diaz_
+post_count: 3
 ---
 
-# MIGUELDIAZ@megaweb.com (Miguel Diaz) (3 posts)
+# MIGUELDIAZ<span>@</span>megaweb.com (Miguel Diaz) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

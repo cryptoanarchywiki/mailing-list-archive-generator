@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sean_lambert_slambert_at_willamette_edu_
+post_count: 1
 ---
 
-# Sean Lambert  <slambert@willamette.edu> (1 posts)
+# Sean Lambert  <slambert<span>@</span>willamette.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

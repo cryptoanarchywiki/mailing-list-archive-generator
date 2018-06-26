@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phil_g_fraering_pgf_at_srl01_cacs_usl_edu_
+post_count: 2
 ---
 
-# "Phil G. Fraering" <pgf@srl01.cacs.usl.edu> (2 posts)
+# "Phil G. Fraering" <pgf<span>@</span>srl01.cacs.usl.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

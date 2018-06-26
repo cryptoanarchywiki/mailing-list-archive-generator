@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: proskauer_prgm_at_class_org_
+post_count: 2
 ---
 
-# Proskauer <prgm@CLASS.ORG> (2 posts)
+# Proskauer <prgm<span>@</span>CLASS.ORG> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

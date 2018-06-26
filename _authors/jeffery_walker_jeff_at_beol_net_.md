@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeffery_walker_jeff_at_beol_net_
+post_count: 1
 ---
 
-# Jeffery Walker <jeff@beol.net> (1 posts)
+# Jeffery Walker <jeff<span>@</span>beol.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

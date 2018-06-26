@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Will Rodger \<rodger@worldnet.att.net\><br>
+From: Will Rodger \<rodger<span>@</span>worldnet.att.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: bca9c8f1115fbe5e366aa2fffb8260acac736c9a6db6b8ff2b2a8d9a09aa69d1<br>
 Message ID: \<3.0.32.19970508104809.0070e8cc@postoffice.worldnet.att.net\><br>
@@ -156,6 +156,9 @@ rrhYr4W8s/juv/9JrVa99+usyt/ohe+N3HcYtJ5WVLF2ED3UT/YDBg==
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[Rick Smith <smith<span>@</span>securecomputing.com>](/author/rick_smith_smith_at_securecomputing_com_)"
++ Return to "[Will Rodger <rodger<span>@</span>worldnet.att.net>](/author/will_rodger_rodger_at_worldnet_att_net_)"
 
 + 1997-05-08 (Thu, 8 May 1997 23:30:05 +0800) - Interactive Week exclusive - Clinton Admin. to announce new Crypto regs. this PM - _Will Rodger \<rodger@worldnet.att.net\>_
   + 1997-05-08 (Fri, 9 May 1997 06:17:11 +0800) - [Re: Clinton Admin. to announce new Crypto regs](/archive/1997/05/ce65db5ddbfe1e384ae472ddb31f6afe8bd78ee1d467228ae852593dd858fb51) - _Rick Smith \<smith@securecomputing.com\>_

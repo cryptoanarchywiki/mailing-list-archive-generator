@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: awestrop_at_nyx10_cs_du_edu_alan_westrope_
+post_count: 3
 ---
 
-# awestrop@nyx10.cs.du.edu (Alan Westrope) (3 posts)
+# awestrop<span>@</span>nyx10.cs.du.edu (Alan Westrope) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

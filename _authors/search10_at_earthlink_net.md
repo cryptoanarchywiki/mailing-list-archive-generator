@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: search10_at_earthlink_net
+post_count: 1
 ---
 
-# search10@earthlink.net (1 posts)
+# search10<span>@</span>earthlink.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

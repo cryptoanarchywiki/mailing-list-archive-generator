@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_s__johansson_esj_at_harvee_billerica_ma_us_
+post_count: 1
 ---
 
-# Eric "S." Johansson <esj@harvee.billerica.ma.us> (1 posts)
+# Eric "S." Johansson <esj<span>@</span>harvee.billerica.ma.us> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

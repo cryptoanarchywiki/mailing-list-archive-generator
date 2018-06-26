@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hal_abelson_hal_at_htp_hpl_hp_com_
+post_count: 1
 ---
 
-# Hal Abelson <hal@htp.hpl.hp.com> (1 posts)
+# Hal Abelson <hal<span>@</span>htp.hpl.hp.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

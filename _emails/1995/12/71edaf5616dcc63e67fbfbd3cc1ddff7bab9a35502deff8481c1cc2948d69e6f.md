@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Simon Spero \<ses@tipper.oit.unc.edu\><br>
+From: Simon Spero \<ses<span>@</span>tipper.oit.unc.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 71edaf5616dcc63e67fbfbd3cc1ddff7bab9a35502deff8481c1cc2948d69e6f<br>
 Message ID: \<Pine.SOL.3.91.951220224506.2806B-100000@chivalry\><br>
@@ -55,6 +55,8 @@ Simon
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
 
 + 1995-12-21 (Wed, 20 Dec 95 22:56:02 PST) - Digicash and capital adequacy - _Simon Spero \<ses@tipper.oit.unc.edu\>_
 

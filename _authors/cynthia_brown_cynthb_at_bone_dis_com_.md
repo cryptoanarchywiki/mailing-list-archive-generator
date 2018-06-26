@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cynthia_brown_cynthb_at_bone_dis_com_
+post_count: 1
 ---
 
-# Cynthia Brown <cynthb@bone_dis.com> (1 posts)
+# Cynthia Brown <cynthb<span>@</span>bone_dis.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

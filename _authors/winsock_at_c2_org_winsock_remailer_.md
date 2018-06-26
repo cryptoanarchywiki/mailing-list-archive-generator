@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: winsock_at_c2_org_winsock_remailer_
+post_count: 1
 ---
 
-# winsock@c2.org (WinSock Remailer) (1 posts)
+# winsock<span>@</span>c2.org (WinSock Remailer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

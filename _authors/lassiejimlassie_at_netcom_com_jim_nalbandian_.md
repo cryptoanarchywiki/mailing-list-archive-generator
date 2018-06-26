@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lassiejimlassie_at_netcom_com_jim_nalbandian_
+post_count: 50
 ---
 
-# lassie!jim%lassie@netcom.com (Jim Nalbandian) (50 posts)
+# lassie!jim%lassie<span>@</span>netcom.com (Jim Nalbandian) (50 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

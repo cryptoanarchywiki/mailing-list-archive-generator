@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: foodie_at_netcom_com_bryna_and_jamie_
+post_count: 1
 ---
 
-# foodie@netcom.com (Bryna And Jamie) (1 posts)
+# foodie<span>@</span>netcom.com (Bryna And Jamie) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

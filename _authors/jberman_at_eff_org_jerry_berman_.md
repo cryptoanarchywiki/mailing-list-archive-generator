@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jberman_at_eff_org_jerry_berman_
+post_count: 1
 ---
 
-# jberman@eff.org (Jerry Berman) (1 posts)
+# jberman<span>@</span>eff.org (Jerry Berman) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

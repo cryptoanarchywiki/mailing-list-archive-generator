@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: STUFFED/EUREKA! \<stuffed@stuffed.net\><br>
+From: STUFFED/EUREKA! \<stuffed<span>@</span>stuffed.net\><br>
 To: All Eureka/Stuffed Subscribers: ;<br>
 Message Hash: 3eca4ce3ea5d97deee199fe44681ed16c8e3e91b6deecdbaa235d0a54c50a77e<br>
 Message ID: \<19980806080000.26014.qmail@eureka.abc-web.com\><br>
@@ -49,6 +49,8 @@ instructions on unsubscribing  are in every issue of Eureka!
 ## Thread
 
 + Return to [August 1998](/archive/1998/08)
+
++ Return to "[STUFFED/EUREKA! <stuffed<span>@</span>stuffed.net>](/author/stuffedeureka_stuffed_at_stuffed_net_)"
 
 + 1998-08-06 (Thu, 6 Aug 1998 03:37:30 -0700 (PDT)) - Half a mil for a spill:Clinton's expensive cock-up/Robber shoots own knob off - _STUFFED/EUREKA! \<stuffed@stuffed.net\>_
 

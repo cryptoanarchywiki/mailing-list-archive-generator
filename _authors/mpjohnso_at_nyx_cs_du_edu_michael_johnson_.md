@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mpjohnso_at_nyx_cs_du_edu_michael_johnson_
+post_count: 1
 ---
 
-# mpjohnso@nyx.cs.du.edu (Michael Johnson) (1 posts)
+# mpjohnso<span>@</span>nyx.cs.du.edu (Michael Johnson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

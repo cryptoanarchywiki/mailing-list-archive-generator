@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_caputo_ccaputo_at_alt_net_
+post_count: 10
 ---
 
-# Chris Caputo <ccaputo@alt.net> (10 posts)
+# Chris Caputo <ccaputo<span>@</span>alt.net> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

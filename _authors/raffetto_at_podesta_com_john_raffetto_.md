@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: raffetto_at_podesta_com_john_raffetto_
+post_count: 1
 ---
 
-# raffetto@podesta.com (John Raffetto) (1 posts)
+# raffetto<span>@</span>podesta.com (John Raffetto) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

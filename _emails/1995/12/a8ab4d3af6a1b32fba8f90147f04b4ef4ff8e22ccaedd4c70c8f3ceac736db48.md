@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a8ab4d3af6a1b32fba8f90147f04b4ef4ff8e22ccaedd4c70c8f3ceac736db48<br>
 Message ID: \<199512010620.HAA28237@utopia.hacktic.nl\><br>
@@ -160,6 +160,8 @@ Ki08cJka/nAyD/D4iQyYB5Y3Jmppb5okFr+UxvdYmS+RZYFnNLfy8A==
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1995-12-01 (Fri, 1 Dec 1995 14:42:09 +0800) - Re: Netscape gives in to key escrow - _nobody@REPLAY.COM (Anonymous)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eli_brandt_eli_at_ux3_sp_cs_cmu_edu_
+post_count: 9
 ---
 
-# Eli Brandt <eli@UX3.SP.CS.CMU.EDU> (9 posts)
+# Eli Brandt <eli<span>@</span>UX3.SP.CS.CMU.EDU> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

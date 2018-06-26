@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mvhs5_mvhs5_at_comnett_net_
+post_count: 1
 ---
 
-# mvhs5 <mvhs5@comnett.net> (1 posts)
+# mvhs5 <mvhs5<span>@</span>comnett.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

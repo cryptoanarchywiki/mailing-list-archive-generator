@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Raph Levien \<raph@CS.Berkeley.EDU\><br>
+From: Raph Levien \<raph<span>@</span>CS.Berkeley.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9f7fb496cbc2dbda231c3cc805a11c708ceb3aa876abad2fa7feec81e60fa37d<br>
 Message ID: \<199509201708.KAA00091@kiwi.cs.berkeley.edu\><br>
@@ -43,6 +43,8 @@ Raph
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[Raph Levien <raph<span>@</span>CS.Berkeley.EDU>](/author/raph_levien_raph_at_cs_berkeley_edu_)"
 
 + 1995-09-20 (Wed, 20 Sep 95 10:08:44 PDT) - Hypermail gateway - _Raph Levien \<raph@CS.Berkeley.EDU\>_
 

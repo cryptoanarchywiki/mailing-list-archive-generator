@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: walter_burton_wburton_at_pipestream_com_
+post_count: 7
 ---
 
-# Walter Burton <wburton@pipestream.com> (7 posts)
+# Walter Burton <wburton<span>@</span>pipestream.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

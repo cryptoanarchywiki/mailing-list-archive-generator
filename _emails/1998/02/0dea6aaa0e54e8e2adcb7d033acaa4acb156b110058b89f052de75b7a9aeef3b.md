@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<anon@anon.efga.org\><br>
+From: Anonymous \<anon<span>@</span>anon.efga.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0dea6aaa0e54e8e2adcb7d033acaa4acb156b110058b89f052de75b7a9aeef3b<br>
 Message ID: \<c86e554557730c5e60a5fba31c49e596@anon.efga.org\><br>
@@ -50,6 +50,13 @@ Easy
 ## Thread
 
 + Return to [February 1998](/archive/1998/02)
+
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
++ Return to "[Cypherlist-Watch Moderator <cypherlist-watch-owner<span>@</span>joshua.rivertown.net>](/author/cypherlistwatch_moderator_cypherlistwatchowner_at_joshua_rivertown_net_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "["James F. Marshall" <marshall<span>@</span>ibm.net>](/author/james_f_marshall_marshall_at_ibm_net_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[sunder <sunder<span>@</span>brainlink.com>](/author/sunder_sunder_at_brainlink_com_)"
 
 + 1998-02-05 (Thu, 5 Feb 1998 11:53:32 +0800) - [Changing to Moderated Cypherpunks -- How?](/archive/1998/02/6b46e68b1cc30eb9cd9a8d99b472e66dafa105eae7e2b6f28c32faad5688daec) - _"James F. Marshall" \<marshall@ibm.net\>_
   + 1998-02-05 (Thu, 5 Feb 1998 12:23:58 +0800) - [Re: Changing to Moderated Cypherpunks -- How?](/archive/1998/02/d119c39e99f5bd449b68c1dbefc69081690a4f0f33b6aa3d8b217f0d4af52c19) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

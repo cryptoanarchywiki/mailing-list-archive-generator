@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christopher_garrett_goebel_goebelc1_at_student_msu_edu_
+post_count: 2
 ---
 
-# Christopher Garrett Goebel <goebelc1@student.msu.edu> (2 posts)
+# Christopher Garrett Goebel <goebelc1<span>@</span>student.msu.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

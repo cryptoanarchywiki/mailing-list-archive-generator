@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: knapper_at_bga_com_woodrow_w_baker_
+post_count: 1
 ---
 
-# knapper@bga.com (Woodrow W. Baker) (1 posts)
+# knapper<span>@</span>bga.com (Woodrow W. Baker) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

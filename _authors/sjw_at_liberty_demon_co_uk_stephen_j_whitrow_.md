@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sjw_at_liberty_demon_co_uk_stephen_j_whitrow_
+post_count: 1
 ---
 
-# sjw@liberty.demon.co.uk (Stephen J. Whitrow) (1 posts)
+# sjw<span>@</span>liberty.demon.co.uk (Stephen J. Whitrow) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

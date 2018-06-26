@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonremailer_at_utopia_hacktic_nl_anonymous_
+post_count: 75
 ---
 
-# anon-remailer@utopia.hacktic.nl (Anonymous) (75 posts)
+# anon-remailer<span>@</span>utopia.hacktic.nl (Anonymous) (75 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

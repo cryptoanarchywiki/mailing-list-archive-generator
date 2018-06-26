@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: audun_joesang_at_alcatel_no
+post_count: 1
 ---
 
-# Audun.Joesang@alcatel.no (1 posts)
+# Audun.Joesang<span>@</span>alcatel.no (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

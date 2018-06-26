@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kovar_at_nda_com_david_kovar_
+post_count: 1
 ---
 
-# kovar@NDA.COM (David Kovar) (1 posts)
+# kovar<span>@</span>NDA.COM (David Kovar) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

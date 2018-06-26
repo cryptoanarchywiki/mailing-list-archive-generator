@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Johan Helsingius \<julf@penet.FI\><br>
+From: Johan Helsingius \<julf<span>@</span>penet.FI\><br>
 To: Richard Childers \<rchilder@us.oracle.com\><br>
 Message Hash: a071ad49f0efaffbbe34a552a7cbd265caabff6d0bb1cfea638dbd8382fcc9f5<br>
 Message ID: \<9301041652.aa07015@penet.penet.FI\><br>
@@ -57,6 +57,9 @@ servers, and are *not* very computer- or e-mail-literate.
 ## Thread
 
 + Return to [January 1993](/archive/1993/01)
+
++ Return to "[Johan Helsingius <julf<span>@</span>penet.FI>](/author/johan_helsingius_julf_at_penet_fi_)"
++ Return to "[Richard Childers <rchilder<span>@</span>us.oracle.com>](/author/richard_childers_rchilder_at_us_oracle_com_)"
 
 + 1993-01-04 (Sun, 3 Jan 93 20:28:18 PST) - [Re: A solution remailer signature suppression](/archive/1993/01/f29646a2190fc67c5526f49f0e3ba24a743163e7d7b4f3a212650e6fcd79a340) - _Richard Childers \<rchilder@us.oracle.com\>_
   + 1993-01-04 (Mon, 4 Jan 93 07:39:52 PST) - Re: A solution remailer signature suppression - _Johan Helsingius \<julf@penet.FI\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_via_bureau42_remailer_devnull_at_bureau42_ml_org_
+post_count: 3
 ---
 
-# Anonymous (via bureau42 remailer) <devnull@bureau42.ml.org> (3 posts)
+# Anonymous (via bureau42 remailer) <devnull<span>@</span>bureau42.ml.org> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: georg_josef_uphoff_georg_uphoff_at_unikonstanz_de_
+post_count: 1
 ---
 
-# Georg Josef Uphoff <Georg.Uphoff@uni-konstanz.de> (1 posts)
+# Georg Josef Uphoff <Georg.Uphoff<span>@</span>uni-konstanz.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

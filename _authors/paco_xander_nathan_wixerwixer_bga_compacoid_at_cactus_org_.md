@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paco_xander_nathan_wixerwixer_bga_compacoid_at_cactus_org_
+post_count: 4
 ---
 
-# Paco Xander Nathan <wixer!wixer.bga.com!pacoid@cactus.org> (4 posts)
+# Paco Xander Nathan <wixer!wixer.bga.com!pacoid<span>@</span>cactus.org> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

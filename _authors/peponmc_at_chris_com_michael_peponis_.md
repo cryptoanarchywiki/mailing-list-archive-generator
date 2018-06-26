@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peponmc_at_chris_com_michael_peponis_
+post_count: 1
 ---
 
-# peponmc@chris.com (Michael Peponis) (1 posts)
+# peponmc<span>@</span>chris.com (Michael Peponis) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

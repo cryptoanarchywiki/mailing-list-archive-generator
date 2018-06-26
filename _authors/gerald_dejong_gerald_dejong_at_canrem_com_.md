@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gerald_dejong_gerald_dejong_at_canrem_com_
+post_count: 1
 ---
 
-# Gerald Dejong <gerald.dejong@canrem.com> (1 posts)
+# Gerald Dejong <gerald.dejong<span>@</span>canrem.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

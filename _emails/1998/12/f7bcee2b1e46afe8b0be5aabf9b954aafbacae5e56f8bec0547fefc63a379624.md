@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: 5dfs@mail.gnosis.it<br>
+From: 5dfs<span>@</span>mail.gnosis.it<br>
 To: user@the.internet<br>
 Message Hash: f7bcee2b1e46afe8b0be5aabf9b954aafbacae5e56f8bec0547fefc63a379624<br>
 Message ID: \<199812040937.KAA24534@mail.gnosis.it\><br>
@@ -83,6 +83,8 @@ if i can
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[5dfs<span>@</span>mail.gnosis.it](/author/5dfs_at_mail_gnosis_it)"
 
 + 1998-12-04 (Fri, 4 Dec 1998 02:06:24 -0800 (PST)) - ADV: We'll Pay You To Make Our Phone Ring - _5dfs@mail.gnosis.it_
 

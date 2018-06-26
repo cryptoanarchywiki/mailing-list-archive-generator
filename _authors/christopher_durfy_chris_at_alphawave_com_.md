@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christopher_durfy_chris_at_alphawave_com_
+post_count: 1
 ---
 
-# Christopher Durfy <chris@alphawave.com> (1 posts)
+# Christopher Durfy <chris<span>@</span>alphawave.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

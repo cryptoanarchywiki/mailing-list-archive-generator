@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sdw_at_sdwsys_lig_net_stephen_d_williams_
+post_count: 6
 ---
 
-# sdw@sdwsys.lig.net (Stephen D. Williams) (6 posts)
+# sdw<span>@</span>sdwsys.lig.net (Stephen D. Williams) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

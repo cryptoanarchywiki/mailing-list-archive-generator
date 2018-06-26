@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mjsus_at_atlanta_com
+post_count: 4
 ---
 
-# mjsus@atlanta.com (4 posts)
+# mjsus<span>@</span>atlanta.com (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

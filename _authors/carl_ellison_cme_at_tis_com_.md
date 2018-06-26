@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carl_ellison_cme_at_tis_com_
+post_count: 118
 ---
 
-# Carl Ellison <cme@TIS.COM> (118 posts)
+# Carl Ellison <cme<span>@</span>TIS.COM> (118 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

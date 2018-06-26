@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_blazer_at_mail_nevalink_ru_
+post_count: 3
 ---
 
-# Mike <blazer@mail.nevalink.ru> (3 posts)
+# Mike <blazer<span>@</span>mail.nevalink.ru> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

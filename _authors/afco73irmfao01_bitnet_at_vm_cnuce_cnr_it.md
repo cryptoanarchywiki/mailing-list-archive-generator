@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: afco73irmfao01_bitnet_at_vm_cnuce_cnr_it
+post_count: 1
 ---
 
-# AFCO73%IRMFAO01.BITNET@vm.cnuce.cnr.it (1 posts)
+# AFCO73%IRMFAO01.BITNET<span>@</span>vm.cnuce.cnr.it (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

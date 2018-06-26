@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_h_merrill_phm_at_sprynet_com_
+post_count: 3
 ---
 
-# "Paul H. Merrill" <PHM@sprynet.com> (3 posts)
+# "Paul H. Merrill" <PHM<span>@</span>sprynet.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

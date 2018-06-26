@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ken Synder \<sfd@sfdungeon.com\><br>
+From: Ken Synder \<sfd<span>@</span>sfdungeon.com\><br>
 To: _N/A_<br>
 Message Hash: 7cd8e1af0dd421ebd7730f8709cfcc13dd157ffd73204bc6e5b1ebeedcbae993<br>
 Message ID: \<9703131844.AB29418@www.cyberdevinc.com\><br>
@@ -97,6 +97,8 @@ with remove in the subject header.
 ## Thread
 
 + Return to [March 1997](/archive/1997/03)
+
++ Return to "[Ken Synder <sfd<span>@</span>sfdungeon.com>](/author/ken_synder_sfd_at_sfdungeon_com_)"
 
 + 1997-03-13 (Thu, 13 Mar 1997 10:40:46 -0800 (PST)) - Good News/Bad News!! - _Ken Synder \<sfd@sfdungeon.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: strnlght_at_netcom_com_david_sternlight_
+post_count: 1
 ---
 
-# strnlght@netcom.com (David Sternlight) (1 posts)
+# strnlght<span>@</span>netcom.com (David Sternlight) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

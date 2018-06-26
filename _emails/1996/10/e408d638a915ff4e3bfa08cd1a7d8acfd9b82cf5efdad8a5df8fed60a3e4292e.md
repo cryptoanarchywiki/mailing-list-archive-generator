@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Norman Hardy \<norm@netcom.com\><br>
+From: Norman Hardy \<norm<span>@</span>netcom.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: e408d638a915ff4e3bfa08cd1a7d8acfd9b82cf5efdad8a5df8fed60a3e4292e<br>
 Message ID: \<v03010500ae91bba23301@DialupEudora\><br>
@@ -48,6 +48,10 @@ at <ftp.csua.berkeley.edu:pub/cypherpunks/ciphers>? I searched AltaVista.
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "[Norman Hardy <norm<span>@</span>netcom.com>](/author/norman_hardy_norm_at_netcom_com_)"
 
 + 1996-10-21 (Mon, 21 Oct 1996 16:57:54 -0700 (PDT)) - cypherpunks ftp site - _Norman Hardy \<norm@netcom.com\>_
   + 1996-10-22 (Tue, 22 Oct 1996 13:11:42 -0700 (PDT)) - [Re: cypherpunks ftp site](/archive/1996/10/d9330863706ebcbe3f8ed3d61ce9690e4825e27cbef87754e27b53d14da2dbd7) - _"Mark M." \<markm@voicenet.com\>_

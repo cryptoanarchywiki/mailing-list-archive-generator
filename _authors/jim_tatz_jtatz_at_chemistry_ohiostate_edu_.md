@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_tatz_jtatz_at_chemistry_ohiostate_edu_
+post_count: 6
 ---
 
-# Jim Tatz <jtatz@chemistry.ohio-state.edu> (6 posts)
+# Jim Tatz <jtatz<span>@</span>chemistry.ohio-state.edu> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

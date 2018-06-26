@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: allan_thompson_sparky12_at_earthlink_net_
+post_count: 2
 ---
 
-# Allan Thompson <sparky12@earthlink.net> (2 posts)
+# Allan Thompson <sparky12<span>@</span>earthlink.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sherry_mayo_scmayo_at_rschp2_anu_edu_au_
+post_count: 12
 ---
 
-# Sherry Mayo <scmayo@rschp2.anu.edu.au> (12 posts)
+# Sherry Mayo <scmayo<span>@</span>rschp2.anu.edu.au> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

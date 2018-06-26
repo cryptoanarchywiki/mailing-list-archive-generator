@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: samuel_kaplin_at_warehouse_mn_org_samuel_kaplin_
+post_count: 8
 ---
 
-# samuel.kaplin@warehouse.mn.org (Samuel Kaplin) (8 posts)
+# samuel.kaplin<span>@</span>warehouse.mn.org (Samuel Kaplin) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

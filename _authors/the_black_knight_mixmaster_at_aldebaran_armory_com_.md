@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_black_knight_mixmaster_at_aldebaran_armory_com_
+post_count: 1
 ---
 
-# The Black Knight <mixmaster@aldebaran.armory.com> (1 posts)
+# The Black Knight <mixmaster<span>@</span>aldebaran.armory.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

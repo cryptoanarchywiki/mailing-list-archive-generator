@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roy_at_viewgraphics_com_roy_franz_
+post_count: 1
 ---
 
-# roy@viewgraphics.com (Roy Franz) (1 posts)
+# roy<span>@</span>viewgraphics.com (Roy Franz) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

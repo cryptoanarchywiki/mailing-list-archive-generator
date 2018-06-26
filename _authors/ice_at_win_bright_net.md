@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ice_at_win_bright_net
+post_count: 16
 ---
 
-# ice@win.bright.net (16 posts)
+# ice<span>@</span>win.bright.net (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

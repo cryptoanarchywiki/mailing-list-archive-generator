@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_broiles_gbroiles_at_io_com_
+post_count: 1
 ---
 
-# Greg Broiles <gbroiles@io.com> (1 posts)
+# Greg Broiles <gbroiles<span>@</span>io.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

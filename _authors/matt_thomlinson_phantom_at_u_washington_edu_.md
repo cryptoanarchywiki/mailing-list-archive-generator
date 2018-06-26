@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matt_thomlinson_phantom_at_u_washington_edu_
+post_count: 49
 ---
 
-# Matt Thomlinson <phantom@u.washington.edu> (49 posts)
+# Matt Thomlinson <phantom<span>@</span>u.washington.edu> (49 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

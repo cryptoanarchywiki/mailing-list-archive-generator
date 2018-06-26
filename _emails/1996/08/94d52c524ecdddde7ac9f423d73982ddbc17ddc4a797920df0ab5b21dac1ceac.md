@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 94d52c524ecdddde7ac9f423d73982ddbc17ddc4a797920df0ab5b21dac1ceac<br>
 Message ID: \<199608152000.NAA03130@mail.pacifier.com\><br>
@@ -66,6 +66,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-08-15 (Fri, 16 Aug 1996 07:22:00 +0800) - Re: Schlafly helped defeat ERA, supported Goldwater--where do I sign up? - _jim bell \<jimbell@pacifier.com\>_
 

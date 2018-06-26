@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gkennedy_at_ccs_carleton_ca_garry_kennedy_
+post_count: 1
 ---
 
-# gkennedy@ccs.carleton.ca (Garry Kennedy) (1 posts)
+# gkennedy<span>@</span>ccs.carleton.ca (Garry Kennedy) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

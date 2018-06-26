@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_otoole_otoole_at_lcs_mit_edu_
+post_count: 3
 ---
 
-# "James O'Toole" <otoole@lcs.mit.edu> (3 posts)
+# "James O'Toole" <otoole<span>@</span>lcs.mit.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

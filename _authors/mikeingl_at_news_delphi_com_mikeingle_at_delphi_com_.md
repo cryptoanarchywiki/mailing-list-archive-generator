@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mikeingl_at_news_delphi_com_mikeingle_at_delphi_com_
+post_count: 5
 ---
 
-# mikeingl@news.delphi.com (MIKEINGLE@DELPHI.COM) (5 posts)
+# mikeingl<span>@</span>news.delphi.com (MIKEINGLE<span>@</span>DELPHI.COM) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

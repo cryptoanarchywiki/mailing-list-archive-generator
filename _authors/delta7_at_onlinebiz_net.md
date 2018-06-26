@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: delta7_at_onlinebiz_net
+post_count: 2
 ---
 
-# delta7@onlinebiz.net (2 posts)
+# delta7<span>@</span>onlinebiz.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

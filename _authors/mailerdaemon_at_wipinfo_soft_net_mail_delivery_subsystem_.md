@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mailerdaemon_at_wipinfo_soft_net_mail_delivery_subsystem_
+post_count: 2
 ---
 
-# Mailer-Daemon@wipinfo.soft.net (Mail Delivery Subsystem) (2 posts)
+# Mailer-Daemon<span>@</span>wipinfo.soft.net (Mail Delivery Subsystem) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

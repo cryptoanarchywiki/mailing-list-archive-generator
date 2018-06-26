@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bob_bridgewater_bob_at_bridgew_demon_co_uk_
+post_count: 1
 ---
 
-# Bob Bridgewater <bob@bridgew.demon.co.uk> (1 posts)
+# Bob Bridgewater <bob<span>@</span>bridgew.demon.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

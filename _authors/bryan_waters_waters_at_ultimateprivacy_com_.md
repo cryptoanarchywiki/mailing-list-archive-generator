@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bryan_waters_waters_at_ultimateprivacy_com_
+post_count: 3
 ---
 
-# Bryan Waters <waters@ultimateprivacy.com> (3 posts)
+# Bryan Waters <waters<span>@</span>ultimateprivacy.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Brian B. Riley" \<brianbr@together.net\><br>
+From: "Brian B. Riley" \<brianbr<span>@</span>together.net\><br>
 To: \<cypherpunks@cyberpass.net\><br>
 Message Hash: fdd3d184abb3eebd0afe32cd78dc0e7fdbc560c084d868bdc2d63ae2f6a9437d<br>
 Message ID: \<199710212341.TAA15468@mx02.together.net\><br>
@@ -68,6 +68,8 @@ Brian B. Riley --> http://www.macconnect.com/~brianbr
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "["Brian B. Riley" <brianbr<span>@</span>together.net>](/author/brian_b_riley_brianbr_at_together_net_)"
 
 + 1997-10-21 (Wed, 22 Oct 1997 07:49:31 +0800) - Re: Your "RIGHT" to Speak to Big Brother - _"Brian B. Riley" \<brianbr@together.net\>_
 

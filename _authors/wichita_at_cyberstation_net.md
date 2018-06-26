@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wichita_at_cyberstation_net
+post_count: 30
 ---
 
-# wichita@cyberstation.net (30 posts)
+# wichita<span>@</span>cyberstation.net (30 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

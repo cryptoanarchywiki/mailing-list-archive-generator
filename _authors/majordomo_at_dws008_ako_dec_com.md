@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: majordomo_at_dws008_ako_dec_com
+post_count: 1
 ---
 
-# majordomo@dws008.ako.dec.com (1 posts)
+# majordomo<span>@</span>dws008.ako.dec.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

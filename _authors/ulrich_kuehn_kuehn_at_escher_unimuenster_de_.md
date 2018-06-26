@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ulrich_kuehn_kuehn_at_escher_unimuenster_de_
+post_count: 1
 ---
 
-# Ulrich Kuehn <kuehn@ESCHER.UNI-MUENSTER.DE> (1 posts)
+# Ulrich Kuehn <kuehn<span>@</span>ESCHER.UNI-MUENSTER.DE> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

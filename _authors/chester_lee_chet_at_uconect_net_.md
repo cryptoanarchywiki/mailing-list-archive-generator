@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chester_lee_chet_at_uconect_net_
+post_count: 1
 ---
 
-# Chester Lee <chet@uconect.net> (1 posts)
+# Chester Lee <chet<span>@</span>uconect.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

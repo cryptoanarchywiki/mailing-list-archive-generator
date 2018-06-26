@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<hfinney@shell.portal.com\><br>
+From: Hal \<hfinney<span>@</span>shell.portal.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: bb1d6d69bacc6bdebcb1f1a49cdc8e42cad53e986c2a73ed1102f01d82bd190e<br>
 Message ID: \<199510061708.KAA27047@jobe.shell.portal.com\><br>
@@ -69,6 +69,10 @@ Hal
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[jbaber<span>@</span>mi.leeds.ac.uk](/author/jbaber_at_mi_leeds_ac_uk)"
++ Return to "[Jiri Baum <jirib<span>@</span>sweeney.cs.monash.edu.au>](/author/jiri_baum_jirib_at_sweeney_cs_monash_edu_au_)"
 
 + 1995-10-06 (Fri, 6 Oct 95 09:05:53 PDT) - [Re: subjective names and MITM](/archive/1995/10/99aa9c7fedfd05a01ed205b672a7dfe094caf3c0003fdd675a0ac28d1c9879af) - _jbaber@mi.leeds.ac.uk_
   + 1995-10-06 (Fri, 6 Oct 95 10:10:07 PDT) - Re: subjective names and MITM - _Hal \<hfinney@shell.portal.com\>_

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>netcom.com (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5d0f0159f05301efba2ca4a2cd8ba3766aebfbc7b1bb4fe45ae719ed99feb6cd<br>
 Message ID: \<199404020327.TAA10687@mail.netcom.com\><br>
@@ -116,6 +116,8 @@ Higher Power: 2^859433 | Public Key: PGP and MailSafe available.
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-04-02 (Fri, 1 Apr 94 19:26:22 PST) - (fwd) Re: RSA Broken by the Russians? - _tcmay@netcom.com (Timothy C. May)_
 

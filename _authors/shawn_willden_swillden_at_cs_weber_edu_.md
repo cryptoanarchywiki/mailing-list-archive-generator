@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shawn_willden_swillden_at_cs_weber_edu_
+post_count: 1
 ---
 
-# Shawn Willden <swillden@cs.weber.edu> (1 posts)
+# Shawn Willden <swillden<span>@</span>cs.weber.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

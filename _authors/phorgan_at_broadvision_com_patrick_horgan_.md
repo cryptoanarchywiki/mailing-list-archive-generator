@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phorgan_at_broadvision_com_patrick_horgan_
+post_count: 1
 ---
 
-# phorgan@broadvision.com (Patrick Horgan) (1 posts)
+# phorgan<span>@</span>broadvision.com (Patrick Horgan) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

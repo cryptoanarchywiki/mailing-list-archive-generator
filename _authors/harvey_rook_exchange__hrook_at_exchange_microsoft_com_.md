@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: harvey_rook_exchange__hrook_at_exchange_microsoft_com_
+post_count: 11
 ---
 
-# "Harvey Rook (Exchange)" <hrook@exchange.microsoft.com> (11 posts)
+# "Harvey Rook (Exchange)" <hrook<span>@</span>exchange.microsoft.com> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

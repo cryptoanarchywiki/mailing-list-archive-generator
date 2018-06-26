@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Timothy Newsham \<newsham@wiliki.eng.hawaii.edu\><br>
+From: Timothy Newsham \<newsham<span>@</span>wiliki.eng.hawaii.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ec9ead82c98bd99c1baa82f708abec5335a40cca458ddbe34c3aa9b3e3c7a07b<br>
 Message ID: \<9305042013.AA25148@toad.com\><br>
@@ -60,6 +60,9 @@ Does anyone know the rationale behind this?
 ## Thread
 
 + Return to [May 1993](/archive/1993/05)
+
++ Return to "[Joe Thomas <jthomas<span>@</span>access.digex.net>](/author/joe_thomas_jthomas_at_access_digex_net_)"
++ Return to "[Timothy Newsham <newsham<span>@</span>wiliki.eng.hawaii.edu>](/author/timothy_newsham_newsham_at_wiliki_eng_hawaii_edu_)"
 
 + 1993-05-04 (Tue, 4 May 93 13:13:45 PDT) - tripple des - _Timothy Newsham \<newsham@wiliki.eng.hawaii.edu\>_
   + 1993-05-04 (Tue, 4 May 93 14:18:38 PDT) - [Re: tripple des](/archive/1993/05/bff6e89482897a8e1e530e100056b183c91fb0365d27bdf9f8bbfc65597afa1e) - _Joe Thomas \<jthomas@access.digex.net\>_

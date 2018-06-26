@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_holliday_alanh_at_global_co_za_
+post_count: 1
 ---
 
-# Alan Holliday <alanh@global.co.za> (1 posts)
+# Alan Holliday <alanh<span>@</span>global.co.za> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

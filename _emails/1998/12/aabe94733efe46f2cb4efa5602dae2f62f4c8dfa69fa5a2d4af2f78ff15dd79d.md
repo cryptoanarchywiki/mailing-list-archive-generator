@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: lcs Mixmaster Remailer \<mix@anon.lcs.mit.edu\><br>
+From: lcs Mixmaster Remailer \<mix<span>@</span>anon.lcs.mit.edu\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: aabe94733efe46f2cb4efa5602dae2f62f4c8dfa69fa5a2d4af2f78ff15dd79d<br>
 Message ID: \<19981226142005.14320.qmail@nym.alias.net\><br>
@@ -86,6 +86,8 @@ United States as they now patrol Bosnia.
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[lcs Mixmaster Remailer <mix<span>@</span>anon.lcs.mit.edu>](/author/lcs_mixmaster_remailer_mix_at_anon_lcs_mit_edu_)"
 
 + 1998-12-26 (Sat, 26 Dec 1998 22:55:20 +0800) - Posse Comitatus - _lcs Mixmaster Remailer \<mix@anon.lcs.mit.edu\>_
 

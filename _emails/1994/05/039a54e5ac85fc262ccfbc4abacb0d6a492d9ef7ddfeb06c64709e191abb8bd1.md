@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Barrett \<barrett@daisy.ee.und.ac.za\><br>
+From: Alan Barrett \<barrett<span>@</span>daisy.ee.und.ac.za\><br>
 To: "Edgar W. Swank" \<edgar@spectrx.sbay.org\><br>
 Message Hash: 039a54e5ac85fc262ccfbc4abacb0d6a492d9ef7ddfeb06c64709e191abb8bd1<br>
 Message ID: \<Pine.3.89.9405311015.N411-0100000@newdaisy.ee.und.ac.za\><br>
@@ -49,6 +49,9 @@ and 2.6ui, and everything is signed by mathew.
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[Alan Barrett <barrett<span>@</span>daisy.ee.und.ac.za>](/author/alan_barrett_barrett_at_daisy_ee_und_ac_za_)"
++ Return to "[edgar<span>@</span>spectrx.sbay.org (Edgar W. Swank)](/author/edgar_at_spectrx_sbay_org_edgar_w_swank_)"
 
 + 1994-05-31 (Tue, 31 May 94 00:43:26 PDT) - [Diff utility available from SIMTEL](/archive/1994/05/280ae012066a2149a9b4eb73baf1d4764c4e1112c85e6d355c40824823558f8f) - _edgar@spectrx.sbay.org (Edgar W. Swank)_
   + 1994-05-31 (Tue, 31 May 94 01:29:22 PDT) - Re: Diff utility available from SIMTEL - _Alan Barrett \<barrett@daisy.ee.und.ac.za\>_

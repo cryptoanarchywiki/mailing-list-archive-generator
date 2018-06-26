@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_adams_cadams_at_acucobol_com_
+post_count: 2
 ---
 
-# "Chris Adams" <cadams@acucobol.com> (2 posts)
+# "Chris Adams" <cadams<span>@</span>acucobol.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

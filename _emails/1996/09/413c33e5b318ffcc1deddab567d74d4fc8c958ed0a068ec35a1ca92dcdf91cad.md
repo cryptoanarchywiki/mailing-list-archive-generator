@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jon Lebkowsky \<jonl@well.com\><br>
+From: Jon Lebkowsky \<jonl<span>@</span>well.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 413c33e5b318ffcc1deddab567d74d4fc8c958ed0a068ec35a1ca92dcdf91cad<br>
 Message ID: \<2.2.32.19960904120641.006c3388@mail.well.com\><br>
@@ -81,6 +81,8 @@ Electronic Frontiers Forum, 6PM PDT Thursdays     <http://www.hotwired.com/eff>
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Jon Lebkowsky <jonl<span>@</span>well.com>](/author/jon_lebkowsky_jonl_at_well_com_)"
 
 + 1996-09-04 (Wed, 4 Sep 1996 23:27:25 +0800) - Re: What is the EFF doing exactly? - _Jon Lebkowsky \<jonl@well.com\>_
 

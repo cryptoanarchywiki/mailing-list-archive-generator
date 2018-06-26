@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_at_inch_com_thomas_massengale_
+post_count: 1
 ---
 
-# thomas@inch.com (Thomas Massengale) (1 posts)
+# thomas<span>@</span>inch.com (Thomas Massengale) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

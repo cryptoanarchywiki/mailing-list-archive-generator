@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mr_paul_danckaert_acs__pauld_at_umbc_edu_
+post_count: 2
 ---
 
-# "Mr. Paul Danckaert (ACS)" <pauld@umbc.edu> (2 posts)
+# "Mr. Paul Danckaert (ACS)" <pauld<span>@</span>umbc.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

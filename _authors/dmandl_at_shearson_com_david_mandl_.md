@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dmandl_at_shearson_com_david_mandl_
+post_count: 10
 ---
 
-# dmandl@shearson.com (David Mandl) (10 posts)
+# dmandl<span>@</span>shearson.com (David Mandl) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

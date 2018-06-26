@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: napalm_sfnf9uy_at_scfn_thpl_lib_fl_us_
+post_count: 2
 ---
 
-# Napalm <sfnf9uy@scfn.thpl.lib.fl.us> (2 posts)
+# Napalm <sfnf9uy<span>@</span>scfn.thpl.lib.fl.us> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

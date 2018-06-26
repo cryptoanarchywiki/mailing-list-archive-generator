@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d360d632562eda2d88ebf805c46ecbcff8e87afcab32aa1aa059ae7a1ebb6aed<br>
 Message ID: \<4TscTD14w165w@bwalk.dm.com\><br>
@@ -50,6 +50,9 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-08-28 (Wed, 28 Aug 1996 11:39:58 +0800) - [Hayek (was: Cato Institute conference on Net-regulation)](/archive/1996/08/eb2262590cfcf633269c50c6c252d46f7668e95aef8ae969cb53b96f2769eb62) - _tcmay@got.net (Timothy C. May)_
   + 1996-08-28 (Wed, 28 Aug 1996 15:06:24 +0800) - Re: Hayek (was: Cato Institute conference on Net-regulation) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

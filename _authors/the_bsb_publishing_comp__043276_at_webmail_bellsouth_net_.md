@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_bsb_publishing_comp__043276_at_webmail_bellsouth_net_
+post_count: 1
 ---
 
-# "The BSB Publishing Comp." <043276@webmail.bellsouth.net> (1 posts)
+# "The BSB Publishing Comp." <043276<span>@</span>webmail.bellsouth.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

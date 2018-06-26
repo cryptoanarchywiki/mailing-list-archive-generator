@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Frantz \<frantz@netcom.com\><br>
+From: Bill Frantz \<frantz<span>@</span>netcom.com\><br>
 To: Tim May \<cypherpunks@Algebra.COM<br>
 Message Hash: db653c3c45a518cfb7bad3d03a6644ffb66e73c5de2ebed61dd7e6e5dc1e95bd<br>
 Message ID: \<v03007801b0674ae749c6@[207.94.249.179]\><br>
@@ -56,6 +56,10 @@ frantz@netcom.com | nation it is today.        | Los Gatos, CA 95032, USA
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1997-10-10 (Sat, 11 Oct 1997 01:34:58 +0800) - [CAK as a really bad form of corporate networking](/archive/1997/10/91edce9313020f2cf7936b39f794779510a6c560b16b0f48a16afad2be71091f) - _Tim May \<tcmay@got.net\>_
   + 1997-10-10 (Sat, 11 Oct 1997 02:36:41 +0800) - [Re: CAK as a really bad form of corporate networking](/archive/1997/10/a42b676aa0eff17a1190fe67ec6af67e808129b3d7896edc7287d6ba409d2f35) - _Tim May \<tcmay@got.net\>_

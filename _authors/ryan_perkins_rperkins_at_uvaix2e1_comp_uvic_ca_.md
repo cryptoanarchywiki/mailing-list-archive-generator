@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ryan_perkins_rperkins_at_uvaix2e1_comp_uvic_ca_
+post_count: 1
 ---
 
-# Ryan Perkins <rperkins@uvaix2e1.comp.UVic.CA> (1 posts)
+# Ryan Perkins <rperkins<span>@</span>uvaix2e1.comp.UVic.CA> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

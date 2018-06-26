@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: crypto_crypto_at_nas_edu_
+post_count: 12
 ---
 
-# "CRYPTO" <crypto@nas.edu> (12 posts)
+# "CRYPTO" <crypto<span>@</span>nas.edu> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

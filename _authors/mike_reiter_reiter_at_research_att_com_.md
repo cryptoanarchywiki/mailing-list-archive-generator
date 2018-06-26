@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_reiter_reiter_at_research_att_com_
+post_count: 7
 ---
 
-# Mike Reiter <reiter@research.att.com> (7 posts)
+# Mike Reiter <reiter<span>@</span>research.att.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

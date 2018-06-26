@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mullen_patrick_mullenp_at_ndhm06_ndhm_gtegsc_com_
+post_count: 10
 ---
 
-# "Mullen, Patrick" <MullenP@ndhm06.ndhm.gtegsc.com> (10 posts)
+# "Mullen, Patrick" <MullenP<span>@</span>ndhm06.ndhm.gtegsc.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

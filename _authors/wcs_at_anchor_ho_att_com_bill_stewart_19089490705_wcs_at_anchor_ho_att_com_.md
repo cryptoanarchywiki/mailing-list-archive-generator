@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wcs_at_anchor_ho_att_com_bill_stewart_19089490705_wcs_at_anchor_ho_att_com_
+post_count: 4
 ---
 
-# wcs@anchor.ho.att.com (Bill Stewart +1-908-949-0705 wcs@anchor.ho.att.com) (4 posts)
+# wcs<span>@</span>anchor.ho.att.com (Bill Stewart +1-908-949-0705 wcs<span>@</span>anchor.ho.att.com) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

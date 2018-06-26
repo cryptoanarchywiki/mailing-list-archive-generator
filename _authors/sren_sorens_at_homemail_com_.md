@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sren_sorens_at_homemail_com_
+post_count: 1
 ---
 
-# "S�ren" <sorens@homemail.com> (1 posts)
+# "S�ren" <sorens<span>@</span>homemail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: black_unicorn_unicorn_at_polaris_mindport_net_
+post_count: 54
 ---
 
-# Black Unicorn <unicorn@polaris.mindport.net> (54 posts)
+# Black Unicorn <unicorn<span>@</span>polaris.mindport.net> (54 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

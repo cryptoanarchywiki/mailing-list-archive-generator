@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: monty_harder_at_famend_com_monty_harder_
+post_count: 36
 ---
 
-# monty.harder@famend.com (MONTY HARDER) (36 posts)
+# monty.harder<span>@</span>famend.com (MONTY HARDER) (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

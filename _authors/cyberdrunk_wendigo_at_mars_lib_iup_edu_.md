@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cyberdrunk_wendigo_at_mars_lib_iup_edu_
+post_count: 1
 ---
 
-# CyberDrunk <wendigo@mars.lib.iup.edu> (1 posts)
+# CyberDrunk <wendigo<span>@</span>mars.lib.iup.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

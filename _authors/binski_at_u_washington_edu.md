@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: binski_at_u_washington_edu
+post_count: 2
 ---
 
-# binski@u.washington.edu (2 posts)
+# binski<span>@</span>u.washington.edu (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

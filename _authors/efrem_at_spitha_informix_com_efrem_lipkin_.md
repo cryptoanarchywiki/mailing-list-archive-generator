@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: efrem_at_spitha_informix_com_efrem_lipkin_
+post_count: 3
 ---
 
-# efrem@spitha.informix.com (Efrem Lipkin) (3 posts)
+# efrem<span>@</span>spitha.informix.com (Efrem Lipkin) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

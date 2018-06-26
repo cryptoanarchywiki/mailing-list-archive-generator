@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ichudov@algebra.com (Igor Chudov @ home)<br>
+From: ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)<br>
 To: EALLENSMITH@ocelot.Rutgers.EDU (E. Allen Smith)<br>
 Message Hash: c460c2a6ae11508fc5ce4ff3ab55d326a36ef4f8fc3f8ea8aa8dcca5bc2cfb81<br>
 Message ID: \<199702042214.QAA10072@manifold.algebra.com\><br>
@@ -49,6 +49,9 @@ Procmail can do absolutely any filtering, unlike most news readers.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "["E. Allen Smith" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
 
 + 1997-02-04 (Tue, 4 Feb 1997 13:59:41 -0800 (PST)) - [Re: Dissolving Choke Points](/archive/1997/02/f5a05263727806145688cbb7a79cc98852c982450fdd28e79e664518b3ebd104) - _"E. Allen Smith" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
   + 1997-02-04 (Tue, 4 Feb 1997 14:19:35 -0800 (PST)) - Re: Dissolving Choke Points - _ichudov@algebra.com (Igor Chudov @ home)_

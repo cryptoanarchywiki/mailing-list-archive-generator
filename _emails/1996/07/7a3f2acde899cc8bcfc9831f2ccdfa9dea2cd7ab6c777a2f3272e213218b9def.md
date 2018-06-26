@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jamesd@echeque.com<br>
+From: jamesd<span>@</span>echeque.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7a3f2acde899cc8bcfc9831f2ccdfa9dea2cd7ab6c777a2f3272e213218b9def<br>
 Message ID: \<199607011504.IAA24410@dns2.noc.best.net\><br>
@@ -60,6 +60,8 @@ arbitrary power of the state.		|   jamesd@echeque.com
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[jamesd<span>@</span>echeque.com](/author/jamesd_at_echeque_com)"
 
 + 1996-07-01 (Tue, 2 Jul 1996 03:03:35 +0800) - Re: Hardware RNG - _jamesd@echeque.com_
 

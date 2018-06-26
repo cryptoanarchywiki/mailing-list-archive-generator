@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mkapor_at_kei_com_mitchell_kapor_
+post_count: 2
 ---
 
-# mkapor@kei.com (Mitchell Kapor) (2 posts)
+# mkapor<span>@</span>kei.com (Mitchell Kapor) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

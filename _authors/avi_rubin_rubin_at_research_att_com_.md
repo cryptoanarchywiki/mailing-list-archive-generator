@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: avi_rubin_rubin_at_research_att_com_
+post_count: 12
 ---
 
-# Avi Rubin <rubin@research.att.com> (12 posts)
+# Avi Rubin <rubin<span>@</span>research.att.com> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

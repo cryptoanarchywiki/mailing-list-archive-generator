@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ggoebel_at_sun1_ruf_unifreiburg_de_garrett_goebel_
+post_count: 4
 ---
 
-# ggoebel@sun1.ruf.uni-freiburg.de (Garrett Goebel) (4 posts)
+# ggoebel<span>@</span>sun1.ruf.uni-freiburg.de (Garrett Goebel) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

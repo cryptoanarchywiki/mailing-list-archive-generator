@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shift_control_nobody_at_faust_guardian_co_uk_
+post_count: 12
 ---
 
-# Shift Control <nobody@faust.guardian.co.uk> (12 posts)
+# Shift Control <nobody<span>@</span>faust.guardian.co.uk> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

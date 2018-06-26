@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jdean1_at_nomvs_lsumc_edu
+post_count: 2
 ---
 
-# jdean1@nomvs.lsumc.edu (2 posts)
+# jdean1<span>@</span>nomvs.lsumc.edu (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

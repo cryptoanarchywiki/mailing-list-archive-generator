@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_c_lane_nexus_at_eskimo_com_
+post_count: 2
 ---
 
-# "Brian C. Lane" <nexus@eskimo.com> (2 posts)
+# "Brian C. Lane" <nexus<span>@</span>eskimo.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adobe_systems_wcd_at_adobe_com_
+post_count: 2
 ---
 
-# Adobe Systems <wcd@Adobe.COM> (2 posts)
+# Adobe Systems <wcd<span>@</span>Adobe.COM> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

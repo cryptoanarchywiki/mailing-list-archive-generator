@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _00043_an_at_edtec_com_
+post_count: 3
 ---
 
-# <00043.an@edtec.com> (3 posts)
+# <00043.an<span>@</span>edtec.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: donner_at_ny_ubs_com_marc_donner_
+post_count: 1
 ---
 
-# donner@ny.ubs.com (Marc Donner) (1 posts)
+# donner<span>@</span>ny.ubs.com (Marc Donner) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

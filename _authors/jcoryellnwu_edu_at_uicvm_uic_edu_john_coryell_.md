@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jcoryellnwu_edu_at_uicvm_uic_edu_john_coryell_
+post_count: 1
 ---
 
-# jcoryell%nwu.edu@UICVM.UIC.EDU (John Coryell.) (1 posts)
+# jcoryell%nwu.edu<span>@</span>UICVM.UIC.EDU (John Coryell.) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

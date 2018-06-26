@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mike McNally \<m5@vail.tivoli.com\><br>
+From: Mike McNally \<m5<span>@</span>vail.tivoli.com\><br>
 To: s1113645@tesla.cc.uottawa.ca<br>
 Message Hash: 4d4fa4ed8fa47f62ed173c14035caecc39e1bbfadffd214db0afa70d311cd653<br>
 Message ID: \<317649B1.3AD7@vail.tivoli.com\><br>
@@ -51,6 +51,11 @@ Mike M Nally * Tiv^H^H^H IBM * Austin TX    * pain is inevitable
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[Mark Neely <accessnt<span>@</span>ozemail.com.au>](/author/mark_neely_accessnt_at_ozemail_com_au_)"
++ Return to "[Mike McNally <m5<span>@</span>vail.tivoli.com>](/author/mike_mcnally_m5_at_vail_tivoli_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[s1113645<span>@</span>tesla.cc.uottawa.ca](/author/s1113645_at_tesla_cc_uottawa_ca)"
 
 + 1996-04-18 (Thu, 18 Apr 1996 19:05:06 +0800) - [Re: EFF/Bernstein Press Release](/archive/1996/04/d10459686212d265d06d2fed2595d2c0b06514546186fd6e49ac2353942b120c) - _Mark Neely \<accessnt@ozemail.com.au\>_
   + 1996-04-18 (Fri, 19 Apr 1996 01:04:56 +0800) - [Re: EFF/Bernstein Press Release](/archive/1996/04/c564c3e17b475471af068a19017d98cdfd260c8277a335768613ff01e098e6bc) - _s1113645@tesla.cc.uottawa.ca_

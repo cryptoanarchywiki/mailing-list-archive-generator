@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cjh_at_osa_com_au
+post_count: 2
 ---
 
-# cjh@osa.com.au (2 posts)
+# cjh<span>@</span>osa.com.au (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

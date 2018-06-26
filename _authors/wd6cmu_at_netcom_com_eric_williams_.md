@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wd6cmu_at_netcom_com_eric_williams_
+post_count: 2
 ---
 
-# wd6cmu@netcom.com (Eric Williams) (2 posts)
+# wd6cmu<span>@</span>netcom.com (Eric Williams) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

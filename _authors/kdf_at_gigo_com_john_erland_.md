@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kdf_at_gigo_com_john_erland_
+post_count: 8
 ---
 
-# kdf@gigo.com (John Erland) (8 posts)
+# kdf<span>@</span>gigo.com (John Erland) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

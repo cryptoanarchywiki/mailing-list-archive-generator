@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chad_dougherty_chad_at_lycos_com_
+post_count: 3
 ---
 
-# Chad Dougherty <chad@lycos.com> (3 posts)
+# Chad Dougherty <chad<span>@</span>lycos.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: frantz@netcom.com (Bill Frantz)<br>
+From: frantz<span>@</span>netcom.com (Bill Frantz)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c38f4cee29af3e880d0e62ab6ff65d71d633dcbaafdcc454abd34d3444fdf3a0<br>
 Message ID: \<199603080708.XAA25178@netcom7.netcom.com\><br>
@@ -65,6 +65,8 @@ frantz@netcom.com | dead teenagers | Los Gatos, CA 95032, USA
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/author/frantz_at_netcom_com_bill_frantz_)"
 
 + 1996-03-08 (Fri, 8 Mar 1996 17:55:30 +0800) - Re: Vexatious Litigants  (was: SurfWatch) - _frantz@netcom.com (Bill Frantz)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iriscnray_ozzieoiris_at_uunet_uu_net_cnray_ozzieoiris_at_iris_
+post_count: 1
 ---
 
-# iris!CN=Ray_Ozzie/O=Iris@uunet.uu.net (CN=Ray Ozzie/O=Iris@IRIS) (1 posts)
+# iris!CN=Ray_Ozzie/O=Iris<span>@</span>uunet.uu.net (CN=Ray Ozzie/O=Iris<span>@</span>IRIS) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

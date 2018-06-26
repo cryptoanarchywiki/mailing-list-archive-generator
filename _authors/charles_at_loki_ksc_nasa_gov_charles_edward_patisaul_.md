@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charles_at_loki_ksc_nasa_gov_charles_edward_patisaul_
+post_count: 1
 ---
 
-# charles@loki.ksc.nasa.gov (Charles Edward Patisaul) (1 posts)
+# charles<span>@</span>loki.ksc.nasa.gov (Charles Edward Patisaul) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

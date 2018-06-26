@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: announce@lists.zdnet.com<br>
+From: announce<span>@</span>lists.zdnet.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5ff1ce391069e7d675a625beebc1df8ca9c0efe0f0d073def0dd9b7addef62e9<br>
 Message ID: \<JOB.3.zd.0.announce.0.text.zdbuild.18542.02041997185358.190990@tahiti.merc.com\><br>
@@ -104,6 +104,8 @@ Powered by Mercury Mail: http://www.merc.com
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[announce<span>@</span>lists.zdnet.com](/author/announce_at_lists_zdnet_com)"
 
 + 1997-02-05 (Tue, 4 Feb 1997 19:31:05 -0800 (PST)) - Announcing ZDNet Exclusives! - _announce@lists.zdnet.com_
 

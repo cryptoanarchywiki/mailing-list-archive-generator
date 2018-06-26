@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sean_gabb_cea01sig_at_gold_ac_uk_
+post_count: 22
 ---
 
-# Sean Gabb <cea01sig@gold.ac.uk> (22 posts)
+# Sean Gabb <cea01sig<span>@</span>gold.ac.uk> (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

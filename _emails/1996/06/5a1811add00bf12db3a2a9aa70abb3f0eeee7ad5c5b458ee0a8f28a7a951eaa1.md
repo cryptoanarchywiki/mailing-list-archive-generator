@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5a1811add00bf12db3a2a9aa70abb3f0eeee7ad5c5b458ee0a8f28a7a951eaa1<br>
 Message ID: \<adf6f94c010210046b30@[205.199.118.202]\><br>
@@ -95,6 +95,8 @@ Licensed Ontologist         | black markets, collapse of governments.
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-06-27 (Thu, 27 Jun 1996 10:38:32 +0800) - Re: Life imitates art (InfoWar, Sunday Times article) - _tcmay@got.net (Timothy C. May)_
 

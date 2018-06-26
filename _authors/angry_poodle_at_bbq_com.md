@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: angry_poodle_at_bbq_com
+post_count: 1
 ---
 
-# Angry_Poodle@BBQ.COM (1 posts)
+# Angry_Poodle<span>@</span>BBQ.COM (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

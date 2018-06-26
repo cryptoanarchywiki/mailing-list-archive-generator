@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dbs5112_at_ibm_mtsac_edu
+post_count: 3
 ---
 
-# DBS5112@ibm.MtSAC.edu (3 posts)
+# DBS5112<span>@</span>ibm.MtSAC.edu (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_keenan_keenan_at_acs_ucalgary_ca_
+post_count: 6
 ---
 
-# Tom Keenan <keenan@acs.ucalgary.ca> (6 posts)
+# Tom Keenan <keenan<span>@</span>acs.ucalgary.ca> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

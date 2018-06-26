@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cristian_schipor_skipo_at_math_pub_ro_
+post_count: 1
 ---
 
-# Cristian Schipor <skipo@Math.PUB.Ro> (1 posts)
+# Cristian Schipor <skipo<span>@</span>Math.PUB.Ro> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

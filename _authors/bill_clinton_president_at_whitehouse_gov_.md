@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_clinton_president_at_whitehouse_gov_
+post_count: 2
 ---
 
-# Bill Clinton <president@whitehouse.gov> (2 posts)
+# Bill Clinton <president<span>@</span>whitehouse.gov> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: maria_cantwell_mariac_at_dmail1_realnet_net_
+post_count: 1
 ---
 
-# Maria Cantwell <mariac@dmail1.real-net.net> (1 posts)
+# Maria Cantwell <mariac<span>@</span>dmail1.real-net.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

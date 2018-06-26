@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wazoo_mixmaster_mix_at_earth_wazoo_com_
+post_count: 6
 ---
 
-# Wazoo MixMaster <mix@earth.wazoo.com> (6 posts)
+# Wazoo MixMaster <mix<span>@</span>earth.wazoo.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

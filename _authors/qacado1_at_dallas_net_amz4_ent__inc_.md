@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qacado1_at_dallas_net_amz4_ent__inc_
+post_count: 1
 ---
 
-# qacado1@dallas.net (amz4 ent., inc.) (1 posts)
+# qacado1<span>@</span>dallas.net (amz4 ent., inc.) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

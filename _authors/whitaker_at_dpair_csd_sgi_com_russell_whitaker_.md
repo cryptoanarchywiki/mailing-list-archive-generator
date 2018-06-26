@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: whitaker_at_dpair_csd_sgi_com_russell_whitaker_
+post_count: 36
 ---
 
-# whitaker@dpair.csd.sgi.com (Russell Whitaker) (36 posts)
+# whitaker<span>@</span>dpair.csd.sgi.com (Russell Whitaker) (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

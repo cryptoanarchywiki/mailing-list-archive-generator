@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_s_hall_ashall_at_magnus_acs_ohiostate_edu_
+post_count: 5
 ---
 
-# Andrew S Hall <ashall@magnus.acs.ohio-state.edu> (5 posts)
+# Andrew S Hall <ashall<span>@</span>magnus.acs.ohio-state.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

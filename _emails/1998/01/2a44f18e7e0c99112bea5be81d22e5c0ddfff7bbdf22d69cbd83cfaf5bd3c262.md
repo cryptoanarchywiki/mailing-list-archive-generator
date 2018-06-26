@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>ssz.com\><br>
 To: cypherpunks@ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: 2a44f18e7e0c99112bea5be81d22e5c0ddfff7bbdf22d69cbd83cfaf5bd3c262<br>
 Message ID: \<199801192116.PAA23175@einstein.ssz.com\><br>
@@ -79,6 +79,8 @@ equal Suffrage in the Senate.
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-01-19 (Tue, 20 Jan 1998 04:46:34 +0800) - Amending the Constitution - _Jim Choate \<ravage@ssz.com\>_
 

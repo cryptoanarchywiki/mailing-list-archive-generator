@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: vinjac@usa.net<br>
+From: vinjac<span>@</span>usa.net<br>
 To: vinjac@usa.net<br>
 Message Hash: 5bb91a70234eddfededd84f8d8a9929ec429ee9bda515baffd7eebaf122ef6fe<br>
 Message ID: \<199811301544.AAA22752@aics.co.jp\><br>
@@ -447,6 +447,8 @@ TO FINANCIAL FREEDOM!!!
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[vinjac<span>@</span>usa.net](/author/vinjac_at_usa_net)"
 
 + 1998-11-30 (Mon, 30 Nov 1998 07:52:01 -0800 (PST)) - Tired of the Rat Race? Read and Build Wealth!! - _vinjac@usa.net_
 

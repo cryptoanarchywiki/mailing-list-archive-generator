@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: barry_kapke_at_f33_n125_z1_fidonet_org_barry_kapke_
+post_count: 2
 ---
 
-# Barry.Kapke@f33.n125.z1.FIDONET.ORG (Barry Kapke) (2 posts)
+# Barry.Kapke<span>@</span>f33.n125.z1.FIDONET.ORG (Barry Kapke) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

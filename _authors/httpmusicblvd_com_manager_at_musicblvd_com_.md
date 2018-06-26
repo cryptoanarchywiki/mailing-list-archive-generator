@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: httpmusicblvd_com_manager_at_musicblvd_com_
+post_count: 4
 ---
 
-# "http://MusicBLVD.com/" <manager@musicblvd.com> (4 posts)
+# "http://MusicBLVD.com/" <manager<span>@</span>musicblvd.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

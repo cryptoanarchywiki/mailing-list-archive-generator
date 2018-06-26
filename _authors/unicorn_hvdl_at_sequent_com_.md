@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: unicorn_hvdl_at_sequent_com_
+post_count: 10
 ---
 
-# Unicorn <hvdl@sequent.com> (10 posts)
+# Unicorn <hvdl<span>@</span>sequent.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

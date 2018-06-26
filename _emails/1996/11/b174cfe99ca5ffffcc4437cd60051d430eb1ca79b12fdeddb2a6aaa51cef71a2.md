@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Brian Davis \<bdavis@thepoint.net\><br>
+From: Brian Davis \<bdavis<span>@</span>thepoint.net\><br>
 To: Declan McCullagh \<declan@eff.org\><br>
 Message Hash: b174cfe99ca5ffffcc4437cd60051d430eb1ca79b12fdeddb2a6aaa51cef71a2<br>
 Message ID: \<Pine.BSF.3.91.961104191405.28750C-100000@mercury.thepoint.net\><br>
@@ -86,6 +86,11 @@ EBD
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Brian Davis <bdavis<span>@</span>thepoint.net>](/author/brian_davis_bdavis_at_thepoint_net_)"
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
++ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/author/declan_mccullagh_declan_at_eff_org_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
 
 + 1996-11-03 (Sat, 2 Nov 1996 22:23:32 -0800 (PST)) - [Telling quote from Bernstein hearing](/archive/1996/11/d24e93405f028841f9659c3e02cdfa7746a1258e5785be07773c84f1e7fbb88d) - _Lucky Green \<shamrock@netcom.com\>_
   + 1996-11-03 (Sun, 3 Nov 1996 09:37:18 -0800 (PST)) - [Re: Telling quote from Bernstein hearing](/archive/1996/11/9c420daab083f4799062c4b276c3e149d223210c1c1ba07c58d0ea5a77145c8b) - _Dale Thorn \<dthorn@gte.net\>_

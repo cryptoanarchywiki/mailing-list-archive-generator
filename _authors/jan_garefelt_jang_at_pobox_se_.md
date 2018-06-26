@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jan_garefelt_jang_at_pobox_se_
+post_count: 2
 ---
 
-# Jan Garefelt <jang@pobox.se> (2 posts)
+# Jan Garefelt <jang<span>@</span>pobox.se> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

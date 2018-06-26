@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_s_lee_jslee_at_well_sf_ca_us_
+post_count: 1
 ---
 
-# John S. Lee <jslee@well.sf.ca.us> (1 posts)
+# John S. Lee <jslee<span>@</span>well.sf.ca.us> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lawyer_at_xudi_aol_com
+post_count: 1
 ---
 
-# lawyer@XUDI.aol.com (1 posts)
+# lawyer<span>@</span>XUDI.aol.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: samuel_kaplin_skaplin_at_c2_org_
+post_count: 1
 ---
 
-# Samuel Kaplin <skaplin@c2.org> (1 posts)
+# Samuel Kaplin <skaplin<span>@</span>c2.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

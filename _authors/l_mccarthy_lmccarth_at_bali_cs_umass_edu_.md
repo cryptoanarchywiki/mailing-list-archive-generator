@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: l_mccarthy_lmccarth_at_bali_cs_umass_edu_
+post_count: 9
 ---
 
-# "L. McCarthy" <lmccarth@bali.cs.umass.edu> (9 posts)
+# "L. McCarthy" <lmccarth<span>@</span>bali.cs.umass.edu> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

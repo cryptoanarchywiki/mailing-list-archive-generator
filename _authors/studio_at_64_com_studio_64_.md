@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: studio_at_64_com_studio_64_
+post_count: 2
 ---
 
-# Studio@64.com (Studio 64) (2 posts)
+# Studio<span>@</span>64.com (Studio 64) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dailycbpi_uucp_at_dmc_com
+post_count: 2
 ---
 
-# daily%cbpi.UUCP@DMC.COM (2 posts)
+# daily%cbpi.UUCP<span>@</span>DMC.COM (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: David Honig \<honig@otc.net\><br>
+From: David Honig \<honig<span>@</span>otc.net\><br>
 To: (Recipient list suppressed)<br>
 Message Hash: ac3df34b23ad94dddb1fb2d9a9b296d3a040e17dc5eadaafcf0d26895fd2e4dd<br>
 Message ID: \<3.0.5.32.19971217152405.007e38c0@otc.net\><br>
@@ -109,6 +109,8 @@ A second offense could lead to a prison term of up to six years.
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[David Honig <honig<span>@</span>otc.net>](/author/david_honig_honig_at_otc_net_)"
 
 + 1997-12-17 (Wed, 17 Dec 1997 15:24:08 -0800 (PST)) - No Subject - _David Honig \<honig@otc.net\>_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hallam-Baker \<hallam@ai.mit.edu\><br>
+From: Hallam-Baker \<hallam<span>@</span>ai.mit.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3ca71daee27a1e685d6f809d0cc8bddde5b6fcf69cfc9d8a2d7f1223ad69f17f<br>
 Message ID: \<323889B7.6956@ai.mit.edu\><br>
@@ -76,5 +76,8 @@ that they didn't have someone like Dorothy who we can throw tomatoes at.
 
 + Return to [September 1996](/archive/1996/09)
 
-+ 1996-09-13 (Fri, 13 Sep 1996 08:24:10 +0800) - Re: What is best policy paper on crypto? - _Hallam-Baker \<hallam@ai.mit.edu\>_
++ Return to "[Hallam-Baker <hallam<span>@</span>ai.mit.edu>](/author/hallambaker_hallam_at_ai_mit_edu_)"
+
++ _Unknown thread root_
+  + 1996-09-13 (Fri, 13 Sep 1996 08:24:10 +0800) - Re: What is best policy paper on crypto? - _Hallam-Baker \<hallam@ai.mit.edu\>_
 

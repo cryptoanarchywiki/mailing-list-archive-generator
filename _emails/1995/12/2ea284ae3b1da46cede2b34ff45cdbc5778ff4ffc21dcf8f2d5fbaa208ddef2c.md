@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rich Salz \<rsalz@osf.org\><br>
+From: Rich Salz \<rsalz<span>@</span>osf.org\><br>
 To: rah@shipwright.com<br>
 Message Hash: 2ea284ae3b1da46cede2b34ff45cdbc5778ff4ffc21dcf8f2d5fbaa208ddef2c<br>
 Message ID: \<9512011745.AA21052@sulphur.osf.org\><br>
@@ -45,6 +45,8 @@ NB:  Followups redirected.
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/author/rich_salz_rsalz_at_osf_org_)"
 
 + 1995-12-02 (Sat, 2 Dec 1995 17:11:15 +0800) - Re: GAK, Netscape, CyberDog, and you. - _Rich Salz \<rsalz@osf.org\>_
 

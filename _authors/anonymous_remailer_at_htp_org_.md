@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_remailer_at_htp_org_
+post_count: 9
 ---
 
-# Anonymous <remailer@htp.org> (9 posts)
+# Anonymous <remailer<span>@</span>htp.org> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

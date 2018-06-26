@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_rowley_bc192_at_freenet_carleton_ca_
+post_count: 2
 ---
 
-# Chris Rowley <bc192@freenet.carleton.ca> (2 posts)
+# Chris Rowley <bc192<span>@</span>freenet.carleton.ca> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

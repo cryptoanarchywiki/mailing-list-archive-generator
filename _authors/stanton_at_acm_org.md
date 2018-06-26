@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stanton_at_acm_org
+post_count: 1
 ---
 
-# STANTON@ACM.ORG (1 posts)
+# STANTON<span>@</span>ACM.ORG (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

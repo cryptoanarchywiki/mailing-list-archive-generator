@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mkj_at_october_segno_com
+post_count: 3
 ---
 
-# mkj@october.segno.com (3 posts)
+# mkj<span>@</span>october.segno.com (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

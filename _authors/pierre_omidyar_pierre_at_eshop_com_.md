@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pierre_omidyar_pierre_at_eshop_com_
+post_count: 2
 ---
 
-# "Pierre Omidyar" <pierre@eshop.com> (2 posts)
+# "Pierre Omidyar" <pierre<span>@</span>eshop.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

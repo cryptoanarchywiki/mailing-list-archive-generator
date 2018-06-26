@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rosaphil \<rugosa@escape.com\><br>
+From: rosaphil \<rugosa<span>@</span>escape.com\><br>
 To: nnnnnnnnJon Roland \<ats-l@burn.ucsd.edu<br>
 Message Hash: bffc38b03d74b4ff41a9ad44c13aa99416aede03dff331994acd6f5bbd5eedc2<br>
 Message ID: \<Pine.BSD/.3.91.950909080431.7657z-100000@escape.com\><br>
@@ -167,6 +167,8 @@ tape.  The office phone number for FIJA National HQ is 406-793-5550.
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[rosaphil <rugosa<span>@</span>escape.com>](/author/rosaphil_rugosa_at_escape_com_)"
 
 + 1995-10-15 (Sun, 15 Oct 95 13:32:03 PDT) - called as juror (fwd) - _rosaphil \<rugosa@escape.com\>_
 

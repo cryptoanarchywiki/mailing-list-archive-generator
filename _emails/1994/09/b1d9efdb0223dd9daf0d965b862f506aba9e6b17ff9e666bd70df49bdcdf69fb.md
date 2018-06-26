@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rah@shipwright.com (Robert Hettinga)<br>
+From: rah<span>@</span>shipwright.com (Robert Hettinga)<br>
 To: www-buyinfo@allegra.att.com<br>
 Message Hash: b1d9efdb0223dd9daf0d965b862f506aba9e6b17ff9e666bd70df49bdcdf69fb<br>
 Message ID: \<199409131718.NAA27622@zork.tiac.net\><br>
@@ -118,6 +118,9 @@ Boston, MA 02331 USA                       snakes." -- Bertrand Russell
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[cactus<span>@</span>bb.com (L. Todd Masco)](/author/cactus_at_bb_com_l_todd_masco_)"
++ Return to "[rah<span>@</span>shipwright.com (Robert Hettinga)](/author/rah_at_shipwright_com_robert_hettinga_)"
 
 + 1994-09-13 (Tue, 13 Sep 94 10:22:22 PDT) - e$: WSJ, CyberCash, and the Falling Barometer - _rah@shipwright.com (Robert Hettinga)_
   + 1994-09-13 (Tue, 13 Sep 94 13:56:43 PDT) - [Re: e$: WSJ, CyberCash, and the Falling Barometer](/archive/1994/09/003894b091c52c6af48bdaf4796ed8917f0d80ca7ef4ceb32b4470eebd8a8eba) - _cactus@bb.com (L. Todd Masco)_

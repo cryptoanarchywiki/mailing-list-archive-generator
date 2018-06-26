@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: msattler_at_netcom_com_michael_sattler_
+post_count: 15
 ---
 
-# msattler@netcom.com (Michael Sattler) (15 posts)
+# msattler<span>@</span>netcom.com (Michael Sattler) (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

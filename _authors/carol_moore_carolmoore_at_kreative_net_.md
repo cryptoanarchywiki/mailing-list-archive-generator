@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carol_moore_carolmoore_at_kreative_net_
+post_count: 3
 ---
 
-# Carol Moore <CarolMoore@kreative.net> (3 posts)
+# Carol Moore <CarolMoore<span>@</span>kreative.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

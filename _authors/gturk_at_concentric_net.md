@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gturk_at_concentric_net
+post_count: 4
 ---
 
-# gturk@concentric.net (4 posts)
+# gturk<span>@</span>concentric.net (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

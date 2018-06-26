@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_zerucha_root_at_deimos_ceddec_com_
+post_count: 6
 ---
 
-# Tom Zerucha <root@deimos.ceddec.com> (6 posts)
+# Tom Zerucha <root<span>@</span>deimos.ceddec.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

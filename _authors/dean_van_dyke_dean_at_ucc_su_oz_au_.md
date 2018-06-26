@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dean_van_dyke_dean_at_ucc_su_oz_au_
+post_count: 2
 ---
 
-# Dean Van Dyke <dean@ucc.su.OZ.AU> (2 posts)
+# Dean Van Dyke <dean<span>@</span>ucc.su.OZ.AU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

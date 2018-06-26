@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: round_waffle_eggo_at_student_umass_edu_
+post_count: 7
 ---
 
-# Round Waffle <eggo@student.umass.edu> (7 posts)
+# Round Waffle <eggo<span>@</span>student.umass.edu> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phr_at_napa_telebit_com_paul_rubin_
+post_count: 11
 ---
 
-# phr@napa.Telebit.COM (Paul Rubin) (11 posts)
+# phr<span>@</span>napa.Telebit.COM (Paul Rubin) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

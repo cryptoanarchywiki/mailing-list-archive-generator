@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cindy_cnpot_at_lycosmail_com_
+post_count: 1
 ---
 
-# "Cindy" <cnpot@lycosmail.com> (1 posts)
+# "Cindy" <cnpot<span>@</span>lycosmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

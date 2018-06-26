@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blackheart_dr940788_at_caper1_uccb_ns_ca_
+post_count: 1
 ---
 
-# "BlackHeart" <DR940788@caper1.uccb.ns.ca> (1 posts)
+# "BlackHeart" <DR940788<span>@</span>caper1.uccb.ns.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

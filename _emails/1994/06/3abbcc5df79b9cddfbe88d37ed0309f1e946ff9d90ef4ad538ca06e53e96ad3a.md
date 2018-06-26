@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: paul@hawksbill.sprintmrn.com (Paul Ferguson)<br>
+From: paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)<br>
 To: Ben.Goren@asu.edu<br>
 Message Hash: 3abbcc5df79b9cddfbe88d37ed0309f1e946ff9d90ef4ad538ca06e53e96ad3a<br>
 Message ID: \<9406132314.AA26059@hawksbill.sprintmrn.com\><br>
@@ -52,6 +52,11 @@ every so often.
 ## Thread
 
 + Return to [June 1994](/archive/1994/06)
+
++ Return to "[Ben.Goren<span>@</span>asu.edu](/author/ben_goren_at_asu_edu)"
++ Return to "[m5<span>@</span>vail.tivoli.com (Mike McNally)](/author/m5_at_vail_tivoli_com_mike_mcnally_)"
++ Return to "[paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)](/author/paul_at_hawksbill_sprintmrn_com_paul_ferguson_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-06-13 (Mon, 13 Jun 94 15:07:38 PDT) - [Re: Anon posts (was irritating posts...)](/archive/1994/06/f2a0a320d1d4ebbae6aff90aee1861578ebd06f567a8c754e75811adfaa961e7) - _Ben.Goren@asu.edu_
   + 1994-06-13 (Mon, 13 Jun 94 15:12:42 PDT) - Cypherpunk signal/noise ration - _paul@hawksbill.sprintmrn.com (Paul Ferguson)_

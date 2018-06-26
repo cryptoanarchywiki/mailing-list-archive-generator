@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: reinhold_at_world_std_com_arnold_g_reinhold_
+post_count: 2
 ---
 
-# reinhold@world.std.com (Arnold G. Reinhold) (2 posts)
+# reinhold<span>@</span>world.std.com (Arnold G. Reinhold) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

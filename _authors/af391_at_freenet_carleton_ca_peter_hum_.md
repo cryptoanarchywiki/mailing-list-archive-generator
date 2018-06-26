@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: af391_at_freenet_carleton_ca_peter_hum_
+post_count: 2
 ---
 
-# af391@freenet.carleton.ca (Peter Hum) (2 posts)
+# af391<span>@</span>freenet.carleton.ca (Peter Hum) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

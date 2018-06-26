@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: JMKELSEY@delphi.com<br>
+From: JMKELSEY<span>@</span>delphi.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4a9ddebd3ac6a8aa95dff078fb0da98f8066dfb27cc4c11bebb0f0c4fd1b1bb8<br>
 Message ID: \<01I1YG0HUUZS9ELJNN@delphi.com\><br>
@@ -68,6 +68,8 @@ TWCgt4AdIIc=
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[JMKELSEY<span>@</span>delphi.com](/author/jmkelsey_at_delphi_com)"
 
 + 1996-03-09 (Sat, 9 Mar 1996 13:06:17 +0800) - POTP Jr. - _JMKELSEY@delphi.com_
 

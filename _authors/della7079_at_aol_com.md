@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: della7079_at_aol_com
+post_count: 1
 ---
 
-# Della7079@aol.com (1 posts)
+# Della7079<span>@</span>aol.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jamie_at_comet_net_jamie_dyer_
+post_count: 7
 ---
 
-# jamie@comet.net (jamie dyer) (7 posts)
+# jamie<span>@</span>comet.net (jamie dyer) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

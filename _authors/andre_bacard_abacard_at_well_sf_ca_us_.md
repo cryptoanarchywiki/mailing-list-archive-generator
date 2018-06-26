@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andre_bacard_abacard_at_well_sf_ca_us_
+post_count: 2
 ---
 
-# Andre Bacard <abacard@well.sf.ca.us> (2 posts)
+# Andre Bacard <abacard<span>@</span>well.sf.ca.us> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mdavis_at_prosol_cts_com_morgan_davis_
+post_count: 6
 ---
 
-# mdavis@pro-sol.cts.com (Morgan Davis) (6 posts)
+# mdavis<span>@</span>pro-sol.cts.com (Morgan Davis) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

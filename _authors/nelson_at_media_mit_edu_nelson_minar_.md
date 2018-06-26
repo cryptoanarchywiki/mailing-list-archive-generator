@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nelson_at_media_mit_edu_nelson_minar_
+post_count: 2
 ---
 
-# nelson@media.mit.edu (Nelson Minar) (2 posts)
+# nelson<span>@</span>media.mit.edu (Nelson Minar) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

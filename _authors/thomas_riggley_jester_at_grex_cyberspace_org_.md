@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_riggley_jester_at_grex_cyberspace_org_
+post_count: 2
 ---
 
-# Thomas Riggley <jester@grex.cyberspace.org> (2 posts)
+# Thomas Riggley <jester<span>@</span>grex.cyberspace.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

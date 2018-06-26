@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_card_at_uumx_smtp_psi_net
+post_count: 1
 ---
 
-# The.Card@uumx.smtp.psi.net (1 posts)
+# The.Card<span>@</span>uumx.smtp.psi.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

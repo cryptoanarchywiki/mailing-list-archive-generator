@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: all_at_internet_users
+post_count: 1
 ---
 
-# All@Internet.Users (1 posts)
+# All<span>@</span>Internet.Users (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

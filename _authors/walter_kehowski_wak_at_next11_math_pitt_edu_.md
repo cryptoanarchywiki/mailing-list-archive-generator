@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: walter_kehowski_wak_at_next11_math_pitt_edu_
+post_count: 13
 ---
 
-# walter kehowski <wak@next11.math.pitt.edu> (13 posts)
+# walter kehowski <wak<span>@</span>next11.math.pitt.edu> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

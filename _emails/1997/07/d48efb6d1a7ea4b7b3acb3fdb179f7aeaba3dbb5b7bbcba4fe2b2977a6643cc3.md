@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d48efb6d1a7ea4b7b3acb3fdb179f7aeaba3dbb5b7bbcba4fe2b2977a6643cc3<br>
 Message ID: \<199707220526.HAA13114@basement.replay.com\><br>
@@ -49,6 +49,8 @@ Cheers!
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1997-07-22 (Tue, 22 Jul 1997 13:43:33 +0800) - No Subject - _nobody@REPLAY.COM (Anonymous)_
 

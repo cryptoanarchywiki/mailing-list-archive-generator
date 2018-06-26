@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_c_lane_blane_at_eskimo_com_
+post_count: 1
 ---
 
-# "Brian C. Lane" <blane@eskimo.com> (1 posts)
+# "Brian C. Lane" <blane<span>@</span>eskimo.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

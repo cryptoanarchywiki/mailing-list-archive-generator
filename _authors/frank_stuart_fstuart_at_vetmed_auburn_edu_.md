@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frank_stuart_fstuart_at_vetmed_auburn_edu_
+post_count: 27
 ---
 
-# Frank Stuart <fstuart@vetmed.auburn.edu> (27 posts)
+# Frank Stuart <fstuart<span>@</span>vetmed.auburn.edu> (27 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

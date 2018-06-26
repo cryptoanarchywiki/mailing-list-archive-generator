@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@EINSTEIN.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>EINSTEIN.ssz.com\><br>
 To: cypherpunks@EINSTEIN.ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: ce0fb05dcfdd2e8a053cb2cbbb06b49cfe62662dd871dee59e6ceee00df719c9<br>
 Message ID: \<199810301955.NAA26318@einstein.ssz.com\><br>
@@ -70,6 +70,9 @@ That is correct, it is the 3-line RSA proposal.
 ## Thread
 
 + Return to [October 1998](/archive/1998/10)
+
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1998-10-30 (Sat, 31 Oct 1998 04:12:53 +0800) - Re: FW: rules of engagement (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
   + 1998-10-30 (Sat, 31 Oct 1998 04:59:27 +0800) - [More on Bic-Assassins](/archive/1998/10/2db58b70fc43179f493f761dca4f105004c45b85fea75dbe4a05a6dfb9b97f03) - _John Young \<jya@pipeline.com\>_

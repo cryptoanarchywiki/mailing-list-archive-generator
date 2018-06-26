@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matt_miszewski_crypto_at_midex_com_
+post_count: 11
 ---
 
-# Matt Miszewski <crypto@midex.com> (11 posts)
+# Matt Miszewski <crypto<span>@</span>midex.com> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

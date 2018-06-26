@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jf_avon@citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))<br>
+From: jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 83e786b4b4a26f4fd64c27502ca2e6d0f8bbae34dc9d1ea2babf0da56fddb59f<br>
 Message ID: \<9602110216.AB04631@cti02.citenet.net\><br>
@@ -57,6 +57,8 @@ Selfishness is a virtue!
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))](/author/jf_avon_at_citenet_net_jeanfrancois_avon_jfa_technologies_qc_canada_)"
 
 + 1996-02-11 (Sun, 11 Feb 1996 11:14:38 +0800) - Re: "Rights" - _jf_avon@citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))_
 

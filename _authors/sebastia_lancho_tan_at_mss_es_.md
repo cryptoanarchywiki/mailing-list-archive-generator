@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sebastia_lancho_tan_at_mss_es_
+post_count: 1
 ---
 
-# Sebastia Lancho <tan@mss.es> (1 posts)
+# Sebastia Lancho <tan<span>@</span>mss.es> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: synthesizer_punk_lucas_at_wasteland_org_
+post_count: 1
 ---
 
-# Synthesizer Punk <lucas@wasteland.org> (1 posts)
+# Synthesizer Punk <lucas<span>@</span>wasteland.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

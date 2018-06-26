@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_davis_eagle_at_deeptht_armory_com_
+post_count: 55
 ---
 
-# Jeff Davis <eagle@deeptht.armory.com> (55 posts)
+# Jeff Davis <eagle<span>@</span>deeptht.armory.com> (55 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr. Dimitri Vulis)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr. Dimitri Vulis)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0ddf89097e4b54ac477a1dca73b9ec4c1a3dfe60f90c9fcad17ead0edc134ce9<br>
 Message ID: \<ZPm4iD18w165w@bwalk.dm.com\><br>
@@ -63,6 +63,9 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/author/alan_olsen_alano_at_teleport_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr. Dimitri Vulis)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_)"
 
 + 1996-02-10 (Sun, 11 Feb 1996 04:04:19 +0800) - [[silly] Re: OK, how *do* you spell it?](/archive/1996/02/b1eb0a0006779ff7633048b13fff3084042eda7809486790490a0fe75018de58) - _Alan Olsen \<alano@teleport.com\>_
   + 1996-02-10 (Sun, 11 Feb 1996 04:50:32 +0800) - Re: [silly] Re: OK, how *do* you spell it? - _dlv@bwalk.dm.com (Dr. Dimitri Vulis)_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dmacfarlane_at_zip_sbi_com_david_macfarlane_
+post_count: 3
 ---
 
-# dmacfarlane@zip.sbi.com (David Macfarlane) (3 posts)
+# dmacfarlane<span>@</span>zip.sbi.com (David Macfarlane) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

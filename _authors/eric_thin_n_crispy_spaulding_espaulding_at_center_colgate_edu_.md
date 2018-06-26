@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_thin_n_crispy_spaulding_espaulding_at_center_colgate_edu_
+post_count: 1
 ---
 
-# "ERIC \"Thin 'n Crispy\" SPAULDING" <ESPAULDING@CENTER.COLGATE.EDU> (1 posts)
+# "ERIC \"Thin 'n Crispy\" SPAULDING" <ESPAULDING<span>@</span>CENTER.COLGATE.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

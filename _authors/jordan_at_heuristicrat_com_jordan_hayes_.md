@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jordan_at_heuristicrat_com_jordan_hayes_
+post_count: 1
 ---
 
-# jordan@Heuristicrat.COM (Jordan Hayes) (1 posts)
+# jordan<span>@</span>Heuristicrat.COM (Jordan Hayes) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

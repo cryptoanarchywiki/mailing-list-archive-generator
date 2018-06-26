@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chuck_mcmanis_cmcmanis_at_freegate_com_
+post_count: 1
 ---
 
-# Chuck McManis <cmcmanis@freegate.com> (1 posts)
+# Chuck McManis <cmcmanis<span>@</span>freegate.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

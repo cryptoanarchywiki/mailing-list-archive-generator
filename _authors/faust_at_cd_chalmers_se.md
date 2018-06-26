@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: faust_at_cd_chalmers_se
+post_count: 2
 ---
 
-# faust@cd.chalmers.se (2 posts)
+# faust<span>@</span>cd.chalmers.se (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

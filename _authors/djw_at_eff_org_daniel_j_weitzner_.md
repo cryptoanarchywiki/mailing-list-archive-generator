@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: djw_at_eff_org_daniel_j_weitzner_
+post_count: 8
 ---
 
-# djw@eff.org (Daniel J. Weitzner) (8 posts)
+# djw<span>@</span>eff.org (Daniel J. Weitzner) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

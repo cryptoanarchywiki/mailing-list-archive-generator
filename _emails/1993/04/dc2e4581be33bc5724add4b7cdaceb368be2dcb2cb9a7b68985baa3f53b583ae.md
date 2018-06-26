@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ah@uknet.ac.uk<br>
+From: ah<span>@</span>uknet.ac.uk<br>
 To: cypherpunks@toad.com<br>
 Message Hash: dc2e4581be33bc5724add4b7cdaceb368be2dcb2cb9a7b68985baa3f53b583ae<br>
 Message ID: \<9304211406.AA10509@toad.com\><br>
@@ -73,6 +73,8 @@ A.Hunter@dunaad.co.uk          fax: +44-496-2336         voice: +44-496-2286
 ## Thread
 
 + Return to [April 1993](/archive/1993/04)
+
++ Return to "[ah<span>@</span>uknet.ac.uk](/author/ah_at_uknet_ac_uk)"
 
 + 1993-04-21 (Wed, 21 Apr 93 07:07:09 PDT) - No Subject - _ah@uknet.ac.uk_
 

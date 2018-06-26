@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tim_griffiths_t_g_griffiths_at_exeter_ac_uk_
+post_count: 7
 ---
 
-# Tim Griffiths <T.G.Griffiths@exeter.ac.uk> (7 posts)
+# Tim Griffiths <T.G.Griffiths<span>@</span>exeter.ac.uk> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

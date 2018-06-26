@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bryan_strawser_feanor_at_anduin_gondolin_org_
+post_count: 6
 ---
 
-# Bryan Strawser <feanor@anduin.gondolin.org> (6 posts)
+# Bryan Strawser <feanor<span>@</span>anduin.gondolin.org> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

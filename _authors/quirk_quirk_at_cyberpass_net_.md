@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: quirk_quirk_at_cyberpass_net_
+post_count: 1
 ---
 
-# Quirk <quirk@cyberpass.net> (1 posts)
+# Quirk <quirk<span>@</span>cyberpass.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

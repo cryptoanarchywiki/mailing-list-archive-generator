@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kkennedy_at_mindspring_com_ken_kennedy_
+post_count: 1
 ---
 
-# kkennedy@mindspring.com (Ken Kennedy) (1 posts)
+# kkennedy<span>@</span>mindspring.com (Ken Kennedy) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

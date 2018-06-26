@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zane_at_genesis_mcs_com_sameer_
+post_count: 22
 ---
 
-# zane@genesis.mcs.com (Sameer) (22 posts)
+# zane<span>@</span>genesis.mcs.com (Sameer) (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

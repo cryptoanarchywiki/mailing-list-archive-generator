@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: combee_at_techwood_org_ben_combee_
+post_count: 2
 ---
 
-# combee@techwood.org (Ben Combee) (2 posts)
+# combee<span>@</span>techwood.org (Ben Combee) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

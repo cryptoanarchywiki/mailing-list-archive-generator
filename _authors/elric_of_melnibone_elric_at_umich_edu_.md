@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: elric_of_melnibone_elric_at_umich_edu_
+post_count: 2
 ---
 
-# Elric of Melnibone <elric@umich.edu> (2 posts)
+# Elric of Melnibone <elric<span>@</span>umich.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_mynott_steve_at_tightrope_demon_co_uk_
+post_count: 11
 ---
 
-# Steve Mynott <steve@tightrope.demon.co.uk> (11 posts)
+# Steve Mynott <steve<span>@</span>tightrope.demon.co.uk> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

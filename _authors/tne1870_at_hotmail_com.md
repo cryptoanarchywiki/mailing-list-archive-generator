@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tne1870_at_hotmail_com
+post_count: 7
 ---
 
-# tne1870@hotmail.com (7 posts)
+# tne1870<span>@</span>hotmail.com (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

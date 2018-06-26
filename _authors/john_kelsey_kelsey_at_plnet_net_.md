@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_kelsey_kelsey_at_plnet_net_
+post_count: 23
 ---
 
-# "John Kelsey" <kelsey@plnet.net> (23 posts)
+# "John Kelsey" <kelsey<span>@</span>plnet.net> (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

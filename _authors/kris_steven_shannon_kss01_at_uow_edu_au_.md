@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kris_steven_shannon_kss01_at_uow_edu_au_
+post_count: 1
 ---
 
-# Kris Steven Shannon <kss01@uow.edu.au> (1 posts)
+# Kris Steven Shannon <kss01<span>@</span>uow.edu.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

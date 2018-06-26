@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cmcurtin_at_goffer_cb_att_com_c_matthew_curtin_
+post_count: 1
 ---
 
-# cmcurtin@goffer.cb.att.com (C Matthew Curtin) (1 posts)
+# cmcurtin<span>@</span>goffer.cb.att.com (C Matthew Curtin) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

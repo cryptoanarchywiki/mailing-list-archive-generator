@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alt1_at_snowhill_com_al_thompson_
+post_count: 3
 ---
 
-# alt1@snowhill.com (Al Thompson) (3 posts)
+# alt1<span>@</span>snowhill.com (Al Thompson) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nodebt_at_mailinfo_com
+post_count: 1
 ---
 
-# nodebt@mail-info.com (1 posts)
+# nodebt<span>@</span>mail-info.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

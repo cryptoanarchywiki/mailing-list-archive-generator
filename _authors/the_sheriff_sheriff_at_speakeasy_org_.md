@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_sheriff_sheriff_at_speakeasy_org_
+post_count: 17
 ---
 
-# The Sheriff <sheriff@speakeasy.org> (17 posts)
+# The Sheriff <sheriff<span>@</span>speakeasy.org> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

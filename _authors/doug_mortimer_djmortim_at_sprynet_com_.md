@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_mortimer_djmortim_at_sprynet_com_
+post_count: 1
 ---
 
-# Doug Mortimer <djmortim@sprynet.com> (1 posts)
+# Doug Mortimer <djmortim<span>@</span>sprynet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

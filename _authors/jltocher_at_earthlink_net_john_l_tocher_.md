@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jltocher_at_earthlink_net_john_l_tocher_
+post_count: 1
 ---
 
-# jltocher@earthlink.net (John L. Tocher) (1 posts)
+# jltocher<span>@</span>earthlink.net (John L. Tocher) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

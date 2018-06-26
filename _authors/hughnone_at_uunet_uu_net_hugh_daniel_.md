@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hughnone_at_uunet_uu_net_hugh_daniel_
+post_count: 1
 ---
 
-# hugh%none@uunet.UU.NET (Hugh Daniel) (1 posts)
+# hugh%none<span>@</span>uunet.UU.NET (Hugh Daniel) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

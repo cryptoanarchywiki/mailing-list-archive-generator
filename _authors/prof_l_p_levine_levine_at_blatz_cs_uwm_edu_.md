@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: prof_l_p_levine_levine_at_blatz_cs_uwm_edu_
+post_count: 2
 ---
 
-# "Prof. L. P. Levine" <levine@blatz.cs.uwm.edu> (2 posts)
+# "Prof. L. P. Levine" <levine<span>@</span>blatz.cs.uwm.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

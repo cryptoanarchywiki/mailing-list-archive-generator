@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: simon_spero_ses_at_tipper_oit_unc_edu_
+post_count: 280
 ---
 
-# Simon Spero <ses@tipper.oit.unc.edu> (280 posts)
+# Simon Spero <ses<span>@</span>tipper.oit.unc.edu> (280 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

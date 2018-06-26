@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pretty_lousy_remailer_plm_at_dv_nl_
+post_count: 1
 ---
 
-# "Pretty Lousy Remailer" <plm@dv.nl> (1 posts)
+# "Pretty Lousy Remailer" <plm<span>@</span>dv.nl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: r_david_murray_rdmurray_at_keene_edu_
+post_count: 1
 ---
 
-# "R. David Murray" <rdmurray@keene.edu> (1 posts)
+# "R. David Murray" <rdmurray<span>@</span>keene.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

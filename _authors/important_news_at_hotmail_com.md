@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: important_news_at_hotmail_com
+post_count: 2
 ---
 
-# Important.News@hotmail.com (2 posts)
+# Important.News<span>@</span>hotmail.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bohus_simek_simek_at_econ_econ_umb_sk_
+post_count: 1
 ---
 
-# Bohus Simek <simek@econ.econ.umb.sk> (1 posts)
+# Bohus Simek <simek<span>@</span>econ.econ.umb.sk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

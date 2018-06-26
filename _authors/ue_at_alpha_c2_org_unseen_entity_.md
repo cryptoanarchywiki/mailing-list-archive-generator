@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ue_at_alpha_c2_org_unseen_entity_
+post_count: 1
 ---
 
-# ue@alpha.c2.org (Unseen Entity) (1 posts)
+# ue<span>@</span>alpha.c2.org (Unseen Entity) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

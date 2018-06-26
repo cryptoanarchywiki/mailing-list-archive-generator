@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: graham_c_hughes_graham_hughes_at_resnet_ucsb_edu_
+post_count: 4
 ---
 
-# "Graham C. Hughes" <graham.hughes@resnet.ucsb.edu> (4 posts)
+# "Graham C. Hughes" <graham.hughes<span>@</span>resnet.ucsb.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

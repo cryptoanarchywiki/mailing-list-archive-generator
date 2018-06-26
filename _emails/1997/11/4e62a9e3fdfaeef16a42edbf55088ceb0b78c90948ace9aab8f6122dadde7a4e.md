@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Brad Dolan \<bdolan@USIT.NET\><br>
+From: Brad Dolan \<bdolan<span>@</span>USIT.NET\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: 4e62a9e3fdfaeef16a42edbf55088ceb0b78c90948ace9aab8f6122dadde7a4e<br>
 Message ID: \<Pine.GSO.3.95.971122091625.5768B-100000@use.usit.net\><br>
@@ -62,6 +62,11 @@ On Fri, 21 Nov 1997, Anonymous wrote:
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Brad Dolan <bdolan<span>@</span>USIT.NET>](/author/brad_dolan_bdolan_at_usit_net_)"
++ Return to "[TruthMonger <tm<span>@</span>dev.null>](/author/truthmonger_tm_at_dev_null_)"
 
 + 1997-11-22 (Sat, 22 Nov 1997 12:23:00 +0800) - [Re: Alternative Apology](/archive/1997/11/9cd1759d1fdf0873fb94f4200bd3d87c9e37fe26bf44c211cc3bc22bf042795a) - _Anonymous \<anon@anon.efga.org\>_
   + 1997-11-22 (Sat, 22 Nov 1997 22:28:13 +0800) - Lewis & Clark liked dogs too [was Re: Alternative Apology] - _Brad Dolan \<bdolan@USIT.NET\>_

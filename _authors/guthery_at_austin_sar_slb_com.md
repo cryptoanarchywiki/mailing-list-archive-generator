@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: guthery_at_austin_sar_slb_com
+post_count: 1
 ---
 
-# guthery@austin.sar.slb.com (1 posts)
+# guthery<span>@</span>austin.sar.slb.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

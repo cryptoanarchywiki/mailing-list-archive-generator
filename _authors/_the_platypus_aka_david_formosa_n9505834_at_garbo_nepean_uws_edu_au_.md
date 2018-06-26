@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _the_platypus_aka_david_formosa_n9505834_at_garbo_nepean_uws_edu_au_
+post_count: 2
 ---
 
-# ? the Platypus {aka David Formosa} <n9505834@garbo.nepean.uws.edu.au> (2 posts)
+# ? the Platypus {aka David Formosa} <n9505834<span>@</span>garbo.nepean.uws.edu.au> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

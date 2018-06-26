@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_nowhere_at_bsucs_
+post_count: 12
 ---
 
-# Anonymous <nowhere@bsu-cs> (12 posts)
+# Anonymous <nowhere<span>@</span>bsu-cs> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

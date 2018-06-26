@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mcw_at_atreus_ncs_ncsc_mil
+post_count: 1
 ---
 
-# mcw@atreus.ncs.ncsc.mil (1 posts)
+# mcw<span>@</span>atreus.ncs.ncsc.mil (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

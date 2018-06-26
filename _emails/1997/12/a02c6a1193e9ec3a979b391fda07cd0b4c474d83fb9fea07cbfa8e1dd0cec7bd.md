@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<Use-Author-Address-Header@[127.1]\><br>
+From: Anonymous \<Use-Author-Address-Header<span>@</span>[127.1]\><br>
 To: mail2news@basement.replay.com<br>
 Message Hash: a02c6a1193e9ec3a979b391fda07cd0b4c474d83fb9fea07cbfa8e1dd0cec7bd<br>
 Message ID: \<1d7856cec219ec3624f40522eef1457b@anonymous.poster\><br>
@@ -107,5 +107,8 @@ than from Mailmasher itself.
 
 + Return to [December 1997](/archive/1997/12)
 
-+ 1997-12-03 (Thu, 4 Dec 1997 00:58:36 +0800) - Another of Gary Burnore's Lies Exposed (was: Re: not so fast Re: Kudos to NETCOM!) - _Anonymous \<Use-Author-Address-Header@[127.1]\>_
++ Return to "[Anonymous <Use-Author-Address-Header<span>@</span>[127.1]>](/author/anonymous_useauthoraddressheader_at_127_1_)"
+
++ _Unknown thread root_
+  + 1997-12-03 (Thu, 4 Dec 1997 00:58:36 +0800) - Another of Gary Burnore's Lies Exposed (was: Re: not so fast Re: Kudos to NETCOM!) - _Anonymous \<Use-Author-Address-Header@[127.1]\>_
 

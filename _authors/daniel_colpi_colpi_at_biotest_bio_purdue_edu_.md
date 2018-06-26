@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_colpi_colpi_at_biotest_bio_purdue_edu_
+post_count: 2
 ---
 
-# Daniel Colpi <colpi@biotest.bio.purdue.edu> (2 posts)
+# Daniel Colpi <colpi<span>@</span>biotest.bio.purdue.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

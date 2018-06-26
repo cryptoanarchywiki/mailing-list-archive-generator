@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_porter_dporter_at_well_sf_ca_us_
+post_count: 5
 ---
 
-# Doug Porter <dporter@well.sf.ca.us> (5 posts)
+# Doug Porter <dporter<span>@</span>well.sf.ca.us> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

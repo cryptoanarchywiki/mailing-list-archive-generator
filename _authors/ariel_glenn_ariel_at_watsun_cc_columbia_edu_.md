@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ariel_glenn_ariel_at_watsun_cc_columbia_edu_
+post_count: 15
 ---
 
-# Ariel Glenn <ariel@watsun.cc.columbia.edu> (15 posts)
+# Ariel Glenn <ariel<span>@</span>watsun.cc.columbia.edu> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

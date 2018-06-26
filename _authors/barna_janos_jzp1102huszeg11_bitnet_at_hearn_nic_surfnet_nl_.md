@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: barna_janos_jzp1102huszeg11_bitnet_at_hearn_nic_surfnet_nl_
+post_count: 1
 ---
 
-# Barna Janos <JZP1102%HUSZEG11.bitnet@HEARN.nic.SURFnet.nl> (1 posts)
+# Barna Janos <JZP1102%HUSZEG11.bitnet<span>@</span>HEARN.nic.SURFnet.nl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

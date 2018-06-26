@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 25532129_at__at_server
+post_count: 1
 ---
 
-# 25532129@@server (1 posts)
+# 25532129<span>@</span><span>@</span>server (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

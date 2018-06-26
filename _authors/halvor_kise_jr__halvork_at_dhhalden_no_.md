@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: halvor_kise_jr__halvork_at_dhhalden_no_
+post_count: 4
 ---
 
-# "Halvor Kise jr." <HALVORK@dhhalden.no> (4 posts)
+# "Halvor Kise jr." <HALVORK<span>@</span>dhhalden.no> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

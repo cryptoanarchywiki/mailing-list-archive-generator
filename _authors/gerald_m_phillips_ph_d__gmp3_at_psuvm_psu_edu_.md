@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gerald_m_phillips_ph_d__gmp3_at_psuvm_psu_edu_
+post_count: 1
 ---
 
-# "Gerald M. Phillips, Ph.D." <GMP3@PSUVM.PSU.EDU> (1 posts)
+# "Gerald M. Phillips, Ph.D." <GMP3<span>@</span>PSUVM.PSU.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_george_george_at_justice_usdoj_gov_
+post_count: 2
 ---
 
-# Paul George <george@justice.usdoj.gov> (2 posts)
+# Paul George <george<span>@</span>justice.usdoj.gov> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

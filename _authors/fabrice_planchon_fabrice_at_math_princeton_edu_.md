@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fabrice_planchon_fabrice_at_math_princeton_edu_
+post_count: 14
 ---
 
-# Fabrice Planchon <fabrice@math.Princeton.EDU> (14 posts)
+# Fabrice Planchon <fabrice<span>@</span>math.Princeton.EDU> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

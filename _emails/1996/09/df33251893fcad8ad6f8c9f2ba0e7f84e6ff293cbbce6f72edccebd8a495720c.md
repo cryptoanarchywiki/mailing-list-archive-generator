@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Johan Helsingius \<julf@penet.fi\><br>
+From: Johan Helsingius \<julf<span>@</span>penet.fi\><br>
 To: Andy Dustman \<andy@CCMSD.chem.uga.edu\><br>
 Message Hash: df33251893fcad8ad6f8c9f2ba0e7f84e6ff293cbbce6f72edccebd8a495720c<br>
 Message ID: \<1.5.4.32.19960912122408.0073d650@pentu.penet.fi\><br>
@@ -45,6 +45,8 @@ I pulled his plug. But his real address has been on this list several times.
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Johan Helsingius <julf<span>@</span>penet.fi>](/author/johan_helsingius_julf_at_penet_fi_)"
 
 + 1996-09-12 (Fri, 13 Sep 1996 01:03:58 +0800) - Re: na673130@anon.penet.fi gone [Anonymous service rejected your mail.] (fwd) - _Johan Helsingius \<julf@penet.fi\>_
 

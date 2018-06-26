@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_ghio_ghio_at_myriad_alias_net_
+post_count: 10
 ---
 
-# Matthew Ghio <ghio@myriad.alias.net> (10 posts)
+# Matthew Ghio <ghio<span>@</span>myriad.alias.net> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

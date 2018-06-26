@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chen_at_intuit_com_mark_chen_
+post_count: 45
 ---
 
-# chen@intuit.com (Mark Chen) (45 posts)
+# chen<span>@</span>intuit.com (Mark Chen) (45 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

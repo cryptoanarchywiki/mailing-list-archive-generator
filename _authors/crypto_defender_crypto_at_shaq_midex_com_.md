@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: crypto_defender_crypto_at_shaq_midex_com_
+post_count: 2
 ---
 
-# Crypto Defender <crypto@shaq.midex.com> (2 posts)
+# Crypto Defender <crypto<span>@</span>shaq.midex.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

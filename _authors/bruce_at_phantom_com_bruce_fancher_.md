@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_at_phantom_com_bruce_fancher_
+post_count: 6
 ---
 
-# bruce@phantom.com (Bruce Fancher) (6 posts)
+# bruce<span>@</span>phantom.com (Bruce Fancher) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

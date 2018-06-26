@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: gnu
+post_count: 30
 ---
 
 # gnu (30 posts)

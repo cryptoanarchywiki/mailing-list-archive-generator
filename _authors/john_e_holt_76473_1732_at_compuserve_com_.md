@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_e_holt_76473_1732_at_compuserve_com_
+post_count: 2
 ---
 
-# "JOHN E. HOLT" <76473.1732@CompuServe.COM> (2 posts)
+# "JOHN E. HOLT" <76473.1732<span>@</span>CompuServe.COM> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

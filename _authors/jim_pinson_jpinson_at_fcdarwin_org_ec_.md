@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_pinson_jpinson_at_fcdarwin_org_ec_
+post_count: 2
 ---
 
-# Jim Pinson <jpinson@fcdarwin.org.ec> (2 posts)
+# Jim Pinson <jpinson<span>@</span>fcdarwin.org.ec> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

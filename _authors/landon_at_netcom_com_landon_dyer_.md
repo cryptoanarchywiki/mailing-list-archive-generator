@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: landon_at_netcom_com_landon_dyer_
+post_count: 1
 ---
 
-# landon@netcom.com (Landon Dyer) (1 posts)
+# landon<span>@</span>netcom.com (Landon Dyer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

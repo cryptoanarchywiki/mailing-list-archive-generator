@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lance_cottrell_loki_at_infonex_com_
+post_count: 33
 ---
 
-# Lance Cottrell <loki@infonex.com> (33 posts)
+# Lance Cottrell <loki<span>@</span>infonex.com> (33 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

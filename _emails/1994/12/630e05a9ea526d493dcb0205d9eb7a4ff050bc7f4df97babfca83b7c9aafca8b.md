@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: bryce@cybernet.co.nz (Bryce Boland)<br>
+From: bryce<span>@</span>cybernet.co.nz (Bryce Boland)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 630e05a9ea526d493dcb0205d9eb7a4ff050bc7f4df97babfca83b7c9aafca8b<br>
 Message ID: \<m0rIrBK-000SgBC@mserve\><br>
@@ -72,6 +72,8 @@ Bryce Boland <bryce@cybernet.co.nz>                   Finger for PGP Public Key
 ## Thread
 
 + Return to [December 1994](/archive/1994/12)
+
++ Return to "[bryce<span>@</span>cybernet.co.nz (Bryce Boland)](/author/bryce_at_cybernet_co_nz_bryce_boland_)"
 
 + 1994-12-18 (Sun, 18 Dec 94 04:07:02 PST) - No Subject - _bryce@cybernet.co.nz (Bryce Boland)_
 

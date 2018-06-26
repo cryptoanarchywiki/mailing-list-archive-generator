@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: d_reynolds_listserv_remove_at_homepublishing_com_
+post_count: 1
 ---
 
-# "D. Reynolds" <listserv_remove@homepublishing.com> (1 posts)
+# "D. Reynolds" <listserv_remove<span>@</span>homepublishing.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

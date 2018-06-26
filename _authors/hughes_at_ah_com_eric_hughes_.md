@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hughes_at_ah_com_eric_hughes_
+post_count: 463
 ---
 
-# hughes@ah.com (Eric Hughes) (463 posts)
+# hughes<span>@</span>ah.com (Eric Hughes) (463 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

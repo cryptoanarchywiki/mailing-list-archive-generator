@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: centaur_at_netcom_com_paul_blair_
+post_count: 1
 ---
 
-# centaur@netcom.com (Paul Blair) (1 posts)
+# centaur<span>@</span>netcom.com (Paul Blair) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

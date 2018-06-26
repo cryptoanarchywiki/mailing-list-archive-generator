@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: h_keith_henson_hkhenson_at_shell_portal_com_
+post_count: 4
 ---
 
-# H Keith Henson <hkhenson@shell.portal.com> (4 posts)
+# H Keith Henson <hkhenson<span>@</span>shell.portal.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

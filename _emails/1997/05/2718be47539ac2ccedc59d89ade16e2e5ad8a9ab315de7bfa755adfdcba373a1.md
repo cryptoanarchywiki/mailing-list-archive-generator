@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Olsen \<alan@ctrl-alt-del.com\><br>
+From: Alan Olsen \<alan<span>@</span>ctrl-alt-del.com\><br>
 To: ichudov@algebra.com (Igor Chudov)<br>
 Message Hash: 2718be47539ac2ccedc59d89ade16e2e5ad8a9ab315de7bfa755adfdcba373a1<br>
 Message ID: \<3.0.2.32.19970520194059.040d6e30@mail.teleport.com\><br>
@@ -59,6 +59,10 @@ Sounds like s good idea.  He is going to need it.
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[Alan Olsen <alan<span>@</span>ctrl-alt-del.com>](/author/alan_olsen_alan_at_ctrlaltdel_com_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[winsock<span>@</span>rigel.cyberpass.net (WinSock Remailer)](/author/winsock_at_rigel_cyberpass_net_winsock_remailer_)"
 
 + 1997-05-21 (Wed, 21 May 1997 09:58:33 +0800) - [Jim Bell's legal defense fund](/archive/1997/05/c4a2c5f1b6e1619071d9863e8df43a6b831120c21313c9a45a45d128aca7b8f5) - _ichudov@algebra.com (Igor Chudov @ home)_
   + 1997-05-21 (Wed, 21 May 1997 11:06:46 +0800) - Re: Jim Bell's legal defense fund - _Alan Olsen \<alan@ctrl-alt-del.com\>_

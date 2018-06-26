@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonah_seiger_jseiger_at_cdt_org_
+post_count: 11
 ---
 
-# Jonah Seiger <jseiger@cdt.org> (11 posts)
+# Jonah Seiger <jseiger<span>@</span>cdt.org> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

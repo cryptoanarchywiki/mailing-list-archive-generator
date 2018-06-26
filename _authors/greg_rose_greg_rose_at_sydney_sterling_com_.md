@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_rose_greg_rose_at_sydney_sterling_com_
+post_count: 13
 ---
 
-# Greg Rose <Greg_Rose@sydney.sterling.com> (13 posts)
+# Greg Rose <Greg_Rose<span>@</span>sydney.sterling.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

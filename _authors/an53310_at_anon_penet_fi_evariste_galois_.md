@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an53310_at_anon_penet_fi_evariste_galois_
+post_count: 1
 ---
 
-# an53310@anon.penet.fi (Evariste Galois) (1 posts)
+# an53310<span>@</span>anon.penet.fi (Evariste Galois) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

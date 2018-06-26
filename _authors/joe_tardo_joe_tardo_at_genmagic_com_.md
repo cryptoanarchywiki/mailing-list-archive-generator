@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joe_tardo_joe_tardo_at_genmagic_com_
+post_count: 3
 ---
 
-# "Joe Tardo" <joe_tardo@genmagic.com> (3 posts)
+# "Joe Tardo" <joe_tardo<span>@</span>genmagic.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

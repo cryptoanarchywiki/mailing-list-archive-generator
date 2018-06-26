@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nym_2_nym2_at_dongco_hyperreal_art_pl_
+post_count: 1
 ---
 
-# Nym 2 <nym2@dongco.hyperreal.art.pl> (1 posts)
+# Nym 2 <nym2<span>@</span>dongco.hyperreal.art.pl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

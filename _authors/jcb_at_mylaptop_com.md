@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jcb_at_mylaptop_com
+post_count: 1
 ---
 
-# jcb@mylaptop.com (1 posts)
+# jcb<span>@</span>mylaptop.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

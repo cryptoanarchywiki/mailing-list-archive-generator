@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: victor_m_hernandez_pgjeags_at_infosel_net_mx_
+post_count: 1
 ---
 
-# "Victor M. Hernandez" <pgjeags@infosel.net.mx> (1 posts)
+# "Victor M. Hernandez" <pgjeags<span>@</span>infosel.net.mx> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

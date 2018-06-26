@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: usenet_at_gate_overcom_com
+post_count: 1
 ---
 
-# usenet@gate.overcom.com (1 posts)
+# usenet<span>@</span>gate.overcom.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

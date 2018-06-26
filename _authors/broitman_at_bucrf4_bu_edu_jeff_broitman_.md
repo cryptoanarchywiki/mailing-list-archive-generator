@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: broitman_at_bucrf4_bu_edu_jeff_broitman_
+post_count: 2
 ---
 
-# broitman@bucrf4.bu.edu (Jeff Broitman) (2 posts)
+# broitman<span>@</span>bucrf4.bu.edu (Jeff Broitman) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

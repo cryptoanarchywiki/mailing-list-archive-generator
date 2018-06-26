@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nathaniel_borenstein_nsb_at_nsb_fv_com_
+post_count: 91
 ---
 
-# Nathaniel Borenstein <nsb@nsb.fv.com> (91 posts)
+# Nathaniel Borenstein <nsb<span>@</span>nsb.fv.com> (91 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

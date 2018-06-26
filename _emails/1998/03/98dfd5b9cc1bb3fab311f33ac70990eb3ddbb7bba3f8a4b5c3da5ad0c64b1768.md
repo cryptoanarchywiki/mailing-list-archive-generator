@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@nsm.htp.org<br>
+From: nobody<span>@</span>nsm.htp.org<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 98dfd5b9cc1bb3fab311f33ac70990eb3ddbb7bba3f8a4b5c3da5ad0c64b1768<br>
 Message ID: \<19980318180502.25156.qmail@nsm.htp.org\><br>
@@ -61,6 +61,8 @@ Enjoy!
 ## Thread
 
 + Return to [March 1998](/archive/1998/03)
+
++ Return to "[nobody<span>@</span>nsm.htp.org](/author/nobody_at_nsm_htp_org)"
 
 + 1998-03-18 (Wed, 18 Mar 1998 10:06:02 -0800 (PST)) - fight back at SPAM! - _nobody@nsm.htp.org_
 

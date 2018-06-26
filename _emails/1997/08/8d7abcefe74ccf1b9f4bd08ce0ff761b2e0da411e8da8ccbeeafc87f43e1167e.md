@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alex Le Heux \<alexlh@xs4all.nl\><br>
+From: Alex Le Heux \<alexlh<span>@</span>xs4all.nl\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8d7abcefe74ccf1b9f4bd08ce0ff761b2e0da411e8da8ccbeeafc87f43e1167e<br>
 Message ID: \<3.0.3.32.19970824204659.007f93f0@mail.xs4all.nl\><br>
@@ -95,6 +95,8 @@ CBChEIemL4afO5M4hL7B8oJX
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[Alex Le Heux <alexlh<span>@</span>xs4all.nl>](/author/alex_le_heux_alexlh_at_xs4all_nl_)"
 
 + 1997-08-24 (Mon, 25 Aug 1997 02:54:26 +0800) - Re: Shooting the taggers - _Alex Le Heux \<alexlh@xs4all.nl\>_
 

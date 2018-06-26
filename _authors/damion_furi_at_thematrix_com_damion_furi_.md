@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: damion_furi_at_thematrix_com_damion_furi_
+post_count: 8
 ---
 
-# damion.furi@the-matrix.com (DAMION FURI) (8 posts)
+# damion.furi<span>@</span>the-matrix.com (DAMION FURI) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

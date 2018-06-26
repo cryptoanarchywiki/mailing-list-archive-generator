@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jya_at_pipeline_com_john_young_
+post_count: 237
 ---
 
-# jya@pipeline.com (John Young) (237 posts)
+# jya<span>@</span>pipeline.com (John Young) (237 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

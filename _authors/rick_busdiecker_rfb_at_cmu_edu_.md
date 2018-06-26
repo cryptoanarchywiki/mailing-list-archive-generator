@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rick_busdiecker_rfb_at_cmu_edu_
+post_count: 1
 ---
 
-# Rick Busdiecker <rfb@CMU.EDU> (1 posts)
+# Rick Busdiecker <rfb<span>@</span>CMU.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

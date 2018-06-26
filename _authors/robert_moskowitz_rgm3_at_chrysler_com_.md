@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_moskowitz_rgm3_at_chrysler_com_
+post_count: 1
 ---
 
-# Robert Moskowitz <rgm3@chrysler.com> (1 posts)
+# Robert Moskowitz <rgm3<span>@</span>chrysler.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

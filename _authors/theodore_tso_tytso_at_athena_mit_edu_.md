@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: theodore_tso_tytso_at_athena_mit_edu_
+post_count: 36
 ---
 
-# Theodore Ts'o <tytso@Athena.MIT.EDU> (36 posts)
+# Theodore Ts'o <tytso<span>@</span>Athena.MIT.EDU> (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

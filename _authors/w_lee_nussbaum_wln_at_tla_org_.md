@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: w_lee_nussbaum_wln_at_tla_org_
+post_count: 2
 ---
 
-# W Lee Nussbaum <wln@tla.org> (2 posts)
+# W Lee Nussbaum <wln<span>@</span>tla.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

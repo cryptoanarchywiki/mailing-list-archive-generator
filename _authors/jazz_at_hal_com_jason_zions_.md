@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jazz_at_hal_com_jason_zions_
+post_count: 18
 ---
 
-# jazz@hal.com (Jason Zions) (18 posts)
+# jazz<span>@</span>hal.com (Jason Zions) (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

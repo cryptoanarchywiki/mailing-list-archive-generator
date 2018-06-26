@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ian_farquhar_ifarqhar_at_laurel_ocs_mq_edu_au_
+post_count: 16
 ---
 
-# Ian Farquhar <ifarqhar@laurel.ocs.mq.edu.au> (16 posts)
+# Ian Farquhar <ifarqhar<span>@</span>laurel.ocs.mq.edu.au> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

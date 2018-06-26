@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: damien_lucifer_root_at_hellspawn_berkeley_edu_
+post_count: 1
 ---
 
-# Damien Lucifer <root@hellspawn.Berkeley.EDU> (1 posts)
+# Damien Lucifer <root<span>@</span>hellspawn.Berkeley.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

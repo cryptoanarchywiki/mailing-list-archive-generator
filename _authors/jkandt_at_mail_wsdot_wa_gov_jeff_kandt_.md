@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jkandt_at_mail_wsdot_wa_gov_jeff_kandt_
+post_count: 1
 ---
 
-# jkandt@mail.wsdot.wa.gov (Jeff Kandt) (1 posts)
+# jkandt<span>@</span>mail.wsdot.wa.gov (Jeff Kandt) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: secret_agent_66_joabj_at_delphi_com_
+post_count: 2
 ---
 
-# SECRET AGENT 66 <JOABJ@delphi.com> (2 posts)
+# SECRET AGENT 66 <JOABJ<span>@</span>delphi.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: emilio_oriente_oriente_at_capway_com_
+post_count: 1
 ---
 
-# Emilio Oriente <oriente@capway.com> (1 posts)
+# Emilio Oriente <oriente<span>@</span>capway.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

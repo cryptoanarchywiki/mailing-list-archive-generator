@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cp_at_jido_b30_ingr_com_serrzna_penvt_cerffba_
+post_count: 3
 ---
 
-# cp@jido.b30.ingr.com (Serrzna Penvt Cerffba) (3 posts)
+# cp<span>@</span>jido.b30.ingr.com (Serrzna Penvt Cerffba) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

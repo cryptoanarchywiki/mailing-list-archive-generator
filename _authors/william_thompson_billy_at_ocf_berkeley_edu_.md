@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_thompson_billy_at_ocf_berkeley_edu_
+post_count: 1
 ---
 
-# William Thompson <billy@ocf.Berkeley.EDU> (1 posts)
+# William Thompson <billy<span>@</span>ocf.Berkeley.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

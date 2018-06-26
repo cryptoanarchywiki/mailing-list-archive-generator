@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vtdirector_vtdirector_at_msdn_ease_lsoft_com_
+post_count: 1
 ---
 
-# VTDirector <VTDirector@MSDN.EASE.LSOFT.COM> (1 posts)
+# VTDirector <VTDirector<span>@</span>MSDN.EASE.LSOFT.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

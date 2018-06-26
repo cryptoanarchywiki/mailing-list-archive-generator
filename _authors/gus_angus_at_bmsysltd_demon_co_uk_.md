@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gus_angus_at_bmsysltd_demon_co_uk_
+post_count: 1
 ---
 
-# Gus <angus@bmsysltd.demon.co.uk> (1 posts)
+# Gus <angus<span>@</span>bmsysltd.demon.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

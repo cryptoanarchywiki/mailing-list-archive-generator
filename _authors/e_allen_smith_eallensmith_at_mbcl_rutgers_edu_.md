@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: e_allen_smith_eallensmith_at_mbcl_rutgers_edu_
+post_count: 26
 ---
 
-# "E. ALLEN SMITH" <EALLENSMITH@mbcl.rutgers.edu> (26 posts)
+# "E. ALLEN SMITH" <EALLENSMITH<span>@</span>mbcl.rutgers.edu> (26 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

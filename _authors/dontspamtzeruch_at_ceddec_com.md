@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dontspamtzeruch_at_ceddec_com
+post_count: 1
 ---
 
-# dontspam-tzeruch@ceddec.com (1 posts)
+# dontspam-tzeruch<span>@</span>ceddec.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

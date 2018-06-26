@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Tiffany Lee Brown \<magdalen@well.sf.ca.us\><br>
+From: Tiffany Lee Brown \<magdalen<span>@</span>well.sf.ca.us\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 71f68c013849bf4ac41ffe6ffab0cd76e6bfbab5acec9fcb52b80f53a37a669a<br>
 Message ID: \<93Oct4.224902pdt.14645-4@well.sf.ca.us\><br>
@@ -39,6 +39,8 @@ not enough flaming on the list!  (heh).
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[Tiffany Lee Brown <magdalen<span>@</span>well.sf.ca.us>](/author/tiffany_lee_brown_magdalen_at_well_sf_ca_us_)"
 
 + 1993-10-05 (Mon, 4 Oct 93 22:49:47 PDT) - unsubscribe - _Tiffany Lee Brown \<magdalen@well.sf.ca.us\>_
 

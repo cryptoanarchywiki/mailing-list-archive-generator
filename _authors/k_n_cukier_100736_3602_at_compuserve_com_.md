@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: k_n_cukier_100736_3602_at_compuserve_com_
+post_count: 1
 ---
 
-# "K. N. Cukier" <100736.3602@compuserve.com> (1 posts)
+# "K. N. Cukier" <100736.3602<span>@</span>compuserve.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

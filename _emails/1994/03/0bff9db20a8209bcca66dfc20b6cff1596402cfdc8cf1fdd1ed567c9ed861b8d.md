@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: area51@aol.com<br>
+From: area51<span>@</span>aol.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0bff9db20a8209bcca66dfc20b6cff1596402cfdc8cf1fdd1ed567c9ed861b8d<br>
 Message ID: \<9403021547.tn186608@aol.com\><br>
@@ -65,6 +65,8 @@ crypto? I think not....So they better get on the ball really defending us...
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[area51<span>@</span>aol.com](/author/area51_at_aol_com)"
 
 + 1994-03-02 (Wed, 2 Mar 94 12:48:21 PST) - Defenders of Clipper - _area51@aol.com_
 

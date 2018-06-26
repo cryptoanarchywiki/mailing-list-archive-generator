@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: usura_at_xs4all_nl
+post_count: 1
 ---
 
-# usura@xs4all.nl (1 posts)
+# usura<span>@</span>xs4all.nl (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marshall_clow_mclow_at_owl_csusm_edu_
+post_count: 59
 ---
 
-# Marshall Clow <mclow@owl.csusm.edu> (59 posts)
+# Marshall Clow <mclow<span>@</span>owl.csusm.edu> (59 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

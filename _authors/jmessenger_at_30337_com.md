@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jmessenger_at_30337_com
+post_count: 1
 ---
 
-# jmessenger@30337.com (1 posts)
+# jmessenger<span>@</span>30337.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

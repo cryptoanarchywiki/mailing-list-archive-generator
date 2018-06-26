@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_bellovin_smb_at_research_att_com_
+post_count: 3
 ---
 
-# Steve Bellovin <smb@research.att.com> (3 posts)
+# Steve Bellovin <smb<span>@</span>research.att.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

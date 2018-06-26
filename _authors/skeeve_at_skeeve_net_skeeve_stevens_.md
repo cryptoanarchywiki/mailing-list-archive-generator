@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: skeeve_at_skeeve_net_skeeve_stevens_
+post_count: 8
 ---
 
-# skeeve@skeeve.net (Skeeve Stevens) (8 posts)
+# skeeve<span>@</span>skeeve.net (Skeeve Stevens) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

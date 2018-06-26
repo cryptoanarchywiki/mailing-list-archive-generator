@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nissim_at_acs_bu_edu
+post_count: 3
 ---
 
-# nissim@acs.bu.edu (3 posts)
+# nissim<span>@</span>acs.bu.edu (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

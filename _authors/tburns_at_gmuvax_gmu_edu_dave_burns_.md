@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tburns_at_gmuvax_gmu_edu_dave_burns_
+post_count: 1
 ---
 
-# tburns@gmuvax.gmu.edu (Dave Burns) (1 posts)
+# tburns<span>@</span>gmuvax.gmu.edu (Dave Burns) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

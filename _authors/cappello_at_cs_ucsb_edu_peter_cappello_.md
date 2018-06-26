@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cappello_at_cs_ucsb_edu_peter_cappello_
+post_count: 1
 ---
 
-# cappello@cs.ucsb.edu (Peter Cappello) (1 posts)
+# cappello<span>@</span>cs.ucsb.edu (Peter Cappello) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: backdraft_at_earthlink_net_back_draft_
+post_count: 2
 ---
 
-# backdraft@earthlink.net (Back Draft) (2 posts)
+# backdraft<span>@</span>earthlink.net (Back Draft) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

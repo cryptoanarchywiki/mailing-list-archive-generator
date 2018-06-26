@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_nobody_at_base_xs4all_nl_
+post_count: 4
 ---
 
-# Anonymous <nobody@base.xs4all.nl> (4 posts)
+# Anonymous <nobody<span>@</span>base.xs4all.nl> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

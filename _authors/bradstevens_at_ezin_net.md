@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bradstevens_at_ezin_net
+post_count: 1
 ---
 
-# BradStevens@ezin.net (1 posts)
+# BradStevens<span>@</span>ezin.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

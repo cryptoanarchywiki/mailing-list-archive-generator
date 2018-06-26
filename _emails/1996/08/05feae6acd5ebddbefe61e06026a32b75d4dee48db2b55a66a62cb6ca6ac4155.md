@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: Richard Charles Graves \<cypherpunks@toad.com<br>
 Message Hash: 05feae6acd5ebddbefe61e06026a32b75d4dee48db2b55a66a62cb6ca6ac4155<br>
 Message ID: \<2.2.32.19960829095805.00abc538@panix.com\><br>
@@ -78,6 +78,8 @@ DCF
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1996-08-29 (Thu, 29 Aug 1996 20:46:39 +0800) - Re: There is no Agent Toby Tyler at the FBI [UK Observer Story] - _Duncan Frissell \<frissell@panix.com\>_
 

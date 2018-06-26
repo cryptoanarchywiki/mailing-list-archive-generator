@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jessica_jewett_at_efcom_wolfe_net_jessica_jewett_
+post_count: 1
 ---
 
-# Jessica_Jewett@efcom.wolfe.net (Jessica Jewett) (1 posts)
+# Jessica_Jewett<span>@</span>efcom.wolfe.net (Jessica Jewett) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

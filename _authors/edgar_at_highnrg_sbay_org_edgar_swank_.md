@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edgar_at_highnrg_sbay_org_edgar_swank_
+post_count: 6
 ---
 
-# edgar@highnrg.sbay.org (Edgar Swank) (6 posts)
+# edgar<span>@</span>highnrg.sbay.org (Edgar Swank) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

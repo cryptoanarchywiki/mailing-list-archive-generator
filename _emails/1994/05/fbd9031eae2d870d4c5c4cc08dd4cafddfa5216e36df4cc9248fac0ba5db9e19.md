@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ed Carp \<ecarp@netcom.com\><br>
+From: Ed Carp \<ecarp<span>@</span>netcom.com\><br>
 To: Duncan Frissell \<frissell@panix.com\><br>
 Message Hash: fbd9031eae2d870d4c5c4cc08dd4cafddfa5216e36df4cc9248fac0ba5db9e19<br>
 Message ID: \<Pine.3.89.9405020947.A28464-0100000@netcom10\><br>
@@ -62,6 +62,10 @@ investigation nowadays.
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Ed Carp <ecarp<span>@</span>netcom.com>](/author/ed_carp_ecarp_at_netcom_com_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1994-05-02 (Mon, 2 May 94 06:56:36 PDT) - [Security Consult. Needed](/archive/1994/05/cf8f6fdd8fa4b42ad7797dc5cd67288b069599f5f2a7ed16ca8278df25655d13) - _Duncan Frissell \<frissell@panix.com\>_
   + 1994-05-02 (Mon, 2 May 94 09:05:22 PDT) - Re: Security Consult. Needed - _Ed Carp \<ecarp@netcom.com\>_

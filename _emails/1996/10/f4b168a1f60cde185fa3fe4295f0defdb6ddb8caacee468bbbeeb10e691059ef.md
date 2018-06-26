@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Omegaman \<omega@bigeasy.com\><br>
+From: Omegaman \<omega<span>@</span>bigeasy.com\><br>
 To: Hal Finney \<hal@rain.org\><br>
 Message Hash: f4b168a1f60cde185fa3fe4295f0defdb6ddb8caacee468bbbeeb10e691059ef<br>
 Message ID: \<Pine.LNX.3.95.961015210712.150B-100000@jolietjake.com\><br>
@@ -77,6 +77,9 @@ dWfFbSTqU1g=
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Hal Finney <hal<span>@</span>rain.org>](/author/hal_finney_hal_at_rain_org_)"
++ Return to "[Omegaman <omega<span>@</span>bigeasy.com>](/author/omegaman_omega_at_bigeasy_com_)"
 
 + 1996-10-13 (Sun, 13 Oct 1996 11:04:10 -0700 (PDT)) - [Re: pgp, edi, s/mime](/archive/1996/10/1cfc813fc7c08eee435d184a687bf5c866e483e794cdd4f259b441ccb03b076e) - _Hal Finney \<hal@rain.org\>_
   + 1996-10-16 (Tue, 15 Oct 1996 19:09:47 -0700 (PDT)) - Re: pgp, edi, s/mime(no need to reply) - _Omegaman \<omega@bigeasy.com\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sghahn_at_math1_kaist_ac_kr_han_at_joe_math_uga_edu_
+post_count: 3
 ---
 
-# sghahn@math1.kaist.ac.kr (han@joe.math.uga.edu) (3 posts)
+# sghahn<span>@</span>math1.kaist.ac.kr (han<span>@</span>joe.math.uga.edu) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

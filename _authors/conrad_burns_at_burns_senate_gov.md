@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: conrad_burns_at_burns_senate_gov
+post_count: 2
 ---
 
-# Conrad_Burns@burns.senate.gov (2 posts)
+# Conrad_Burns<span>@</span>burns.senate.gov (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

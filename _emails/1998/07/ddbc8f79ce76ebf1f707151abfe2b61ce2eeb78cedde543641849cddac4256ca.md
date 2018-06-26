@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Global Web Builders \<vjb@gil.com.au\><br>
+From: Global Web Builders \<vjb<span>@</span>gil.com.au\><br>
 To: (Recipient list suppressed)<br>
 Message Hash: ddbc8f79ce76ebf1f707151abfe2b61ce2eeb78cedde543641849cddac4256ca<br>
 Message ID: \<1.5.4.32.19980709054803.0073c9b8@mail.ipswich.gil.com.au\><br>
@@ -94,6 +94,8 @@ Pauline Hanson's Web Master
 ## Thread
 
 + Return to [July 1998](/archive/1998/07)
+
++ Return to "[Global Web Builders <vjb<span>@</span>gil.com.au>](/author/global_web_builders_vjb_at_gil_com_au_)"
 
 + 1998-07-09 (Wed, 8 Jul 1998 23:35:28 -0700 (PDT)) - One Nation going back on-line - _Global Web Builders \<vjb@gil.com.au\>_
 

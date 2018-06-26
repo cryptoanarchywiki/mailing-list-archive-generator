@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iso88591qjfcri_kaljundi_jk_at_digit_ee_
+post_count: 6
 ---
 
-# =?ISO-8859-1?Q?J=FCri_Kaljundi?= <jk@digit.ee> (6 posts)
+# =?ISO-8859-1?Q?J=FCri_Kaljundi?= <jk<span>@</span>digit.ee> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

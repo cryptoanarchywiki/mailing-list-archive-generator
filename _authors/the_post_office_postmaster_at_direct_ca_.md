@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_post_office_postmaster_at_direct_ca_
+post_count: 1
 ---
 
-# The Post Office <postmaster@direct.ca> (1 posts)
+# The Post Office <postmaster<span>@</span>direct.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

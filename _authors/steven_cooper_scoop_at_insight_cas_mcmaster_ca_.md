@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steven_cooper_scoop_at_insight_cas_mcmaster_ca_
+post_count: 1
 ---
 
-# Steven Cooper <scoop@insight.cas.mcmaster.ca> (1 posts)
+# Steven Cooper <scoop<span>@</span>insight.cas.mcmaster.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

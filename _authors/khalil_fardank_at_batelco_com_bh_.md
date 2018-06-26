@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: khalil_fardank_at_batelco_com_bh_
+post_count: 1
 ---
 
-# Khalil <fardank@batelco.com.bh> (1 posts)
+# Khalil <fardank<span>@</span>batelco.com.bh> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

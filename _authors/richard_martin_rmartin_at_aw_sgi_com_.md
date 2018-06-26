@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_martin_rmartin_at_aw_sgi_com_
+post_count: 21
 ---
 
-# "Richard Martin" <rmartin@aw.sgi.com> (21 posts)
+# "Richard Martin" <rmartin<span>@</span>aw.sgi.com> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

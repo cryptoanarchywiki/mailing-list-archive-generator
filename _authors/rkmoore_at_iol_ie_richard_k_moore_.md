@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rkmoore_at_iol_ie_richard_k_moore_
+post_count: 10
 ---
 
-# rkmoore@iol.ie (Richard K. Moore) (10 posts)
+# rkmoore<span>@</span>iol.ie (Richard K. Moore) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pat_billings_pat_at_falcon_inetw_net_
+post_count: 1
 ---
 
-# Pat Billings <pat@falcon.inetw.net> (1 posts)
+# Pat Billings <pat<span>@</span>falcon.inetw.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

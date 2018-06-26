@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aim_at_cysnet_net
+post_count: 1
 ---
 
-# aim@cysnet.net (1 posts)
+# aim<span>@</span>cysnet.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

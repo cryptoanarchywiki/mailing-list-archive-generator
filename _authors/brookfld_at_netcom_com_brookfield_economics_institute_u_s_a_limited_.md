@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brookfld_at_netcom_com_brookfield_economics_institute_u_s_a_limited_
+post_count: 3
 ---
 
-# brookfld@netcom.com (Brookfield Economics Institute (U.S.A.) Limited) (3 posts)
+# brookfld<span>@</span>netcom.com (Brookfield Economics Institute (U.S.A.) Limited) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jkyser_at_netcom_com_jeff_kyser_
+post_count: 3
 ---
 
-# jkyser@netcom.com (Jeff Kyser) (3 posts)
+# jkyser<span>@</span>netcom.com (Jeff Kyser) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

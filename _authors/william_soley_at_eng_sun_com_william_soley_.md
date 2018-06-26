@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_soley_at_eng_sun_com_william_soley_
+post_count: 1
 ---
 
-# William.Soley@Eng.Sun.COM (William Soley) (1 posts)
+# William.Soley<span>@</span>Eng.Sun.COM (William Soley) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

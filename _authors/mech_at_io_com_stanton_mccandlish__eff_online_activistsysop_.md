@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mech_at_io_com_stanton_mccandlish__eff_online_activistsysop_
+post_count: 1
 ---
 
-# mech@io.com (Stanton McCandlish - EFF Online Activist/SysOp) (1 posts)
+# mech<span>@</span>io.com (Stanton McCandlish - EFF Online Activist/SysOp) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

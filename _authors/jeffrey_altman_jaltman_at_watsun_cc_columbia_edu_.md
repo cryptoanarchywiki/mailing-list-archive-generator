@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeffrey_altman_jaltman_at_watsun_cc_columbia_edu_
+post_count: 1
 ---
 
-# Jeffrey Altman <jaltman@watsun.cc.columbia.edu> (1 posts)
+# Jeffrey Altman <jaltman<span>@</span>watsun.cc.columbia.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

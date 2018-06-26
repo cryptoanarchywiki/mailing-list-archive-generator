@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_a_gauthier_gauthier_at_cs_berkeley_edu_
+post_count: 2
 ---
 
-# Paul A Gauthier <gauthier@CS.Berkeley.EDU> (2 posts)
+# Paul A Gauthier <gauthier<span>@</span>CS.Berkeley.EDU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

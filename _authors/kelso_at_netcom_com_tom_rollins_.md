@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kelso_at_netcom_com_tom_rollins_
+post_count: 6
 ---
 
-# kelso@netcom.com (Tom Rollins) (6 posts)
+# kelso<span>@</span>netcom.com (Tom Rollins) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

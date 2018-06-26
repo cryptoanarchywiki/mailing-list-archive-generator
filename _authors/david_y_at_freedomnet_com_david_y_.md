@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_y_at_freedomnet_com_david_y_
+post_count: 1
 ---
 
-# David.Y@freedomnet.com (David Y) (1 posts)
+# David.Y<span>@</span>freedomnet.com (David Y) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

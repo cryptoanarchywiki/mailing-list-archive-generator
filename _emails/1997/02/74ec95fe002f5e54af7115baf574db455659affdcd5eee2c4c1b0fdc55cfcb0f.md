@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Joe Chou \<jchou@cgl.ucsf.EDU\><br>
+From: Joe Chou \<jchou<span>@</span>cgl.ucsf.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 74ec95fe002f5e54af7115baf574db455659affdcd5eee2c4c1b0fdc55cfcb0f<br>
 Message ID: \<199702111411.GAA19343@toad.com\><br>
@@ -81,6 +81,8 @@ Rkkv3V23nts=
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Joe Chou <jchou<span>@</span>cgl.ucsf.EDU>](/author/joe_chou_jchou_at_cgl_ucsf_edu_)"
 
 + 1997-02-11 (Tue, 11 Feb 1997 06:11:43 -0800 (PST)) - Re: Waiting for Mac version [was Re: Full strength Email Clients] - _Joe Chou \<jchou@cgl.ucsf.EDU\>_
 

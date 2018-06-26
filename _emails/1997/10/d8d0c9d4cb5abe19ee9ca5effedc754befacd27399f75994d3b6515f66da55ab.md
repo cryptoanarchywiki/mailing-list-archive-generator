@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Lucky Green \<shamrock@cypherpunks.to\><br>
+From: Lucky Green \<shamrock<span>@</span>cypherpunks.to\><br>
 To: "Igor Chudov @ home" \<ichudov@Algebra.COM\><br>
 Message Hash: d8d0c9d4cb5abe19ee9ca5effedc754befacd27399f75994d3b6515f66da55ab<br>
 Message ID: \<Pine.BSF.3.96.971030182253.17049A-100000@pakastelohi.cypherpunks.to\><br>
@@ -55,6 +55,17 @@ includes  rifles].
 
 + Return to [October 1997](/archive/1997/10)
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Dave Emery <die<span>@</span>pig.die.com>](/author/dave_emery_die_at_pig_die_com_)"
++ Return to "[ichudov<span>@</span>Algebra.COM (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[Jim Burnes <jim.burnes<span>@</span>ssds.com>](/author/jim_burnes_jim_burnes_at_ssds_com_)"
++ Return to "[Lucky Green <shamrock<span>@</span>cypherpunks.to>](/author/lucky_green_shamrock_at_cypherpunks_to_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "["snow" <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
++ Return to "[stewarts<span>@</span>ix.netcom.com](/author/stewarts_at_ix_netcom_com)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1997-10-27 (Tue, 28 Oct 1997 02:28:15 +0800) - [DEA trying to subpoena book dealers](/archive/1997/10/e257d13341c7517ebabbe98dc5bce3a433a344529840709d3767f1beda33138d) - _stewarts@ix.netcom.com_
   + 1997-10-27 (Tue, 28 Oct 1997 03:36:16 +0800) - [Re: DEA trying to subpoena book dealers](/archive/1997/10/ad7b171ceb2feedc048e1c55a80fc5cb8a55394e5900e98d61c1a389e43cb65e) - _Tim May \<tcmay@got.net\>_

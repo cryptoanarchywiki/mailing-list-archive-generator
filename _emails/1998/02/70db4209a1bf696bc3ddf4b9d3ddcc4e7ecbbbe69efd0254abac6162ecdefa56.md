@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 70db4209a1bf696bc3ddf4b9d3ddcc4e7ecbbbe69efd0254abac6162ecdefa56<br>
 Message ID: \<199802190454.FAA04010@basement.replay.com\><br>
@@ -43,6 +43,9 @@ Thanks
 ## Thread
 
 + Return to [February 1998](/archive/1998/02)
+
++ Return to "["Michael H. Warfield" <mhw<span>@</span>wittsend.com>](/author/michael_h_warfield_mhw_at_wittsend_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1998-02-19 (Thu, 19 Feb 1998 13:07:18 +0800) - Which is secure - _nobody@REPLAY.COM (Anonymous)_
   + 1998-02-19 (Thu, 19 Feb 1998 16:00:05 +0800) - [Re: Which is secure](/archive/1998/02/8464a239d9a0412624d3e78834d1ebc7c2a429abae231670e8631e56ad8d4f0b) - _"Michael H. Warfield" \<mhw@wittsend.com\>_

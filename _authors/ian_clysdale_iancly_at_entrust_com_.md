@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ian_clysdale_iancly_at_entrust_com_
+post_count: 4
 ---
 
-# Ian Clysdale <iancly@entrust.com> (4 posts)
+# Ian Clysdale <iancly<span>@</span>entrust.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

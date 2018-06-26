@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mr_nobody_mixmaster_at_anon_alias_net_william_bennet_x_at_x_x_
+post_count: 3
 ---
 
-# "Mr. Nobody" <mixmaster@anon.alias.net>William Bennet <x@x.x> (3 posts)
+# "Mr. Nobody" <mixmaster<span>@</span>anon.alias.net>William Bennet <x<span>@</span>x.x> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kickboxer_charlee_at_netnet_net_
+post_count: 7
 ---
 
-# kickboxer <charlee@netnet.net> (7 posts)
+# kickboxer <charlee<span>@</span>netnet.net> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

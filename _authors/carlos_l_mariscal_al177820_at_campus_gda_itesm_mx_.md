@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carlos_l_mariscal_al177820_at_campus_gda_itesm_mx_
+post_count: 1
 ---
 
-# "Carlos L. Mariscal" <al177820@campus.gda.itesm.mx> (1 posts)
+# "Carlos L. Mariscal" <al177820<span>@</span>campus.gda.itesm.mx> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

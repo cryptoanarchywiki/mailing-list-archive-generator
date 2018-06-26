@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: freeman_at_maspar_com_jay_r_freeman_
+post_count: 19
 ---
 
-# freeman@MasPar.COM (Jay R. Freeman) (19 posts)
+# freeman<span>@</span>MasPar.COM (Jay R. Freeman) (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

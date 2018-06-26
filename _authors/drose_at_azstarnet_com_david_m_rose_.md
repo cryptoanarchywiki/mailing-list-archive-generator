@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: drose_at_azstarnet_com_david_m_rose_
+post_count: 17
 ---
 
-# drose@AZStarNet.com (David M. Rose) (17 posts)
+# drose<span>@</span>AZStarNet.com (David M. Rose) (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

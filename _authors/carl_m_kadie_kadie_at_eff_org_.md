@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carl_m_kadie_kadie_at_eff_org_
+post_count: 3
 ---
 
-# "Carl M. Kadie" <kadie@eff.org> (3 posts)
+# "Carl M. Kadie" <kadie<span>@</span>eff.org> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

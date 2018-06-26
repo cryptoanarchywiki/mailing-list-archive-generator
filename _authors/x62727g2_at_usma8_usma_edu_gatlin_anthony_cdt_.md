@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: x62727g2_at_usma8_usma_edu_gatlin_anthony_cdt_
+post_count: 10
 ---
 
-# x62727g2@usma8.USMA.EDU (Gatlin Anthony CDT) (10 posts)
+# x62727g2<span>@</span>usma8.USMA.EDU (Gatlin Anthony CDT) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

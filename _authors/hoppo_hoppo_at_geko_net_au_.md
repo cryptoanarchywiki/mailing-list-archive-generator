@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hoppo_hoppo_at_geko_net_au_
+post_count: 1
 ---
 
-# hoppo <hoppo@geko.net.au> (1 posts)
+# hoppo <hoppo<span>@</span>geko.net.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lutz_donnerhacke_lutz_at_iksjena_de_
+post_count: 2
 ---
 
-# Lutz Donnerhacke <lutz@IKS-JENA.DE> (2 posts)
+# Lutz Donnerhacke <lutz<span>@</span>IKS-JENA.DE> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

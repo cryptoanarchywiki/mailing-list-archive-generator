@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alrub_at_prosol_cts_com_al_rubottom_
+post_count: 1
 ---
 
-# alrub@pro-sol.cts.com (Al Rubottom) (1 posts)
+# alrub<span>@</span>pro-sol.cts.com (Al Rubottom) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

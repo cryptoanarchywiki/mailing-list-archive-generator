@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cyber9090_at_aol_com
+post_count: 2
 ---
 
-# Cyber9090@aol.com (2 posts)
+# Cyber9090<span>@</span>aol.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

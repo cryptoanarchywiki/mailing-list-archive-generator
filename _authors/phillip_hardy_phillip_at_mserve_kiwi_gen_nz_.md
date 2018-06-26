@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phillip_hardy_phillip_at_mserve_kiwi_gen_nz_
+post_count: 2
 ---
 
-# Phillip Hardy <phillip@mserve.kiwi.gen.nz> (2 posts)
+# Phillip Hardy <phillip<span>@</span>mserve.kiwi.gen.nz> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

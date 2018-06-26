@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Frantz \<frantz@netcom.com\><br>
+From: Bill Frantz \<frantz<span>@</span>netcom.com\><br>
 To: "Peter Trei" \<cypherpunks@cyberpass.net<br>
 Message Hash: e1b5a99f48fcebae84053e7ace6f18cd9efde34b6eadc6f5a559421d81b3efe0<br>
 Message ID: \<v0300781eafba90c30917@[207.94.249.152]\><br>
@@ -61,6 +61,9 @@ frantz@netcom.com | from hostile governments.  | Los Gatos, CA 95032, USA
 ## Thread
 
 + Return to [June 1997](/archive/1997/06)
+
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
++ Return to "["Peter Trei" <trei<span>@</span>process.com>](/author/peter_trei_trei_at_process_com_)"
 
 + 1997-06-03 (Wed, 4 Jun 1997 04:29:10 +0800) - [[OFF-TOPIC] Naming systems...](/archive/1997/06/4265bc1d9d3cc402066db3217b4e7beda663ba675bb227f4638cd5603e255252) - _"Peter Trei" \<trei@process.com\>_
   + 1997-06-04 (Wed, 4 Jun 1997 13:29:31 +0800) - Re: [OFF-TOPIC] Naming systems... - _Bill Frantz \<frantz@netcom.com\>_

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0a976d96e35b1fe0ee5e6fcf63cc9da7ab9092a863adeaa0f5f1e613aadb47ef<br>
 Message ID: \<ae13cb6c140210047abf@[205.199.118.202]\><br>
@@ -112,6 +112,10 @@ Licensed Ontologist         | black markets, collapse of governments.
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[David Sternlight <david<span>@</span>sternlight.com>](/author/david_sternlight_david_at_sternlight_com_)"
++ Return to "[Jeff Weinstein <jsw<span>@</span>netscape.com>](/author/jeff_weinstein_jsw_at_netscape_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-07-18 (Fri, 19 Jul 1996 06:42:12 +0800) - Borders *are* transparent - _tcmay@got.net (Timothy C. May)_
   + 1996-07-19 (Sat, 20 Jul 1996 00:08:32 +0800) - [Re: Borders *are* transparent](/archive/1996/07/fe5e2190f039d5c40f0496e08af1af187bd33d92db2c35247a6a0b9afb48549e) - _David Sternlight \<david@sternlight.com\>_

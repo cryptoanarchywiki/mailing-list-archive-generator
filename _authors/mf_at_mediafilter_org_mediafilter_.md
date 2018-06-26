@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mf_at_mediafilter_org_mediafilter_
+post_count: 9
 ---
 
-# mf@mediafilter.org (MediaFilter) (9 posts)
+# mf<span>@</span>mediafilter.org (MediaFilter) (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

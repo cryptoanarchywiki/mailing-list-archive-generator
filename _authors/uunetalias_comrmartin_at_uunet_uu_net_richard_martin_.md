@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uunetalias_comrmartin_at_uunet_uu_net_richard_martin_
+post_count: 1
 ---
 
-# uunet!alias.com!rmartin@uunet.uu.net (Richard Martin) (1 posts)
+# uunet!alias.com!rmartin<span>@</span>uunet.uu.net (Richard Martin) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

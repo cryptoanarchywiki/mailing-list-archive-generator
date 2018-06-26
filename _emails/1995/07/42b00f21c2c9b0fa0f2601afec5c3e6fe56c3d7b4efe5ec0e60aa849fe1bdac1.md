@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Rev. Ben" \<samman@CS.YALE.EDU\><br>
+From: "Rev. Ben" \<samman<span>@</span>CS.YALE.EDU\><br>
 To: Tatu Ylonen \<ylo@cs.hut.fi\><br>
 Message Hash: 42b00f21c2c9b0fa0f2601afec5c3e6fe56c3d7b4efe5ec0e60aa849fe1bdac1<br>
 Message ID: \<Pine.A32.3.91.950714094431.11806J-100000@JAGUAR.ZOO.CS.YALE.EDU\><br>
@@ -140,7 +140,12 @@ _______________________________________________________________
 
 + Return to [July 1995](/archive/1995/07)
 
-+ 1995-07-13 (Thu, 13 Jul 95 16:03:36 PDT) - [Re: Ssh security hole?](/archive/1995/07/a3ed2ebb0728b2813d3930d24245e2ebb30897a3b468aaa3afc2d06aa8fcf8ca) - _Tatu Ylonen \<ylo@cs.hut.fi\>_
-  + 1995-07-14 (Thu, 13 Jul 95 19:04:34 PDT) - [Re: Ssh security hole?](/archive/1995/07/dc5c0bfd5df36b58b1d963f58232bde89ab49a5b17b0e544f7a57c1e049ffac1) - _"Perry E. Metzger" \<perry@imsi.com\>_
-  + 1995-07-14 (Fri, 14 Jul 95 06:51:42 PDT) - Re: Ssh security hole? - _"Rev. Ben" \<samman@CS.YALE.EDU\>_
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "["Rev. Ben" <samman<span>@</span>CS.YALE.EDU>](/author/rev_ben_samman_at_cs_yale_edu_)"
++ Return to "[Tatu Ylonen <ylo<span>@</span>cs.hut.fi>](/author/tatu_ylonen_ylo_at_cs_hut_fi_)"
+
++ _Unknown thread root_
+  + 1995-07-13 (Thu, 13 Jul 95 16:03:36 PDT) - [Re: Ssh security hole?](/archive/1995/07/a3ed2ebb0728b2813d3930d24245e2ebb30897a3b468aaa3afc2d06aa8fcf8ca) - _Tatu Ylonen \<ylo@cs.hut.fi\>_
+    + 1995-07-14 (Thu, 13 Jul 95 19:04:34 PDT) - [Re: Ssh security hole?](/archive/1995/07/dc5c0bfd5df36b58b1d963f58232bde89ab49a5b17b0e544f7a57c1e049ffac1) - _"Perry E. Metzger" \<perry@imsi.com\>_
+    + 1995-07-14 (Fri, 14 Jul 95 06:51:42 PDT) - Re: Ssh security hole? - _"Rev. Ben" \<samman@CS.YALE.EDU\>_
 

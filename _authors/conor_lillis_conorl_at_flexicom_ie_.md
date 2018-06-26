@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: conor_lillis_conorl_at_flexicom_ie_
+post_count: 2
 ---
 
-# Conor Lillis <ConorL@flexicom.ie> (2 posts)
+# Conor Lillis <ConorL<span>@</span>flexicom.ie> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

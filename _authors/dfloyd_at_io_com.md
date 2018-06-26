@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dfloyd_at_io_com
+post_count: 9
 ---
 
-# dfloyd@io.com (9 posts)
+# dfloyd<span>@</span>io.com (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

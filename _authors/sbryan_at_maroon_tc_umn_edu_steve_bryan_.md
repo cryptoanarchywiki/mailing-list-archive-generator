@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sbryan_at_maroon_tc_umn_edu_steve_bryan_
+post_count: 3
 ---
 
-# sbryan@maroon.tc.umn.edu (Steve Bryan) (3 posts)
+# sbryan<span>@</span>maroon.tc.umn.edu (Steve Bryan) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

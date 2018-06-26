@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lunaslide_at_loop_com
+post_count: 32
 ---
 
-# lunaslide@loop.com (32 posts)
+# lunaslide<span>@</span>loop.com (32 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Declan McCullagh \<declan@pathfinder.com\><br>
+From: Declan McCullagh \<declan<span>@</span>pathfinder.com\><br>
 To: jim bell \<jimbell@pacifier.com\><br>
 Message Hash: 4b43be8d327eb32b92c6dd904eb13785acf0bfccffd1e6e74cff814fbe1eacc1<br>
 Message ID: \<Pine.GSO.3.95.970325091136.16036A-100000@cp.pathfinder.com\><br>
@@ -67,6 +67,10 @@ On Mon, 24 Mar 1997, jim bell wrote:
 ## Thread
 
 + Return to [March 1997](/archive/1997/03)
+
++ Return to "[Declan McCullagh <declan<span>@</span>pathfinder.com>](/author/declan_mccullagh_declan_at_pathfinder_com_)"
++ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/author/greg_broiles_gbroiles_at_netbox_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1997-03-25 (Mon, 24 Mar 1997 21:54:42 -0800 (PST)) - [Re: INFO: Pro-CODE testimony available now online at democracy.net!](/archive/1997/03/85edc54fcab9088fe161148ae901dfd34905bfa886afc16c9348885efc2d1b09) - _jim bell \<jimbell@pacifier.com\>_
   + 1997-03-25 (Tue, 25 Mar 1997 06:14:50 -0800 (PST)) - Re: INFO: Pro-CODE testimony available now online at  democracy.net! - _Declan McCullagh \<declan@pathfinder.com\>_

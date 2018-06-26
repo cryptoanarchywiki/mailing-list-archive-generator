@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "\<pstira@escape.com\>" \<pstira@escape.com\><br>
+From: "\<pstira<span>@</span>escape.com\>" \<pstira<span>@</span>escape.com\><br>
 To: John Anonymous MacDonald \<nobody@cypherpunks.ca\><br>
 Message Hash: 6d6ff4cfaa93f9dd30aecd0c643c38c5860d9bf4abfaeadcca3132ccc506ed33<br>
 Message ID: \<Pine.BSI.3.91.960907061725.22456D-100000@escape.com\><br>
@@ -58,6 +58,11 @@ sfuze@tiac.net
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "["<pstira<span>@</span>escape.com>" <pstira<span>@</span>escape.com>](/author/_pstira_at_escape_com__pstira_at_escape_com_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/author/declan_mccullagh_declan_at_eff_org_)"
++ Return to "[nobody<span>@</span>cypherpunks.ca (John Anonymous MacDonald)](/author/nobody_at_cypherpunks_ca_john_anonymous_macdonald_)"
 
 + 1996-09-07 (Sat, 7 Sep 1996 08:53:26 +0800) - [TWA 800 - Friendly Fire?](/archive/1996/09/7f7f837924f8f0966c43d8feab224c880f0cb4622a78ed00ed87b0f0a410e3d4) - _nobody@cypherpunks.ca (John Anonymous MacDonald)_
   + 1996-09-07 (Sat, 7 Sep 1996 20:38:09 +0800) - Re: TWA 800 - Friendly Fire? - _"\<pstira@escape.com\>" \<pstira@escape.com\>_

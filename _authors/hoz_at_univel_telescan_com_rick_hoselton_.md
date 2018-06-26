@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hoz_at_univel_telescan_com_rick_hoselton_
+post_count: 19
 ---
 
-# hoz@univel.telescan.com (rick hoselton) (19 posts)
+# hoz<span>@</span>univel.telescan.com (rick hoselton) (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

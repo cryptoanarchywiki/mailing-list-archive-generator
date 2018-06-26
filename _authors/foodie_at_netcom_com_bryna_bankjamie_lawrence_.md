@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: foodie_at_netcom_com_bryna_bankjamie_lawrence_
+post_count: 3
 ---
 
-# foodie@netcom.com (Bryna Bank/Jamie Lawrence) (3 posts)
+# foodie<span>@</span>netcom.com (Bryna Bank/Jamie Lawrence) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

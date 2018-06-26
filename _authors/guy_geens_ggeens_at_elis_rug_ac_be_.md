@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: guy_geens_ggeens_at_elis_rug_ac_be_
+post_count: 1
 ---
 
-# Guy Geens <ggeens@elis.rug.ac.be> (1 posts)
+# Guy Geens <ggeens<span>@</span>elis.rug.ac.be> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

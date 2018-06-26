@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nibor55_at_juno_com_robin_parker_
+post_count: 1
 ---
 
-# nibor55@juno.com (robin parker) (1 posts)
+# nibor55<span>@</span>juno.com (robin parker) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

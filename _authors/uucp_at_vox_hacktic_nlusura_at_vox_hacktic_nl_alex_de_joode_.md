@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uucp_at_vox_hacktic_nlusura_at_vox_hacktic_nl_alex_de_joode_
+post_count: 1
 ---
 
-# uucp@vox.hacktic.nlusura@vox.hacktic.nl  (Alex de Joode) (1 posts)
+# uucp<span>@</span>vox.hacktic.nlusura<span>@</span>vox.hacktic.nl  (Alex de Joode) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

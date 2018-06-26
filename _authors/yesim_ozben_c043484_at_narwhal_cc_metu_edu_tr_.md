@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yesim_ozben_c043484_at_narwhal_cc_metu_edu_tr_
+post_count: 1
 ---
 
-# yesim ozben <c043484@narwhal.cc.metu.edu.tr> (1 posts)
+# yesim ozben <c043484<span>@</span>narwhal.cc.metu.edu.tr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

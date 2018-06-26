@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ray Arachelian \<sunder@brainlink.com\><br>
+From: Ray Arachelian \<sunder<span>@</span>brainlink.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fcad2dd8e6d9caee5ff1b0d896621e293a09da6cc89c2afc903c86cfe8a5f9c0<br>
 Message ID: \<Pine.SUN.3.96.970702155127.14343H-100000@beast.brainlink.com\><br>
@@ -101,5 +101,8 @@ able to communicate at all.
 
 + Return to [July 1997](/archive/1997/07)
 
-+ 1997-07-02 (Thu, 3 Jul 1997 04:02:20 +0800) - This was forged:: Re: This is NOT trespassing. - _Ray Arachelian \<sunder@brainlink.com\>_
++ Return to "[Ray Arachelian <sunder<span>@</span>brainlink.com>](/author/ray_arachelian_sunder_at_brainlink_com_)"
+
++ _Unknown thread root_
+  + 1997-07-02 (Thu, 3 Jul 1997 04:02:20 +0800) - This was forged:: Re: This is NOT trespassing. - _Ray Arachelian \<sunder@brainlink.com\>_
 

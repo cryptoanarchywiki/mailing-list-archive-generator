@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_mcguire_svmcguir_at_syr_edu_by_way_of_timothy_c_may_
+post_count: 1
 ---
 
-# Scott McGuire <svmcguir@syr.edu> (by way of Timothy C. May) (1 posts)
+# Scott McGuire <svmcguir<span>@</span>syr.edu> (by way of Timothy C. May) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

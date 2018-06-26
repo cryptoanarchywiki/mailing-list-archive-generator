@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_del_toasto_ddt_at_lsd_com_
+post_count: 1
 ---
 
-# Dave Del Toasto <ddt@lsd.com> (1 posts)
+# Dave Del Toasto <ddt<span>@</span>lsd.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

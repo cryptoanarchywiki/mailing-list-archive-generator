@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cory_r_king_coryking_at_azalea_com_
+post_count: 1
 ---
 
-# "Cory R. King" <coryking@azalea.com> (1 posts)
+# "Cory R. King" <coryking<span>@</span>azalea.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

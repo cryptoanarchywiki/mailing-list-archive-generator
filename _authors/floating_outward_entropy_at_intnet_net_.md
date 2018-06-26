@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: floating_outward_entropy_at_intnet_net_
+post_count: 1
 ---
 
-# FLOATING OUTWARD <entropy@IntNet.net> (1 posts)
+# FLOATING OUTWARD <entropy<span>@</span>IntNet.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

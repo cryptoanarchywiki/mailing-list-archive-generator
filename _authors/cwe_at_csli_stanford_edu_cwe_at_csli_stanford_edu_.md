@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cwe_at_csli_stanford_edu_cwe_at_csli_stanford_edu_
+post_count: 1
 ---
 
-# cwe@csli.stanford.edu (Cwe@csli.stanford.edu) (1 posts)
+# cwe<span>@</span>csli.stanford.edu (Cwe<span>@</span>csli.stanford.edu) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

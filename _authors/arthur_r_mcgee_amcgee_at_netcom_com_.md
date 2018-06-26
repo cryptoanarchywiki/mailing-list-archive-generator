@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: arthur_r_mcgee_amcgee_at_netcom_com_
+post_count: 9
 ---
 
-# "Arthur R. McGee" <amcgee@netcom.com> (9 posts)
+# "Arthur R. McGee" <amcgee<span>@</span>netcom.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

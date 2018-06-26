@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@EINSTEIN.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>EINSTEIN.ssz.com\><br>
 To: cypherpunks@EINSTEIN.ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: ea43d1a485fffbd5bc6fd5b19c5ca290ecf78cd1b5fb7d4abe939e94f683fa20<br>
 Message ID: \<199809181251.HAA03092@einstein.ssz.com\><br>
@@ -82,6 +82,8 @@ In the SuSE manual (pp. 188) it says:
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-09-17 (Fri, 18 Sep 1998 07:26:18 +0800) - RF networks, spread spectrum (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

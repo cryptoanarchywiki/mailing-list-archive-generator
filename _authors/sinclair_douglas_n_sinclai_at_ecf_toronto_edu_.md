@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sinclair_douglas_n_sinclai_at_ecf_toronto_edu_
+post_count: 64
 ---
 
-# SINCLAIR  DOUGLAS N <sinclai@ecf.toronto.edu> (64 posts)
+# SINCLAIR  DOUGLAS N <sinclai<span>@</span>ecf.toronto.edu> (64 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

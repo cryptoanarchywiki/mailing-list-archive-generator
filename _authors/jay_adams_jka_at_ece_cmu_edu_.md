@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jay_adams_jka_at_ece_cmu_edu_
+post_count: 1
 ---
 
-# Jay Adams <jka@ece.cmu.edu> (1 posts)
+# Jay Adams <jka<span>@</span>ece.cmu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

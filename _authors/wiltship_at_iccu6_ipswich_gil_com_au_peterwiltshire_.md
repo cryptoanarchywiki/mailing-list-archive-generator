@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wiltship_at_iccu6_ipswich_gil_com_au_peterwiltshire_
+post_count: 6
 ---
 
-# wiltship@iccu6.ipswich.gil.com.au (PeterWiltshire) (6 posts)
+# wiltship<span>@</span>iccu6.ipswich.gil.com.au (PeterWiltshire) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

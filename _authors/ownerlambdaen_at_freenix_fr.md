@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ownerlambdaen_at_freenix_fr
+post_count: 1
 ---
 
-# owner-lambda-en@freenix.fr (1 posts)
+# owner-lambda-en<span>@</span>freenix.fr (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

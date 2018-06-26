@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: libeiqia_at_aol_com_debt_management_club_
+post_count: 1
 ---
 
-# libeiqia@aol.com (Debt Management Club) (1 posts)
+# libeiqia<span>@</span>aol.com (Debt Management Club) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

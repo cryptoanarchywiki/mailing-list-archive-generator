@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rjasonc_at_pobox_com_rjasonc_
+post_count: 1
 ---
 
-# rjasonc@pobox.com (rjasonc) (1 posts)
+# rjasonc<span>@</span>pobox.com (rjasonc) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_a_molnar_molnard1_at_nevada_edu_
+post_count: 7
 ---
 
-# DAVID A MOLNAR <molnard1@nevada.edu> (7 posts)
+# DAVID A MOLNAR <molnard1<span>@</span>nevada.edu> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

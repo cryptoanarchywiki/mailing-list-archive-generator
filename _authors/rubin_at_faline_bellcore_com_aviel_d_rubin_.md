@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rubin_at_faline_bellcore_com_aviel_d_rubin_
+post_count: 2
 ---
 
-# rubin@faline.bellcore.com (Aviel D Rubin) (2 posts)
+# rubin<span>@</span>faline.bellcore.com (Aviel D Rubin) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

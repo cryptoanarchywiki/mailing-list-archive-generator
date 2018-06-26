@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bob_kohn_kohn_at_pgp_com_
+post_count: 2
 ---
 
-# Bob Kohn <kohn@pgp.com> (2 posts)
+# Bob Kohn <kohn<span>@</span>pgp.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

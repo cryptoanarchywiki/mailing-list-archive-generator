@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathon_fletcher_jonathon_fletcher_at_psych_stir_ac_uk_
+post_count: 5
 ---
 
-# Jonathon Fletcher <jonathon.fletcher@psych.stir.ac.uk> (5 posts)
+# Jonathon Fletcher <jonathon.fletcher<span>@</span>psych.stir.ac.uk> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

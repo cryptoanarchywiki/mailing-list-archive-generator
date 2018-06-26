@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brad_knowles_brad_at_azathoth_ops_aol_com_
+post_count: 2
 ---
 
-# "Brad Knowles" <brad@azathoth.ops.aol.com> (2 posts)
+# "Brad Knowles" <brad<span>@</span>azathoth.ops.aol.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pilgrim_at_laguna_com_mx
+post_count: 1
 ---
 
-# pilgrim@laguna.com.mx (1 posts)
+# pilgrim<span>@</span>laguna.com.mx (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

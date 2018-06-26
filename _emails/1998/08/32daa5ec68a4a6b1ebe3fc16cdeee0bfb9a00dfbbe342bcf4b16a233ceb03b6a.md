@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ltisue@aol.com<br>
+From: Ltisue<span>@</span>aol.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 32daa5ec68a4a6b1ebe3fc16cdeee0bfb9a00dfbbe342bcf4b16a233ceb03b6a<br>
 Message ID: \<d40ec01.35d9d5a3@aol.com\><br>
@@ -44,6 +44,8 @@ ltisue@aol.com
 ## Thread
 
 + Return to [August 1998](/archive/1998/08)
+
++ Return to "[Ltisue<span>@</span>aol.com](/author/ltisue_at_aol_com)"
 
 + 1998-08-18 (Tue, 18 Aug 1998 12:28:34 -0700 (PDT)) - email travel information - _Ltisue@aol.com_
 

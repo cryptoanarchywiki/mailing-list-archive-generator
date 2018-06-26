@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Guess@mail.sochi.ru<br>
+From: Guess<span>@</span>mail.sochi.ru<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4dba0af524ce9f3e3ec5718db08b0ba1dd28ddaa4741a6fbc7a90da14856facd<br>
 Message ID: \<14571543701128@mail.sochi.ru\><br>
@@ -44,6 +44,8 @@ O[QN[KDJQCILHGZFZIVJSYOSWQGFIXUSCJGNRBZMCYCMPUVQLKFXTGDHCVQWELXGSBWFNWOSOGQOVYML
 ## Thread
 
 + Return to [March 1998](/archive/1998/03)
+
++ Return to "[Guess<span>@</span>mail.sochi.ru](/author/guess_at_mail_sochi_ru)"
 
 + 1998-03-30 (Mon, 30 Mar 1998 05:59:01 -0800 (PST)) - Lamers- mudt die - _Guess@mail.sochi.ru_
 

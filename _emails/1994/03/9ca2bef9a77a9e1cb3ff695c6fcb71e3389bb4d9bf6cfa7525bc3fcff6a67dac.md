@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jdwilson@gold.chem.hawaii.edu (Jim Wilson (VA))<br>
+From: jdwilson<span>@</span>gold.chem.hawaii.edu (Jim Wilson (VA))<br>
 To: fhalper@pilot.njin.net (Frederic Halper)<br>
 Message Hash: 9ca2bef9a77a9e1cb3ff695c6fcb71e3389bb4d9bf6cfa7525bc3fcff6a67dac<br>
 Message ID: \<9403070258.AA08019@gold.chem.hawaii.edu\><br>
@@ -50,6 +50,10 @@ but a question as to what law would require this.)
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[fhalper<span>@</span>pilot.njin.net (Frederic Halper)](/author/fhalper_at_pilot_njin_net_frederic_halper_)"
++ Return to "[jdwilson<span>@</span>gold.chem.hawaii.edu (Jim Wilson (VA))](/author/jdwilson_at_gold_chem_hawaii_edu_jim_wilson_va_)"
++ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/author/perry_e_metzger_pmetzger_at_lehman_com_)"
 
 + 1994-03-03 (Thu, 3 Mar 94 08:29:15 PST) - [spooks](/archive/1994/03/ad952671d9921dc3a25cd11f17b2e70751845a99e54c50615bd9a3c0d0d57080) - _fhalper@pilot.njin.net (Frederic Halper)_
   + 1994-03-03 (Thu, 3 Mar 94 08:53:45 PST) - [Re: spooks](/archive/1994/03/05dc64d0836c6da90a83144b05993cd12181dde4a1c31f72deb267d4e2ceffee) - _"Perry E. Metzger" \<pmetzger@lehman.com\>_

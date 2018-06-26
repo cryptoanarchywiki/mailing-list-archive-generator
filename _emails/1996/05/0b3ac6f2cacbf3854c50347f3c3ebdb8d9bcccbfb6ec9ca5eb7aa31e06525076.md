@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: SBinkley@atitech.ca (Scott Binkley)<br>
+From: SBinkley<span>@</span>atitech.ca (Scott Binkley)<br>
 To: clueless@c2.org<br>
 Message Hash: 0b3ac6f2cacbf3854c50347f3c3ebdb8d9bcccbfb6ec9ca5eb7aa31e06525076<br>
 Message ID: \<54A3994A01502C79@-SMF-\><br>
@@ -68,5 +68,8 @@ Send "help" to majordomo@c2.org for information.
 
 + Return to [May 1996](/archive/1996/05)
 
-+ 1996-05-15 (Wed, 15 May 1996 14:40:45 +0800) - [NOISE] Re: Notes from the SF P - _SBinkley@atitech.ca (Scott Binkley)_
++ Return to "[SBinkley<span>@</span>atitech.ca (Scott Binkley)](/author/sbinkley_at_atitech_ca_scott_binkley_)"
+
++ _Unknown thread root_
+  + 1996-05-15 (Wed, 15 May 1996 14:40:45 +0800) - [NOISE] Re: Notes from the SF P - _SBinkley@atitech.ca (Scott Binkley)_
 

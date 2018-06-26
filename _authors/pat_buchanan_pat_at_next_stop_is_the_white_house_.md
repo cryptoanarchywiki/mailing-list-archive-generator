@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pat_buchanan_pat_at_next_stop_is_the_white_house_
+post_count: 1
 ---
 
-# Pat Buchanan <pat@next.stop.is.the.white.house> (1 posts)
+# Pat Buchanan <pat<span>@</span>next.stop.is.the.white.house> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

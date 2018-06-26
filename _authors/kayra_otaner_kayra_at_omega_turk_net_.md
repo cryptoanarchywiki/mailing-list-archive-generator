@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kayra_otaner_kayra_at_omega_turk_net_
+post_count: 1
 ---
 
-# Kayra Otaner <kayra@OMEGA.turk.net> (1 posts)
+# Kayra Otaner <kayra<span>@</span>OMEGA.turk.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

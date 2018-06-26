@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: "Dave Banisar" \<cypherpunks@toad.com\><br>
 Message Hash: e8efea5e2adf7f96ec10c499b69e48ad5f304049fba31b7127d50fddadcaf4df<br>
 Message ID: \<m0u5cI0-000909C@pacifier.com\><br>
@@ -84,6 +84,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-04-06 (Sun, 7 Apr 1996 06:18:06 +0800) - Re: ACM/IEEE Letter on Cryp - _jim bell \<jimbell@pacifier.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: imran_siddiq_at_comnet_com_tr_
+post_count: 1
 ---
 
-# "imran" <siddiq@comnet.com.tr> (1 posts)
+# "imran" <siddiq<span>@</span>comnet.com.tr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

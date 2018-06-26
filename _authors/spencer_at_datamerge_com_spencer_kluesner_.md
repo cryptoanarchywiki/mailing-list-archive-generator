@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: spencer_at_datamerge_com_spencer_kluesner_
+post_count: 1
 ---
 
-# spencer@datamerge.com (Spencer Kluesner) (1 posts)
+# spencer<span>@</span>datamerge.com (Spencer Kluesner) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

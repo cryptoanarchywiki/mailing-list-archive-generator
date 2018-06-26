@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vincent_l_diaz_vldiaz_at_adnc_com_
+post_count: 3
 ---
 
-# "Vincent L. Diaz" <vldiaz@adnc.com> (3 posts)
+# "Vincent L. Diaz" <vldiaz<span>@</span>adnc.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

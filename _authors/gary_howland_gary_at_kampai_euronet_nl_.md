@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gary_howland_gary_at_kampai_euronet_nl_
+post_count: 24
 ---
 
-# Gary Howland <gary@kampai.euronet.nl> (24 posts)
+# Gary Howland <gary<span>@</span>kampai.euronet.nl> (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

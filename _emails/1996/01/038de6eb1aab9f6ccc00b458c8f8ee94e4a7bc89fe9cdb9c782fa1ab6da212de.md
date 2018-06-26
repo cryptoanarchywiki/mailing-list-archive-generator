@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: anon-remailer@utopia.hacktic.nl (Name Withheld by Request)<br>
+From: anon-remailer<span>@</span>utopia.hacktic.nl (Name Withheld by Request)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 038de6eb1aab9f6ccc00b458c8f8ee94e4a7bc89fe9cdb9c782fa1ab6da212de<br>
 Message ID: \<199601200350.EAA12520@utopia.hacktic.nl\><br>
@@ -120,6 +120,8 @@ or censorship."
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[anon-remailer<span>@</span>utopia.hacktic.nl (Name Withheld by Request)](/author/anonremailer_at_utopia_hacktic_nl_name_withheld_by_request_)"
 
 + 1996-01-20 (Sat, 20 Jan 1996 12:19:16 +0800) - Cypherpunk Enquirer - _anon-remailer@utopia.hacktic.nl (Name Withheld by Request)_
 

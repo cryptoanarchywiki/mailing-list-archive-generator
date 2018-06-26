@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@sensemedia.net (Timothy C. May)<br>
+From: tcmay<span>@</span>sensemedia.net (Timothy C. May)<br>
 To: Jon Lasser \<jlasser@rwd.goucher.edu\><br>
 Message Hash: 1fb46ce1e09ac5be9fc7befd961de8fac6b571d843f9919f6e6da22e2d60bcad<br>
 Message ID: \<ac340c990d021004b0d4@[205.199.118.202]\><br>
@@ -82,6 +82,9 @@ Higher Power: 2^756839 | Public Key: PGP and MailSafe available.
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[Phil Fraering        <pgf<span>@</span>tyrell.net>](/author/phil_fraering_pgf_at_tyrell_net_)"
++ Return to "[tcmay<span>@</span>sensemedia.net (Timothy C. May)](/author/tcmay_at_sensemedia_net_timothy_c_may_)"
 
 + 1995-07-20 (Thu, 20 Jul 95 13:43:57 PDT) - Re: Netscape the Big Win - _tcmay@sensemedia.net (Timothy C. May)_
   + 1995-07-20 (Thu, 20 Jul 95 16:01:28 PDT) - [Netscape the Big Win](/archive/1995/07/de7aee68cb14dc3e88764e6c7882534cd00384fc5b5a3f600a0e67e68e81aeae) - _Phil Fraering        \<pgf@tyrell.net\>_

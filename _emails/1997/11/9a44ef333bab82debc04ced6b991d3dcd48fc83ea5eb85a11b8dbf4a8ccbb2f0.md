@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9a44ef333bab82debc04ced6b991d3dcd48fc83ea5eb85a11b8dbf4a8ccbb2f0<br>
 Message ID: \<199711140509.GAA00261@basement.replay.com\><br>
@@ -54,6 +54,11 @@ going to be Comanche...
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[Ryan Anderson <ryan<span>@</span>michonline.com>](/author/ryan_anderson_ryan_at_michonline_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1997-11-14 (Fri, 14 Nov 1997 13:19:02 +0800) - Re: [OB: CRYTO] Re: about RC4 - _nobody@REPLAY.COM (Anonymous)_
   + 1997-11-14 (Fri, 14 Nov 1997 14:50:02 +0800) - [Re: [OB: CRYTO] Re: about RC4](/archive/1997/11/362530785f2544eaeaf7e00edae3edd5ff0de2fe0e837ad1decc09189aa0e21d) - _Ryan Anderson \<ryan@michonline.com\>_

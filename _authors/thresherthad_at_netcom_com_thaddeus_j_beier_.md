@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thresherthad_at_netcom_com_thaddeus_j_beier_
+post_count: 2
 ---
 
-# thresher!thad@netcom.com (Thaddeus J. Beier) (2 posts)
+# thresher!thad<span>@</span>netcom.com (Thaddeus J. Beier) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

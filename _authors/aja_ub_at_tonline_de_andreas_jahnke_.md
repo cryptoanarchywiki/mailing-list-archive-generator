@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aja_ub_at_tonline_de_andreas_jahnke_
+post_count: 1
 ---
 
-# aja.ub@t-online.de (Andreas Jahnke) (1 posts)
+# aja.ub<span>@</span>t-online.de (Andreas Jahnke) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

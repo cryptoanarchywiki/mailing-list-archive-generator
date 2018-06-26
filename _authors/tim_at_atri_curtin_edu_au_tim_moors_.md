@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tim_at_atri_curtin_edu_au_tim_moors_
+post_count: 1
 ---
 
-# tim@atri.curtin.edu.au (Tim Moors) (1 posts)
+# tim<span>@</span>atri.curtin.edu.au (Tim Moors) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

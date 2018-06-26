@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kenneth_j_hawley_khawley_at_silenus_com_
+post_count: 1
 ---
 
-# "Kenneth J. Hawley" <khawley@silenus.com> (1 posts)
+# "Kenneth J. Hawley" <khawley<span>@</span>silenus.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

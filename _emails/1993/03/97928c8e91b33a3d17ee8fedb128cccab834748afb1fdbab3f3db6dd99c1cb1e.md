@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: eknipp@lobo.rmhs.colorado.edu (Ethan Knipp)<br>
+From: eknipp<span>@</span>lobo.rmhs.colorado.edu (Ethan Knipp)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 97928c8e91b33a3d17ee8fedb128cccab834748afb1fdbab3f3db6dd99c1cb1e<br>
 Message ID: \<9303032107.AA17969@lobo.rmhs.colorado.edu\><br>
@@ -46,6 +46,8 @@ Future Autopian			|
 ## Thread
 
 + Return to [March 1993](/archive/1993/03)
+
++ Return to "[eknipp<span>@</span>lobo.rmhs.colorado.edu (Ethan Knipp)](/author/eknipp_at_lobo_rmhs_colorado_edu_ethan_knipp_)"
 
 + 1993-03-03 (Wed, 3 Mar 93 13:11:46 PST) - PGP: Help! - _eknipp@lobo.rmhs.colorado.edu (Ethan Knipp)_
 

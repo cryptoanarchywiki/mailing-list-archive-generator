@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: kooltek@iol.ie (Hack Watch News)<br>
+From: kooltek<span>@</span>iol.ie (Hack Watch News)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0bd8dc1ef976bf6cbbb85266f73d61abd4bf63e240cc4dd2cd4fd13c6a668ddd<br>
 Message ID: \<199606152107.WAA28424@GPO.iol.ie\><br>
@@ -113,6 +113,8 @@ YXRjaC5jb20=
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[kooltek<span>@</span>iol.ie (Hack Watch News)](/author/kooltek_at_iol_ie_hack_watch_news_)"
 
 + 1996-06-16 (Sun, 16 Jun 1996 09:50:49 +0800) - Re: Fuseable Links - no guarantees?? - _kooltek@iol.ie (Hack Watch News)_
 

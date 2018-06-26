@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "A. Hoir" \<ah@dev.null\><br>
+From: "A. Hoir" \<ah<span>@</span>dev.null\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7acf7e466390abbfd24deac2d287f5a6f9d89f8bcf0ee5fe64531d2eb41ef4fa<br>
 Message ID: \<343E7B2F.4E40@dev.null\><br>
@@ -154,6 +154,8 @@ Soviet Union Sickle of Eunuchs Secret WebSite
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "["A. Hoir" <ah<span>@</span>dev.null>](/author/a_hoir_ah_at_dev_null_)"
 
 + 1997-10-10 (Sat, 11 Oct 1997 03:15:56 +0800) - InfoWar Epilogue 0 (Part III of 'The True Story of the InterNet') - _"A. Hoir" \<ah@dev.null\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rms_at_gnu_ai_mit_edu_richard_stallman_
+post_count: 1
 ---
 
-# rms@gnu.ai.mit.edu (Richard Stallman) (1 posts)
+# rms<span>@</span>gnu.ai.mit.edu (Richard Stallman) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

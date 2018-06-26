@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: afriend_at_plato_qi3_com
+post_count: 1
 ---
 
-# afriend@plato.qi3.com (1 posts)
+# afriend<span>@</span>plato.qi3.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joe_turner_turner_at_telecheck_com_
+post_count: 15
 ---
 
-# Joe Turner <turner@TeleCheck.com> (15 posts)
+# Joe Turner <turner<span>@</span>TeleCheck.com> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

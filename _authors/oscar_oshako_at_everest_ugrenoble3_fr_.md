@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: oscar_oshako_at_everest_ugrenoble3_fr_
+post_count: 2
 ---
 
-# OSCAR <oshako@everest.u-grenoble3.fr> (2 posts)
+# OSCAR <oshako<span>@</span>everest.u-grenoble3.fr> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

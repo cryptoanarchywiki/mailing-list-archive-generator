@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_froomkin_mfroomki_at_umiami_ir_miami_edu_
+post_count: 32
 ---
 
-# Michael Froomkin <mfroomki@umiami.ir.miami.edu> (32 posts)
+# Michael Froomkin <mfroomki<span>@</span>umiami.ir.miami.edu> (32 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

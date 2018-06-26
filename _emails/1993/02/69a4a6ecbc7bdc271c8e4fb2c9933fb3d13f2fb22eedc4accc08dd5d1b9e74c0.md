@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Kelly Goen \<snake@Cadence.COM\><br>
+From: Kelly Goen \<snake<span>@</span>Cadence.COM\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 69a4a6ecbc7bdc271c8e4fb2c9933fb3d13f2fb22eedc4accc08dd5d1b9e74c0<br>
 Message ID: \<9302220425.AA05986@cds9041\><br>
@@ -59,6 +59,8 @@ of luck to all the members of this list  and thanx again...
 ## Thread
 
 + Return to [February 1993](/archive/1993/02)
+
++ Return to "[Kelly Goen <snake<span>@</span>Cadence.COM>](/author/kelly_goen_snake_at_cadence_com_)"
 
 + 1993-02-22 (Sun, 21 Feb 93 21:07:03 PST) - New Directions on the Internet-Privacy what are the threats... - _Kelly Goen \<snake@Cadence.COM\>_
 

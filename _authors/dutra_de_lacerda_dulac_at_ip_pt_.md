@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dutra_de_lacerda_dulac_at_ip_pt_
+post_count: 4
 ---
 
-# Dutra de Lacerda <dulac@ip.pt> (4 posts)
+# Dutra de Lacerda <dulac<span>@</span>ip.pt> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

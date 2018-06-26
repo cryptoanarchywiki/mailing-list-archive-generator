@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Harry Shapiro \<habs@panix.com\><br>
+From: Harry Shapiro \<habs<span>@</span>panix.com\><br>
 To: mech@eff.org (Stanton McCandlish)<br>
 Message Hash: 334bdf063bf3e44afdc3a43aa9c2e335ab2b61e3db6ae8aa6cd3f63c3b0fb1fa<br>
 Message ID: \<199311171840.AA15151@panix.com\><br>
@@ -74,6 +74,12 @@ that market forces can produce the results we need. (Cable passes over
 ## Thread
 
 + Return to [November 1993](/archive/1993/11)
+
++ Return to "[habs<span>@</span>panix.com (Harry S. Hawk)](/author/habs_at_panix_com_harry_s_hawk_)"
++ Return to "[Harry Shapiro <habs<span>@</span>panix.com>](/author/harry_shapiro_habs_at_panix_com_)"
++ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/author/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
++ Return to "[sblair<span>@</span>upurbmw.us.dell.com (steve)](/author/sblair_at_upurbmw_us_dell_com_steve_)"
++ Return to "[Stanton McCandlish <mech<span>@</span>eff.org>](/author/stanton_mccandlish_mech_at_eff_org_)"
 
 + 1993-11-15 (Mon, 15 Nov 93 02:45:22 PST) - [Re: Should we oppose the Data Superhighway/NII?](/archive/1993/11/1a2dabfbb6e0d29a292a734e12a677634506e92f59d97e917202c53ed89f01d4) - _habs@panix.com (Harry S. Hawk)_
   + 1993-11-17 (Tue, 16 Nov 93 16:00:56 PST) - [Re: Should we oppose the Data Superhighway/NII?](/archive/1993/11/4296616f5d0378fe79e04b2aee758418c4c0d80a9430115b88139d832d840778) - _Matthew J Ghio \<mg5n+@andrew.cmu.edu\>_

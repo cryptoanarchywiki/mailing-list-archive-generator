@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: berkley_at_ixl_net
+post_count: 1
 ---
 
-# berkley@ixl.net (1 posts)
+# berkley<span>@</span>ixl.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

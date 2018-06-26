@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rich Burroughs \<richieb@teleport.com\><br>
+From: Rich Burroughs \<richieb<span>@</span>teleport.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: aa4b4b467f201cb5adafa3672cc527fba73d29a6dcae1fbefa6e24ff7a34dcb0<br>
 Message ID: \<2.2.32.19960520184232.0076cc40@mail.teleport.com\><br>
@@ -77,6 +77,8 @@ New EF zine "cause for alarm" - http://www.teleport.com/~richieb/cause
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[Rich Burroughs <richieb<span>@</span>teleport.com>](/author/rich_burroughs_richieb_at_teleport_com_)"
 
 + 1996-05-21 (Tue, 21 May 1996 15:09:37 +0800) - Re: SEVERE undercapacity, we need more remailer servers FAST - _Rich Burroughs \<richieb@teleport.com\>_
 

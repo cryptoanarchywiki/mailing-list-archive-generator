@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fbm_at_jolt_mpx_com_au_farrell_mckay_
+post_count: 1
 ---
 
-# fbm@jolt.mpx.com.au (Farrell McKay) (1 posts)
+# fbm<span>@</span>jolt.mpx.com.au (Farrell McKay) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: "Phillip M. Hallam-Baker" \<hallam@ai.mit.edu\><br>
 Message Hash: dd4cda73f8834f0f3cafdb7fa8c32c38d8e6bbe06d60cc38fdffd2a7fe006467<br>
 Message ID: \<199611140552.VAA09808@mail.pacifier.com\><br>
@@ -125,6 +125,9 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[hallam<span>@</span>vesuvius.ai.mit.edu](/author/hallam_at_vesuvius_ai_mit_edu)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-11-14 (Wed, 13 Nov 1996 21:52:55 -0800 (PST)) - Re: A Disservice to Mr. Bell - _jim bell \<jimbell@pacifier.com\>_
   + 1996-11-14 (Thu, 14 Nov 1996 09:09:29 -0800 (PST)) - [Re: A Disservice to Mr. Bell](/archive/1996/11/327904101c52e147e22f3af90b2e7b4a88861c383e840051ddd1929614175e44) - _hallam@vesuvius.ai.mit.edu_

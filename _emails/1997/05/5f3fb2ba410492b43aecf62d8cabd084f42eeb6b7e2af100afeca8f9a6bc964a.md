@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Horton \<jehorton@erols.com\><br>
+From: John Horton \<jehorton<span>@</span>erols.com\><br>
 To: Declan McCullagh \<declan@well.com\><br>
 Message Hash: 5f3fb2ba410492b43aecf62d8cabd084f42eeb6b7e2af100afeca8f9a6bc964a<br>
 Message ID: \<336A017A.7541@erols.com\><br>
@@ -86,6 +86,9 @@ hand.
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
++ Return to "[John Horton <jehorton<span>@</span>erols.com>](/author/john_horton_jehorton_at_erols_com_)"
 
 + 1997-05-02 (Fri, 2 May 1997 21:08:53 +0800) - [unSAFE](/archive/1997/05/b75b3ee0dd2999c18981ee9e1f9ed405b6f55b39de306d65b8bb27b98fbe55bc) - _Declan McCullagh \<declan@well.com\>_
   + 1997-05-02 (Fri, 2 May 1997 22:47:36 +0800) - Re: unSAFE - _John Horton \<jehorton@erols.com\>_

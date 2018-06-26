@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_honeyman_honey_at_putinbay_citi_umich_edu_
+post_count: 1
 ---
 
-# peter honeyman <honey@put-in-bay.citi.umich.edu> (1 posts)
+# peter honeyman <honey<span>@</span>put-in-bay.citi.umich.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

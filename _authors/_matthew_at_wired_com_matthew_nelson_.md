@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _matthew_at_wired_com_matthew_nelson_
+post_count: 1
 ---
 
-# <matthew@wired.com> (Matthew Nelson) (1 posts)
+# <matthew<span>@</span>wired.com> (Matthew Nelson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

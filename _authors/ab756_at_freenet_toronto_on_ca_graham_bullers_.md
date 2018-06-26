@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ab756_at_freenet_toronto_on_ca_graham_bullers_
+post_count: 1
 ---
 
-# ab756@freenet.toronto.on.ca (Graham Bullers) (1 posts)
+# ab756<span>@</span>freenet.toronto.on.ca (Graham Bullers) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

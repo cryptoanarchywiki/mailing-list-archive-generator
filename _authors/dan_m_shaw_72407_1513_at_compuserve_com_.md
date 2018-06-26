@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_m_shaw_72407_1513_at_compuserve_com_
+post_count: 1
 ---
 
-# "Dan M. Shaw" <72407.1513@CompuServe.COM> (1 posts)
+# "Dan M. Shaw" <72407.1513<span>@</span>CompuServe.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

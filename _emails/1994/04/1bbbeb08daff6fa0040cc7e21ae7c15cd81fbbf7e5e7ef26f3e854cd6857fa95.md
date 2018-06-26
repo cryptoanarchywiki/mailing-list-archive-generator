@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: anonymous@extropia.wimsey.com<br>
+From: anonymous<span>@</span>extropia.wimsey.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1bbbeb08daff6fa0040cc7e21ae7c15cd81fbbf7e5e7ef26f3e854cd6857fa95<br>
 Message ID: \<199404112240.AA05488@xtropia\><br>
@@ -69,6 +69,8 @@ XXX
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[anonymous<span>@</span>extropia.wimsey.com](/author/anonymous_at_extropia_wimsey_com)"
 
 + 1994-04-11 (Mon, 11 Apr 94 15:52:00 PDT) - RE: Code review is requested - _anonymous@extropia.wimsey.com_
 

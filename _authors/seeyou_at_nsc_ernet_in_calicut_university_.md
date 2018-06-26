@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: seeyou_at_nsc_ernet_in_calicut_university_
+post_count: 1
 ---
 
-# seeyou@nsc.ernet.in (Calicut University) (1 posts)
+# seeyou<span>@</span>nsc.ernet.in (Calicut University) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

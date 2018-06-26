@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_morris_jmorris_at_intercode_com_au_
+post_count: 4
 ---
 
-# James Morris <jmorris@intercode.com.au> (4 posts)
+# James Morris <jmorris<span>@</span>intercode.com.au> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

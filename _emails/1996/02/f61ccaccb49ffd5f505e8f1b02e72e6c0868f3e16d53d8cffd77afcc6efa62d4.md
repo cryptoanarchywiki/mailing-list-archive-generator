@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f61ccaccb49ffd5f505e8f1b02e72e6c0868f3e16d53d8cffd77afcc6efa62d4<br>
 Message ID: \<199602141626.LAA29322@pipe4.nyc.pipeline.com\><br>
@@ -53,6 +53,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1996-02-15 (Thu, 15 Feb 1996 17:56:51 +0800) - MES_sag - _John Young \<jya@pipeline.com\>_
 

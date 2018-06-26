@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pstemari_at_fsp_fsp_com_paul_ste_marie_
+post_count: 8
 ---
 
-# pstemari@fsp.fsp.com (Paul Ste. Marie) (8 posts)
+# pstemari<span>@</span>fsp.fsp.com (Paul Ste. Marie) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bmorris_at_netcom_com_bob_morrisg_
+post_count: 20
 ---
 
-# bmorris@netcom.com (Bob MorrisG) (20 posts)
+# bmorris<span>@</span>netcom.com (Bob MorrisG) (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

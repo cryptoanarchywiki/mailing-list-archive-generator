@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fred_cooper_frc_at_bwh_
+post_count: 1
 ---
 
-# Fred Cooper <frc@bwh> (1 posts)
+# Fred Cooper <frc<span>@</span>bwh> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

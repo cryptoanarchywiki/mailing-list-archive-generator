@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: oasis179_oasis179_at_aol_com_
+post_count: 2
 ---
 
-# Oasis179 <Oasis179@aol.com> (2 posts)
+# Oasis179 <Oasis179<span>@</span>aol.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

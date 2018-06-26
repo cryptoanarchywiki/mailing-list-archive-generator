@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_burnes__denver_jim_burnes_at_ssds_com_
+post_count: 15
 ---
 
-# Jim Burnes - Denver <jim.burnes@ssds.com> (15 posts)
+# Jim Burnes - Denver <jim.burnes<span>@</span>ssds.com> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

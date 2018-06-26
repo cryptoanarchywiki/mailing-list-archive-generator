@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephan_mohr_stephan_mohr_at_unituebingen_de_
+post_count: 3
 ---
 
-# Stephan Mohr <stephan.mohr@uni-tuebingen.de> (3 posts)
+# Stephan Mohr <stephan.mohr<span>@</span>uni-tuebingen.de> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

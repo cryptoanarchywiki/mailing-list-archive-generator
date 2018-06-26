@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: broitman_at_koala_bu_edu_jeff_broitman_
+post_count: 1
 ---
 
-# broitman@koala.bu.edu (Jeff Broitman) (1 posts)
+# broitman<span>@</span>koala.bu.edu (Jeff Broitman) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

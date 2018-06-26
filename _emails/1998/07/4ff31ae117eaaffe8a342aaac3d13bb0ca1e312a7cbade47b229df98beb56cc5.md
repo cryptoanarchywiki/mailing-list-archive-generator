@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Marketing@departs.co.il (Marketing Dept.)<br>
+From: Marketing<span>@</span>departs.co.il (Marketing Dept.)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4ff31ae117eaaffe8a342aaac3d13bb0ca1e312a7cbade47b229df98beb56cc5<br>
 Message ID: \<19980720221402671.AAA450@www.departs.co.il@departs.co.il\><br>
@@ -113,6 +113,8 @@ V.P. Marketing
 ## Thread
 
 + Return to [July 1998](/archive/1998/07)
+
++ Return to "[Marketing<span>@</span>departs.co.il (Marketing Dept.)](/author/marketing_at_departs_co_il_marketing_dept_)"
 
 + 1998-07-21 (Mon, 20 Jul 1998 17:44:05 -0700 (PDT)) - De'Parts - The Parts locating highway... - _Marketing@departs.co.il (Marketing Dept.)_
 

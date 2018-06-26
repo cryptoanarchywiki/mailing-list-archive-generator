@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_johnson_ejohnson_at_pmip_dist_maricopa_edu_
+post_count: 12
 ---
 
-# Eric Johnson <ejohnson@pmip.dist.maricopa.edu> (12 posts)
+# Eric Johnson <ejohnson<span>@</span>pmip.dist.maricopa.edu> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

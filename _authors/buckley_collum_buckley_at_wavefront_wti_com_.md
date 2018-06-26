@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: buckley_collum_buckley_at_wavefront_wti_com_
+post_count: 2
 ---
 
-# "Buckley Collum" <buckley@wavefront.wti.com> (2 posts)
+# "Buckley Collum" <buckley<span>@</span>wavefront.wti.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

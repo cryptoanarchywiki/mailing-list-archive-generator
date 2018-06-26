@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adam Shostack \<adam@homeport.org\><br>
+From: Adam Shostack \<adam<span>@</span>homeport.org\><br>
 To: jk@stallion.ee (Jüri Kaljundi)<br>
 Message Hash: de404fdec9bfeb800fe4a60fc49887ccd9d5a16f1efb93e9e3fc34e18bc34f6e<br>
 Message ID: \<199608081150.GAA18566@homeport.org\><br>
@@ -73,6 +73,10 @@ Adam
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
++ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/author/anonymousremailer_at_shell_portal_com)"
++ Return to "[=?ISO-8859-1?Q?J=FCri_Kaljundi?= <jk<span>@</span>stallion.ee>](/author/iso88591qjfcri_kaljundi_jk_at_stallion_ee_)"
 
 + 1996-08-08 (Thu, 8 Aug 1996 08:56:31 +0800) - [F2 hash?](/archive/1996/08/a3177bc994bc17685376eb99eb21086dde3681e0e03bf5b40e98d84b379e3956) - _anonymous-remailer@shell.portal.com_
   + 1996-08-08 (Thu, 8 Aug 1996 09:36:08 +0800) - [Re: F2 hash?](/archive/1996/08/1ee8d0716331480193b310b7463f18b8e116ac98ccea96a6ea1676e9eb68334e) - _=?ISO-8859-1?Q?J=FCri_Kaljundi?= \<jk@stallion.ee\>_

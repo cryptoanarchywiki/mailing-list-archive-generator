@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: falcor_at_agora_rain_com_andy_burt_
+post_count: 2
 ---
 
-# falcor@agora.rain.com (Andy Burt) (2 posts)
+# falcor<span>@</span>agora.rain.com (Andy Burt) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

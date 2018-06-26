@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: isp_ratings_boursy_at_earthlink_net_
+post_count: 14
 ---
 
-# ISP_Ratings <boursy@earthlink.net> (14 posts)
+# ISP_Ratings <boursy<span>@</span>earthlink.net> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

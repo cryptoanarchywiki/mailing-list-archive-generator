@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cedric_ingrand_cedric_at_isicom_fr_
+post_count: 2
 ---
 
-# "Cedric Ingrand" <cedric@isicom.fr> (2 posts)
+# "Cedric Ingrand" <cedric<span>@</span>isicom.fr> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

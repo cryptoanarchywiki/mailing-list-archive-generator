@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sauron_who_did_you_expect_jholder_at_phobos_unm_edu_
+post_count: 1
 ---
 
-# Sauron ( Who did you expect? ) <jholder@phobos.unm.edu> (1 posts)
+# Sauron ( Who did you expect? ) <jholder<span>@</span>phobos.unm.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

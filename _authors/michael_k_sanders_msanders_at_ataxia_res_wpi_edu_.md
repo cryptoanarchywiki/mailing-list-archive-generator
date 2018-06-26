@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_k_sanders_msanders_at_ataxia_res_wpi_edu_
+post_count: 5
 ---
 
-# "Michael K. Sanders" <msanders@ataxia.res.wpi.edu> (5 posts)
+# "Michael K. Sanders" <msanders<span>@</span>ataxia.res.wpi.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

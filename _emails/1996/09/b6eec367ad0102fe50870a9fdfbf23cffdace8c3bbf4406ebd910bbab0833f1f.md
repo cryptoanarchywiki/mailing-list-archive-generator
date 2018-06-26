@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: b6eec367ad0102fe50870a9fdfbf23cffdace8c3bbf4406ebd910bbab0833f1f<br>
 Message ID: \<ey0guD109w165w@bwalk.dm.com\><br>
@@ -70,6 +70,11 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[attila <attila<span>@</span>primenet.com>](/author/attila_attila_at_primenet_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[nobody<span>@</span>replay.com (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1996-09-18 (Wed, 18 Sep 1996 15:38:56 +0800) - [A daily warning regarding Timothy C. May](/archive/1996/09/bc5987adeece2080b8fe8d4675851a6bd4cc79d47f515b2aaff09b76ec1f1b80) - _nobody@replay.com (Anonymous)_
   + 1996-09-18 (Thu, 19 Sep 1996 04:31:10 +0800) - [Re: A daily warning regarding Timothy C. May](/archive/1996/09/9170d5c1dd692e11e22f1642bc8884cdd2518007542da919e9297091d3efbe71) - _Sandy Sandfort \<sandfort@crl.com\>_

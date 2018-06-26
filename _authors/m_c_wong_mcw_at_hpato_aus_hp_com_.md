@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m_c_wong_mcw_at_hpato_aus_hp_com_
+post_count: 2
 ---
 
-# M C Wong <mcw@hpato.aus.hp.com> (2 posts)
+# M C Wong <mcw<span>@</span>hpato.aus.hp.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

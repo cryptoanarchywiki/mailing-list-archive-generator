@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: power__prosperity_powergal_at_polbox_com_
+post_count: 1
 ---
 
-# Power & Prosperity <powergal@polbox.com> (1 posts)
+# Power & Prosperity <powergal<span>@</span>polbox.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

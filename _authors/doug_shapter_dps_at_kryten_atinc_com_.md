@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_shapter_dps_at_kryten_atinc_com_
+post_count: 1
 ---
 
-# Doug Shapter <dps@kryten.Atinc.COM> (1 posts)
+# Doug Shapter <dps<span>@</span>kryten.Atinc.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

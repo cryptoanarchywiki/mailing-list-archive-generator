@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: van_houten_josh_at_mci_net_
+post_count: 1
 ---
 
-# VAN HOUTEN <josh@MCI.net> (1 posts)
+# VAN HOUTEN <josh<span>@</span>MCI.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

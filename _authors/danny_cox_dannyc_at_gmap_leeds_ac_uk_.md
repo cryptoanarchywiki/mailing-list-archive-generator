@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: danny_cox_dannyc_at_gmap_leeds_ac_uk_
+post_count: 1
 ---
 
-# Danny Cox <dannyc@gmap.leeds.ac.uk> (1 posts)
+# Danny Cox <dannyc<span>@</span>gmap.leeds.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

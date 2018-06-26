@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jon_l_pope_pope_at_auditnet_tamu_edu_
+post_count: 1
 ---
 
-# "Jon L. Pope" <pope@auditnet.tamu.edu> (1 posts)
+# "Jon L. Pope" <pope<span>@</span>auditnet.tamu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

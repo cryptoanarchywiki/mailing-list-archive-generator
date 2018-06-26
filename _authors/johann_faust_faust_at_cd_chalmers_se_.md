@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: johann_faust_faust_at_cd_chalmers_se_
+post_count: 1
 ---
 
-# Johann Faust <faust@cd.chalmers.se> (1 posts)
+# Johann Faust <faust<span>@</span>cd.chalmers.se> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

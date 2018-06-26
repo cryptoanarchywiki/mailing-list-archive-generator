@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ca6c4f5a65c12cefb70a4cfd5676cec80ce6d25eabdb81a7dbeb1d5dd32d8abb<br>
 Message ID: \<199712242046.VAA17716@basement.replay.com\><br>
@@ -97,6 +97,8 @@ BendOverI'mHereToHelpYouMonger
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1997-12-24 (Thu, 25 Dec 1997 04:54:05 +0800) - Cryptographers Do It With Protection - _nobody@REPLAY.COM (Anonymous)_
 

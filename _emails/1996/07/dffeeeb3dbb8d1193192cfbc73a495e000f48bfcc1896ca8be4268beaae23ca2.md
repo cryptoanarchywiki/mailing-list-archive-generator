@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Brad Shantz \<bshantz@nwlink.com\><br>
+From: Brad Shantz \<bshantz<span>@</span>nwlink.com\><br>
 To: tcmay@got.net<br>
 Message Hash: dffeeeb3dbb8d1193192cfbc73a495e000f48bfcc1896ca8be4268beaae23ca2<br>
 Message ID: \<199607261750.KAA15397@montana.nwlink.com\><br>
@@ -93,6 +93,8 @@ f/i7gB5dzRQ=
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Brad Shantz <bshantz<span>@</span>nwlink.com>](/author/brad_shantz_bshantz_at_nwlink_com_)"
 
 + 1996-07-26 (Sat, 27 Jul 1996 05:30:46 +0800) - Inflation and Housing - _Brad Shantz \<bshantz@nwlink.com\>_
 

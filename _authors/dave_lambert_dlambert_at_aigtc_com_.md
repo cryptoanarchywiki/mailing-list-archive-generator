@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_lambert_dlambert_at_aigtc_com_
+post_count: 1
 ---
 
-# Dave Lambert <dlambert@aigtc.com> (1 posts)
+# Dave Lambert <dlambert<span>@</span>aigtc.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

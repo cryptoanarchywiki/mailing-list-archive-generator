@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mj_at_creative_net
+post_count: 4
 ---
 
-# mj@creative.net (4 posts)
+# mj<span>@</span>creative.net (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

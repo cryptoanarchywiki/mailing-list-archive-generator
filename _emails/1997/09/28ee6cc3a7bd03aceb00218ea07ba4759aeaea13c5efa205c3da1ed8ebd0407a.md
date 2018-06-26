@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: TruthMonger \<tm@dev.null\><br>
+From: TruthMonger \<tm<span>@</span>dev.null\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 28ee6cc3a7bd03aceb00218ea07ba4759aeaea13c5efa205c3da1ed8ebd0407a<br>
 Message ID: \<3412120F.1C48@dev.null\><br>
@@ -46,6 +46,8 @@ http://www.nine.org/notw/notw.html
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[TruthMonger <tm<span>@</span>dev.null>](/author/truthmonger_tm_at_dev_null_)"
 
 + 1997-09-07 (Sun, 7 Sep 1997 10:43:47 +0800) - Texas CypherPunks Take Up Arms! - _TruthMonger \<tm@dev.null\>_
 

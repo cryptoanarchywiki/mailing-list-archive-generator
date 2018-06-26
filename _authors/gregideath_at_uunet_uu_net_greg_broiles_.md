@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gregideath_at_uunet_uu_net_greg_broiles_
+post_count: 1
 ---
 
-# greg%ideath@uunet.UU.NET (Greg Broiles) (1 posts)
+# greg%ideath<span>@</span>uunet.UU.NET (Greg Broiles) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

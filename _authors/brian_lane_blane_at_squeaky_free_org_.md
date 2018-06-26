@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_lane_blane_at_squeaky_free_org_
+post_count: 9
 ---
 
-# Brian Lane <blane@squeaky.free.org> (9 posts)
+# Brian Lane <blane<span>@</span>squeaky.free.org> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

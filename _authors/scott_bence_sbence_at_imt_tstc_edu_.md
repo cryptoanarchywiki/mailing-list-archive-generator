@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_bence_sbence_at_imt_tstc_edu_
+post_count: 2
 ---
 
-# "Scott Bence" <SBENCE@imt.tstc.edu> (2 posts)
+# "Scott Bence" <SBENCE<span>@</span>imt.tstc.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

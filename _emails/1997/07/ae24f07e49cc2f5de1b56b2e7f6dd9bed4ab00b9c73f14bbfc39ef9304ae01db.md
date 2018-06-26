@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@amaranth.com\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>amaranth.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ae24f07e49cc2f5de1b56b2e7f6dd9bed4ab00b9c73f14bbfc39ef9304ae01db<br>
 Message ID: \<199707032025.PAA30172@mailhub.amaranth.com\><br>
@@ -175,6 +175,8 @@ f3Xp+dve8wY=
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-07-03 (Fri, 4 Jul 1997 04:37:03 +0800) - Re: PGP security problems? - _"William H. Geiger III" \<whgiii@amaranth.com\>_
 

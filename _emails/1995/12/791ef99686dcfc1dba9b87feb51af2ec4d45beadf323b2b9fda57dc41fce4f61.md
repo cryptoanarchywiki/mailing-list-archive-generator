@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: sameer \<sameer@c2.org\><br>
+From: sameer \<sameer<span>@</span>c2.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 791ef99686dcfc1dba9b87feb51af2ec4d45beadf323b2b9fda57dc41fce4f61<br>
 Message ID: \<199512080630.WAA17998@infinity.c2.org\><br>
@@ -54,6 +54,9 @@ http://www.c2.org/ (or login as "guest")		sameer@c2.org
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[hallam<span>@</span>w3.org](/author/hallam_at_w3_org)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
 
 + 1995-12-08 (Thu, 7 Dec 95 22:34:57 PST) - the X.9 Electronic Payments ANSI standard - _sameer \<sameer@c2.org\>_
   + 1995-12-08 (Fri, 8 Dec 95 08:02:45 PST) - [Re: the X.9 Electronic Payments ANSI standard](/archive/1995/12/97734d1ec2e5aee8a12b14fc14345baf3f63dcc5e556acf60aed7192f0997b82) - _hallam@w3.org_

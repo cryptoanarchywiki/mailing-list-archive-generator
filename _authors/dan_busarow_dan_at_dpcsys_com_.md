@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_busarow_dan_at_dpcsys_com_
+post_count: 7
 ---
 
-# Dan Busarow <dan@dpcsys.com> (7 posts)
+# Dan Busarow <dan<span>@</span>dpcsys.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: winsock_remailer_winsock_at_rigel_cyberpass_net_
+post_count: 6
 ---
 
-# WinSock Remailer <winsock@rigel.cyberpass.net> (6 posts)
+# WinSock Remailer <winsock<span>@</span>rigel.cyberpass.net> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

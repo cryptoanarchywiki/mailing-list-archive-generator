@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: p_ruhnau_at_jinxed_dinoco_de
+post_count: 1
 ---
 
-# p.ruhnau@jinxed.dinoco.de (1 posts)
+# p.ruhnau<span>@</span>jinxed.dinoco.de (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

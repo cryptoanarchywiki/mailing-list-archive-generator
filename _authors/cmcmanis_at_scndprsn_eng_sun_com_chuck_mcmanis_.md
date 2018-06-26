@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cmcmanis_at_scndprsn_eng_sun_com_chuck_mcmanis_
+post_count: 4
 ---
 
-# cmcmanis@scndprsn.Eng.Sun.COM (Chuck McManis) (4 posts)
+# cmcmanis<span>@</span>scndprsn.Eng.Sun.COM (Chuck McManis) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

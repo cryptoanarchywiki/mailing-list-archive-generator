@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_h_geiger_iii_whgiii_at_gulf_net_
+post_count: 1
 ---
 
-# "William H. Geiger III" <whgiii@gulf.net> (1 posts)
+# "William H. Geiger III" <whgiii<span>@</span>gulf.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

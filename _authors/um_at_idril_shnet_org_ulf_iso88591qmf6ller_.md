@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: um_at_idril_shnet_org_ulf_iso88591qmf6ller_
+post_count: 1
 ---
 
-# um@idril.shnet.org (Ulf =?ISO-8859-1?Q?M=F6ller?=) (1 posts)
+# um<span>@</span>idril.shnet.org (Ulf =?ISO-8859-1?Q?M=F6ller?=) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_vox_xs4all_nl_an0nym0us_user_
+post_count: 3
 ---
 
-# nobody@vox.xs4all.nl (An0nYm0Us UsEr) (3 posts)
+# nobody<span>@</span>vox.xs4all.nl (An0nYm0Us UsEr) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

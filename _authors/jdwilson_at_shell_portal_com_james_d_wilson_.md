@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jdwilson_at_shell_portal_com_james_d_wilson_
+post_count: 1
 ---
 
-# jdwilson@shell.portal.com (James D Wilson) (1 posts)
+# jdwilson<span>@</span>shell.portal.com (James D Wilson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

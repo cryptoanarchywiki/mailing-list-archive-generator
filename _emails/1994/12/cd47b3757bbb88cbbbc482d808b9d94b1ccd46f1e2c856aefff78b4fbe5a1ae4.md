@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Gary Jeffers" \<CCGARY@MIZZOU1.missouri.edu\><br>
+From: "Gary Jeffers" \<CCGARY<span>@</span>MIZZOU1.missouri.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: cd47b3757bbb88cbbbc482d808b9d94b1ccd46f1e2c856aefff78b4fbe5a1ae4<br>
 Message ID: \<9412152228.AA22773@toad.com\><br>
@@ -79,6 +79,8 @@ FwM40K8w3M4=
 ## Thread
 
 + Return to [December 1994](/archive/1994/12)
+
++ Return to "["Gary Jeffers" <CCGARY<span>@</span>MIZZOU1.missouri.edu>](/author/gary_jeffers_ccgary_at_mizzou1_missouri_edu_)"
 
 + 1994-12-15 (Thu, 15 Dec 94 14:28:25 PST) - rng & program docs. programs - _"Gary Jeffers" \<CCGARY@MIZZOU1.missouri.edu\>_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: roy@sendai.cybrspc.mn.org (Roy M. Silvernail)<br>
+From: roy<span>@</span>sendai.cybrspc.mn.org (Roy M. Silvernail)<br>
 To: weld@l0pht.com (Weld Pond)<br>
 Message Hash: 2e9c7e44e7dcccc809cc3c63b8d3ea7ef4d282fc2708dadc3f58d9046fadb3fa<br>
 Message ID: \<960123.192211.0u1.rnr.w165w@sendai.cybrspc.mn.org\><br>
@@ -75,6 +75,10 @@ s0c6lniwpUs=
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[roy<span>@</span>sendai.cybrspc.mn.org (Roy M. Silvernail)](/author/roy_at_sendai_cybrspc_mn_org_roy_m_silvernail_)"
++ Return to "[Weld Pond <weld<span>@</span>l0pht.com>](/author/weld_pond_weld_at_l0pht_com_)"
 
 + 1996-01-23 (Wed, 24 Jan 1996 05:32:30 +0800) - [re: [local] Report on Portland Cpunks meeting](/archive/1996/01/788362e37dcad62aff0110e536873fb92de9f75c3ea187c99d15d489ab636d57) - _Weld Pond \<weld@l0pht.com\>_
   + 1996-01-23 (Wed, 24 Jan 1996 07:59:26 +0800) - [Re: [local] Report on Portland Cpunks meeting](/archive/1996/01/c1770801449ddab9334755dccb9f9a3f6ddddb5d590419c869557aca70814834) - _"Perry E. Metzger" \<perry@piermont.com\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_j_axelrod_mxa2677_at_usl_edu_
+post_count: 1
 ---
 
-# "Michael J. Axelrod" <mxa2677@usl.edu> (1 posts)
+# "Michael J. Axelrod" <mxa2677<span>@</span>usl.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

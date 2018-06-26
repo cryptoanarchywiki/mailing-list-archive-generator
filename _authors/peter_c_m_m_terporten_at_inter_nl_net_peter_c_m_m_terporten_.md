@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_c_m_m_terporten_at_inter_nl_net_peter_c_m_m_terporten_
+post_count: 1
 ---
 
-# Peter.C.M.M.Terporten@Inter.NL.net (Peter C.M.M. Terporten) (1 posts)
+# Peter.C.M.M.Terporten<span>@</span>Inter.NL.net (Peter C.M.M. Terporten) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

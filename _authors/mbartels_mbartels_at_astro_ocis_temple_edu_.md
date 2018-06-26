@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mbartels_mbartels_at_astro_ocis_temple_edu_
+post_count: 1
 ---
 
-# mbartels <mbartels@astro.ocis.temple.edu> (1 posts)
+# mbartels <mbartels<span>@</span>astro.ocis.temple.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

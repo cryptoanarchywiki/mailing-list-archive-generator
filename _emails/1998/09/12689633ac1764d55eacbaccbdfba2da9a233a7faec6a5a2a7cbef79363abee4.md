@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jkthomson \<jkthomson@bigfoot.com\><br>
+From: jkthomson \<jkthomson<span>@</span>bigfoot.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 12689633ac1764d55eacbaccbdfba2da9a233a7faec6a5a2a7cbef79363abee4<br>
 Message ID: \<3.0.3.32.19980905011845.006bb77c@dowco.com\><br>
@@ -101,6 +101,8 @@ claim that Jesus was not born of a virgin."
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[jkthomson <jkthomson<span>@</span>bigfoot.com>](/author/jkthomson_jkthomson_at_bigfoot_com_)"
 
 + 1998-09-05 (Sat, 5 Sep 1998 01:18:28 -0700 (PDT)) - (another) reason we need anon servers. - _jkthomson \<jkthomson@bigfoot.com\>_
 

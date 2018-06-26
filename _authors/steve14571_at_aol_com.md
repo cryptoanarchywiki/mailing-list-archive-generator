@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve14571_at_aol_com
+post_count: 5
 ---
 
-# Steve14571@aol.com (5 posts)
+# Steve14571<span>@</span>aol.com (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

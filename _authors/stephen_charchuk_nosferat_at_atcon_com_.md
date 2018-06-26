@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephen_charchuk_nosferat_at_atcon_com_
+post_count: 1
 ---
 
-# Stephen Charchuk <nosferat@atcon.com> (1 posts)
+# Stephen Charchuk <nosferat<span>@</span>atcon.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

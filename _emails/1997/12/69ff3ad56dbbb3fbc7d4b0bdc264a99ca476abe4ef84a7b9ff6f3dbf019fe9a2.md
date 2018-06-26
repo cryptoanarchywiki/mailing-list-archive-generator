@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "LiveUpdate News" \<update@liveupdate.com\><br>
+From: "LiveUpdate News" \<update<span>@</span>liveupdate.com\><br>
 To: \<cypherpunks@toad.com\><br>
 Message Hash: 69ff3ad56dbbb3fbc7d4b0bdc264a99ca476abe4ef84a7b9ff6f3dbf019fe9a2<br>
 Message ID: \<199712190010.QAA00634@toad.com\><br>
@@ -77,6 +77,8 @@ Your friends at LiveUpdate
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "["LiveUpdate News" <update<span>@</span>liveupdate.com>](/author/liveupdate_news_update_at_liveupdate_com_)"
 
 + 1997-12-19 (Fri, 19 Dec 1997 08:24:28 +0800) - Crescendo News - Version 3.0 now available - _"LiveUpdate News" \<update@liveupdate.com\>_
 

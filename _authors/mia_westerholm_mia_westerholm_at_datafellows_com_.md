@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mia_westerholm_mia_westerholm_at_datafellows_com_
+post_count: 7
 ---
 
-# Mia Westerholm <Mia.Westerholm@DataFellows.com> (7 posts)
+# Mia Westerholm <Mia.Westerholm<span>@</span>DataFellows.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

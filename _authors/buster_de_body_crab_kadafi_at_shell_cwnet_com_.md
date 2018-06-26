@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: buster_de_body_crab_kadafi_at_shell_cwnet_com_
+post_count: 1
 ---
 
-# Buster de body crab <kadafi@shell.cwnet.com> (1 posts)
+# Buster de body crab <kadafi<span>@</span>shell.cwnet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

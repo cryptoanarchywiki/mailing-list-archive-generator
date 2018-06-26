@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: support_at_golive_com
+post_count: 2
 ---
 
-# support@golive.com (2 posts)
+# support<span>@</span>golive.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

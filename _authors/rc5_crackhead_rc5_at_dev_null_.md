@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rc5_crackhead_rc5_at_dev_null_
+post_count: 1
 ---
 
-# "\"RC5 Crackhead\"" <rc5@dev.null> (1 posts)
+# "\"RC5 Crackhead\"" <rc5<span>@</span>dev.null> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

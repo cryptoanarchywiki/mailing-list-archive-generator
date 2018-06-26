@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: certit_at_dsi_unimi_it
+post_count: 1
 ---
 
-# cert-it@dsi.unimi.it (1 posts)
+# cert-it<span>@</span>dsi.unimi.it (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stone_monkey_sm_at_nym_alias_net_
+post_count: 1
 ---
 
-# Stone Monkey <sm@nym.alias.net> (1 posts)
+# Stone Monkey <sm<span>@</span>nym.alias.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

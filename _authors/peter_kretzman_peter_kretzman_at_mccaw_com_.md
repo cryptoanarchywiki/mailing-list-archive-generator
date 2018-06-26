@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_kretzman_peter_kretzman_at_mccaw_com_
+post_count: 1
 ---
 
-# Peter Kretzman <peter.kretzman@mccaw.com> (1 posts)
+# Peter Kretzman <peter.kretzman<span>@</span>mccaw.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

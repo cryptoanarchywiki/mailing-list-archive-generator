@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chad_owen_yoshikawa_chad_at_cs_berkeley_edu_
+post_count: 1
 ---
 
-# Chad Owen Yoshikawa <chad@CS.Berkeley.EDU> (1 posts)
+# Chad Owen Yoshikawa <chad<span>@</span>CS.Berkeley.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

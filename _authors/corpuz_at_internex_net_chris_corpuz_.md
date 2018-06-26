@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: corpuz_at_internex_net_chris_corpuz_
+post_count: 2
 ---
 
-# corpuz@internex.net (Chris Corpuz) (2 posts)
+# corpuz<span>@</span>internex.net (Chris Corpuz) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

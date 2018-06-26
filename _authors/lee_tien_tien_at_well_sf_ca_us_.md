@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lee_tien_tien_at_well_sf_ca_us_
+post_count: 5
 ---
 
-# Lee Tien <tien@well.sf.ca.us> (5 posts)
+# Lee Tien <tien<span>@</span>well.sf.ca.us> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

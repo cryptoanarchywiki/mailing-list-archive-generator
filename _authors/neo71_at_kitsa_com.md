@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: neo71_at_kitsa_com
+post_count: 1
 ---
 
-# neo71@kitsa.com (1 posts)
+# neo71<span>@</span>kitsa.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

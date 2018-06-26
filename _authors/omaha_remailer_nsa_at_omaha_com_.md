@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: omaha_remailer_nsa_at_omaha_com_
+post_count: 1
 ---
 
-# Omaha Remailer <nsa@omaha.com> (1 posts)
+# Omaha Remailer <nsa<span>@</span>omaha.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

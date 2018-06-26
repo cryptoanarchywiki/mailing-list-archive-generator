@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_grantham_grantham_at_ucsu_colorado_edu_
+post_count: 1
 ---
 
-# Jeff Grantham <grantham@ucsu.Colorado.EDU> (1 posts)
+# Jeff Grantham <grantham<span>@</span>ucsu.Colorado.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

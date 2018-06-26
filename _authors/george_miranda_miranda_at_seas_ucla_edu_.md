@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: george_miranda_miranda_at_seas_ucla_edu_
+post_count: 1
 ---
 
-# George Miranda <miranda@seas.ucla.edu> (1 posts)
+# George Miranda <miranda<span>@</span>seas.ucla.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

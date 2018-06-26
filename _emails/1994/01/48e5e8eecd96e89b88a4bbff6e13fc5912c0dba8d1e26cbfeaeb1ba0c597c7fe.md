@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Mark W. Eichin" \<eichin@paycheck.cygnus.com\><br>
+From: "Mark W. Eichin" \<eichin<span>@</span>paycheck.cygnus.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 48e5e8eecd96e89b88a4bbff6e13fc5912c0dba8d1e26cbfeaeb1ba0c597c7fe<br>
 Message ID: \<9401271557.AA08940@paycheck.cygnus.com\><br>
@@ -61,6 +61,9 @@ run this way :-)
 ## Thread
 
 + Return to [January 1994](/archive/1994/01)
+
++ Return to "[Eli Brandt <ebrandt<span>@</span>jarthur.Claremont.EDU>](/author/eli_brandt_ebrandt_at_jarthur_claremont_edu_)"
++ Return to "["Mark W. Eichin" <eichin<span>@</span>paycheck.cygnus.com>](/author/mark_w_eichin_eichin_at_paycheck_cygnus_com_)"
 
 + 1994-01-27 (Thu, 27 Jan 94 09:02:12 PST) - remailer multiple paths? - _"Mark W. Eichin" \<eichin@paycheck.cygnus.com\>_
   + 1994-01-27 (Thu, 27 Jan 94 12:37:42 PST) - [Re: remailer multiple paths?](/archive/1994/01/41acc51b0676c714f7032d59f67ed9107933bf201504806fd3c5b4c0549c7dae) - _Eli Brandt \<ebrandt@jarthur.Claremont.EDU\>_

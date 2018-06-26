@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: random_walk_pfinerty_at_seattleu_edu_
+post_count: 3
 ---
 
-# random walk <pfinerty@seattleu.edu> (3 posts)
+# random walk <pfinerty<span>@</span>seattleu.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

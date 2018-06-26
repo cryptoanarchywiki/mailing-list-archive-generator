@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hhendler_at_tonline_de_horst_hendler_
+post_count: 1
 ---
 
-# HHendler@t-online.de (Horst Hendler) (1 posts)
+# HHendler<span>@</span>t-online.de (Horst Hendler) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

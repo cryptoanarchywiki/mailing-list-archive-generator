@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: born_loser_remailer_blr_at_dev_null_
+post_count: 1
 ---
 
-# Born Loser Remailer <blr@dev.null> (1 posts)
+# Born Loser Remailer <blr<span>@</span>dev.null> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

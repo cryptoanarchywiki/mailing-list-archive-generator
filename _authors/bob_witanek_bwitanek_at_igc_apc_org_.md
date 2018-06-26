@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bob_witanek_bwitanek_at_igc_apc_org_
+post_count: 2
 ---
 
-# Bob Witanek <bwitanek@igc.apc.org> (2 posts)
+# Bob Witanek <bwitanek<span>@</span>igc.apc.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

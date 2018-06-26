@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: montgomery_lynn_lmontgomery_at_jii_com_
+post_count: 1
 ---
 
-# "Montgomery, Lynn" <lmontgomery@jii.com> (1 posts)
+# "Montgomery, Lynn" <lmontgomery<span>@</span>jii.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

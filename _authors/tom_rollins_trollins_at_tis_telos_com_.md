@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_rollins_trollins_at_tis_telos_com_
+post_count: 1
 ---
 
-# Tom Rollins <trollins@tis.telos.com> (1 posts)
+# Tom Rollins <trollins<span>@</span>tis.telos.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

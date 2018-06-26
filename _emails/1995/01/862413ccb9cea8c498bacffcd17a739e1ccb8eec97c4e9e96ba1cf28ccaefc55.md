@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jalicqui@prairienet.org (Jeff Licquia)<br>
+From: jalicqui<span>@</span>prairienet.org (Jeff Licquia)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 862413ccb9cea8c498bacffcd17a739e1ccb8eec97c4e9e96ba1cf28ccaefc55<br>
 Message ID: \<9501181942.AA27518@firefly.prairienet.org\><br>
@@ -67,6 +67,8 @@ defer to ignorance at this point.
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[jalicqui<span>@</span>prairienet.org (Jeff Licquia)](/author/jalicqui_at_prairienet_org_jeff_licquia_)"
 
 + 1995-01-18 (Wed, 18 Jan 95 11:42:18 PST) - Re: EE Times on PRZ - _jalicqui@prairienet.org (Jeff Licquia)_
 

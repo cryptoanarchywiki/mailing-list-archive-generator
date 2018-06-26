@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: swc_at_uc1_ucsu_edu_stuart_w_card_
+post_count: 18
 ---
 
-# swc@uc1.ucsu.edu (Stuart W. Card) (18 posts)
+# swc<span>@</span>uc1.ucsu.edu (Stuart W. Card) (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

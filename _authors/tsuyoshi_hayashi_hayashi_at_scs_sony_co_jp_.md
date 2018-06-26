@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tsuyoshi_hayashi_hayashi_at_scs_sony_co_jp_
+post_count: 4
 ---
 
-# Tsuyoshi Hayashi <hayashi@scs.sony.co.jp> (4 posts)
+# Tsuyoshi Hayashi <hayashi<span>@</span>scs.sony.co.jp> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

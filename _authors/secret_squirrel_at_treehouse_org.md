@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: secret_squirrel_at_treehouse_org
+post_count: 1
 ---
 
-# Secret_Squirrel@Treehouse.ORG (1 posts)
+# Secret_Squirrel<span>@</span>Treehouse.ORG (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

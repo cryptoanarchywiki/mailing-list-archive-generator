@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: donald_e_eastlake_3rd_dee_at_cybercash_com_
+post_count: 13
 ---
 
-# "Donald E. Eastlake 3rd" <dee@cybercash.com> (13 posts)
+# "Donald E. Eastlake 3rd" <dee<span>@</span>cybercash.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

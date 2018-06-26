@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tyrone_w_grandison_tgrandsn_at_uwimona_edu_jm_
+post_count: 2
 ---
 
-# "Tyrone W. Grandison" <tgrandsn@uwimona.edu.jm> (2 posts)
+# "Tyrone W. Grandison" <tgrandsn<span>@</span>uwimona.edu.jm> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

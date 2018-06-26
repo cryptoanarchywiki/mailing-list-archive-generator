@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: apteryx_at_super_zippo_com_mark_heaney_
+post_count: 5
 ---
 
-# apteryx@super.zippo.com (Mark Heaney) (5 posts)
+# apteryx<span>@</span>super.zippo.com (Mark Heaney) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

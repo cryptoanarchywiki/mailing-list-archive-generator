@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ciro_maria_cmaria_at_stevenstech_edu_
+post_count: 4
 ---
 
-# Ciro Maria <cmaria@stevens-tech.edu> (4 posts)
+# Ciro Maria <cmaria<span>@</span>stevens-tech.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

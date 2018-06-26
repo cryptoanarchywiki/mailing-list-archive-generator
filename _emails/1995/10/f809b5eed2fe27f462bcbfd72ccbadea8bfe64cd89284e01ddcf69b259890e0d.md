@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rich Salz \<rsalz@osf.org\><br>
+From: Rich Salz \<rsalz<span>@</span>osf.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f809b5eed2fe27f462bcbfd72ccbadea8bfe64cd89284e01ddcf69b259890e0d<br>
 Message ID: \<9510010533.AA06669@sulphur.osf.org\><br>
@@ -50,6 +50,8 @@ The segment was about 10 minutes.
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/author/rich_salz_rsalz_at_osf_org_)"
 
 + 1995-10-01 (Sat, 30 Sep 95 22:34:11 PDT) - T-shirt on French TV - _Rich Salz \<rsalz@osf.org\>_
 

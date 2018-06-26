@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tony_at_morgan_demon_co_uk_tony_kidson_
+post_count: 9
 ---
 
-# tony@morgan.demon.co.uk (Tony Kidson) (9 posts)
+# tony<span>@</span>morgan.demon.co.uk (Tony Kidson) (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

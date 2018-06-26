@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: westcan1_at_softnc1_softnc_com_west_canadian_graphics_
+post_count: 1
 ---
 
-# Westcan1@softnc1.softnc.com (West Canadian Graphics) (1 posts)
+# Westcan1<span>@</span>softnc1.softnc.com (West Canadian Graphics) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

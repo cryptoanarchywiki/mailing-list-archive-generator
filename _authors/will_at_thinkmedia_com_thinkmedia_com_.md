@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: will_at_thinkmedia_com_thinkmedia_com_
+post_count: 4
 ---
 
-# will@thinkmedia.com (thinkmedia.com) (4 posts)
+# will<span>@</span>thinkmedia.com (thinkmedia.com) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

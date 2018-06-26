@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Olsen \<alano@teleport.com\><br>
+From: Alan Olsen \<alano<span>@</span>teleport.com\><br>
 To: Rich Graves \<cypherpunks@toad.com<br>
 Message Hash: 5e962f10aa58ffedc8af7e2e8bc9fccabf53e868399aa9adacc866f1fc3e8ff3<br>
 Message ID: \<2.2.32.19960127225107.009173b4@mail.teleport.com\><br>
@@ -85,6 +85,8 @@ Alan Olsen -- alano@teleport.com -- Contract Web Design & Instruction
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/author/alan_olsen_alano_at_teleport_com_)"
 
 + 1996-01-27 (Sun, 28 Jan 1996 06:57:14 +0800) - Re: Denning's misleading statements - _Alan Olsen \<alano@teleport.com\>_
 

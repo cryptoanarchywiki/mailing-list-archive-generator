@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: a_player_to_be_named_later_aptbnl_at_dev_null_
+post_count: 10
 ---
 
-# A Player To Be Named Later <aptbnl@dev.null> (10 posts)
+# A Player To Be Named Later <aptbnl<span>@</span>dev.null> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

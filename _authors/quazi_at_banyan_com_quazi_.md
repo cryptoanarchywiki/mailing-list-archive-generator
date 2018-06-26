@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: quazi_at_banyan_com_quazi_
+post_count: 1
 ---
 
-# quazi@banyan.com (Quazi) (1 posts)
+# quazi<span>@</span>banyan.com (Quazi) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

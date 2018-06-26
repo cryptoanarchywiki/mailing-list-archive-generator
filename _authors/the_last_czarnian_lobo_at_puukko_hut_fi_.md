@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_last_czarnian_lobo_at_puukko_hut_fi_
+post_count: 1
 ---
 
-# The last Czarnian <lobo@puukko.hut.fi> (1 posts)
+# The last Czarnian <lobo<span>@</span>puukko.hut.fi> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

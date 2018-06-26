@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anne_eisenberg_aeisenb_at_duke_poly_edu_
+post_count: 2
 ---
 
-# Anne Eisenberg <aeisenb@duke.poly.edu> (2 posts)
+# Anne Eisenberg <aeisenb<span>@</span>duke.poly.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

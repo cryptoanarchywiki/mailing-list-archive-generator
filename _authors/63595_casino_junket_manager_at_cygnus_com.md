@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 63595_casino_junket_manager_at_cygnus_com
+post_count: 1
 ---
 
-# 63595.Casino.Junket.Manager@cygnus.com (1 posts)
+# 63595.Casino.Junket.Manager<span>@</span>cygnus.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

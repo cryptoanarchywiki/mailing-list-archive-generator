@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joshua_e_hill_jehill_at_gauss_elee_calpoly_edu_
+post_count: 2
 ---
 
-# "Joshua E. Hill" <jehill@gauss.elee.calpoly.edu> (2 posts)
+# "Joshua E. Hill" <jehill<span>@</span>gauss.elee.calpoly.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

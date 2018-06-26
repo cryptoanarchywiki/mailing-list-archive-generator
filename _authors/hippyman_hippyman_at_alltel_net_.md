@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hippyman_hippyman_at_alltel_net_
+post_count: 4
 ---
 
-# hippyman <hippyman@alltel.net> (4 posts)
+# hippyman <hippyman<span>@</span>alltel.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

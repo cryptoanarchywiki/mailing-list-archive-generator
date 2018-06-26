@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: reagle_at_rpcp_mit_edu_joseph_m_reagle_jr_
+post_count: 9
 ---
 
-# reagle@rpcp.mit.edu (Joseph M. Reagle Jr.) (9 posts)
+# reagle<span>@</span>rpcp.mit.edu (Joseph M. Reagle Jr.) (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

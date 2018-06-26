@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ritter_at_indial1_io_com_terry_ritter_
+post_count: 1
 ---
 
-# ritter@indial1.io.com (Terry Ritter) (1 posts)
+# ritter<span>@</span>indial1.io.com (Terry Ritter) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

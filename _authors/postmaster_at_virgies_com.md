@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: postmaster_at_virgies_com
+post_count: 1
 ---
 
-# postmaster@virgies.com (1 posts)
+# postmaster<span>@</span>virgies.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

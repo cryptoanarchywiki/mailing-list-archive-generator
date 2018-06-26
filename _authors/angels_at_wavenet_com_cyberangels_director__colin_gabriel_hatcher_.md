@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: angels_at_wavenet_com_cyberangels_director__colin_gabriel_hatcher_
+post_count: 7
 ---
 
-# angels@wavenet.com (CyberAngels Director : Colin Gabriel Hatcher) (7 posts)
+# angels<span>@</span>wavenet.com (CyberAngels Director : Colin Gabriel Hatcher) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

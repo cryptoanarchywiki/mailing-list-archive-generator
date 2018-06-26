@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Peter M Allan \<peter.allan@aeat.co.uk\><br>
+From: Peter M Allan \<peter.allan<span>@</span>aeat.co.uk\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 353b4d48dcdbbc33ee9a04a04dafe297eb7857d69bb5dedf61eb8ae4b55cbb1e<br>
 Message ID: \<199701271949.LAA03073@toad.com\><br>
@@ -90,6 +90,8 @@ function (MD4 originally).  A choice of hash functions can be provided. See RFC-
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Peter M Allan <peter.allan<span>@</span>aeat.co.uk>](/author/peter_m_allan_peter_allan_at_aeat_co_uk_)"
 
 + 1997-01-27 (Mon, 27 Jan 1997 11:49:15 -0800 (PST)) - S/KEY (was: 2 Questions) - _Peter M Allan \<peter.allan@aeat.co.uk\>_
 

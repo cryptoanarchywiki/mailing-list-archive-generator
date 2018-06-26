@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shane_nifong_at_s2systems_com
+post_count: 1
 ---
 
-# Shane_Nifong@s2systems.com (1 posts)
+# Shane_Nifong<span>@</span>s2systems.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

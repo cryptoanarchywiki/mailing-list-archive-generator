@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yap_remailer_remailer_at_yap_pactitle_com__x_at_x_x_
+post_count: 2
 ---
 
-# Yap Remailer <remailer@yap.pactitle.com><x@x.x> (2 posts)
+# Yap Remailer <remailer<span>@</span>yap.pactitle.com><x<span>@</span>x.x> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

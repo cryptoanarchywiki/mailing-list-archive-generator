@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vin_mclellan_vin_at_shore_net_
+post_count: 48
 ---
 
-# Vin McLellan <vin@shore.net> (48 posts)
+# Vin McLellan <vin<span>@</span>shore.net> (48 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

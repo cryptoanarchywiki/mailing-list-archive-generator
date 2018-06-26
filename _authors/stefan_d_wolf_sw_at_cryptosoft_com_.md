@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stefan_d_wolf_sw_at_cryptosoft_com_
+post_count: 3
 ---
 
-# "stefan d. wolf" <sw@cryptosoft.com> (3 posts)
+# "stefan d. wolf" <sw<span>@</span>cryptosoft.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

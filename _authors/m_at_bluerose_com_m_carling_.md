@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m_at_bluerose_com_m_carling_
+post_count: 7
 ---
 
-# m@BlueRose.com (M Carling) (7 posts)
+# m<span>@</span>BlueRose.com (M Carling) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

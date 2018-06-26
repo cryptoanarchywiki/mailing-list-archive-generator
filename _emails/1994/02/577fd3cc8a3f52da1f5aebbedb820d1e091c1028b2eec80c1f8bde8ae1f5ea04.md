@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<pmetzger@lehman.com\><br>
+From: "Perry E. Metzger" \<pmetzger<span>@</span>lehman.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 577fd3cc8a3f52da1f5aebbedb820d1e091c1028b2eec80c1f8bde8ae1f5ea04<br>
 Message ID: \<199402050052.TAA19116@snark\><br>
@@ -128,6 +128,8 @@ it all.
 ## Thread
 
 + Return to [February 1994](/archive/1994/02)
+
++ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/author/perry_e_metzger_pmetzger_at_lehman_com_)"
 
 + 1994-02-05 (Fri, 4 Feb 94 16:55:17 PST) - Food for thought - _"Perry E. Metzger" \<pmetzger@lehman.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marius_marius_at_doulosgeri_com_
+post_count: 1
 ---
 
-# "Marius" <Marius@doulosgeri.com> (1 posts)
+# "Marius" <Marius<span>@</span>doulosgeri.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

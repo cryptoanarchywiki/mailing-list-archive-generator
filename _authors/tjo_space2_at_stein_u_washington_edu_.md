@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tjo_space2_at_stein_u_washington_edu_
+post_count: 2
 ---
 
-# TJO <space2@stein.u.washington.edu> (2 posts)
+# TJO <space2<span>@</span>stein.u.washington.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

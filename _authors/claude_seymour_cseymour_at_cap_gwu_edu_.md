@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: claude_seymour_cseymour_at_cap_gwu_edu_
+post_count: 1
 ---
 
-# Claude Seymour <cseymour@cap.gwu.edu> (1 posts)
+# Claude Seymour <cseymour<span>@</span>cap.gwu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

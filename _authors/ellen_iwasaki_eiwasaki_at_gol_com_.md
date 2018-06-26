@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ellen_iwasaki_eiwasaki_at_gol_com_
+post_count: 1
 ---
 
-# Ellen Iwasaki <eiwasaki@gol.com> (1 posts)
+# Ellen Iwasaki <eiwasaki<span>@</span>gol.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

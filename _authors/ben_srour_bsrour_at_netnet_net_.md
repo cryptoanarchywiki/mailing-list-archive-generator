@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ben_srour_bsrour_at_netnet_net_
+post_count: 1
 ---
 
-# Ben Srour <bsrour@netnet.net> (1 posts)
+# Ben Srour <bsrour<span>@</span>netnet.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

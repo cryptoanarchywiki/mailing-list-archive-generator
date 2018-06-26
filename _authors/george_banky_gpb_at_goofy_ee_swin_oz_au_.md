@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: george_banky_gpb_at_goofy_ee_swin_oz_au_
+post_count: 1
 ---
 
-# "George Banky" <GPB@goofy.ee.swin.oz.au> (1 posts)
+# "George Banky" <GPB<span>@</span>goofy.ee.swin.oz.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

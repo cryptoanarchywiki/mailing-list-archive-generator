@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fc107dba90fe5a5f5ac7a8b30c6df1b16adec1cf51cdaae6f7c3d67788ebc317<br>
 Message ID: \<199407080029.AA12827@panix.com\><br>
@@ -54,6 +54,9 @@ DCF
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "["Robert A. Hayden" <hayden<span>@</span>vorlon.mankato.msus.edu>](/author/robert_a_hayden_hayden_at_vorlon_mankato_msus_edu_)"
 
 + 1994-07-08 (Thu, 7 Jul 94 17:30:12 PDT) - cypherpunks mbone this sa - _Duncan Frissell \<frissell@panix.com\>_
   + 1994-07-08 (Thu, 7 Jul 94 17:50:32 PDT) - [Re: cypherpunks mbone this sa](/archive/1994/07/9d1901ff7866f1cc8e35f70f2c5d67184f319fac1d13b30f7d01ba77159b1392) - _"Robert A. Hayden" \<hayden@vorlon.mankato.msus.edu\>_

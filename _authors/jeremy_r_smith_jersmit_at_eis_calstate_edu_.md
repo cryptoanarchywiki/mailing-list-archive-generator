@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremy_r_smith_jersmit_at_eis_calstate_edu_
+post_count: 9
 ---
 
-# "Jeremy R. Smith" <jersmit@eis.calstate.edu> (9 posts)
+# "Jeremy R. Smith" <jersmit<span>@</span>eis.calstate.edu> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

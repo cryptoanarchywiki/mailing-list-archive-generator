@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: goldencareers_com_at_renoir_webservices_net
+post_count: 1
 ---
 
-# goldencareers.com@renoir.webservices.net (1 posts)
+# goldencareers.com<span>@</span>renoir.webservices.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

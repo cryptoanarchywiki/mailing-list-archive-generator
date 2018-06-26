@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@invweb.net\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>invweb.net\><br>
 To: Eric Cordian \<emc@wire.insync.net\><br>
 Message Hash: e1d5dcff91eaf49c6dbf2f6f0e8dbe49061ed7f5ce5a5bc9afe64a8bc13a4803<br>
 Message ID: \<199711111725.MAA01146@users.invweb.net\><br>
@@ -85,6 +85,18 @@ fD5knWzxM5g=
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Eric Cordian <emc<span>@</span>wire.insync.net>](/author/eric_cordian_emc_at_wire_insync_net_)"
++ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/author/greg_broiles_gbroiles_at_netbox_com_)"
++ Return to "[Kent Krispin <kent<span>@</span>songbird.com>](/author/kent_krispin_kent_at_songbird_com_)"
++ Return to "[Lizard <lizard<span>@</span>mrlizard.com>](/author/lizard_lizard_at_mrlizard_com_)"
++ Return to "[Peter Herngaard <pethern<span>@</span>inet.uni2.dk>](/author/peter_herngaard_pethern_at_inet_uni2_dk_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[TruthMonger <tm<span>@</span>dev.null>](/author/truthmonger_tm_at_dev_null_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/author/william_h_geiger_iii_whgiii_at_invweb_net_)"
 
 + 1997-11-11 (Wed, 12 Nov 1997 00:53:43 +0800) - [1st Ammendment Tossed in Paladin Case](/archive/1997/11/f6a85b5fe962b2901c3855368683208d3df2f7fd10e8928ee8fd85b27eb16a38) - _Eric Cordian \<emc@wire.insync.net\>_
   + 1997-11-11 (Wed, 12 Nov 1997 01:29:34 +0800) - [Re: 1st Ammendment Tossed in Paladin Case](/archive/1997/11/b75c9d35a525c9c8d068ff08c99093f106da824d334df5b28b48beee5afb914a) - _Tim May \<tcmay@got.net\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_thompson_jim_at_smallworks_com_
+post_count: 5
 ---
 
-# "Jim Thompson" <jim@smallworks.com> (5 posts)
+# "Jim Thompson" <jim<span>@</span>smallworks.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

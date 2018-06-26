@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mpj_at_netcom_com_michael_paul_johnson_
+post_count: 12
 ---
 
-# mpj@netcom.com (Michael Paul Johnson) (12 posts)
+# mpj<span>@</span>netcom.com (Michael Paul Johnson) (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

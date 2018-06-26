@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jef Poskanzer \<jef@ee.lbl.gov\><br>
+From: Jef Poskanzer \<jef<span>@</span>ee.lbl.gov\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 82dbddb5dbaeb58f3c5a4d681c23ab2dd4758d0b44b2adabce671a5fa2f89d84<br>
 Message ID: \<9403060145.AA21067@hot.ee.lbl.gov\><br>
@@ -46,6 +46,8 @@ Jef
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[Jef Poskanzer <jef<span>@</span>ee.lbl.gov>](/author/jef_poskanzer_jef_at_ee_lbl_gov_)"
 
 + 1994-03-06 (Sat, 5 Mar 94 17:46:04 PST) - better way to generate a permutation? - _Jef Poskanzer \<jef@ee.lbl.gov\>_
 

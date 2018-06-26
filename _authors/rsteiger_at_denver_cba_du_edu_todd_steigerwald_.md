@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rsteiger_at_denver_cba_du_edu_todd_steigerwald_
+post_count: 1
 ---
 
-# rsteiger@denver.cba.du.edu (Todd_Steigerwald) (1 posts)
+# rsteiger<span>@</span>denver.cba.du.edu (Todd_Steigerwald) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

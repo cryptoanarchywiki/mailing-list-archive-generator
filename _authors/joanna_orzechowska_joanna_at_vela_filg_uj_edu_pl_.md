@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joanna_orzechowska_joanna_at_vela_filg_uj_edu_pl_
+post_count: 1
 ---
 
-# "Joanna Orzechowska" <JOANNA@Vela.filg.uj.edu.pl> (1 posts)
+# "Joanna Orzechowska" <JOANNA<span>@</span>Vela.filg.uj.edu.pl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

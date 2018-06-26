@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: DataETRsch@aol.com<br>
+From: DataETRsch<span>@</span>aol.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5cfed25bf1f7ef4443cdd51fe0ca0eea6da6dfe70d6fc382eefd0cb6be8f0956<br>
 Message ID: \<970517135403_2018739284@emout09.mail.aol.com\><br>
@@ -60,6 +60,8 @@ Median (middle character, no order): 3
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[DataETRsch<span>@</span>aol.com](/author/dataetrsch_at_aol_com)"
 
 + 1997-05-18 (Sun, 18 May 1997 09:10:04 +0800) - VSA2048 CRACKING CONTEST - _DataETRsch@aol.com_
 

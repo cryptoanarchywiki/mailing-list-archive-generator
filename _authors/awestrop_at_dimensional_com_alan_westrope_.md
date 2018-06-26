@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: awestrop_at_dimensional_com_alan_westrope_
+post_count: 1
 ---
 
-# awestrop@dimensional.com (Alan Westrope) (1 posts)
+# awestrop<span>@</span>dimensional.com (Alan Westrope) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

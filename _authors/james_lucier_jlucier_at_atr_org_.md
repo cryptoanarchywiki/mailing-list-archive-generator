@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_lucier_jlucier_at_atr_org_
+post_count: 1
 ---
 
-# "James Lucier" <jlucier@atr.org> (1 posts)
+# "James Lucier" <jlucier<span>@</span>atr.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

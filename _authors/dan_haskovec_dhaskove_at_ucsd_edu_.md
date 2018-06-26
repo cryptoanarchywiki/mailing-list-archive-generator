@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_haskovec_dhaskove_at_ucsd_edu_
+post_count: 4
 ---
 
-# Dan Haskovec <dhaskove@ucsd.edu> (4 posts)
+# Dan Haskovec <dhaskove<span>@</span>ucsd.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

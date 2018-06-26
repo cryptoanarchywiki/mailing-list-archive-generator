@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ian Farquhar \<ifarqhar@laurel.ocs.mq.edu.au\><br>
+From: Ian Farquhar \<ifarqhar<span>@</span>laurel.ocs.mq.edu.au\><br>
 To: jamiel@sybase.com (Jamie Lawrence)<br>
 Message Hash: de0eaafca62bedfe4c7105e521f5103c564616a0aa9e3c8d1f06aeeedf7fd29c<br>
 Message ID: \<199407080101.AA07281@laurel.ocs.mq.edu.au\><br>
@@ -52,6 +52,9 @@ now still consider DES "appropriate" for the banking industry).
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Ian Farquhar <ifarqhar<span>@</span>laurel.ocs.mq.edu.au>](/author/ian_farquhar_ifarqhar_at_laurel_ocs_mq_edu_au_)"
++ Return to "[jamiel<span>@</span>sybase.com (Jamie Lawrence)](/author/jamiel_at_sybase_com_jamie_lawrence_)"
 
 + 1994-07-07 (Thu, 7 Jul 94 10:24:32 PDT) - [Re: Mastercard, Visa, Access, Barclaycard, Amex, JCB ...](/archive/1994/07/7fc8536cf05eb9ad99b9ca4cbc73bd0764fb57739533337dc445c599942a7072) - _jamiel@sybase.com (Jamie Lawrence)_
   + 1994-07-08 (Thu, 7 Jul 94 18:03:10 PDT) - Re: Mastercard, Visa, Access, Barclaycard, Amex, JCB ... - _Ian Farquhar \<ifarqhar@laurel.ocs.mq.edu.au\>_

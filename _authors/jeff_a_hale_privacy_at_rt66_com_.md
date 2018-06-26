@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_a_hale_privacy_at_rt66_com_
+post_count: 1
 ---
 
-# "Jeff A. Hale" <privacy@rt66.com> (1 posts)
+# "Jeff A. Hale" <privacy<span>@</span>rt66.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

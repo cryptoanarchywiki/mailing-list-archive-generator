@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: naphis_at_alias_cyberpass_net_naphisto_
+post_count: 1
 ---
 
-# naphis@alias.cyberpass.net (Naphisto) (1 posts)
+# naphis<span>@</span>alias.cyberpass.net (Naphisto) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

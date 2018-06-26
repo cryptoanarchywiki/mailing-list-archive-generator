@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lists_at_lina_inka_de_bernd_eckenfels_
+post_count: 1
 ---
 
-# lists@lina.inka.de (Bernd Eckenfels) (1 posts)
+# lists<span>@</span>lina.inka.de (Bernd Eckenfels) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

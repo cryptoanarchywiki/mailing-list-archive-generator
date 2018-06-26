@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dewayne_at_netcom_com_dewayne_hendricks_
+post_count: 1
 ---
 
-# dewayne@netcom.com (Dewayne Hendricks) (1 posts)
+# dewayne<span>@</span>netcom.com (Dewayne Hendricks) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ben_ben_at_edelweb_fr_
+post_count: 5
 ---
 
-# Ben <ben@edelweb.fr> (5 posts)
+# Ben <ben<span>@</span>edelweb.fr> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

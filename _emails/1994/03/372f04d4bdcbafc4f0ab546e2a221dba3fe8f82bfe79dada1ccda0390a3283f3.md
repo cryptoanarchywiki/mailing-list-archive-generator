@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John K Clark \<johnkc@well.sf.ca.us\><br>
+From: John K Clark \<johnkc<span>@</span>well.sf.ca.us\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 372f04d4bdcbafc4f0ab546e2a221dba3fe8f82bfe79dada1ccda0390a3283f3<br>
 Message ID: \<199403250604.WAA09337@well.sf.ca.us\><br>
@@ -68,6 +68,8 @@ kOb0tKG0MxY=
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[John K Clark <johnkc<span>@</span>well.sf.ca.us>](/author/john_k_clark_johnkc_at_well_sf_ca_us_)"
 
 + 1994-03-25 (Thu, 24 Mar 94 21:53:27 PST) - Smile For Big Brother - _John K Clark \<johnkc@well.sf.ca.us\>_
 

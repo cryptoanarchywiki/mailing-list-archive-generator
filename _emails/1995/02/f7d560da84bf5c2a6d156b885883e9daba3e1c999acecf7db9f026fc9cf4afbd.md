@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<hfinney@shell.portal.com\><br>
+From: Hal \<hfinney<span>@</span>shell.portal.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f7d560da84bf5c2a6d156b885883e9daba3e1c999acecf7db9f026fc9cf4afbd<br>
 Message ID: \<199502030225.SAA06856@jobe.shell.portal.com\><br>
@@ -52,6 +52,8 @@ Hal
 ## Thread
 
 + Return to [February 1995](/archive/1995/02)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
 
 + 1995-02-03 (Thu, 2 Feb 95 18:26:30 PST) - Re:  Frothing remailers - an immodest proposal - _Hal \<hfinney@shell.portal.com\>_
 

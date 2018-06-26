@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_stewart_stewab_at_us0750tb_oakland_ncr_com_
+post_count: 2
 ---
 
-# Bill Stewart <stewab@us0750tb.oakland.NCR.COM> (2 posts)
+# Bill Stewart <stewab<span>@</span>us0750tb.oakland.NCR.COM> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

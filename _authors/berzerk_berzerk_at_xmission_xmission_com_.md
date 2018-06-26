@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: berzerk_berzerk_at_xmission_xmission_com_
+post_count: 49
 ---
 
-# Berzerk <berzerk@xmission.xmission.com> (49 posts)
+# Berzerk <berzerk<span>@</span>xmission.xmission.com> (49 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

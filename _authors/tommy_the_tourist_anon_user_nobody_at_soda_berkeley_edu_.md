@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tommy_the_tourist_anon_user_nobody_at_soda_berkeley_edu_
+post_count: 2
 ---
 
-# Tommy the Tourist (Anon User) <nobody@soda.Berkeley.EDU> (2 posts)
+# Tommy the Tourist (Anon User) <nobody<span>@</span>soda.Berkeley.EDU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

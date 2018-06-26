@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "P. J. Ponder" \<ponder@freenet.tlh.fl.us\><br>
+From: "P. J. Ponder" \<ponder<span>@</span>freenet.tlh.fl.us\><br>
 To: "Edward R. Figueroa" \<kb4vwa@juno.com\><br>
 Message Hash: eebcf67e2e9d0c3cd4482c5a84d1f4bc1f27a6bf0964efad6f70d15eff0be0ae<br>
 Message ID: \<Pine.OSF.3.91.961106181407.23406I-100000@fn3.freenet.tlh.fl.us\><br>
@@ -165,6 +165,11 @@ pj
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[C Matthew Curtin <cmcurtin<span>@</span>research.megasoft.com>](/author/c_matthew_curtin_cmcurtin_at_research_megasoft_com_)"
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
++ Return to "[kb4vwa<span>@</span>juno.com (Edward R. Figueroa)](/author/kb4vwa_at_juno_com_edward_r_figueroa_)"
++ Return to "["P. J. Ponder" <ponder<span>@</span>freenet.tlh.fl.us>](/author/p_j_ponder_ponder_at_freenet_tlh_fl_us_)"
 
 + 1996-11-05 (Tue, 5 Nov 1996 10:13:35 -0800 (PST)) - [Information](/archive/1996/11/49ede31248df99348707cf7de9cef27dda7ea8bb78016c73905bdbc856d1e337) - _kb4vwa@juno.com (Edward R. Figueroa)_
   + 1996-11-06 (Wed, 6 Nov 1996 05:23:34 -0800 (PST)) - [Re: Information](/archive/1996/11/9b847438bc19e7b6a1abd0d160283a41821fc92ed8713cf2fef0db2ba7a8c601) - _C Matthew Curtin \<cmcurtin@research.megasoft.com\>_

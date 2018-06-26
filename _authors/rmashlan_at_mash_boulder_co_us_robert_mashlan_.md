@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rmashlan_at_mash_boulder_co_us_robert_mashlan_
+post_count: 1
 ---
 
-# rmashlan@mash.boulder.co.us (Robert Mashlan) (1 posts)
+# rmashlan<span>@</span>mash.boulder.co.us (Robert Mashlan) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: keelings_at_wu1_wl_aecl_ca_s_keeling_
+post_count: 5
 ---
 
-# keelings@wu1.wl.aecl.ca (S. Keeling) (5 posts)
+# keelings<span>@</span>wu1.wl.aecl.ca (S. Keeling) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

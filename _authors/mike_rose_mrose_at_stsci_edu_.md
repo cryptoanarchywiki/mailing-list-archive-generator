@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_rose_mrose_at_stsci_edu_
+post_count: 17
 ---
 
-# Mike Rose <mrose@stsci.edu> (17 posts)
+# Mike Rose <mrose<span>@</span>stsci.edu> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

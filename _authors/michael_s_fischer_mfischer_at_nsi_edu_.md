@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_s_fischer_mfischer_at_nsi_edu_
+post_count: 1
 ---
 
-# "Michael S. Fischer" <mfischer@nsi.edu> (1 posts)
+# "Michael S. Fischer" <mfischer<span>@</span>nsi.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

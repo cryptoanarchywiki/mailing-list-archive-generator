@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brandon_crosby_bcrosby_at_mncs_k12_mn_us_
+post_count: 11
 ---
 
-# Brandon Crosby <bcrosby@mncs.k12.mn.us> (11 posts)
+# Brandon Crosby <bcrosby<span>@</span>mncs.k12.mn.us> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

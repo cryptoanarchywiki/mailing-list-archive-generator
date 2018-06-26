@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erp_erp_at_digiforest_com_
+post_count: 16
 ---
 
-# Erp <erp@digiforest.com> (16 posts)
+# Erp <erp<span>@</span>digiforest.com> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

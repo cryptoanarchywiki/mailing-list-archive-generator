@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_froomkin_froomkin_at_law_miami_edu_
+post_count: 104
 ---
 
-# Michael Froomkin <froomkin@law.miami.edu> (104 posts)
+# Michael Froomkin <froomkin<span>@</span>law.miami.edu> (104 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

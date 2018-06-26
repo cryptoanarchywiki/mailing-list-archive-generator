@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: syshtg_at_gsusgi2_gsu_edu_tom_gillman_
+post_count: 1
 ---
 
-# syshtg@gsusgi2.gsu.edu (Tom Gillman) (1 posts)
+# syshtg<span>@</span>gsusgi2.gsu.edu (Tom Gillman) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

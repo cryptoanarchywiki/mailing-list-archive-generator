@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mmidboe_at_cs_uah_edu_digital_saint_computer_science_dept__univ_of_alabamahuntsville_
+post_count: 3
 ---
 
-# mmidboe@cs.uah.edu (digital saint)     (Computer Science Dept., Univ. of Alabama-Huntsville) (3 posts)
+# mmidboe<span>@</span>cs.uah.edu (digital saint)     (Computer Science Dept., Univ. of Alabama-Huntsville) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

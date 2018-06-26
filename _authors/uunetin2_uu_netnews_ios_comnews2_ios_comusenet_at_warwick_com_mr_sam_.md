@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uunetin2_uu_netnews_ios_comnews2_ios_comusenet_at_warwick_com_mr_sam_
+post_count: 2
 ---
 
-# uunet!in2.uu.net!news.ios.com!news2.ios.com!usenet@warwick.com (Mr. Sam) (2 posts)
+# uunet!in2.uu.net!news.ios.com!news2.ios.com!usenet<span>@</span>warwick.com (Mr. Sam) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rdshea_at_20315_com
+post_count: 1
 ---
 
-# rdshea@20315.com (1 posts)
+# rdshea<span>@</span>20315.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

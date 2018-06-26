@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dshipman_at_ewol_com_dave_shipman_
+post_count: 4
 ---
 
-# dshipman@ewol.com (Dave Shipman) (4 posts)
+# dshipman<span>@</span>ewol.com (Dave Shipman) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

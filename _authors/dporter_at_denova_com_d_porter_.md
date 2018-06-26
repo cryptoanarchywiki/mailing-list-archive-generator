@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dporter_at_denova_com_d_porter_
+post_count: 1
 ---
 
-# dporter@denova.com (D. Porter) (1 posts)
+# dporter<span>@</span>denova.com (D. Porter) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

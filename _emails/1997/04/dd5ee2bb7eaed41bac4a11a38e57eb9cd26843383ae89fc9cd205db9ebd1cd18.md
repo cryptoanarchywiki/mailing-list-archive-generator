@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Kent Crispin \<kent@songbird.com\><br>
+From: Kent Crispin \<kent<span>@</span>songbird.com\><br>
 To: toto@sk.sympatico.ca<br>
 Message Hash: dd5ee2bb7eaed41bac4a11a38e57eb9cd26843383ae89fc9cd205db9ebd1cd18<br>
 Message ID: \<19970411005754.59935@bywater.songbird.com\><br>
@@ -73,5 +73,8 @@ http://songbird.com/kent/pgp_key.html
 
 + Return to [April 1997](/archive/1997/04)
 
-+ 1997-04-11 (Fri, 11 Apr 1997 01:00:50 -0700 (PDT)) - Re: KC post per Alec - _Kent Crispin \<kent@songbird.com\>_
++ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/author/kent_crispin_kent_at_songbird_com_)"
+
++ _Unknown thread root_
+  + 1997-04-11 (Fri, 11 Apr 1997 01:00:50 -0700 (PDT)) - Re: KC post per Alec - _Kent Crispin \<kent@songbird.com\>_
 

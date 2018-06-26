@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c_creutzig_at_bionic_zerberus_de_christopher_creutzig_
+post_count: 2
 ---
 
-# C.CREUTZIG@BIONIC.zerberus.de (Christopher Creutzig) (2 posts)
+# C.CREUTZIG<span>@</span>BIONIC.zerberus.de (Christopher Creutzig) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

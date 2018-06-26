@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: moneyhelp_at_mymail_com
+post_count: 1
 ---
 
-# moneyhelp@mymail.com (1 posts)
+# moneyhelp<span>@</span>mymail.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

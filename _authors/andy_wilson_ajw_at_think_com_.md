@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andy_wilson_ajw_at_think_com_
+post_count: 12
 ---
 
-# Andy Wilson <ajw@Think.COM> (12 posts)
+# Andy Wilson <ajw<span>@</span>Think.COM> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pierre_van_rooyen_jvrooyen_at_liasec_sec_lia_net_
+post_count: 1
 ---
 
-# Pierre van Rooyen <jvrooyen@liasec.sec.lia.net> (1 posts)
+# Pierre van Rooyen <jvrooyen<span>@</span>liasec.sec.lia.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

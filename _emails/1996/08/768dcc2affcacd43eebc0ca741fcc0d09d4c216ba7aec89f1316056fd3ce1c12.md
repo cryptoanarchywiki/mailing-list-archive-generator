@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Greg Broiles \<gbroiles@netbox.com\><br>
+From: Greg Broiles \<gbroiles<span>@</span>netbox.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 768dcc2affcacd43eebc0ca741fcc0d09d4c216ba7aec89f1316056fd3ce1c12<br>
 Message ID: \<2.2.32.19960818082658.006e7eec@mail.io.com\><br>
@@ -56,6 +56,8 @@ http://www.io.com/~gbroiles |wherein Sgt Page was spun around by Sgt
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/author/greg_broiles_gbroiles_at_netbox_com_)"
 
 + 1996-08-18 (Sun, 18 Aug 1996 19:30:49 +0800) - Re: MD5 completely broken! - _Greg Broiles \<gbroiles@netbox.com\>_
 

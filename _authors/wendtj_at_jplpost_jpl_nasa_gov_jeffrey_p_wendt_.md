@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wendtj_at_jplpost_jpl_nasa_gov_jeffrey_p_wendt_
+post_count: 6
 ---
 
-# wendtj@jplpost.Jpl.Nasa.Gov (Jeffrey P Wendt) (6 posts)
+# wendtj<span>@</span>jplpost.Jpl.Nasa.Gov (Jeffrey P Wendt) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: henry_iskandar_ebrandt_at_idola_net_id_
+post_count: 1
 ---
 
-# "Henry Iskandar" <ebrandt@idola.net.id> (1 posts)
+# "Henry Iskandar" <ebrandt<span>@</span>idola.net.id> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

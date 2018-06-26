@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: advinfo_at_dreamon_com_adv_info_
+post_count: 3
 ---
 
-# advinfo@dreamon.com (Adv Info) (3 posts)
+# advinfo<span>@</span>dreamon.com (Adv Info) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

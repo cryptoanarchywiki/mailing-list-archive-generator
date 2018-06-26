@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: info@we-work-for-you.com<br>
+From: info<span>@</span>we-work-for-you.com<br>
 To: info@we-work-for-you.com<br>
 Message Hash: fbfa3bbcd0debc1d81abd50a653be35ba0c0c27c59bc291f0290a1cde0a6d29c<br>
 Message ID: \<199707241733.NAA03494@hitsrus.com\><br>
@@ -84,6 +84,8 @@ info@we-work-for-you.com
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "[info<span>@</span>we-work-for-you.com](/author/info_at_weworkforyou_com)"
 
 + 1997-07-24 (Thu, 24 Jul 1997 14:34:23 -0700 (PDT)) - Put Us To Work For You TODAY!! - _info@we-work-for-you.com_
 

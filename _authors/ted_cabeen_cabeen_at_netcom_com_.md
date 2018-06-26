@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ted_cabeen_cabeen_at_netcom_com_
+post_count: 8
 ---
 
-# Ted Cabeen <cabeen@netcom.com> (8 posts)
+# Ted Cabeen <cabeen<span>@</span>netcom.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

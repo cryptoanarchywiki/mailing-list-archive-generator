@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 91a32cffa4ae3fdd7ceba4d8152bffb3a47955ee957dd4d31933ebdc3d806cdd<br>
 Message ID: \<adace3480902100466fd@[205.199.118.202]\><br>
@@ -91,6 +91,8 @@ Licensed Ontologist         | black markets, collapse of governments.
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-05-02 (Thu, 2 May 1996 08:58:46 +0800) - Re: Lolitas and Cyber Angels - _tcmay@got.net (Timothy C. May)_
 

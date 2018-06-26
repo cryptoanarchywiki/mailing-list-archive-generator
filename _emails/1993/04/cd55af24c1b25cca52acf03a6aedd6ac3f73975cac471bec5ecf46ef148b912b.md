@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<74076.1041@CompuServe.COM\><br>
+From: Hal \<74076.1041<span>@</span>CompuServe.COM\><br>
 To: CYPHERPUNKS \<CYPHERPUNKS@toad.com\><br>
 Message Hash: cd55af24c1b25cca52acf03a6aedd6ac3f73975cac471bec5ecf46ef148b912b<br>
 Message ID: \<930420195747_74076.1041_FHD36-1@CompuServe.COM\><br>
@@ -128,6 +128,9 @@ fz2PLxhA5tgjVAH0e5xvl9K+CgWnRXazd9Tp+Zbi/xAiWz0PI6kff4QtNG13p1xw
 ## Thread
 
 + Return to [April 1993](/archive/1993/04)
+
++ Return to "[Hal <74076.1041<span>@</span>CompuServe.COM>](/author/hal_74076_1041_at_compuserve_com_)"
++ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/author/perry_e_metzger_pmetzger_at_lehman_com_)"
 
 + 1993-04-20 (Tue, 20 Apr 93 13:13:48 PDT) - Re: Another Clipper weakness - _Hal \<74076.1041@CompuServe.COM\>_
   + 1993-04-20 (Tue, 20 Apr 93 13:32:50 PDT) - [Re: Another Clipper weakness](/archive/1993/04/b1ff47955c4a1982d903fc83b9e7fdfd54df8170aa889ce981ed5797e340bb7b) - _"Perry E. Metzger" \<pmetzger@lehman.com\>_

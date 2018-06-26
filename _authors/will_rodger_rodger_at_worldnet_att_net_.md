@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: will_rodger_rodger_at_worldnet_att_net_
+post_count: 19
 ---
 
-# Will Rodger <rodger@worldnet.att.net> (19 posts)
+# Will Rodger <rodger<span>@</span>worldnet.att.net> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

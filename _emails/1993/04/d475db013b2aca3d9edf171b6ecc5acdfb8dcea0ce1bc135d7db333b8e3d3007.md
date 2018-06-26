@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Eric Hughes \<hughes@soda.berkeley.edu\><br>
+From: Eric Hughes \<hughes<span>@</span>soda.berkeley.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: d475db013b2aca3d9edf171b6ecc5acdfb8dcea0ce1bc135d7db333b8e3d3007<br>
 Message ID: \<9304222321.AA02657@soda.berkeley.edu\><br>
@@ -61,6 +61,9 @@ Eric
 ## Thread
 
 + Return to [April 1993](/archive/1993/04)
+
++ Return to "[Eric Hughes <hughes<span>@</span>soda.berkeley.edu>](/author/eric_hughes_hughes_at_soda_berkeley_edu_)"
++ Return to "[wcs<span>@</span>anchor.ho.att.com](/author/wcs_at_anchor_ho_att_com)"
 
 + 1993-04-22 (Thu, 22 Apr 93 15:37:31 PDT) - [Re: Info on Mykotronx](/archive/1993/04/af7e547b0ae54e5f2dff8aaffa65a5255d991b892e32f12ac0d713de241985d7) - _wcs@anchor.ho.att.com_
   + 1993-04-22 (Thu, 22 Apr 93 16:25:11 PDT) - Info on Mykotronx - _Eric Hughes \<hughes@soda.berkeley.edu\>_

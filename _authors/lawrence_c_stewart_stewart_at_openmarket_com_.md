@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lawrence_c_stewart_stewart_at_openmarket_com_
+post_count: 1
 ---
 
-# "Lawrence C. Stewart" <stewart@OpenMarket.com> (1 posts)
+# "Lawrence C. Stewart" <stewart<span>@</span>OpenMarket.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

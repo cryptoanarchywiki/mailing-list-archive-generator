@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bauer_michael_c_stp__michael_bauer_at_guidant_com_
+post_count: 1
 ---
 
-# "Bauer, Michael (C)(STP)" <michael.bauer@guidant.com> (1 posts)
+# "Bauer, Michael (C)(STP)" <michael.bauer<span>@</span>guidant.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

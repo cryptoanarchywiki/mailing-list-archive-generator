@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nate@VIS.ColoState.EDU (CVL staff member Nate Sammons)<br>
+From: nate<span>@</span>VIS.ColoState.EDU (CVL staff member Nate Sammons)<br>
 To: cypherpunks@toad.com (Cypherpunks Mailing List)<br>
 Message Hash: eeddca59cbf9c27467963dcfd88ff2d8c5dd3ded6e3e420e25e27c69bf68ed1a<br>
 Message ID: \<9405141827.AA17804@vangogh.VIS.ColoState.EDU\><br>
@@ -49,6 +49,8 @@ been fixed, and if you could try again, I would be thankful.
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[nate<span>@</span>VIS.ColoState.EDU (CVL staff member Nate Sammons)](/author/nate_at_vis_colostate_edu_cvl_staff_member_nate_sammons_)"
 
 + 1994-05-14 (Sat, 14 May 94 11:28:05 PDT) - email server problem - _nate@VIS.ColoState.EDU (CVL staff member Nate Sammons)_
 

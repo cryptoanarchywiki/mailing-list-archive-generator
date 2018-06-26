@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: flesh_at_wps_com_flesh_
+post_count: 4
 ---
 
-# flesh@wps.com (Flesh) (4 posts)
+# flesh<span>@</span>wps.com (Flesh) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

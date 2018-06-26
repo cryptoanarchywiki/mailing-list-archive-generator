@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@shell.portal.com<br>
+From: nobody<span>@</span>shell.portal.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 53bcd59ecc3a7437dbaae4239040dfaa5cfd4c5a89ec416eeabfa06cac84e36f<br>
 Message ID: \<9308200544.AA15625@jobe.shell.portal.com\><br>
@@ -112,6 +112,9 @@ olson@umbc.edu
 ## Thread
 
 + Return to [August 1993](/archive/1993/08)
+
++ Return to "[Eric Hughes <hughes<span>@</span>soda.berkeley.edu>](/author/eric_hughes_hughes_at_soda_berkeley_edu_)"
++ Return to "[nobody<span>@</span>shell.portal.com](/author/nobody_at_shell_portal_com)"
 
 + 1993-08-20 (Thu, 19 Aug 93 22:51:18 PDT) - Blinded RSA signatures - _nobody@shell.portal.com_
   + 1993-08-20 (Fri, 20 Aug 93 11:31:34 PDT) - [Blinded RSA signatures](/archive/1993/08/613eb4cfd227867e672866b96d57eb48fb4bec5536e0508c824bf75bb04ae153) - _Eric Hughes \<hughes@soda.berkeley.edu\>_

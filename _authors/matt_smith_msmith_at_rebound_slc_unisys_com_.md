@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matt_smith_msmith_at_rebound_slc_unisys_com_
+post_count: 4
 ---
 
-# "Matt Smith" <msmith@rebound.slc.unisys.com> (4 posts)
+# "Matt Smith" <msmith<span>@</span>rebound.slc.unisys.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

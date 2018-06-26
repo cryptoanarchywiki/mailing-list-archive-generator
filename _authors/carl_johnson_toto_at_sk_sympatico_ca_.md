@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carl_johnson_toto_at_sk_sympatico_ca_
+post_count: 35
 ---
 
-# Carl Johnson <toto@sk.sympatico.ca> (35 posts)
+# Carl Johnson <toto<span>@</span>sk.sympatico.ca> (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

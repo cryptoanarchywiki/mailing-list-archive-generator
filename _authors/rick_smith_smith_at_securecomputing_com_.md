@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rick_smith_smith_at_securecomputing_com_
+post_count: 7
 ---
 
-# Rick Smith <smith@securecomputing.com> (7 posts)
+# Rick Smith <smith<span>@</span>securecomputing.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

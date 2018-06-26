@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pmetzger_at_snark_shearson_com_perry_e_metzger_
+post_count: 2
 ---
 
-# pmetzger@snark.shearson.com (Perry E. Metzger) (2 posts)
+# pmetzger<span>@</span>snark.shearson.com (Perry E. Metzger) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

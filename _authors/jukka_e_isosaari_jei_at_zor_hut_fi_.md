@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jukka_e_isosaari_jei_at_zor_hut_fi_
+post_count: 9
 ---
 
-# Jukka E Isosaari <jei@zor.hut.fi> (9 posts)
+# Jukka E Isosaari <jei<span>@</span>zor.hut.fi> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

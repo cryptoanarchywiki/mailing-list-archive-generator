@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "James A. Donald" \<jamesd@echeque.com\><br>
+From: "James A. Donald" \<jamesd<span>@</span>echeque.com\><br>
 To: Declan McCullagh \<cypherpunks@toad.com<br>
 Message Hash: 9de55d80f3b4e9ec49e5ef5ba1e8a10d87fdf9d1872ae6a443f0ec50feedafb0<br>
 Message ID: \<199608262107.OAA16648@dns1.noc.best.net\><br>
@@ -77,6 +77,9 @@ arbitrary power of the state.		|   jamesd@echeque.com
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/author/declan_mccullagh_declan_at_eff_org_)"
++ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/author/james_a_donald_jamesd_at_echeque_com_)"
 
 + 1996-08-27 (Tue, 27 Aug 1996 11:02:08 +0800) - Re: Sen. Leahy's "impeccable cyberspace credentials" - _"James A. Donald" \<jamesd@echeque.com\>_
   + 1996-08-27 (Tue, 27 Aug 1996 14:08:09 +0800) - [Re: Sen. Leahy's "impeccable cyberspace credentials"](/archive/1996/08/8d3cdf064451499ecb5cd0fb935889b5bff2d10445fcdae7666966b3807064ff) - _Declan McCullagh \<declan@eff.org\>_

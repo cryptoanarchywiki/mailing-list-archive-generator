@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cjl_at_micro_med_cornell_edu_chris_leonard_
+post_count: 5
 ---
 
-# cjl@micro.med.cornell.edu (Chris Leonard) (5 posts)
+# cjl<span>@</span>micro.med.cornell.edu (Chris Leonard) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

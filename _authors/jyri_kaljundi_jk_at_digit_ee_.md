@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jyri_kaljundi_jk_at_digit_ee_
+post_count: 14
 ---
 
-# Jyri Kaljundi <jk@digit.ee> (14 posts)
+# Jyri Kaljundi <jk<span>@</span>digit.ee> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

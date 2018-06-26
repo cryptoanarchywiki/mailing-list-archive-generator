@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: techsupport_at_vitalsigns_com
+post_count: 2
 ---
 
-# techsupport@vitalsigns.com (2 posts)
+# techsupport<span>@</span>vitalsigns.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

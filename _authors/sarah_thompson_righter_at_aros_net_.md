@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sarah_thompson_righter_at_aros_net_
+post_count: 1
 ---
 
-# Sarah Thompson <righter@aros.net> (1 posts)
+# Sarah Thompson <righter<span>@</span>aros.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: e_allen_smith_eallensmith_at_ocelot_rutgers_edu_
+post_count: 647
 ---
 
-# "E. Allen Smith" <EALLENSMITH@ocelot.Rutgers.EDU> (647 posts)
+# "E. Allen Smith" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU> (647 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

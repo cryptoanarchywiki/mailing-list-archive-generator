@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hayden_at_phoenix_net
+post_count: 2
 ---
 
-# hayden@phoenix.net (2 posts)
+# hayden<span>@</span>phoenix.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

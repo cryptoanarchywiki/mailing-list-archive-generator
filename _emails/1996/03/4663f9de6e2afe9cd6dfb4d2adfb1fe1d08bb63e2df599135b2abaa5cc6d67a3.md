@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Derek Atkins \<warlord@MIT.EDU\><br>
+From: Derek Atkins \<warlord<span>@</span>MIT.EDU\><br>
 To: David Loysen \<dwl@hnc.com\><br>
 Message Hash: 4663f9de6e2afe9cd6dfb4d2adfb1fe1d08bb63e2df599135b2abaa5cc6d67a3<br>
 Message ID: \<9603212054.AA24580@portnoy.MIT.EDU\><br>
@@ -48,6 +48,10 @@ c.f. Multics.
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[David Loysen <dwl<span>@</span>hnc.com>](/author/david_loysen_dwl_at_hnc_com_)"
++ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/author/derek_atkins_warlord_at_mit_edu_)"
++ Return to "[Mark Aldrich <maldrich<span>@</span>grctechs.va.grci.com>](/author/mark_aldrich_maldrich_at_grctechs_va_grci_com_)"
 
 + 1996-03-21 (Fri, 22 Mar 1996 05:49:23 +0800) - [Re: NT's C2 rating](/archive/1996/03/cc572d51cec64e5be0a785a47db5a7e7f1dda5a62e193dc5a0cf84b00ab78a3d) - _David Loysen \<dwl@hnc.com\>_
   + 1996-03-22 (Fri, 22 Mar 1996 08:05:58 +0800) - Re: NT's C2 rating - _Derek Atkins \<warlord@MIT.EDU\>_

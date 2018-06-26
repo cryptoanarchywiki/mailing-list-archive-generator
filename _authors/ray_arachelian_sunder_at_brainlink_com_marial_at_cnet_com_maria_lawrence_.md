@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ray_arachelian_sunder_at_brainlink_com_marial_at_cnet_com_maria_lawrence_
+post_count: 1
 ---
 
-# Ray Arachelian <sunder@brainlink.com>marial@cnet.com (Maria Lawrence) (1 posts)
+# Ray Arachelian <sunder<span>@</span>brainlink.com>marial<span>@</span>cnet.com (Maria Lawrence) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

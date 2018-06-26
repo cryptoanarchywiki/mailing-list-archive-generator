@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peb_at_netcom_com_paul_e_baclace_
+post_count: 21
 ---
 
-# peb@netcom.com (Paul E. Baclace) (21 posts)
+# peb<span>@</span>netcom.com (Paul E. Baclace) (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

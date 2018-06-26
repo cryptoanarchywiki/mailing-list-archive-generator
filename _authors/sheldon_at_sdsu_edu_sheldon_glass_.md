@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sheldon_at_sdsu_edu_sheldon_glass_
+post_count: 1
 ---
 
-# sheldon@sdsu.edu (Sheldon Glass) (1 posts)
+# sheldon<span>@</span>sdsu.edu (Sheldon Glass) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

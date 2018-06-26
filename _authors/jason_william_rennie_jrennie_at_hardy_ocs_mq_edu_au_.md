@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jason_william_rennie_jrennie_at_hardy_ocs_mq_edu_au_
+post_count: 18
 ---
 
-# Jason William RENNIE <jrennie@hardy.ocs.mq.edu.au> (18 posts)
+# Jason William RENNIE <jrennie<span>@</span>hardy.ocs.mq.edu.au> (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

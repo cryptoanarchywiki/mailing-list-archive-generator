@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ammar_h_dashti_dashti_at_acad_stedwards_edu_
+post_count: 1
 ---
 
-# Ammar H. Dashti <dashti@acad.stedwards.edu> (1 posts)
+# Ammar H. Dashti <dashti<span>@</span>acad.stedwards.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

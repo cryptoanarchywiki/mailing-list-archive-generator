@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kamikaze23_at_juno_com_fallen_i_angel_
+post_count: 1
 ---
 
-# kamikaze23@juno.com (Fallen I Angel) (1 posts)
+# kamikaze23<span>@</span>juno.com (Fallen I Angel) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_wayner_pcw_at_access_digex_com_
+post_count: 7
 ---
 
-# Peter Wayner <pcw@access.digex.com> (7 posts)
+# Peter Wayner <pcw<span>@</span>access.digex.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: unprivileged_user_nobody_at_www_videocollage_com_
+post_count: 9
 ---
 
-# Unprivileged user <nobody@www.video-collage.com> (9 posts)
+# Unprivileged user <nobody<span>@</span>www.video-collage.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

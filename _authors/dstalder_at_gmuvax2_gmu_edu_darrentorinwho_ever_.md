@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dstalder_at_gmuvax2_gmu_edu_darrentorinwho_ever_
+post_count: 6
 ---
 
-# dstalder@gmuvax2.gmu.edu (Darren/Torin/Who ever...) (6 posts)
+# dstalder<span>@</span>gmuvax2.gmu.edu (Darren/Torin/Who ever...) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

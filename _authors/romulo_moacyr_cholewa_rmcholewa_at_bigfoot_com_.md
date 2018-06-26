@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: romulo_moacyr_cholewa_rmcholewa_at_bigfoot_com_
+post_count: 2
 ---
 
-# "Romulo Moacyr Cholewa" <rmcholewa@bigfoot.com> (2 posts)
+# "Romulo Moacyr Cholewa" <rmcholewa<span>@</span>bigfoot.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

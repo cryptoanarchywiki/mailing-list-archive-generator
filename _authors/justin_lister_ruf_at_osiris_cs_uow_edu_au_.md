@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: justin_lister_ruf_at_osiris_cs_uow_edu_au_
+post_count: 9
 ---
 
-# Justin Lister <ruf@osiris.cs.uow.edu.au> (9 posts)
+# Justin Lister <ruf<span>@</span>osiris.cs.uow.edu.au> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

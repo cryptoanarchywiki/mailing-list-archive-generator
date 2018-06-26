@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yupin_mungdee_snickers_at_mejl_com_
+post_count: 2
 ---
 
-# Yupin Mungdee <snickers@mejl.com> (2 posts)
+# Yupin Mungdee <snickers<span>@</span>mejl.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thug_thug_at_pannet_de_
+post_count: 1
 ---
 
-# Thug <thug@pan-net.de> (1 posts)
+# Thug <thug<span>@</span>pan-net.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

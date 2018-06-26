@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tangent_at_alpha_c2_org_tangent_
+post_count: 3
 ---
 
-# tangent@alpha.c2.org (Tangent) (3 posts)
+# tangent<span>@</span>alpha.c2.org (Tangent) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

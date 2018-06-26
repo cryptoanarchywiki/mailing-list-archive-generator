@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: abrigano_abrigano_at_aol_com_
+post_count: 1
 ---
 
-# ABrigano <ABrigano@aol.com> (1 posts)
+# ABrigano <ABrigano<span>@</span>aol.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

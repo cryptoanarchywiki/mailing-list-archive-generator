@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_murray_ericm_at_lne_com_
+post_count: 143
 ---
 
-# Eric Murray <ericm@lne.com> (143 posts)
+# Eric Murray <ericm<span>@</span>lne.com> (143 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: your_name_your_name_at_pcm_bosch_de_
+post_count: 2
 ---
 
-# your name <your.name@pcm.bosch.de> (2 posts)
+# your name <your.name<span>@</span>pcm.bosch.de> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deepunk_at_qsland_lkg_dec_com
+post_count: 2
 ---
 
-# dee-punk@qsland.lkg.dec.com (2 posts)
+# dee-punk<span>@</span>qsland.lkg.dec.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

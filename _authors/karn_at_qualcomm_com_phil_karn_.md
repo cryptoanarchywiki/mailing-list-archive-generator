@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: karn_at_qualcomm_com_phil_karn_
+post_count: 121
 ---
 
-# karn@qualcomm.com (Phil Karn) (121 posts)
+# karn<span>@</span>qualcomm.com (Phil Karn) (121 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

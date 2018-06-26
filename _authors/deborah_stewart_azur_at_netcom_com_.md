@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deborah_stewart_azur_at_netcom_com_
+post_count: 2
 ---
 
-# Deborah Stewart <azur@netcom.com> (2 posts)
+# Deborah Stewart <azur<span>@</span>netcom.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

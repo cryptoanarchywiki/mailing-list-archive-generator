@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hroller_anonymous_remailer_hroller_at_c2_org_
+post_count: 9
 ---
 
-# Hroller Anonymous Remailer <hroller@c2.org> (9 posts)
+# Hroller Anonymous Remailer <hroller<span>@</span>c2.org> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

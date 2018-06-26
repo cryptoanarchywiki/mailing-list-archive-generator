@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rishab@dxm.ernet.in<br>
+From: rishab<span>@</span>dxm.ernet.in<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a8fe1dc74fbaff3e3bb56e060ee841d34f1f2aa79c7db596aba3de764d4d0e6f<br>
 Message ID: \<gate.DVFToc1w165w@dxm.ernet.in\><br>
@@ -49,6 +49,8 @@ Voicemail +91 11 3760335                 H 34C Saket, New Delhi 110017, INDIA
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[rishab<span>@</span>dxm.ernet.in](/author/rishab_at_dxm_ernet_in)"
 
 + 1994-07-01 (Fri, 1 Jul 94 11:28:40 PDT) - Re: What motivates Crypto-folk? - _rishab@dxm.ernet.in_
 

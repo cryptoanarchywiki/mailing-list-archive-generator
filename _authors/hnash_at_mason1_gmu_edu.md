@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hnash_at_mason1_gmu_edu
+post_count: 6
 ---
 
-# hnash@mason1.gmu.edu (6 posts)
+# hnash<span>@</span>mason1.gmu.edu (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

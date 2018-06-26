@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: r_paul_mccarty_mccarty_at_reg16_admin_rochester_edu_
+post_count: 1
 ---
 
-# "R. Paul McCarty" <mccarty@reg16.admin.rochester.edu> (1 posts)
+# "R. Paul McCarty" <mccarty<span>@</span>reg16.admin.rochester.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

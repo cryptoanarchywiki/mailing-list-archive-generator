@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: works4me_at_ix_netcom_com
+post_count: 2
 ---
 
-# works4me@ix.netcom.com (2 posts)
+# works4me<span>@</span>ix.netcom.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

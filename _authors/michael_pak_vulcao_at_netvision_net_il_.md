@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_pak_vulcao_at_netvision_net_il_
+post_count: 1
 ---
 
-# Michael Pak <vulcao@netvision.net.il> (1 posts)
+# Michael Pak <vulcao<span>@</span>netvision.net.il> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

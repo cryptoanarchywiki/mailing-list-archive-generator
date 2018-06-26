@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michaelb_at_primenet_com_michael_bredimus_
+post_count: 1
 ---
 
-# michaelb@primenet.com (Michael Bredimus) (1 posts)
+# michaelb<span>@</span>primenet.com (Michael Bredimus) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

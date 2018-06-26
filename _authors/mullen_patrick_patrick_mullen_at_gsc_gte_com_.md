@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mullen_patrick_patrick_mullen_at_gsc_gte_com_
+post_count: 4
 ---
 
-# "Mullen, Patrick" <Patrick.Mullen@GSC.GTE.Com> (4 posts)
+# "Mullen, Patrick" <Patrick.Mullen<span>@</span>GSC.GTE.Com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

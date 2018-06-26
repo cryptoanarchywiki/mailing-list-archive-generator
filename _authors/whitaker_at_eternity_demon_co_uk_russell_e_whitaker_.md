@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: whitaker_at_eternity_demon_co_uk_russell_e_whitaker_
+post_count: 19
 ---
 
-# whitaker@eternity.demon.co.uk (Russell E. Whitaker) (19 posts)
+# whitaker<span>@</span>eternity.demon.co.uk (Russell E. Whitaker) (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

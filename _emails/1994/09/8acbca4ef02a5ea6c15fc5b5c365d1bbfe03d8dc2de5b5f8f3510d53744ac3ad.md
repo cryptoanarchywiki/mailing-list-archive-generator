@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Robert A. Hayden" \<hayden@krypton.mankato.msus.edu\><br>
+From: "Robert A. Hayden" \<hayden<span>@</span>krypton.mankato.msus.edu\><br>
 To: Brad Shantz \<bshantz@spry.com\><br>
 Message Hash: 8acbca4ef02a5ea6c15fc5b5c365d1bbfe03d8dc2de5b5f8f3510d53744ac3ad<br>
 Message ID: \<Pine.3.89.9409141017.A12433-0100000@krypton.mankato.msus.edu\><br>
@@ -59,6 +59,9 @@ ____        Robert A. Hayden       <=> hayden@krypton.mankato.msus.edu
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[bshantz<span>@</span>spry.com (Brad Shantz)](/author/bshantz_at_spry_com_brad_shantz_)"
++ Return to "["Robert A. Hayden" <hayden<span>@</span>krypton.mankato.msus.edu>](/author/robert_a_hayden_hayden_at_krypton_mankato_msus_edu_)"
 
 + 1994-09-14 (Wed, 14 Sep 94 07:55:30 PDT) - [Re: Is cypherpunks archived somewhere?](/archive/1994/09/80002b2cb04e2e4341e4e76fde9e2e24538f3a9ed3f256b46d47666846fdd837) - _bshantz@spry.com (Brad Shantz)_
   + 1994-09-14 (Wed, 14 Sep 94 08:19:19 PDT) - Re: Is cypherpunks archived somewhere? - _"Robert A. Hayden" \<hayden@krypton.mankato.msus.edu\>_

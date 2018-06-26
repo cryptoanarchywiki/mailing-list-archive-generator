@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jya_at_pipeline_com_john_young_by_way_of_censored_girls_anonymous_carolann_at_censored_org_
+post_count: 1
 ---
 
-# jya@pipeline.com (John Young) (by way of Censored Girls Anonymous <carolann@censored.org>) (1 posts)
+# jya<span>@</span>pipeline.com (John Young) (by way of Censored Girls Anonymous <carolann<span>@</span>censored.org>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

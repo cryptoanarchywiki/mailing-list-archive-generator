@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: traye_at_ix_netcom_com_david_s_mcdaniel_
+post_count: 1
 ---
 
-# traye@ix.netcom.com (David S McDaniel ) (1 posts)
+# traye<span>@</span>ix.netcom.com (David S McDaniel ) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

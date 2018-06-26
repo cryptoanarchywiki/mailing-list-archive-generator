@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Lazlo Toth \<lazlototh@hempseed.com\><br>
+From: Lazlo Toth \<lazlototh<span>@</span>hempseed.com\><br>
 To: "Vladimir Z. Nuri" \<cypherpunks@cyberpass.net<br>
 Message Hash: 1debd2f3455df6d9cebbfa400f7eab0fad7cbab095b1914ef98f9771ded55cd6<br>
 Message ID: \<v04011707b23716a63069@[199.125.99.109]\><br>
@@ -64,6 +64,10 @@ At 5:21 PM -0700 9/28/98, you wrote:
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
++ Return to "[Lazlo Toth <lazlototh<span>@</span>hempseed.com>](/author/lazlo_toth_lazlototh_at_hempseed_com_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1998-09-28 (Mon, 28 Sep 1998 19:20:41 +0800) - [IP: The virtual president](/archive/1998/09/b899434ba9b312fc2d4042a329bb6952d637f4dcd7f578bdb9b6644b6f010d78) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
   + 1998-09-28 (Tue, 29 Sep 1998 07:29:54 +0800) - [Re: IP: The virtual president](/archive/1998/09/59d7ea45737ed2d77b4530a635ec61889c7acfb3ccb79d9883b5ff8ec96bc51e) - _Declan McCullagh \<declan@well.com\>_

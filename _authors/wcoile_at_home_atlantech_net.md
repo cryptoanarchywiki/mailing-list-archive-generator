@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wcoile_at_home_atlantech_net
+post_count: 1
 ---
 
-# wcoile@home.atlantech.net (1 posts)
+# wcoile<span>@</span>home.atlantech.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

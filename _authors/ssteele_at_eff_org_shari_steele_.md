@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ssteele_at_eff_org_shari_steele_
+post_count: 15
 ---
 
-# ssteele@eff.org (Shari Steele) (15 posts)
+# ssteele<span>@</span>eff.org (Shari Steele) (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

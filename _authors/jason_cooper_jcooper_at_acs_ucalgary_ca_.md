@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jason_cooper_jcooper_at_acs_ucalgary_ca_
+post_count: 1
 ---
 
-# jason cooper <jcooper@acs.ucalgary.ca> (1 posts)
+# jason cooper <jcooper<span>@</span>acs.ucalgary.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: cman@communities.com (Douglas Barnes)<br>
+From: cman<span>@</span>communities.com (Douglas Barnes)<br>
 To: Hal \<hfinney@shell.portal.com\><br>
 Message Hash: cefefe2ebb1a6ae1be9287a5fbfcc839c2acda4897e37a50603e23fc4ed256d3<br>
 Message ID: \<v02120d08ac70d3652d61@[199.2.22.120]\><br>
@@ -68,6 +68,8 @@ went to Mountain View.
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[cman<span>@</span>communities.com (Douglas Barnes)](/author/cman_at_communities_com_douglas_barnes_)"
 
 + 1995-09-04 (Mon, 4 Sep 95 08:14:49 PDT) - Key attributes (was: pseudonyms & list health) - _cman@communities.com (Douglas Barnes)_
 

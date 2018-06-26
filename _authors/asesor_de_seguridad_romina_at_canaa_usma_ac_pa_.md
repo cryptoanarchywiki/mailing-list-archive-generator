@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: asesor_de_seguridad_romina_at_canaa_usma_ac_pa_
+post_count: 1
 ---
 
-# Asesor de seguridad <romina@canaa.usma.ac.pa> (1 posts)
+# Asesor de seguridad <romina<span>@</span>canaa.usma.ac.pa> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

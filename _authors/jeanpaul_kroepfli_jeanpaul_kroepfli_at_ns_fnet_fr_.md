@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeanpaul_kroepfli_jeanpaul_kroepfli_at_ns_fnet_fr_
+post_count: 11
 ---
 
-# Jean-Paul Kroepfli <JeanPaul.Kroepfli@ns.fnet.fr> (11 posts)
+# Jean-Paul Kroepfli <JeanPaul.Kroepfli<span>@</span>ns.fnet.fr> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

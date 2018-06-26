@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rewards_at_t1net_com
+post_count: 3
 ---
 
-# rewards@t-1net.com (3 posts)
+# rewards<span>@</span>t-1net.com (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

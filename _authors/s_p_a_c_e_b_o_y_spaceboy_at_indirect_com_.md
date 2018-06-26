@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: s_p_a_c_e_b_o_y_spaceboy_at_indirect_com_
+post_count: 1
 ---
 
-# s p a c e b o y <spaceboy@indirect.com> (1 posts)
+# s p a c e b o y <spaceboy<span>@</span>indirect.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

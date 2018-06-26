@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: guess_at_mail_sochi_ru
+post_count: 16
 ---
 
-# Guess@mail.sochi.ru (16 posts)
+# Guess<span>@</span>mail.sochi.ru (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

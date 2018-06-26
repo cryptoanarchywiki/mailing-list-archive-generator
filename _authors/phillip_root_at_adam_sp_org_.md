@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phillip_root_at_adam_sp_org_
+post_count: 5
 ---
 
-# Phillip <root@adam.sp.org> (5 posts)
+# Phillip <root<span>@</span>adam.sp.org> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

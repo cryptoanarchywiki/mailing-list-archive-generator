@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_harris_richard_j_harris_at_msn_com_
+post_count: 1
 ---
 
-# "Richard Harris" <Richard_J_Harris@msn.com> (1 posts)
+# "Richard Harris" <Richard_J_Harris<span>@</span>msn.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

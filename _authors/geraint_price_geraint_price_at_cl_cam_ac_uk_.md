@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: geraint_price_geraint_price_at_cl_cam_ac_uk_
+post_count: 1
 ---
 
-# Geraint Price <Geraint.Price@cl.cam.ac.uk> (1 posts)
+# Geraint Price <Geraint.Price<span>@</span>cl.cam.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

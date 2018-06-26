@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)<br>
+From: wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c70ef2c2534cd7a4fa2fd9be2df9b6fd8acf19ec1c6c38f303194beea9de3ec5<br>
 Message ID: \<9408291926.AA13668@anchor.ho.att.com\><br>
@@ -49,6 +49,8 @@ Schneier also discusses the technology somewhat.
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)](/author/wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_)"
 
 + 1994-08-29 (Mon, 29 Aug 94 12:29:34 PDT) - Re:  ?-line cash - _wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)_
 

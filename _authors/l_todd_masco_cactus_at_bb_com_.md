@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: l_todd_masco_cactus_at_bb_com_
+post_count: 40
 ---
 
-# "L. Todd Masco" <cactus@bb.com> (40 posts)
+# "L. Todd Masco" <cactus<span>@</span>bb.com> (40 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

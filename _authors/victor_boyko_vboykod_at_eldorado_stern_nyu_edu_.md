@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: victor_boyko_vboykod_at_eldorado_stern_nyu_edu_
+post_count: 3
 ---
 
-# Victor Boyko <vboykod@eldorado.stern.nyu.edu> (3 posts)
+# Victor Boyko <vboykod<span>@</span>eldorado.stern.nyu.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ub075_at_freenet_victoria_bc_ca_ryan_a_perkins_
+post_count: 6
 ---
 
-# ub075@freenet.victoria.bc.ca (Ryan A. Perkins) (6 posts)
+# ub075<span>@</span>freenet.victoria.bc.ca (Ryan A. Perkins) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

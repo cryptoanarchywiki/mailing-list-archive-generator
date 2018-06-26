@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: wetnaga_peter_davidson_
+post_count: 10
 ---
 
 # wet!naga (Peter Davidson) (10 posts)

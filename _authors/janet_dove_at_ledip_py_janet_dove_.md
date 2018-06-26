@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: janet_dove_at_ledip_py_janet_dove_
+post_count: 1
 ---
 
-# janet.dove@ledip.py (Janet Dove) (1 posts)
+# janet.dove<span>@</span>ledip.py (Janet Dove) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

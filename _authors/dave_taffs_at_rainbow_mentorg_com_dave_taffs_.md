@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_taffs_at_rainbow_mentorg_com_dave_taffs_
+post_count: 4
 ---
 
-# dave_taffs@rainbow.mentorg.com (Dave Taffs) (4 posts)
+# dave_taffs<span>@</span>rainbow.mentorg.com (Dave Taffs) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

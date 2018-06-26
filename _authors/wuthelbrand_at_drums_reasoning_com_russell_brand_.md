@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wuthelbrand_at_drums_reasoning_com_russell_brand_
+post_count: 1
 ---
 
-# wuthel!brand@drums.reasoning.com (Russell Brand) (1 posts)
+# wuthel!brand<span>@</span>drums.reasoning.com (Russell Brand) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

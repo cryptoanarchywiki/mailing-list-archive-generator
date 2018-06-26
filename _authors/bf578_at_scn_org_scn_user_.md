@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bf578_at_scn_org_scn_user_
+post_count: 10
 ---
 
-# bf578@scn.org (SCN User) (10 posts)
+# bf578<span>@</span>scn.org (SCN User) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iso88591qjesfas_cea_iso88591qavif3n_jcea_at_argo_es_
+post_count: 2
 ---
 
-# "=?iso-8859-1?Q?Jes=FAs?= Cea =?iso-8859-1?Q?Avi=F3n?=" <jcea@argo.es> (2 posts)
+# "=?iso-8859-1?Q?Jes=FAs?= Cea =?iso-8859-1?Q?Avi=F3n?=" <jcea<span>@</span>argo.es> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

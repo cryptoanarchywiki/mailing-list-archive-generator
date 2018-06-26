@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: danisch@ira.uka.de (Hadmut Danisch)<br>
+From: danisch<span>@</span>ira.uka.de (Hadmut Danisch)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 92a098859b6a92a795ba439f18da4ddd4bfc7ad3aec40dacb662cd0fbeffc4dd<br>
 Message ID: \<9508011130.AA11309@elysion.iaks.ira.uka.de\><br>
@@ -47,6 +47,8 @@ Hadmut
 ## Thread
 
 + Return to [August 1995](/archive/1995/08)
+
++ Return to "[danisch<span>@</span>ira.uka.de (Hadmut Danisch)](/author/danisch_at_ira_uka_de_hadmut_danisch_)"
 
 + 1995-08-01 (Tue, 1 Aug 95 04:45:31 PDT) - Re: Sex & Crime TV filter - _danisch@ira.uka.de (Hadmut Danisch)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: germano_caronni_caronni_at_tik_ee_ethz_ch_
+post_count: 3
 ---
 
-# Germano Caronni <caronni@tik.ee.ethz.ch> (3 posts)
+# Germano Caronni <caronni<span>@</span>tik.ee.ethz.ch> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

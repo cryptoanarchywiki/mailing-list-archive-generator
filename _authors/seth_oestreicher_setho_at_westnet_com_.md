@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: seth_oestreicher_setho_at_westnet_com_
+post_count: 6
 ---
 
-# Seth Oestreicher <setho@westnet.com> (6 posts)
+# Seth Oestreicher <setho<span>@</span>westnet.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: beta_at_eb_com_beta_test_
+post_count: 2
 ---
 
-# beta@eb.com (Beta Test) (2 posts)
+# beta<span>@</span>eb.com (Beta Test) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

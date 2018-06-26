@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@piermont.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>piermont.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: e2f119ad4fdb1c26dadf8bfc817cb1d1ea32631b0eabb68cd31ffa79543bc9b9<br>
 Message ID: \<199511111814.NAA23863@jekyll.piermont.com\><br>
@@ -49,6 +49,9 @@ The topic you are covering isn't especially relevant, either.
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1995-11-13 (Mon, 13 Nov 1995 16:33:42 +0800) - [Love Bugs](/archive/1995/11/76f123b86636f584026c3897cd1ba3948b2da6cdbf3f9d2714d4f92c214e1a64) - _nobody@REPLAY.COM (Anonymous)_
   + 1995-11-14 (Tue, 14 Nov 1995 08:19:53 +0800) - Re: Love Bugs - _"Perry E. Metzger" \<perry@piermont.com\>_

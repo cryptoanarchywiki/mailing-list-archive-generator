@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: djwright_djwright_at_blackfoot_ucs_indiana_edu_
+post_count: 1
 ---
 
-# djwright <djwright@blackfoot.ucs.indiana.edu> (1 posts)
+# djwright <djwright<span>@</span>blackfoot.ucs.indiana.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

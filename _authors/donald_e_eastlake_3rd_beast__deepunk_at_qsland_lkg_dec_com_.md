@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: donald_e_eastlake_3rd_beast__deepunk_at_qsland_lkg_dec_com_
+post_count: 1
 ---
 
-# "Donald E. Eastlake 3rd (Beast)" <dee-punk@qsland.lkg.dec.com> (1 posts)
+# "Donald E. Eastlake 3rd (Beast)" <dee-punk<span>@</span>qsland.lkg.dec.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

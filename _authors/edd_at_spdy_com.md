@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edd_at_spdy_com
+post_count: 2
 ---
 
-# edd@spdy.com (2 posts)
+# edd<span>@</span>spdy.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

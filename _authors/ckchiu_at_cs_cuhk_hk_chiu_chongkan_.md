@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ckchiu_at_cs_cuhk_hk_chiu_chongkan_
+post_count: 1
 ---
 
-# ckchiu@cs.cuhk.hk (Chiu Chong-kan) (1 posts)
+# ckchiu<span>@</span>cs.cuhk.hk (Chiu Chong-kan) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

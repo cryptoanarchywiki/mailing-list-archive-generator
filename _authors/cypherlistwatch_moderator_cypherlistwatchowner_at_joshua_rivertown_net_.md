@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cypherlistwatch_moderator_cypherlistwatchowner_at_joshua_rivertown_net_
+post_count: 1
 ---
 
-# Cypherlist-Watch Moderator <cypherlist-watch-owner@joshua.rivertown.net> (1 posts)
+# Cypherlist-Watch Moderator <cypherlist-watch-owner<span>@</span>joshua.rivertown.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

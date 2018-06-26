@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: damon_gallaty_dgal_at_cad_gatech_edu_
+post_count: 1
 ---
 
-# Damon Gallaty <dgal@cad.gatech.edu> (1 posts)
+# Damon Gallaty <dgal<span>@</span>cad.gatech.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

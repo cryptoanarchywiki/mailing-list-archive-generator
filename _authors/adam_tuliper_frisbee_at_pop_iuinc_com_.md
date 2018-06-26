@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adam_tuliper_frisbee_at_pop_iuinc_com_
+post_count: 1
 ---
 
-# "Adam Tuliper" <frisbee@pop.iuinc.com> (1 posts)
+# "Adam Tuliper" <frisbee<span>@</span>pop.iuinc.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

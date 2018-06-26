@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hanabusa_at_bnnnet_or_jp_sh_hanabusa_
+post_count: 1
 ---
 
-# hanabusa@bnn-net.or.jp (Sh.Hanabusa) (1 posts)
+# hanabusa<span>@</span>bnn-net.or.jp (Sh.Hanabusa) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

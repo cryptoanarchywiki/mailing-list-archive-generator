@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_j_gebis_gebis_at_ecn_purdue_edu_
+post_count: 5
 ---
 
-# Michael J Gebis <gebis@ecn.purdue.edu> (5 posts)
+# Michael J Gebis <gebis<span>@</span>ecn.purdue.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

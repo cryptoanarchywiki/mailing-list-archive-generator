@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "L. Detweiler" \<ld231782@longs.lance.colostate.edu\><br>
+From: "L. Detweiler" \<ld231782<span>@</span>longs.lance.colostate.edu\><br>
 To: cypherwonks@lists.eunet.fi<br>
 Message Hash: faa3f6593c3f930093d99dad6bfe85fc77beccc2bc52fb814e0effd78a5cd8d5<br>
 Message ID: \<199312240642.XAA00629@longs.lance.colostate.edu\><br>
@@ -352,6 +352,8 @@ body behind the pseudonym is in no way deserving of violence.
 ## Thread
 
 + Return to [December 1993](/archive/1993/12)
+
++ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/author/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
 
 + 1993-12-24 (Thu, 23 Dec 93 22:50:39 PST) - Happy Holidays - _"L. Detweiler" \<ld231782@longs.lance.colostate.edu\>_
 

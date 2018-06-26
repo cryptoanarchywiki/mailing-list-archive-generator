@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "David Klur" \<dklur@dttus.com\><br>
+From: "David Klur" \<dklur<span>@</span>dttus.com\><br>
 To: WWW-BUYINFO@ALLEGRA.ATT.COM<br>
 Message Hash: e728ca8bfc4ad9cc55d73846f4decae324b7bcd8e1d68faddeffdc4288e3bf51<br>
 Message ID: \<9511228196.AA819668788@cc1.dttus.com\><br>
@@ -65,6 +65,9 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "["David Klur" <dklur<span>@</span>dttus.com>](/author/david_klur_dklur_at_dttus_com_)"
++ Return to "["Donald E. Eastlake 3rd" <dee<span>@</span>cybercash.com>](/author/donald_e_eastlake_3rd_dee_at_cybercash_com_)"
 
 + 1995-12-22 (Sat, 23 Dec 1995 04:32:35 +0800) - Cybercash questions... - _"David Klur" \<dklur@dttus.com\>_
   + 1995-12-22 (Sat, 23 Dec 1995 05:05:42 +0800) - [Re: Cybercash questions...](/archive/1995/12/5ba31ea9252b96f56a056710369bf8c518cb4d7fa97847fd241d5aa9964ec81a) - _"Donald E. Eastlake 3rd" \<dee@cybercash.com\>_

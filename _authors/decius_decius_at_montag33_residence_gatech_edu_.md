@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: decius_decius_at_montag33_residence_gatech_edu_
+post_count: 4
 ---
 
-# Decius <decius@montag33.residence.gatech.edu> (4 posts)
+# Decius <decius<span>@</span>montag33.residence.gatech.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

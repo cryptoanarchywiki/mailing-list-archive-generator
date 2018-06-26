@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: Declan McCullagh \<declan@well.com\><br>
 Message Hash: 63fc9b1d4eff6f4fe5bcd80ffdf25feaa0a3b4b4a04a64fc0cf9bfe2cd9bc5d8<br>
 Message ID: \<3.0.1.32.19970320124236.0062d868@popd.ix.netcom.com\><br>
@@ -73,6 +73,9 @@ At 06:45 PM 3/19/97 -0500, Declan wrote:
 ## Thread
 
 + Return to [March 1997](/archive/1997/03)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
 
 + 1997-03-19 (Wed, 19 Mar 1997 15:46:42 -0800 (PST)) - [Report from Supreme Court on CDA arguments](/archive/1997/03/fbfc2743ed43a4c4c742585c5db3471eac387e05d164a70cfaac16bdc3f10c83) - _Declan McCullagh \<declan@well.com\>_
   + 1997-03-20 (Thu, 20 Mar 1997 12:45:09 -0800 (PST)) - Re: Report from Supreme Court on CDA arguments - _Bill Stewart \<stewarts@ix.netcom.com\>_

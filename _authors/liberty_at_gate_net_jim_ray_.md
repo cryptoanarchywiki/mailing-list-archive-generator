@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: liberty_at_gate_net_jim_ray_
+post_count: 86
 ---
 
-# liberty@gate.net (Jim Ray) (86 posts)
+# liberty<span>@</span>gate.net (Jim Ray) (86 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

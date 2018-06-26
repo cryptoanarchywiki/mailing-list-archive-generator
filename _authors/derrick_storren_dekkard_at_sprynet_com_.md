@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: derrick_storren_dekkard_at_sprynet_com_
+post_count: 6
 ---
 
-# Derrick Storren <dekkard@sprynet.com> (6 posts)
+# Derrick Storren <dekkard<span>@</span>sprynet.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

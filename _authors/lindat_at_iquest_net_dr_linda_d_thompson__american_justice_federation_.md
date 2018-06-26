@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lindat_at_iquest_net_dr_linda_d_thompson__american_justice_federation_
+post_count: 1
 ---
 
-# lindat@iquest.net (Dr. Linda D. Thompson - American Justice Federation) (1 posts)
+# lindat<span>@</span>iquest.net (Dr. Linda D. Thompson - American Justice Federation) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

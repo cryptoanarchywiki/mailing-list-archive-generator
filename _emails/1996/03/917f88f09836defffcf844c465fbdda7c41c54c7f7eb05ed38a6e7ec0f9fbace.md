@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: anonymous@extropia.wimsey.com<br>
+From: anonymous<span>@</span>extropia.wimsey.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 917f88f09836defffcf844c465fbdda7c41c54c7f7eb05ed38a6e7ec0f9fbace<br>
 Message ID: \<199603122155.QAA04971@miron.vip.best.com\><br>
@@ -53,6 +53,8 @@ Has anyone else received one of these?
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[anonymous<span>@</span>extropia.wimsey.com](/author/anonymous_at_extropia_wimsey_com)"
 
 + 1996-03-13 (Wed, 13 Mar 1996 16:14:19 +0800) - all.net - _anonymous@extropia.wimsey.com_
 

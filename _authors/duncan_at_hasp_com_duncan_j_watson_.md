@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: duncan_at_hasp_com_duncan_j_watson_
+post_count: 2
 ---
 
-# duncan@hasp.com (Duncan J Watson) (2 posts)
+# duncan<span>@</span>hasp.com (Duncan J Watson) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patiwat_panurach_akira_rising__pati_at_ipied_tu_ac_th_
+post_count: 7
 ---
 
-# "Patiwat Panurach  (akira rising)" <pati@ipied.tu.ac.th> (7 posts)
+# "Patiwat Panurach  (akira rising)" <pati<span>@</span>ipied.tu.ac.th> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

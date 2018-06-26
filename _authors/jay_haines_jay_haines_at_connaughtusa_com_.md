@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jay_haines_jay_haines_at_connaughtusa_com_
+post_count: 4
 ---
 
-# "Jay Haines" <jay_haines@connaught-usa.com> (4 posts)
+# "Jay Haines" <jay_haines<span>@</span>connaught-usa.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

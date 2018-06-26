@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: babyx_babyx_at_slowdog_com_
+post_count: 1
 ---
 
-# baby-X <baby-x@slowdog.com> (1 posts)
+# baby-X <baby-x<span>@</span>slowdog.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

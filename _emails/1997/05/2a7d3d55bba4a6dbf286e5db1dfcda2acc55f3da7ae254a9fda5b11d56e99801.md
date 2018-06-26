@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2a7d3d55bba4a6dbf286e5db1dfcda2acc55f3da7ae254a9fda5b11d56e99801<br>
 Message ID: \<v03020913afb0ee829e94@[139.167.130.247]\><br>
@@ -133,6 +133,8 @@ The e$ Home Page: http://www.shipwright.com/
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-05-27 (Wed, 28 May 1997 06:33:56 +0800) - New Hampshire INTERNET SIG Meeting, Tuesday, June 3, 1997 - _Robert Hettinga \<rah@shipwright.com\>_
 

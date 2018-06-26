@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tlr1_at_acpub_duke_edu_tristan_lanier_reid_
+post_count: 2
 ---
 
-# tlr1@acpub.duke.edu (Tristan Lanier Reid) (2 posts)
+# tlr1<span>@</span>acpub.duke.edu (Tristan Lanier Reid) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

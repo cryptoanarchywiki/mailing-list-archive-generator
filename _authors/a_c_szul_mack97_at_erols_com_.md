@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: a_c_szul_mack97_at_erols_com_
+post_count: 1
 ---
 
-# "A. C. Szul" <mack97@erols.com> (1 posts)
+# "A. C. Szul" <mack97<span>@</span>erols.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

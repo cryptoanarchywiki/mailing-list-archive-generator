@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: o_c_winton_wn1z_orrin_at_redshift_com_
+post_count: 2
 ---
 
-# "O. C. Winton WN1Z" <orrin@redshift.com> (2 posts)
+# "O. C. Winton WN1Z" <orrin<span>@</span>redshift.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: internaut_unde0275_at_frank_mtsu_edu_
+post_count: 16
 ---
 
-# Internaut <unde0275@frank.mtsu.edu> (16 posts)
+# Internaut <unde0275<span>@</span>frank.mtsu.edu> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

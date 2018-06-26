@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Nathaniel Borenstein \<nsb@nsb.fv.com\><br>
+From: Nathaniel Borenstein \<nsb<span>@</span>nsb.fv.com\><br>
 To: eric@remailer.net<br>
 Message Hash: ac42abb39d7844f74ec8f6ef447bcff03eabbe21af27490c03abdafe32d27df5<br>
 Message ID: \<Qiwp1730Eyt5E5hexK@nsb.fv.com\><br>
@@ -164,6 +164,10 @@ have demonstrated that it isn't necessarily a prerequisite for commerce.
 
 + Return to [December 1994](/archive/1994/12)
 
-+ 1994-12-17 (Sat, 17 Dec 94 12:57:17 PST) - Re: properties of FV - _Nathaniel Borenstein \<nsb@nsb.fv.com\>_
-  + 1994-12-21 (Wed, 21 Dec 94 10:21:01 PST) - [Re: properties of FV](/archive/1994/12/25ad893fe881069700aaf88905153a5d111a5adf341dc6ec1a859d3a77d4ee4f) - _eric@remailer.net (Eric Hughes)_
++ Return to "[eric<span>@</span>remailer.net (Eric Hughes)](/author/eric_at_remailer_net_eric_hughes_)"
++ Return to "[Nathaniel Borenstein <nsb<span>@</span>nsb.fv.com>](/author/nathaniel_borenstein_nsb_at_nsb_fv_com_)"
+
++ _Unknown thread root_
+  + 1994-12-17 (Sat, 17 Dec 94 12:57:17 PST) - Re: properties of FV - _Nathaniel Borenstein \<nsb@nsb.fv.com\>_
+    + 1994-12-21 (Wed, 21 Dec 94 10:21:01 PST) - [Re: properties of FV](/archive/1994/12/25ad893fe881069700aaf88905153a5d111a5adf341dc6ec1a859d3a77d4ee4f) - _eric@remailer.net (Eric Hughes)_
 

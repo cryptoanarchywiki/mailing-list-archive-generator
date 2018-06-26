@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: institute_for_security_and_intelligence_isi_at_hooked_net_
+post_count: 1
 ---
 
-# "Institute for Security and Intelligence" <isi@hooked.net> (1 posts)
+# "Institute for Security and Intelligence" <isi<span>@</span>hooked.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

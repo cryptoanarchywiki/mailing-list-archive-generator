@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nahum_goldmann_at_arraydev_com_nahum_goldmann_
+post_count: 1
 ---
 
-# Nahum.Goldmann@ARRAYdev.com (Nahum Goldmann) (1 posts)
+# Nahum.Goldmann<span>@</span>ARRAYdev.com (Nahum Goldmann) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nye_at_voglnp_pnl_gov
+post_count: 1
 ---
 
-# nye@voglnp.pnl.gov (1 posts)
+# nye<span>@</span>voglnp.pnl.gov (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

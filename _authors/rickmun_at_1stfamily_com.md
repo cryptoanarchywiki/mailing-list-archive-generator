@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rickmun_at_1stfamily_com
+post_count: 2
 ---
 
-# rickmun@1stfamily.com (2 posts)
+# rickmun<span>@</span>1stfamily.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

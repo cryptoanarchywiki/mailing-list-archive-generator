@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jims_at_conch_aa_msen_com_jim_schueler_
+post_count: 1
 ---
 
-# jims@conch.aa.msen.com (Jim Schueler) (1 posts)
+# jims<span>@</span>conch.aa.msen.com (Jim Schueler) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

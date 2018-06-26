@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jetta_mf12_jettamf12_at_aol_com_
+post_count: 1
 ---
 
-# Jetta mf12 <Jettamf12@aol.com> (1 posts)
+# Jetta mf12 <Jettamf12<span>@</span>aol.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: "E. ALLEN SMITH" \<cypherpunks@toad.com<br>
 Message Hash: 8dea2aaeb6f1f7f4641aa4c3a4da8194fff0b9b042ea0eb3fb5ec4a51cdf5ea5<br>
 Message ID: \<199605102309.QAA13309@pacifier.com\><br>
@@ -71,6 +71,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-05-11 (Sat, 11 May 1996 14:25:45 +0800) - Re: Edited Edupage, 9 May 1996 - _jim bell \<jimbell@pacifier.com\>_
 

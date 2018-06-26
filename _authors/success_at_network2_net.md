@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: success_at_network2_net
+post_count: 1
 ---
 
-# success@network2.net (1 posts)
+# success<span>@</span>network2.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

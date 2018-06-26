@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mclow_at_san_marcos_csusm_edu_marshall_clow_
+post_count: 2
 ---
 
-# mclow@san_marcos.csusm.edu (Marshall Clow) (2 posts)
+# mclow<span>@</span>san_marcos.csusm.edu (Marshall Clow) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

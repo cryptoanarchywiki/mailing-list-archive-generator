@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wrevans_at_oceanus_mitre_org_ward_r_evans_
+post_count: 2
 ---
 
-# wrevans@oceanus.mitre.org (Ward R. Evans) (2 posts)
+# wrevans<span>@</span>oceanus.mitre.org (Ward R. Evans) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

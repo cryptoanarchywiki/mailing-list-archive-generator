@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: koontz_at_maspar_com
+post_count: 3
 ---
 
-# koontz@MasPar.COM (3 posts)
+# koontz<span>@</span>MasPar.COM (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

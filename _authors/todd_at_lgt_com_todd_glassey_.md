@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: todd_at_lgt_com_todd_glassey_
+post_count: 12
 ---
 
-# todd@lgt.com (Todd Glassey) (12 posts)
+# todd<span>@</span>lgt.com (Todd Glassey) (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

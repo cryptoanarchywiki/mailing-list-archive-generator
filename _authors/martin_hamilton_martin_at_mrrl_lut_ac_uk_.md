@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_hamilton_martin_at_mrrl_lut_ac_uk_
+post_count: 7
 ---
 
-# Martin Hamilton <martin@mrrl.lut.ac.uk> (7 posts)
+# Martin Hamilton <martin<span>@</span>mrrl.lut.ac.uk> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

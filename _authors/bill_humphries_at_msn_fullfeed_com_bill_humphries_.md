@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_humphries_at_msn_fullfeed_com_bill_humphries_
+post_count: 8
 ---
 
-# Bill.Humphries@msn.fullfeed.com (Bill Humphries) (8 posts)
+# Bill.Humphries<span>@</span>msn.fullfeed.com (Bill Humphries) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

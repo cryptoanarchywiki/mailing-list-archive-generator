@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_a_baugh_bruce_at_aracnet_com_
+post_count: 1
 ---
 
-# "Bruce A. Baugh" <bruce@aracnet.com> (1 posts)
+# "Bruce A. Baugh" <bruce<span>@</span>aracnet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

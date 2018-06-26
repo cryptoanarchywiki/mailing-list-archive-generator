@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_rand_ozdirect_at_onthenet_com_au_
+post_count: 1
 ---
 
-# "David Rand" <ozdirect@onthenet.com.au> (1 posts)
+# "David Rand" <ozdirect<span>@</span>onthenet.com.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

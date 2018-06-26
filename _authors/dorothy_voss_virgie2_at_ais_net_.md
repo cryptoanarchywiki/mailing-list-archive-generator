@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dorothy_voss_virgie2_at_ais_net_
+post_count: 1
 ---
 
-# Dorothy Voss <virgie2@ais.net> (1 posts)
+# Dorothy Voss <virgie2<span>@</span>ais.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

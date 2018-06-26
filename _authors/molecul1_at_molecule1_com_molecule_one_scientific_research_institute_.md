@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: molecul1_at_molecule1_com_molecule_one_scientific_research_institute_
+post_count: 4
 ---
 
-# molecul1@molecule1.com (Molecule One Scientific Research Institute) (4 posts)
+# molecul1<span>@</span>molecule1.com (Molecule One Scientific Research Institute) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

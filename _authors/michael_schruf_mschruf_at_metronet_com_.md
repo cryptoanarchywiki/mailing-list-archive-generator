@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_schruf_mschruf_at_metronet_com_
+post_count: 1
 ---
 
-# Michael Schruf <mschruf@metronet.com> (1 posts)
+# Michael Schruf <mschruf<span>@</span>metronet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_shanton_greg_shanton_at_csg_stercomm_com_
+post_count: 1
 ---
 
-# "Greg Shanton" <Greg_Shanton@csg.stercomm.com> (1 posts)
+# "Greg Shanton" <Greg_Shanton<span>@</span>csg.stercomm.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

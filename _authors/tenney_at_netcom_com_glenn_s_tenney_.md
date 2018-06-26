@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tenney_at_netcom_com_glenn_s_tenney_
+post_count: 2
 ---
 
-# tenney@netcom.com (Glenn S. Tenney) (2 posts)
+# tenney<span>@</span>netcom.com (Glenn S. Tenney) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

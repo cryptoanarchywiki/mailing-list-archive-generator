@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: er_cramer_crame001_at_next1_tem_nhl_nl_
+post_count: 1
 ---
 
-# ER CRAMER <crame001@next1.tem.nhl.nl> (1 posts)
+# ER CRAMER <crame001<span>@</span>next1.tem.nhl.nl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

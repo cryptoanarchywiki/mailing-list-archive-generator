@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_st_chris_at_gmx_net_
+post_count: 1
 ---
 
-# Chris <st_chris@gmx.net> (1 posts)
+# Chris <st_chris<span>@</span>gmx.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

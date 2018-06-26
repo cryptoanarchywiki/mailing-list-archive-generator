@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: an12070@anon.penet.fi (S.Boxx)<br>
+From: an12070<span>@</span>anon.penet.fi (S.Boxx)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: f7ccaee4dcb5c62c48bfabf550d38cf5f0e80d3c42ef7b62ba80b81d5aac993c<br>
 Message ID: \<9311290559.AA13919@anon.penet.fi\><br>
@@ -72,6 +72,9 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 ## Thread
 
 + Return to [November 1993](/archive/1993/11)
+
++ Return to "[an12070<span>@</span>anon.penet.fi (S.Boxx)](/author/an12070_at_anon_penet_fi_s_boxx_)"
++ Return to "[ferguson<span>@</span>icm1.icp.net (Paul Ferguson x2044)](/author/ferguson_at_icm1_icp_net_paul_ferguson_x2044_)"
 
 + 1993-11-29 (Sun, 28 Nov 93 21:59:40 PST) - Real People - _an12070@anon.penet.fi (S.Boxx)_
   + 1993-11-29 (Mon, 29 Nov 93 04:56:58 PST) - [Re: Real People](/archive/1993/11/72b425d165687b0c6a9592ec1e9a9ae4e0dc249223569a1d901cc6e2df68a51a) - _ferguson@icm1.icp.net (Paul Ferguson x2044)_

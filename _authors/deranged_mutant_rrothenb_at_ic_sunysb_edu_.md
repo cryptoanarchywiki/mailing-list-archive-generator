@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deranged_mutant_rrothenb_at_ic_sunysb_edu_
+post_count: 22
 ---
 
-# Deranged Mutant <rrothenb@ic.sunysb.edu> (22 posts)
+# Deranged Mutant <rrothenb<span>@</span>ic.sunysb.edu> (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

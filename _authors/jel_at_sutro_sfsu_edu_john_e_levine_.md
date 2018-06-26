@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jel_at_sutro_sfsu_edu_john_e_levine_
+post_count: 6
 ---
 
-# jel@sutro.SFSU.EDU (John E. Levine) (6 posts)
+# jel<span>@</span>sutro.SFSU.EDU (John E. Levine) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

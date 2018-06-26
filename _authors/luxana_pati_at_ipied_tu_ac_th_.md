@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: luxana_pati_at_ipied_tu_ac_th_
+post_count: 4
 ---
 
-# luxana <pati@ipied.tu.ac.th> (4 posts)
+# luxana <pati<span>@</span>ipied.tu.ac.th> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

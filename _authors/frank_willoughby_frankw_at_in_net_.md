@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frank_willoughby_frankw_at_in_net_
+post_count: 20
 ---
 
-# Frank Willoughby <frankw@in.net> (20 posts)
+# Frank Willoughby <frankw<span>@</span>in.net> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

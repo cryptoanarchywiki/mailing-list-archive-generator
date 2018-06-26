@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tomw_at_netscape_com_tom_weinstein_
+post_count: 3
 ---
 
-# tomw@netscape.com (Tom Weinstein) (3 posts)
+# tomw<span>@</span>netscape.com (Tom Weinstein) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

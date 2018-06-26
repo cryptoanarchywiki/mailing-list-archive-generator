@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: kelly@pleiku.netcom.com<br>
+From: kelly<span>@</span>pleiku.netcom.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7dcf652556a36e8ad319d44acdaf05b0a0ed71dbc7d9cc3dedc5adefefe29555<br>
 Message ID: \<9305251634.AA18989@toad.com\><br>
@@ -110,6 +110,8 @@ STOP THE WIRETAP CHIP(Clipper Chip)!!
 ## Thread
 
 + Return to [May 1993](/archive/1993/05)
+
++ Return to "[kelly<span>@</span>pleiku.netcom.com](/author/kelly_at_pleiku_netcom_com)"
 
 + 1993-05-25 (Tue, 25 May 93 09:34:33 PDT) - No Subject - _kelly@pleiku.netcom.com_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roger_j_jones_cyber_at_ibpinc_com_
+post_count: 12
 ---
 
-# Roger J Jones <cyber@ibpinc.com> (12 posts)
+# Roger J Jones <cyber<span>@</span>ibpinc.com> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

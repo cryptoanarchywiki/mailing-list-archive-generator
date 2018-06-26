@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mogsie_at_vnet_ibm_com
+post_count: 1
 ---
 
-# mogsie@VNET.IBM.COM (1 posts)
+# mogsie<span>@</span>VNET.IBM.COM (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

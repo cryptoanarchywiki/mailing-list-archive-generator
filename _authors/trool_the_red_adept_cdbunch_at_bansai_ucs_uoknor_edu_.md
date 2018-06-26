@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: trool_the_red_adept_cdbunch_at_bansai_ucs_uoknor_edu_
+post_count: 1
 ---
 
-# "Trool the Red Adept" <cdbunch@bansai.ucs.uoknor.edu> (1 posts)
+# "Trool the Red Adept" <cdbunch<span>@</span>bansai.ucs.uoknor.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

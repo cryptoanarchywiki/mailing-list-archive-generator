@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kdss_at_proxy_businessnet_dk
+post_count: 1
 ---
 
-# kdss@proxy.businessnet.dk (1 posts)
+# kdss<span>@</span>proxy.businessnet.dk (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_m_harvey_i_warrior_at_infinet_com_
+post_count: 6
 ---
 
-# "David M. Harvey I" <warrior@infinet.com> (6 posts)
+# "David M. Harvey I" <warrior<span>@</span>infinet.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

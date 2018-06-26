@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: mrm@netcom.com (Marianne Mueller)<br>
+From: mrm<span>@</span>netcom.com (Marianne Mueller)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: bd06f5eb98e3c47a1412afaf8aa7d797bf0af4df6eb5bdd5bbaf3431f77f2fc8<br>
 Message ID: \<199602252053.MAA25480@netcom20.netcom.com\><br>
@@ -77,6 +77,8 @@ http://java.sun.com/people/mrm/
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[mrm<span>@</span>netcom.com (Marianne Mueller)](/author/mrm_at_netcom_com_marianne_mueller_)"
 
 + 1996-02-25 (Mon, 26 Feb 1996 05:35:37 +0800) - Re: DNS-related problem, and, motherhood 'n apple pie, etc - _mrm@netcom.com (Marianne Mueller)_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: abaae1be8b1ebe2ad587fee7fccf0e6ad01a446ba859f79c2a4d8d087ef2a53e<br>
 Message ID: \<199804060308.XAA25459@camel7.mindspring.com\><br>
@@ -103,6 +103,10 @@ Full remarks: http://jya.com/wakeup-call.txt  (18K)
 ## Thread
 
 + Return to [April 1998](/archive/1998/04)
+
++ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/author/bill_stewart_bill_stewart_at_pobox_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/author/william_h_geiger_iii_whgiii_at_invweb_net_)"
 
 + 1998-04-06 (Sun, 5 Apr 1998 20:08:50 -0700 (PDT)) - Leahy's Crypto Wake-up Call - _John Young \<jya@pipeline.com\>_
   + 1998-04-06 (Sun, 5 Apr 1998 20:39:46 -0700 (PDT)) - [Re: Leahy's Crypto Wake-up Call](/archive/1998/04/84f377938a4114050e83c20bf82f2df1bb4e4edb52adfccd5478d089bcd55566) - _"William H. Geiger III" \<whgiii@invweb.net\>_

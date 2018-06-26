@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_rothenberg_rrothenb_at_libws4_ic_sunysb_edu_
+post_count: 8
 ---
 
-# Robert Rothenberg <rrothenb@libws4.ic.sunysb.edu> (8 posts)
+# Robert Rothenberg <rrothenb<span>@</span>libws4.ic.sunysb.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

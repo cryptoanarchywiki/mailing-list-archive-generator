@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joe_n_turner_at_amoco_com
+post_count: 1
 ---
 
-# joe_n_turner@amoco.com (1 posts)
+# joe_n_turner<span>@</span>amoco.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

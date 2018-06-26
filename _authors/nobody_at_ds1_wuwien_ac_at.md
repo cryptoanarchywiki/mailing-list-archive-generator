@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_ds1_wuwien_ac_at
+post_count: 15
 ---
 
-# nobody@ds1.wu-wien.ac.at (15 posts)
+# nobody<span>@</span>ds1.wu-wien.ac.at (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

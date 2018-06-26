@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_lau_rslau_at_ucs_usc_edu_
+post_count: 5
 ---
 
-# Robert Lau <rslau@ucs.usc.edu> (5 posts)
+# Robert Lau <rslau<span>@</span>ucs.usc.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

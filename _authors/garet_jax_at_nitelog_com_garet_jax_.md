@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: garet_jax_at_nitelog_com_garet_jax_
+post_count: 6
 ---
 
-# garet.jax@nitelog.com (Garet Jax) (6 posts)
+# garet.jax<span>@</span>nitelog.com (Garet Jax) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

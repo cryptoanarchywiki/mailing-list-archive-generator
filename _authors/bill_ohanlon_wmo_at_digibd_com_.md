@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_ohanlon_wmo_at_digibd_com_
+post_count: 8
 ---
 
-# "Bill O'Hanlon" <wmo@digibd.com> (8 posts)
+# "Bill O'Hanlon" <wmo<span>@</span>digibd.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

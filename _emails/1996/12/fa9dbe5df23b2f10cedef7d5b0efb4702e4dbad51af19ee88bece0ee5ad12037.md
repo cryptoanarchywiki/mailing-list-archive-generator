@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Gilmore \<gnu@toad.com\><br>
+From: John Gilmore \<gnu<span>@</span>toad.com\><br>
 To: cypherpunks<br>
 Message Hash: fa9dbe5df23b2f10cedef7d5b0efb4702e4dbad51af19ee88bece0ee5ad12037<br>
 Message ID: \<199612131849.KAA01675@toad.com\><br>
@@ -110,6 +110,8 @@ All contributions received shall be examined, and, if appropriate, a workshop
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
 
 + 1996-12-13 (Fri, 13 Dec 1996 10:50:00 -0800 (PST)) - RSA Laboratories seeks contributions for the "next generation" of PKCS - _John Gilmore \<gnu@toad.com\>_
 

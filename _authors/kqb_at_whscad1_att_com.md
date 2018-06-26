@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kqb_at_whscad1_att_com
+post_count: 5
 ---
 
-# kqb@whscad1.att.com (5 posts)
+# kqb<span>@</span>whscad1.att.com (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

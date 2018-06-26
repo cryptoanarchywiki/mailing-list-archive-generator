@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_tighe_at_central_sun_com_michael_tighe_sun_imp_
+post_count: 7
 ---
 
-# michael.tighe@Central.Sun.COM (Michael Tighe SUN IMP) (7 posts)
+# michael.tighe<span>@</span>Central.Sun.COM (Michael Tighe SUN IMP) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

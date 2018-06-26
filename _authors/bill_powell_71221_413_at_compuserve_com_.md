@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_powell_71221_413_at_compuserve_com_
+post_count: 1
 ---
 
-# bill powell <71221.413@CompuServe.COM> (1 posts)
+# bill powell <71221.413<span>@</span>CompuServe.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

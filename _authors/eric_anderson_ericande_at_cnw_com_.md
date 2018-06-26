@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_anderson_ericande_at_cnw_com_
+post_count: 10
 ---
 
-# Eric Anderson <ericande@cnw.com> (10 posts)
+# Eric Anderson <ericande<span>@</span>cnw.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

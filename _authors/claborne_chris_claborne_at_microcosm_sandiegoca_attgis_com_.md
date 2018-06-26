@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: claborne_chris_claborne_at_microcosm_sandiegoca_attgis_com_
+post_count: 3
 ---
 
-# "Claborne, Chris" <claborne@microcosm.sandiegoca.ATTGIS.COM> (3 posts)
+# "Claborne, Chris" <claborne<span>@</span>microcosm.sandiegoca.ATTGIS.COM> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_aldrich_maldrich_at_grctechs_va_grci_com_
+post_count: 24
 ---
 
-# Mark Aldrich <maldrich@grctechs.va.grci.com> (24 posts)
+# Mark Aldrich <maldrich<span>@</span>grctechs.va.grci.com> (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

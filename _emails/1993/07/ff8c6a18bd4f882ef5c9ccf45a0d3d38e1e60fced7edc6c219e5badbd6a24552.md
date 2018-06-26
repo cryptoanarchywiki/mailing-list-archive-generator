@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ""L. Detweiler"" \<ld231782@longs.lance.colostate.edu\><br>
+From: ""L. Detweiler"" \<ld231782<span>@</span>longs.lance.colostate.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ff8c6a18bd4f882ef5c9ccf45a0d3d38e1e60fced7edc6c219e5badbd6a24552<br>
 Message ID: \<9307210712.AA16784@longs.lance.colostate.edu\><br>
@@ -162,6 +162,9 @@ icon of our cause.
 ## Thread
 
 + Return to [July 1993](/archive/1993/07)
+
++ Return to "[""L. Detweiler"" <ld231782<span>@</span>longs.lance.colostate.edu>](/author/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
++ Return to "[morpheus<span>@</span>entropy.linet.org (morpheus)](/author/morpheus_at_entropy_linet_org_morpheus_)"
 
 + 1993-07-21 (Wed, 21 Jul 93 00:15:45 PDT) - Weaver/BATF trial - _""L. Detweiler"" \<ld231782@longs.lance.colostate.edu\>_
   + 1993-07-22 (Wed, 21 Jul 93 19:39:51 PDT) - [Re: Weaver/BATF trial](/archive/1993/07/52cec609b7cc3d00f0595b040669260adf302c9f6c0fa7facee2885733acd88e) - _morpheus@entropy.linet.org (morpheus)_

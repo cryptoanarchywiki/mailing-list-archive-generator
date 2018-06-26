@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_honeyman_honey_at_hone_citi_umich_edu_
+post_count: 3
 ---
 
-# peter honeyman <honey@hone.citi.umich.edu> (3 posts)
+# peter honeyman <honey<span>@</span>hone.citi.umich.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

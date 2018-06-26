@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_hemming__ceo_marketnet_johnhemming_at_mkn_co_uk_
+post_count: 8
 ---
 
-# "John Hemming - CEO MarketNet"  <johnhemming@mkn.co.uk> (8 posts)
+# "John Hemming - CEO MarketNet"  <johnhemming<span>@</span>mkn.co.uk> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

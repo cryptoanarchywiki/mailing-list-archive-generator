@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _bubbabill_at_whitehouse_gov_
+post_count: 2
 ---
 
-# <bubbabill@whitehouse.gov> (2 posts)
+# <bubbabill<span>@</span>whitehouse.gov> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

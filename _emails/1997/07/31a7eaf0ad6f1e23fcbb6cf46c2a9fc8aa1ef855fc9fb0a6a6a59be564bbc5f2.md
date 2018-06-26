@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ? the Platypus {aka David Formosa} \<dformosa@st.nepean.uws.edu.au\><br>
+From: ? the Platypus {aka David Formosa} \<dformosa<span>@</span>st.nepean.uws.edu.au\><br>
 To: _N/A_<br>
 Message Hash: 31a7eaf0ad6f1e23fcbb6cf46c2a9fc8aa1ef855fc9fb0a6a6a59be564bbc5f2<br>
 Message ID: \<Pine.LNX.3.93.970718093355.213D-100000@shirley\><br>
@@ -49,6 +49,10 @@ Themselves? --Terry Pratchett
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "[? the Platypus {aka David Formosa} <dformosa<span>@</span>st.nepean.uws.edu.au>](/author/_the_platypus_aka_david_formosa_dformosa_at_st_nepean_uws_edu_au_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
 
 + 1997-07-18 (Fri, 18 Jul 1997 09:45:13 +0800) - [ESPN hacked -- got info? (fwd)](/archive/1997/07/178a844e20d212ebfd1fd964e3ba24313f20025ff35a2bc51fb2771ef7b84e5f) - _Declan McCullagh \<declan@well.com\>_
   + 1997-07-18 (Fri, 18 Jul 1997 11:25:04 +0800) - [Re: ESPN hacked -- got info? (fwd)](/archive/1997/07/1b3c6a4ecb88b03dcd04d0531d4ed3b0a7285953b3b880f5eb8a72b88d10a0cc) - _Adam Shostack \<adam@homeport.org\>_

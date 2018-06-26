@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erle_greer_vagab0nd_at_sd_cybernex_net_
+post_count: 16
 ---
 
-# Erle Greer <vagab0nd@sd.cybernex.net> (16 posts)
+# Erle Greer <vagab0nd<span>@</span>sd.cybernex.net> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

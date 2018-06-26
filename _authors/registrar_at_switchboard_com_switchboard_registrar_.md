@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: registrar_at_switchboard_com_switchboard_registrar_
+post_count: 2
 ---
 
-# registrar@switchboard.com (Switchboard Registrar) (2 posts)
+# registrar<span>@</span>switchboard.com (Switchboard Registrar) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

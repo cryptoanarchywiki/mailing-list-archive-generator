@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_grace_grace_at_zk3_dec_com_
+post_count: 2
 ---
 
-# Dave Grace <grace@zk3.dec.com> (2 posts)
+# Dave Grace <grace<span>@</span>zk3.dec.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

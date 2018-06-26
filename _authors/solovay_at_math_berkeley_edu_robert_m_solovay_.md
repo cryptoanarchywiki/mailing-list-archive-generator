@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: solovay_at_math_berkeley_edu_robert_m_solovay_
+post_count: 11
 ---
 
-# solovay@math.berkeley.edu (Robert M. Solovay) (11 posts)
+# solovay<span>@</span>math.berkeley.edu (Robert M. Solovay) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

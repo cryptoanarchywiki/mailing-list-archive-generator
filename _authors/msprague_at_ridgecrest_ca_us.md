@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: msprague_at_ridgecrest_ca_us
+post_count: 2
 ---
 
-# msprague@ridgecrest.ca.us (2 posts)
+# msprague<span>@</span>ridgecrest.ca.us (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

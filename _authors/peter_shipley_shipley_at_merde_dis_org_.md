@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_shipley_shipley_at_merde_dis_org_
+post_count: 31
 ---
 
-# Peter shipley <shipley@merde.dis.org> (31 posts)
+# Peter shipley <shipley<span>@</span>merde.dis.org> (31 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

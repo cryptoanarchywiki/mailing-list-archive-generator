@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lnda_at_aaaa_net
+post_count: 1
 ---
 
-# lnda@aaaa.net (1 posts)
+# lnda<span>@</span>aaaa.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

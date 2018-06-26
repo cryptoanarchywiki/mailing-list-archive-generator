@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 52622216_at_compuserve_com
+post_count: 1
 ---
 
-# 52622216@compuserve.com (1 posts)
+# 52622216<span>@</span>compuserve.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

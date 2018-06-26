@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)<br>
+From: wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2ab85966a9c7bc965242d4f0e2ca26cdf2ffb219dc7adba1d08dc3f2f6eeff6c<br>
 Message ID: \<9403020738.AA12338@anchor.ho.att.com\><br>
@@ -78,6 +78,10 @@ able to pull it off.
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[m5<span>@</span>vail.tivoli.com (Mike McNally)](/author/m5_at_vail_tivoli_com_mike_mcnally_)"
++ Return to "[rcain<span>@</span>netcom.com (Robert Cain)](/author/rcain_at_netcom_com_robert_cain_)"
++ Return to "[wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)](/author/wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_)"
 
 + 1994-03-02 (Tue, 1 Mar 94 23:38:52 PST) - Clipper (Re: Dorothy Denning) - _wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)_
   + 1994-03-03 (Wed, 2 Mar 94 18:48:31 PST) - [Re: Clipper (Re: Dorothy Denning)](/archive/1994/03/41cd013d46e78ecc8f198aeea0a8b15d526e2a1b59d9f7d301372a6a4b8dfacc) - _rcain@netcom.com (Robert Cain)_

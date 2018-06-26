@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dance_at_cicero_spc_uchicago_edu_squeal_
+post_count: 6
 ---
 
-# dance@cicero.spc.uchicago.edu (Squeal) (6 posts)
+# dance<span>@</span>cicero.spc.uchicago.edu (Squeal) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@imsi.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>imsi.com\><br>
 To: hughes@ah.com (Eric Hughes)<br>
 Message Hash: 5e9dcd86aecd5faa3714c8e5b7d72e4694ad4fb70f2ccbff2fdfa8bca604fb2b<br>
 Message ID: \<9408091634.AA23392@snark.imsi.com\><br>
@@ -49,6 +49,11 @@ Perry
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[Dave Horsfall <dave<span>@</span>esi.COM.AU>](/author/dave_horsfall_dave_at_esi_com_au_)"
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[snyderra<span>@</span>dunx1.ocs.drexel.edu (Bob Snyder)](/author/snyderra_at_dunx1_ocs_drexel_edu_bob_snyder_)"
 
 + 1994-08-09 (Tue, 9 Aug 94 08:00:59 PDT) - [Re: broadcast encryption](/archive/1994/08/807c2aeaf92138afa33c40efed17eccda98ec7d4a276361fbdfc7dab4ec5fb57) - _snyderra@dunx1.ocs.drexel.edu (Bob Snyder)_
   + 1994-08-09 (Tue, 9 Aug 94 09:24:58 PDT) - [broadcast encryption](/archive/1994/08/f66cb5b8fb9e010268352cc26ac894b62e7b90baafbdb00fa754629389625a9a) - _hughes@ah.com (Eric Hughes)_

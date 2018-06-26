@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: one4evil_at_juno_com_nalus_optic_
+post_count: 8
 ---
 
-# one4evil@juno.com (Nalus Optic) (8 posts)
+# one4evil<span>@</span>juno.com (Nalus Optic) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

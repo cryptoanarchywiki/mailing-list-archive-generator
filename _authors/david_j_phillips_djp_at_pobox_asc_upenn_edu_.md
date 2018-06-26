@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_j_phillips_djp_at_pobox_asc_upenn_edu_
+post_count: 2
 ---
 
-# "David J. Phillips" <djp@pobox.asc.upenn.edu> (2 posts)
+# "David J. Phillips" <djp<span>@</span>pobox.asc.upenn.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

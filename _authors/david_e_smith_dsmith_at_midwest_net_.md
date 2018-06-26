@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_e_smith_dsmith_at_midwest_net_
+post_count: 36
 ---
 
-# "David E. Smith" <dsmith@midwest.net> (36 posts)
+# "David E. Smith" <dsmith<span>@</span>midwest.net> (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

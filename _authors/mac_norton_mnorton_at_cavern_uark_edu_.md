@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mac_norton_mnorton_at_cavern_uark_edu_
+post_count: 57
 ---
 
-# Mac Norton <mnorton@cavern.uark.edu> (57 posts)
+# Mac Norton <mnorton<span>@</span>cavern.uark.edu> (57 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

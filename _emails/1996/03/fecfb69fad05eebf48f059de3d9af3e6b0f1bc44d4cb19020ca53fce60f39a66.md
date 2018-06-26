@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Deranged Mutant" \<WlkngOwl@unix.asb.com\><br>
+From: "Deranged Mutant" \<WlkngOwl<span>@</span>unix.asb.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fecfb69fad05eebf48f059de3d9af3e6b0f1bc44d4cb19020ca53fce60f39a66<br>
 Message ID: \<199603142334.SAA01238@unix.asb.com\><br>
@@ -85,6 +85,8 @@ quotes) to <WlkngOwl@unix.asb.com> for a copy of my PGP key.
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/author/deranged_mutant_wlkngowl_at_unix_asb_com_)"
 
 + 1996-03-15 (Fri, 15 Mar 1996 14:08:40 +0800) - (Fwd) BACKGROUNDER: Internet Censorship FAQ - _"Deranged Mutant" \<WlkngOwl@unix.asb.com\>_
 

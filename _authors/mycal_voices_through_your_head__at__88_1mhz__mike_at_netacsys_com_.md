@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mycal_voices_through_your_head__at__88_1mhz__mike_at_netacsys_com_
+post_count: 5
 ---
 
-# "mycal (voices through your head @ 88.1MHz)" <mike@NetAcsys.com> (5 posts)
+# "mycal (voices through your head <span>@</span> 88.1MHz)" <mike<span>@</span>NetAcsys.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

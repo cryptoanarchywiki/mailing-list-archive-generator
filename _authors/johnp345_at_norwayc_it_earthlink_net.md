@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: johnp345_at_norwayc_it_earthlink_net
+post_count: 1
 ---
 
-# johnp345@norway-c.it.earthlink.net (1 posts)
+# johnp345<span>@</span>norway-c.it.earthlink.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

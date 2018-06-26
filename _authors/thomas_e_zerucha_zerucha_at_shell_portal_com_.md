@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_e_zerucha_zerucha_at_shell_portal_com_
+post_count: 5
 ---
 
-# Thomas E Zerucha <zerucha@shell.portal.com> (5 posts)
+# Thomas E Zerucha <zerucha<span>@</span>shell.portal.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

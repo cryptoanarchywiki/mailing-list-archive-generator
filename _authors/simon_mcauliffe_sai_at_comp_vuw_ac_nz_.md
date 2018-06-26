@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: simon_mcauliffe_sai_at_comp_vuw_ac_nz_
+post_count: 1
 ---
 
-# "Simon McAuliffe" <sai@comp.vuw.ac.nz> (1 posts)
+# "Simon McAuliffe" <sai<span>@</span>comp.vuw.ac.nz> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

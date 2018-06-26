@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: neal_m_goldsmith_71722_2374_at_compuserve_com_
+post_count: 1
 ---
 
-# "Neal M. Goldsmith" <71722.2374@CompuServe.COM> (1 posts)
+# "Neal M. Goldsmith" <71722.2374<span>@</span>CompuServe.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

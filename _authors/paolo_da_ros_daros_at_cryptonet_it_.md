@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paolo_da_ros_daros_at_cryptonet_it_
+post_count: 1
 ---
 
-# Paolo Da Ros <daros@cryptonet.it> (1 posts)
+# Paolo Da Ros <daros<span>@</span>cryptonet.it> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

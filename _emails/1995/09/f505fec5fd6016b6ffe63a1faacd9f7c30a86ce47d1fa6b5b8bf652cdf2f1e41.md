@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Brad Dolan \<bdolan@use.usit.net\><br>
+From: Brad Dolan \<bdolan<span>@</span>use.usit.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f505fec5fd6016b6ffe63a1faacd9f7c30a86ce47d1fa6b5b8bf652cdf2f1e41<br>
 Message ID: \<Pine.SOL.3.91.950921174825.6924C-100000@use.usit.net\><br>
@@ -68,6 +68,8 @@ Title 27 CFR, part 47, Importation of Arms.
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[Brad Dolan <bdolan<span>@</span>use.usit.net>](/author/brad_dolan_bdolan_at_use_usit_net_)"
 
 + 1995-09-21 (Thu, 21 Sep 95 14:59:27 PDT) - Crypto *import* ban? - _Brad Dolan \<bdolan@use.usit.net\>_
 

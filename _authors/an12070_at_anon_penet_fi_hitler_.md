@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an12070_at_anon_penet_fi_hitler_
+post_count: 2
 ---
 
-# an12070@anon.penet.fi (Hitler ) (2 posts)
+# an12070<span>@</span>anon.penet.fi (Hitler ) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

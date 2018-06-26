@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathan_rochkind_jrochkin_at_cs_oberlin_edu_
+post_count: 35
 ---
 
-# Jonathan Rochkind <jrochkin@cs.oberlin.edu> (35 posts)
+# Jonathan Rochkind <jrochkin<span>@</span>cs.oberlin.edu> (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wcs_at_anchor_ho_att_com
+post_count: 51
 ---
 
-# wcs@anchor.ho.att.com (51 posts)
+# wcs<span>@</span>anchor.ho.att.com (51 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m_stirner_at_f28_n125_z1_rbbsnet_org_m_stirner_
+post_count: 3
 ---
 
-# M..Stirner@f28.n125.z1.RBBS-NET.ORG (M. Stirner) (3 posts)
+# M..Stirner<span>@</span>f28.n125.z1.RBBS-NET.ORG (M. Stirner) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

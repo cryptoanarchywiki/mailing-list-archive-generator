@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ekr_at_eit_com_eric_rescorla_
+post_count: 6
 ---
 
-# ekr@eit.COM (Eric Rescorla) (6 posts)
+# ekr<span>@</span>eit.COM (Eric Rescorla) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

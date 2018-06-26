@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Mark M." \<markm@voicenet.com\><br>
+From: "Mark M." \<markm<span>@</span>voicenet.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1ed16d81e2b1cb8bced0cc96a810d2bdedb3e805bf506b9cabfb9428bcead3b6<br>
 Message ID: \<Pine.LNX.3.93.960526203108.1142A-100000@gak\><br>
@@ -67,6 +67,9 @@ Bv7xE9WjM5A=
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "["O. C. Winton WN1Z" <orrin<span>@</span>redshift.com>](/author/o_c_winton_wn1z_orrin_at_redshift_com_)"
 
 + 1996-05-27 (Mon, 27 May 1996 09:06:46 +0800) - [e-mail gateways to usenet](/archive/1996/05/5f96e7a1f5e442fa0de8bc619ab0bbd122ab3a01e97ecee981329f484b287e53) - _"O. C. Winton WN1Z" \<orrin@redshift.com\>_
   + 1996-05-27 (Mon, 27 May 1996 11:40:58 +0800) - Re: e-mail gateways to usenet - _"Mark M." \<markm@voicenet.com\>_

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Steve Schear \<schear@lvdi.net\><br>
+From: Steve Schear \<schear<span>@</span>lvdi.net\><br>
 To: Eric Cordian \<cypherpunks@cyberpass.net<br>
 Message Hash: 8dc225aa49ae6ff3fb0e1e531b4dfb507e5b45af18db59cb46ddaed8de519bf8<br>
 Message ID: \<v03102803b0f490c22459@[208.129.55.202]\><br>
@@ -56,6 +56,13 @@ non-quantum mechanic?
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Eric Cordian <emc<span>@</span>wire.insync.net>](/author/eric_cordian_emc_at_wire_insync_net_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[phelix<span>@</span>vallnet.com](/author/phelix_at_vallnet_com)"
++ Return to "[Steve Schear <schear<span>@</span>lvdi.net>](/author/steve_schear_schear_at_lvdi_net_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1998-01-27 (Wed, 28 Jan 1998 05:36:54 +0800) - [update.356 (fwd)](/archive/1998/01/5a7d1e3ed2bcd2c53f89482daa5445d55d659b35530325560807bf28df2f3599) - _Jim Choate \<ravage@ssz.com\>_
   + 1998-01-28 (Wed, 28 Jan 1998 11:59:14 +0800) - [Planetary rovers, SETI and other musings, was Re: update.356 (fwd)](/archive/1998/01/6f92c9805e70c265de3866472e768104f63d80e6f05cb3681d185f5eeb4053fa) - _Steve Schear \<schear@lvdi.net\>_

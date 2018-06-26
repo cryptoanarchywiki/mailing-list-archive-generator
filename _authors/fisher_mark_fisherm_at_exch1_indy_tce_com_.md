@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fisher_mark_fisherm_at_exch1_indy_tce_com_
+post_count: 24
 ---
 
-# Fisher Mark <FisherM@exch1.indy.tce.com> (24 posts)
+# Fisher Mark <FisherM<span>@</span>exch1.indy.tce.com> (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

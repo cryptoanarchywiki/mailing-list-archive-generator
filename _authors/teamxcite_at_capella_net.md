@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: teamxcite_at_capella_net
+post_count: 1
 ---
 
-# TeamXcite@capella.net (1 posts)
+# TeamXcite<span>@</span>capella.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

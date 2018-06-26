@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joseph_m_reagle_jr__reagle_at_umbc_edu_
+post_count: 1
 ---
 
-# "Joseph M. Reagle Jr." <reagle@umbc.edu> (1 posts)
+# "Joseph M. Reagle Jr." <reagle<span>@</span>umbc.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

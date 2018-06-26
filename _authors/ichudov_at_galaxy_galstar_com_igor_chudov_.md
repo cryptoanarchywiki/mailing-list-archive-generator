@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ichudov_at_galaxy_galstar_com_igor_chudov_
+post_count: 5
 ---
 
-# ichudov@galaxy.galstar.com (Igor Chudov) (5 posts)
+# ichudov<span>@</span>galaxy.galstar.com (Igor Chudov) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

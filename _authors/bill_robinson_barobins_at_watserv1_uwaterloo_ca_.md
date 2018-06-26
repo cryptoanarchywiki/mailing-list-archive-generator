@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_robinson_barobins_at_watserv1_uwaterloo_ca_
+post_count: 1
 ---
 
-# Bill Robinson <barobins@watserv1.uwaterloo.ca> (1 posts)
+# Bill Robinson <barobins<span>@</span>watserv1.uwaterloo.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

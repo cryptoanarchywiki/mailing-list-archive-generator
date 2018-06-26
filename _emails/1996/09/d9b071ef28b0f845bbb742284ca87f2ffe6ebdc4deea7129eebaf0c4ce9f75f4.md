@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Arun Mehta \<amehta@giasdl01.vsnl.net.in\><br>
+From: Arun Mehta \<amehta<span>@</span>giasdl01.vsnl.net.in\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: d9b071ef28b0f845bbb742284ca87f2ffe6ebdc4deea7129eebaf0c4ce9f75f4<br>
 Message ID: \<1.5.4.32.19960902014136.002fc4b4@giasdl01.vsnl.net.in\><br>
@@ -80,6 +80,8 @@ http://www.cerfnet.com/~amehta/  finger amehta@cerfnet.com for public key
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Arun Mehta <amehta<span>@</span>giasdl01.vsnl.net.in>](/author/arun_mehta_amehta_at_giasdl01_vsnl_net_in_)"
 
 + 1996-09-02 (Mon, 2 Sep 1996 12:48:55 +0800) - Re: DON'T Nuke Singapore Back into the Stone Age - _Arun Mehta \<amehta@giasdl01.vsnl.net.in\>_
 

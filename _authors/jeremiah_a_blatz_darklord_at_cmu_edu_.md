@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremiah_a_blatz_darklord_at_cmu_edu_
+post_count: 21
 ---
 
-# Jeremiah A Blatz <darklord+@CMU.EDU> (21 posts)
+# Jeremiah A Blatz <darklord+<span>@</span>CMU.EDU> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

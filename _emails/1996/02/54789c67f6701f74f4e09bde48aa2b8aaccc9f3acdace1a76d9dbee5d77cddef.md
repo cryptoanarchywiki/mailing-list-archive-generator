@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: cypherpunks@toad.com (Cypherpunks Mailing List)<br>
 Message Hash: 54789c67f6701f74f4e09bde48aa2b8aaccc9f3acdace1a76d9dbee5d77cddef<br>
 Message ID: \<2.2.32.19960203134458.009cfccc@panix.com\><br>
@@ -55,6 +55,8 @@ DCF
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1996-02-03 (Sat, 3 Feb 1996 22:05:06 +0800) - Re: [NOISE] Futplex makes the news! - _Duncan Frissell \<frissell@panix.com\>_
 

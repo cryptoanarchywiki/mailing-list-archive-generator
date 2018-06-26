@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chip_turk182_at_joshua_chipware_net_
+post_count: 1
 ---
 
-# Chip <turk182@joshua.chipware.net> (1 posts)
+# Chip <turk182<span>@</span>joshua.chipware.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

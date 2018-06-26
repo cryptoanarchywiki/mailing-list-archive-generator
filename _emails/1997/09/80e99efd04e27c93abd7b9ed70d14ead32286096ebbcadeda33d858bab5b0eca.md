@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: staff@mailcorporation.com<br>
+From: staff<span>@</span>mailcorporation.com<br>
 To: user@mailcorporation.com<br>
 Message Hash: 80e99efd04e27c93abd7b9ed70d14ead32286096ebbcadeda33d858bab5b0eca<br>
 Message ID: \<199709040126.SAA15956@sweden.it.earthlink.net\><br>
@@ -65,6 +65,8 @@ autoremover mailbot can remove you from our mailing list.
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[staff<span>@</span>mailcorporation.com](/author/staff_at_mailcorporation_com)"
 
 + 1997-09-04 (Wed, 3 Sep 1997 18:44:48 -0700 (PDT)) - Re: 35,000,000 People... - _staff@mailcorporation.com_
 

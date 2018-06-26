@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_at_netcom_com_doug_merritt_
+post_count: 88
 ---
 
-# doug@netcom.com (Doug Merritt) (88 posts)
+# doug<span>@</span>netcom.com (Doug Merritt) (88 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

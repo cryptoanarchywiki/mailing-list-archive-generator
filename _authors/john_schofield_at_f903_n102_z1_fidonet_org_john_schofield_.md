@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_schofield_at_f903_n102_z1_fidonet_org_john_schofield_
+post_count: 4
 ---
 
-# John.Schofield@f903.n102.z1.fidonet.org (John Schofield) (4 posts)
+# John.Schofield<span>@</span>f903.n102.z1.fidonet.org (John Schofield) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

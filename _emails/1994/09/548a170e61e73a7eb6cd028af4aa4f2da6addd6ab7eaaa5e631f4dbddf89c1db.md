@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: frissell@panix.com (Duncan Frissell)<br>
+From: frissell<span>@</span>panix.com (Duncan Frissell)<br>
 To: Mike Markley \<mmarkley@microsoft.com\><br>
 Message Hash: 548a170e61e73a7eb6cd028af4aa4f2da6addd6ab7eaaa5e631f4dbddf89c1db<br>
 Message ID: \<199409080401.AA23344@panix.com\><br>
@@ -53,6 +53,8 @@ DCF
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[frissell<span>@</span>panix.com (Duncan Frissell)](/author/frissell_at_panix_com_duncan_frissell_)"
 
 + 1994-09-08 (Wed, 7 Sep 94 21:01:31 PDT) - Re: AIDs testing and privacy - _frissell@panix.com (Duncan Frissell)_
 

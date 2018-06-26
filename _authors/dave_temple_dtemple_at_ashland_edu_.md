@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_temple_dtemple_at_ashland_edu_
+post_count: 3
 ---
 
-# Dave Temple <dtemple@ashland.edu> (3 posts)
+# Dave Temple <dtemple<span>@</span>ashland.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

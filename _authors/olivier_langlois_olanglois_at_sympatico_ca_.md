@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: olivier_langlois_olanglois_at_sympatico_ca_
+post_count: 1
 ---
 
-# "Olivier Langlois" <olanglois@sympatico.ca> (1 posts)
+# "Olivier Langlois" <olanglois<span>@</span>sympatico.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

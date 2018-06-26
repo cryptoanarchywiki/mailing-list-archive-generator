@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Declan McCullagh \<declan@eff.org\><br>
+From: Declan McCullagh \<declan<span>@</span>eff.org\><br>
 To: Stephan Schmidt \<schmidt@pin.de\><br>
 Message Hash: 0af2dad0f6fbafa29daac4e3fd3de2022c1cf83908e42fd843ddb43a9d91cb95<br>
 Message ID: \<Pine.SUN.3.91.960905160453.12599F-100000@eff.org\><br>
@@ -70,6 +70,10 @@ On Thu, 5 Sep 1996, Stephan Schmidt wrote:
 
 + Return to [September 1996](/archive/1996/09)
 
-+ 1996-09-05 (Fri, 6 Sep 1996 05:15:22 +0800) - [Re: German prosecutors redouble attack on Net, subversive leftists](/archive/1996/09/f328339e9dbe24f4c76e8fd47f94dcdbf24ed1eb7f22c4f2ec08fc07c0889e86) - _Stephan Schmidt \<schmidt@pin.de\>_
-  + 1996-09-06 (Fri, 6 Sep 1996 19:23:21 +0800) - Re: German prosecutors redouble attack on Net, subversive leftists - _Declan McCullagh \<declan@eff.org\>_
++ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/author/declan_mccullagh_declan_at_eff_org_)"
++ Return to "[Stephan Schmidt <schmidt<span>@</span>pin.de>](/author/stephan_schmidt_schmidt_at_pin_de_)"
+
++ _Unknown thread root_
+  + 1996-09-05 (Fri, 6 Sep 1996 05:15:22 +0800) - [Re: German prosecutors redouble attack on Net, subversive leftists](/archive/1996/09/f328339e9dbe24f4c76e8fd47f94dcdbf24ed1eb7f22c4f2ec08fc07c0889e86) - _Stephan Schmidt \<schmidt@pin.de\>_
+    + 1996-09-06 (Fri, 6 Sep 1996 19:23:21 +0800) - Re: German prosecutors redouble attack on Net, subversive leftists - _Declan McCullagh \<declan@eff.org\>_
 

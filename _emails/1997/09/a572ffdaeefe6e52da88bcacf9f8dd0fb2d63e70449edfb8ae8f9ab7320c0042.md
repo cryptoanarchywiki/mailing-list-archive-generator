@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a572ffdaeefe6e52da88bcacf9f8dd0fb2d63e70449edfb8ae8f9ab7320c0042<br>
 Message ID: \<1.5.4.32.19970919023633.008820b4@pop.pipeline.com\><br>
@@ -93,6 +93,8 @@ The Bible Code foretells all.
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1997-09-19 (Fri, 19 Sep 1997 10:58:08 +0800) - Re: politics aren't all or nothing - _John Young \<jya@pipeline.com\>_
 

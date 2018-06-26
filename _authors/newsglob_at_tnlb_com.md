@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: newsglob_at_tnlb_com
+post_count: 2
 ---
 
-# newsglob@tnlb.com (2 posts)
+# newsglob<span>@</span>tnlb.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

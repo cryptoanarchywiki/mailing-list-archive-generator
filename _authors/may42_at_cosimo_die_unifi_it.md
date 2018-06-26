@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: may42_at_cosimo_die_unifi_it
+post_count: 1
 ---
 
-# may42@cosimo.die.unifi.it (1 posts)
+# may42<span>@</span>cosimo.die.unifi.it (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

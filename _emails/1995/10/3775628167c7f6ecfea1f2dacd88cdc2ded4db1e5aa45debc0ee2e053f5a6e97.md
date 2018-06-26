@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: cman@communities.com (Douglas Barnes)<br>
+From: cman<span>@</span>communities.com (Douglas Barnes)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3775628167c7f6ecfea1f2dacd88cdc2ded4db1e5aa45debc0ee2e053f5a6e97<br>
 Message ID: \<v02120d04aca0b23db407@[199.2.22.120]\><br>
@@ -269,6 +269,8 @@ for US laws.
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[cman<span>@</span>communities.com (Douglas Barnes)](/author/cman_at_communities_com_douglas_barnes_)"
 
 + 1995-10-11 (Tue, 10 Oct 95 19:32:50 PDT) - Int'l Money Laundering, Part the Second - _cman@communities.com (Douglas Barnes)_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 248fb4605961f05b56c43b6ef846cb52aeeec36bbbdabcbcbf154fd9c1a79ddd<br>
 Message ID: \<ou16ie71w165w@bwalk.dm.com\><br>
@@ -59,6 +59,9 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-01-11 (Mon, 12 Jan 1998 01:47:01 +0800) - [Eternity Services (fwd)](/archive/1998/01/fda4b0fb448be0209fb223e78df40ba8394ad4b8f1fc8cf9ead599bf512832ab) - _Jim Choate \<ravage@ssz.com\>_
   + 1998-01-11 (Mon, 12 Jan 1998 07:47:48 +0800) - Re: Eternity Services (fwd) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

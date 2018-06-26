@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_stutz_stutz_at_dsl_org_
+post_count: 28
 ---
 
-# Michael Stutz <stutz@dsl.org> (28 posts)
+# Michael Stutz <stutz<span>@</span>dsl.org> (28 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

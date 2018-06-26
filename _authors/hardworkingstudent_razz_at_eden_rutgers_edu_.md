@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hardworkingstudent_razz_at_eden_rutgers_edu_
+post_count: 1
 ---
 
-# HardWorkingStudent <razz@eden.rutgers.edu> (1 posts)
+# HardWorkingStudent <razz<span>@</span>eden.rutgers.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

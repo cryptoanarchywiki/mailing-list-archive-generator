@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Tim May \<tcmay@got.net\><br>
+From: Tim May \<tcmay<span>@</span>got.net\><br>
 To: cypherpunks@algebra.com<br>
 Message Hash: 8fa22cadfeb1fcea4b79088875bedfbabf0cd1b69606a2e2bab12d184d33c6b9<br>
 Message ID: \<v03102801afb8a60abb53@[207.167.93.63]\><br>
@@ -93,6 +93,10 @@ Higher Power: 2^1398269     | black markets, collapse of governments.
 ## Thread
 
 + Return to [June 1997](/archive/1997/06)
+
++ Return to "[pgut001<span>@</span>cs.auckland.ac.nz (Peter Gutmann)](/author/pgut001_at_cs_auckland_ac_nz_peter_gutmann_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[tzeruch<span>@</span>ceddec.com](/author/tzeruch_at_ceddec_com)"
 
 + 1997-06-02 (Mon, 2 Jun 1997 15:58:38 +0800) - [Re: Creating a unique ID number for a dollar](/archive/1997/06/ed72489dd445d5086d44e55e420400454a6cf24f3b204f3c8ca7734d534b8c9b) - _pgut001@cs.auckland.ac.nz (Peter Gutmann)_
   + 1997-06-02 (Tue, 3 Jun 1997 00:52:46 +0800) - Re: Creating a unique ID number for a dollar - _Tim May \<tcmay@got.net\>_

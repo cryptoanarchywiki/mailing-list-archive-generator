@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_penrod_jpenrod_at_sihope_com_
+post_count: 1
 ---
 
-# Jeff Penrod <jpenrod@sihope.com> (1 posts)
+# Jeff Penrod <jpenrod<span>@</span>sihope.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

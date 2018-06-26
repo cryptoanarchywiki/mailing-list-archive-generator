@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lord_krieg_cvadsaav_at_csupomona_edu_
+post_count: 2
 ---
 
-# "Lord Krieg" <CVADSAAV@CSUPomona.Edu> (2 posts)
+# "Lord Krieg" <CVADSAAV<span>@</span>CSUPomona.Edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

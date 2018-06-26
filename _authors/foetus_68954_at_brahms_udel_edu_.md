@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: foetus_68954_at_brahms_udel_edu_
+post_count: 1
 ---
 
-# Foetus <68954@brahms.udel.edu> (1 posts)
+# Foetus <68954<span>@</span>brahms.udel.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

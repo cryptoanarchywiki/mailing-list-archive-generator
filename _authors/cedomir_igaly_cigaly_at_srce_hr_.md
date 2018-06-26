@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cedomir_igaly_cigaly_at_srce_hr_
+post_count: 1
 ---
 
-# Cedomir Igaly <cigaly@srce.hr> (1 posts)
+# Cedomir Igaly <cigaly<span>@</span>srce.hr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

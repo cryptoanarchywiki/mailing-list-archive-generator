@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Thomas Koenig \<ig25@mvmap66.ciw.uni-karlsruhe.de\><br>
+From: Thomas Koenig \<ig25<span>@</span>mvmap66.ciw.uni-karlsruhe.de\><br>
 To: challenge@list.ee.ethz.ch (challenge)<br>
 Message Hash: 70d02b258fe2bab03ecafca5f6d356a89bea3ee6f167edda4c2ec35d6ee5efa2<br>
 Message ID: \<199702101024.LAA08950@mvmap66.ciw.uni-karlsruhe.de\><br>
@@ -68,6 +68,8 @@ logarithmic diagram.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Thomas Koenig <ig25<span>@</span>mvmap66.ciw.uni-karlsruhe.de>](/author/thomas_koenig_ig25_at_mvmap66_ciw_unikarlsruhe_de_)"
 
 + 1997-02-10 (Mon, 10 Feb 1997 03:26:43 -0800 (PST)) - What's next? - _Thomas Koenig \<ig25@mvmap66.ciw.uni-karlsruhe.de\>_
 

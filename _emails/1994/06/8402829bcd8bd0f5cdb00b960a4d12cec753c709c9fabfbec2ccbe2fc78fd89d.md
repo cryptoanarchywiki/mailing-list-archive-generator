@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rishab@dxm.ernet.in<br>
+From: rishab<span>@</span>dxm.ernet.in<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8402829bcd8bd0f5cdb00b960a4d12cec753c709c9fabfbec2ccbe2fc78fd89d<br>
 Message ID: \<gate.8iuBNc1w165w@dxm.ernet.in\><br>
@@ -62,6 +62,8 @@ The National Fairness to Game Animals Association says:
 ## Thread
 
 + Return to [June 1994](/archive/1994/06)
+
++ Return to "[rishab<span>@</span>dxm.ernet.in](/author/rishab_at_dxm_ernet_in)"
 
 + 1994-06-03 (Thu, 2 Jun 94 19:52:49 PDT) - PGP 2.6 is outside the US - _rishab@dxm.ernet.in_
 

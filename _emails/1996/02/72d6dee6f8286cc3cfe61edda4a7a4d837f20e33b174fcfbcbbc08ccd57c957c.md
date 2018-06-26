@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jis@mit.edu (Jeffrey I. Schiller)<br>
+From: jis<span>@</span>mit.edu (Jeffrey I. Schiller)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 72d6dee6f8286cc3cfe61edda4a7a4d837f20e33b174fcfbcbbc08ccd57c957c<br>
 Message ID: \<9602180318.AA22007@big-screw\><br>
@@ -70,6 +70,9 @@ pqiXNm/wBef4EFQ+NqKjPc/TW28odVGR50A5kneI/tyOjAYrFzetakOUlBeq+Qrv
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[jis<span>@</span>mit.edu (Jeffrey I. Schiller)](/author/jis_at_mit_edu_jeffrey_i_schiller_)"
++ Return to "["Mr. Nobody" <mixmaster<span>@</span>anon.alias.net>](/author/mr_nobody_mixmaster_at_anon_alias_net_)"
 
 + 1996-02-18 (Sun, 18 Feb 1996 11:37:54 +0800) - MIT Keyserver (at pgp@pgp.mit.edu) Mostly Operational - _jis@mit.edu (Jeffrey I. Schiller)_
   + 1996-02-18 (Sun, 18 Feb 1996 17:02:02 +0800) - [None](/archive/1996/02/7f30a443fc53b98edea22615165d9d4bd28483023115267c22b0801b9afbb5b0) - _"Mr. Nobody" \<mixmaster@anon.alias.net\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phil_at_dship_com
+post_count: 1
 ---
 
-# Phil@dship.com (1 posts)
+# Phil<span>@</span>dship.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

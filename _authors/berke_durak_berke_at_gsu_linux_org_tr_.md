@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: berke_durak_berke_at_gsu_linux_org_tr_
+post_count: 1
 ---
 
-# Berke Durak <berke@gsu.linux.org.tr> (1 posts)
+# Berke Durak <berke<span>@</span>gsu.linux.org.tr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mike Ingle \<inglem@adnetsol.com\><br>
+From: Mike Ingle \<inglem<span>@</span>adnetsol.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ade0f50b75f0f3c0c1ba3dbd1c1fbe26ce9531aa822cfa7498c06c6aa407cdfa<br>
 Message ID: \<199508050701.AAA00510@cryptical.adnetsol.com\><br>
@@ -331,6 +331,8 @@ fax:   +1.202.637.0968
 ## Thread
 
 + Return to [August 1995](/archive/1995/08)
+
++ Return to "[Mike Ingle <inglem<span>@</span>adnetsol.com>](/author/mike_ingle_inglem_at_adnetsol_com_)"
 
 + 1995-08-05 (Sat, 5 Aug 95 00:01:35 PDT) - Cox/Wyden passed, but so did "Managers' Amendment" - _Mike Ingle \<inglem@adnetsol.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: v20177_at_vax1_cc_uakron_edu_robert_d_shofner_
+post_count: 1
 ---
 
-# v20177@vax1.cc.uakron.edu (Robert D Shofner ) (1 posts)
+# v20177<span>@</span>vax1.cc.uakron.edu (Robert D Shofner ) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

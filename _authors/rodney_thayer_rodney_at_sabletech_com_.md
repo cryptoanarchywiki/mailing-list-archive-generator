@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rodney_thayer_rodney_at_sabletech_com_
+post_count: 3
 ---
 
-# Rodney Thayer <rodney@sabletech.com> (3 posts)
+# Rodney Thayer <rodney<span>@</span>sabletech.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

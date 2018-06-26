@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_loewenstern_andrew_loewenstern_at_il_us_swissbank_com_
+post_count: 101
 ---
 
-# Andrew Loewenstern <andrew_loewenstern@il.us.swissbank.com> (101 posts)
+# Andrew Loewenstern <andrew_loewenstern<span>@</span>il.us.swissbank.com> (101 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_paul_johnson_mpj_at_ebible_org_
+post_count: 4
 ---
 
-# Michael Paul Johnson <mpj@ebible.org> (4 posts)
+# Michael Paul Johnson <mpj<span>@</span>ebible.org> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

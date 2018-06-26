@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rich Graves \<rcgraves@disposable.com\><br>
+From: Rich Graves \<rcgraves<span>@</span>disposable.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a3ffeeca8652a8bdbfaeca7f8efd9c7cf2b3255fd66e1137eb5cc3b357711c9c<br>
 Message ID: \<199701232156.NAA27696@toad.com\><br>
@@ -44,6 +44,8 @@ There is a www.internet2.edu
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Rich Graves <rcgraves<span>@</span>disposable.com>](/author/rich_graves_rcgraves_at_disposable_com_)"
 
 + 1997-01-23 (Thu, 23 Jan 1997 13:56:09 -0800 (PST)) - Re: greed and the internet - _Rich Graves \<rcgraves@disposable.com\>_
 

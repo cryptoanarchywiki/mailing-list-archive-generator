@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_laffra_laffra_at_ms_com_
+post_count: 2
 ---
 
-# Chris Laffra <laffra@ms.com> (2 posts)
+# Chris Laffra <laffra<span>@</span>ms.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

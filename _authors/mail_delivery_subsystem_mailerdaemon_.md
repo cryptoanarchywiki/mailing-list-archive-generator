@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: mail_delivery_subsystem_mailerdaemon_
+post_count: 2
 ---
 
 # Mail Delivery Subsystem <MAILER-DAEMON> (2 posts)

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fb_at_cyberg_win_net_francis_barrett_
+post_count: 2
 ---
 
-# fb@cyberg.win.net (Francis Barrett) (2 posts)
+# fb<span>@</span>cyberg.win.net (Francis Barrett) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: light_ray_fricke_at_mae_engr_ucdavis_edu_
+post_count: 4
 ---
 
-# Light Ray <fricke@mae.engr.ucdavis.edu> (4 posts)
+# Light Ray <fricke<span>@</span>mae.engr.ucdavis.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

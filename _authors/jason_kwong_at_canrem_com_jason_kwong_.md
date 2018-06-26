@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jason_kwong_at_canrem_com_jason_kwong_
+post_count: 1
 ---
 
-# jason.kwong@canrem.com (Jason Kwong) (1 posts)
+# jason.kwong<span>@</span>canrem.com (Jason Kwong) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

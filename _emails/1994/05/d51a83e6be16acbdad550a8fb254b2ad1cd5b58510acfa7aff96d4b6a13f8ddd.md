@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jpp@jpplap (Jay Prime Positive)<br>
+From: jpp<span>@</span>jpplap (Jay Prime Positive)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d51a83e6be16acbdad550a8fb254b2ad1cd5b58510acfa7aff96d4b6a13f8ddd<br>
 Message ID: \<m0q3K9M-0003pSC@jpplap\><br>
@@ -51,6 +51,8 @@ Reference: <m0q3JvD-0003pSC@jpplap>
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[jpp<span>@</span>jpplap (Jay Prime Positive)](/author/jpp_at_jpplap_jay_prime_positive_)"
 
 + 1994-05-17 (Tue, 17 May 94 01:06:02 PDT) - [MAILER-DAEMON@jpplap: mail failed, returning to sender] - _jpp@jpplap (Jay Prime Positive)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_vincent_rvincent_at_cnmnet_com_
+post_count: 1
 ---
 
-# RICHARD VINCENT <rvincent@cnmnet.com> (1 posts)
+# RICHARD VINCENT <rvincent<span>@</span>cnmnet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

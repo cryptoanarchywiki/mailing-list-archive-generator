@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: beavis_b_thoopit_beavis_at_bioanalytical_com_
+post_count: 8
 ---
 
-# "Beavis B. Thoopit" <beavis@bioanalytical.com> (8 posts)
+# "Beavis B. Thoopit" <beavis<span>@</span>bioanalytical.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

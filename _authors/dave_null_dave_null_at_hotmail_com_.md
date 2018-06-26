@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_null_dave_null_at_hotmail_com_
+post_count: 2
 ---
 
-# "Dave Null" <dave_null@hotmail.com> (2 posts)
+# "Dave Null" <dave_null<span>@</span>hotmail.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gary_lee_jeffers_gjeffers_at_ns_htc_net_
+post_count: 5
 ---
 
-# Gary Lee Jeffers <gjeffers@ns.htc.net> (5 posts)
+# Gary Lee Jeffers <gjeffers<span>@</span>ns.htc.net> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

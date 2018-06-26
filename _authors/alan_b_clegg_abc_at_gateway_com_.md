@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_b_clegg_abc_at_gateway_com_
+post_count: 8
 ---
 
-# "Alan B. Clegg" <abc@gateway.com> (8 posts)
+# "Alan B. Clegg" <abc<span>@</span>gateway.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

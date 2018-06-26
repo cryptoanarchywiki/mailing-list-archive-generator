@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_mcvey_wam_at_fedex_com_
+post_count: 1
 ---
 
-# William McVey <wam@fedex.com> (1 posts)
+# William McVey <wam<span>@</span>fedex.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

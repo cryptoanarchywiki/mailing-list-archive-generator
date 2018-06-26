@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: fdafc4e7f003fd25beaef6292f2cbd13f8da706d521c96cd1bdb8da48baa7e6d<br>
 Message ID: \<adb6e40b00021004fa1d@[205.199.118.202]\><br>
@@ -87,6 +87,9 @@ Licensed Ontologist         | black markets, collapse of governments.
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[brian dodds <bdodds<span>@</span>jyacc.com>](/author/brian_dodds_bdodds_at_jyacc_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-05-09 (Thu, 9 May 1996 20:08:09 +0800) - Re: Senator Leahy's Public Key - _tcmay@got.net (Timothy C. May)_
   + 1996-05-11 (Sat, 11 May 1996 12:50:09 +0800) - [will the real Irving J. Schlublutz please stand up? was: Senator Leahy's Public Key](/archive/1996/05/1ce8f435106456b18c048f448f6fbae6b042b8428bf57308761cda033d883db0) - _brian dodds \<bdodds@jyacc.com\>_

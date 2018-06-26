@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: a_back_at_exeter_ac_uk
+post_count: 8
 ---
 
-# A.Back@exeter.ac.uk (8 posts)
+# A.Back<span>@</span>exeter.ac.uk (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

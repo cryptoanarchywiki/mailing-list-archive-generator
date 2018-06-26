@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremy_mineweaser_jeremym_at_r32h211_res_gatech_edu_
+post_count: 1
 ---
 
-# "Jeremy Mineweaser" <jeremym@r32h211.res.gatech.edu> (1 posts)
+# "Jeremy Mineweaser" <jeremym<span>@</span>r32h211.res.gatech.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

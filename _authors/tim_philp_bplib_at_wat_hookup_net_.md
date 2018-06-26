@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tim_philp_bplib_at_wat_hookup_net_
+post_count: 36
 ---
 
-# Tim Philp <bplib@wat.hookup.net> (36 posts)
+# Tim Philp <bplib<span>@</span>wat.hookup.net> (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

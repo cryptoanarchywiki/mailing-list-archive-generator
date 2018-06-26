@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_c_randolph_jcr_at_idiom_com_
+post_count: 14
 ---
 
-# "John C. Randolph" <jcr@idiom.com> (14 posts)
+# "John C. Randolph" <jcr<span>@</span>idiom.com> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

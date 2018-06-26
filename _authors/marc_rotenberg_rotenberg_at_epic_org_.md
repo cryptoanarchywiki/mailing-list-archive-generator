@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_rotenberg_rotenberg_at_epic_org_
+post_count: 15
 ---
 
-# Marc Rotenberg <rotenberg@epic.org> (15 posts)
+# Marc Rotenberg <rotenberg<span>@</span>epic.org> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_mcnally_m5_at_tivoli_com_
+post_count: 44
 ---
 
-# Mike McNally <m5@tivoli.com> (44 posts)
+# Mike McNally <m5<span>@</span>tivoli.com> (44 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

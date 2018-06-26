@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: r_o_jacksonse1_at_computerscience_birmingham_ac_uk
+post_count: 2
 ---
 
-# R.O.Jackson-SE1@computer-science.birmingham.ac.uk (2 posts)
+# R.O.Jackson-SE1<span>@</span>computer-science.birmingham.ac.uk (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

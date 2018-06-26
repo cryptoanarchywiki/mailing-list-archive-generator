@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_de_joode_usura_at_replay_com_
+post_count: 51
 ---
 
-# Alex de Joode <usura@replay.com> (51 posts)
+# Alex de Joode <usura<span>@</span>replay.com> (51 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

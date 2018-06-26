@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: barina_man_westo_at_bssc_edu_au_
+post_count: 3
 ---
 
-# barina man <westo@bssc.edu.au> (3 posts)
+# barina man <westo<span>@</span>bssc.edu.au> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

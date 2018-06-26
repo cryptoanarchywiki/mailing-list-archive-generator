@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_ingle_inglem_at_adnetsol_com_
+post_count: 9
 ---
 
-# Mike Ingle <inglem@adnetsol.com> (9 posts)
+# Mike Ingle <inglem<span>@</span>adnetsol.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

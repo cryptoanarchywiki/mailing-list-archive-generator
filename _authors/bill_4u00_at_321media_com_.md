@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_4u00_at_321media_com_
+post_count: 1
 ---
 
-# "Bill" <4u00@321media.com> (1 posts)
+# "Bill" <4u00<span>@</span>321media.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

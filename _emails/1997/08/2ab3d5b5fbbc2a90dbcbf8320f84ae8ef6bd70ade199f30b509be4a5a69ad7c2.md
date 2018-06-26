@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Andrew@mail.demon.net<br>
+From: Andrew<span>@</span>mail.demon.net<br>
 To: Friend@public.com<br>
 Message Hash: 2ab3d5b5fbbc2a90dbcbf8320f84ae8ef6bd70ade199f30b509be4a5a69ad7c2<br>
 Message ID: \<\><br>
@@ -45,6 +45,8 @@ Andrew
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[Andrew<span>@</span>mail.demon.net](/author/andrew_at_mail_demon_net)"
 
 + 1997-08-25 (Mon, 25 Aug 1997 16:53:04 -0700 (PDT)) - Economics Quest - _Andrew@mail.demon.net_
 

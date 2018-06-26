@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bsorg_at_c2_net
+post_count: 10
 ---
 
-# bs-org@c2.net (10 posts)
+# bs-org<span>@</span>c2.net (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

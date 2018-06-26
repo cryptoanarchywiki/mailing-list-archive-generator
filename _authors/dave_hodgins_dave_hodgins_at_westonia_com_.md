@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_hodgins_dave_hodgins_at_westonia_com_
+post_count: 1
 ---
 
-# DAVE HODGINS <dave.hodgins@westonia.com> (1 posts)
+# DAVE HODGINS <dave.hodgins<span>@</span>westonia.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kipp_at_warp_mcom_com_kipp_e_b_hickman_
+post_count: 11
 ---
 
-# kipp@warp.mcom.com (Kipp E.B. Hickman) (11 posts)
+# kipp<span>@</span>warp.mcom.com (Kipp E.B. Hickman) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

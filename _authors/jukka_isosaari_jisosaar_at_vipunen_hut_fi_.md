@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jukka_isosaari_jisosaar_at_vipunen_hut_fi_
+post_count: 1
 ---
 
-# Jukka Isosaari <jisosaar@vipunen.hut.fi> (1 posts)
+# Jukka Isosaari <jisosaar<span>@</span>vipunen.hut.fi> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

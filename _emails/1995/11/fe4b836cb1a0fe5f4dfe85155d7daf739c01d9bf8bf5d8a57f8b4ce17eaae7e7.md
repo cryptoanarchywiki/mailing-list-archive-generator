@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@piermont.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>piermont.com\><br>
 To: Jonathan Zamick \<JonathanZ@consensus.com\><br>
 Message Hash: fe4b836cb1a0fe5f4dfe85155d7daf739c01d9bf8bf5d8a57f8b4ce17eaae7e7<br>
 Message ID: \<199511281801.NAA00386@jekyll.piermont.com\><br>
@@ -85,6 +85,11 @@ We also have the following need:
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "[attila <attila<span>@</span>primenet.com>](/author/attila_attila_at_primenet_com_)"
++ Return to "[Eric Young <eay<span>@</span>mincom.oz.au>](/author/eric_young_eay_at_mincom_oz_au_)"
++ Return to "[Jonathan Zamick <JonathanZ<span>@</span>consensus.com>](/author/jonathan_zamick_jonathanz_at_consensus_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1995-11-28 (Wed, 29 Nov 1995 02:41:26 +0800) - [Re: The future will be easy to use](/archive/1995/11/ba40713589994ca8e9d2c47b6eb58b5475b4dbf32e2d664c845cc00b1c3df92a) - _Jonathan Zamick \<JonathanZ@consensus.com\>_
   + 1995-11-28 (Wed, 29 Nov 1995 02:52:12 +0800) - Re: The future will be easy to use - _"Perry E. Metzger" \<perry@piermont.com\>_

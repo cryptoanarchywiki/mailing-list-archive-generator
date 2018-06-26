@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hroller_at_metronet_com_michael_l_acklin_
+post_count: 1
 ---
 
-# hroller@metronet.com (Michael L. Acklin) (1 posts)
+# hroller<span>@</span>metronet.com (Michael L. Acklin) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

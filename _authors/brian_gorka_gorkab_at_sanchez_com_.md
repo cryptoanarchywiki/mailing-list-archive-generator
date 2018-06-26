@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_gorka_gorkab_at_sanchez_com_
+post_count: 3
 ---
 
-# "Brian Gorka" <gorkab@sanchez.com> (3 posts)
+# "Brian Gorka" <gorkab<span>@</span>sanchez.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

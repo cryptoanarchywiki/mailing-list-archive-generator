@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: philippe_nave_nave_at_abacus_dw_att_com_
+post_count: 1
 ---
 
-# "Philippe Nave" <nave@abacus.dw.att.com> (1 posts)
+# "Philippe Nave" <nave<span>@</span>abacus.dw.att.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: reynolds_cathy_a_careyno__careyno_at_msg_pacbell_com_
+post_count: 1
 ---
 
-# "Reynolds, Cathy A (careyno)" <CAREYNO@msg.pacbell.com> (1 posts)
+# "Reynolds, Cathy A (careyno)" <CAREYNO<span>@</span>msg.pacbell.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

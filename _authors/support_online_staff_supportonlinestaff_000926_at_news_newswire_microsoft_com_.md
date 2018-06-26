@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: support_online_staff_supportonlinestaff_000926_at_news_newswire_microsoft_com_
+post_count: 1
 ---
 
-# "Support Online Staff" <SupportOnlineStaff_000926@news.newswire.microsoft.com> (1 posts)
+# "Support Online Staff" <SupportOnlineStaff_000926<span>@</span>news.newswire.microsoft.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

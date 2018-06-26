@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chad_robinson_chadr_at_brttech_com_
+post_count: 1
 ---
 
-# Chad Robinson <chadr@brttech.com> (1 posts)
+# Chad Robinson <chadr<span>@</span>brttech.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

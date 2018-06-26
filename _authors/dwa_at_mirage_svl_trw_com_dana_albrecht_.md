@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dwa_at_mirage_svl_trw_com_dana_albrecht_
+post_count: 3
 ---
 
-# dwa@mirage.svl.trw.com (Dana Albrecht) (3 posts)
+# dwa<span>@</span>mirage.svl.trw.com (Dana Albrecht) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

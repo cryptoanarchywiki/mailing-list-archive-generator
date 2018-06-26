@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vicki_penny_penny_at_tyrell_net_
+post_count: 2
 ---
 
-# Vicki Penny <penny@tyrell.net> (2 posts)
+# Vicki Penny <penny<span>@</span>tyrell.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

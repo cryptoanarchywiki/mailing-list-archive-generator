@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: paul@poboy.b17c.ingr.com (Paul Robichaux)<br>
+From: paul<span>@</span>poboy.b17c.ingr.com (Paul Robichaux)<br>
 To: hfinney@shell.portal.com (Hal)<br>
 Message Hash: d8a3ae782f5e1093f08bea4d7fb3d541efccba814a675de91a5cebdf0ac5c9dd<br>
 Message ID: \<199507261447.AA17788@poboy.b17c.ingr.com\><br>
@@ -90,6 +90,11 @@ zWI2YiF0VHM=
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[Enzo Michelangeli <enzo<span>@</span>ima.com>](/author/enzo_michelangeli_enzo_at_ima_com_)"
++ Return to "[Enzo Michelangeli <enzo<span>@</span>ima.net>](/author/enzo_michelangeli_enzo_at_ima_net_)"
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[paul<span>@</span>poboy.b17c.ingr.com (Paul Robichaux)](/author/paul_at_poboy_b17c_ingr_com_paul_robichaux_)"
 
 + 1995-07-21 (Fri, 21 Jul 95 10:28:50 PDT) - [Re: Netscape the Big Win](/archive/1995/07/1a07a9e7a6bd48514e6b364c1dbc1f9cab1aad9e82a78059adf6664fa1fefe9d) - _Hal \<hfinney@shell.portal.com\>_
   + 1995-07-22 (Sat, 22 Jul 95 04:47:59 PDT) - [Re: Netscape the Big Win](/archive/1995/07/c4a1cc0902134dafdd7b202b92049b5b9d71624ec8b1c2efcc2522bf1f72f728) - _Enzo Michelangeli \<enzo@ima.net\>_

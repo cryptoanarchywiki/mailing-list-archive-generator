@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ls6q1mob7_at_yahoo_com
+post_count: 1
 ---
 
-# ls6Q1MOb7@yahoo.com (1 posts)
+# ls6Q1MOb7<span>@</span>yahoo.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

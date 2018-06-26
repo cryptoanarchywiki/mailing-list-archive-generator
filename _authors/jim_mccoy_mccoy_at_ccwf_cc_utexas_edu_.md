@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_mccoy_mccoy_at_ccwf_cc_utexas_edu_
+post_count: 63
 ---
 
-# Jim McCoy <mccoy@ccwf.cc.utexas.edu> (63 posts)
+# Jim McCoy <mccoy<span>@</span>ccwf.cc.utexas.edu> (63 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

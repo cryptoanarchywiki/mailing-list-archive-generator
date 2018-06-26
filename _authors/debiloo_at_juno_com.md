@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: debiloo_at_juno_com
+post_count: 1
 ---
 
-# debiloo@juno.com (1 posts)
+# debiloo<span>@</span>juno.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

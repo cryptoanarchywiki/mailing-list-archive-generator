@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_liljenstolpe__ssds_infosec_eng__chris_liljenstolpe_at_ssds_com_
+post_count: 1
 ---
 
-# "Chris Liljenstolpe - SSDS INFOSEC Eng." <Chris.Liljenstolpe@ssds.com> (1 posts)
+# "Chris Liljenstolpe - SSDS INFOSEC Eng." <Chris.Liljenstolpe<span>@</span>ssds.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

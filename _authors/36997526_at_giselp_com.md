@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 36997526_at_giselp_com
+post_count: 1
 ---
 
-# 36997526@giselp.com (1 posts)
+# 36997526<span>@</span>giselp.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

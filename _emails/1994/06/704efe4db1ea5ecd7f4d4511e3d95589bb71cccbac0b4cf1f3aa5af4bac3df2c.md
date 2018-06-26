@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: fringeware@io.com (FringeWare Inc)<br>
+From: fringeware<span>@</span>io.com (FringeWare Inc)<br>
 To: mech@io.com<br>
 Message Hash: 704efe4db1ea5ecd7f4d4511e3d95589bb71cccbac0b4cf1f3aa5af4bac3df2c<br>
 Message ID: \<199406060722.fw.1316@illuminati.IO.COM\><br>
@@ -311,6 +311,8 @@ ANOTHER ISSUE:
 ## Thread
 
 + Return to [June 1994](/archive/1994/06)
+
++ Return to "[fringeware<span>@</span>io.com (FringeWare Inc)](/author/fringeware_at_io_com_fringeware_inc_)"
 
 + 1994-06-06 (Mon, 6 Jun 94 16:48:33 PDT) - MEDIA - Cyberwire Dispatch - _fringeware@io.com (FringeWare Inc)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_lesher__hated_by_rbocs_in_5_states_wb8foz_at_wauug_erols_com_
+post_count: 30
 ---
 
-# "David Lesher / hated by RBOC's in 5 states" <wb8foz@wauug.erols.com> (30 posts)
+# "David Lesher / hated by RBOC's in 5 states" <wb8foz<span>@</span>wauug.erols.com> (30 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

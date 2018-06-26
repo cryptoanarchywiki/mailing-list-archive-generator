@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_lanett_mlanett_at_frohike_com_
+post_count: 1
 ---
 
-# "Mark Lanett" <mlanett@frohike.com> (1 posts)
+# "Mark Lanett" <mlanett<span>@</span>frohike.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

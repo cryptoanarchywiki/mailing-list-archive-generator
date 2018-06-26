@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phillip_r_zimmermann_prz_at_pgp_com_
+post_count: 2
 ---
 
-# "Phillip R. Zimmermann" <prz@pgp.com> (2 posts)
+# "Phillip R. Zimmermann" <prz<span>@</span>pgp.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

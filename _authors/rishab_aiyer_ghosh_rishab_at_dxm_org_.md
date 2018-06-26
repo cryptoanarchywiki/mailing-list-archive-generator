@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rishab_aiyer_ghosh_rishab_at_dxm_org_
+post_count: 9
 ---
 
-# Rishab Aiyer Ghosh <rishab@dxm.org> (9 posts)
+# Rishab Aiyer Ghosh <rishab<span>@</span>dxm.org> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

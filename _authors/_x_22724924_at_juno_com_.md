@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _x_22724924_at_juno_com_
+post_count: 1
 ---
 
-# ? x  <22724924@juno.com> (1 posts)
+# ? x  <22724924<span>@</span>juno.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

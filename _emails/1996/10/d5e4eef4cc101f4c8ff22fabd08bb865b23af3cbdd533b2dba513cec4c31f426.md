@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: The Deviant \<deviant@pooh-corner.com\><br>
+From: The Deviant \<deviant<span>@</span>pooh-corner.com\><br>
 To: Bill Stewart \<stewarts@ix.netcom.com\><br>
 Message Hash: d5e4eef4cc101f4c8ff22fabd08bb865b23af3cbdd533b2dba513cec4c31f426<br>
 Message ID: \<Pine.LNX.3.94.961006174647.569A-100000@random.sp.org\><br>
@@ -56,6 +56,10 @@ Talking much about oneself can also be a means to conceal oneself.
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[The Deviant <deviant<span>@</span>pooh-corner.com>](/author/the_deviant_deviant_at_poohcorner_com_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
 
 + 1996-10-06 (Sun, 6 Oct 1996 15:02:48 +0800) - [Re: RSA's Official Permission](/archive/1996/10/709c037d90a22ca9020f619083f314925e132bfbbf159c7a70027ea8f45f57df) - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1996-10-06 (Mon, 7 Oct 1996 03:44:24 +0800) - Re: RSA's Official Permission - _The Deviant \<deviant@pooh-corner.com\>_

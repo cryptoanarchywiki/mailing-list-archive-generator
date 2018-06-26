@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nicolas_robidoux_n_robidoux_at_massey_ac_nz_
+post_count: 2
 ---
 
-# Nicolas Robidoux <N.Robidoux@massey.ac.nz> (2 posts)
+# Nicolas Robidoux <N.Robidoux<span>@</span>massey.ac.nz> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

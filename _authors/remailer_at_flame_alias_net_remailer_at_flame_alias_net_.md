@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: remailer_at_flame_alias_net_remailer_at_flame_alias_net_
+post_count: 1
 ---
 
-# remailer@flame.alias.net (Remailer@flame.alias.net) (1 posts)
+# remailer<span>@</span>flame.alias.net (Remailer<span>@</span>flame.alias.net) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

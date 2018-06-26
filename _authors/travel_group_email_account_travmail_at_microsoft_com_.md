@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: travel_group_email_account_travmail_at_microsoft_com_
+post_count: 1
 ---
 
-# Travel Group Email Account <travmail@MICROSOFT.com> (1 posts)
+# Travel Group Email Account <travmail<span>@</span>MICROSOFT.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gregg_housh_housh_at_johnsonfood_com_
+post_count: 1
 ---
 
-# Gregg Housh <Housh@johnsonfood.com> (1 posts)
+# Gregg Housh <Housh<span>@</span>johnsonfood.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

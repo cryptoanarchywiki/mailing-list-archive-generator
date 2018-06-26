@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: AwakenToMe@aol.com<br>
+From: AwakenToMe<span>@</span>aol.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1e609be0fb3958dd633da7bee48c1abba68c4eedeeacc65b20c8ad7e55b73aef<br>
 Message ID: \<961202194540_1353438965@emout08.mail.aol.com\><br>
@@ -53,6 +53,8 @@ line, I log on the my ISP, goto dos and PING him.. and voila!
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[AwakenToMe<span>@</span>aol.com](/author/awakentome_at_aol_com)"
 
 + 1996-12-03 (Mon, 2 Dec 1996 16:46:23 -0800 (PST)) - Re: IP address - _AwakenToMe@aol.com_
 

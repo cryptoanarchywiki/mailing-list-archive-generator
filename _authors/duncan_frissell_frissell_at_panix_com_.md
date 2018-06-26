@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: duncan_frissell_frissell_at_panix_com_
+post_count: 831
 ---
 
-# Duncan Frissell <frissell@panix.com> (831 posts)
+# Duncan Frissell <frissell<span>@</span>panix.com> (831 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

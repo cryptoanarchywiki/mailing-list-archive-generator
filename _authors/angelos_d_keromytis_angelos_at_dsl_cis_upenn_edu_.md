@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: angelos_d_keromytis_angelos_at_dsl_cis_upenn_edu_
+post_count: 3
 ---
 
-# "Angelos D. Keromytis" <angelos@dsl.cis.upenn.edu> (3 posts)
+# "Angelos D. Keromytis" <angelos<span>@</span>dsl.cis.upenn.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

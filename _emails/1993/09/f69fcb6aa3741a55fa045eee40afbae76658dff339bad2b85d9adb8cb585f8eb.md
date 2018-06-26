@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@eli-remailer<br>
+From: nobody<span>@</span>eli-remailer<br>
 To: cypherpunks@toad.com<br>
 Message Hash: f69fcb6aa3741a55fa045eee40afbae76658dff339bad2b85d9adb8cb585f8eb<br>
 Message ID: \<9309050727.AA15916@toad.com\><br>
@@ -125,6 +125,8 @@ WXmsJ3byvEw=
 ## Thread
 
 + Return to [September 1993](/archive/1993/09)
+
++ Return to "[nobody<span>@</span>eli-remailer](/author/nobody_at_eliremailer)"
 
 + 1993-09-05 (Sun, 5 Sep 93 00:27:29 PDT) - A question about pasting - _nobody@eli-remailer_
 

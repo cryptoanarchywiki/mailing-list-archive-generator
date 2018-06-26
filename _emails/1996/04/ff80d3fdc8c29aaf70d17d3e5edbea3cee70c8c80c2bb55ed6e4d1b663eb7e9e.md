@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Declan McCullagh \<declan@eff.org\><br>
+From: Declan McCullagh \<declan<span>@</span>eff.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ff80d3fdc8c29aaf70d17d3e5edbea3cee70c8c80c2bb55ed6e4d1b663eb7e9e<br>
 Message ID: \<Pine.SUN.3.91.960424164757.1379C-100000@eff.org\><br>
@@ -85,6 +85,8 @@ Please refer all inquiries to Keith A. Glass, 703-354-1737, salgak@dcez.com
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/author/declan_mccullagh_declan_at_eff_org_)"
 
 + 1996-04-24 (Wed, 24 Apr 1996 16:49:18 -0700 (PDT)) - Electronic Freedom March postponed to Fall 1996 - _Declan McCullagh \<declan@eff.org\>_
 

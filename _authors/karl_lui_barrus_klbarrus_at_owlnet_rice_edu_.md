@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: karl_lui_barrus_klbarrus_at_owlnet_rice_edu_
+post_count: 149
 ---
 
-# Karl Lui Barrus <klbarrus@owlnet.rice.edu> (149 posts)
+# Karl Lui Barrus <klbarrus<span>@</span>owlnet.rice.edu> (149 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

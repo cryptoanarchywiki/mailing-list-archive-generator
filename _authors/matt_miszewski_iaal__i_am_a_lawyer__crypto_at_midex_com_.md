@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matt_miszewski_iaal__i_am_a_lawyer__crypto_at_midex_com_
+post_count: 2
 ---
 
-# "Matt Miszewski (IAAL - I AM a lawyer!)" <crypto@midex.com> (2 posts)
+# "Matt Miszewski (IAAL - I AM a lawyer!)" <crypto<span>@</span>midex.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

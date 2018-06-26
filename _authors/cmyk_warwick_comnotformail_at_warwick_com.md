@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cmyk_warwick_comnotformail_at_warwick_com
+post_count: 1
 ---
 
-# cmyk.warwick.com!not-for-mail@warwick.com (1 posts)
+# cmyk.warwick.com!not-for-mail<span>@</span>warwick.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

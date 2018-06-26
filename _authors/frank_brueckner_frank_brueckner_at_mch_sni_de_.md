@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frank_brueckner_frank_brueckner_at_mch_sni_de_
+post_count: 1
 ---
 
-# Frank Brueckner <Frank.Brueckner@mch.sni.de> (1 posts)
+# Frank Brueckner <Frank.Brueckner<span>@</span>mch.sni.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

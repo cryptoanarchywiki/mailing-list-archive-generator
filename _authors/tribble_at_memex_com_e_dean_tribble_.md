@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tribble_at_memex_com_e_dean_tribble_
+post_count: 9
 ---
 
-# tribble@memex.com (E. Dean Tribble) (9 posts)
+# tribble<span>@</span>memex.com (E. Dean Tribble) (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

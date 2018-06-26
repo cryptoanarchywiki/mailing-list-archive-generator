@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adamsc@io-online.com (Adamsc)<br>
+From: Adamsc<span>@</span>io-online.com (Adamsc)<br>
 To: "Asgaard" \<cypherpunks@toad.com\><br>
 Message Hash: bf97c8ffb0b569463c5a4f2b784599aa8af9ff9280faec191dc5edcaf0df8cfc<br>
 Message ID: \<19961207012015890.AAD166@rn29.io-online.com\><br>
@@ -67,6 +67,8 @@ getting that compile-once/run-anywhere ability for quite awhile.
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/author/adamsc_at_ioonline_com_adamsc_)"
 
 + 1996-12-07 (Fri, 6 Dec 1996 17:23:35 -0800 (PST)) - Re: Decline of Science ?? (Was: Stinger Specs) - _Adamsc@io-online.com (Adamsc)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joab_jackson_joabj_at_charm_net_
+post_count: 1
 ---
 
-# Joab Jackson <joabj@charm.net> (1 posts)
+# Joab Jackson <joabj<span>@</span>charm.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

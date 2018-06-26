@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matt_kelly_mattkelly_at_antioc_antioch_edu_
+post_count: 2
 ---
 
-# Matt_Kelly <MATTKELLY@antioc.antioch.edu> (2 posts)
+# Matt_Kelly <MATTKELLY<span>@</span>antioc.antioch.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jorge_c_palma_jorgec_at_mundivia_es_
+post_count: 1
 ---
 
-# "Jorge C. Palma"<jorgec@mundivia.es> (1 posts)
+# "Jorge C. Palma"<jorgec<span>@</span>mundivia.es> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeanlou_dupont_jld_at_osiris_com_
+post_count: 1
 ---
 
-# "Jean-Lou Dupont" <jld@osiris.com> (1 posts)
+# "Jean-Lou Dupont" <jld<span>@</span>osiris.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

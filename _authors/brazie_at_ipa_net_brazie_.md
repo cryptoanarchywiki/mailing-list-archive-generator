@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brazie_at_ipa_net_brazie_
+post_count: 2
 ---
 
-# brazie@ipa.net (Brazie) (2 posts)
+# brazie<span>@</span>ipa.net (Brazie) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

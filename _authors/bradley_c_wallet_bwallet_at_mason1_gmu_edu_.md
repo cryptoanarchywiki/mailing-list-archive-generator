@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bradley_c_wallet_bwallet_at_mason1_gmu_edu_
+post_count: 5
 ---
 
-# Bradley C Wallet <bwallet@mason1.gmu.edu> (5 posts)
+# Bradley C Wallet <bwallet<span>@</span>mason1.gmu.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

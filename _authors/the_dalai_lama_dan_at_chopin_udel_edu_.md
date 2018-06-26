@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_dalai_lama_dan_at_chopin_udel_edu_
+post_count: 2
 ---
 
-# The Dalai Lama <dan@chopin.udel.edu> (2 posts)
+# The Dalai Lama <dan<span>@</span>chopin.udel.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

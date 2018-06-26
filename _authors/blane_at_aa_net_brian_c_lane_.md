@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blane_at_aa_net_brian_c_lane_
+post_count: 10
 ---
 
-# blane@aa.net (Brian C. Lane) (10 posts)
+# blane<span>@</span>aa.net (Brian C. Lane) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

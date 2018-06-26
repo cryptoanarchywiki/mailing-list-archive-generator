@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: its_supposed_to_crash_like_that__gorkab_at_sanchez_com_
+post_count: 2
 ---
 
-# "It's supposed to crash like that." <gorkab@sanchez.com> (2 posts)
+# "It's supposed to crash like that." <gorkab<span>@</span>sanchez.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

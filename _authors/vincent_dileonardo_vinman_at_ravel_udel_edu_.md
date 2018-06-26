@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vincent_dileonardo_vinman_at_ravel_udel_edu_
+post_count: 1
 ---
 
-# Vincent Dileonardo <vinman@ravel.udel.edu> (1 posts)
+# Vincent Dileonardo <vinman<span>@</span>ravel.udel.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hayashi_tsuyoshi_take_at_barrierfree_co_jp_
+post_count: 14
 ---
 
-# Hayashi_Tsuyoshi <take@barrier-free.co.jp> (14 posts)
+# Hayashi_Tsuyoshi <take<span>@</span>barrier-free.co.jp> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

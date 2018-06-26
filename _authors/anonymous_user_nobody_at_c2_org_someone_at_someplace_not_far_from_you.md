@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_user_nobody_at_c2_org_someone_at_someplace_not_far_from_you
+post_count: 1
 ---
 
-# Anonymous User <nobody@c2.org>someone@someplace.not.far.from.you (1 posts)
+# Anonymous User <nobody<span>@</span>c2.org>someone<span>@</span>someplace.not.far.from.you (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

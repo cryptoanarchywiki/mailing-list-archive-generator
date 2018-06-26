@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adam_pingitore_adam_pingitore_at_alli_wnyric_org_
+post_count: 7
 ---
 
-# "Adam Pingitore" <Adam_Pingitore@alli.wnyric.org> (7 posts)
+# "Adam Pingitore" <Adam_Pingitore<span>@</span>alli.wnyric.org> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

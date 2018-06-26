@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andreas_brusinsky_brusinsk_at_ibdr_inf_tudresden_de_
+post_count: 1
 ---
 
-# Andreas Brusinsky <brusinsk@ibdr.inf.tu-dresden.de> (1 posts)
+# Andreas Brusinsky <brusinsk<span>@</span>ibdr.inf.tu-dresden.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

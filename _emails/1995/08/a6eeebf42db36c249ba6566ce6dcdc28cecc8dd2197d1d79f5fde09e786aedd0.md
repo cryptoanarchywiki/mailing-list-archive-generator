@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mike Ingle \<inglem@adnetsol.com\><br>
+From: Mike Ingle \<inglem<span>@</span>adnetsol.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a6eeebf42db36c249ba6566ce6dcdc28cecc8dd2197d1d79f5fde09e786aedd0<br>
 Message ID: \<199508310641.XAA00285@cryptical.adnetsol.com\><br>
@@ -46,6 +46,8 @@ threshold system so m of n people have to cooperate to decrypt it.
 ## Thread
 
 + Return to [August 1995](/archive/1995/08)
+
++ Return to "[Mike Ingle <inglem<span>@</span>adnetsol.com>](/author/mike_ingle_inglem_at_adnetsol_com_)"
 
 + 1995-08-31 (Wed, 30 Aug 95 23:41:49 PDT) - RSA Secure (disk encryption) - _Mike Ingle \<inglem@adnetsol.com\>_
 

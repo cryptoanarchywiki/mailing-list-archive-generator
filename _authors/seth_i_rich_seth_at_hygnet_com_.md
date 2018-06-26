@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: seth_i_rich_seth_at_hygnet_com_
+post_count: 7
 ---
 
-# "Seth I. Rich" <seth@hygnet.com> (7 posts)
+# "Seth I. Rich" <seth<span>@</span>hygnet.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

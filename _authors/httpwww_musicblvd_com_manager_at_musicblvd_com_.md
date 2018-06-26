@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: httpwww_musicblvd_com_manager_at_musicblvd_com_
+post_count: 3
 ---
 
-# "http://www.musicblvd.com/" <manager@musicblvd.com> (3 posts)
+# "http://www.musicblvd.com/" <manager<span>@</span>musicblvd.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

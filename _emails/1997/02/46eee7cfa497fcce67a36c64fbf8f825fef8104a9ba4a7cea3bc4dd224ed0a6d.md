@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: steve \<steve@idoru.demon.co.uk\><br>
+From: steve \<steve<span>@</span>idoru.demon.co.uk\><br>
 To: "'cypherpunks@toad.com\><br>
 Message Hash: 46eee7cfa497fcce67a36c64fbf8f825fef8104a9ba4a7cea3bc4dd224ed0a6d<br>
 Message ID: \<01BC1475.54A10860@idoru\><br>
@@ -55,6 +55,8 @@ END OF COMMANDS
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[steve <steve<span>@</span>idoru.demon.co.uk>](/author/steve_steve_at_idoru_demon_co_uk_)"
 
 + 1997-02-06 (Thu, 6 Feb 1997 13:50:10 -0800 (PST)) - No Subject - _steve \<steve@idoru.demon.co.uk\>_
 

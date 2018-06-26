@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephen_p_marting_spam_at_cmu_edu_
+post_count: 1
 ---
 
-# "Stephen P. Marting" <spam+@cmu.edu> (1 posts)
+# "Stephen P. Marting" <spam+<span>@</span>cmu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

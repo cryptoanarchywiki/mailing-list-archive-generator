@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: duncan_licence_dlicence_at_dataforce_co_uk_
+post_count: 3
 ---
 
-# Duncan Licence <dlicence@dataforce.co.uk> (3 posts)
+# Duncan Licence <dlicence<span>@</span>dataforce.co.uk> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

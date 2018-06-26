@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sean Roach \<roach_s@alph.swosu.edu\><br>
+From: Sean Roach \<roach_s<span>@</span>alph.swosu.edu\><br>
 To: "Timothy C. May" \<cypherpunks@toad.com<br>
 Message Hash: b4eea8efb7b6f8cdc7da27b3b801aeffb00a012ee82fdca4dabc8404ea0c960c<br>
 Message ID: \<199611162132.NAA18928@toad.com\><br>
@@ -57,6 +57,8 @@ did use.
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Sean Roach <roach_s<span>@</span>alph.swosu.edu>](/author/sean_roach_roach_s_at_alph_swosu_edu_)"
 
 + 1996-11-16 (Sat, 16 Nov 1996 13:32:13 -0800 (PST)) - Re: [REBUTTAL] Censorship on cypherpunks?, from The Netly News - _Sean Roach \<roach_s@alph.swosu.edu\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: werewolf_at_io_org_mark_terka_
+post_count: 39
 ---
 
-# werewolf@io.org (Mark Terka) (39 posts)
+# werewolf<span>@</span>io.org (Mark Terka) (39 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

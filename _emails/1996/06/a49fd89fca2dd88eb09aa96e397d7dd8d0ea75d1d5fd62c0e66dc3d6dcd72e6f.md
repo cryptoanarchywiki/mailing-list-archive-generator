@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Deranged Mutant" \<WlkngOwl@unix.asb.com\><br>
+From: "Deranged Mutant" \<WlkngOwl<span>@</span>unix.asb.com\><br>
 To: jya@pipeline.com (John Young)<br>
 Message Hash: a49fd89fca2dd88eb09aa96e397d7dd8d0ea75d1d5fd62c0e66dc3d6dcd72e6f<br>
 Message ID: \<199606060340.XAA24064@unix.asb.com\><br>
@@ -55,6 +55,8 @@ Send a message with the subject "send pgp-key" for a copy of my key.
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/author/deranged_mutant_wlkngowl_at_unix_asb_com_)"
 
 + 1996-06-06 (Thu, 6 Jun 1996 16:45:39 +0800) - Re: USA on Feds Cyberteam - _"Deranged Mutant" \<WlkngOwl@unix.asb.com\>_
 

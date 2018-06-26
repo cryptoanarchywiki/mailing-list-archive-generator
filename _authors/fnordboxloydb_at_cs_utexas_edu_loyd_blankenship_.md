@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fnordboxloydb_at_cs_utexas_edu_loyd_blankenship_
+post_count: 7
 ---
 
-# fnordbox!loydb@cs.utexas.edu (Loyd Blankenship) (7 posts)
+# fnordbox!loydb<span>@</span>cs.utexas.edu (Loyd Blankenship) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

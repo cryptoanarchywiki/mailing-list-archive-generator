@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bjrn_karger_bkarger_at_yahoo_com_
+post_count: 1
 ---
 
-# "Bj�rn" Karger <bkarger@yahoo.com> (1 posts)
+# "Bj�rn" Karger <bkarger<span>@</span>yahoo.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

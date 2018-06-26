@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@replay.com (Anonymous)<br>
+From: nobody<span>@</span>replay.com (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 95c1ae7bd4b1a0d500eb7dea8bef36789eeee6ff0ff1065596dbbe3bfc4cc685<br>
 Message ID: \<199611150117.CAA06588@basement.replay.com\><br>
@@ -69,6 +69,8 @@ diGriz
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[nobody<span>@</span>replay.com (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1996-11-15 (Thu, 14 Nov 1996 17:18:07 -0800 (PST)) - Media seekers, reputation and banishment - _nobody@replay.com (Anonymous)_
 

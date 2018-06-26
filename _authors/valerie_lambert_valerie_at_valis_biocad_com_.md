@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: valerie_lambert_valerie_at_valis_biocad_com_
+post_count: 4
 ---
 
-# Valerie Lambert <valerie@valis.biocad.com> (4 posts)
+# Valerie Lambert <valerie<span>@</span>valis.biocad.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

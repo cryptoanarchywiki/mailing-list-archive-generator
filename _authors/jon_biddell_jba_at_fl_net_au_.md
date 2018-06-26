@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jon_biddell_jba_at_fl_net_au_
+post_count: 2
 ---
 
-# Jon Biddell <jba@fl.net.au> (2 posts)
+# Jon Biddell <jba<span>@</span>fl.net.au> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

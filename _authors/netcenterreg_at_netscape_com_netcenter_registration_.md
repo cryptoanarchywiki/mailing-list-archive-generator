@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: netcenterreg_at_netscape_com_netcenter_registration_
+post_count: 7
 ---
 
-# netcenter-reg@netscape.com (Netcenter Registration) (7 posts)
+# netcenter-reg<span>@</span>netscape.com (Netcenter Registration) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: system_operator_mimsyanaglddecodesystem_at_uunet_uu_net_
+post_count: 3
 ---
 
-# System Operator <mimsy!anagld!decode!system@uunet.UU.NET> (3 posts)
+# System Operator <mimsy!anagld!decode!system<span>@</span>uunet.UU.NET> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

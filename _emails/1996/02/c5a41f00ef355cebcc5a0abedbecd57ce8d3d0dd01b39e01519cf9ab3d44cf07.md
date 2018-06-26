@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Erik E. Fair"  (Time Keeper) \<fair@clock.org\><br>
+From: "Erik E. Fair"  (Time Keeper) \<fair<span>@</span>clock.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: c5a41f00ef355cebcc5a0abedbecd57ce8d3d0dd01b39e01519cf9ab3d44cf07<br>
 Message ID: \<v02110102ad3807f0e5c1@[198.68.110.3]\><br>
@@ -74,6 +74,8 @@ Erik Fair
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "["Erik E. Fair"  (Time Keeper) <fair<span>@</span>clock.org>](/author/erik_e_fair_time_keeper_fair_at_clock_org_)"
 
 + 1996-02-02 (Sat, 3 Feb 1996 04:35:21 +0800) - Re: Espionage-enabled Greed - _"Erik E. Fair"  (Time Keeper) \<fair@clock.org\>_
 

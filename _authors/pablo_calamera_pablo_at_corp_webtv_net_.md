@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pablo_calamera_pablo_at_corp_webtv_net_
+post_count: 1
 ---
 
-# Pablo Calamera <pablo@corp.webtv.net> (1 posts)
+# Pablo Calamera <pablo<span>@</span>corp.webtv.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

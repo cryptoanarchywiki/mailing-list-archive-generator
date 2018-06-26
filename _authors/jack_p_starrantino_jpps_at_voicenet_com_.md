@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jack_p_starrantino_jpps_at_voicenet_com_
+post_count: 1
 ---
 
-# "Jack P. Starrantino" <jpps@voicenet.com> (1 posts)
+# "Jack P. Starrantino" <jpps<span>@</span>voicenet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

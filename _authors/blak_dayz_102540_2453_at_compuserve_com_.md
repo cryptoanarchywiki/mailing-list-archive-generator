@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blak_dayz_102540_2453_at_compuserve_com_
+post_count: 2
 ---
 
-# Blak Dayz <102540.2453@CompuServe.COM> (2 posts)
+# Blak Dayz <102540.2453<span>@</span>CompuServe.COM> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

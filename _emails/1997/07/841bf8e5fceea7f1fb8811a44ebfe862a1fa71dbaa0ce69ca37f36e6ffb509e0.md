@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Doug Peterson \<fnorky@geocities.com\><br>
+From: Doug Peterson \<fnorky<span>@</span>geocities.com\><br>
 To: Kurt Starsinic \<kstar@isinet.com\><br>
 Message Hash: 841bf8e5fceea7f1fb8811a44ebfe862a1fa71dbaa0ce69ca37f36e6ffb509e0<br>
 Message ID: \<33DFB441.59A0@geocities.com\><br>
@@ -70,6 +70,11 @@ even required for my child to view.
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "[? the Platypus {aka David Formosa} <dformosa<span>@</span>st.nepean.uws.edu.au>](/author/_the_platypus_aka_david_formosa_dformosa_at_st_nepean_uws_edu_au_)"
++ Return to "[Doug Peterson <fnorky<span>@</span>geocities.com>](/author/doug_peterson_fnorky_at_geocities_com_)"
++ Return to "[Kurt Starsinic <kstar<span>@</span>isinet.com>](/author/kurt_starsinic_kstar_at_isinet_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1997-07-30 (Thu, 31 Jul 1997 05:21:20 +0800) - [Re: Yet another self-labeling system](/archive/1997/07/6ca26c2154add6322f3082bab4f990fc499f3304a4e83014bad4867593986ea6) - _Kurt Starsinic \<kstar@isinet.com\>_
   + 1997-07-30 (Thu, 31 Jul 1997 05:57:33 +0800) - Re: Yet another self-labeling system - _Doug Peterson \<fnorky@geocities.com\>_

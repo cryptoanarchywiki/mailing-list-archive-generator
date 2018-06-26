@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tcmay_at_localhost_netcom_com_timothy_c_may_
+post_count: 5
 ---
 
-# tcmay@localhost.netcom.com (Timothy C. May) (5 posts)
+# tcmay<span>@</span>localhost.netcom.com (Timothy C. May) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

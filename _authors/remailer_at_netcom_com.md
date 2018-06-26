@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: remailer_at_netcom_com
+post_count: 6
 ---
 
-# remailer@netcom.com (6 posts)
+# remailer<span>@</span>netcom.com (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

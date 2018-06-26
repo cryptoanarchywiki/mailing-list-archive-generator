@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wiu_at_vtx_ch_floodgate_
+post_count: 1
 ---
 
-# wiu@vtx.ch (Floodgate) (1 posts)
+# wiu<span>@</span>vtx.ch (Floodgate) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

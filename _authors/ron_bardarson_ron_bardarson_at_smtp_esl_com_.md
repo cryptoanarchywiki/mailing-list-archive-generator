@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ron_bardarson_ron_bardarson_at_smtp_esl_com_
+post_count: 4
 ---
 
-# "Ron Bardarson" <Ron_Bardarson@smtp.esl.com> (4 posts)
+# "Ron Bardarson" <Ron_Bardarson<span>@</span>smtp.esl.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

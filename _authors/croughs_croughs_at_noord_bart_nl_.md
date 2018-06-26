@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: croughs_croughs_at_noord_bart_nl_
+post_count: 1
 ---
 
-# croughs <croughs@noord.bart.nl> (1 posts)
+# croughs <croughs<span>@</span>noord.bart.nl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

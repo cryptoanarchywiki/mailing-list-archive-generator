@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: electronic_privacy_info_center_info_at_epic_org_
+post_count: 1
 ---
 
-# Electronic Privacy Info Center <info@epic.org> (1 posts)
+# Electronic Privacy Info Center <info<span>@</span>epic.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

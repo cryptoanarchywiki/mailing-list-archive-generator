@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_breton_pbreton_at_cs_umb_edu_
+post_count: 8
 ---
 
-# Peter Breton <pbreton@cs.umb.edu> (8 posts)
+# Peter Breton <pbreton<span>@</span>cs.umb.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

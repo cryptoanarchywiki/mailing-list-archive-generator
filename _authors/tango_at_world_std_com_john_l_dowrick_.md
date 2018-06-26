@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tango_at_world_std_com_john_l_dowrick_
+post_count: 1
 ---
 
-# tango@world.std.com (john l dowrick) (1 posts)
+# tango<span>@</span>world.std.com (john l dowrick) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ezekial_palmer_an60011_at_anon_penet_fi_
+post_count: 10
 ---
 
-# Ezekial Palmer <an60011@anon.penet.fi> (10 posts)
+# Ezekial Palmer <an60011<span>@</span>anon.penet.fi> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

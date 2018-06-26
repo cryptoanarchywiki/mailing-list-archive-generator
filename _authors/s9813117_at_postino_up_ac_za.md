@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: s9813117_at_postino_up_ac_za
+post_count: 1
 ---
 
-# s9813117@postino.up.ac.za (1 posts)
+# s9813117<span>@</span>postino.up.ac.za (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

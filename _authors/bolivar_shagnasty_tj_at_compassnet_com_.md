@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bolivar_shagnasty_tj_at_compassnet_com_
+post_count: 8
 ---
 
-# Bolivar Shagnasty <tj@compassnet.com> (8 posts)
+# Bolivar Shagnasty <tj<span>@</span>compassnet.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

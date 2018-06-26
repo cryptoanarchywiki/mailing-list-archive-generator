@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uunetin1_uu_netgwu_edudazed_at_warwick_com_john_nowicki_
+post_count: 1
 ---
 
-# uunet!in1.uu.net!gwu.edu!dazed@warwick.com (John Nowicki) (1 posts)
+# uunet!in1.uu.net!gwu.edu!dazed<span>@</span>warwick.com (John Nowicki) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

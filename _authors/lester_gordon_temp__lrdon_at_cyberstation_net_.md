@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lester_gordon_temp__lrdon_at_cyberstation_net_
+post_count: 1
 ---
 
-# "Lester Gordon (temp)" <lrdon@cyberstation.net> (1 posts)
+# "Lester Gordon (temp)" <lrdon<span>@</span>cyberstation.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

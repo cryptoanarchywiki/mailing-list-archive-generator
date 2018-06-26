@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: censored_girls_anonymous_carolb_at_barton_spring_com_
+post_count: 13
 ---
 
-# Censored Girls Anonymous <carolb@barton.spring.com> (13 posts)
+# Censored Girls Anonymous <carolb<span>@</span>barton.spring.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

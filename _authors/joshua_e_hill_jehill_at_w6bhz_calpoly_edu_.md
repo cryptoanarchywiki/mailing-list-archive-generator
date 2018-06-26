@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joshua_e_hill_jehill_at_w6bhz_calpoly_edu_
+post_count: 5
 ---
 
-# "Joshua E. Hill" <jehill@w6bhz.calpoly.edu> (5 posts)
+# "Joshua E. Hill" <jehill<span>@</span>w6bhz.calpoly.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

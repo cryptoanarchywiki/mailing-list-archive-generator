@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bovine_remailer_haystack_at_cow_net_moderators_at_uunet_uu_net_anonymous_remailer_
+post_count: 1
 ---
 
-# Bovine Remailer <haystack@cow.net>moderators@uunet.uu.net (Anonymous Remailer) (1 posts)
+# Bovine Remailer <haystack<span>@</span>cow.net>moderators<span>@</span>uunet.uu.net (Anonymous Remailer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

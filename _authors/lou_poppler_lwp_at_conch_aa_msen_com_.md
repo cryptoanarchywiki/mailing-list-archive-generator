@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lou_poppler_lwp_at_conch_aa_msen_com_
+post_count: 2
 ---
 
-# Lou Poppler <lwp@conch.aa.msen.com> (2 posts)
+# Lou Poppler <lwp<span>@</span>conch.aa.msen.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ayoub_mark_cap_fleet__mark_ayoub_at_fleet_gecapital_com_
+post_count: 4
 ---
 
-# "Ayoub, Mark  (CAP, FLEET)" <Mark.Ayoub@fleet.gecapital.com> (4 posts)
+# "Ayoub, Mark  (CAP, FLEET)" <Mark.Ayoub<span>@</span>fleet.gecapital.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

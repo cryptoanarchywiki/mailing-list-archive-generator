@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kae28_at_nims_nec_co_jp
+post_count: 1
 ---
 
-# kae28@nims.nec.co.jp (1 posts)
+# kae28<span>@</span>nims.nec.co.jp (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

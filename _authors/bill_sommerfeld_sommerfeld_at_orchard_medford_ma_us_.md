@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_sommerfeld_sommerfeld_at_orchard_medford_ma_us_
+post_count: 35
 ---
 
-# Bill Sommerfeld <sommerfeld@orchard.medford.ma.us> (35 posts)
+# Bill Sommerfeld <sommerfeld<span>@</span>orchard.medford.ma.us> (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

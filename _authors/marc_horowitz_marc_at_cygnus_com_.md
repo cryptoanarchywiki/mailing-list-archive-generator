@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_horowitz_marc_at_cygnus_com_
+post_count: 9
 ---
 
-# Marc Horowitz <marc@cygnus.com> (9 posts)
+# Marc Horowitz <marc<span>@</span>cygnus.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

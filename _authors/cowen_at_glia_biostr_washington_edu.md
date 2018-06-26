@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cowen_at_glia_biostr_washington_edu
+post_count: 11
 ---
 
-# cowen@glia.biostr.washington.edu (11 posts)
+# cowen<span>@</span>glia.biostr.washington.edu (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: magnus_y_alvestad_magnus_at_ii_uib_no_
+post_count: 1
 ---
 
-# Magnus Y Alvestad <magnus@ii.uib.no> (1 posts)
+# Magnus Y Alvestad <magnus<span>@</span>ii.uib.no> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

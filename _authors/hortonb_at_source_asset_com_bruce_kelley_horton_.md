@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hortonb_at_source_asset_com_bruce_kelley_horton_
+post_count: 1
 ---
 
-# hortonb@source.asset.com (Bruce Kelley Horton) (1 posts)
+# hortonb<span>@</span>source.asset.com (Bruce Kelley Horton) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

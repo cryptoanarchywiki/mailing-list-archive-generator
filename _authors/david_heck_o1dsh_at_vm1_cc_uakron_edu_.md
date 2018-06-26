@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_heck_o1dsh_at_vm1_cc_uakron_edu_
+post_count: 4
 ---
 
-# David Heck <O1DSH@VM1.CC.UAKRON.EDU> (4 posts)
+# David Heck <O1DSH<span>@</span>VM1.CC.UAKRON.EDU> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

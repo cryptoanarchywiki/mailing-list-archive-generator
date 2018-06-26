@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_sender_nobody_at_privacy_nb_ca_
+post_count: 6
 ---
 
-# Anonymous Sender <nobody@privacy.nb.ca> (6 posts)
+# Anonymous Sender <nobody<span>@</span>privacy.nb.ca> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: asuser_asuser_at_cctr_umkc_edu_
+post_count: 1
 ---
 
-# A&SUser <A&SUser@cctr.umkc.edu> (1 posts)
+# A&SUser <A&SUser<span>@</span>cctr.umkc.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_johnson_johnsonr_at_spot_colorado_edu_
+post_count: 4
 ---
 
-# Richard Johnson <johnsonr@spot.Colorado.EDU> (4 posts)
+# Richard Johnson <johnsonr<span>@</span>spot.Colorado.EDU> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: Steve O \<privsoft@ix.netcom.com\><br>
 Message Hash: 6ab80d0e0f42b0f74f19f9bcda43befaaf2a315af7206c2ebd77fed9bc71bf92<br>
 Message ID: \<199606280620.XAA24528@cygnus.com\><br>
@@ -70,6 +70,8 @@ get flak for using the _name_ RC4 in a commercial product.
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1996-06-29 (Sat, 29 Jun 1996 10:18:25 +0800) - Re: Crack for DOS - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

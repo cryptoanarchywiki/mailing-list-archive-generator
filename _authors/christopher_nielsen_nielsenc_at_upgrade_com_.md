@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christopher_nielsen_nielsenc_at_upgrade_com_
+post_count: 1
 ---
 
-# Christopher Nielsen <nielsenc@upgrade.com> (1 posts)
+# Christopher Nielsen <nielsenc<span>@</span>upgrade.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

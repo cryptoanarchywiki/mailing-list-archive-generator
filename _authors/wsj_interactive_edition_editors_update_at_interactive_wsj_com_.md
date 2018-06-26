@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wsj_interactive_edition_editors_update_at_interactive_wsj_com_
+post_count: 3
 ---
 
-# WSJ Interactive Edition Editors <update@INTERACTIVE.WSJ.COM> (3 posts)
+# WSJ Interactive Edition Editors <update<span>@</span>INTERACTIVE.WSJ.COM> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

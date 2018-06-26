@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fnorky_at_geocities_com_douglas_l_peterson_
+post_count: 12
 ---
 
-# fnorky@geocities.com (Douglas L. Peterson) (12 posts)
+# fnorky<span>@</span>geocities.com (Douglas L. Peterson) (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fischer_at_charybdis_prl_ufl_edu_g_r_fischer_
+post_count: 1
 ---
 
-# fischer@charybdis.prl.ufl.edu (G R Fischer) (1 posts)
+# fischer<span>@</span>charybdis.prl.ufl.edu (G R Fischer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

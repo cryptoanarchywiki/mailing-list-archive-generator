@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mike \<Michael.Johnson@mejl.com\><br>
+From: Mike \<Michael.Johnson<span>@</span>mejl.com\><br>
 To: Cypherpunks@toad.com<br>
 Message Hash: 48f4575fbfac605a261a0a7b88f06efff7acdddda672abe34ece5966f282afba<br>
 Message ID: \<3.0.3.32.19970825130151.00902e40@localhost\><br>
@@ -52,6 +52,9 @@ Mike.
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[Mike <Michael.Johnson<span>@</span>mejl.com>](/author/mike_michael_johnson_at_mejl_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1997-08-25 (Mon, 25 Aug 1997 17:20:53 +0800) - [Re: $1 Million Code Crack](/archive/1997/08/8b9ea6c68d8daa1c3bf664fe4693a28448223e509b1d8f46badcfcb4ff0fef39) - _nobody@REPLAY.COM (Anonymous)_
   + 1997-08-25 (Mon, 25 Aug 1997 19:23:18 +0800) - Re: $1 Million Code Crack - _Mike \<Michael.Johnson@mejl.com\>_

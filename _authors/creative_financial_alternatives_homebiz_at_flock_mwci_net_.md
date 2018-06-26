@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: creative_financial_alternatives_homebiz_at_flock_mwci_net_
+post_count: 1
 ---
 
-# "Creative Financial Alternatives" <homebiz@flock.mwci.net> (1 posts)
+# "Creative Financial Alternatives" <homebiz<span>@</span>flock.mwci.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: juggler_ih23utep_bitnet_at_ricevm1_rice_edu_
+post_count: 1
 ---
 
-# Juggler <IH23%UTEP.BITNET@ricevm1.rice.edu> (1 posts)
+# Juggler <IH23%UTEP.BITNET<span>@</span>ricevm1.rice.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

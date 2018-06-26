@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: this_space_for_rent_afabbro_at_umich_edu_
+post_count: 4
 ---
 
-# This Space For Rent <afabbro@umich.edu> (4 posts)
+# This Space For Rent <afabbro<span>@</span>umich.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

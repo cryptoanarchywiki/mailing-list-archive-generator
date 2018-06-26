@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris230_at_juno_com_chris_j_samuelson_
+post_count: 2
 ---
 
-# chris230@juno.com (Chris J Samuelson) (2 posts)
+# chris230<span>@</span>juno.com (Chris J Samuelson) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

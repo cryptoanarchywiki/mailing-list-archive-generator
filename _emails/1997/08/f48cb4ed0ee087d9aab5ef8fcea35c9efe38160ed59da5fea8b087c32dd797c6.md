@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@amaranth.com\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>amaranth.com\><br>
 To: Ray Arachelian \<sunder@brainlink.com\><br>
 Message Hash: f48cb4ed0ee087d9aab5ef8fcea35c9efe38160ed59da5fea8b087c32dd797c6<br>
 Message ID: \<199708132314.SAA03707@mailhub.amaranth.com\><br>
@@ -97,6 +97,16 @@ tcIQp8XOvIwu+EzV/i8ZE7aDDsxe7oZXS0MJwabgFYKYNSdlKU0lk7ept+Td3Yc0
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[? the Platypus {aka David Formosa} <dformosa<span>@</span>st.nepean.uws.edu.au>](/author/_the_platypus_aka_david_formosa_dformosa_at_st_nepean_uws_edu_au_)"
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Mike <Michael.Johnson<span>@</span>mejl.com>](/author/mike_michael_johnson_at_mejl_com_)"
++ Return to "[Ray Arachelian <sunder<span>@</span>brainlink.com>](/author/ray_arachelian_sunder_at_brainlink_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Vipul Ved Prakash <vipul<span>@</span>pobox.com>](/author/vipul_ved_prakash_vipul_at_pobox_com_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-08-13 (Wed, 13 Aug 1997 11:19:09 +0800) - [Fuck the usenet cabal](/archive/1997/08/11ab16ade7ae261bfdf5f82108d0ad07315b00543f54dfebf37ff839b6ca0f08) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
   + 1997-08-13 (Wed, 13 Aug 1997 20:51:15 +0800) - [Re: Fuck the usenet cabal](/archive/1997/08/a35078aa037b235d5a4e4c682c8550c7c3df8800cbc4b01fc3f494cc84d62a4f) - _? the Platypus {aka David Formosa} \<dformosa@st.nepean.uws.edu.au\>_

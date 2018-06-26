@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sharborth_at_hainet_com
+post_count: 9
 ---
 
-# sharborth@hai-net.com (9 posts)
+# sharborth<span>@</span>hai-net.com (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephen_cobb_cissp_stephen_at_iu_net_
+post_count: 4
 ---
 
-# "Stephen Cobb, CISSP" <stephen@iu.net> (4 posts)
+# "Stephen Cobb, CISSP" <stephen<span>@</span>iu.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

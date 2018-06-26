@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: henri_at_netcom_com_henry_
+post_count: 1
 ---
 
-# henri@netcom.com (henry) (1 posts)
+# henri<span>@</span>netcom.com (henry) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

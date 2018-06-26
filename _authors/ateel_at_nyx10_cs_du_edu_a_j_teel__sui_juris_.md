@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ateel_at_nyx10_cs_du_edu_a_j_teel__sui_juris_
+post_count: 1
 ---
 
-# ateel@nyx10.cs.du.edu (A. J. Teel - Sui Juris) (1 posts)
+# ateel<span>@</span>nyx10.cs.du.edu (A. J. Teel - Sui Juris) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

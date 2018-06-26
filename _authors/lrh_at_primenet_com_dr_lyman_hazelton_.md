@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lrh_at_primenet_com_dr_lyman_hazelton_
+post_count: 1
 ---
 
-# lrh@PrimeNet.Com (Dr. Lyman Hazelton) (1 posts)
+# lrh<span>@</span>PrimeNet.Com (Dr. Lyman Hazelton) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

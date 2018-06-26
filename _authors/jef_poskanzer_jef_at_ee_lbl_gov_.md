@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jef_poskanzer_jef_at_ee_lbl_gov_
+post_count: 40
 ---
 
-# Jef Poskanzer <jef@ee.lbl.gov> (40 posts)
+# Jef Poskanzer <jef<span>@</span>ee.lbl.gov> (40 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

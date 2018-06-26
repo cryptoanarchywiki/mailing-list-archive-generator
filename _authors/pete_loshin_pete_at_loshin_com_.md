@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pete_loshin_pete_at_loshin_com_
+post_count: 20
 ---
 
-# Pete Loshin <pete@loshin.com> (20 posts)
+# Pete Loshin <pete<span>@</span>loshin.com> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cordones_at_image_cs_nyu_edu_deus_ex_machina_
+post_count: 3
 ---
 
-# cordones@IMAGE.CS.NYU.EDU (Deus Ex Machina) (3 posts)
+# cordones<span>@</span>IMAGE.CS.NYU.EDU (Deus Ex Machina) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

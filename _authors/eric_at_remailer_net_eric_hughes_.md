@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_at_remailer_net_eric_hughes_
+post_count: 208
 ---
 
-# eric@remailer.net (Eric Hughes) (208 posts)
+# eric<span>@</span>remailer.net (Eric Hughes) (208 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

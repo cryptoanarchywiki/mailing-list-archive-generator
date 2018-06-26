@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nightmare_alexm_at_smug_adelaide_edu_au_
+post_count: 1
 ---
 
-# Nightmare <alexm@smug.adelaide.edu.au> (1 posts)
+# Nightmare <alexm<span>@</span>smug.adelaide.edu.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

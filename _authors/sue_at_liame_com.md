@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sue_at_liame_com
+post_count: 1
 ---
 
-# sue@liame.com (1 posts)
+# sue<span>@</span>liame.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

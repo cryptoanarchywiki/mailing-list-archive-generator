@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ahupp_at_primenet_com_adam_hupp_
+post_count: 8
 ---
 
-# ahupp@primenet.com (Adam Hupp) (8 posts)
+# ahupp<span>@</span>primenet.com (Adam Hupp) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

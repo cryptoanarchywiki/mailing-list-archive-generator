@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alexander_reynolds_chrome_at_jhunix_hcf_jhu_edu_
+post_count: 20
 ---
 
-# Alexander Reynolds <chrome@jhunix.hcf.jhu.edu> (20 posts)
+# Alexander Reynolds <chrome<span>@</span>jhunix.hcf.jhu.edu> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

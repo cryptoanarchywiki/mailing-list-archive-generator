@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: bogus@no.return.address (Underdog)<br>
+From: bogus<span>@</span>no.return.address (Underdog)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0d21fe14ba82b97fabfe01ac2bf30dccf6e4beabef6599b0f13a7c812e29ec65<br>
 Message ID: \<199410042057.QAA00534@ducie.cs.umass.edu\><br>
@@ -48,6 +48,8 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 ## Thread
 
 + Return to [October 1994](/archive/1994/10)
+
++ Return to "[bogus<span>@</span>no.return.address (Underdog)](/author/bogus_at_no_return_address_underdog_)"
 
 + 1994-10-04 (Tue, 4 Oct 94 13:57:52 PDT) - A practical use of c'punk brain power. - _bogus@no.return.address (Underdog)_
 

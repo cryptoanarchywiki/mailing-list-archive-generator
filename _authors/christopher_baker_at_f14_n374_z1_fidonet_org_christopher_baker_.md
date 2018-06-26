@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christopher_baker_at_f14_n374_z1_fidonet_org_christopher_baker_
+post_count: 2
 ---
 
-# Christopher.Baker@f14.n374.z1.fidonet.org (Christopher Baker) (2 posts)
+# Christopher.Baker<span>@</span>f14.n374.z1.fidonet.org (Christopher Baker) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

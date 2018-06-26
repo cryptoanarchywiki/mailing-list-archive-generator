@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ccshag_at_cclabs_missouri_edu_paul_shag_walmsley_
+post_count: 1
 ---
 
-# ccshag@cclabs.missouri.edu (Paul 'Shag' Walmsley) (1 posts)
+# ccshag<span>@</span>cclabs.missouri.edu (Paul 'Shag' Walmsley) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

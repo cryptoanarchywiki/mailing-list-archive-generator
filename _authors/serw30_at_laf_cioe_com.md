@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: serw30_at_laf_cioe_com
+post_count: 2
 ---
 
-# serw30@laf.cioe.com (2 posts)
+# serw30<span>@</span>laf.cioe.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

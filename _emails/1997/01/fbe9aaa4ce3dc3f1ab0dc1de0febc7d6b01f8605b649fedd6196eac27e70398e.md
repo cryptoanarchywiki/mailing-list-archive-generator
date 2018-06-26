@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ice@win.bright.net<br>
+From: ice<span>@</span>win.bright.net<br>
 To: cypherpunks \<@twnmoe10.edu.tw:cypherpunks@toad.com\><br>
 Message Hash: fbe9aaa4ce3dc3f1ab0dc1de0febc7d6b01f8605b649fedd6196eac27e70398e<br>
 Message ID: \<199701101909.OAA12397@Arl-Mail-Svc-1.compuserve.com\><br>
@@ -40,6 +40,8 @@ So Check us OUT!
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[ice<span>@</span>win.bright.net](/author/ice_at_win_bright_net)"
 
 + 1997-01-10 (Fri, 10 Jan 1997 14:18:03 -0800 (PST)) - Fukkin Elite! - _ice@win.bright.net_
 

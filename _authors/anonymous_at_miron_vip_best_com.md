@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_at_miron_vip_best_com
+post_count: 11
 ---
 
-# anonymous@miron.vip.best.com (11 posts)
+# anonymous<span>@</span>miron.vip.best.com (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

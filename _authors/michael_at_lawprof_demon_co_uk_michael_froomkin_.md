@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_at_lawprof_demon_co_uk_michael_froomkin_
+post_count: 1
 ---
 
-# Michael@lawprof.demon.co.uk (Michael Froomkin) (1 posts)
+# Michael<span>@</span>lawprof.demon.co.uk (Michael Froomkin) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

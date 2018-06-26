@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mordechai_ovits_movits_at_syndata_com_
+post_count: 3
 ---
 
-# "Mordechai Ovits" <movits@syndata.com> (3 posts)
+# "Mordechai Ovits" <movits<span>@</span>syndata.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

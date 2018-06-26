@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hal_74076_1041_at_compuserve_com_
+post_count: 98
 ---
 
-# Hal <74076.1041@CompuServe.COM> (98 posts)
+# Hal <74076.1041<span>@</span>CompuServe.COM> (98 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

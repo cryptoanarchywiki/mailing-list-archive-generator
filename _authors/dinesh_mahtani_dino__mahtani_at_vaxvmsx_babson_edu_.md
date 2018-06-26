@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dinesh_mahtani_dino__mahtani_at_vaxvmsx_babson_edu_
+post_count: 1
 ---
 
-# "Dinesh Mahtani (Dino)" <mahtani@vaxvmsx.babson.edu> (1 posts)
+# "Dinesh Mahtani (Dino)" <mahtani<span>@</span>vaxvmsx.babson.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

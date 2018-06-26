@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>ssz.com\><br>
 To: cypherpunks@ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: 38c88af61d16c4eaef57ed29fa7c3e87fcd300419d0efcc5b91a5ddbac2ca1e7<br>
 Message ID: \<199802042228.QAA06832@einstein.ssz.com\><br>
@@ -67,6 +67,8 @@ Church and in and outside the handfull of cities.
 ## Thread
 
 + Return to [February 1998](/archive/1998/02)
+
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-02-04 (Thu, 5 Feb 1998 06:28:27 +0800) - Re: The Continued Attack on Cash (Was: "The Right of Anonymity"...) (fwd) - _Jim Choate \<ravage@ssz.com\>_
 

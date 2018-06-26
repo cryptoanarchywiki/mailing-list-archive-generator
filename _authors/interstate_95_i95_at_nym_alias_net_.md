@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: interstate_95_i95_at_nym_alias_net_
+post_count: 2
 ---
 
-# Interstate 95 <I95@nym.alias.net> (2 posts)
+# Interstate 95 <I95<span>@</span>nym.alias.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

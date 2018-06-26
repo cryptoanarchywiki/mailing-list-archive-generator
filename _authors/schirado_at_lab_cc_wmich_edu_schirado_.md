@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: schirado_at_lab_cc_wmich_edu_schirado_
+post_count: 6
 ---
 
-# schirado@lab.cc.wmich.edu (Schirado) (6 posts)
+# schirado<span>@</span>lab.cc.wmich.edu (Schirado) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

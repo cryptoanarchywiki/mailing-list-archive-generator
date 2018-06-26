@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sbinkley_at_atitech_ca_scott_binkley_
+post_count: 13
 ---
 
-# SBinkley@atitech.ca (Scott Binkley) (13 posts)
+# SBinkley<span>@</span>atitech.ca (Scott Binkley) (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

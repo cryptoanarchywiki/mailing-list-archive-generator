@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_wedgwood_chris_at_cyphercom_com_
+post_count: 1
 ---
 
-# Chris Wedgwood <chris@cyphercom.com> (1 posts)
+# Chris Wedgwood <chris<span>@</span>cyphercom.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

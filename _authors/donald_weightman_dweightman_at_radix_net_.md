@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: donald_weightman_dweightman_at_radix_net_
+post_count: 5
 ---
 
-# Donald Weightman <dweightman@Radix.Net> (5 posts)
+# Donald Weightman <dweightman<span>@</span>Radix.Net> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

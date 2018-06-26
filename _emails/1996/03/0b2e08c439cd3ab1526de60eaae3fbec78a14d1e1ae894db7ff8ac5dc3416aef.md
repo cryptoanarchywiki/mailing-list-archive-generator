@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: abostick@netcom.com (Alan Bostick)<br>
+From: abostick<span>@</span>netcom.com (Alan Bostick)<br>
 To: tcmay@got.net<br>
 Message Hash: 0b2e08c439cd3ab1526de60eaae3fbec78a14d1e1ae894db7ff8ac5dc3416aef<br>
 Message ID: \<vt8Ox8m9LsiC085yn@netcom.com\><br>
@@ -67,6 +67,9 @@ ybXBxZM+0tr05y2HHSE4IqbEGOisc1/8
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[abostick<span>@</span>netcom.com (Alan Bostick)](/author/abostick_at_netcom_com_alan_bostick_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-03-04 (Mon, 4 Mar 1996 15:07:46 +0800) - [FUD about Remailers--the Strassman/Marlow "Revelations"](/archive/1996/03/b95b38b5ea30e9c4758b8238bd2c68cb68fbd9eb283d1d36eeae6376637a0e14) - _tcmay@got.net (Timothy C. May)_
   + 1996-03-06 (Wed, 6 Mar 1996 22:08:20 +0800) - Re: FUD about Remailers--the Strassman/Marlow "Revelations" - _abostick@netcom.com (Alan Bostick)_

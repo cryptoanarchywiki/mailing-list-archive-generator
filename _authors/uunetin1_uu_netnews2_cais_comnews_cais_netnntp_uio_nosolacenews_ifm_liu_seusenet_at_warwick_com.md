@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uunetin1_uu_netnews2_cais_comnews_cais_netnntp_uio_nosolacenews_ifm_liu_seusenet_at_warwick_com
+post_count: 1
 ---
 
-# uunet!in1.uu.net!news2.cais.com!news.cais.net!nntp.uio.no!solace!news.ifm.liu.se!usenet@warwick.com (1 posts)
+# uunet!in1.uu.net!news2.cais.com!news.cais.net!nntp.uio.no!solace!news.ifm.liu.se!usenet<span>@</span>warwick.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

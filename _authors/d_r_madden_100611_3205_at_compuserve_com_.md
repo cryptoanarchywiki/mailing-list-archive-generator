@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: d_r_madden_100611_3205_at_compuserve_com_
+post_count: 2
 ---
 
-# "D.R.Madden" <100611.3205@compuserve.com> (2 posts)
+# "D.R.Madden" <100611.3205<span>@</span>compuserve.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

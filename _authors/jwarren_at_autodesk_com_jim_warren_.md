@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jwarren_at_autodesk_com_jim_warren_
+post_count: 3
 ---
 
-# jwarren@autodesk.com (Jim Warren) (3 posts)
+# jwarren<span>@</span>autodesk.com (Jim Warren) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

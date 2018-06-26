@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carugo_o_e0004353_at_oxfordbrookes_ac_uk_
+post_count: 4
 ---
 
-# carugo o <e0004353@oxford-brookes.ac.uk> (4 posts)
+# carugo o <e0004353<span>@</span>oxford-brookes.ac.uk> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

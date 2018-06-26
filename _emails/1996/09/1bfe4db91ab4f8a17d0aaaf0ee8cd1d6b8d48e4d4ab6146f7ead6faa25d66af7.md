@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: declan@well.com (Declan McCullagh)<br>
+From: declan<span>@</span>well.com (Declan McCullagh)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1bfe4db91ab4f8a17d0aaaf0ee8cd1d6b8d48e4d4ab6146f7ead6faa25d66af7<br>
 Message ID: \<v01510110ae56579a5702@[204.62.128.229]\><br>
@@ -116,6 +116,8 @@ More DC Lock and Key
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[declan<span>@</span>well.com (Declan McCullagh)](/author/declan_at_well_com_declan_mccullagh_)"
 
 + 1996-09-07 (Sat, 7 Sep 1996 09:22:38 +0800) - DC lock and key, from HotWired - _declan@well.com (Declan McCullagh)_
 

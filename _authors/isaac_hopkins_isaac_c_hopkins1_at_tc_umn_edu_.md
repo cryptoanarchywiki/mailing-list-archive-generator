@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: isaac_hopkins_isaac_c_hopkins1_at_tc_umn_edu_
+post_count: 1
 ---
 
-# Isaac Hopkins <Isaac.C.Hopkins-1@tc.umn.edu> (1 posts)
+# Isaac Hopkins <Isaac.C.Hopkins-1<span>@</span>tc.umn.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

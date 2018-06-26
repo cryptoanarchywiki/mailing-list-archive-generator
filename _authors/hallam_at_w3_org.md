@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hallam_at_w3_org
+post_count: 135
 ---
 
-# hallam@w3.org (135 posts)
+# hallam<span>@</span>w3.org (135 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tripp_hardy_mhh_at_tripper_netkonect_co_uk_
+post_count: 1
 ---
 
-# Tripp Hardy <mhh@tripper.netkonect.co.uk> (1 posts)
+# Tripp Hardy <mhh<span>@</span>tripper.netkonect.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

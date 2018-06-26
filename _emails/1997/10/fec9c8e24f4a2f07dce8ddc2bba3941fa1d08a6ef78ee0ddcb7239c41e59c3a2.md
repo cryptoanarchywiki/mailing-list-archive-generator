@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nobody@REPLAY.COM\><br>
+From: Anonymous \<nobody<span>@</span>REPLAY.COM\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: fec9c8e24f4a2f07dce8ddc2bba3941fa1d08a6ef78ee0ddcb7239c41e59c3a2<br>
 Message ID: \<199710161715.TAA21716@basement.replay.com\><br>
@@ -130,6 +130,10 @@ for that kind of software.
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Anonymous <nobody<span>@</span>REPLAY.COM>](/author/anonymous_nobody_at_replay_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1997-10-16 (Fri, 17 Oct 1997 01:39:41 +0800) - Re: Security flaws introduced by "other readers" in CMR - _Anonymous \<nobody@REPLAY.COM\>_
   + 1997-10-16 (Fri, 17 Oct 1997 02:53:40 +0800) - [Re: Security flaws introduced by "other readers" in CMR](/archive/1997/10/7182430d30ab413ba14df36c8a6f981b99ab1bdab7accf5f06a4af81dab7095c) - _Tim May \<tcmay@got.net\>_

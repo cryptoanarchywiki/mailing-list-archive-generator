@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vincie_at_blaze_cs_jhu_edu_michael_ko_
+post_count: 1
 ---
 
-# vincie@blaze.cs.jhu.edu (Michael Ko) (1 posts)
+# vincie<span>@</span>blaze.cs.jhu.edu (Michael Ko) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

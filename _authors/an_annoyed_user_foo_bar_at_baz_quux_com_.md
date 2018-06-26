@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an_annoyed_user_foo_bar_at_baz_quux_com_
+post_count: 1
 ---
 
-# "An annoyed user" <foo.bar@baz.quux.com> (1 posts)
+# "An annoyed user" <foo.bar<span>@</span>baz.quux.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

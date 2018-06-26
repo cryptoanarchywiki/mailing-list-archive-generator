@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bgold_at_tlcnet_aps_muohio_edu_bruce_goldflies_
+post_count: 2
 ---
 
-# bgold@tlcnet.aps.muohio.edu (Bruce Goldflies) (2 posts)
+# bgold<span>@</span>tlcnet.aps.muohio.edu (Bruce Goldflies) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

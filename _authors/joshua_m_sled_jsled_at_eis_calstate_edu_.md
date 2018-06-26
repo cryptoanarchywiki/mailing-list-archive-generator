@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joshua_m_sled_jsled_at_eis_calstate_edu_
+post_count: 2
 ---
 
-# "Joshua M. Sled" <jsled@eis.calstate.edu> (2 posts)
+# "Joshua M. Sled" <jsled<span>@</span>eis.calstate.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

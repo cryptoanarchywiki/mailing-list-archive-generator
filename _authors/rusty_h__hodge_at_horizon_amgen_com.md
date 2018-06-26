@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rusty_h__hodge_at_horizon_amgen_com
+post_count: 1
 ---
 
-# Rusty_H._Hodge@horizon.amgen.com (1 posts)
+# Rusty_H._Hodge<span>@</span>horizon.amgen.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

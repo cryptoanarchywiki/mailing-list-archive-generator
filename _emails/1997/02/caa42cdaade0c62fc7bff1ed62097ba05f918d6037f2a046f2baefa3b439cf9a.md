@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bryan Reece \<reece@taz.nceye.net\><br>
+From: Bryan Reece \<reece<span>@</span>taz.nceye.net\><br>
 To: EALLENSMITH@ocelot.Rutgers.EDU<br>
 Message Hash: caa42cdaade0c62fc7bff1ed62097ba05f918d6037f2a046f2baefa3b439cf9a<br>
 Message ID: \<199702180512.VAA23671@toad.com\><br>
@@ -101,6 +101,8 @@ unusual and illegal headers in.  This may be a bug.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Bryan Reece <reece<span>@</span>taz.nceye.net>](/author/bryan_reece_reece_at_taz_nceye_net_)"
 
 + 1997-02-18 (Mon, 17 Feb 1997 21:12:01 -0800 (PST)) - Re: Anyone have the complete info on CP list alternatives? - _Bryan Reece \<reece@taz.nceye.net\>_
 

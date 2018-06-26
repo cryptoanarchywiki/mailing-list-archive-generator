@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: barry_a_dobyns_bdobyns_at_clueless_com_
+post_count: 1
 ---
 
-# "Barry A. Dobyns" <bdobyns@clueless.com> (1 posts)
+# "Barry A. Dobyns" <bdobyns<span>@</span>clueless.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

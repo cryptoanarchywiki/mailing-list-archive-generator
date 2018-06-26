@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nobody@replay.com\><br>
+From: Anonymous \<nobody<span>@</span>replay.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: feb47a1f207d7ffdb4f9c115d9bf0ad19024bffead0dc517e9d484dfb7aad6dd<br>
 Message ID: \<199810252135.WAA31125@replay.com\><br>
@@ -55,6 +55,8 @@ You don't think Anguilla is due for a Tomahawk sometime in the future?
 ## Thread
 
 + Return to [October 1998](/archive/1998/10)
+
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
 
 + 1998-10-25 (Mon, 26 Oct 1998 06:40:46 +0800) - Re: Feds Seize Houses for Illegal Downloading - _Anonymous \<nobody@replay.com\>_
 

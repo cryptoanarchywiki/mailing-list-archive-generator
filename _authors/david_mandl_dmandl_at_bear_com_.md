@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_mandl_dmandl_at_bear_com_
+post_count: 10
 ---
 
-# David Mandl <dmandl@bear.com> (10 posts)
+# David Mandl <dmandl<span>@</span>bear.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

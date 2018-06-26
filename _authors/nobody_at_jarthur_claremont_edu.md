@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_jarthur_claremont_edu
+post_count: 9
 ---
 
-# nobody@jarthur.claremont.edu (9 posts)
+# nobody<span>@</span>jarthur.claremont.edu (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

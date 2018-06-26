@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Gilmore \<gnu@toad.com\><br>
+From: John Gilmore \<gnu<span>@</span>toad.com\><br>
 To: cypherpunks-announce, cryptography@c2.net<br>
 Message Hash: 27bb35f2b79af665b5bb5c65fee153ef409d188be7ddce2c1c2e1cbbbda11e6b<br>
 Message ID: \<199808192139.OAA05632@toad.com\><br>
@@ -80,6 +80,8 @@ See you there!
 ## Thread
 
 + Return to [August 1998](/archive/1998/08)
+
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
 
 + 1998-08-21 (Fri, 21 Aug 1998 07:14:51 -0700 (PDT)) - Announce: SF cypherpolitech dinner, Friday 21 Aug, 6pm: Khan Toke - _John Gilmore \<gnu@toad.com\>_
 

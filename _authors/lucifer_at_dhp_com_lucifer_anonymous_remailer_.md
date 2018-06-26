@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lucifer_at_dhp_com_lucifer_anonymous_remailer_
+post_count: 155
 ---
 
-# lucifer@dhp.com (lucifer Anonymous Remailer) (155 posts)
+# lucifer<span>@</span>dhp.com (lucifer Anonymous Remailer) (155 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

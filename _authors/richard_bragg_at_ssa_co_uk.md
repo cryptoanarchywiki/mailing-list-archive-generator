@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_bragg_at_ssa_co_uk
+post_count: 15
 ---
 
-# Richard.Bragg@ssa.co.uk (15 posts)
+# Richard.Bragg<span>@</span>ssa.co.uk (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

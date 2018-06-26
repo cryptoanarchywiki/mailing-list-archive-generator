@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: amp_alan_pugh_at_internetmci_com_
+post_count: 16
 ---
 
-# amp <alan.pugh@internetmci.com> (16 posts)
+# amp <alan.pugh<span>@</span>internetmci.com> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

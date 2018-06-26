@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: CYPHERPUNKS@toad.com<br>
 Message Hash: c31c198aaefdaaacc1461e61d62ce05faa59eb2d8d50698d4bba82d2f5becd61<br>
 Message ID: \<199310181329.AA10213@panix.com\><br>
@@ -79,6 +79,8 @@ Dope dealers
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1993-10-18 (Mon, 18 Oct 93 06:32:14 PDT) - What, Me Worry? - _Duncan Frissell \<frissell@panix.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: garry_pccash_at_sprintmail_com_
+post_count: 1
 ---
 
-# Garry <pccash@sprintmail.com> (1 posts)
+# Garry <pccash<span>@</span>sprintmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

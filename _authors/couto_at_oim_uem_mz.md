@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: couto_at_oim_uem_mz
+post_count: 1
 ---
 
-# couto@oim.uem.mz (1 posts)
+# couto<span>@</span>oim.uem.mz (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

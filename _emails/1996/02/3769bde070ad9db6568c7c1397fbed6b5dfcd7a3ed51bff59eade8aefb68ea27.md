@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "James M. Cobb" \<jcobb@ahcbsd1.ovnet.com\><br>
+From: "James M. Cobb" \<jcobb<span>@</span>ahcbsd1.ovnet.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3769bde070ad9db6568c7c1397fbed6b5dfcd7a3ed51bff59eade8aefb68ea27<br>
 Message ID: \<Pine.BSD.3.91.960211122502.24396A-100000@ahcbsd1.ovnet.com\><br>
@@ -64,6 +64,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "["James M. Cobb" <jcobb<span>@</span>ahcbsd1.ovnet.com>](/author/james_m_cobb_jcobb_at_ahcbsd1_ovnet_com_)"
 
 + 1996-02-11 (Mon, 12 Feb 1996 02:49:05 +0800) - Digital Rights...Management - _"James M. Cobb" \<jcobb@ahcbsd1.ovnet.com\>_
 

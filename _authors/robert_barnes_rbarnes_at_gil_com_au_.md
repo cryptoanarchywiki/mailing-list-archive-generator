@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_barnes_rbarnes_at_gil_com_au_
+post_count: 4
 ---
 
-# Robert Barnes <rbarnes@gil.com.au> (4 posts)
+# Robert Barnes <rbarnes<span>@</span>gil.com.au> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

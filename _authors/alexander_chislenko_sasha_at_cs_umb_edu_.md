@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alexander_chislenko_sasha_at_cs_umb_edu_
+post_count: 8
 ---
 
-# Alexander Chislenko <sasha@cs.umb.edu> (8 posts)
+# Alexander Chislenko <sasha<span>@</span>cs.umb.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

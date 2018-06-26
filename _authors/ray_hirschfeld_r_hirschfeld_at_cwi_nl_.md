@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ray_hirschfeld_r_hirschfeld_at_cwi_nl_
+post_count: 5
 ---
 
-# Ray Hirschfeld <R.Hirschfeld@cwi.nl> (5 posts)
+# Ray Hirschfeld <R.Hirschfeld<span>@</span>cwi.nl> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

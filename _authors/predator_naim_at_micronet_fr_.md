@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: predator_naim_at_micronet_fr_
+post_count: 2
 ---
 
-# predator <naim@micronet.fr> (2 posts)
+# predator <naim<span>@</span>micronet.fr> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

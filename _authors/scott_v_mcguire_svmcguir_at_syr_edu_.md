@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_v_mcguire_svmcguir_at_syr_edu_
+post_count: 11
 ---
 
-# "Scott V. McGuire" <svmcguir@syr.edu> (11 posts)
+# "Scott V. McGuire" <svmcguir<span>@</span>syr.edu> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

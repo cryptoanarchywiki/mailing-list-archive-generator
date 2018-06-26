@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cracker_at_icon_co_za
+post_count: 4
 ---
 
-# cracker@icon.co.za (4 posts)
+# cracker<span>@</span>icon.co.za (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

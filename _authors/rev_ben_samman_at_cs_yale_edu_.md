@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rev_ben_samman_at_cs_yale_edu_
+post_count: 11
 ---
 
-# "Rev. Ben" <samman@CS.YALE.EDU> (11 posts)
+# "Rev. Ben" <samman<span>@</span>CS.YALE.EDU> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

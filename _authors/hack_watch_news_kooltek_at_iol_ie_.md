@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hack_watch_news_kooltek_at_iol_ie_
+post_count: 3
 ---
 
-# Hack Watch News <kooltek@iol.ie> (3 posts)
+# Hack Watch News <kooltek<span>@</span>iol.ie> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

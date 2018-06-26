@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: an109574@anon.penet.fi<br>
+From: an109574<span>@</span>anon.penet.fi<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 88afff317df5ac54046ff7cc9dfb3fbedb05c31aaa3fce25a2c02e13eb4bfb23<br>
 Message ID: \<9412262136.AA14518@anon.penet.fi\><br>
@@ -91,6 +91,8 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 ## Thread
 
 + Return to [December 1994](/archive/1994/12)
+
++ Return to "[an109574<span>@</span>anon.penet.fi](/author/an109574_at_anon_penet_fi)"
 
 + 1994-12-26 (Mon, 26 Dec 94 14:01:08 PST) - voice encryption for portable PCs - _an109574@anon.penet.fi_
 

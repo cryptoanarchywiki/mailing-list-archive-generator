@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: benjamin_britton_at_uc_edu
+post_count: 1
 ---
 
-# Benjamin.Britton@UC.Edu (1 posts)
+# Benjamin.Britton<span>@</span>UC.Edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

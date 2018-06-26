@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fiy46_at_werker_com_internet_sales_
+post_count: 1
 ---
 
-# fiy46@werker.com (Internet Sales) (1 posts)
+# fiy46<span>@</span>werker.com (Internet Sales) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

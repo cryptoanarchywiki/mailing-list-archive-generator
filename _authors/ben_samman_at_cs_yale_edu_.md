@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ben_samman_at_cs_yale_edu_
+post_count: 14
 ---
 
-# Ben <samman@cs.yale.edu> (14 posts)
+# Ben <samman<span>@</span>cs.yale.edu> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

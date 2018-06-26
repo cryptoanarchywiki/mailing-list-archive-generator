@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stanton_mccandlish_mech_at_eff_org_
+post_count: 201
 ---
 
-# Stanton McCandlish <mech@eff.org> (201 posts)
+# Stanton McCandlish <mech<span>@</span>eff.org> (201 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_scheidt_scheida_at_earlham_edu_
+post_count: 2
 ---
 
-# David Scheidt <scheida@earlham.edu> (2 posts)
+# David Scheidt <scheida<span>@</span>earlham.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

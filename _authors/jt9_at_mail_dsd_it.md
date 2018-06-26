@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jt9_at_mail_dsd_it
+post_count: 1
 ---
 
-# jt9@mail.dsd.it (1 posts)
+# jt9<span>@</span>mail.dsd.it (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

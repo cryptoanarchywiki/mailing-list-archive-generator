@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edward_vielmetti_emv_at_msen_com_
+post_count: 1
 ---
 
-# Edward Vielmetti <emv@msen.com> (1 posts)
+# Edward Vielmetti <emv<span>@</span>msen.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

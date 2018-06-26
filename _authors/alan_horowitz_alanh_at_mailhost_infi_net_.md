@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_horowitz_alanh_at_mailhost_infi_net_
+post_count: 19
 ---
 
-# Alan Horowitz <alanh@mailhost.infi.net> (19 posts)
+# Alan Horowitz <alanh<span>@</span>mailhost.infi.net> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

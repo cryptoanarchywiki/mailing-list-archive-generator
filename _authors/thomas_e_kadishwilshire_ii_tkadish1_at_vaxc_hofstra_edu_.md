@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_e_kadishwilshire_ii_tkadish1_at_vaxc_hofstra_edu_
+post_count: 2
 ---
 
-# "THOMAS E. KADISH--WILSHIRE II" <TKADISH1@vaxc.hofstra.edu> (2 posts)
+# "THOMAS E. KADISH--WILSHIRE II" <TKADISH1<span>@</span>vaxc.hofstra.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

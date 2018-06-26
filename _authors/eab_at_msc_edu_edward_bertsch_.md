@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eab_at_msc_edu_edward_bertsch_
+post_count: 5
 ---
 
-# eab@msc.edu (Edward Bertsch) (5 posts)
+# eab<span>@</span>msc.edu (Edward Bertsch) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

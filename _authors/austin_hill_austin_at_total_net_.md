@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: austin_hill_austin_at_total_net_
+post_count: 2
 ---
 
-# Austin Hill <austin@total.net> (2 posts)
+# Austin Hill <austin<span>@</span>total.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

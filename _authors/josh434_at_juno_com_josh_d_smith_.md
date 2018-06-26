@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: josh434_at_juno_com_josh_d_smith_
+post_count: 4
 ---
 
-# josh434@juno.com (josh d smith) (4 posts)
+# josh434<span>@</span>juno.com (josh d smith) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

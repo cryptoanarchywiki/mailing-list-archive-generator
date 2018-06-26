@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_fuzzfacefasteddie_mcmahon_mcmahon_at_eisner_decus_org_
+post_count: 7
 ---
 
-# "John (FuzzFace/Fast-Eddie) McMahon" <MCMAHON@Eisner.DECUS.Org> (7 posts)
+# "John (FuzzFace/Fast-Eddie) McMahon" <MCMAHON<span>@</span>Eisner.DECUS.Org> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

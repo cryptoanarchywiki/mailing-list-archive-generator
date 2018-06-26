@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_hupp_jhupp_at_novellnet_gensys_com_
+post_count: 11
 ---
 
-# "Jeff Hupp" <jhupp@novellnet.gensys.com> (11 posts)
+# "Jeff Hupp" <jhupp<span>@</span>novellnet.gensys.com> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

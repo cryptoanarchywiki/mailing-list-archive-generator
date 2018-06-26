@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joseph_matheny_mediak_at_well_sf_ca_us_
+post_count: 1
 ---
 
-# Joseph Matheny <mediak@well.sf.ca.us> (1 posts)
+# Joseph Matheny <mediak<span>@</span>well.sf.ca.us> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

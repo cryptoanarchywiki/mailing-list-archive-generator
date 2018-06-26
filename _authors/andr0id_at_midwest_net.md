@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andr0id_at_midwest_net
+post_count: 7
 ---
 
-# andr0id@midwest.net (7 posts)
+# andr0id<span>@</span>midwest.net (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

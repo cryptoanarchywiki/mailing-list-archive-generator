@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vince_tessier_vtessier_at_vela_acs_oakland_edu_
+post_count: 1
 ---
 
-# Vince Tessier <vtessier@vela.acs.oakland.edu> (1 posts)
+# Vince Tessier <vtessier<span>@</span>vela.acs.oakland.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

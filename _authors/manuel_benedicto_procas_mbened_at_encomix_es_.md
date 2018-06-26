@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: manuel_benedicto_procas_mbened_at_encomix_es_
+post_count: 1
 ---
 
-# Manuel Benedicto Procas <mbened@encomix.es> (1 posts)
+# Manuel Benedicto Procas <mbened<span>@</span>encomix.es> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

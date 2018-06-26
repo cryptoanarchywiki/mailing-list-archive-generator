@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_turner_dave_turner_at_wmc_ac_uk_
+post_count: 1
 ---
 
-# Dave Turner <dave.turner@wmc.ac.uk> (1 posts)
+# Dave Turner <dave.turner<span>@</span>wmc.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

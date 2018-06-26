@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: douglas_barnes_wixerwixer_bga_comgumby_at_cactus_org_
+post_count: 5
 ---
 
-# Douglas Barnes <wixer!wixer.bga.com!gumby@cactus.org> (5 posts)
+# Douglas Barnes <wixer!wixer.bga.com!gumby<span>@</span>cactus.org> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

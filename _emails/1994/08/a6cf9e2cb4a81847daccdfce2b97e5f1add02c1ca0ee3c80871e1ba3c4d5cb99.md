@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<hfinney@shell.portal.com\><br>
+From: Hal \<hfinney<span>@</span>shell.portal.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a6cf9e2cb4a81847daccdfce2b97e5f1add02c1ca0ee3c80871e1ba3c4d5cb99<br>
 Message ID: \<199408252058.NAA12488@jobe.shell.portal.com\><br>
@@ -62,6 +62,12 @@ P.S. The paper was by Paul C. van Oorschot & Michael J. Wiener.
 
 + Return to [August 1994](/archive/1994/08)
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[alex <cp<span>@</span>omaha.com>](/author/alex_cp_at_omaha_com_)"
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "["Ian Farquhar" <ianf<span>@</span>simple.sydney.sgi.com>](/author/ian_farquhar_ianf_at_simple_sydney_sgi_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[Phil Karn <karn<span>@</span>qualcomm.com>](/author/phil_karn_karn_at_qualcomm_com_)"
 
 + 1994-08-25 (Thu, 25 Aug 94 13:58:33 PDT) - $10M breaks MD5 in 24 days - _Hal \<hfinney@shell.portal.com\>_
   + 1994-08-26 (Thu, 25 Aug 94 17:01:47 PDT) - [Re: $10M breaks MD5 in 24 days](/archive/1994/08/7560da5d6922fc8bb8c34a9f08fc20caf31b1d7dfc8efc87393b8245363b5352) - _alex \<cp@omaha.com\>_

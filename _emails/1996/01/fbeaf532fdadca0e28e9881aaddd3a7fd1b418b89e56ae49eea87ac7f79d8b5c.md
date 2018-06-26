@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Olsen \<alano@teleport.com\><br>
+From: Alan Olsen \<alano<span>@</span>teleport.com\><br>
 To: Patrick Lamb \<cypherpunks@toad.com<br>
 Message Hash: fbeaf532fdadca0e28e9881aaddd3a7fd1b418b89e56ae49eea87ac7f79d8b5c<br>
 Message ID: \<2.2.32.19960118205437.008885a4@mail.teleport.com\><br>
@@ -57,6 +57,8 @@ Alan Olsen -- alano@teleport.com -- Contract Web Design & Instruction
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/author/alan_olsen_alano_at_teleport_com_)"
 
 + 1996-01-18 (Fri, 19 Jan 1996 06:18:45 +0800) - [noise] Re: Attack Simulator - _Alan Olsen \<alano@teleport.com\>_
 

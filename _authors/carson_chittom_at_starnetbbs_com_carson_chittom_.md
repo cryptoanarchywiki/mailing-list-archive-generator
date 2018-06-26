@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carson_chittom_at_starnetbbs_com_carson_chittom_
+post_count: 1
 ---
 
-# carson.chittom@starnetbbs.com (Carson Chittom) (1 posts)
+# carson.chittom<span>@</span>starnetbbs.com (Carson Chittom) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

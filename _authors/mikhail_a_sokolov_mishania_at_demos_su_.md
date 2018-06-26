@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mikhail_a_sokolov_mishania_at_demos_su_
+post_count: 4
 ---
 
-# "Mikhail A. Sokolov" <mishania@demos.su> (4 posts)
+# "Mikhail A. Sokolov" <mishania<span>@</span>demos.su> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

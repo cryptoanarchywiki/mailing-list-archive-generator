@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jtender@telerama.lm.com (John Tender)<br>
+From: jtender<span>@</span>telerama.lm.com (John Tender)<br>
 To: _N/A_<br>
 Message Hash: 201ba7b68a5ded6a1429cc5ea81fd8ffacdafd549545581cafcc1b0cb64ecc73<br>
 Message ID: \<3hj26d$32o@africa.lm.com\><br>
@@ -53,6 +53,8 @@ jtender@telerama.lm.com
 ## Thread
 
 + Return to [February 1995](/archive/1995/02)
+
++ Return to "[jtender<span>@</span>telerama.lm.com (John Tender)](/author/jtender_at_telerama_lm_com_john_tender_)"
 
 + 1995-02-11 (Sat, 11 Feb 95 11:12:33 PST) - Re:       Re: Laws, Feds, & the Internet - _jtender@telerama.lm.com (John Tender)_
 

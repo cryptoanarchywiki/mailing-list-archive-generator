@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_taffs_dat_at_ebt_com_
+post_count: 8
 ---
 
-# David Taffs <dat@ebt.com> (8 posts)
+# David Taffs <dat<span>@</span>ebt.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

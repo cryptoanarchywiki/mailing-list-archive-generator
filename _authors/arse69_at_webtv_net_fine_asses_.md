@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: arse69_at_webtv_net_fine_asses_
+post_count: 1
 ---
 
-# arse69@webtv.net (fine asses) (1 posts)
+# arse69<span>@</span>webtv.net (fine asses) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

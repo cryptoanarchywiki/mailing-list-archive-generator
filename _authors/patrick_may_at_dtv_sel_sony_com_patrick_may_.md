@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_may_at_dtv_sel_sony_com_patrick_may_
+post_count: 3
 ---
 
-# Patrick_May@dtv.sel.sony.com (Patrick May) (3 posts)
+# Patrick_May<span>@</span>dtv.sel.sony.com (Patrick May) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

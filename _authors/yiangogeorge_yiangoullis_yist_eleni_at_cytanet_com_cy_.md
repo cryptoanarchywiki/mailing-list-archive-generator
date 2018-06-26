@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yiangogeorge_yiangoullis_yist_eleni_at_cytanet_com_cy_
+post_count: 1
 ---
 
-# "Yiango-George Yiangoullis [YiST]" <eleni@cytanet.com.cy> (1 posts)
+# "Yiango-George Yiangoullis [YiST]" <eleni<span>@</span>cytanet.com.cy> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

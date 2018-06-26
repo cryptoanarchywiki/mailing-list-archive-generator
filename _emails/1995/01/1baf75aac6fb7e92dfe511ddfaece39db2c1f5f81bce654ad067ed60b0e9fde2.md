@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1baf75aac6fb7e92dfe511ddfaece39db2c1f5f81bce654ad067ed60b0e9fde2<br>
 Message ID: \<199501171752.MAA21698@pipe2.pipeline.com\><br>
@@ -78,6 +78,8 @@ over-controlling heads.
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1995-01-17 (Tue, 17 Jan 95 09:53:02 PST) - Re: Abuse and Remailer Ethics - _John Young \<jya@pipeline.com\>_
 

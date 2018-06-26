@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jsw_at_netscape_com_jsw_at_netscape_com_
+post_count: 1
 ---
 
-# jsw@netscape.com (Jsw@netscape.com) (1 posts)
+# jsw<span>@</span>netscape.com (Jsw<span>@</span>netscape.com) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

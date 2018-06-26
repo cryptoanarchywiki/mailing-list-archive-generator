@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_g_speth_december_at_end_end_com_
+post_count: 2
 ---
 
-# "James G. Speth" <december@end.end.COM> (2 posts)
+# "James G. Speth" <december<span>@</span>end.end.COM> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

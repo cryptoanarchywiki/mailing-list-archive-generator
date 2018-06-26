@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: elliot_lee_sopwith_at_cuc_edu_
+post_count: 4
 ---
 
-# Elliot Lee <sopwith@cuc.edu> (4 posts)
+# Elliot Lee <sopwith<span>@</span>cuc.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

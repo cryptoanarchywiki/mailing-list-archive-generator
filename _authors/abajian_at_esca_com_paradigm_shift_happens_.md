@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: abajian_at_esca_com_paradigm_shift_happens_
+post_count: 1
 ---
 
-# abajian@esca.com (paradigm shift happens) (1 posts)
+# abajian<span>@</span>esca.com (paradigm shift happens) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

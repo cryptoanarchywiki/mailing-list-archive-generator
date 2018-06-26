@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adamsc@io-online.com (Adamsc)<br>
+From: Adamsc<span>@</span>io-online.com (Adamsc)<br>
 To: "tcmay@got.net\><br>
 Message Hash: 4c0cd5ddbeda56bcfb8f7aa0efeae74567d2a1834bac3673b5afa4d06546ba4e<br>
 Message ID: \<19960929061007859.AAA183@GIGANTE\><br>
@@ -58,6 +58,8 @@ student to live to 18.
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/author/adamsc_at_ioonline_com_adamsc_)"
 
 + 1996-09-29 (Sun, 29 Sep 1996 16:21:21 +0800) - Re: Public Schools - _Adamsc@io-online.com (Adamsc)_
 

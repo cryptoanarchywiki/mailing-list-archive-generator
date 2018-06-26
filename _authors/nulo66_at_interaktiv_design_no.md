@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nulo66_at_interaktiv_design_no
+post_count: 1
 ---
 
-# nulo66@interaktiv.design.no (1 posts)
+# nulo66<span>@</span>interaktiv.design.no (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_weimer_bromill_at_deltanet_com_
+post_count: 1
 ---
 
-# Doug Weimer <bromill@deltanet.com> (1 posts)
+# Doug Weimer <bromill<span>@</span>deltanet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

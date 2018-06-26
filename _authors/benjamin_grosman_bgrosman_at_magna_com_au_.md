@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: benjamin_grosman_bgrosman_at_magna_com_au_
+post_count: 5
 ---
 
-# Benjamin Grosman <bgrosman@magna.com.au> (5 posts)
+# Benjamin Grosman <bgrosman<span>@</span>magna.com.au> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@amaranth.com\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>amaranth.com\><br>
 To: "Timothy C. May" \<tcmay@got.net\><br>
 Message Hash: 3c0568dbc7f3c953ef9f53db2b67e8eda05d77f3fd8df6d5bc6a2cec0e6dd5bf<br>
 Message ID: \<199702111411.GAA19308@toad.com\><br>
@@ -80,6 +80,8 @@ eybgP/vYvz8=
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-02-11 (Tue, 11 Feb 1997 06:11:34 -0800 (PST)) - Re: META: Censorship is Going Way too Far - _"William H. Geiger III" \<whgiii@amaranth.com\>_
 

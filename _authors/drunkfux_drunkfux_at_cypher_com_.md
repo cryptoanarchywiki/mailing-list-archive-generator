@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: drunkfux_drunkfux_at_cypher_com_
+post_count: 3
 ---
 
-# Drunkfux <drunkfux@cypher.com> (3 posts)
+# Drunkfux <drunkfux<span>@</span>cypher.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

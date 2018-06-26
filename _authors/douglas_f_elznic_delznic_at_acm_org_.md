@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: douglas_f_elznic_delznic_at_acm_org_
+post_count: 1
 ---
 
-# "Douglas F. Elznic" <delznic@acm.org> (1 posts)
+# "Douglas F. Elznic" <delznic<span>@</span>acm.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

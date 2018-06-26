@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sergey_goldgaber_sergey_at_delbruck_pharm_sunysb_edu_
+post_count: 40
 ---
 
-# Sergey Goldgaber <sergey@delbruck.pharm.sunysb.edu> (40 posts)
+# Sergey Goldgaber <sergey<span>@</span>delbruck.pharm.sunysb.edu> (40 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

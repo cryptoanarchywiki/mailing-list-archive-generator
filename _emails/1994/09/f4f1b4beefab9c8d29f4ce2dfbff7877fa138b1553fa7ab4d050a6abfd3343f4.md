@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Phil Karn \<karn@qualcomm.com\><br>
+From: Phil Karn \<karn<span>@</span>qualcomm.com\><br>
 To: tcmay@netcom.com<br>
 Message Hash: f4f1b4beefab9c8d29f4ce2dfbff7877fa138b1553fa7ab4d050a6abfd3343f4<br>
 Message ID: \<199409202330.QAA11383@servo.qualcomm.com\><br>
@@ -61,6 +61,14 @@ Phil
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[Brad Huntting <huntting<span>@</span>glarp.com>](/author/brad_huntting_huntting_at_glarp_com_)"
++ Return to "[frissell<span>@</span>panix.com (Duncan Frissell)](/author/frissell_at_panix_com_duncan_frissell_)"
++ Return to "["Ian Farquhar" <ianf<span>@</span>wiley.sydney.sgi.com>](/author/ian_farquhar_ianf_at_wiley_sydney_sgi_com_)"
++ Return to "[M.Gream<span>@</span>uts.EDU.AU (Matthew Gream)](/author/m_gream_at_uts_edu_au_matthew_gream_)"
++ Return to "[Mats Bergstrom <matsb<span>@</span>sos.sll.se>](/author/mats_bergstrom_matsb_at_sos_sll_se_)"
++ Return to "[Phil Karn <karn<span>@</span>qualcomm.com>](/author/phil_karn_karn_at_qualcomm_com_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-09-20 (Tue, 20 Sep 94 05:52:30 PDT) - [Re: (fwd) "Will You Be a Terrorist?"](/archive/1994/09/27adfc528df7163fed6eca8597d4dba33a79ff1d909647120ed9285fd849c798) - _frissell@panix.com (Duncan Frissell)_
   + 1994-09-20 (Tue, 20 Sep 94 10:28:06 PDT) - [Laws Outside the U.S.](/archive/1994/09/167412e96f08bc8e54ef13c47fa9d7518a9c050fbcd105dd5b87fdd5c9453131) - _tcmay@netcom.com (Timothy C. May)_

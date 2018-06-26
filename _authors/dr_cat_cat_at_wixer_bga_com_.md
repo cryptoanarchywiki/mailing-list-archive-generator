@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dr_cat_cat_at_wixer_bga_com_
+post_count: 1
 ---
 
-# Dr. Cat <cat@wixer.bga.com> (1 posts)
+# Dr. Cat <cat<span>@</span>wixer.bga.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

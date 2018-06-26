@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sandy Sandfort \<sandfort@crl.com\><br>
+From: Sandy Sandfort \<sandfort<span>@</span>crl.com\><br>
 To: Duncan Frissell \<frissell@panix.com\><br>
 Message Hash: f9ee3a28285efaffc0f73fdb7ae6f8ae4af128491bae2cb0839ba8d49becdd30<br>
 Message ID: \<Pine.3.87.9404260841.A11922-0100000@crl.crl.com\><br>
@@ -64,6 +64,11 @@ I would have refused, but I honestly don't know.  Scary thought, huh?
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Dragon (David Fiedler) <david<span>@</span>infopro.com>](/author/dragon_david_fiedler_david_at_infopro_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>snark.imsi.com>](/author/perry_e_metzger_perry_at_snark_imsi_com_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1994-04-26 (Tue, 26 Apr 94 04:38:10 PDT) - [RE: Milgram & Authority](/archive/1994/04/2782cf1feae7af41e9ad0893232d81a8b29c42111923843e7e074c202e55d024) - _Duncan Frissell \<frissell@panix.com\>_
   + 1994-04-26 (Tue, 26 Apr 94 08:34:28 PDT) - RE: Milgram & Authority - _Sandy Sandfort \<sandfort@crl.com\>_

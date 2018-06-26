@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nihilis_at_mindvox_phantom_com_joel_boutros_
+post_count: 1
 ---
 
-# nihilis@mindvox.phantom.com (Joel Boutros) (1 posts)
+# nihilis<span>@</span>mindvox.phantom.com (Joel Boutros) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

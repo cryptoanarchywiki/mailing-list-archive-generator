@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nowhere@bsu-cs.bsu.edu\><br>
+From: Anonymous \<nowhere<span>@</span>bsu-cs.bsu.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 706baa5b6aff4ba07cef3bf2bfc52dc15dd4d323b4d18753ab627e65cefbb3f1<br>
 Message ID: \<9309231227.AA04430@bsu-cs.bsu.edu\><br>
@@ -167,6 +167,8 @@ End excerpted message ------------------------------
 ## Thread
 
 + Return to [September 1993](/archive/1993/09)
+
++ Return to "[Anonymous <nowhere<span>@</span>bsu-cs.bsu.edu>](/author/anonymous_nowhere_at_bsucs_bsu_edu_)"
 
 + 1993-09-23 (Thu, 23 Sep 93 05:28:12 PDT) - Red Ryder decoder rings declared illegal (fwd) - _Anonymous \<nowhere@bsu-cs.bsu.edu\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gmiller_at_deysystems_com_greg_miller_
+post_count: 1
 ---
 
-# gmiller@dey-systems.com (Greg Miller) (1 posts)
+# gmiller<span>@</span>dey-systems.com (Greg Miller) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

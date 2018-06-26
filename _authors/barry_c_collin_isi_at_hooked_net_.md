@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: barry_c_collin_isi_at_hooked_net_
+post_count: 2
 ---
 
-# "Barry C. Collin" <isi@hooked.net> (2 posts)
+# "Barry C. Collin" <isi<span>@</span>hooked.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

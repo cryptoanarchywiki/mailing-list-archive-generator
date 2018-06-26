@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: troy_m_barnhart_barney_at_rapidnet_com_
+post_count: 2
 ---
 
-# "Troy M. Barnhart" <barney@rapidnet.com> (2 posts)
+# "Troy M. Barnhart" <barney<span>@</span>rapidnet.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

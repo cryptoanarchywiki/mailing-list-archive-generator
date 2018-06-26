@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hshubs_at_bix_com
+post_count: 2
 ---
 
-# hshubs@BIX.com (2 posts)
+# hshubs<span>@</span>BIX.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

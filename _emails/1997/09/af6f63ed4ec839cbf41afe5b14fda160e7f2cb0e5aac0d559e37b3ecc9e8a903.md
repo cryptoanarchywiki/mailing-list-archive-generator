@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jonathan Wienke \<JonWienk@ix.netcom.com\><br>
+From: Jonathan Wienke \<JonWienk<span>@</span>ix.netcom.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: af6f63ed4ec839cbf41afe5b14fda160e7f2cb0e5aac0d559e37b3ecc9e8a903<br>
 Message ID: \<3.0.3.32.19970902182818.006e2bac@popd.netcruiser\><br>
@@ -72,6 +72,13 @@ print pack"C*",split/\D+/,`echo "16iII*o\U@{$/=$z;[(pop,pop,unpack"H*",<>
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[bennett_t1<span>@</span>popmail.firn.edu](/author/bennett_t1_at_popmail_firn_edu)"
++ Return to "[Dave K-P <k.p<span>@</span>snet.net>](/author/dave_kp_k_p_at_snet_net_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "["Harry Regan" <geezbox<span>@</span>hotmail.com>](/author/harry_regan_geezbox_at_hotmail_com_)"
++ Return to "[Jonathan Wienke <JonWienk<span>@</span>ix.netcom.com>](/author/jonathan_wienke_jonwienk_at_ix_netcom_com_)"
++ Return to "[Leo Papandreou <leo<span>@</span>supersex.com>](/author/leo_papandreou_leo_at_supersex_com_)"
 
 + 1997-09-01 (Mon, 1 Sep 1997 19:45:20 +0800) - [Information](/archive/1997/09/0c6b2d53bc4337179b9f1b2ec81a5cb1c0bcbb2a90badd0d633af7bc5d5895f0) - _"Harry Regan" \<geezbox@hotmail.com\>_
   + 1997-09-01 (Tue, 2 Sep 1997 03:53:57 +0800) - [Re: Information](/archive/1997/09/dc039c4d9be11d2e28272f5026eefb8b5759d2cbb9225417b102bb81ac61fae1) - _Leo Papandreou \<leo@supersex.com\>_

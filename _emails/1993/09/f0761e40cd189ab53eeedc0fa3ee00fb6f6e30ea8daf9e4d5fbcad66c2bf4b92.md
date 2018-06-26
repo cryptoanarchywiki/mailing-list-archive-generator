@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sandy \<72114.1712@CompuServe.COM\><br>
+From: Sandy \<72114.1712<span>@</span>CompuServe.COM\><br>
 To: \<cypherpunks@toad.com\><br>
 Message Hash: f0761e40cd189ab53eeedc0fa3ee00fb6f6e30ea8daf9e4d5fbcad66c2bf4b92<br>
 Message ID: \<930911160347_72114.1712_FHF27-1@CompuServe.COM\><br>
@@ -68,6 +68,8 @@ them.
 ## Thread
 
 + Return to [September 1993](/archive/1993/09)
+
++ Return to "[Sandy <72114.1712<span>@</span>CompuServe.COM>](/author/sandy_72114_1712_at_compuserve_com_)"
 
 + 1993-09-11 (Sat, 11 Sep 93 09:13:07 PDT) - DIGITAL WARFARE - _Sandy \<72114.1712@CompuServe.COM\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sakarias_at_tripnet_se_bjorn_asman_
+post_count: 1
 ---
 
-# sakarias@tripnet.se (Bjorn Asman) (1 posts)
+# sakarias<span>@</span>tripnet.se (Bjorn Asman) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

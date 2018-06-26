@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: elran_at_pl_jaring_my
+post_count: 1
 ---
 
-# elran@pl.jaring.my (1 posts)
+# elran<span>@</span>pl.jaring.my (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

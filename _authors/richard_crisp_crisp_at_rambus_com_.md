@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_crisp_crisp_at_rambus_com_
+post_count: 1
 ---
 
-# Richard Crisp <crisp@rambus.com> (1 posts)
+# Richard Crisp <crisp<span>@</span>rambus.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

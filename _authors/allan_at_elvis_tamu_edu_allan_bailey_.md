@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: allan_at_elvis_tamu_edu_allan_bailey_
+post_count: 16
 ---
 
-# allan@elvis.tamu.edu (Allan Bailey) (16 posts)
+# allan<span>@</span>elvis.tamu.edu (Allan Bailey) (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blaster_at_rd_relcom_msk_su_victor_a_borisov_
+post_count: 6
 ---
 
-# blaster@rd.relcom.msk.su (Victor A. Borisov) (6 posts)
+# blaster<span>@</span>rd.relcom.msk.su (Victor A. Borisov) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

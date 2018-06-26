@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jpb_at_shadow_net_joe_block_
+post_count: 3
 ---
 
-# jpb@shadow.net (Joe Block) (3 posts)
+# jpb<span>@</span>shadow.net (Joe Block) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

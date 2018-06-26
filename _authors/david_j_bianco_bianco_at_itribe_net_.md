@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_j_bianco_bianco_at_itribe_net_
+post_count: 19
 ---
 
-# "David J. Bianco" <bianco@itribe.net> (19 posts)
+# "David J. Bianco" <bianco<span>@</span>itribe.net> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

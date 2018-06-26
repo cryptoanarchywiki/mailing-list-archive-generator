@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_ruttenberg_alanr_at_media_mit_edu_
+post_count: 5
 ---
 
-# Alan Ruttenberg <alanr@media.mit.edu> (5 posts)
+# Alan Ruttenberg <alanr<span>@</span>media.mit.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tbyfield_at_panix_com_ted_byfield_
+post_count: 7
 ---
 
-# tbyfield@panix.com (Ted Byfield) (7 posts)
+# tbyfield<span>@</span>panix.com (Ted Byfield) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

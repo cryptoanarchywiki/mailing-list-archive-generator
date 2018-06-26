@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_wall_street_journal_interactive_edition_wsjannounce_at_interactive_wsj_com_
+post_count: 3
 ---
 
-# The Wall Street Journal Interactive Edition             <wsj-announce@interactive.wsj.com> (3 posts)
+# The Wall Street Journal Interactive Edition             <wsj-announce<span>@</span>interactive.wsj.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

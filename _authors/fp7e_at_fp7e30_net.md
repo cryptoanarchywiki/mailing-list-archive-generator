@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fp7e_at_fp7e30_net
+post_count: 1
 ---
 
-# fp7e@fp7e30.net (1 posts)
+# fp7e<span>@</span>fp7e30.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

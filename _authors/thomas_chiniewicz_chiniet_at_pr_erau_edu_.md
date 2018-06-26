@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_chiniewicz_chiniet_at_pr_erau_edu_
+post_count: 1
 ---
 
-# Thomas Chiniewicz <chiniet@pr.erau.edu> (1 posts)
+# Thomas Chiniewicz <chiniet<span>@</span>pr.erau.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

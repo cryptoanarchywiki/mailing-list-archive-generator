@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: specialnews4u_at_usa_net
+post_count: 1
 ---
 
-# specialnews4u@usa.net (1 posts)
+# specialnews4u<span>@</span>usa.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

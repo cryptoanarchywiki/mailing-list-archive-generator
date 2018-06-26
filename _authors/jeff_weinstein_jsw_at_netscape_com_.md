@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_weinstein_jsw_at_netscape_com_
+post_count: 206
 ---
 
-# Jeff Weinstein <jsw@netscape.com> (206 posts)
+# Jeff Weinstein <jsw<span>@</span>netscape.com> (206 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lsoft_list_server_at_cci_1_8b__listserv_at_mail_compcurr_com_
+post_count: 2
 ---
 
-# "L-Soft list server at CCI (1.8b)" <LISTSERV@MAIL.COMPCURR.COM> (2 posts)
+# "L-Soft list server at CCI (1.8b)" <LISTSERV<span>@</span>MAIL.COMPCURR.COM> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

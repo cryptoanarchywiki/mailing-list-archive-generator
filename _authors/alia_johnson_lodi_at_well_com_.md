@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alia_johnson_lodi_at_well_com_
+post_count: 6
 ---
 
-# Alia Johnson <lodi@well.com> (6 posts)
+# Alia Johnson <lodi<span>@</span>well.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

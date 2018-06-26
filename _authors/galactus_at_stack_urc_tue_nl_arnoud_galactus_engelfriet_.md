@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: galactus_at_stack_urc_tue_nl_arnoud_galactus_engelfriet_
+post_count: 1
 ---
 
-# galactus@stack.urc.tue.nl (Arnoud "Galactus" Engelfriet) (1 posts)
+# galactus<span>@</span>stack.urc.tue.nl (Arnoud "Galactus" Engelfriet) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

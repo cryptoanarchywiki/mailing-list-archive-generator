@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: craig_at_passport_ca_craig_hubley_
+post_count: 16
 ---
 
-# craig@passport.ca (Craig Hubley) (16 posts)
+# craig<span>@</span>passport.ca (Craig Hubley) (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Greg Broiles \<gbroiles@netbox.com\><br>
+From: Greg Broiles \<gbroiles<span>@</span>netbox.com\><br>
 To: cryptography@c2.net<br>
 Message Hash: f9bbff4153ada38fae96a126bfe1967f8da5d8f0defaebaf6ea32d05a33f496d<br>
 Message ID: \<3.0.1.32.19970406003854.0078be00@postoffice.pacbell.net\><br>
@@ -65,6 +65,8 @@ http://www.io.com/~gbroiles | Export jobs, not crypto.
 ## Thread
 
 + Return to [April 1997](/archive/1997/04)
+
++ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/author/greg_broiles_gbroiles_at_netbox_com_)"
 
 + 1997-04-06 (Sun, 6 Apr 1997 00:30:42 -0800 (PST)) - Wassenaar - _Greg Broiles \<gbroiles@netbox.com\>_
 

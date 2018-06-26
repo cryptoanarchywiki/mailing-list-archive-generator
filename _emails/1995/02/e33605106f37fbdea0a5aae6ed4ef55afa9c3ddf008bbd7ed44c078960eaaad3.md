@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "John A. Perry" \<perry@jpunix.com\><br>
+From: "John A. Perry" \<perry<span>@</span>jpunix.com\><br>
 To: alt.privacy.anon-server@myriad.pc.cc.cmu.edu<br>
 Message Hash: e33605106f37fbdea0a5aae6ed4ef55afa9c3ddf008bbd7ed44c078960eaaad3<br>
 Message ID: \<199502022127.PAA14199@jpunix.com\><br>
@@ -81,6 +81,9 @@ II1mDwnZ9n0=
 ## Thread
 
 + Return to [February 1995](/archive/1995/02)
+
++ Return to "[eric<span>@</span>remailer.net (Eric Hughes)](/author/eric_at_remailer_net_eric_hughes_)"
++ Return to "["John A. Perry" <perry<span>@</span>jpunix.com>](/author/john_a_perry_perry_at_jpunix_com_)"
 
 + 1995-02-02 (Thu, 2 Feb 95 13:29:14 PST) - MX'ing and jpunix.com - _"John A. Perry" \<perry@jpunix.com\>_
   + 1995-02-03 (Fri, 3 Feb 95 15:14:54 PST) - [Re: MX'ing and jpunix.com](/archive/1995/02/365ba2228267fcc1cbbe02772d7854b59b2aa3ca23f13ae2d7027aca9e1fc00a) - _eric@remailer.net (Eric Hughes)_

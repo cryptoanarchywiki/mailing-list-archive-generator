@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: emailking_associates_at_cwix_com
+post_count: 2
 ---
 
-# emailking.associates@cwix.com (2 posts)
+# emailking.associates<span>@</span>cwix.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

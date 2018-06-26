@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: philip_r_moyer_prm_at_rome_isl_sri_com_
+post_count: 2
 ---
 
-# Philip R. Moyer <prm@rome.isl.sri.com> (2 posts)
+# Philip R. Moyer <prm<span>@</span>rome.isl.sri.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

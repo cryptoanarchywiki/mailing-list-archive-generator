@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aviel_david_rubin_rubin_at_citi_umich_edu_
+post_count: 6
 ---
 
-# Aviel David Rubin <rubin@citi.umich.edu> (6 posts)
+# Aviel David Rubin <rubin<span>@</span>citi.umich.edu> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: spock_spock_at_rsa_com_steve_dusse_
+post_count: 1
 ---
 
-# "spock" <spock@RSA.COM (Steve Dusse)> (1 posts)
+# "spock" <spock<span>@</span>RSA.COM (Steve Dusse)> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: CyberEyes \<cyberia@cam.org\><br>
+From: CyberEyes \<cyberia<span>@</span>cam.org\><br>
 To: Greg Miller \<gregmi@galileo.mis.net\><br>
 Message Hash: 16bcfd5ae7ab6d0c758224936ef4cd8c4c8ab3c29bf0bfadb5fa6df0a5bb1728<br>
 Message ID: \<Pine.GSO.3.94.960705161336.3192A-100000@Ocean.CAM.ORG\><br>
@@ -63,6 +63,9 @@ FTP -> ftp.cam.org /users/cyberia      |  swim          bike       run
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[CyberEyes <cyberia<span>@</span>cam.org>](/author/cybereyes_cyberia_at_cam_org_)"
++ Return to "[gregmi<span>@</span>galileo.mis.net (Greg Miller)](/author/gregmi_at_galileo_mis_net_greg_miller_)"
 
 + 1996-07-04 (Fri, 5 Jul 1996 02:27:36 +0800) - [Word lists for passphrases](/archive/1996/07/729b888e6d3db7d90cbfcfe9ebae6b60010d498bb4b7f6fa3df9ed662b2d6a25) - _gregmi@galileo.mis.net (Greg Miller)_
   + 1996-07-06 (Sat, 6 Jul 1996 08:12:34 +0800) - Re: Word lists for passphrases - _CyberEyes \<cyberia@cam.org\>_

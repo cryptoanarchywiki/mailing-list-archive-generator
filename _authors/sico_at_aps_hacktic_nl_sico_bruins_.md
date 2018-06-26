@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sico_at_aps_hacktic_nl_sico_bruins_
+post_count: 7
 ---
 
-# sico@aps.hacktic.nl (Sico Bruins) (7 posts)
+# sico<span>@</span>aps.hacktic.nl (Sico Bruins) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_mcgrath_mcgrath_at_elec_canterbury_ac_nz_
+post_count: 1
 ---
 
-# Jim McGrath <MCGRATH@elec.canterbury.ac.nz> (1 posts)
+# Jim McGrath <MCGRATH<span>@</span>elec.canterbury.ac.nz> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

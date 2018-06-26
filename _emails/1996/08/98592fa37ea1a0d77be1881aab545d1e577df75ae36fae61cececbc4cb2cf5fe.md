@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: qut@netcom.com (Skip)<br>
+From: qut<span>@</span>netcom.com (Skip)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 98592fa37ea1a0d77be1881aab545d1e577df75ae36fae61cececbc4cb2cf5fe<br>
 Message ID: \<199608210110.SAA24006@netcom.netcom.com\><br>
@@ -45,6 +45,8 @@ Skip, OBC
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[qut<span>@</span>netcom.com (Skip)](/author/qut_at_netcom_com_skip_)"
 
 + 1996-08-21 (Wed, 21 Aug 1996 12:25:24 +0800) - PreRFD: comp.org.cypherpunks - _qut@netcom.com (Skip)_
 

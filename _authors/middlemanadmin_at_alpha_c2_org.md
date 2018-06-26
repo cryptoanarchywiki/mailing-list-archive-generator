@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: middlemanadmin_at_alpha_c2_org
+post_count: 3
 ---
 
-# middle-man-admin@alpha.c2.org (3 posts)
+# middle-man-admin<span>@</span>alpha.c2.org (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

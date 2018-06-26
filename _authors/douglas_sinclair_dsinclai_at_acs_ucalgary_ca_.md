@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: douglas_sinclair_dsinclai_at_acs_ucalgary_ca_
+post_count: 16
 ---
 
-# Douglas Sinclair <dsinclai@acs.ucalgary.ca> (16 posts)
+# Douglas Sinclair <dsinclai<span>@</span>acs.ucalgary.ca> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

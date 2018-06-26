@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bshantz_at_spry_com_brad_shantz_
+post_count: 8
 ---
 
-# bshantz@spry.com (Brad Shantz) (8 posts)
+# bshantz<span>@</span>spry.com (Brad Shantz) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

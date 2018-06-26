@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: firebeard_stend_at_grendel_austin_texas_net_
+post_count: 4
 ---
 
-# Firebeard <stend@grendel.austin.texas.net> (4 posts)
+# Firebeard <stend<span>@</span>grendel.austin.texas.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

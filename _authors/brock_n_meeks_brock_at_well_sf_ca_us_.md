@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brock_n_meeks_brock_at_well_sf_ca_us_
+post_count: 1
 ---
 
-# "Brock N. Meeks" <brock@well.sf.ca.us> (1 posts)
+# "Brock N. Meeks" <brock<span>@</span>well.sf.ca.us> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

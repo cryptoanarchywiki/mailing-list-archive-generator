@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_patterson_lep_at_tanju_wsnet_com_
+post_count: 4
 ---
 
-# Alan Patterson <lep@tanju.wsnet.com> (4 posts)
+# Alan Patterson <lep<span>@</span>tanju.wsnet.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

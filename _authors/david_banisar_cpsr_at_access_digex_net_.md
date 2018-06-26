@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_banisar_cpsr_at_access_digex_net_
+post_count: 1
 ---
 
-# David Banisar <cpsr@access.digex.net> (1 posts)
+# David Banisar <cpsr<span>@</span>access.digex.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

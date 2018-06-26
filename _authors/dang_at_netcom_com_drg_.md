@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dang_at_netcom_com_drg_
+post_count: 1
 ---
 
-# dang@netcom.com (DRG) (1 posts)
+# dang<span>@</span>netcom.com (DRG) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

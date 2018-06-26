@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_beattie_beattie_at_csos_orst_edu_
+post_count: 3
 ---
 
-# Brian Beattie <beattie@CSOS.ORST.EDU> (3 posts)
+# Brian Beattie <beattie<span>@</span>CSOS.ORST.EDU> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

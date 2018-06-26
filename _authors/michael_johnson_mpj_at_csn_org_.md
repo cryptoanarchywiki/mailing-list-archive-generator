@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_johnson_mpj_at_csn_org_
+post_count: 8
 ---
 
-# Michael Johnson <mpj@csn.org> (8 posts)
+# Michael Johnson <mpj<span>@</span>csn.org> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

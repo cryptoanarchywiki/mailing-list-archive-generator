@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alexandre_maret_amaret_at_infomaniak_ch_
+post_count: 5
 ---
 
-# Alexandre Maret <amaret@infomaniak.ch> (5 posts)
+# Alexandre Maret <amaret<span>@</span>infomaniak.ch> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gsassoun_at_shearson_com_garo_sassouni_
+post_count: 1
 ---
 
-# gsassoun@shearson.com (Garo Sassouni) (1 posts)
+# gsassoun<span>@</span>shearson.com (Garo Sassouni) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

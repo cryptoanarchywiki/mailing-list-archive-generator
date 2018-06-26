@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: morten_v_christiansen_mvc_at_ncrsecp_copenhagen_ncr_com_
+post_count: 1
 ---
 
-# "Morten V. Christiansen" <mvc@ncrsecp.copenhagen.NCR.COM> (1 posts)
+# "Morten V. Christiansen" <mvc<span>@</span>ncrsecp.copenhagen.NCR.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

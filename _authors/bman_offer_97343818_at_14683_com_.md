@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bman_offer_97343818_at_14683_com_
+post_count: 1
 ---
 
-# "bman offer" <97343818@14683.com> (1 posts)
+# "bman offer" <97343818<span>@</span>14683.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

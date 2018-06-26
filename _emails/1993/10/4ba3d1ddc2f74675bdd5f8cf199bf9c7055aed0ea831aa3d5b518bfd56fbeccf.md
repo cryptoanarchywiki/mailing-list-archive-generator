@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: wcs@anchor.ho.att.com (Bill_Stewart_HOY002_1305)<br>
+From: wcs<span>@</span>anchor.ho.att.com (Bill_Stewart_HOY002_1305)<br>
 To: swc@uc1.ucsu.edu<br>
 Message Hash: 4ba3d1ddc2f74675bdd5f8cf199bf9c7055aed0ea831aa3d5b518bfd56fbeccf<br>
 Message ID: \<9310140715.AA20064@anchor.ho.att.com\><br>
@@ -66,6 +66,8 @@ After 10/15, NCR, Pleasanton CA, Beeper 510-224-7043, Phone/email TBD
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[wcs<span>@</span>anchor.ho.att.com (Bill_Stewart_HOY002_1305)](/author/wcs_at_anchor_ho_att_com_bill_stewart_hoy002_1305_)"
 
 + 1993-10-14 (Thu, 14 Oct 93 09:32:15 PDT) - Re: Spread-spectrum net (vulnerability of) - _wcs@anchor.ho.att.com (Bill_Stewart_HOY002_1305)_
 

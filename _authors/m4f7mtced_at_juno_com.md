@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m4f7mtced_at_juno_com
+post_count: 1
 ---
 
-# M4f7mtcED@juno.com (1 posts)
+# M4f7mtcED<span>@</span>juno.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

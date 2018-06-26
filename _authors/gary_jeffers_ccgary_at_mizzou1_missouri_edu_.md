@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gary_jeffers_ccgary_at_mizzou1_missouri_edu_
+post_count: 78
 ---
 
-# "Gary Jeffers" <CCGARY@MIZZOU1.missouri.edu> (78 posts)
+# "Gary Jeffers" <CCGARY<span>@</span>MIZZOU1.missouri.edu> (78 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: randy_antler_randy_at_pilot_com_
+post_count: 2
 ---
 
-# Randy Antler <randy@pilot.com> (2 posts)
+# Randy Antler <randy<span>@</span>pilot.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

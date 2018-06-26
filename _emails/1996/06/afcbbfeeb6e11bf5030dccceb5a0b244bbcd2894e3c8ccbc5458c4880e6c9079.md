@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: lucifer \<lucifer@dhp.com\><br>
+From: lucifer \<lucifer<span>@</span>dhp.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: afcbbfeeb6e11bf5030dccceb5a0b244bbcd2894e3c8ccbc5458c4880e6c9079<br>
 Message ID: \<Pine.LNX.3.91.960626120657.32722A-100000@dhp.com\><br>
@@ -80,6 +80,8 @@ aO3vQZHHFTI=
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[lucifer <lucifer<span>@</span>dhp.com>](/author/lucifer_lucifer_at_dhp_com_)"
 
 + 1996-06-26 (Thu, 27 Jun 1996 06:20:38 +0800) - Lucifer remailer - _lucifer \<lucifer@dhp.com\>_
 

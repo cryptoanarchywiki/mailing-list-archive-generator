@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_todd_dtodd_at_corp_usweb_com_
+post_count: 1
 ---
 
-# Daniel Todd <dtodd@corp.usweb.com> (1 posts)
+# Daniel Todd <dtodd<span>@</span>corp.usweb.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ceo35_at_concentric_net_james_
+post_count: 1
 ---
 
-# ceo35@concentric.net (James) (1 posts)
+# ceo35<span>@</span>concentric.net (James) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

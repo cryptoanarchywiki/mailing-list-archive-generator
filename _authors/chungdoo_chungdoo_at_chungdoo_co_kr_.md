@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chungdoo_chungdoo_at_chungdoo_co_kr_
+post_count: 1
 ---
 
-# "chungdoo" <chungdoo@chungdoo.co.kr> (1 posts)
+# "chungdoo" <chungdoo<span>@</span>chungdoo.co.kr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

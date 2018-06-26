@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bryan_reece_reece_at_taz_nceye_net_
+post_count: 24
 ---
 
-# Bryan Reece <reece@taz.nceye.net> (24 posts)
+# Bryan Reece <reece<span>@</span>taz.nceye.net> (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

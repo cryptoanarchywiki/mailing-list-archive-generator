@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cortland_d_starrett_cort_at_bioanalytical_com_
+post_count: 2
 ---
 
-# "Cortland D. Starrett" <cort@bioanalytical.com> (2 posts)
+# "Cortland D. Starrett" <cort<span>@</span>bioanalytical.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

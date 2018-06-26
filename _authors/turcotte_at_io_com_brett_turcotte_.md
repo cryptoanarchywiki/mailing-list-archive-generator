@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: turcotte_at_io_com_brett_turcotte_
+post_count: 1
 ---
 
-# turcotte@io.com (Brett Turcotte) (1 posts)
+# turcotte<span>@</span>io.com (Brett Turcotte) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: grandcentralamixchip_chip_morningstar__software_without_moving_parts_
+post_count: 2
 ---
 
 # grand-central!amix!chip (Chip Morningstar -- "Software Without Moving Parts") (2 posts)

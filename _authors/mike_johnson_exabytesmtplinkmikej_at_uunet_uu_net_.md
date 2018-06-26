@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_johnson_exabytesmtplinkmikej_at_uunet_uu_net_
+post_count: 11
 ---
 
-# "Mike Johnson" <exabyte!smtplink!mikej@uunet.UU.NET> (11 posts)
+# "Mike Johnson" <exabyte!smtplink!mikej<span>@</span>uunet.UU.NET> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

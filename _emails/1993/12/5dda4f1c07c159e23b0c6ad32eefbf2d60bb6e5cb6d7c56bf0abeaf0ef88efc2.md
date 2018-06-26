@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: pierre@shell.portal.com (Pierre Uszynski)<br>
+From: pierre<span>@</span>shell.portal.com (Pierre Uszynski)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5dda4f1c07c159e23b0c6ad32eefbf2d60bb6e5cb6d7c56bf0abeaf0ef88efc2<br>
 Message ID: \<9312020852.AA16294@jobe.shell.portal.com\><br>
@@ -85,6 +85,8 @@ pierre@shell.portal.com
 ## Thread
 
 + Return to [December 1993](/archive/1993/12)
+
++ Return to "[pierre<span>@</span>shell.portal.com (Pierre Uszynski)](/author/pierre_at_shell_portal_com_pierre_uszynski_)"
 
 + 1993-12-02 (Thu, 2 Dec 93 00:52:24 PST) - Re: Two items from recent magazines... - _pierre@shell.portal.com (Pierre Uszynski)_
 

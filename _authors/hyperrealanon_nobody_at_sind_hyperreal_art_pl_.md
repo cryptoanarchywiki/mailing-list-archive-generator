@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hyperrealanon_nobody_at_sind_hyperreal_art_pl_
+post_count: 51
 ---
 
-# HyperReal-Anon <nobody@sind.hyperreal.art.pl> (51 posts)
+# HyperReal-Anon <nobody<span>@</span>sind.hyperreal.art.pl> (51 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gep2_at_computek_net_by_way_of_frantz_at_netcom_com_bill_frantz_
+post_count: 1
 ---
 
-# gep2@computek.net (by way of frantz@netcom.com (Bill Frantz)) (1 posts)
+# gep2<span>@</span>computek.net (by way of frantz<span>@</span>netcom.com (Bill Frantz)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

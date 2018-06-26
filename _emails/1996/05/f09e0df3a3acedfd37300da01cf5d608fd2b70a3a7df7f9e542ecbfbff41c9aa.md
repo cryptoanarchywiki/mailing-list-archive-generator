@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Jean-Francois Avon" \<jf_avon@citenet.net\><br>
+From: "Jean-Francois Avon" \<jf_avon<span>@</span>citenet.net\><br>
 To: Subir Grewal \<grewals@acf2.nyu.edu\><br>
 Message Hash: f09e0df3a3acedfd37300da01cf5d608fd2b70a3a7df7f9e542ecbfbff41c9aa<br>
 Message ID: \<9605280104.AB17333@cti02.citenet.net\><br>
@@ -63,6 +63,8 @@ JFA
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "["Jean-Francois Avon" <jf_avon<span>@</span>citenet.net>](/author/jeanfrancois_avon_jf_avon_at_citenet_net_)"
 
 + 1996-05-28 (Tue, 28 May 1996 13:14:11 +0800) - Throwing away the whole bushell because one apple is rotten... - _"Jean-Francois Avon" \<jf_avon@citenet.net\>_
 

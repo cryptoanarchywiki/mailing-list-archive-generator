@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mjr_at_tis_com
+post_count: 5
 ---
 
-# mjr@TIS.COM (5 posts)
+# mjr<span>@</span>TIS.COM (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

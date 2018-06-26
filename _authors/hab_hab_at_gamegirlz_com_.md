@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hab_hab_at_gamegirlz_com_
+post_count: 2
 ---
 
-# HaB <hab@gamegirlz.com> (2 posts)
+# HaB <hab<span>@</span>gamegirlz.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

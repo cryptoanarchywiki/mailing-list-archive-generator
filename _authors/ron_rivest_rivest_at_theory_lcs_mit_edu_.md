@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ron_rivest_rivest_at_theory_lcs_mit_edu_
+post_count: 1
 ---
 
-# Ron Rivest <rivest@theory.lcs.mit.edu> (1 posts)
+# Ron Rivest <rivest<span>@</span>theory.lcs.mit.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

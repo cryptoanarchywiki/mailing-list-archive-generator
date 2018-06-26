@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jimn8_at_netcom_com_jim_nitchals_
+post_count: 15
 ---
 
-# jimn8@netcom.com (Jim Nitchals) (15 posts)
+# jimn8<span>@</span>netcom.com (Jim Nitchals) (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

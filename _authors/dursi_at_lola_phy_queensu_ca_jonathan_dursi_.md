@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dursi_at_lola_phy_queensu_ca_jonathan_dursi_
+post_count: 1
 ---
 
-# dursi@lola.phy.QueensU.CA (Jonathan Dursi) (1 posts)
+# dursi<span>@</span>lola.phy.QueensU.CA (Jonathan Dursi) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

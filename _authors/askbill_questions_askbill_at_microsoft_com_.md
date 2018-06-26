@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: askbill_questions_askbill_at_microsoft_com_
+post_count: 1
 ---
 
-# Askbill Questions <askbill@microsoft.com> (1 posts)
+# Askbill Questions <askbill<span>@</span>microsoft.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

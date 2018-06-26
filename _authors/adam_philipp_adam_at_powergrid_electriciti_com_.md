@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adam_philipp_adam_at_powergrid_electriciti_com_
+post_count: 1
 ---
 
-# Adam Philipp <adam@powergrid.electriciti.com> (1 posts)
+# Adam Philipp <adam<span>@</span>powergrid.electriciti.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

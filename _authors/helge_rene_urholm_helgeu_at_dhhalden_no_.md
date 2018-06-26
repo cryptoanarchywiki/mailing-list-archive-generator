@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: helge_rene_urholm_helgeu_at_dhhalden_no_
+post_count: 1
 ---
 
-# HELGE RENE URHOLM <HELGEU@dhhalden.no> (1 posts)
+# HELGE RENE URHOLM <HELGEU<span>@</span>dhhalden.no> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

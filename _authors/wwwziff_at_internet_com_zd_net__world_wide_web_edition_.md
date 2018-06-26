@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wwwziff_at_internet_com_zd_net__world_wide_web_edition_
+post_count: 3
 ---
 
-# wwwziff@internet.com (ZD Net / World Wide Web Edition) (3 posts)
+# wwwziff<span>@</span>internet.com (ZD Net / World Wide Web Edition) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

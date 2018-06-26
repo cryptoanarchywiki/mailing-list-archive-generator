@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jaeson_m_engle_at_josaiah_sewanee_edu_rhys_kyraden_
+post_count: 14
 ---
 
-# Jaeson.M.Engle@josaiah.sewanee.edu (Rhys Kyraden) (14 posts)
+# Jaeson.M.Engle<span>@</span>josaiah.sewanee.edu (Rhys Kyraden) (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

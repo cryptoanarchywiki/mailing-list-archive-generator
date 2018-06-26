@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: minming_chin_mmchin_at_extol_com_my_
+post_count: 1
 ---
 
-# Min-Ming Chin <mmchin@extol.com.my> (1 posts)
+# Min-Ming Chin <mmchin<span>@</span>extol.com.my> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jis@mit.edu (Jeffrey I. Schiller)<br>
+From: jis<span>@</span>mit.edu (Jeffrey I. Schiller)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: bc5d6c7fa38d97e1e7d039ebfdea0df69492113e1cd68e6bbfedd4fae2903e0e<br>
 Message ID: \<ad15cfd50002100488a9@[18.162.1.1]\><br>
@@ -107,6 +107,8 @@ syDfLcUl7ks=
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[jis<span>@</span>mit.edu (Jeffrey I. Schiller)](/author/jis_at_mit_edu_jeffrey_i_schiller_)"
 
 + 1996-01-07 (Mon, 8 Jan 1996 03:58:58 +0800) - New PGPfone Beta Test Available (1.0b5) Still Mac only - _jis@mit.edu (Jeffrey I. Schiller)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: q_yafq_at_telcel_net_ve_
+post_count: 2
 ---
 
-# "Q" <yafq@telcel.net.ve> (2 posts)
+# "Q" <yafq<span>@</span>telcel.net.ve> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

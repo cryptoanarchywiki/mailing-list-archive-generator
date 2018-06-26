@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joel_mcnamara_joelm_at_eskimo_com_
+post_count: 50
 ---
 
-# Joel McNamara <joelm@eskimo.com> (50 posts)
+# Joel McNamara <joelm<span>@</span>eskimo.com> (50 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

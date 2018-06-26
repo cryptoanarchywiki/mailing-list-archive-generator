@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: aad42a39f4a7db9d1966276ae8b0dd7ab0d64b6f6f1fab0bde8de5cd5dd16fa6<br>
 Message ID: \<1.5.4.32.19970701174406.0067b530@pop.pipeline.com\><br>
@@ -55,6 +55,8 @@ versions:
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1997-07-01 (Wed, 2 Jul 1997 02:19:23 +0800) - The Walsh Report - _John Young \<jya@pipeline.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rusik_rusik_98_at_chat_ru_
+post_count: 1
 ---
 
-# "Rusik" <rusik_98@chat.ru> (1 posts)
+# "Rusik" <rusik_98<span>@</span>chat.ru> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

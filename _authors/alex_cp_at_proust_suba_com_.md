@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_cp_at_proust_suba_com_
+post_count: 4
 ---
 
-# alex <cp@proust.suba.com> (4 posts)
+# alex <cp<span>@</span>proust.suba.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

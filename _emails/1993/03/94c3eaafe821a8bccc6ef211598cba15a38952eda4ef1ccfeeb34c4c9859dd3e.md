@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Karl Barrus \<elee9sf@Menudo.UH.EDU\><br>
+From: Karl Barrus \<elee9sf<span>@</span>Menudo.UH.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 94c3eaafe821a8bccc6ef211598cba15a38952eda4ef1ccfeeb34c4c9859dd3e<br>
 Message ID: \<199303120616.AA20557@Menudo.UH.EDU\><br>
@@ -78,6 +78,8 @@ fE9mYRkNUII=
 ## Thread
 
 + Return to [March 1993](/archive/1993/03)
+
++ Return to "[Karl Barrus <elee9sf<span>@</span>Menudo.UH.EDU>](/author/karl_barrus_elee9sf_at_menudo_uh_edu_)"
 
 + 1993-03-12 (Thu, 11 Mar 93 22:17:22 PST) - CASH/BANK: combo - _Karl Barrus \<elee9sf@Menudo.UH.EDU\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sean_roach_roach_s_at_alph_swosu_edu_
+post_count: 190
 ---
 
-# Sean Roach <roach_s@alph.swosu.edu> (190 posts)
+# Sean Roach <roach_s<span>@</span>alph.swosu.edu> (190 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

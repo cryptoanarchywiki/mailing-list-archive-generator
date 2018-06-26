@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mr_brandon_w_wheaton_kbwheaton_at_patrol_iway_co_uk_
+post_count: 2
 ---
 
-# "Mr. Brandon W. Wheaton" <kbwheaton@patrol.i-way.co.uk> (2 posts)
+# "Mr. Brandon W. Wheaton" <kbwheaton<span>@</span>patrol.i-way.co.uk> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

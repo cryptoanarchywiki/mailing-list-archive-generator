@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steven_l_baur_steve_at_miranova_com_
+post_count: 36
 ---
 
-# Steven L Baur <steve@miranova.com> (36 posts)
+# Steven L Baur <steve<span>@</span>miranova.com> (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

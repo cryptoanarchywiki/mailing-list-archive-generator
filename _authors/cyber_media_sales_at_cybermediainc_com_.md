@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cyber_media_sales_at_cybermediainc_com_
+post_count: 1
 ---
 
-# "Cyber Media" <sales@cybermedia-inc.com> (1 posts)
+# "Cyber Media" <sales<span>@</span>cybermedia-inc.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

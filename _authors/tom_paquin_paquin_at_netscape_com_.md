@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_paquin_paquin_at_netscape_com_
+post_count: 7
 ---
 
-# Tom Paquin <paquin@netscape.com> (7 posts)
+# Tom Paquin <paquin<span>@</span>netscape.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

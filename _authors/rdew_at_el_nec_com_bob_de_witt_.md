@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rdew_at_el_nec_com_bob_de_witt_
+post_count: 8
 ---
 
-# rdew@el.nec.com (Bob De Witt) (8 posts)
+# rdew<span>@</span>el.nec.com (Bob De Witt) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jacket9_at_primenet_com_tony_o_aka_college_guy_
+post_count: 1
 ---
 
-# jacket9@primenet.com (Tony O.  AKA College Guy) (1 posts)
+# jacket9<span>@</span>primenet.com (Tony O.  AKA College Guy) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

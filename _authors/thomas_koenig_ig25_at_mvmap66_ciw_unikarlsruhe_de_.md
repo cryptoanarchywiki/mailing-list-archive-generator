@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_koenig_ig25_at_mvmap66_ciw_unikarlsruhe_de_
+post_count: 2
 ---
 
-# Thomas Koenig <ig25@mvmap66.ciw.uni-karlsruhe.de> (2 posts)
+# Thomas Koenig <ig25<span>@</span>mvmap66.ciw.uni-karlsruhe.de> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: skyway_at_t1net_com
+post_count: 1
 ---
 
-# skyway@t-1net.com (1 posts)
+# skyway<span>@</span>t-1net.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_purshottam_andy_at_acgeas_com_
+post_count: 1
 ---
 
-# Andrew Purshottam <andy@acgeas.com> (1 posts)
+# Andrew Purshottam <andy<span>@</span>acgeas.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

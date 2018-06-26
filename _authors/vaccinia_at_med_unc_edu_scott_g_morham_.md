@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vaccinia_at_med_unc_edu_scott_g_morham_
+post_count: 1
 ---
 
-# vaccinia@med.unc.edu (Scott G. Morham) (1 posts)
+# vaccinia<span>@</span>med.unc.edu (Scott G. Morham) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

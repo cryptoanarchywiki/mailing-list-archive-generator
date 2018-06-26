@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: treason_at_gnu_ai_mit_edu
+post_count: 15
 ---
 
-# treason@gnu.ai.mit.edu (15 posts)
+# treason<span>@</span>gnu.ai.mit.edu (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

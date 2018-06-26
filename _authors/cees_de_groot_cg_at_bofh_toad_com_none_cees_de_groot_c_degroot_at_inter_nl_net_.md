@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cees_de_groot_cg_at_bofh_toad_com_none_cees_de_groot_c_degroot_at_inter_nl_net_
+post_count: 3
 ---
 
-# "Cees de Groot" <cg@bofh.toad.com (none)>"Cees de Groot" <C.deGroot@inter.nl.net> (3 posts)
+# "Cees de Groot" <cg<span>@</span>bofh.toad.com (none)>"Cees de Groot" <C.deGroot<span>@</span>inter.nl.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

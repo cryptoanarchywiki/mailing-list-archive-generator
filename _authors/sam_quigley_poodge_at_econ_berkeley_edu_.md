@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sam_quigley_poodge_at_econ_berkeley_edu_
+post_count: 11
 ---
 
-# Sam Quigley <poodge@econ.Berkeley.EDU> (11 posts)
+# Sam Quigley <poodge<span>@</span>econ.Berkeley.EDU> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

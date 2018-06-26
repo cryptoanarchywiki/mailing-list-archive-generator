@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_at_wmono_remailer_anonymous_
+post_count: 2
 ---
 
-# anonymous@wmono.remailer (Anonymous) (2 posts)
+# anonymous<span>@</span>wmono.remailer (Anonymous) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rwalters_at_gtech_com_walters_randy_
+post_count: 1
 ---
 
-# rwalters@gtech.com (Walters, Randy) (1 posts)
+# rwalters<span>@</span>gtech.com (Walters, Randy) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

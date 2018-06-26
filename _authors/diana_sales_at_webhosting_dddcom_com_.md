@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: diana_sales_at_webhosting_dddcom_com_
+post_count: 1
 ---
 
-# Diana <sales@webhosting.dddcom.com> (1 posts)
+# Diana <sales<span>@</span>webhosting.dddcom.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

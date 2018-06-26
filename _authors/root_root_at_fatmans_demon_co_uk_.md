@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: root_root_at_fatmans_demon_co_uk_
+post_count: 5
 ---
 
-# root <root@fatmans.demon.co.uk> (5 posts)
+# root <root<span>@</span>fatmans.demon.co.uk> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

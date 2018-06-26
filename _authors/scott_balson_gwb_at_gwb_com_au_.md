@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_balson_gwb_at_gwb_com_au_
+post_count: 1
 ---
 
-# "Scott Balson" <gwb@gwb.com.au> (1 posts)
+# "Scott Balson" <gwb<span>@</span>gwb.com.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

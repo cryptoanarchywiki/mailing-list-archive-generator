@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jwc00_at_cas_org_jim_cooper_jwc00_at_cas_org_6144473600_ext_3581_
+post_count: 1
 ---
 
-# jwc00@cas.org (Jim Cooper (jwc00@cas.org; 614-447-3600 ext 3581)) (1 posts)
+# jwc00<span>@</span>cas.org (Jim Cooper (jwc00<span>@</span>cas.org; 614-447-3600 ext 3581)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: CYPHERPUNKS@toad.com<br>
 Message Hash: c4a4e1ca6e7c9b863c290cb9e8bb5e8b25fbe3271bbf9db8ae5bc5e1efe4b01d<br>
 Message ID: \<199406151931.AA11812@panix.com\><br>
@@ -53,6 +53,8 @@ sorry for them."
 ## Thread
 
 + Return to [June 1994](/archive/1994/06)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1994-06-15 (Wed, 15 Jun 94 12:32:04 PDT) - Decline and Fall - _Duncan Frissell \<frissell@panix.com\>_
 

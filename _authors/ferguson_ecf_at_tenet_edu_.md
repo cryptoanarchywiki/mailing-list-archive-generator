@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ferguson_ecf_at_tenet_edu_
+post_count: 2
 ---
 
-# Ferguson <ecf@tenet.edu> (2 posts)
+# Ferguson <ecf<span>@</span>tenet.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

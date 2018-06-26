@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dental_at_cheerful_com
+post_count: 2
 ---
 
-# dental@cheerful.com (2 posts)
+# dental<span>@</span>cheerful.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

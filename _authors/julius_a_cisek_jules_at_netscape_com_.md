@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: julius_a_cisek_jules_at_netscape_com_
+post_count: 1
 ---
 
-# "Julius A. Cisek" <jules@netscape.com> (1 posts)
+# "Julius A. Cisek" <jules<span>@</span>netscape.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

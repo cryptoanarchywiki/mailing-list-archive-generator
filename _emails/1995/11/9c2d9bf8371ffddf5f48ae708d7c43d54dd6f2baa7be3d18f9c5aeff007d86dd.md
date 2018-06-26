@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9c2d9bf8371ffddf5f48ae708d7c43d54dd6f2baa7be3d18f9c5aeff007d86dd<br>
 Message ID: \<acc0dca515021004eb09@[205.199.118.202]\><br>
@@ -121,6 +121,8 @@ Higher Power: 2^756839      | black markets, collapse of governments.
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1995-11-04 (Sun, 5 Nov 1995 01:41:51 +0800) - Re: Sources of randomness - _tcmay@got.net (Timothy C. May)_
 

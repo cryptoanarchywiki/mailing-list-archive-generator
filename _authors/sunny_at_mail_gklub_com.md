@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sunny_at_mail_gklub_com
+post_count: 1
 ---
 
-# sunny@mail.gklub.com (1 posts)
+# sunny<span>@</span>mail.gklub.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

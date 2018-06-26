@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vinnie_at_webstuff_apple_com_vinnie_moscaritolo_
+post_count: 3
 ---
 
-# vinnie@webstuff.apple.com (vinnie moscaritolo) (3 posts)
+# vinnie<span>@</span>webstuff.apple.com (vinnie moscaritolo) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

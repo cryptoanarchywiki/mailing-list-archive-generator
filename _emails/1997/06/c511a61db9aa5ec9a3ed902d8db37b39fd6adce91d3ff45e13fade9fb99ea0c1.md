@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Gina-Lisa@logatome.micronet.fr<br>
+From: Gina-Lisa<span>@</span>logatome.micronet.fr<br>
 To: email4all@aol.com\</A\><br>
 Message Hash: c511a61db9aa5ec9a3ed902d8db37b39fd6adce91d3ff45e13fade9fb99ea0c1<br>
 Message ID: \<18725478612534@hottotal.com\><br>
@@ -60,6 +60,8 @@ See ya there!
 ## Thread
 
 + Return to [June 1997](/archive/1997/06)
+
++ Return to "[Gina-Lisa<span>@</span>logatome.micronet.fr](/author/ginalisa_at_logatome_micronet_fr)"
 
 + 1997-06-26 (Thu, 26 Jun 1997 08:29:43 -0700 (PDT)) - For Adults ONLY! - _Gina-Lisa@logatome.micronet.fr_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: geoff_klein_geoff_at_commtouch_co_il_
+post_count: 9
 ---
 
-# Geoff Klein <geoff@commtouch.co.il> (9 posts)
+# Geoff Klein <geoff<span>@</span>commtouch.co.il> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

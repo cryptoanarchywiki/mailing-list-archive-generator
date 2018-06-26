@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_schultz_jschultz_at_bigcat_missouri_edu_
+post_count: 5
 ---
 
-# John Schultz <jschultz@bigcat.missouri.edu> (5 posts)
+# John Schultz <jschultz<span>@</span>bigcat.missouri.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

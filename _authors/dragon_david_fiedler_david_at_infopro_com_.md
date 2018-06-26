@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dragon_david_fiedler_david_at_infopro_com_
+post_count: 1
 ---
 
-# Dragon (David Fiedler) <david@infopro.com> (1 posts)
+# Dragon (David Fiedler) <david<span>@</span>infopro.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

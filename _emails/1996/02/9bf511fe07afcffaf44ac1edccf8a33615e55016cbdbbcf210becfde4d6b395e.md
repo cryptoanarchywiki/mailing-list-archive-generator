@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9bf511fe07afcffaf44ac1edccf8a33615e55016cbdbbcf210becfde4d6b395e<br>
 Message ID: \<m0ts1QU-0008xrC@pacifier.com\><br>
@@ -228,6 +228,8 @@ nsvHEXgBso4=
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-02-29 (Thu, 29 Feb 1996 18:43:50 +0800) - Assassination Politics 10 - _jim bell \<jimbell@pacifier.com\>_
 

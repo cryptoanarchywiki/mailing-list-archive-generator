@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qboswt_at_grace_tstc_edu
+post_count: 1
 ---
 
-# QBOSWT@grace.tstc.edu (1 posts)
+# QBOSWT<span>@</span>grace.tstc.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

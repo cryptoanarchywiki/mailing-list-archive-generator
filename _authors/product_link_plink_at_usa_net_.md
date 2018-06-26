@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: product_link_plink_at_usa_net_
+post_count: 2
 ---
 
-# Product Link <p-link@usa.net> (2 posts)
+# Product Link <p-link<span>@</span>usa.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

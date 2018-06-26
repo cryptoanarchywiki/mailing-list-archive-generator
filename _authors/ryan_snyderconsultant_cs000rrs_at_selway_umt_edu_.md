@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ryan_snyderconsultant_cs000rrs_at_selway_umt_edu_
+post_count: 4
 ---
 
-# Ryan Snyder--Consultant <cs000rrs@selway.umt.edu> (4 posts)
+# Ryan Snyder--Consultant <cs000rrs<span>@</span>selway.umt.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

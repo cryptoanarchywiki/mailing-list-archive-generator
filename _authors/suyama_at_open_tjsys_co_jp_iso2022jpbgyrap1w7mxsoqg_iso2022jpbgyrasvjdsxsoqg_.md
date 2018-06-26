@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: suyama_at_open_tjsys_co_jp_iso2022jpbgyrap1w7mxsoqg_iso2022jpbgyrasvjdsxsoqg_
+post_count: 1
 ---
 
-# suyama@open.tjsys.co.jp (=?ISO-2022-JP?B?GyRAP1w7MxsoQg==?= =?ISO-2022-JP?B?GyRASVJDSxsoQg==?=) (1 posts)
+# suyama<span>@</span>open.tjsys.co.jp (=?ISO-2022-JP?B?GyRAP1w7MxsoQg==?= =?ISO-2022-JP?B?GyRASVJDSxsoQg==?=) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

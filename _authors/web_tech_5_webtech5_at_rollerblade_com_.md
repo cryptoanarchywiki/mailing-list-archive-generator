@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: web_tech_5_webtech5_at_rollerblade_com_
+post_count: 4
 ---
 
-# WEB Tech #5 <webtech5@rollerblade.com> (4 posts)
+# WEB Tech #5 <webtech5<span>@</span>rollerblade.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

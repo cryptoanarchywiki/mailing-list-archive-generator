@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@huge.cajones.com (Huge Cajones Remailer)<br>
+From: nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: faa39baba1aded0a0b174c9bde284aaee97fd38c6d290fb3c1c3e253df84c42f<br>
 Message ID: \<199701080058.QAA18393@mailmasher.com\><br>
@@ -48,6 +48,8 @@ fixation on little boys and Usenet forgeries.
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/author/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
 
 + 1997-01-08 (Tue, 7 Jan 1997 17:47:05 -0800 (PST)) - Zero-knowledge commit - _nobody@huge.cajones.com (Huge Cajones Remailer)_
 

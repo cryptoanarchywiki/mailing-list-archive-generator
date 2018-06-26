@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: mpj@netcom.com (Michael Paul Johnson)<br>
+From: mpj<span>@</span>netcom.com (Michael Paul Johnson)<br>
 To: frissell@panix.com (Duncan Frissell)<br>
 Message Hash: f94c0f7be7def4e0cdb18875ddea53f50c652f89efef4b69bd871332cbadfbf0<br>
 Message ID: \<199404111507.IAA09825@mail.netcom.com\><br>
@@ -60,6 +60,10 @@ Peace to you.
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[mpj<span>@</span>netcom.com (Michael Paul Johnson)](/author/mpj_at_netcom_com_michael_paul_johnson_)"
++ Return to "[tim werner <werner<span>@</span>mc.ab.com>](/author/tim_werner_werner_at_mc_ab_com_)"
 
 + 1994-04-11 (Mon, 11 Apr 94 05:31:14 PDT) - [Re: MacPGP and AOL](/archive/1994/04/927abb250616604b4838a645d48cb25aa27da8124c22013c717aac06bd2904fc) - _tim werner \<werner@mc.ab.com\>_
   + 1994-04-11 (Mon, 11 Apr 94 06:08:32 PDT) - [Re: MacPGP and AOL](/archive/1994/04/0ceca090e6fb4c6f5f49c47835a59c2df3aa7ed0579341767555ddad390b9a34) - _Duncan Frissell \<frissell@panix.com\>_

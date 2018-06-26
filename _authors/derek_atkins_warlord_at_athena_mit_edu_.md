@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: derek_atkins_warlord_at_athena_mit_edu_
+post_count: 40
 ---
 
-# Derek Atkins <warlord@ATHENA.MIT.EDU> (40 posts)
+# Derek Atkins <warlord<span>@</span>ATHENA.MIT.EDU> (40 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

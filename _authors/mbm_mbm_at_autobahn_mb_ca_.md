@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mbm_mbm_at_autobahn_mb_ca_
+post_count: 1
 ---
 
-# mbm <mbm@autobahn.mb.ca> (1 posts)
+# mbm <mbm<span>@</span>autobahn.mb.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

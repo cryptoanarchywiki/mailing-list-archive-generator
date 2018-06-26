@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: l0rd_geck0_geck0_at_ilps_com_
+post_count: 1
 ---
 
-# L0rD gEcK0 <geck0@ilps.com> (1 posts)
+# L0rD gEcK0 <geck0<span>@</span>ilps.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

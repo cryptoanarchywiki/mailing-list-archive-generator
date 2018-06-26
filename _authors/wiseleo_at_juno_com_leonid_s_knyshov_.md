@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wiseleo_at_juno_com_leonid_s_knyshov_
+post_count: 3
 ---
 
-# wiseleo@juno.com (Leonid S Knyshov) (3 posts)
+# wiseleo<span>@</span>juno.com (Leonid S Knyshov) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

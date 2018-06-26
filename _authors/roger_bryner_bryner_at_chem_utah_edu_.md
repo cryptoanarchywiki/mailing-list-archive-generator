@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roger_bryner_bryner_at_chem_utah_edu_
+post_count: 1
 ---
 
-# Roger Bryner <bryner@chem.utah.edu> (1 posts)
+# Roger Bryner <bryner<span>@</span>chem.utah.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

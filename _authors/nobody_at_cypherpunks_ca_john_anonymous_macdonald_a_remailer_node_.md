@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_cypherpunks_ca_john_anonymous_macdonald_a_remailer_node_
+post_count: 7
 ---
 
-# nobody@cypherpunks.ca (John Anonymous MacDonald, a remailer node) (7 posts)
+# nobody<span>@</span>cypherpunks.ca (John Anonymous MacDonald, a remailer node) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

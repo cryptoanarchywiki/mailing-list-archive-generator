@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Jack Oswald / CEO / RPK Security" \<joswald@rpkusa.com\><br>
+From: "Jack Oswald / CEO / RPK Security" \<joswald<span>@</span>rpkusa.com\><br>
 To: RPK_Announcements@rpkusa.com<br>
 Message Hash: f753efe44d86b6ef1ae12e1bb53f5f7980cc0eceed3cde2bcfb9caf8518f494f<br>
 Message ID: \<199810010139.SAA22313@proxy3.ba.best.com\><br>
@@ -61,6 +61,8 @@ Founded in 1995, RPK Security, Inc. is a technology leader in fast public key cr
 ## Thread
 
 + Return to [October 1998](/archive/1998/10)
+
++ Return to "["Jack Oswald / CEO / RPK Security" <joswald<span>@</span>rpkusa.com>](/author/jack_oswald__ceo__rpk_security_joswald_at_rpkusa_com_)"
 
 + 1998-10-01 (Wed, 30 Sep 1998 18:48:42 -0700 (PDT)) - ANNOUNCEMENT: RPK SECURITY AWARDED PATENTS FOR ENCRYPTONITE ENGINE IN U.S. AND NEW ZEALAND - _"Jack Oswald / CEO / RPK Security" \<joswald@rpkusa.com\>_
 

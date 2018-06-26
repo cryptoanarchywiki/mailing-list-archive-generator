@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pfarrell_at_isse_gmu_edu_pat_farrell_
+post_count: 1
 ---
 
-# pfarrell@isse.gmu.edu (Pat Farrell) (1 posts)
+# pfarrell<span>@</span>isse.gmu.edu (Pat Farrell) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

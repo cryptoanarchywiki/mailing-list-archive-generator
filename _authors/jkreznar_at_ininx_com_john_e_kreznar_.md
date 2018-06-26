@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jkreznar_at_ininx_com_john_e_kreznar_
+post_count: 63
 ---
 
-# jkreznar@ininx.com (John E. Kreznar) (63 posts)
+# jkreznar<span>@</span>ininx.com (John E. Kreznar) (63 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

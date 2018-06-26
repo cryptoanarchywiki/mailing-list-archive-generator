@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_robert_loverso_john_at_loverso_southborough_ma_us_
+post_count: 6
 ---
 
-# John Robert LoVerso <John@loverso.southborough.ma.us> (6 posts)
+# John Robert LoVerso <John<span>@</span>loverso.southborough.ma.us> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

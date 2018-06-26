@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_young_eay_at_mincom_oz_au_
+post_count: 39
 ---
 
-# Eric Young <eay@mincom.oz.au> (39 posts)
+# Eric Young <eay<span>@</span>mincom.oz.au> (39 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

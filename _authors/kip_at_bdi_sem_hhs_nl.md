@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kip_at_bdi_sem_hhs_nl
+post_count: 1
 ---
 
-# kip@bdi.sem.hhs.nl (1 posts)
+# kip<span>@</span>bdi.sem.hhs.nl (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

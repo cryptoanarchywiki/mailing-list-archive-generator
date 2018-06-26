@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nobody@remailer.ch\><br>
+From: Anonymous \<nobody<span>@</span>remailer.ch\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 8cb26bbb3a3c88f5aefd6df6d4c4c795995b35db3bb60ee01e6dc1ee56ccc56a<br>
 Message ID: \<19981226133009.1692.qmail@hades.rpini.com\><br>
@@ -50,6 +50,8 @@ before they outlaw plowshares too. "
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[Anonymous <nobody<span>@</span>remailer.ch>](/author/anonymous_nobody_at_remailer_ch_)"
 
 + 1998-12-26 (Sat, 26 Dec 1998 21:48:17 +0800) - No Subject - _Anonymous \<nobody@remailer.ch\>_
 

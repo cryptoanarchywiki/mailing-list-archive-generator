@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: koo_hoejun_kooom_at_aminet_co_kr_
+post_count: 1
 ---
 
-# KOO HOE-JUN <kooom@aminet.co.kr> (1 posts)
+# KOO HOE-JUN <kooom<span>@</span>aminet.co.kr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

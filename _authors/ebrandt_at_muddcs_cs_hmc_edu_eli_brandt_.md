@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ebrandt_at_muddcs_cs_hmc_edu_eli_brandt_
+post_count: 8
 ---
 
-# ebrandt@muddcs.cs.hmc.edu (Eli Brandt) (8 posts)
+# ebrandt<span>@</span>muddcs.cs.hmc.edu (Eli Brandt) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

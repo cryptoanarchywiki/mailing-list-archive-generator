@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: strat_at_uunet_uu_net_bob_stratton_
+post_count: 2
 ---
 
-# strat@uunet.uu.net (Bob Stratton) (2 posts)
+# strat<span>@</span>uunet.uu.net (Bob Stratton) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

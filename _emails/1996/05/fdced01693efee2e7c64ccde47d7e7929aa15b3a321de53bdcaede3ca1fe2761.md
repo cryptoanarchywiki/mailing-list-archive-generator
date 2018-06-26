@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ben Holiday \<ncognito@gate.net\><br>
+From: Ben Holiday \<ncognito<span>@</span>gate.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fdced01693efee2e7c64ccde47d7e7929aa15b3a321de53bdcaede3ca1fe2761<br>
 Message ID: \<Pine.A32.3.93.960525155235.39848B-100000@navajo.gate.net\><br>
@@ -74,7 +74,12 @@ CyberGate, Inc.
 
 + Return to [May 1996](/archive/1996/05)
 
-+ 1996-05-26 (Mon, 27 May 1996 06:52:45 +0800) - nCognito is Dead.. - _Ben Holiday \<ncognito@gate.net\>_
-  + 1996-05-27 (Mon, 27 May 1996 09:33:11 +0800) - [Re: nCognito is Dead..](/archive/1996/05/fb4e4496ac767e140ccca6520d9b52c267314da849b84e56aff71b674229e3ab) - _"Mark M." \<markm@voicenet.com\>_
-    + 1996-05-27 (Mon, 27 May 1996 15:56:56 +0800) - [Re: nCognito is Dead..](/archive/1996/05/d53e4d33d1fa53dacaa00e9dbfb3568081575662b25e59830982b538af8b49e1) - _Rich Graves \<llurch@networking.stanford.edu\>_
++ Return to "[Ben Holiday <ncognito<span>@</span>gate.net>](/author/ben_holiday_ncognito_at_gate_net_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
+
++ _Unknown thread root_
+  + 1996-05-26 (Mon, 27 May 1996 06:52:45 +0800) - nCognito is Dead.. - _Ben Holiday \<ncognito@gate.net\>_
+    + 1996-05-27 (Mon, 27 May 1996 09:33:11 +0800) - [Re: nCognito is Dead..](/archive/1996/05/fb4e4496ac767e140ccca6520d9b52c267314da849b84e56aff71b674229e3ab) - _"Mark M." \<markm@voicenet.com\>_
+      + 1996-05-27 (Mon, 27 May 1996 15:56:56 +0800) - [Re: nCognito is Dead..](/archive/1996/05/d53e4d33d1fa53dacaa00e9dbfb3568081575662b25e59830982b538af8b49e1) - _Rich Graves \<llurch@networking.stanford.edu\>_
 

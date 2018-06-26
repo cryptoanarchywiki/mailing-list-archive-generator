@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Lou Poppler \<lwp@mail.msen.com\><br>
+From: Lou Poppler \<lwp<span>@</span>mail.msen.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 5ac44e1d08a8ee24f0ee4b97deaec34dae4ed5288df58bc8b4a20fb5d3ccb170<br>
 Message ID: \<Pine.BSI.3.92.970915110748.18183A-100000@conch.msen.com\><br>
@@ -69,6 +69,8 @@ full article is at:
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[Lou Poppler <lwp<span>@</span>mail.msen.com>](/author/lou_poppler_lwp_at_mail_msen_com_)"
 
 + 1997-09-15 (Mon, 15 Sep 1997 23:40:45 +0800) - Some anti-GAK reverse-FUD ? - _Lou Poppler \<lwp@mail.msen.com\>_
 

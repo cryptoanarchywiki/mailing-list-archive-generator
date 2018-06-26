@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Darren Reed \<avalon@coombs.anu.edu.au\><br>
+From: Darren Reed \<avalon<span>@</span>coombs.anu.edu.au\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f5c6d5da697a352cb4ccb9adc1dc2c2aca0ba188d37db93a44cdd85020cadec2<br>
 Message ID: \<9404291740.AA08624@toad.com\><br>
@@ -52,6 +52,11 @@ Are either of these worth their weight in gold ? (so to speak)
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "["Christian D. Odhner" <cdodhner<span>@</span>indirect.com>](/author/christian_d_odhner_cdodhner_at_indirect_com_)"
++ Return to "[Darren Reed <avalon<span>@</span>coombs.anu.edu.au>](/author/darren_reed_avalon_at_coombs_anu_edu_au_)"
++ Return to "[f_griffith<span>@</span>ccsvax.sfasu.edu](/author/f_griffith_at_ccsvax_sfasu_edu)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>snark.imsi.com>](/author/perry_e_metzger_perry_at_snark_imsi_com_)"
 
 + 1994-04-29 (Fri, 29 Apr 94 06:46:41 PDT) - [PGP ban rumor - any truth?](/archive/1994/04/33b4ec2efa7d06997428ec05738e05678181734e85aac580ad5c65e141f685b4) - _f_griffith@ccsvax.sfasu.edu_
   + 1994-04-29 (Fri, 29 Apr 94 07:22:48 PDT) - [Re: PGP ban rumor - any truth?](/archive/1994/04/0f459789f594f50a999d5f38b5ae66471dfbe913f924ae23abc3e23d2b8c759c) - _"Perry E. Metzger" \<perry@snark.imsi.com\>_

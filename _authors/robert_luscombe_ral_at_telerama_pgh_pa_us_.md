@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_luscombe_ral_at_telerama_pgh_pa_us_
+post_count: 5
 ---
 
-# Robert Luscombe <ral@telerama.pgh.pa.us> (5 posts)
+# Robert Luscombe <ral<span>@</span>telerama.pgh.pa.us> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sol98hy7g_at_willy_kneehill_com
+post_count: 1
 ---
 
-# sol98hy7g@willy.kneehill.com (1 posts)
+# sol98hy7g<span>@</span>willy.kneehill.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

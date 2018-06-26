@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: aba@atlas.ex.ac.uk<br>
+From: aba<span>@</span>atlas.ex.ac.uk<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 05a2f6e4be6e1a94aefbd2a2beea45ce68cd3fafaa837cfec24c8fec10ae9505<br>
 Message ID: \<16689.9607301944@exe.dcs.exeter.ac.uk\><br>
@@ -69,6 +69,8 @@ lK[d2%Sa2/d0$^Ixp"|dc`;s/\W//g;$_=pack('H*',/((..)*)$/)
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[aba<span>@</span>atlas.ex.ac.uk](/author/aba_at_atlas_ex_ac_uk)"
 
 + 1996-07-30 (Wed, 31 Jul 1996 07:35:22 +0800) - crypto CD source - _aba@atlas.ex.ac.uk_
 

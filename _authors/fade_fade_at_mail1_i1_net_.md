@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fade_fade_at_mail1_i1_net_
+post_count: 3
 ---
 
-# Fade <fade@mail1.i1.net> (3 posts)
+# Fade <fade<span>@</span>mail1.i1.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: de_wet_vorster_a31952_at_magnfs10_eskom_co_za_
+post_count: 1
 ---
 
-# "de Wet Vorster" <a31952@magnfs10.eskom.co.za> (1 posts)
+# "de Wet Vorster" <a31952<span>@</span>magnfs10.eskom.co.za> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

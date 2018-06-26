@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: piff_at_worldnet_sct_fr
+post_count: 1
 ---
 
-# piff@world-net.sct.fr (1 posts)
+# piff<span>@</span>world-net.sct.fr (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

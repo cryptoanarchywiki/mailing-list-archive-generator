@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_hale_bhale_at_ptw_com_
+post_count: 2
 ---
 
-# Brian Hale <bhale@ptw.com> (2 posts)
+# Brian Hale <bhale<span>@</span>ptw.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

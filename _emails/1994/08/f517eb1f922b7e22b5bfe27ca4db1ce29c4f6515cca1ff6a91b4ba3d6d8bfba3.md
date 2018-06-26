@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Rick H. Wesson" \<wessorh@ar.com\><br>
+From: "Rick H. Wesson" \<wessorh<span>@</span>ar.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f517eb1f922b7e22b5bfe27ca4db1ce29c4f6515cca1ff6a91b4ba3d6d8bfba3<br>
 Message ID: \<199408280204.TAA23729@ar.com\><br>
@@ -58,6 +58,8 @@ demo at commerce net (http://www.commerce.net)
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "["Rick H. Wesson" <wessorh<span>@</span>ar.com>](/author/rick_h_wesson_wessorh_at_ar_com_)"
 
 + 1994-08-28 (Sat, 27 Aug 94 19:04:43 PDT) - ?-line cash - _"Rick H. Wesson" \<wessorh@ar.com\>_
 

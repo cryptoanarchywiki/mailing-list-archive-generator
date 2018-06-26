@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: out_at_sexeworld_com
+post_count: 1
 ---
 
-# out@sex-e-world.com (1 posts)
+# out<span>@</span>sex-e-world.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

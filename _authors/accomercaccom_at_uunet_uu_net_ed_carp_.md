@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: accomercaccom_at_uunet_uu_net_ed_carp_
+post_count: 4
 ---
 
-# accom!erc%accom@uunet.UU.NET (Ed Carp) (4 posts)
+# accom!erc%accom<span>@</span>uunet.UU.NET (Ed Carp) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

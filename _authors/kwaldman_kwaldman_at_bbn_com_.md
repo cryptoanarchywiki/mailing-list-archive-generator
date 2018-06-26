@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kwaldman_kwaldman_at_bbn_com_
+post_count: 3
 ---
 
-# kwaldman <kwaldman@BBN.COM> (3 posts)
+# kwaldman <kwaldman<span>@</span>BBN.COM> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

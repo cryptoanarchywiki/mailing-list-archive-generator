@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_ohanlon_wmo_at_rebma_
+post_count: 1
 ---
 
-# Bill O'Hanlon <wmo@rebma> (1 posts)
+# Bill O'Hanlon <wmo<span>@</span>rebma> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

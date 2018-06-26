@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: info_at_inexchange_net_information_desk_
+post_count: 2
 ---
 
-# info@inexchange.net (Information Desk) (2 posts)
+# info<span>@</span>inexchange.net (Information Desk) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

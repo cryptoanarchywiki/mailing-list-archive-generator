@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_ray_root_at_tnl_com_
+post_count: 5
 ---
 
-# Daniel Ray <root@tnl.com> (5 posts)
+# Daniel Ray <root<span>@</span>tnl.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

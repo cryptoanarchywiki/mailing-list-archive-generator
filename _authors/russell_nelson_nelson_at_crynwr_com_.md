@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: russell_nelson_nelson_at_crynwr_com_
+post_count: 4
 ---
 
-# Russell Nelson <nelson@crynwr.com> (4 posts)
+# Russell Nelson <nelson<span>@</span>crynwr.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

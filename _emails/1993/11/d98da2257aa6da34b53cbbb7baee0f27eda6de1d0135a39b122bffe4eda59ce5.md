@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim@bilbo.suite.com (Jim Miller)<br>
+From: jim<span>@</span>bilbo.suite.com (Jim Miller)<br>
 To: mg5n+@andrew.cmu.edu<br>
 Message Hash: d98da2257aa6da34b53cbbb7baee0f27eda6de1d0135a39b122bffe4eda59ce5<br>
 Message ID: \<9311032125.AA08247@bilbo.suite.com\><br>
@@ -52,6 +52,8 @@ Jim_Miller@suite.com
 ## Thread
 
 + Return to [November 1993](/archive/1993/11)
+
++ Return to "[jim<span>@</span>bilbo.suite.com (Jim Miller)](/author/jim_at_bilbo_suite_com_jim_miller_)"
 
 + 1993-11-03 (Wed, 3 Nov 93 13:32:21 PST) - Re: WARNING: direct-marketing email address list - _jim@bilbo.suite.com (Jim Miller)_
 

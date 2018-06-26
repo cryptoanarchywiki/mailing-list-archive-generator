@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: electro_electro_at_newwave_net_
+post_count: 2
 ---
 
-# electro <electro@newwave.net> (2 posts)
+# electro <electro<span>@</span>newwave.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

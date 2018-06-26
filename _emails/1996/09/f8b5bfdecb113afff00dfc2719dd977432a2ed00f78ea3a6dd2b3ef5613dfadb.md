@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f8b5bfdecb113afff00dfc2719dd977432a2ed00f78ea3a6dd2b3ef5613dfadb<br>
 Message ID: \<2.2.32.19960902151654.00abd6ac@panix.com\><br>
@@ -62,6 +62,8 @@ civilians during WWII.)
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1996-09-02 (Tue, 3 Sep 1996 02:33:28 +0800) - Re: PLEASE Nuke Singapore Back into the Stone Age - _Duncan Frissell \<frissell@panix.com\>_
 

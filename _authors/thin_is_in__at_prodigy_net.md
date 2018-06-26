@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thin_is_in__at_prodigy_net
+post_count: 1
 ---
 
-# Thin_Is_In......@Prodigy.net (1 posts)
+# Thin_Is_In......<span>@</span>Prodigy.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

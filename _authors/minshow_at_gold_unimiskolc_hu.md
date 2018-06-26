@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: minshow_at_gold_unimiskolc_hu
+post_count: 1
 ---
 
-# minshow@gold.uni-miskolc.hu (1 posts)
+# minshow<span>@</span>gold.uni-miskolc.hu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Butler, Scott" \<SButler@chemson.com\><br>
+From: "Butler, Scott" \<SButler<span>@</span>chemson.com\><br>
 To: "'John Gilmore'" \<IMCEAX400-c=GB+3Ba=+20+3Bp=CHEMSON+3Bo=CSH+3Bdda+3ASMTP=gnu+40toad+2Ecom+3B@chemson.com\><br>
 Message Hash: c9de916d62ebabb938aaee2cfbe97ce363b027c41ffcbdfe9fe0ff7e3f823bee<br>
 Message ID: \<c=GB%a=_%p=CHEMSON%l=CSH_NT0-970120115756Z-358@csa-ntx.chemson.com\><br>
@@ -47,6 +47,8 @@ You seem to have misspelled START.
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "["Butler, Scott" <SButler<span>@</span>chemson.com>](/author/butler_scott_sbutler_at_chemson_com_)"
 
 + 1997-01-20 (Mon, 20 Jan 1997 03:53:37 -0800 (PST)) - RE: THIS IS THE FIRST MESSAGE TO THE MODERATED CYPHERPUNKS LIST - _"Butler, Scott" \<SButler@chemson.com\>_
 

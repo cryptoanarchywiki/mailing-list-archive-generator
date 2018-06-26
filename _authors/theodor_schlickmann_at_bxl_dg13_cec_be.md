@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: theodor_schlickmann_at_bxl_dg13_cec_be
+post_count: 21
 ---
 
-# Theodor.SCHLICKMANN@BXL.DG13.cec.be (21 posts)
+# Theodor.SCHLICKMANN<span>@</span>BXL.DG13.cec.be (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

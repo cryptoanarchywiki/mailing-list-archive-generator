@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pjnesser_at_asgaard_rocket_com_philip_nesser_
+post_count: 1
 ---
 
-# pjnesser@asgaard.rocket.com (Philip Nesser) (1 posts)
+# pjnesser<span>@</span>asgaard.rocket.com (Philip Nesser) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

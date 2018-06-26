@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brianh_at_u163_wi_vp_com_brian_hills_
+post_count: 2
 ---
 
-# brianh@u163.wi.vp.com (Brian Hills) (2 posts)
+# brianh<span>@</span>u163.wi.vp.com (Brian Hills) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

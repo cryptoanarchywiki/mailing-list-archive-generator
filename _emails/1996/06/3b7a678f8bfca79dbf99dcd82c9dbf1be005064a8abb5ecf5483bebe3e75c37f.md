@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: TT \<apache@quux.apana.org.au\><br>
+From: TT \<apache<span>@</span>quux.apana.org.au\><br>
 To: MailList Cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: 3b7a678f8bfca79dbf99dcd82c9dbf1be005064a8abb5ecf5483bebe3e75c37f<br>
 Message ID: \<Pine.LNX.3.91.960603181731.604E-100000@quux.apana.org.au\><br>
@@ -124,6 +124,8 @@ Thank the gods for cypherpunks..
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[TT <apache<span>@</span>quux.apana.org.au>](/author/tt_apache_at_quux_apana_org_au_)"
 
 + 1996-06-03 (Mon, 3 Jun 1996 20:27:08 +0800) - The decline and fall of Australia - _TT \<apache@quux.apana.org.au\>_
 

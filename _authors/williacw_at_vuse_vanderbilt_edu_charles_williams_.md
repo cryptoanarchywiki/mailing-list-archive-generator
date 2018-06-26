@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: williacw_at_vuse_vanderbilt_edu_charles_williams_
+post_count: 5
 ---
 
-# williacw@vuse.vanderbilt.edu (Charles Williams) (5 posts)
+# williacw<span>@</span>vuse.vanderbilt.edu (Charles Williams) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

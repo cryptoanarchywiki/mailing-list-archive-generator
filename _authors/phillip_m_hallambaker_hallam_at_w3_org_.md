@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phillip_m_hallambaker_hallam_at_w3_org_
+post_count: 9
 ---
 
-# "Phillip M. Hallam-Baker" <hallam@w3.org> (9 posts)
+# "Phillip M. Hallam-Baker" <hallam<span>@</span>w3.org> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

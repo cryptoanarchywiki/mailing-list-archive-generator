@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jamesd@netcom.com (James A. Donald)<br>
+From: jamesd<span>@</span>netcom.com (James A. Donald)<br>
 To: jdd@aiki.demon.co.uk<br>
 Message Hash: 66fd6ea41d6f17abc5c42aec54696fd7e70db25bdafaeedd1acbc87d1a9fdd83<br>
 Message ID: \<199408011800.LAA26048@netcom8.netcom.com\><br>
@@ -50,6 +50,16 @@ the arbitrary power of the omnipotent state.                jamesd@netcom.com
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[Berzerk <berzerk<span>@</span>xmission.xmission.com>](/author/berzerk_berzerk_at_xmission_xmission_com_)"
++ Return to "[jamesd<span>@</span>netcom.com (James A. Donald)](/author/jamesd_at_netcom_com_james_a_donald_)"
++ Return to "[jdd<span>@</span>aiki.demon.co.uk (Jim Dixon)](/author/jdd_at_aiki_demon_co_uk_jim_dixon_)"
++ Return to "[Lyman Hazelton <lrh<span>@</span>crl.com>](/author/lyman_hazelton_lrh_at_crl_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[rarachel<span>@</span>prism.poly.edu (Arsen Ray Arachelian)](/author/rarachel_at_prism_poly_edu_arsen_ray_arachelian_)"
++ Return to "[Rick Busdiecker <rfb<span>@</span>lehman.com>](/author/rick_busdiecker_rfb_at_lehman_com_)"
++ Return to "[Rolf Michelsen <Rolf.Michelsen<span>@</span>delab.sintef.no>](/author/rolf_michelsen_rolf_michelsen_at_delab_sintef_no_)"
++ Return to "[solman<span>@</span>MIT.EDU](/author/solman_at_mit_edu)"
 
 + 1994-08-01 (Mon, 1 Aug 94 09:10:21 PDT) - [Re: Anonymous code name allocated. // penet hack](/archive/1994/08/e7016b0fcf3a9c3a5bb9a5d19d3e3da961a9898d83a3e84bf8302737b1bc394e) - _jdd@aiki.demon.co.uk (Jim Dixon)_
   + 1994-08-01 (Mon, 1 Aug 94 11:00:53 PDT) - Re: Anonymous code name allocated. // penet hack - _jamesd@netcom.com (James A. Donald)_

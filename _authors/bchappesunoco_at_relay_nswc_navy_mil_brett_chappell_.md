@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bchappesunoco_at_relay_nswc_navy_mil_brett_chappell_
+post_count: 2
 ---
 
-# bchappe%sunoco@relay.nswc.navy.mil (Brett Chappell) (2 posts)
+# bchappe%sunoco<span>@</span>relay.nswc.navy.mil (Brett Chappell) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

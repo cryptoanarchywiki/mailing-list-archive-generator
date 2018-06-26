@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: foupe%compuserve.com@oscsystems.com<br>
+From: foupe%compuserve.com<span>@</span>oscsystems.com<br>
 To: foupe@compuserve.com<br>
 Message Hash: 6585bed19bcefcdbcfb1daa10812ec6cbd0ce267f4e12571e2ff70d2ae3c813c<br>
 Message ID: \<199802074293XAA44563@post.99.231.3\><br>
@@ -57,6 +57,8 @@ jackpotx@ix.netcom.com
 ## Thread
 
 + Return to [February 1998](/archive/1998/02)
+
++ Return to "[foupe%compuserve.com<span>@</span>oscsystems.com](/author/foupecompuserve_com_at_oscsystems_com)"
 
 + 1998-02-07 (Sat, 7 Feb 1998 02:12:50 -0800 (PST)) - Young Hot Girls New Site - _foupe%compuserve.com@oscsystems.com_
 

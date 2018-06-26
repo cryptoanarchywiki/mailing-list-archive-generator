@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erc_at_khijol_xmission_com_ed_carp_sysadmin_
+post_count: 1
 ---
 
-# erc@khijol.xmission.com (Ed Carp [Sysadmin]) (1 posts)
+# erc<span>@</span>khijol.xmission.com (Ed Carp [Sysadmin]) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

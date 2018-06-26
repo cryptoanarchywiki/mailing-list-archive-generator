@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Declan B. McCullagh" \<declan+@CMU.EDU\><br>
+From: "Declan B. McCullagh" \<declan+<span>@</span>CMU.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: e137b7ae6b75baed5d5f48cffba60d4adec6a2bb3248dcfc755fe4e194c8d416<br>
 Message ID: \<MlDRuS200YUuACF7gS@andrew.cmu.edu\><br>
@@ -61,6 +61,11 @@ unknown
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/author/declan_b_mccullagh_declan_at_cmu_edu_)"
++ Return to "[m5<span>@</span>dev.tivoli.com (Mike McNally)](/author/m5_at_dev_tivoli_com_mike_mcnally_)"
++ Return to "[uunet!in1.uu.net!news2.cais.com!news.cais.net!nntp.uio.no!solace!news.ifm.liu.se!usenet<span>@</span>warwick.com](/author/uunetin1_uu_netnews2_cais_comnews_cais_netnntp_uio_nosolacenews_ifm_liu_seusenet_at_warwick_com)"
++ Return to "[uunet!in2.uu.net!gatech!newsfeed.internetmci.com!news.emeraldis.com!usenet<span>@</span>warwick.com (David G. Cannon)](/author/uunetin2_uu_netgatechnewsfeed_internetmci_comnews_emeraldis_comusenet_at_warwick_com_david_g_cannon_)"
 
 + 1996-03-07 (Thu, 7 Mar 1996 08:16:46 +0800) - [PLEASE REPLY!!](/archive/1996/03/e9f6c9e01ae547c74a97a431d8f96b6b1ca6f3abc8ebd5ce61a11c6e8940b9d9) - _uunet!in2.uu.net!gatech!newsfeed.internetmci.com!news.emeraldis.com!usenet@warwick.com (David G. Cannon)_
   + 1996-03-07 (Thu, 7 Mar 1996 09:53:15 +0800) - Re: PLEASE REPLY!! - _"Declan B. McCullagh" \<declan+@CMU.EDU\>_

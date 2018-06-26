@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@shell.portal.com<br>
+From: nobody<span>@</span>shell.portal.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 72dfddae2d1b3c9fbb26a519d259caf56b2bd55832ef0f554fc1dbcf75fbbbfe<br>
 Message ID: \<9312040609.AA16075@jobe.shell.portal.com\><br>
@@ -96,6 +96,8 @@ Q+Yj9ZGIHRE=
 ## Thread
 
 + Return to [December 1993](/archive/1993/12)
+
++ Return to "[nobody<span>@</span>shell.portal.com](/author/nobody_at_shell_portal_com)"
 
 + 1993-12-04 (Fri, 3 Dec 93 22:09:15 PST) - Retransmission in clear - _nobody@shell.portal.com_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eb15_at_postoffice_mail_cornell_edu_edward_bade_
+post_count: 2
 ---
 
-# eb15@postoffice.mail.cornell.edu (Edward Bade) (2 posts)
+# eb15<span>@</span>postoffice.mail.cornell.edu (Edward Bade) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

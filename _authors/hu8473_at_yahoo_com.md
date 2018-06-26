@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hu8473_at_yahoo_com
+post_count: 2
 ---
 
-# hu8473@yahoo.com (2 posts)
+# hu8473<span>@</span>yahoo.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

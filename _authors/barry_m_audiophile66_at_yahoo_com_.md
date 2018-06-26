@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: barry_m_audiophile66_at_yahoo_com_
+post_count: 1
 ---
 
-# Barry M <audiophile66@yahoo.com> (1 posts)
+# Barry M <audiophile66<span>@</span>yahoo.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

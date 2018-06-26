@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mrmail1241_at_qiakeysk_juno_com
+post_count: 1
 ---
 
-# mrmail1241@qiakeysk.juno.com (1 posts)
+# mrmail1241<span>@</span>qiakeysk.juno.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

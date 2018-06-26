@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: migueldiaz_at_gnn_com_miguel_diaz_
+post_count: 1
 ---
 
-# migueldiaz@gnn.com (miguel diaz) (1 posts)
+# migueldiaz<span>@</span>gnn.com (miguel diaz) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

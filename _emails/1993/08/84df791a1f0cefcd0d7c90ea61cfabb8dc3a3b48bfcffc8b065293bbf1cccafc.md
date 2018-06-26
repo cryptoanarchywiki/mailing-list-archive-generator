@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: XXCLARK@indst.indstate.edu<br>
+From: XXCLARK<span>@</span>indst.indstate.edu<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 84df791a1f0cefcd0d7c90ea61cfabb8dc3a3b48bfcffc8b065293bbf1cccafc<br>
 Message ID: \<9308222211.AA24479@toad.com\><br>
@@ -74,6 +74,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [August 1993](/archive/1993/08)
+
++ Return to "[XXCLARK<span>@</span>indst.indstate.edu](/author/xxclark_at_indst_indstate_edu)"
 
 + 1993-08-22 (Sun, 22 Aug 93 15:15:14 PDT) - No Subject - _XXCLARK@indst.indstate.edu_
 

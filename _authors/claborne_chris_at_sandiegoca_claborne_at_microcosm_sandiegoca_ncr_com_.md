@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: claborne_chris_at_sandiegoca_claborne_at_microcosm_sandiegoca_ncr_com_
+post_count: 8
 ---
 
-# "Claborne, Chris at SanDiegoCA" <claborne@microcosm.sandiegoca.NCR.COM> (8 posts)
+# "Claborne, Chris at SanDiegoCA" <claborne<span>@</span>microcosm.sandiegoca.NCR.COM> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

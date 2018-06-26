@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_sobel_dsobel_at_washofc_cpsr_org_
+post_count: 6
 ---
 
-# David Sobel <dsobel@washofc.cpsr.org> (6 posts)
+# David Sobel <dsobel<span>@</span>washofc.cpsr.org> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

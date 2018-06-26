@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: allen_robinson_sebaygo_at_intellinet_com_
+post_count: 7
 ---
 
-# Allen Robinson <sebaygo@intellinet.com> (7 posts)
+# Allen Robinson <sebaygo<span>@</span>intellinet.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

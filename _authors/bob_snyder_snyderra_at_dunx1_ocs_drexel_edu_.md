@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bob_snyder_snyderra_at_dunx1_ocs_drexel_edu_
+post_count: 8
 ---
 
-# Bob Snyder <snyderra@dunx1.ocs.drexel.edu> (8 posts)
+# Bob Snyder <snyderra<span>@</span>dunx1.ocs.drexel.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

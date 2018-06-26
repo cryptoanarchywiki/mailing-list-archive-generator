@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kent_dahlgren_kent_at_trouble_wv_tek_com_
+post_count: 8
 ---
 
-# Kent Dahlgren <kent@trouble.WV.TEK.COM> (8 posts)
+# Kent Dahlgren <kent<span>@</span>trouble.WV.TEK.COM> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

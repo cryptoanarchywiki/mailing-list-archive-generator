@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ral_at_netcom_com_robert_a_luscombe_
+post_count: 2
 ---
 
-# ral@netcom.com (Robert A. Luscombe) (2 posts)
+# ral<span>@</span>netcom.com (Robert A. Luscombe) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

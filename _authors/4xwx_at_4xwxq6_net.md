@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 4xwx_at_4xwxq6_net
+post_count: 1
 ---
 
-# 4xwx@4xwxq6.net (1 posts)
+# 4xwx<span>@</span>4xwxq6.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

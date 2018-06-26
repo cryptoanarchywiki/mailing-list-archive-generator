@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: coy60_at_ohrid_cca_vu_nl
+post_count: 1
 ---
 
-# coy60@ohrid.cca.vu.nl (1 posts)
+# coy60<span>@</span>ohrid.cca.vu.nl (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: craig_a_johnston_caj_at_tower_stc_housing_washington_edu_
+post_count: 4
 ---
 
-# "Craig A. Johnston" <caj@tower.stc.housing.washington.edu> (4 posts)
+# "Craig A. Johnston" <caj<span>@</span>tower.stc.housing.washington.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

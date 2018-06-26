@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: hughes@ah.com (Eric Hughes)<br>
+From: hughes<span>@</span>ah.com (Eric Hughes)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5afcc188ad0bda3739da56782a6e0cbbd86d7de3a3b1d34b0e1dd9eb0e9bb0a5<br>
 Message ID: \<9402221521.AA14324@ah.com\><br>
@@ -65,6 +65,8 @@ Eric
 ## Thread
 
 + Return to [February 1994](/archive/1994/02)
+
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
 
 + 1994-02-22 (Tue, 22 Feb 94 07:23:04 PST) - ADMIN: cypherpunks-ratings created - _hughes@ah.com (Eric Hughes)_
 

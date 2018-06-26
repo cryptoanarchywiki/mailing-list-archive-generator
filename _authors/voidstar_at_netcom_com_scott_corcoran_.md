@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: voidstar_at_netcom_com_scott_corcoran_
+post_count: 1
 ---
 
-# voidstar@netcom.com (Scott Corcoran) (1 posts)
+# voidstar<span>@</span>netcom.com (Scott Corcoran) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

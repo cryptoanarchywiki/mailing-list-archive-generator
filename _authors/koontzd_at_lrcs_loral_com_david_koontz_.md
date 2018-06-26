@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: koontzd_at_lrcs_loral_com_david_koontz_
+post_count: 86
 ---
 
-# koontzd@lrcs.loral.com (David Koontz ) (86 posts)
+# koontzd<span>@</span>lrcs.loral.com (David Koontz ) (86 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

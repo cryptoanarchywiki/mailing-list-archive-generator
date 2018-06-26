@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jay_quinby_jquinby_at_fivepaces_com_
+post_count: 2
 ---
 
-# Jay Quinby <jquinby@fivepaces.com> (2 posts)
+# Jay Quinby <jquinby<span>@</span>fivepaces.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

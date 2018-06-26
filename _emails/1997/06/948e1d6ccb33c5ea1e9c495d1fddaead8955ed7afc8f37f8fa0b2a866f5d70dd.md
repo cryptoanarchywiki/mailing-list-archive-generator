@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: lucifer@dhp.com (lucifer Anonymous Remailer)<br>
+From: lucifer<span>@</span>dhp.com (lucifer Anonymous Remailer)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 948e1d6ccb33c5ea1e9c495d1fddaead8955ed7afc8f37f8fa0b2a866f5d70dd<br>
 Message ID: \<199706151017.GAA04407@dhp.com\><br>
@@ -83,6 +83,8 @@ Not a cop
 ## Thread
 
 + Return to [June 1997](/archive/1997/06)
+
++ Return to "[lucifer<span>@</span>dhp.com (lucifer Anonymous Remailer)](/author/lucifer_at_dhp_com_lucifer_anonymous_remailer_)"
 
 + 1997-06-15 (Sun, 15 Jun 1997 18:30:31 +0800) - Re: Netscape Exploit - _lucifer@dhp.com (lucifer Anonymous Remailer)_
 

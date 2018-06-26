@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nelson_at_bolyard_wpd_sgi_com_nelson_bolyard_
+post_count: 2
 ---
 
-# nelson@bolyard.wpd.sgi.com (Nelson Bolyard) (2 posts)
+# nelson<span>@</span>bolyard.wpd.sgi.com (Nelson Bolyard) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

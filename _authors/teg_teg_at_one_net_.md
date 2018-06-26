@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: teg_teg_at_one_net_
+post_count: 1
 ---
 
-# teg <teg@one.net> (1 posts)
+# teg <teg<span>@</span>one.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

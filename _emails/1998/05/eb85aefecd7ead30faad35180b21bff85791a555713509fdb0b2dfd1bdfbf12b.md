@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "(c)�hƣk(r)3/4�" \<pornstar@thepentagon.com\><br>
+From: "(c)�hƣk(r)3/4�" \<pornstar<span>@</span>thepentagon.com\><br>
 To: TruthMonger \<tm@algebra.com\><br>
 Message Hash: eb85aefecd7ead30faad35180b21bff85791a555713509fdb0b2dfd1bdfbf12b<br>
 Message ID: \<354E4919.A8B7B58B@thepentagon.com\><br>
@@ -59,6 +59,9 @@ TruthMonger wrote:
 ## Thread
 
 + Return to [May 1998](/archive/1998/05)
+
++ Return to "["(c)�hƣk(r)3/4�" <pornstar<span>@</span>thepentagon.com>](/author/_c_hk_r_34_pornstar_at_thepentagon_com_)"
++ Return to "[TruthMonger <tm<span>@</span>algebra.com>](/author/truthmonger_tm_at_algebra_com_)"
 
 + 1998-05-04 (Mon, 4 May 1998 12:31:25 -0700 (PDT)) - [Toto 2 - Tim May 0](/archive/1998/05/a8dda8c595906529057be89816a5babb4a816b51498a0ed0f499796d8d151d8d) - _TruthMonger \<tm@algebra.com\>_
   + 1998-05-05 (Mon, 4 May 1998 17:04:25 -0700 (PDT)) - L I S T !  ! ! ! ! - _"(c)�hƣk(r)3/4�" \<pornstar@thepentagon.com\>_

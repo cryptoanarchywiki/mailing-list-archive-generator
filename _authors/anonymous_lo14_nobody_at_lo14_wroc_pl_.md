@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_lo14_nobody_at_lo14_wroc_pl_
+post_count: 2
 ---
 
-# Anonymous lo14 <nobody@lo14.wroc.pl> (2 posts)
+# Anonymous lo14 <nobody<span>@</span>lo14.wroc.pl> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

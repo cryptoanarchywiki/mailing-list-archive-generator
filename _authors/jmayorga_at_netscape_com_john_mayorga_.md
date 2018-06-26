@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jmayorga_at_netscape_com_john_mayorga_
+post_count: 3
 ---
 
-# jmayorga@netscape.com (John Mayorga) (3 posts)
+# jmayorga<span>@</span>netscape.com (John Mayorga) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_sims_jellicle_at_inch_com_
+post_count: 4
 ---
 
-# "Michael Sims" <jellicle@inch.com> (4 posts)
+# "Michael Sims" <jellicle<span>@</span>inch.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dlr_at_world_std_com_david_l_racette_
+post_count: 1
 ---
 
-# dlr@world.std.com (David L Racette) (1 posts)
+# dlr<span>@</span>world.std.com (David L Racette) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

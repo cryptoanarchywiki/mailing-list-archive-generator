@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_at_rsa_com_jim_bidzos_
+post_count: 6
 ---
 
-# jim@RSA.COM (Jim Bidzos) (6 posts)
+# jim<span>@</span>RSA.COM (Jim Bidzos) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

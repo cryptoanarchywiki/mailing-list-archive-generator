@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ian_sparkes_isparkes_at_q9f47_dmst02_telekom_de_
+post_count: 10
 ---
 
-# Ian Sparkes <isparkes@q9f47.dmst02.telekom.de> (10 posts)
+# Ian Sparkes <isparkes<span>@</span>q9f47.dmst02.telekom.de> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

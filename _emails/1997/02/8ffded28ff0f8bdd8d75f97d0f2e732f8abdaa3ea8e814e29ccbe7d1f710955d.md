@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Nadra \<robertn@dm.net.lb\><br>
+From: Robert Nadra \<robertn<span>@</span>dm.net.lb\><br>
 To: Cypherpunks@toad.com<br>
 Message Hash: 8ffded28ff0f8bdd8d75f97d0f2e732f8abdaa3ea8e814e29ccbe7d1f710955d<br>
 Message ID: \<199702182212.OAA11924@toad.com\><br>
@@ -39,6 +39,9 @@ Get me off your list or else ..... . Get me out your fuckin list assholes.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Robert Nadra <robertn<span>@</span>dm.net.lb>](/author/robert_nadra_robertn_at_dm_net_lb_)"
 
 + 1997-02-18 (Tue, 18 Feb 1997 14:12:03 -0800 (PST)) - Stop sending me your shit - _Robert Nadra \<robertn@dm.net.lb\>_
   + 1997-02-19 (Tue, 18 Feb 1997 17:10:37 -0800 (PST)) - [Re: Stop sending me your shit](/archive/1997/02/8340fa2d687b5bab10c5a33d28041532c54ab4337b73139cbeb0ded08187a234) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

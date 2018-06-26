@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: x1_x1_at_acwref_org_sg_
+post_count: 1
 ---
 
-# X1 <x1@acwref.org.sg> (1 posts)
+# X1 <x1<span>@</span>acwref.org.sg> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

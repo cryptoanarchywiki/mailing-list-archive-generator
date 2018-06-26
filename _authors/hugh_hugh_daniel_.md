@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: hugh_hugh_daniel_
+post_count: 5
 ---
 
 # hugh (Hugh Daniel) (5 posts)

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_olsen_alan_at_ctrlaltdel_com_
+post_count: 109
 ---
 
-# Alan Olsen <alan@ctrl-alt-del.com> (109 posts)
+# Alan Olsen <alan<span>@</span>ctrl-alt-del.com> (109 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

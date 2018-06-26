@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christopher_jay_leonard_cjl_at_welchlink_welch_jhu_edu_
+post_count: 1
 ---
 
-# CHRISTOPHER JAY LEONARD <cjl@welchlink.welch.jhu.edu> (1 posts)
+# CHRISTOPHER JAY LEONARD <cjl<span>@</span>welchlink.welch.jhu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

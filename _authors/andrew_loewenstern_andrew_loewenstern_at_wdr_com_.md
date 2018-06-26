@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_loewenstern_andrew_loewenstern_at_wdr_com_
+post_count: 3
 ---
 
-# Andrew Loewenstern <Andrew.Loewenstern@wdr.com> (3 posts)
+# Andrew Loewenstern <Andrew.Loewenstern<span>@</span>wdr.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

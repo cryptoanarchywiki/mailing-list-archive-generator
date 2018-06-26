@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erich_von_hollander_erich_at_csua_berkeley_edu_
+post_count: 2
 ---
 
-# Erich von Hollander <erich@CSUA.Berkeley.EDU> (2 posts)
+# Erich von Hollander <erich<span>@</span>CSUA.Berkeley.EDU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

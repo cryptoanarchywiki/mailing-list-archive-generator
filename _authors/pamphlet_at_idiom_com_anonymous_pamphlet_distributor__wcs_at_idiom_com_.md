@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pamphlet_at_idiom_com_anonymous_pamphlet_distributor__wcs_at_idiom_com_
+post_count: 1
 ---
 
-# pamphlet@idiom.com (Anonymous Pamphlet Distributor - wcs@idiom.com) (1 posts)
+# pamphlet<span>@</span>idiom.com (Anonymous Pamphlet Distributor - wcs<span>@</span>idiom.com) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_leeds_cosmos_at_sponsor_octet_com_
+post_count: 1
 ---
 
-# Daniel Leeds <cosmos@sponsor.octet.com> (1 posts)
+# Daniel Leeds <cosmos<span>@</span>sponsor.octet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

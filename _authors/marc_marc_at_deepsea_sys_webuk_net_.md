@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_marc_at_deepsea_sys_webuk_net_
+post_count: 3
 ---
 
-# Marc <marc@deepsea.sys.web-uk.net> (3 posts)
+# Marc <marc<span>@</span>deepsea.sys.web-uk.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

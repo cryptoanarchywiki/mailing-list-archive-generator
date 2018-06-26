@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sandy_sandfort_sandfort_at_crl_com_by_way_of_marshaw_at_uiuc_edu_marshaw_
+post_count: 1
 ---
 
-# Sandy Sandfort <sandfort@crl.com> (by way of marsha-w@uiuc.edu (Marsha-W)) (1 posts)
+# Sandy Sandfort <sandfort<span>@</span>crl.com> (by way of marsha-w<span>@</span>uiuc.edu (Marsha-W)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

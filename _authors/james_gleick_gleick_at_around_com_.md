@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_gleick_gleick_at_around_com_
+post_count: 2
 ---
 
-# James Gleick <gleick@around.com> (2 posts)
+# James Gleick <gleick<span>@</span>around.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

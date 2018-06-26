@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alex Strasheim \<cp@proust.suba.com\><br>
+From: Alex Strasheim \<cp<span>@</span>proust.suba.com\><br>
 To: mab@crypto.com (Matt Blaze)<br>
 Message Hash: cffddaa1165e790bbdda26ef2dab424a6bc9c6baf790fedd4a9d9f5132e85bbc<br>
 Message ID: \<199603110105.TAA05652@proust.suba.com\><br>
@@ -63,6 +63,10 @@ difference.
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[Alex Strasheim <cp<span>@</span>proust.suba.com>](/author/alex_strasheim_cp_at_proust_suba_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[Matt Blaze <mab<span>@</span>crypto.com>](/author/matt_blaze_mab_at_crypto_com_)"
 
 + 1996-03-10 (Mon, 11 Mar 1996 04:18:11 +0800) - [Re: Lawz to be.](/archive/1996/03/74f4ca25996aed3b8f2ced7cd6d1fa3868d6762e892dd33e609f2b81a112c906) - _jim bell \<jimbell@pacifier.com\>_
   + 1996-03-11 (Mon, 11 Mar 1996 08:40:22 +0800) - [Re: Lawz to be.](/archive/1996/03/7683f8db0f64fc6da710dc1e155fad8576c1d44c79d5b9eaaedaff9d1b946591) - _Matt Blaze \<mab@crypto.com\>_

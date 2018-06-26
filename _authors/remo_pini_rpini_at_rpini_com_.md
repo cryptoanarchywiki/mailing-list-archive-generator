@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: remo_pini_rpini_at_rpini_com_
+post_count: 2
 ---
 
-# "Remo Pini" <rpini@rpini.com> (2 posts)
+# "Remo Pini" <rpini<span>@</span>rpini.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

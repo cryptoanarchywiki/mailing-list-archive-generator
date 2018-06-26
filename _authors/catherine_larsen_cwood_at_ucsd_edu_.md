@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: catherine_larsen_cwood_at_ucsd_edu_
+post_count: 1
 ---
 
-# Catherine Larsen <cwood@ucsd.edu> (1 posts)
+# Catherine Larsen <cwood<span>@</span>ucsd.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

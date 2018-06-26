@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan \<alan@clueserver.org\><br>
+From: Alan \<alan<span>@</span>clueserver.org\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: a00ea95b9ecf8fc57aeb9d6cbf4d65ccc858cadf0c9cbbaeae66e7489635fa4a<br>
 Message ID: \<Pine.LNX.3.95.971225012924.12849A-100000@www.ctrl-alt-del.com\><br>
@@ -75,6 +75,8 @@ Subject: HUMOR: A Bah Humbug
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[Alan <alan<span>@</span>clueserver.org>](/author/alan_alan_at_clueserver_org_)"
 
 + 1997-12-25 (Thu, 25 Dec 1997 16:27:40 +0800) - HUMOR: A Bah Humbug (fwd) - _Alan \<alan@clueserver.org\>_
 

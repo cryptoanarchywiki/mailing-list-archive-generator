@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_ellis_at_wmcmail_wmc_ac_uk
+post_count: 2
 ---
 
-# john.ellis@wmcmail.wmc.ac.uk (2 posts)
+# john.ellis<span>@</span>wmcmail.wmc.ac.uk (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

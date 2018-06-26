@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m2c_m2c_at_ucs_net_
+post_count: 1
 ---
 
-# M2C <m2c@ucs.net> (1 posts)
+# M2C <m2c<span>@</span>ucs.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

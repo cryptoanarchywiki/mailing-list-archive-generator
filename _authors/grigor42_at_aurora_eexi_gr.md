@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: grigor42_at_aurora_eexi_gr
+post_count: 1
 ---
 
-# grigor42@aurora.eexi.gr (1 posts)
+# grigor42<span>@</span>aurora.eexi.gr (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

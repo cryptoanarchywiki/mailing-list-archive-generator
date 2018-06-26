@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: owner-cypherpunks@Algebra.COM<br>
+From: owner-cypherpunks<span>@</span>Algebra.COM<br>
 To: _N/A_<br>
 Message Hash: d8037ecdc08dcbf9bbdfb3340bce2cd5281af37487a9d4c4dddfc8c72ccfbb3a<br>
 Message ID: \<199812100948.EAA00801@mail.video-collage.com\><br>
@@ -34,6 +34,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[owner-cypherpunks<span>@</span>Algebra.COM](/author/ownercypherpunks_at_algebra_com)"
 
 + 1998-12-10 (Thu, 10 Dec 1998 18:25:05 +0800) - No Subject - _owner-cypherpunks@Algebra.COM_
 

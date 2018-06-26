@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Paul S. Penrod" \<furballs@netcom.com\><br>
+From: "Paul S. Penrod" \<furballs<span>@</span>netcom.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: d8adfb0a4bb4785be2df62ffe1cebafa25aad208c5e3c6e67537d08c1b83cd22<br>
 Message ID: \<Pine.3.89.9610022227.A8111-0100000@netcom\><br>
@@ -74,6 +74,10 @@ are a graduate of the Leon Panneta Fact Reporting School of Spin Doctoring.
 
 + Return to [September 1996](/archive/1996/09)
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "["Paul S. Penrod" <furballs<span>@</span>netcom.com>](/author/paul_s_penrod_furballs_at_netcom_com_)"
++ Return to "[Ryan Russell/SYBASE <Ryan.Russell<span>@</span>sybase.com>](/author/ryan_russellsybase_ryan_russell_at_sybase_com_)"
 
 + 1996-09-29 (Mon, 30 Sep 1996 06:02:49 +0800) - [Re: Utah as a Religious Police State](/archive/1996/09/b74460beda9705f767ca62be62dad458d409f1f3048a7d4a34ae6e112fdc6285) - _Ryan Russell/SYBASE \<Ryan.Russell@sybase.com\>_
   + 1996-09-30 (Mon, 30 Sep 1996 08:25:25 +0800) - [Re: Utah as a Religious Police State](/archive/1996/09/440b44740051f88b206e3e8b24f563d0e23b58b8504b24c8042e105a449d84b6) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: forrest_aldrich_visgraphforrie_
+post_count: 4
 ---
 
 # Forrest Aldrich <visgraph!forrie> (4 posts)

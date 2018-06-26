@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: design_at_pathfinder_com
+post_count: 1
 ---
 
-# design@pathfinder.com (1 posts)
+# design<span>@</span>pathfinder.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phillips_sidney_r_sid_phillips_at_pss_boeing_com_
+post_count: 1
 ---
 
-# "Phillips, Sidney R" <Sid.Phillips@PSS.Boeing.com> (1 posts)
+# "Phillips, Sidney R" <Sid.Phillips<span>@</span>PSS.Boeing.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

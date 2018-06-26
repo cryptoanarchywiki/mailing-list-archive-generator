@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wendy_fu_wfu_at_sjulaw_stjohns_edu_
+post_count: 2
 ---
 
-# "Wendy Fu" <WFU@sjulaw.stjohns.edu> (2 posts)
+# "Wendy Fu" <WFU<span>@</span>sjulaw.stjohns.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

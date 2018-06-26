@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: assar_westerlund_assar_at_sics_se_
+post_count: 2
 ---
 
-# Assar Westerlund <assar@sics.se> (2 posts)
+# Assar Westerlund <assar<span>@</span>sics.se> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

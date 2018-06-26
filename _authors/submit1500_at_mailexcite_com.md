@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: submit1500_at_mailexcite_com
+post_count: 1
 ---
 
-# submit1500@mailexcite.com (1 posts)
+# submit1500<span>@</span>mailexcite.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

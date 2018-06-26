@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dic1241_at_cup_edu
+post_count: 2
 ---
 
-# DIC1241@cup.edu (2 posts)
+# DIC1241<span>@</span>cup.edu (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

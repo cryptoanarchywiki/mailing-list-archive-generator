@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ropegun_at_calvino_alaska_net_oren_tanay_
+post_count: 2
 ---
 
-# RopeGun@calvino.alaska.net (Oren Tanay) (2 posts)
+# RopeGun<span>@</span>calvino.alaska.net (Oren Tanay) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

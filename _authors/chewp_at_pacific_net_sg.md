@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chewp_at_pacific_net_sg
+post_count: 1
 ---
 
-# chewp@pacific.net.sg (1 posts)
+# chewp<span>@</span>pacific.net.sg (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

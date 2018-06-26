@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pedro_david_castanheira_polonia_deec1_at_tom_fe_up_pt_
+post_count: 1
 ---
 
-# Pedro David Castanheira Polonia <deec1@tom.fe.up.pt> (1 posts)
+# Pedro David Castanheira Polonia <deec1<span>@</span>tom.fe.up.pt> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

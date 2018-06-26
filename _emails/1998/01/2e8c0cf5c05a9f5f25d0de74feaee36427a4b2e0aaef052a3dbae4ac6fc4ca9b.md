@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>ssz.com\><br>
 To: cypherpunks@ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: 2e8c0cf5c05a9f5f25d0de74feaee36427a4b2e0aaef052a3dbae4ac6fc4ca9b<br>
 Message ID: \<199801162336.RAA12510@einstein.ssz.com\><br>
@@ -78,6 +78,8 @@ stake.
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-01-16 (Sat, 17 Jan 1998 07:07:50 +0800) - Re: Sun to fight MS w/ new workstations [CNN] (fwd) - _Jim Choate \<ravage@ssz.com\>_
 

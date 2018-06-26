@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aa996_at_freenet_carleton_ca_francoys_crepeau_
+post_count: 1
 ---
 
-# aa996@freenet.carleton.ca (Francoys Crepeau) (1 posts)
+# aa996<span>@</span>freenet.carleton.ca (Francoys Crepeau) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ryan_alan_porter_ryan_at_rtfm_mlb_fl_us_
+post_count: 16
 ---
 
-# RYAN Alan Porter <ryan@rtfm.mlb.fl.us> (16 posts)
+# RYAN Alan Porter <ryan<span>@</span>rtfm.mlb.fl.us> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

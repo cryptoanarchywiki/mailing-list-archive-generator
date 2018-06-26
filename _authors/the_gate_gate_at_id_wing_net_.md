@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_gate_gate_at_id_wing_net_
+post_count: 8
 ---
 
-# The Gate <gate@id.WING.NET> (8 posts)
+# The Gate <gate<span>@</span>id.WING.NET> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

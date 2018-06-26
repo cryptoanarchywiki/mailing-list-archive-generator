@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: student_vhum5462_at_sfsuvax1_sfsu_edu_
+post_count: 1
 ---
 
-# student <vhum5462@sfsuvax1.sfsu.edu> (1 posts)
+# student <vhum5462<span>@</span>sfsuvax1.sfsu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

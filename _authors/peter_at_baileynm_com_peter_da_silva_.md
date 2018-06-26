@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_at_baileynm_com_peter_da_silva_
+post_count: 1
 ---
 
-# peter@baileynm.com (Peter da Silva) (1 posts)
+# peter<span>@</span>baileynm.com (Peter da Silva) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

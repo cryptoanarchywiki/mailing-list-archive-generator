@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ryan Lackey \<rdl@mit.edu\><br>
+From: Ryan Lackey \<rdl<span>@</span>mit.edu\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: f380e80397c7d25d871d248faabb22bdd0f2db0fd7ceddcdcbbcf4894473aeb9<br>
 Message ID: \<199711181616.LAA07392@tana.mit.edu\><br>
@@ -54,6 +54,8 @@ DDS -- I thought it was vaguely poetic, in a way.
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Ryan Lackey <rdl<span>@</span>mit.edu>](/author/ryan_lackey_rdl_at_mit_edu_)"
 
 + 1997-11-18 (Wed, 19 Nov 1997 00:26:33 +0800) - mailing list archive - _Ryan Lackey \<rdl@mit.edu\>_
 

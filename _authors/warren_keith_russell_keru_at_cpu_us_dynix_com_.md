@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: warren_keith_russell_keru_at_cpu_us_dynix_com_
+post_count: 8
 ---
 
-# Warren Keith Russell <keru@cpu.us.dynix.com> (8 posts)
+# Warren Keith Russell <keru<span>@</span>cpu.us.dynix.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

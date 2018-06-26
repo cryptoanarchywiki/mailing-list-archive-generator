@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Deranged Mutant" \<WlkngOwl@unix.asb.com\><br>
+From: "Deranged Mutant" \<WlkngOwl<span>@</span>unix.asb.com\><br>
 To: deviant@pooh-corner.com<br>
 Message Hash: fb1d9e6deee78e58ebe1b33771cf222b0e18ee12ee165dfbfae78da8db31dae4<br>
 Message ID: \<199607102217.SAA10666@unix.asb.com\><br>
@@ -57,6 +57,8 @@ Send a message with the subject "send pgp-key" for a copy of my key.
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/author/deranged_mutant_wlkngowl_at_unix_asb_com_)"
 
 + 1996-07-11 (Thu, 11 Jul 1996 10:26:53 +0800) - Re: July Freedom Forum Meeting - _"Deranged Mutant" \<WlkngOwl@unix.asb.com\>_
 

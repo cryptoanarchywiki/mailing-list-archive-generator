@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: habs_at_warwick_com_harry_s_hawk_
+post_count: 13
 ---
 
-# habs@warwick.com (Harry S. Hawk) (13 posts)
+# habs<span>@</span>warwick.com (Harry S. Hawk) (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

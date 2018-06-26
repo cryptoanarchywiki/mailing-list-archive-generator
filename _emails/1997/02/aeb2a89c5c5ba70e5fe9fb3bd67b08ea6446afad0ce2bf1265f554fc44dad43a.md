@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. Allen Smith" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. Allen Smith" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: gbroiles@netbox.com<br>
 Message Hash: aeb2a89c5c5ba70e5fe9fb3bd67b08ea6446afad0ce2bf1265f554fc44dad43a<br>
 Message ID: \<199702041426.GAA27970@toad.com\><br>
@@ -103,6 +103,8 @@ has its problems.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "["E. Allen Smith" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1997-02-04 (Tue, 4 Feb 1997 06:26:46 -0800 (PST)) - Re: Dissolving Choke Points - _"E. Allen Smith" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

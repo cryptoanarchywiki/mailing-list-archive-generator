@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joelm_at_eskimo_com_joelm_at_eskimo_com_
+post_count: 1
 ---
 
-# joelm@eskimo.com (Joelm@eskimo.com) (1 posts)
+# joelm<span>@</span>eskimo.com (Joelm<span>@</span>eskimo.com) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

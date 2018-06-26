@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tony@secapl.com<br>
+From: tony<span>@</span>secapl.com<br>
 To: "Vladimir Z. Nuri" \<vznuri@netcom.com\><br>
 Message Hash: e88aabee529179c9097a7b1efe63e9d5e3efebaa27c1bbb1e0e129ac3bb19f1d<br>
 Message ID: \<Pine.A32.3.95.981215140228.21958G-100000@T2.secapl.com\><br>
@@ -52,5 +52,8 @@ in Kahn.)
 
 + Return to [December 1998](/archive/1998/12)
 
-+ 1998-12-15 (Wed, 16 Dec 1998 04:36:16 +0800) - Re: First "Crypto Refugee"? - _tony@secapl.com_
++ Return to "[tony<span>@</span>secapl.com](/author/tony_at_secapl_com)"
+
++ _Unknown thread root_
+  + 1998-12-15 (Wed, 16 Dec 1998 04:36:16 +0800) - Re: First "Crypto Refugee"? - _tony@secapl.com_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_diehl_mdiehl_at_dttus_com_
+post_count: 17
 ---
 
-# "Martin Diehl" <mdiehl@dttus.com> (17 posts)
+# "Martin Diehl" <mdiehl<span>@</span>dttus.com> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

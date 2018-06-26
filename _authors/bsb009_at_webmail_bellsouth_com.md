@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bsb009_at_webmail_bellsouth_com
+post_count: 1
 ---
 
-# BSB009@webmail.bellsouth.com (1 posts)
+# BSB009<span>@</span>webmail.bellsouth.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

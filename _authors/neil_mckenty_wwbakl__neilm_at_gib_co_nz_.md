@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: neil_mckenty_wwbakl__neilm_at_gib_co_nz_
+post_count: 1
 ---
 
-# "Neil McKenty (WWBAKL)" <NEILM@GIB.CO.NZ> (1 posts)
+# "Neil McKenty (WWBAKL)" <NEILM<span>@</span>GIB.CO.NZ> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

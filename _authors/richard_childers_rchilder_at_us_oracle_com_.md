@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_childers_rchilder_at_us_oracle_com_
+post_count: 18
 ---
 
-# Richard Childers <rchilder@us.oracle.com> (18 posts)
+# Richard Childers <rchilder<span>@</span>us.oracle.com> (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

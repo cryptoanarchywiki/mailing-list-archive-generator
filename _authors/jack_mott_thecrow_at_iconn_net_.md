@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jack_mott_thecrow_at_iconn_net_
+post_count: 17
 ---
 
-# Jack Mott <thecrow@iconn.net> (17 posts)
+# Jack Mott <thecrow<span>@</span>iconn.net> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

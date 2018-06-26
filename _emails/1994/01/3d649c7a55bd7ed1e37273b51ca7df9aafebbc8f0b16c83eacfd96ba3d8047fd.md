@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Chris \"Strunoph\" Norman" \<cbnorman@undergrad.math.uwaterloo.ca\><br>
+From: "Chris \"Strunoph\" Norman" \<cbnorman<span>@</span>undergrad.math.uwaterloo.ca\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3d649c7a55bd7ed1e37273b51ca7df9aafebbc8f0b16c83eacfd96ba3d8047fd<br>
 Message ID: \<94Jan16.132213est.56938-3@undergrad.math.uwaterloo.ca\><br>
@@ -39,6 +39,8 @@ the time to participate, but it looks interesting.
 ## Thread
 
 + Return to [January 1994](/archive/1994/01)
+
++ Return to "["Chris \"Strunoph\" Norman" <cbnorman<span>@</span>undergrad.math.uwaterloo.ca>](/author/chris_strunoph_norman_cbnorman_at_undergrad_math_uwaterloo_ca_)"
 
 + 1994-01-16 (Sun, 16 Jan 94 10:23:16 PST) - SQUISH - _"Chris \"Strunoph\" Norman" \<cbnorman@undergrad.math.uwaterloo.ca\>_
 

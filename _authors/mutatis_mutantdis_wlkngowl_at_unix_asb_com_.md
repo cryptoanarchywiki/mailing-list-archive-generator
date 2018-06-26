@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mutatis_mutantdis_wlkngowl_at_unix_asb_com_
+post_count: 2
 ---
 
-# Mutatis Mutantdis <wlkngowl@unix.asb.com> (2 posts)
+# Mutatis Mutantdis <wlkngowl<span>@</span>unix.asb.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

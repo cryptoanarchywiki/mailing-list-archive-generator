@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: waynec_at_csr_uvic_ca_wayne_chapeskie_
+post_count: 1
 ---
 
-# waynec@csr.UVic.CA (Wayne  Chapeskie) (1 posts)
+# waynec<span>@</span>csr.UVic.CA (Wayne  Chapeskie) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

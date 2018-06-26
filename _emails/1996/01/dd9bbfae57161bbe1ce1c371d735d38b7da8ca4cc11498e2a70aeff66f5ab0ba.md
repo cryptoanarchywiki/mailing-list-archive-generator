@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: s1018954@aix2.uottawa.ca<br>
+From: s1018954<span>@</span>aix2.uottawa.ca<br>
 To: grimm@MIT.EDU<br>
 Message Hash: dd9bbfae57161bbe1ce1c371d735d38b7da8ca4cc11498e2a70aeff66f5ab0ba<br>
 Message ID: \<Pine.3.89.9601151533.C28480-0100000@aix2.uottawa.ca\><br>
@@ -55,6 +55,12 @@ TIA.
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr. Dimitri Vulis)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_)"
++ Return to "[grimm<span>@</span>MIT.EDU](/author/grimm_at_mit_edu)"
++ Return to "["James M. Cobb" <jcobb<span>@</span>ahcbsd1.ovnet.com>](/author/james_m_cobb_jcobb_at_ahcbsd1_ovnet_com_)"
++ Return to "[s1018954<span>@</span>aix2.uottawa.ca](/author/s1018954_at_aix2_uottawa_ca)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-01-15 (Mon, 15 Jan 96 09:33:18 PST) - [Re: New Puzzle Palace? Re: CAQ - Secret ...](/archive/1996/01/53507e791a2de927cb689239f00b767a4b4fcf87c85809f5b18a95e3147c07a7) - _tcmay@got.net (Timothy C. May)_
   + 1996-01-15 (Mon, 15 Jan 96 10:41:13 PST) - [Re: New Puzzle Palace? Re: CAQ - Secret ...](/archive/1996/01/0852c45853b4a071e4f82a20d90a95a92a4005c6847fd8fbab0d747b83312a1b) - _grimm@MIT.EDU_

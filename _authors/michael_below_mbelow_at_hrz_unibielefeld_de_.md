@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_below_mbelow_at_hrz_unibielefeld_de_
+post_count: 1
 ---
 
-# Michael Below <mbelow@HRZ.Uni-Bielefeld.DE> (1 posts)
+# Michael Below <mbelow<span>@</span>HRZ.Uni-Bielefeld.DE> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

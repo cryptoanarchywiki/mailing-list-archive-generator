@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_olson_edp__abillol_at_microsoft_com_
+post_count: 10
 ---
 
-# "Bill Olson (EDP)" <a-billol@microsoft.com> (10 posts)
+# "Bill Olson (EDP)" <a-billol<span>@</span>microsoft.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

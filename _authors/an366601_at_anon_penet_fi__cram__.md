@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an366601_at_anon_penet_fi__cram__
+post_count: 4
 ---
 
-# an366601@anon.penet.fi (** CRAM **) (4 posts)
+# an366601<span>@</span>anon.penet.fi (** CRAM **) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

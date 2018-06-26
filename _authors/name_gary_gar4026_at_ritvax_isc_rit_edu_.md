@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: name_gary_gar4026_at_ritvax_isc_rit_edu_
+post_count: 1
 ---
 
-# NAME GARY <GAR4026@ritvax.isc.rit.edu> (1 posts)
+# NAME GARY <GAR4026<span>@</span>ritvax.isc.rit.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

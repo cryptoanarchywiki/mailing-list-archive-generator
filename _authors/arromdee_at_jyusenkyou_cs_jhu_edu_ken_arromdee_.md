@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: arromdee_at_jyusenkyou_cs_jhu_edu_ken_arromdee_
+post_count: 2
 ---
 
-# arromdee@jyusenkyou.cs.jhu.edu (Ken Arromdee) (2 posts)
+# arromdee<span>@</span>jyusenkyou.cs.jhu.edu (Ken Arromdee) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

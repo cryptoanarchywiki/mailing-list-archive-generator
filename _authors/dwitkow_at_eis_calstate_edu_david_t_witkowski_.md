@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dwitkow_at_eis_calstate_edu_david_t_witkowski_
+post_count: 4
 ---
 
-# dwitkow@eis.calstate.edu (David T. Witkowski) (4 posts)
+# dwitkow<span>@</span>eis.calstate.edu (David T. Witkowski) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

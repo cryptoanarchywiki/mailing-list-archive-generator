@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ccat_at_casanext1_stanford_edu_chris_beaumont_
+post_count: 1
 ---
 
-# ccat@casa-next1.Stanford.EDU (Chris Beaumont) (1 posts)
+# ccat<span>@</span>casa-next1.Stanford.EDU (Chris Beaumont) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

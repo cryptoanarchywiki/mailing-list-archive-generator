@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_williams_williams_at_mackinfo_com_
+post_count: 1
 ---
 
-# "Matthew Williams" <williams@mackinfo.com> (1 posts)
+# "Matthew Williams" <williams<span>@</span>mackinfo.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

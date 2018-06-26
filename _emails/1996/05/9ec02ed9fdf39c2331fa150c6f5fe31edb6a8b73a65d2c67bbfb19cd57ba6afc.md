@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9ec02ed9fdf39c2331fa150c6f5fe31edb6a8b73a65d2c67bbfb19cd57ba6afc<br>
 Message ID: \<199605291605.JAA21685@mail.pacifier.com\><br>
@@ -67,6 +67,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-05-29 (Thu, 30 May 1996 05:31:35 +0800) - Re: Internet traffic is monitored. - _jim bell \<jimbell@pacifier.com\>_
 

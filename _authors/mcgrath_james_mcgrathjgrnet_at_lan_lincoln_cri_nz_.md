@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mcgrath_james_mcgrathjgrnet_at_lan_lincoln_cri_nz_
+post_count: 3
 ---
 
-# "McGrath, James" <MCGRATHJ%GRNET@lan.lincoln.cri.nz> (3 posts)
+# "McGrath, James" <MCGRATHJ%GRNET<span>@</span>lan.lincoln.cri.nz> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

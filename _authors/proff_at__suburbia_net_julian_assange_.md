@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: proff_at__suburbia_net_julian_assange_
+post_count: 2
 ---
 
-# proff@.suburbia.net (Julian Assange) (2 posts)
+# proff<span>@</span>.suburbia.net (Julian Assange) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

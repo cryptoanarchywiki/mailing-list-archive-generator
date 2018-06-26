@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: casey_iverson_iverson_at_usa_net_
+post_count: 12
 ---
 
-# Casey Iverson <iverson@usa.net> (12 posts)
+# Casey Iverson <iverson<span>@</span>usa.net> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

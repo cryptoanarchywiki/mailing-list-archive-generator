@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: s_summers1_at_genie_geis_com
+post_count: 4
 ---
 
-# s.summers1@genie.geis.com (4 posts)
+# s.summers1<span>@</span>genie.geis.com (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

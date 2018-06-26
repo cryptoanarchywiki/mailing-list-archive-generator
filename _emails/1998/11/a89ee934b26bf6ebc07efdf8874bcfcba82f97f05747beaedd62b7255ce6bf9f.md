@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<nobody@replay.com\><br>
+From: Anonymous \<nobody<span>@</span>replay.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a89ee934b26bf6ebc07efdf8874bcfcba82f97f05747beaedd62b7255ce6bf9f<br>
 Message ID: \<199811240839.JAA02315@replay.com\><br>
@@ -151,6 +151,8 @@ KtsjgvL3A2A=
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
 
 + 1998-11-24 (Tue, 24 Nov 1998 17:11:41 +0800) - Space Aliens Address cpunx - _Anonymous \<nobody@replay.com\>_
 

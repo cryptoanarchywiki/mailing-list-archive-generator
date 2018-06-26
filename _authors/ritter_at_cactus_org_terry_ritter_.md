@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ritter_at_cactus_org_terry_ritter_
+post_count: 6
 ---
 
-# ritter@cactus.org (Terry Ritter) (6 posts)
+# ritter<span>@</span>cactus.org (Terry Ritter) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

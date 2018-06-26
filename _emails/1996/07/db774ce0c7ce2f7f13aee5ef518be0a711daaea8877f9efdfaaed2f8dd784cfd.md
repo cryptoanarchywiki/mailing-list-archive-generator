@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: db774ce0c7ce2f7f13aee5ef518be0a711daaea8877f9efdfaaed2f8dd784cfd<br>
 Message ID: \<v03007607ae1c921deecd@[206.119.69.46]\><br>
@@ -65,6 +65,9 @@ The e$ Home Page: http://www.vmeng.com/rah/
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1996-07-24 (Thu, 25 Jul 1996 07:06:07 +0800) - [Re: Parsing John Youn (Re: OPS_nuk)](/archive/1996/07/d9c65b0461fd1fa6cf1c323f807c4a48dd92918457cee8f6a812e4c1d6ae558f) - _jya@pipeline.com (John Young)_
   + 1996-07-25 (Thu, 25 Jul 1996 13:44:45 +0800) - Re: Parsing John Youn (Re: OPS_nuk) - _Robert Hettinga \<rah@shipwright.com\>_

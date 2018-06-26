@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_wayner_pcw_at_flyzone_com_
+post_count: 1
 ---
 
-# Peter Wayner <pcw@flyzone.com> (1 posts)
+# Peter Wayner <pcw<span>@</span>flyzone.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

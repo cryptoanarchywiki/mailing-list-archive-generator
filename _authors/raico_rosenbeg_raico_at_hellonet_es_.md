@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: raico_rosenbeg_raico_at_hellonet_es_
+post_count: 1
 ---
 
-# "Raico Rosenbeg" <raico@hello-net.es> (1 posts)
+# "Raico Rosenbeg" <raico<span>@</span>hello-net.es> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

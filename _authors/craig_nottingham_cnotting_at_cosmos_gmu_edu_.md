@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: craig_nottingham_cnotting_at_cosmos_gmu_edu_
+post_count: 2
 ---
 
-# Craig Nottingham <cnotting@cosmos.gmu.edu> (2 posts)
+# Craig Nottingham <cnotting<span>@</span>cosmos.gmu.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

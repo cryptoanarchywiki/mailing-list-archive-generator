@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: biz43_at_athene_stat_unimuenchen_de
+post_count: 1
 ---
 
-# biz43@athene.stat.uni-muenchen.de (1 posts)
+# biz43<span>@</span>athene.stat.uni-muenchen.de (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

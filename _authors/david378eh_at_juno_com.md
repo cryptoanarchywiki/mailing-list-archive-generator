@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david378eh_at_juno_com
+post_count: 1
 ---
 
-# david378eh@juno.com (1 posts)
+# david378eh<span>@</span>juno.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: pdlamb@iquest.com (Patrick Lamb)<br>
+From: pdlamb<span>@</span>iquest.com (Patrick Lamb)<br>
 To: cypherpunks@toad.com (Cypherpunks Mailing List)<br>
 Message Hash: 20aa5f123e1f3dbddcef8dc7c8bbcaeaf8b8b4d7f53fbd557b8ea2b68d3bf331<br>
 Message ID: \<199509221515.KAA01511@vespucci.iquest.com\><br>
@@ -55,6 +55,8 @@ cGRsYW1iQGlxdWVzdC5jb20+
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[pdlamb<span>@</span>iquest.com (Patrick Lamb)](/author/pdlamb_at_iquest_com_patrick_lamb_)"
 
 + 1995-09-22 (Fri, 22 Sep 95 08:15:53 PDT) - Re: Another Netscape Bug (and possible security hole) - _pdlamb@iquest.com (Patrick Lamb)_
 

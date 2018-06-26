@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gback_at_facility_cs_utah_edu
+post_count: 1
 ---
 
-# gback@facility.cs.utah.edu (1 posts)
+# gback<span>@</span>facility.cs.utah.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: user_of_doom_nobody_at_seclab_com_
+post_count: 3
 ---
 
-# User of DOOM <nobody@seclab.com> (3 posts)
+# User of DOOM <nobody<span>@</span>seclab.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

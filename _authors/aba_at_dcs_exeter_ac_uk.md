@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aba_at_dcs_exeter_ac_uk
+post_count: 70
 ---
 
-# aba@dcs.exeter.ac.uk (70 posts)
+# aba<span>@</span>dcs.exeter.ac.uk (70 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

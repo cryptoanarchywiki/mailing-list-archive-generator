@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jhall_at_lambda_msfc_nasa_gov_joel_hall_
+post_count: 1
 ---
 
-# jhall@lambda.msfc.nasa.gov (Joel Hall) (1 posts)
+# jhall<span>@</span>lambda.msfc.nasa.gov (Joel Hall) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

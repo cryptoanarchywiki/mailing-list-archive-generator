@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dapeebjk12_at_canopous_net_br
+post_count: 1
 ---
 
-# dapeebjk12@canopous.net.br (1 posts)
+# dapeebjk12<span>@</span>canopous.net.br (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

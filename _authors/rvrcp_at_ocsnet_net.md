@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rvrcp_at_ocsnet_net
+post_count: 1
 ---
 
-# rvrcp@ocsnet.net (1 posts)
+# rvrcp<span>@</span>ocsnet.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

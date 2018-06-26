@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Damaged Justice \<frogfarm@yakko.cs.wmich.edu\><br>
+From: Damaged Justice \<frogfarm<span>@</span>yakko.cs.wmich.edu\><br>
 To: spooner-l@netcom.com<br>
 Message Hash: b6b5afaf8cd7a9befe05e9ae5b352822813f79f27eeed9c2b38e7bb07a6ac1ef<br>
 Message ID: \<199604212005.QAA06633@yakko.cs.wmich.edu\><br>
@@ -101,6 +101,8 @@ frogfarm@yakko.cs.wmich.edu   free market anarchist, natural law advocate,
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[Damaged Justice <frogfarm<span>@</span>yakko.cs.wmich.edu>](/author/damaged_justice_frogfarm_at_yakko_cs_wmich_edu_)"
 
 + 1996-04-22 (Mon, 22 Apr 1996 08:22:51 +0800) - (fwd) Important new web site discusses risks of loss of domain names - _Damaged Justice \<frogfarm@yakko.cs.wmich.edu\>_
 

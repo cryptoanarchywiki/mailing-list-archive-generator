@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a8d1fcda510302490d4eefc8aa8fcac39436f9b0d5f8b9b0a7c8d5fcdbfd8ce5<br>
 Message ID: \<ad180444000210042513@[205.199.118.202]\><br>
@@ -68,6 +68,11 @@ Higher Power: 2^756839 - 1  | black markets, collapse of governments.
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[abostick<span>@</span>netcom.com (Alan Bostick)](/author/abostick_at_netcom_com_alan_bostick_)"
++ Return to "[Kent Dahlgren <kent<span>@</span>trouble.WV.TEK.COM>](/author/kent_dahlgren_kent_at_trouble_wv_tek_com_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-01-09 (Wed, 10 Jan 1996 03:56:12 +0800) - Don't type: "g**d t*m*s v*r*s" - _tcmay@got.net (Timothy C. May)_
   + 1996-01-10 (Thu, 11 Jan 1996 00:16:26 +0800) - [Re: Don't type: "g**d t*m*s v*r*s"](/archive/1996/01/8e30a2e9f664d383b7c92896c0f61c898c5db16021edd588297a96e4ecf5fd5c) - _Kent Dahlgren \<kent@trouble.WV.TEK.COM\>_

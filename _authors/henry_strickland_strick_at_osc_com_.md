@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: henry_strickland_strick_at_osc_com_
+post_count: 1
 ---
 
-# henry strickland <strick@osc.com> (1 posts)
+# henry strickland <strick<span>@</span>osc.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

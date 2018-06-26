@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: j_adam_hewison_jadam_at_ino_com_
+post_count: 1
 ---
 
-# "J. Adam Hewison" <jadam@ino.com> (1 posts)
+# "J. Adam Hewison" <jadam<span>@</span>ino.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

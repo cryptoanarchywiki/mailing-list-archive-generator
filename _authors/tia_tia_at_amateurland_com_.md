@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tia_tia_at_amateurland_com_
+post_count: 1
 ---
 
-# tia <tia@amateurland.com> (1 posts)
+# tia <tia<span>@</span>amateurland.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

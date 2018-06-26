@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Kurt Wolter \<serpent@rths.rochelle.net\><br>
+From: Kurt Wolter \<serpent<span>@</span>rths.rochelle.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fda1e8c9a1cbdced5c177627555d302eef9c0cc05ec1fb9ae25d00369eddda6b<br>
 Message ID: \<35BF528E.E3912B86@rths.rochelle.net\><br>
@@ -50,6 +50,8 @@ serpent@rths.rochelle.net
 ## Thread
 
 + Return to [July 1998](/archive/1998/07)
+
++ Return to "[Kurt Wolter <serpent<span>@</span>rths.rochelle.net>](/author/kurt_wolter_serpent_at_rths_rochelle_net_)"
 
 + 1998-07-29 (Wed, 29 Jul 1998 09:42:41 -0700 (PDT)) - Free NNTP server question... - _Kurt Wolter \<serpent@rths.rochelle.net\>_
 

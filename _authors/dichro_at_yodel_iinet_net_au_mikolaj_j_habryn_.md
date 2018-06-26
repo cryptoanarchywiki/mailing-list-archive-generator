@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dichro_at_yodel_iinet_net_au_mikolaj_j_habryn_
+post_count: 1
 ---
 
-# dichro@yodel.iinet.net.au (Mikolaj J. Habryn) (1 posts)
+# dichro<span>@</span>yodel.iinet.net.au (Mikolaj J. Habryn) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

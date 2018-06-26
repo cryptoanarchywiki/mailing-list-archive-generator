@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: howard_campbell_woody_at_hi_net_
+post_count: 2
 ---
 
-# Howard Campbell <woody@hi.net> (2 posts)
+# Howard Campbell <woody<span>@</span>hi.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

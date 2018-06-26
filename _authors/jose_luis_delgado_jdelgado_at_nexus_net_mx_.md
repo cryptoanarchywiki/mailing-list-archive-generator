@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jose_luis_delgado_jdelgado_at_nexus_net_mx_
+post_count: 2
 ---
 
-# Jose Luis Delgado <jdelgado@nexus.net.mx> (2 posts)
+# Jose Luis Delgado <jdelgado<span>@</span>nexus.net.mx> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

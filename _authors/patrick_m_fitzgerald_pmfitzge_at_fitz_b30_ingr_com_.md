@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_m_fitzgerald_pmfitzge_at_fitz_b30_ingr_com_
+post_count: 2
 ---
 
-# "Patrick M. Fitzgerald" <pmfitzge@fitz.b30.ingr.com> (2 posts)
+# "Patrick M. Fitzgerald" <pmfitzge<span>@</span>fitz.b30.ingr.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

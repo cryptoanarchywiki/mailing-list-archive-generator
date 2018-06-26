@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_hughes_hughes_at_huge_cum_
+post_count: 1
 ---
 
-# Eric Hughes <hughes@huge.cum> (1 posts)
+# Eric Hughes <hughes<span>@</span>huge.cum> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

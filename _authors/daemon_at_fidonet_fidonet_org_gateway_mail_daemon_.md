@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daemon_at_fidonet_fidonet_org_gateway_mail_daemon_
+post_count: 1
 ---
 
-# daemon@fidonet.fidonet.org (Gateway Mail Daemon) (1 posts)
+# daemon<span>@</span>fidonet.fidonet.org (Gateway Mail Daemon) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

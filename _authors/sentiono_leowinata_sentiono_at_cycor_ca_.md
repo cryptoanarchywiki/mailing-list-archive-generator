@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sentiono_leowinata_sentiono_at_cycor_ca_
+post_count: 6
 ---
 
-# "Sentiono Leowinata" <sentiono@cycor.ca> (6 posts)
+# "Sentiono Leowinata" <sentiono<span>@</span>cycor.ca> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: offtopic_header_remailer_at_sasknet_sk_ca
+post_count: 1
 ---
 
-# Off-Topic.Header.Remailer@sasknet.sk.ca (1 posts)
+# Off-Topic.Header.Remailer<span>@</span>sasknet.sk.ca (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

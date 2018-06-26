@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roy_m_silvernail_roy_at_sendai_scytale_com_
+post_count: 5
 ---
 
-# "Roy M. Silvernail" <roy@sendai.scytale.com> (5 posts)
+# "Roy M. Silvernail" <roy<span>@</span>sendai.scytale.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

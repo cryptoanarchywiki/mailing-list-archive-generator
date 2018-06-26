@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sneal_at_muskwa_ucs_ualberta_ca_steve_neal_
+post_count: 1
 ---
 
-# sneal@muskwa.ucs.ualberta.ca (Steve Neal) (1 posts)
+# sneal<span>@</span>muskwa.ucs.ualberta.ca (Steve Neal) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

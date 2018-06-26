@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: diederik_smets_diederik_smets_at_emd_be_
+post_count: 1
 ---
 
-# "Diederik Smets" <Diederik.Smets@emd.be> (1 posts)
+# "Diederik Smets" <Diederik.Smets<span>@</span>emd.be> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

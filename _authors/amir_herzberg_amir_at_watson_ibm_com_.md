@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: amir_herzberg_amir_at_watson_ibm_com_
+post_count: 1
 ---
 
-# Amir Herzberg <amir@watson.ibm.com> (1 posts)
+# Amir Herzberg <amir<span>@</span>watson.ibm.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

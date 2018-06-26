@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_a_thomas_jathomas_at_netcom_com_
+post_count: 4
 ---
 
-# "John A. Thomas" <jathomas@netcom.com> (4 posts)
+# "John A. Thomas" <jathomas<span>@</span>netcom.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

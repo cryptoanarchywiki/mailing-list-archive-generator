@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pgpkeys_at_wasabi_io_com_pgp_slave_key_server_
+post_count: 9
 ---
 
-# pgpkeys@wasabi.io.com (PGP Slave Key Server) (9 posts)
+# pgpkeys<span>@</span>wasabi.io.com (PGP Slave Key Server) (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

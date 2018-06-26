@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_bailey_bailey_at_computek_net_
+post_count: 10
 ---
 
-# Mike Bailey <bailey@computek.net> (10 posts)
+# Mike Bailey <bailey<span>@</span>computek.net> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

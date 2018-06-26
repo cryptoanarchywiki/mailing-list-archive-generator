@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_crompton_sunray_at_globalnet_co_uk_
+post_count: 4
 ---
 
-# Steve Crompton <sunray@globalnet.co.uk> (4 posts)
+# Steve Crompton <sunray<span>@</span>globalnet.co.uk> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

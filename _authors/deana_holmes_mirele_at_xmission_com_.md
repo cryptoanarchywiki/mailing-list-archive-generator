@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deana_holmes_mirele_at_xmission_com_
+post_count: 8
 ---
 
-# "Deana Holmes" <mirele@xmission.com> (8 posts)
+# "Deana Holmes" <mirele<span>@</span>xmission.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

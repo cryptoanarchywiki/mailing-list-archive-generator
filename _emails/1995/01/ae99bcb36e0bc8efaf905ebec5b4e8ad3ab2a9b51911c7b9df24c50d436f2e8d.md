@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ae99bcb36e0bc8efaf905ebec5b4e8ad3ab2a9b51911c7b9df24c50d436f2e8d<br>
 Message ID: \<199501191708.MAA20858@pipe4.pipeline.com\><br>
@@ -241,6 +241,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1995-01-19 (Thu, 19 Jan 95 09:09:32 PST) - WSJ on CIA Dump - _John Young \<jya@pipeline.com\>_
 

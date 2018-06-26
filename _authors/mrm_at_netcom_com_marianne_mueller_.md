@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mrm_at_netcom_com_marianne_mueller_
+post_count: 25
 ---
 
-# mrm@netcom.com (Marianne Mueller) (25 posts)
+# mrm<span>@</span>netcom.com (Marianne Mueller) (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

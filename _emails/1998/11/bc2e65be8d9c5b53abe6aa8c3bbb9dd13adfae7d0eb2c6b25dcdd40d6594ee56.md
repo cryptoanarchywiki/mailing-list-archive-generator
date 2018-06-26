@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: Gordon Jeff  INSP \<Jeff.Gordon@inspection.irs.gov\><br>
 Message Hash: bc2e65be8d9c5b53abe6aa8c3bbb9dd13adfae7d0eb2c6b25dcdd40d6594ee56<br>
 Message ID: \<199811181850.NAA03064@smtp2.atl.mindspring.net\><br>
@@ -50,5 +50,8 @@ John
 
 + Return to [November 1998](/archive/1998/11)
 
-+ 1998-11-18 (Thu, 19 Nov 1998 03:27:04 +0800) - CJ's Teeth/Glasses - _John Young \<jya@pipeline.com\>_
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
+
++ _Unknown thread root_
+  + 1998-11-18 (Thu, 19 Nov 1998 03:27:04 +0800) - CJ's Teeth/Glasses - _John Young \<jya@pipeline.com\>_
 

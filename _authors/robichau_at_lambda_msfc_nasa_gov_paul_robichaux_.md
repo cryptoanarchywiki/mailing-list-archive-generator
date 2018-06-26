@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robichau_at_lambda_msfc_nasa_gov_paul_robichaux_
+post_count: 9
 ---
 
-# robichau@lambda.msfc.nasa.gov (Paul Robichaux) (9 posts)
+# robichau<span>@</span>lambda.msfc.nasa.gov (Paul Robichaux) (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

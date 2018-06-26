@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: raul_deluth_miller_rockwell_at_nova_umd_edu_
+post_count: 3
 ---
 
-# Raul Deluth Miller <rockwell@nova.umd.edu> (3 posts)
+# Raul Deluth Miller <rockwell<span>@</span>nova.umd.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

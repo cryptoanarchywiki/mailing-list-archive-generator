@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: leonard_janke_janke_at_unixg_ubc_ca_
+post_count: 5
 ---
 
-# Leonard Janke <janke@unixg.ubc.ca> (5 posts)
+# Leonard Janke <janke<span>@</span>unixg.ubc.ca> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

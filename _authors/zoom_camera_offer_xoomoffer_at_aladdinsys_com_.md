@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zoom_camera_offer_xoomoffer_at_aladdinsys_com_
+post_count: 1
 ---
 
-# Zoom Camera Offer <xoomoffer@aladdinsys.com> (1 posts)
+# Zoom Camera Offer <xoomoffer<span>@</span>aladdinsys.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

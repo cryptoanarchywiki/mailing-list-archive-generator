@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: danodom_at_matt_ksu_ksu_edu_dan_odom_
+post_count: 7
 ---
 
-# danodom@matt.ksu.ksu.edu (Dan Odom) (7 posts)
+# danodom<span>@</span>matt.ksu.ksu.edu (Dan Odom) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

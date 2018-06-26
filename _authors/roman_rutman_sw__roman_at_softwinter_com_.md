@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roman_rutman_sw__roman_at_softwinter_com_
+post_count: 1
 ---
 
-# "Roman Rutman (sw)" <roman@softwinter.com> (1 posts)
+# "Roman Rutman (sw)" <roman<span>@</span>softwinter.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

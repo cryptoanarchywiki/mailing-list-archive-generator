@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gallicchio_florindo_fgallicc_at_micrarn2_ssw_jnj_com_
+post_count: 1
 ---
 
-# "Gallicchio, Florindo" <FGALLICC@MICRARN2.SSW.JNJ.COM> (1 posts)
+# "Gallicchio, Florindo" <FGALLICC<span>@</span>MICRARN2.SSW.JNJ.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

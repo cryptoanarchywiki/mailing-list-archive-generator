@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: psee_at_sam_nask_com_pl_andrzej_bursztynski_
+post_count: 1
 ---
 
-# psee@sam.nask.com.pl (Andrzej Bursztynski) (1 posts)
+# psee<span>@</span>sam.nask.com.pl (Andrzej Bursztynski) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

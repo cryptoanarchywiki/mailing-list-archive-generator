@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chip_at_communities_com_chip_morningstar_
+post_count: 2
 ---
 
-# chip@communities.com (Chip Morningstar) (2 posts)
+# chip<span>@</span>communities.com (Chip Morningstar) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

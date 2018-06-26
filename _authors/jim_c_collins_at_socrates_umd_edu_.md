@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_c_collins_at_socrates_umd_edu_
+post_count: 3
 ---
 
-# Jim C <collins@socrates.umd.edu> (3 posts)
+# Jim C <collins<span>@</span>socrates.umd.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

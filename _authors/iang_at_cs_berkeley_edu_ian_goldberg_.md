@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iang_at_cs_berkeley_edu_ian_goldberg_
+post_count: 81
 ---
 
-# iang@cs.berkeley.edu (Ian Goldberg) (81 posts)
+# iang<span>@</span>cs.berkeley.edu (Ian Goldberg) (81 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

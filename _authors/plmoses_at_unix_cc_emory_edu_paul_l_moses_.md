@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: plmoses_at_unix_cc_emory_edu_paul_l_moses_
+post_count: 17
 ---
 
-# plmoses@unix.cc.emory.edu (Paul L. Moses) (17 posts)
+# plmoses<span>@</span>unix.cc.emory.edu (Paul L. Moses) (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

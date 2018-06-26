@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_valhalla_phoenix_net_anonymous_
+post_count: 14
 ---
 
-# nobody@valhalla.phoenix.net (Anonymous) (14 posts)
+# nobody<span>@</span>valhalla.phoenix.net (Anonymous) (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

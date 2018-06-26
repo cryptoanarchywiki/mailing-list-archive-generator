@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Nathaniel Borenstein \<nsb@nsb.fv.com\><br>
+From: Nathaniel Borenstein \<nsb<span>@</span>nsb.fv.com\><br>
 To: JLICQUIA@mhc.uiuc.edu\><br>
 Message Hash: 121f68fecee848f0bbab82488a5cdf817694c1fe9a8ecf9a3c535c6bccbdef8a<br>
 Message ID: \<cixnof70Eyt5EB1mJL@nsb.fv.com\><br>
@@ -50,6 +50,10 @@ ready, its existence will be announced on cypherpunks.  -- Nathaniel
 
 + Return to [December 1994](/archive/1994/12)
 
-+ 1994-12-20 (Tue, 20 Dec 94 12:24:27 PST) - Re: PGP-MIME spec (No Flames Allowed!) - _Nathaniel Borenstein \<nsb@nsb.fv.com\>_
-  + 1994-12-20 (Tue, 20 Dec 94 15:44:41 PST) - [Re: PGP-MIME spec (No Flames Allowed!)](/archive/1994/12/b12db31de0a0f783bae4ba28b8a8336b570b05741583e6a21eaa3388e23d496f) - _"James A. Donald" \<jamesd@netcom.com\>_
++ Return to "["James A. Donald" <jamesd<span>@</span>netcom.com>](/author/james_a_donald_jamesd_at_netcom_com_)"
++ Return to "[Nathaniel Borenstein <nsb<span>@</span>nsb.fv.com>](/author/nathaniel_borenstein_nsb_at_nsb_fv_com_)"
+
++ _Unknown thread root_
+  + 1994-12-20 (Tue, 20 Dec 94 12:24:27 PST) - Re: PGP-MIME spec (No Flames Allowed!) - _Nathaniel Borenstein \<nsb@nsb.fv.com\>_
+    + 1994-12-20 (Tue, 20 Dec 94 15:44:41 PST) - [Re: PGP-MIME spec (No Flames Allowed!)](/archive/1994/12/b12db31de0a0f783bae4ba28b8a8336b570b05741583e6a21eaa3388e23d496f) - _"James A. Donald" \<jamesd@netcom.com\>_
 

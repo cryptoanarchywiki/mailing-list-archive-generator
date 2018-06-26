@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_strasheim_alex_at_proust_suba_com_
+post_count: 11
 ---
 
-# Alex Strasheim <alex@proust.suba.com> (11 posts)
+# Alex Strasheim <alex<span>@</span>proust.suba.com> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

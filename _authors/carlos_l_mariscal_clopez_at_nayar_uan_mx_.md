@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carlos_l_mariscal_clopez_at_nayar_uan_mx_
+post_count: 3
 ---
 
-# "Carlos L. Mariscal" <clopez@nayar.uan.mx> (3 posts)
+# "Carlos L. Mariscal" <clopez<span>@</span>nayar.uan.mx> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

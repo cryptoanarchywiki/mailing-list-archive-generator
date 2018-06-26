@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bryce Wilcox \<wilcoxb@nagina.cs.colorado.edu\><br>
+From: Bryce Wilcox \<wilcoxb<span>@</span>nagina.cs.colorado.edu\><br>
 To: droelke@rdxsunhost.aud.alcatel.com (Daniel R. Oelke)<br>
 Message Hash: e01fcecd83bf9786ae9763ac7e828dd7aef7f8faab0a2fd327ae76c089d3ee3c<br>
 Message ID: \<199509162353.RAA06965@nagina.cs.colorado.edu\><br>
@@ -88,6 +88,13 @@ OCg+mm8vYmc=
 
 + Return to [September 1995](/archive/1995/09)
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[Alan Barrett <barrett<span>@</span>iafrica.com>](/author/alan_barrett_barrett_at_iafrica_com_)"
++ Return to "[Bryce Wilcox <wilcoxb<span>@</span>nag.cs.colorado.edu>](/author/bryce_wilcox_wilcoxb_at_nag_cs_colorado_edu_)"
++ Return to "[Bryce Wilcox <wilcoxb<span>@</span>nagina.cs.colorado.edu>](/author/bryce_wilcox_wilcoxb_at_nagina_cs_colorado_edu_)"
++ Return to "["Cancelmoose[tm]" <moose<span>@</span>cm.org>](/author/cancelmoosetm_moose_at_cm_org_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr. Dimitri Vulis)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_)"
++ Return to "[droelke<span>@</span>rdxsunhost.aud.alcatel.com (Daniel R. Oelke)](/author/droelke_at_rdxsunhost_aud_alcatel_com_daniel_r_oelke_)"
 
 + 1995-09-16 (Sat, 16 Sep 95 12:30:17 PDT) - [Re: "alt.cypherpunks" Newsgroup vs. Mailing List?](/archive/1995/09/725ae872a5a3bb7aded7203b26d8f9145de57e86ea89c9a4c94afed394a48270) - _droelke@rdxsunhost.aud.alcatel.com (Daniel R. Oelke)_
   + 1995-09-16 (Sat, 16 Sep 95 16:54:06 PDT) - Re: "alt.cypherpunks" Newsgroup vs. Mailing List? - _Bryce Wilcox \<wilcoxb@nagina.cs.colorado.edu\>_

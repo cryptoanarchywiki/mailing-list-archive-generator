@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: octavian_ureche_tavi_at_info_polymtl_ca_
+post_count: 2
 ---
 
-# Octavian  Ureche <tavi@info.polymtl.ca> (2 posts)
+# Octavian  Ureche <tavi<span>@</span>info.polymtl.ca> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

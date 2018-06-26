@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chairman_ceo_at_mitnet_com_
+post_count: 2
 ---
 
-# chairman <ceo@mitnet.com> (2 posts)
+# chairman <ceo<span>@</span>mitnet.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

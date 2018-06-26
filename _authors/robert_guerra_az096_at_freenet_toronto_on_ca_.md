@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_guerra_az096_at_freenet_toronto_on_ca_
+post_count: 3
 ---
 
-# Robert Guerra <az096@freenet.toronto.on.ca> (3 posts)
+# Robert Guerra <az096<span>@</span>freenet.toronto.on.ca> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

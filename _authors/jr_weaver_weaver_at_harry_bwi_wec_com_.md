@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jr_weaver_weaver_at_harry_bwi_wec_com_
+post_count: 1
 ---
 
-# "JR Weaver" <weaver@harry.bwi.wec.com> (1 posts)
+# "JR Weaver" <weaver<span>@</span>harry.bwi.wec.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

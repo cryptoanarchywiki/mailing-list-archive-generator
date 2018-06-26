@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eichin_at_cygnus_com_mark_eichin_
+post_count: 14
 ---
 
-# eichin@cygnus.com (Mark Eichin) (14 posts)
+# eichin<span>@</span>cygnus.com (Mark Eichin) (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

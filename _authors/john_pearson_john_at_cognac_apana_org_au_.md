@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_pearson_john_at_cognac_apana_org_au_
+post_count: 6
 ---
 
-# John Pearson <john@cognac.apana.org.au> (6 posts)
+# John Pearson <john<span>@</span>cognac.apana.org.au> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

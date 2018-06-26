@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hatzm_at_bigbird_cso_gtegsc_com_mike_hatz_
+post_count: 1
 ---
 
-# hatzm@bigbird.cso.gtegsc.com (Mike Hatz) (1 posts)
+# hatzm<span>@</span>bigbird.cso.gtegsc.com (Mike Hatz) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

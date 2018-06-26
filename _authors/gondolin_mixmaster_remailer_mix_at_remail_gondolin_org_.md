@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gondolin_mixmaster_remailer_mix_at_remail_gondolin_org_
+post_count: 1
 ---
 
-# Gondolin Mixmaster Remailer <mix@remail.gondolin.org> (1 posts)
+# Gondolin Mixmaster Remailer <mix<span>@</span>remail.gondolin.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

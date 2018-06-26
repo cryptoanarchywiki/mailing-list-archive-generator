@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sharadid_at_cbn_net_id_sharadid_at_cbn_net_id_
+post_count: 1
 ---
 
-# "sharadid@cbn.net.id" <sharadid@cbn.net.id> (1 posts)
+# "sharadid<span>@</span>cbn.net.id" <sharadid<span>@</span>cbn.net.id> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

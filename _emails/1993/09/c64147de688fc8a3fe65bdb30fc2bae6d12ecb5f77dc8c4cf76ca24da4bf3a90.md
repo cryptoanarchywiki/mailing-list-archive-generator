@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: karn@qualcomm.com (Phil Karn)<br>
+From: karn<span>@</span>qualcomm.com (Phil Karn)<br>
 To: clark@metal.psu.edu<br>
 Message Hash: c64147de688fc8a3fe65bdb30fc2bae6d12ecb5f77dc8c4cf76ca24da4bf3a90<br>
 Message ID: \<9309080637.AA12050@servo\><br>
@@ -51,6 +51,10 @@ Phil
 ## Thread
 
 + Return to [September 1993](/archive/1993/09)
+
++ Return to "[Clark Reynard <clark<span>@</span>metal.psu.edu>](/author/clark_reynard_clark_at_metal_psu_edu_)"
++ Return to "[karn<span>@</span>qualcomm.com (Phil Karn)](/author/karn_at_qualcomm_com_phil_karn_)"
++ Return to "[pat<span>@</span>tstc.edu (Patrick E. Hykkonen)](/author/pat_at_tstc_edu_patrick_e_hykkonen_)"
 
 + 1993-09-08 (Tue, 7 Sep 93 22:51:51 PDT) - [Super Phones?](/archive/1993/09/6072227bb0d433e1a9a36f9ea656d853dba557f4e88f73463c33fb9e8572b374) - _Clark Reynard \<clark@metal.psu.edu\>_
   + 1993-09-08 (Tue, 7 Sep 93 23:42:47 PDT) - Super Phones? - _karn@qualcomm.com (Phil Karn)_

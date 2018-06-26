@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: three_blind_mice_3bmice_at_nym_alias_net_
+post_count: 9
 ---
 
-# Three Blind Mice <3bmice@nym.alias.net> (9 posts)
+# Three Blind Mice <3bmice<span>@</span>nym.alias.net> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

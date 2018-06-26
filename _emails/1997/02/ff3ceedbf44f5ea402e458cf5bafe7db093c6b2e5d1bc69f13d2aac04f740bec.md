@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. Allen Smith" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. Allen Smith" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ff3ceedbf44f5ea402e458cf5bafe7db093c6b2e5d1bc69f13d2aac04f740bec<br>
 Message ID: \<01IFJFI7LF848Y4YVV@mbcl.rutgers.edu\><br>
@@ -88,6 +88,9 @@ software.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Bryan Reece <reece<span>@</span>taz.nceye.net>](/author/bryan_reece_reece_at_taz_nceye_net_)"
++ Return to "["E. Allen Smith" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1997-02-18 (Mon, 17 Feb 1997 19:57:08 -0800 (PST)) - Re: Anyone have the complete info on CP list alternatives? - _"E. Allen Smith" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
   + 1997-02-18 (Mon, 17 Feb 1997 20:24:04 -0800 (PST)) - [Re: Anyone have the complete info on CP list alternatives?](/archive/1997/02/cbb3d833d1692e81f5500ebe7a9dfe1b7014044f09e38cb413f3883fe9448cc2) - _Bryan Reece \<reece@taz.nceye.net\>_

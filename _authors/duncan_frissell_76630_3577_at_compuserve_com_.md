@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: duncan_frissell_76630_3577_at_compuserve_com_
+post_count: 19
 ---
 
-# Duncan Frissell <76630.3577@CompuServe.COM> (19 posts)
+# Duncan Frissell <76630.3577<span>@</span>CompuServe.COM> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

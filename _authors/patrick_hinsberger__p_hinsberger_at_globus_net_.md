@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_hinsberger__p_hinsberger_at_globus_net_
+post_count: 2
 ---
 
-# "Patrick Hinsberger " <P.Hinsberger@globus.net> (2 posts)
+# "Patrick Hinsberger " <P.Hinsberger<span>@</span>globus.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jerome_thorel_thorel_at_netpress_fr_
+post_count: 2
 ---
 
-# Jerome Thorel <thorel@netpress.fr> (2 posts)
+# Jerome Thorel <thorel<span>@</span>netpress.fr> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

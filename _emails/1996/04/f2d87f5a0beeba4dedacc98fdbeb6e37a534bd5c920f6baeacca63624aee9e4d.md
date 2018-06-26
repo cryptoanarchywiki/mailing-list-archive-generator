@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: JonWienke@aol.com<br>
+From: JonWienke<span>@</span>aol.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: f2d87f5a0beeba4dedacc98fdbeb6e37a534bd5c920f6baeacca63624aee9e4d<br>
 Message ID: \<960418184409_378088479@emout09.mail.aol.com\><br>
@@ -63,6 +63,9 @@ Jonathan Wienke
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[JonWienke<span>@</span>aol.com](/author/jonwienke_at_aol_com)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1996-04-19 (Fri, 19 Apr 1996 14:35:29 +0800) - Re: why compression doesn't perfectly even out entropy - _JonWienke@aol.com_
   + 1996-04-19 (Fri, 19 Apr 1996 13:05:40 +0800) - [Re: why compression doesn't perfectly even out entropy](/archive/1996/04/e445b9bcde7eaebf21d0300b44e649480d03d5d67d491923a8bd30a8c6dea030) - _"Perry E. Metzger" \<perry@piermont.com\>_

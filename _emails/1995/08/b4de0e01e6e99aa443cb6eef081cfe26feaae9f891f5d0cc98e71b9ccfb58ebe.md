@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@panix.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>panix.com\><br>
 To: Matthew James Sheppard \<Matthew.Sheppard@comp.vuw.ac.nz\><br>
 Message Hash: b4de0e01e6e99aa443cb6eef081cfe26feaae9f891f5d0cc98e71b9ccfb58ebe<br>
 Message ID: \<199508021538.LAA08653@panix4.panix.com\><br>
@@ -51,6 +51,9 @@ Perry
 ## Thread
 
 + Return to [August 1995](/archive/1995/08)
+
++ Return to "[Matthew James Sheppard <Matthew.Sheppard<span>@</span>Comp.VUW.AC.NZ>](/author/matthew_james_sheppard_matthew_sheppard_at_comp_vuw_ac_nz_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>panix.com>](/author/perry_e_metzger_perry_at_panix_com_)"
 
 + 1995-08-02 (Tue, 1 Aug 95 19:55:53 PDT) - [Provably Correct Crypto?](/archive/1995/08/622ba3482ae9f8ac0f63986a002f3912d1bc65067701b874c79b051400d1373b) - _Matthew James Sheppard \<Matthew.Sheppard@Comp.VUW.AC.NZ\>_
   + 1995-08-02 (Wed, 2 Aug 95 08:39:00 PDT) - Re: Provably Correct Crypto? - _"Perry E. Metzger" \<perry@panix.com\>_

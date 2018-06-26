@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hsuutala_at_fmdmfg2_intel_com_howard_suutala__icd_
+post_count: 1
 ---
 
-# hsuutala@fmdmfg2.intel.com (Howard Suutala - ICD) (1 posts)
+# hsuutala<span>@</span>fmdmfg2.intel.com (Howard Suutala - ICD) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

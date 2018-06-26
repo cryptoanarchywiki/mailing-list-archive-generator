@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paratama_at_idola_net_id
+post_count: 3
 ---
 
-# paratama@idola.net.id (3 posts)
+# paratama<span>@</span>idola.net.id (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

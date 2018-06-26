@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tim_at_dierks_org_tim_dierks_
+post_count: 3
 ---
 
-# tim@dierks.org (Tim Dierks) (3 posts)
+# tim<span>@</span>dierks.org (Tim Dierks) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

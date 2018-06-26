@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alc_alc_at_trillion_demon_co_uk_
+post_count: 1
 ---
 
-# alc <alc@trillion.demon.co.uk> (1 posts)
+# alc <alc<span>@</span>trillion.demon.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

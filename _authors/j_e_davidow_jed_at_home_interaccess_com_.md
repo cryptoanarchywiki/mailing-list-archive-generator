@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: j_e_davidow_jed_at_home_interaccess_com_
+post_count: 1
 ---
 
-# "J.E. Davidow" <jed@home.interaccess.com> (1 posts)
+# "J.E. Davidow" <jed<span>@</span>home.interaccess.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

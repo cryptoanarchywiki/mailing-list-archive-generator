@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: juola_at_bruno_cs_colorado_edu
+post_count: 9
 ---
 
-# juola@bruno.cs.colorado.edu (9 posts)
+# juola<span>@</span>bruno.cs.colorado.edu (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

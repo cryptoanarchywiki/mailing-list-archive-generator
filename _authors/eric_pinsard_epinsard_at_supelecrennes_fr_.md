@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_pinsard_epinsard_at_supelecrennes_fr_
+post_count: 2
 ---
 
-# "Eric.Pinsard" <epinsard@supelec-rennes.fr> (2 posts)
+# "Eric.Pinsard" <epinsard<span>@</span>supelec-rennes.fr> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

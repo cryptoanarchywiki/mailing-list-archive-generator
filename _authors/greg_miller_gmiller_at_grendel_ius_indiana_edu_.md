@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_miller_gmiller_at_grendel_ius_indiana_edu_
+post_count: 2
 ---
 
-# Greg Miller <gmiller@grendel.ius.indiana.edu> (2 posts)
+# Greg Miller <gmiller<span>@</span>grendel.ius.indiana.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_denny_mad_at_mmcroy_mottmac_com_
+post_count: 2
 ---
 
-# Mark Denny <mad@mm-croy.mottmac.com> (2 posts)
+# Mark Denny <mad<span>@</span>mm-croy.mottmac.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

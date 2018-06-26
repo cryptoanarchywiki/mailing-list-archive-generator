@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: klaus_at_mail_lds_loral_com_christopher_klaus_
+post_count: 2
 ---
 
-# klaus@mail.lds.loral.com (Christopher Klaus) (2 posts)
+# klaus<span>@</span>mail.lds.loral.com (Christopher Klaus) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

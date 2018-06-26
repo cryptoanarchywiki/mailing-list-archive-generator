@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kevin_wang_the_scarecrow_kwang_at_blackbox_punk_net_
+post_count: 1
 ---
 
-# Kevin Wang (The Scarecrow) <kwang@blackbox.punk.net> (1 posts)
+# Kevin Wang (The Scarecrow) <kwang<span>@</span>blackbox.punk.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

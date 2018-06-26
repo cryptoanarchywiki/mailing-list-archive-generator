@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kathleen_ellis_ellis_at_epic_org_
+post_count: 1
 ---
 
-# Kathleen Ellis <ellis@epic.org> (1 posts)
+# Kathleen Ellis <ellis<span>@</span>epic.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

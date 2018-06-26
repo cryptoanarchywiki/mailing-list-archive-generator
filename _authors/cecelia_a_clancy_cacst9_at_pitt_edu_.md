@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cecelia_a_clancy_cacst9_at_pitt_edu_
+post_count: 2
 ---
 
-# Cecelia A Clancy <cacst9+@pitt.edu> (2 posts)
+# Cecelia A Clancy <cacst9+<span>@</span>pitt.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

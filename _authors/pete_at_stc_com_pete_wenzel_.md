@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pete_at_stc_com_pete_wenzel_
+post_count: 1
 ---
 
-# pete@stc.com (Pete Wenzel) (1 posts)
+# pete<span>@</span>stc.com (Pete Wenzel) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

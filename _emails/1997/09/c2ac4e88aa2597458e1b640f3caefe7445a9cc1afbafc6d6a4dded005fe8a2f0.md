@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "snow" \<snow@smoke.suba.com\><br>
+From: "snow" \<snow<span>@</span>smoke.suba.com\><br>
 To: dpj@world.std.com (David Jablon)<br>
 Message Hash: c2ac4e88aa2597458e1b640f3caefe7445a9cc1afbafc6d6a4dded005fe8a2f0<br>
 Message ID: \<199709030109.UAA00549@smoke.suba.com\><br>
@@ -58,6 +58,11 @@ to his lover/wife/mistress/boyfriend about your case.
 
 + Return to [August 1997](/archive/1997/08)
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
++ Return to "[David Jablon <dpj<span>@</span>world.std.com>](/author/david_jablon_dpj_at_world_std_com_)"
++ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/author/james_a_donald_jamesd_at_echeque_com_)"
++ Return to "["snow" <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
 
 + 1997-08-27 (Thu, 28 Aug 1997 01:54:13 +0800) - [Re: Monkey Wrench into the works](/archive/1997/08/0762bdb22c91ca109b45c5aaba384ca540cbf6e928c9a8f279be61ad4de0f30e) - _"James A. Donald" \<jamesd@echeque.com\>_
   + 1997-08-28 (Thu, 28 Aug 1997 13:24:19 +0800) - [Re: Monkey Wrench into the works](/archive/1997/08/570036403c138ae5588cc8d6f2a4f3481d4bb94796d80d32776fe8410520b86b) - _David Jablon \<dpj@world.std.com\>_

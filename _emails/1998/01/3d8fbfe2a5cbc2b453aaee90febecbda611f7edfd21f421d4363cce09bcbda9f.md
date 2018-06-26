@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Tim May \<tcmay@got.net\><br>
+From: Tim May \<tcmay<span>@</span>got.net\><br>
 To: Adam Back \<ravage@ssz.com<br>
 Message Hash: 3d8fbfe2a5cbc2b453aaee90febecbda611f7edfd21f421d4363cce09bcbda9f<br>
 Message ID: \<v03102802b0e20d676575@[207.167.93.63]\><br>
@@ -66,6 +66,10 @@ Higher Power: 2^2,976,221   | black markets, collapse of governments.
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1998-01-12 (Tue, 13 Jan 1998 04:29:28 +0800) - [autonomous agents (fwd)](/archive/1998/01/f78bf009bf0bd72e03b50e6b40bc96e9a067c57874601096b5a1bccd7b30c5b7) - _Jim Choate \<ravage@ssz.com\>_
   + 1998-01-14 (Wed, 14 Jan 1998 08:41:42 +0800) - [plan 9 features (Re: autonomous agents (fwd))](/archive/1998/01/260f3c0eb74249224d108efae9b5b54ece6f90981d8e656f8c2ae255da782ccf) - _Adam Back \<aba@dcs.ex.ac.uk\>_

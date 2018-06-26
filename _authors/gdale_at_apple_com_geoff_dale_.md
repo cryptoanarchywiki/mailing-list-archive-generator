@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gdale_at_apple_com_geoff_dale_
+post_count: 4
 ---
 
-# gdale@apple.com (Geoff Dale) (4 posts)
+# gdale<span>@</span>apple.com (Geoff Dale) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>netcom.com (Timothy C. May)<br>
 To: Extropians@gnu.ai.mit.edu<br>
 Message Hash: aea3af0ffdf57e6d229150bfca3faffdbbb3739774b1d25ee08bcf37c41b2aec<br>
 Message ID: \<9304080431.AA26255@netcom.netcom.com\><br>
@@ -215,6 +215,9 @@ Higher Power: 2^756839 | Public Key: MailSafe and PGP available.
 ## Thread
 
 + Return to [April 1993](/archive/1993/04)
+
++ Return to "[rjc<span>@</span>gnu.ai.mit.edu](/author/rjc_at_gnu_ai_mit_edu)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1993-04-08 (Wed, 7 Apr 93 21:33:22 PDT) - MATH: Zero Knowledge Proofs - _tcmay@netcom.com (Timothy C. May)_
   + 1993-04-08 (Wed, 7 Apr 93 22:59:54 PDT) - [Re: MATH: Zero Knowledge Proofs](/archive/1993/04/7e05f638c6846053c96fe9ae41cf567f2117a2d07cd77b27e96df489ade54062) - _rjc@gnu.ai.mit.edu_

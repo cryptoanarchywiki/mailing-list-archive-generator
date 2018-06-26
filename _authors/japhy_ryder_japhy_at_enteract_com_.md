@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: japhy_ryder_japhy_at_enteract_com_
+post_count: 9
 ---
 
-# Japhy Ryder <japhy@enteract.com> (9 posts)
+# Japhy Ryder <japhy<span>@</span>enteract.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

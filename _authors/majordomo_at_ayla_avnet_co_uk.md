@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: majordomo_at_ayla_avnet_co_uk
+post_count: 1
 ---
 
-# majordomo@ayla.avnet.co.uk (1 posts)
+# majordomo<span>@</span>ayla.avnet.co.uk (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: monica_fisher_mfisher_at_ash_nl_
+post_count: 1
 ---
 
-# Monica Fisher <mfisher@ash.nl> (1 posts)
+# Monica Fisher <mfisher<span>@</span>ash.nl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

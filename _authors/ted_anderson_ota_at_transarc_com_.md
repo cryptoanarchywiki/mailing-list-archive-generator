@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ted_anderson_ota_at_transarc_com_
+post_count: 8
 ---
 
-# Ted Anderson <ota+@transarc.com> (8 posts)
+# Ted Anderson <ota+<span>@</span>transarc.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

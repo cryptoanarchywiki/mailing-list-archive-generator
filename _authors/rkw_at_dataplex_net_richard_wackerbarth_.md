@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rkw_at_dataplex_net_richard_wackerbarth_
+post_count: 3
 ---
 
-# rkw@dataplex.net (Richard Wackerbarth) (3 posts)
+# rkw<span>@</span>dataplex.net (Richard Wackerbarth) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

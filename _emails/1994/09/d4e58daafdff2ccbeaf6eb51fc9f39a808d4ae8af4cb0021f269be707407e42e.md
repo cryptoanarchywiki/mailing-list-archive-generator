@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: vaccinia@med.unc.edu (Scott G. Morham)<br>
+From: vaccinia<span>@</span>med.unc.edu (Scott G. Morham)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d4e58daafdff2ccbeaf6eb51fc9f39a808d4ae8af4cb0021f269be707407e42e<br>
 Message ID: \<9409071958.AA07734@earl.med.unc.edu\><br>
@@ -65,6 +65,8 @@ InA/gnPiVJo=
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[vaccinia<span>@</span>med.unc.edu (Scott G. Morham)](/author/vaccinia_at_med_unc_edu_scott_g_morham_)"
 
 + 1994-09-07 (Wed, 7 Sep 94 12:58:48 PDT) - T-shirts - _vaccinia@med.unc.edu (Scott G. Morham)_
 

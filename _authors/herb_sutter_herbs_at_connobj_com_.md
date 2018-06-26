@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: herb_sutter_herbs_at_connobj_com_
+post_count: 9
 ---
 
-# Herb Sutter <herbs@connobj.com> (9 posts)
+# Herb Sutter <herbs<span>@</span>connobj.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

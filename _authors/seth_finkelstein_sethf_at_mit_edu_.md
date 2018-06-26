@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: seth_finkelstein_sethf_at_mit_edu_
+post_count: 3
 ---
 
-# Seth Finkelstein <sethf@mit.edu> (3 posts)
+# Seth Finkelstein <sethf<span>@</span>mit.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

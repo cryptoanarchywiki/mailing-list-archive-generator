@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vacsc0d4_at_vax_csun_edu
+post_count: 1
 ---
 
-# VACSC0D4@VAX.CSUN.EDU (1 posts)
+# VACSC0D4<span>@</span>VAX.CSUN.EDU (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

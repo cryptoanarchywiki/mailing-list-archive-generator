@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_b_landry_mbl_at_ml7694a_leonard_american_edu_
+post_count: 11
 ---
 
-# Matthew B. Landry <mbl@ml7694a.leonard.american.edu> (11 posts)
+# Matthew B. Landry <mbl<span>@</span>ml7694a.leonard.american.edu> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

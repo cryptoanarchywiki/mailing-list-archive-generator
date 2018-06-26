@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blake_ramsdell_blaker_at_msn_com_
+post_count: 3
 ---
 
-# "Blake Ramsdell" <Blaker@msn.com> (3 posts)
+# "Blake Ramsdell" <Blaker<span>@</span>msn.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

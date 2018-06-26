@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mismatched_nfs_ids_nobody_at_toad_com_
+post_count: 5
 ---
 
-# Mismatched NFS IDs <nobody@toad.com> (5 posts)
+# Mismatched NFS IDs <nobody<span>@</span>toad.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

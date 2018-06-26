@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: a5113643667_at_attpls_net_tom_jones_
+post_count: 10
 ---
 
-# A5113643667@attpls.net (Tom Jones) (10 posts)
+# A5113643667<span>@</span>attpls.net (Tom Jones) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: big_moma_moma_at_nym_alias_net_
+post_count: 1
 ---
 
-# Big Moma <moma@nym.alias.net> (1 posts)
+# Big Moma <moma<span>@</span>nym.alias.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

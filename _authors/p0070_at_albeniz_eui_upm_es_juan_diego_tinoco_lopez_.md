@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: p0070_at_albeniz_eui_upm_es_juan_diego_tinoco_lopez_
+post_count: 1
 ---
 
-# p0070@albeniz.eui.upm.es (Juan Diego Tinoco Lopez) (1 posts)
+# p0070<span>@</span>albeniz.eui.upm.es (Juan Diego Tinoco Lopez) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

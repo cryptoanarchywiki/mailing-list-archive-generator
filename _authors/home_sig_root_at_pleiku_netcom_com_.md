@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: home_sig_root_at_pleiku_netcom_com_
+post_count: 4
 ---
 
-# "$HOME/.sig" <root@pleiku.netcom.com> (4 posts)
+# "$HOME/.sig" <root<span>@</span>pleiku.netcom.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

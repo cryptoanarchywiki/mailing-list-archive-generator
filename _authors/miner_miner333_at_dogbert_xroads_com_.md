@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: miner_miner333_at_dogbert_xroads_com_
+post_count: 8
 ---
 
-# miner <miner333@dogbert.xroads.com> (8 posts)
+# miner <miner333<span>@</span>dogbert.xroads.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

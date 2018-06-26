@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr. Dimitri Vulis)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr. Dimitri Vulis)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: da757ebbb1ece0c6d3fba04f648ebbf1afe3755b54bc0dfb01a6f57ab57f5031<br>
 Message ID: \<g0myeD2w165w@bwalk.dm.com\><br>
@@ -155,6 +155,10 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/author/anonymousremailer_at_shell_portal_com)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr. Dimitri Vulis)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_)"
++ Return to "[hallam<span>@</span>w3.org](/author/hallam_at_w3_org)"
 
 + 1995-11-21 (Tue, 21 Nov 1995 15:58:31 +0800) - [Re: Java & Netscape security [NOISE]](/archive/1995/11/22329fef1206f04f3355c638402942c7f82d6b9b82bac659a7236975fd9530c8) - _anonymous-remailer@shell.portal.com_
   + 1995-11-22 (Wed, 22 Nov 1995 13:23:12 +0800) - [Re: Java & Netscape security [NOISE]](/archive/1995/11/629cc9079779007a4b4eb9e2ca84aa1764c9bb06580bbf5352404716c32a2bb6) - _dlv@bwalk.dm.com (Dr. Dimitri Vulis)_

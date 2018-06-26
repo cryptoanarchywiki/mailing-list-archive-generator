@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: casper_dik_at_holland_sun_com_casper_dik__ens_network_security__network_security_engineer_
+post_count: 1
 ---
 
-# Casper.Dik@Holland.Sun.COM (Casper Dik - ENS Network Security - Network Security Engineer) (1 posts)
+# Casper.Dik<span>@</span>Holland.Sun.COM (Casper Dik - ENS Network Security - Network Security Engineer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

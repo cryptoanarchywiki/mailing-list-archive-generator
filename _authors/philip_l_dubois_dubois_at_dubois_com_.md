@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: philip_l_dubois_dubois_at_dubois_com_
+post_count: 3
 ---
 
-# "Philip L. Dubois" <dubois@dubois.com> (3 posts)
+# "Philip L. Dubois" <dubois<span>@</span>dubois.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

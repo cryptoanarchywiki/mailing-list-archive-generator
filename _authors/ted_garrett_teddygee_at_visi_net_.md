@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ted_garrett_teddygee_at_visi_net_
+post_count: 18
 ---
 
-# Ted Garrett <teddygee@visi.net> (18 posts)
+# Ted Garrett <teddygee<span>@</span>visi.net> (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

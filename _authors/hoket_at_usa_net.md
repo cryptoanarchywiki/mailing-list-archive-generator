@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hoket_at_usa_net
+post_count: 1
 ---
 
-# hoket@usa.net (1 posts)
+# hoket<span>@</span>usa.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

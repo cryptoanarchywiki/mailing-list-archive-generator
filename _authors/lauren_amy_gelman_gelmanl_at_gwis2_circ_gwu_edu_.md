@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lauren_amy_gelman_gelmanl_at_gwis2_circ_gwu_edu_
+post_count: 4
 ---
 
-# Lauren Amy Gelman <gelmanl@gwis2.circ.gwu.edu> (4 posts)
+# Lauren Amy Gelman <gelmanl<span>@</span>gwis2.circ.gwu.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

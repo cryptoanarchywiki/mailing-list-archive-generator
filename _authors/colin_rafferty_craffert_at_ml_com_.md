@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: colin_rafferty_craffert_at_ml_com_
+post_count: 14
 ---
 
-# Colin Rafferty <craffert@ml.com> (14 posts)
+# Colin Rafferty <craffert<span>@</span>ml.com> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

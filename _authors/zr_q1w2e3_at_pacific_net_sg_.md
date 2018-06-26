@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zr_q1w2e3_at_pacific_net_sg_
+post_count: 2
 ---
 
-# z�R� <q1w2e3@pacific.net.sg> (2 posts)
+# z�R� <q1w2e3<span>@</span>pacific.net.sg> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

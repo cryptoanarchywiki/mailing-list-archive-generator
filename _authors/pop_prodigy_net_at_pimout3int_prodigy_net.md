@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pop_prodigy_net_at_pimout3int_prodigy_net
+post_count: 1
 ---
 
-# pop.prodigy.net@pimout3-int.prodigy.net (1 posts)
+# pop.prodigy.net<span>@</span>pimout3-int.prodigy.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

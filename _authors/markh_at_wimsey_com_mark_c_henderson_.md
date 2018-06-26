@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: markh_at_wimsey_com_mark_c_henderson_
+post_count: 3
 ---
 
-# markh@wimsey.com (Mark C. Henderson) (3 posts)
+# markh<span>@</span>wimsey.com (Mark C. Henderson) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

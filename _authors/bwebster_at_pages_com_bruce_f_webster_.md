@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bwebster_at_pages_com_bruce_f_webster_
+post_count: 2
 ---
 
-# bwebster@pages.com (Bruce F. Webster) (2 posts)
+# bwebster<span>@</span>pages.com (Bruce F. Webster) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

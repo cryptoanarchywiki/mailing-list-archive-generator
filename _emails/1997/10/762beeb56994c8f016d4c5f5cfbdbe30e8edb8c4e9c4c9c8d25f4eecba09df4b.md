@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: TruthMonger \<tm@dev.null\><br>
+From: TruthMonger \<tm<span>@</span>dev.null\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 762beeb56994c8f016d4c5f5cfbdbe30e8edb8c4e9c4c9c8d25f4eecba09df4b<br>
 Message ID: \<344259FD.4E65@dev.null\><br>
@@ -279,6 +279,8 @@ hundred years previously, when he reads, on the back of the plaque:
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[TruthMonger <tm<span>@</span>dev.null>](/author/truthmonger_tm_at_dev_null_)"
 
 + 1997-10-13 (Tue, 14 Oct 1997 01:40:49 +0800) - InfoWar Epilogue 2 / TEXT - _TruthMonger \<tm@dev.null\>_
 

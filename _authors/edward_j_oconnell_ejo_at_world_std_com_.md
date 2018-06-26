@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edward_j_oconnell_ejo_at_world_std_com_
+post_count: 6
 ---
 
-# Edward J OConnell <ejo@world.std.com> (6 posts)
+# Edward J OConnell <ejo<span>@</span>world.std.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

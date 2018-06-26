@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_hilsenbeck_ahilsenb_at_cln_etc_bc_ca_
+post_count: 1
 ---
 
-# Alex Hilsenbeck <ahilsenb@cln.etc.bc.ca> (1 posts)
+# Alex Hilsenbeck <ahilsenb<span>@</span>cln.etc.bc.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

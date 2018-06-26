@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: costin_raiu_craiu_at_pcnet_pcnet_ro_
+post_count: 1
 ---
 
-# Costin RAIU <craiu@pcnet.pcnet.ro> (1 posts)
+# Costin RAIU <craiu<span>@</span>pcnet.pcnet.ro> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

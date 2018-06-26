@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: highjock@yahoo.com<br>
+From: highjock<span>@</span>yahoo.com<br>
 To: ping@spittle.com.uk<br>
 Message Hash: 30afcf1fbb2c3330018cf2f0485ed9f71caab305edefb3da7a6dcb50b7b95d0a<br>
 Message ID: \<32964511117523654785.0022@spittle.com.uk\><br>
@@ -92,6 +92,8 @@ But if you'd like, hit reply and put "remove me" on the subject line.
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[highjock<span>@</span>yahoo.com](/author/highjock_at_yahoo_com)"
 
 + 1997-12-16 (Mon, 15 Dec 1997 20:09:09 -0800 (PST)) - SHY?..................................... - _highjock@yahoo.com_
 

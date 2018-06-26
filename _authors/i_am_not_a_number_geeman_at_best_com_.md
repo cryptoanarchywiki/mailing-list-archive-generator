@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: i_am_not_a_number_geeman_at_best_com_
+post_count: 2
 ---
 
-# "i am not a number!" <geeman@best.com> (2 posts)
+# "i am not a number!" <geeman<span>@</span>best.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

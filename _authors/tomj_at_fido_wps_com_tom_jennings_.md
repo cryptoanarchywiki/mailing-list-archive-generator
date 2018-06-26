@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tomj_at_fido_wps_com_tom_jennings_
+post_count: 1
 ---
 
-# tomj@fido.wps.com (Tom Jennings) (1 posts)
+# tomj<span>@</span>fido.wps.com (Tom Jennings) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

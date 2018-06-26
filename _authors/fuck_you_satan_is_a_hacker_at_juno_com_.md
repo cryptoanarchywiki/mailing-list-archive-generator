@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fuck_you_satan_is_a_hacker_at_juno_com_
+post_count: 2
 ---
 
-# fuck you <satan_is_a_hacker@juno.com> (2 posts)
+# fuck you <satan_is_a_hacker<span>@</span>juno.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

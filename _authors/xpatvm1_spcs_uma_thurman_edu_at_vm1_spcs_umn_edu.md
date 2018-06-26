@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: xpatvm1_spcs_uma_thurman_edu_at_vm1_spcs_umn_edu
+post_count: 1
 ---
 
-# xpat%vm1.spcs.uma.thurman.edu@vm1.spcs.umn.edu (1 posts)
+# xpat%vm1.spcs.uma.thurman.edu<span>@</span>vm1.spcs.umn.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

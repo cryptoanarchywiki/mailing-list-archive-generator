@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_branch_michael_branch_at_central_sun_com_
+post_count: 1
 ---
 
-# Michael Branch <Michael.Branch@Central.Sun.COM> (1 posts)
+# Michael Branch <Michael.Branch<span>@</span>Central.Sun.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

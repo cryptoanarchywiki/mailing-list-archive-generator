@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_minow_minow_at_apple_com_
+post_count: 86
 ---
 
-# Martin Minow <minow@apple.com> (86 posts)
+# Martin Minow <minow<span>@</span>apple.com> (86 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

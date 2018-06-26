@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jill014_at_aol_com
+post_count: 4
 ---
 
-# Jill014@aol.com (4 posts)
+# Jill014<span>@</span>aol.com (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

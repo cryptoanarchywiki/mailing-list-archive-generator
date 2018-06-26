@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>netcom.com (Timothy C. May)<br>
 To: bdolan@well.sf.ca.us (Brad Dolan)<br>
 Message Hash: 5edb7eecb8ceda14ffd8a96fd6dde822a4d9c4fe495c8dffef50bf55a6de387a<br>
 Message ID: \<199409011818.LAA09850@netcom13.netcom.com\><br>
@@ -88,6 +88,9 @@ Higher Power: 2^859433 | Public Key: PGP and MailSafe available.
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[Brad Dolan <bdolan<span>@</span>well.sf.ca.us>](/author/brad_dolan_bdolan_at_well_sf_ca_us_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-09-01 (Thu, 1 Sep 94 06:31:10 PDT) - [Art Gallery on internet needs PGP signatures](/archive/1994/09/d9726c9324da9ceba767a670b4c5bbb4bf8c1cc1598358a7f83cd0bb9f859dda) - _Brad Dolan \<bdolan@well.sf.ca.us\>_
   + 1994-09-01 (Thu, 1 Sep 94 11:18:45 PDT) - Re: Art Gallery on internet needs PGP signatures - _tcmay@netcom.com (Timothy C. May)_

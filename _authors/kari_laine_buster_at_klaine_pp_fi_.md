@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kari_laine_buster_at_klaine_pp_fi_
+post_count: 10
 ---
 
-# Kari Laine <buster@klaine.pp.fi> (10 posts)
+# Kari Laine <buster<span>@</span>klaine.pp.fi> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

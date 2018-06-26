@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jennifer_mansfieldjones_strix_at_rust_net_
+post_count: 4
 ---
 
-# Jennifer Mansfield-Jones <strix@rust.net> (4 posts)
+# Jennifer Mansfield-Jones <strix<span>@</span>rust.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

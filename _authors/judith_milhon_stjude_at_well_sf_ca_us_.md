@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: judith_milhon_stjude_at_well_sf_ca_us_
+post_count: 11
 ---
 
-# Judith Milhon <stjude@well.sf.ca.us> (11 posts)
+# Judith Milhon <stjude<span>@</span>well.sf.ca.us> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

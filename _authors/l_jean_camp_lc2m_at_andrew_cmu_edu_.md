@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: l_jean_camp_lc2m_at_andrew_cmu_edu_
+post_count: 2
 ---
 
-# L Jean Camp <lc2m+@andrew.cmu.edu> (2 posts)
+# L Jean Camp <lc2m+<span>@</span>andrew.cmu.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

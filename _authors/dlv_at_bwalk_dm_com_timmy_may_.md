@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dlv_at_bwalk_dm_com_timmy_may_
+post_count: 1
 ---
 
-# dlv@bwalk.dm.com (Timmy May) (1 posts)
+# dlv<span>@</span>bwalk.dm.com (Timmy May) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

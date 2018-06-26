@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_potocki_potock_at_cig_mot_com_
+post_count: 1
 ---
 
-# Richard Potocki <potock@cig.mot.com> (1 posts)
+# Richard Potocki <potock<span>@</span>cig.mot.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

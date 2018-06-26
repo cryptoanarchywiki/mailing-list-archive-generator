@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_hughes_hugh0015_at_algonquinc_on_ca_
+post_count: 1
 ---
 
-# ERIC HUGHES <hugh0015@algonquinc.on.ca> (1 posts)
+# ERIC HUGHES <hugh0015<span>@</span>algonquinc.on.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

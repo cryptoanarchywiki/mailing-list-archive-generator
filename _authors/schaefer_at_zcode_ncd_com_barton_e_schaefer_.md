@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: schaefer_at_zcode_ncd_com_barton_e_schaefer_
+post_count: 1
 ---
 
-# schaefer@z-code.ncd.com (Barton E. Schaefer) (1 posts)
+# schaefer<span>@</span>z-code.ncd.com (Barton E. Schaefer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christine_at_1stnettech_com
+post_count: 1
 ---
 
-# christine@1stnettech.com (1 posts)
+# christine<span>@</span>1stnettech.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

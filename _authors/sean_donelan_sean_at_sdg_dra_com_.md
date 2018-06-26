@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sean_donelan_sean_at_sdg_dra_com_
+post_count: 2
 ---
 
-# Sean Donelan <SEAN@SDG.DRA.COM> (2 posts)
+# Sean Donelan <SEAN<span>@</span>SDG.DRA.COM> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

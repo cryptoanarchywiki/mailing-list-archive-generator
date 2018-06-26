@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stuffed_thu_oct_15_stuffed_at_stuffed_net_
+post_count: 1
 ---
 
-# STUFFED THU OCT 15 <stuffed@stuffed.net> (1 posts)
+# STUFFED THU OCT 15 <stuffed<span>@</span>stuffed.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bryce_at_digicash_com
+post_count: 70
 ---
 
-# bryce@digicash.com (70 posts)
+# bryce<span>@</span>digicash.com (70 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

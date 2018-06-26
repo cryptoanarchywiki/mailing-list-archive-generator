@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: max_muzi_at_altair_it_max_muzi_
+post_count: 1
 ---
 
-# max.muzi@altair.it (Max Muzi) (1 posts)
+# max.muzi<span>@</span>altair.it (Max Muzi) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: don_at_wero_cs_byu_edu_don_
+post_count: 1
 ---
 
-# don@wero.cs.byu.edu (Don) (1 posts)
+# don<span>@</span>wero.cs.byu.edu (Don) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_sabiz1_at_jedi_juno_com
+post_count: 1
 ---
 
-# john.sabiz1@JEDI.juno.com (1 posts)
+# john.sabiz1<span>@</span>JEDI.juno.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

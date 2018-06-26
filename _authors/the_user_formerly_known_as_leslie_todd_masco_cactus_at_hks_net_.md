@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_user_formerly_known_as_leslie_todd_masco_cactus_at_hks_net_
+post_count: 2
 ---
 
-# The user formerly known as Leslie Todd Masco <cactus@hks.net> (2 posts)
+# The user formerly known as Leslie Todd Masco <cactus<span>@</span>hks.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: karn@qualcomm.com (Phil Karn)<br>
+From: karn<span>@</span>qualcomm.com (Phil Karn)<br>
 To: Eric Hughes \<cypherpunks@toad.com<br>
 Message Hash: ae0e00487c4dc5720e3974ee4bc25edabee8f70474a9efeee398cbcbc0fadbc3<br>
 Message ID: \<9304222221.AA01876@servo\><br>
@@ -61,6 +61,8 @@ Phil
 ## Thread
 
 + Return to [April 1993](/archive/1993/04)
+
++ Return to "[karn<span>@</span>qualcomm.com (Phil Karn)](/author/karn_at_qualcomm_com_phil_karn_)"
 
 + 1993-04-22 (Thu, 22 Apr 93 15:21:48 PDT) - Re: CLIP: Legal Aspects - _karn@qualcomm.com (Phil Karn)_
 

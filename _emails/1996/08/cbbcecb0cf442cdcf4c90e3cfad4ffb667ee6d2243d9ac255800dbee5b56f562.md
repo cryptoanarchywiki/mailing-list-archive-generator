@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Jean-Francois Avon" \<jf_avon@citenet.net\><br>
+From: "Jean-Francois Avon" \<jf_avon<span>@</span>citenet.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: cbbcecb0cf442cdcf4c90e3cfad4ffb667ee6d2243d9ac255800dbee5b56f562<br>
 Message ID: \<9608302225.AA22270@cti02.citenet.net\><br>
@@ -70,6 +70,8 @@ jfa
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "["Jean-Francois Avon" <jf_avon<span>@</span>citenet.net>](/author/jeanfrancois_avon_jf_avon_at_citenet_net_)"
 
 + 1996-08-31 (Sat, 31 Aug 1996 08:24:52 +0800) - Re: **"OuR" Project press release** (fwd) - _"Jean-Francois Avon" \<jf_avon@citenet.net\>_
 

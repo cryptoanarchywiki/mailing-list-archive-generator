@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_k_merriman__webmaster_at_cygnus_com_shellback_com_merriman_at_amaonline_com_
+post_count: 2
 ---
 
-# David.K.Merriman.-.webmaster@cygnus.com,       "shellback.com" <merriman@amaonline.com> (2 posts)
+# David.K.Merriman.-.webmaster<span>@</span>cygnus.com,       "shellback.com" <merriman<span>@</span>amaonline.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

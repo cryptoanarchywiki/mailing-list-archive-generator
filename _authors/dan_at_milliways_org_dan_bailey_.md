@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_at_milliways_org_dan_bailey_
+post_count: 21
 ---
 
-# dan@milliways.org (Dan Bailey) (21 posts)
+# dan<span>@</span>milliways.org (Dan Bailey) (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

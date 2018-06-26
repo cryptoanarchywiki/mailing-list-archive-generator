@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martinus_luther_martinusl_at_hotmail_com_
+post_count: 3
 ---
 
-# "Martinus Luther" <martinusl@hotmail.com> (3 posts)
+# "Martinus Luther" <martinusl<span>@</span>hotmail.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

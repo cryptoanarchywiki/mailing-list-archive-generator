@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fjd8_at_giulietta_logikos_it
+post_count: 1
 ---
 
-# fjd8@giulietta.logikos.it (1 posts)
+# fjd8<span>@</span>giulietta.logikos.it (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

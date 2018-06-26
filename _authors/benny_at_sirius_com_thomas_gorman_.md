@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: benny_at_sirius_com_thomas_gorman_
+post_count: 1
 ---
 
-# benny@SIRIUS.COM (Thomas Gorman) (1 posts)
+# benny<span>@</span>SIRIUS.COM (Thomas Gorman) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

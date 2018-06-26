@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_alexander_jaalexan_at_netca_com_
+post_count: 1
 ---
 
-# Jim Alexander <jaalexan@netca.com> (1 posts)
+# Jim Alexander <jaalexan<span>@</span>netca.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

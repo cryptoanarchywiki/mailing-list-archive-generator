@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. ALLEN SMITH" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: hfinney@shell.portal.com<br>
 Message Hash: 9c8cb11e31ebdb177b1a27ab9e3bc3c7e51d5d65f1efcafaadb650cc4c2d111a<br>
 Message ID: \<01I3IFBN6U2G8Y51D0@mbcl.rutgers.edu\><br>
@@ -53,6 +53,8 @@ information from the signals themselves, things get even easier.
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-04-14 (Sun, 14 Apr 1996 14:34:51 +0800) - Re: No matter where you go, there they are. - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

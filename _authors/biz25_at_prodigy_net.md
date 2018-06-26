@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: biz25_at_prodigy_net
+post_count: 3
 ---
 
-# biz25@prodigy.net (3 posts)
+# biz25<span>@</span>prodigy.net (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

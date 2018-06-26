@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nick_papadakis_nick_at_martigny_ai_mit_edu_
+post_count: 2
 ---
 
-# Nick Papadakis <nick@martigny.ai.mit.edu> (2 posts)
+# Nick Papadakis <nick<span>@</span>martigny.ai.mit.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

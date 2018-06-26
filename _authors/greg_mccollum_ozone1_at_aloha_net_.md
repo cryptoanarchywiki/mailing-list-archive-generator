@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_mccollum_ozone1_at_aloha_net_
+post_count: 1
 ---
 
-# Greg McCollum <ozone1@aloha.net> (1 posts)
+# Greg McCollum <ozone1<span>@</span>aloha.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

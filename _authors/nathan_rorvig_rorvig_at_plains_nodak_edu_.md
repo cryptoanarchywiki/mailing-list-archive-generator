@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nathan_rorvig_rorvig_at_plains_nodak_edu_
+post_count: 1
 ---
 
-# Nathan Rorvig <rorvig@plains.NoDak.edu> (1 posts)
+# Nathan Rorvig <rorvig<span>@</span>plains.NoDak.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

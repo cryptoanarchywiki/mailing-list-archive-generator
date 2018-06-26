@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: philip_nathan_philipn_at_pgp_com_
+post_count: 1
 ---
 
-# Philip Nathan <philipn@pgp.com> (1 posts)
+# Philip Nathan <philipn<span>@</span>pgp.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ray_arachelian_ray_at_earthweb_com_
+post_count: 4
 ---
 
-# Ray Arachelian <ray@earthweb.com> (4 posts)
+# Ray Arachelian <ray<span>@</span>earthweb.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

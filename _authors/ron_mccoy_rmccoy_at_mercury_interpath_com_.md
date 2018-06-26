@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ron_mccoy_rmccoy_at_mercury_interpath_com_
+post_count: 2
 ---
 
-# Ron McCoy <rmccoy@mercury.interpath.com> (2 posts)
+# Ron McCoy <rmccoy<span>@</span>mercury.interpath.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

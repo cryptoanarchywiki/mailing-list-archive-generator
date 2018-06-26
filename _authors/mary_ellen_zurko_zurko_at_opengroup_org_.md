@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mary_ellen_zurko_zurko_at_opengroup_org_
+post_count: 1
 ---
 
-# Mary Ellen Zurko <zurko@opengroup.org> (1 posts)
+# Mary Ellen Zurko <zurko<span>@</span>opengroup.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bobandersondlu_dnet_at_net_vanderbilt_edu_bob__geekey_student_worker_
+post_count: 1
 ---
 
-# bobanderson%dlu.dnet@net.Vanderbilt.Edu (boB -- Geekey Student Worker) (1 posts)
+# bobanderson%dlu.dnet<span>@</span>net.Vanderbilt.Edu (boB -- Geekey Student Worker) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

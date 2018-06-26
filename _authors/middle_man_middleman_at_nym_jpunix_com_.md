@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: middle_man_middleman_at_nym_jpunix_com_
+post_count: 1
 ---
 
-# Middle Man <middle-man@nym.jpunix.com> (1 posts)
+# Middle Man <middle-man<span>@</span>nym.jpunix.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

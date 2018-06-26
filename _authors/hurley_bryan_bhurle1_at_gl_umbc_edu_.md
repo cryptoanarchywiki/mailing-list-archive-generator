@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hurley_bryan_bhurle1_at_gl_umbc_edu_
+post_count: 1
 ---
 
-# hurley bryan <bhurle1@gl.umbc.edu> (1 posts)
+# hurley bryan <bhurle1<span>@</span>gl.umbc.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

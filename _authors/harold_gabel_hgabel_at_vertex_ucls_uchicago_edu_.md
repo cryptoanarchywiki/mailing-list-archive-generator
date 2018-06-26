@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: harold_gabel_hgabel_at_vertex_ucls_uchicago_edu_
+post_count: 1
 ---
 
-# Harold Gabel <hgabel@vertex.ucls.uchicago.edu> (1 posts)
+# Harold Gabel <hgabel<span>@</span>vertex.ucls.uchicago.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_ang_mang_at_lisgar_edu_on_ca_
+post_count: 2
 ---
 
-# Mike Ang <mang@lisgar.edu.on.ca> (2 posts)
+# Mike Ang <mang<span>@</span>lisgar.edu.on.ca> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mvario_at_inode_com_michael_vari_
+post_count: 1
 ---
 
-# mvario@inode.com (MICHAEL VARI) (1 posts)
+# mvario<span>@</span>inode.com (MICHAEL VARI) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

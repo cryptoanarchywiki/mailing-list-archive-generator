@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: maloned_at_ul_ie_declan_malone_
+post_count: 1
 ---
 
-# maloned@ul.ie (Declan Malone) (1 posts)
+# maloned<span>@</span>ul.ie (Declan Malone) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

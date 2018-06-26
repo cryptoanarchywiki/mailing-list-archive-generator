@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nurdane_oksas_oksas_at_asimov_montclair_edu_
+post_count: 40
 ---
 
-# Nurdane Oksas <oksas@asimov.montclair.edu> (40 posts)
+# Nurdane Oksas <oksas<span>@</span>asimov.montclair.edu> (40 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

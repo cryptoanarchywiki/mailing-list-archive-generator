@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: harry_hochheiser_harry_at_tigger_jvnc_net_
+post_count: 2
 ---
 
-# "Harry Hochheiser" <harry@tigger.jvnc.net> (2 posts)
+# "Harry Hochheiser" <harry<span>@</span>tigger.jvnc.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

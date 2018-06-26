@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_davidson_abd_at_cdt_org_
+post_count: 6
 ---
 
-# Alan Davidson <abd@CDT.ORG> (6 posts)
+# Alan Davidson <abd<span>@</span>CDT.ORG> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

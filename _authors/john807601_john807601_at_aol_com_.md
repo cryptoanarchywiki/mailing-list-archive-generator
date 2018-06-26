@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john807601_john807601_at_aol_com_
+post_count: 1
 ---
 
-# John807601 <John807601@aol.com> (1 posts)
+# John807601 <John807601<span>@</span>aol.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: daw@quito.CS.Berkeley.EDU (David A Wagner)<br>
+From: daw<span>@</span>quito.CS.Berkeley.EDU (David A Wagner)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7aeca90f8dfc70ebb086e8eebd5d165bb3bc362bffcc90d6a9003b8c7d13dc0f<br>
 Message ID: \<199510290023.UAA12614@book.hks.net\><br>
@@ -67,6 +67,8 @@ B71KIQDP75TMiF1rgvorSWQsNZjzjhbm
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[daw<span>@</span>quito.CS.Berkeley.EDU (David A Wagner)](/author/daw_at_quito_cs_berkeley_edu_david_a_wagner_)"
 
 + 1995-10-29 (Sun, 29 Oct 1995 08:36:02 +0800) - Re: MD4-derived hash functions - _daw@quito.CS.Berkeley.EDU (David A Wagner)_
 

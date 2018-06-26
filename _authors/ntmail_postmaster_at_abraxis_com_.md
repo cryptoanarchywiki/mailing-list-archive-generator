@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ntmail_postmaster_at_abraxis_com_
+post_count: 106
 ---
 
-# NTMail <postmaster@abraxis.com> (106 posts)
+# NTMail <postmaster<span>@</span>abraxis.com> (106 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frederic_miserey_frederic_at_none_net_
+post_count: 1
 ---
 
-# "Frederic Miserey" <frederic@none.net> (1 posts)
+# "Frederic Miserey" <frederic<span>@</span>none.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: Brad Dolan \<tcmay@got.net\><br>
 Message Hash: 9ed9ab27f657c82a25d9a90df40a9dd310abf504c424eccfbfcfbaad2f5a8bc5<br>
 Message ID: \<199608141511.IAA27228@mail.pacifier.com\><br>
@@ -71,6 +71,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-08-14 (Thu, 15 Aug 1996 02:38:59 +0800) - Re: Capital and Taxes - _jim bell \<jimbell@pacifier.com\>_
 

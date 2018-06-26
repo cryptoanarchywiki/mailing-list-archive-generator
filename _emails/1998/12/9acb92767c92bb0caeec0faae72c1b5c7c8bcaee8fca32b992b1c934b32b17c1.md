@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Olsen \<alan@clueserver.org\><br>
+From: Alan Olsen \<alan<span>@</span>clueserver.org\><br>
 To: mikeg@soonernet.com<br>
 Message Hash: 9acb92767c92bb0caeec0faae72c1b5c7c8bcaee8fca32b992b1c934b32b17c1<br>
 Message ID: \<3.0.5.32.19981211211036.03ec7dd0@clueserver.org\><br>
@@ -74,6 +74,12 @@ devices/block/loop_gen.c that prevents it from compiling on the patch for
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[Alan Olsen <alan<span>@</span>clueserver.org>](/author/alan_olsen_alan_at_clueserver_org_)"
++ Return to "[Alexander Kjeldaas <astor<span>@</span>guardian.no>](/author/alexander_kjeldaas_astor_at_guardian_no_)"
++ Return to "[ichudov<span>@</span>Algebra.COM (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[joel boutros <jdb<span>@</span>layer8.net>](/author/joel_boutros_jdb_at_layer8_net_)"
++ Return to "[Mike Gorsuch <mikeg<span>@</span>soonernet.com>](/author/mike_gorsuch_mikeg_at_soonernet_com_)"
 
 + 1998-12-11 (Sat, 12 Dec 1998 04:00:47 +0800) - [Linux Encrypted File Sytem](/archive/1998/12/a86f0ec8c4bd3586db7e0bc95f0a093a2adfc71a6f9962bda17e7ea56bfc46c2) - _Mike Gorsuch \<mikeg@soonernet.com\>_
   + 1998-12-11 (Sat, 12 Dec 1998 05:00:10 +0800) - [Re: Linux Encrypted File Sytem](/archive/1998/12/afeb0703cae36cfb40ceea30a7ae4b528adb52bf613742681de4d869c06f847b) - _ichudov@Algebra.COM (Igor Chudov @ home)_

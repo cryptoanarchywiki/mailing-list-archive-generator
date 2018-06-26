@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: otfipl_at_udme_eoqni_nirl_com
+post_count: 1
 ---
 
-# otfipl@udme.eoqni.nirl.com (1 posts)
+# otfipl<span>@</span>udme.eoqni.nirl.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

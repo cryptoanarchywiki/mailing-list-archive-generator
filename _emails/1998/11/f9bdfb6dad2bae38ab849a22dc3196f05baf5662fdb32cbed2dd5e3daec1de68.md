@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Tim May \<tcmay@got.net\><br>
+From: Tim May \<tcmay<span>@</span>got.net\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: f9bdfb6dad2bae38ab849a22dc3196f05baf5662fdb32cbed2dd5e3daec1de68<br>
 Message ID: \<v03130306b27a0627ea24@[209.66.101.232]\><br>
@@ -140,6 +140,12 @@ Licensed Ontologist         | black markets, collapse of governments.
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[Jim Gillogly <jim<span>@</span>acm.org>](/author/jim_gillogly_jim_at_acm_org_)"
++ Return to "[Petro <petro<span>@</span>www.playboy.com>](/author/petro_petro_at_www_playboy_com_)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "[Steve Schear <schear<span>@</span>lvcm.com>](/author/steve_schear_schear_at_lvcm_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1998-11-19 (Fri, 20 Nov 1998 00:05:14 +0800) - [Piracy and cypherpunks](/archive/1998/11/70b02b27c7d7113363103cfa182a7d29785bafeebb75fcd6d3e036bd4796a2ec) - _Jim Gillogly \<jim@acm.org\>_
   + 1998-11-19 (Fri, 20 Nov 1998 02:39:44 +0800) - Re: Piracy and cypherpunks - _Tim May \<tcmay@got.net\>_

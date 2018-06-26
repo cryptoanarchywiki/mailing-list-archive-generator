@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: philip_trauring_philip_at_cs_brandeis_edu_
+post_count: 2
 ---
 
-# Philip Trauring <philip@cs.brandeis.edu> (2 posts)
+# Philip Trauring <philip<span>@</span>cs.brandeis.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

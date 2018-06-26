@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: geek_at_algebra_com_computer_geek_
+post_count: 1
 ---
 
-# geek@algebra.com (Computer Geek) (1 posts)
+# geek<span>@</span>algebra.com (Computer Geek) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

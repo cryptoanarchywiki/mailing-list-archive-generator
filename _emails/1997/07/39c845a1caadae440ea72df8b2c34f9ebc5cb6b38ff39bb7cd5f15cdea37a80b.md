@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Declan McCullagh \<declan@well.com\><br>
+From: Declan McCullagh \<declan<span>@</span>well.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 39c845a1caadae440ea72df8b2c34f9ebc5cb6b38ff39bb7cd5f15cdea37a80b<br>
 Message ID: \<Pine.GSO.3.95.970721192957.21952B-100000@well.com\><br>
@@ -99,6 +99,14 @@ On Mon, 21 Jul 1997, James S. Tyre wrote:
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Jeff Barber <jeffb<span>@</span>issl.atl.hp.com>](/author/jeff_barber_jeffb_at_issl_atl_hp_com_)"
++ Return to "[Mismatched NFS IDs <nobody<span>@</span>toad.com>](/author/mismatched_nfs_ids_nobody_at_toad_com_)"
++ Return to "[Nobody <nobody<span>@</span>rigel.cyberpass.net>](/author/nobody_nobody_at_rigel_cyberpass_net_)"
++ Return to "[nospam-seesignature<span>@</span>ceddec.com](/author/nospamseesignature_at_ceddec_com)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1997-07-22 (Tue, 22 Jul 1997 10:52:06 +0800) - Fight-each-other - _Declan McCullagh \<declan@well.com\>_
   + 1997-07-22 (Tue, 22 Jul 1997 12:15:50 +0800) - [Re: Fight-each-other](/archive/1997/07/7ee02c2091020cdfeb787d048ae0bf7afcb56ea834d1ccc4e5c0943fbfafd3c0) - _Tim May \<tcmay@got.net\>_

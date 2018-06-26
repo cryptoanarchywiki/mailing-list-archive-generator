@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: luke_farar_lfarrar_at_chsch_demon_co_uk_
+post_count: 1
 ---
 
-# Luke Farar <lfarrar@chsch.demon.co.uk> (1 posts)
+# Luke Farar <lfarrar<span>@</span>chsch.demon.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: inform_at_what2read_com_information_what2read_
+post_count: 1
 ---
 
-# inform@what2read.com (Information What2Read) (1 posts)
+# inform<span>@</span>what2read.com (Information What2Read) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

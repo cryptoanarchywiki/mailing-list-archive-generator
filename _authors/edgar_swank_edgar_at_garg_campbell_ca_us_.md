@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edgar_swank_edgar_at_garg_campbell_ca_us_
+post_count: 11
 ---
 
-# Edgar Swank <edgar@Garg.Campbell.CA.US> (11 posts)
+# Edgar Swank <edgar<span>@</span>Garg.Campbell.CA.US> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

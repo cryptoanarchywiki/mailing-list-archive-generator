@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stefen_at_thor_he_net
+post_count: 1
 ---
 
-# stefen@thor.he.net (1 posts)
+# stefen<span>@</span>thor.he.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrade_at_netcom_com_andrade_software_andrade_networking_
+post_count: 1
 ---
 
-# andrade@netcom.com (Andrade Software Andrade Networking) (1 posts)
+# andrade<span>@</span>netcom.com (Andrade Software Andrade Networking) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

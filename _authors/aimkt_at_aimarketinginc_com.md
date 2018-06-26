@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aimkt_at_aimarketinginc_com
+post_count: 2
 ---
 
-# aimkt@aimarketinginc.com (2 posts)
+# aimkt<span>@</span>aimarketinginc.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

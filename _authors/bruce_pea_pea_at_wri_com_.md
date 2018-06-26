@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_pea_pea_at_wri_com_
+post_count: 1
 ---
 
-# Bruce Pea <pea@wri.com> (1 posts)
+# Bruce Pea <pea<span>@</span>wri.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steven_greenberg_greenbes_at_netcom_com_
+post_count: 1
 ---
 
-# Steven Greenberg <greenbes@netcom.com> (1 posts)
+# Steven Greenberg <greenbes<span>@</span>netcom.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

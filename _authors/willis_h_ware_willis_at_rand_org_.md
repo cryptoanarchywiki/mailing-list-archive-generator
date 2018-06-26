@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: willis_h_ware_willis_at_rand_org_
+post_count: 1
 ---
 
-# "Willis H. Ware" <willis@rand.org> (1 posts)
+# "Willis H. Ware" <willis<span>@</span>rand.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

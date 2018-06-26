@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: computer_solutions_at_swbell_net
+post_count: 1
 ---
 
-# COMPUTER.SOLUTIONS@SWBELL.net (1 posts)
+# COMPUTER.SOLUTIONS<span>@</span>SWBELL.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

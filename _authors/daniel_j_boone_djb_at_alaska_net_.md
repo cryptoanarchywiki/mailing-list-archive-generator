@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_j_boone_djb_at_alaska_net_
+post_count: 1
 ---
 
-# "Daniel J. Boone" <djb@alaska.net> (1 posts)
+# "Daniel J. Boone" <djb<span>@</span>alaska.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

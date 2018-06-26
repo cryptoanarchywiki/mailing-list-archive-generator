@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Derek Atkins \<warlord@MIT.EDU\><br>
+From: Derek Atkins \<warlord<span>@</span>MIT.EDU\><br>
 To: Jonathan Cooper \<entropy@IntNet.net\><br>
 Message Hash: 7f8addcda0546a7b067e95cc023e168db99fd7c7dfaf01fb8c30fcebaa15fe87<br>
 Message ID: \<9412252213.AA06153@toxicwaste.media.mit.edu\><br>
@@ -42,6 +42,10 @@ new one.
 ## Thread
 
 + Return to [December 1994](/archive/1994/12)
+
++ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/author/derek_atkins_warlord_at_mit_edu_)"
++ Return to "[Jonathan Cooper <entropy<span>@</span>IntNet.net>](/author/jonathan_cooper_entropy_at_intnet_net_)"
++ Return to "[lce<span>@</span>wwa.com (Larry E)](/author/lce_at_wwa_com_larry_e_)"
 
 + 1994-12-25 (Sun, 25 Dec 94 13:22:34 PST) - [2048-bit key...I'm leery](/archive/1994/12/25f60ddf8b0d56986083e7a9ef2865ccb930695d93c5870990f938464f52b3da) - _lce@wwa.com (Larry E)_
   + 1994-12-25 (Sun, 25 Dec 94 13:43:14 PST) - [Moving from 1024-bit -> 2048-bit key.](/archive/1994/12/7e215dc786cbdd21b4e08480af3f03c05e898259c519a3aa939c46f525488109) - _Jonathan Cooper \<entropy@IntNet.net\>_

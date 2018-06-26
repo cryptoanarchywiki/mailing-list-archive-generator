@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: crisavec_dbrown_at_alaska_net_
+post_count: 3
 ---
 
-# Crisavec <dbrown@alaska.net> (3 posts)
+# Crisavec <dbrown<span>@</span>alaska.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

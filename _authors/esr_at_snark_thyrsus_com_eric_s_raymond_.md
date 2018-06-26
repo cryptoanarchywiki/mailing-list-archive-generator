@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: esr_at_snark_thyrsus_com_eric_s_raymond_
+post_count: 4
 ---
 
-# esr@snark.thyrsus.com (Eric S. Raymond) (4 posts)
+# esr<span>@</span>snark.thyrsus.com (Eric S. Raymond) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

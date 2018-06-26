@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ryan_lackey_ryan_at_arianrhod_systemics_ai_
+post_count: 1
 ---
 
-# Ryan Lackey <ryan@arianrhod.systemics.ai> (1 posts)
+# Ryan Lackey <ryan<span>@</span>arianrhod.systemics.ai> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

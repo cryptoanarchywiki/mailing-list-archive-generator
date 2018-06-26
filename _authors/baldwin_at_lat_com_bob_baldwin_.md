@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: baldwin_at_lat_com_bob_baldwin_
+post_count: 5
 ---
 
-# baldwin@LAT.COM (Bob Baldwin) (5 posts)
+# baldwin<span>@</span>LAT.COM (Bob Baldwin) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

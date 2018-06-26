@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Power & Prosperity \<powergal@polbox.com\><br>
+From: Power & Prosperity \<powergal<span>@</span>polbox.com\><br>
 To: \<cypherpunks@toad.com\><br>
 Message Hash: 92c7eacabfcdfc23a3d1ad33ab44e59f4b24eb4bc6a14b94a6da0ef7d247e212<br>
 Message ID: \<419.435989.92825289powergal@polbox.com\><br>
@@ -65,6 +65,8 @@ Bunn Hill Road in Vestal, NY. (800) 350-5426.
 ## Thread
 
 + Return to [July 1998](/archive/1998/07)
+
++ Return to "[Power & Prosperity <powergal<span>@</span>polbox.com>](/author/power__prosperity_powergal_at_polbox_com_)"
 
 + 1998-07-14 (Mon, 13 Jul 1998 19:16:49 -0700 (PDT)) - UCE - I am a real Person sending you a real - _Power & Prosperity \<powergal@polbox.com\>_
 

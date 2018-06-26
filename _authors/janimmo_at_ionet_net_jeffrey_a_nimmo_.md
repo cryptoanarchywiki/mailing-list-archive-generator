@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: janimmo_at_ionet_net_jeffrey_a_nimmo_
+post_count: 1
 ---
 
-# janimmo@ionet.net (Jeffrey A Nimmo) (1 posts)
+# janimmo<span>@</span>ionet.net (Jeffrey A Nimmo) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 46e0f10ee3065ca23fa92db5fa1b6bcd0f1ad155a15e75eabbda19f8aa4a50cf<br>
 Message ID: \<1.5.4.32.19970901185733.0083cff4@pop.pipeline.com\><br>
@@ -72,6 +72,9 @@ rest who don't want to, in smooth-tongue Stewart Baker's phrase,
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "["Attila T. Hun" <attila<span>@</span>hun.org>](/author/attila_t_hun_attila_at_hun_org_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1997-09-01 (Tue, 2 Sep 1997 03:09:42 +0800) - Re: Encouraging News - France - _John Young \<jya@pipeline.com\>_
   + 1997-09-02 (Tue, 2 Sep 1997 12:11:21 +0800) - ["French kiss NSA/BXA"](/archive/1997/09/68c8747e6e67be9d48c456fa84050d52f51b3874b59d71e8d5e5cc368675f362) - _"Attila T. Hun" \<attila@hun.org\>_

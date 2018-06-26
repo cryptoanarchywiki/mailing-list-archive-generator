@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pjb_at_ny_ubs_com_paul_j_bell_
+post_count: 14
 ---
 
-# pjb@ny.ubs.com (Paul J. Bell) (14 posts)
+# pjb<span>@</span>ny.ubs.com (Paul J. Bell) (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

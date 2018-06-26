@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_oshea_at_smb_com_james_p_oshea_iii_
+post_count: 1
 ---
 
-# james_oshea@smb.com (James P. O'Shea III) (1 posts)
+# james_oshea<span>@</span>smb.com (James P. O'Shea III) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

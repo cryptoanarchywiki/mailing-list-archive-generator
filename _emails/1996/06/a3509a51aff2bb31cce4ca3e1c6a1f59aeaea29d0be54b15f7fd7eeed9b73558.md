@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jya@pipeline.com (John Young)<br>
+From: jya<span>@</span>pipeline.com (John Young)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a3509a51aff2bb31cce4ca3e1c6a1f59aeaea29d0be54b15f7fd7eeed9b73558<br>
 Message ID: \<199606131127.LAA25041@pipe2.t2.usa.pipeline.com\><br>
@@ -65,6 +65,8 @@ Or, if the http fails, send a CDA_win to <jya@pipeline.com>.
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
 
 + 1996-06-13 (Fri, 14 Jun 1996 01:59:32 +0800) - NYT on CDA Win - _jya@pipeline.com (John Young)_
 

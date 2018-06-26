@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sandy Sandfort \<sandfort@crl.com\><br>
+From: Sandy Sandfort \<sandfort<span>@</span>crl.com\><br>
 To: Cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: 667a9eeb0e679d82694dec3b9ed5459eea5da4cf8a2c24ae692e407ceeffcccd<br>
 Message ID: \<Pine.SUN.3.91.951214074025.13177C-100000@crl14.crl.com\><br>
@@ -65,6 +65,9 @@ P.S.  If anyone is interested in helping to make an adult
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
++ Return to "[turner<span>@</span>TeleCheck.com](/author/turner_at_telecheck_com)"
 
 + 1995-12-14 (Fri, 15 Dec 1995 00:34:28 +0800) - ADDRESS DATABASE? - _Sandy Sandfort \<sandfort@crl.com\>_
   + 1995-12-14 (Fri, 15 Dec 1995 04:40:01 +0800) - [Re: ADDRESS DATABASE?](/archive/1995/12/90528012e5787195c1fc5d3c7643ad2dffca0f17e16f8f6c18a8e1349f9d3201) - _turner@TeleCheck.com_

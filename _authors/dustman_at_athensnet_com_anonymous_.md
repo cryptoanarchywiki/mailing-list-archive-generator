@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dustman_at_athensnet_com_anonymous_
+post_count: 11
 ---
 
-# dustman@athensnet.com (Anonymous) (11 posts)
+# dustman<span>@</span>athensnet.com (Anonymous) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

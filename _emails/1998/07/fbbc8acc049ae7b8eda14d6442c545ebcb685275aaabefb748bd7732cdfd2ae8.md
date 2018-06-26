@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Lisa" \<24893232@03820.com\><br>
+From: "Lisa" \<24893232<span>@</span>03820.com\><br>
 To: Only.Me<br>
 Message Hash: fbbc8acc049ae7b8eda14d6442c545ebcb685275aaabefb748bd7732cdfd2ae8<br>
 Message ID: \<007801bda6a2$0673b140$37ab9dcc@ativg.co\><br>
@@ -56,6 +56,8 @@ Lisa
 ## Thread
 
 + Return to [July 1998](/archive/1998/07)
+
++ Return to "["Lisa" <24893232<span>@</span>03820.com>](/author/lisa_24893232_at_03820_com_)"
 
 + 1998-07-10 (Fri, 10 Jul 1998 06:01:37 -0700 (PDT)) - For Your Eyes Only - _"Lisa" \<24893232@03820.com\>_
 

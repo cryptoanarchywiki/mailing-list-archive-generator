@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: cman@IO.COM (Douglas Barnes)<br>
+From: cman<span>@</span>IO.COM (Douglas Barnes)<br>
 To: frissell@panix.com (Duncan Frissell)<br>
 Message Hash: 9d33e95d880beb2ff2c2bcdb52ba324b27eca0faa24d8b1fa60ffeab9ab8422b<br>
 Message ID: \<9310252247.AA01128@illuminati.IO.COM\><br>
@@ -107,6 +107,9 @@ Illuminati Online          metaverse.io.com 7777          /______\
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "[cman<span>@</span>IO.COM (Douglas Barnes)](/author/cman_at_io_com_douglas_barnes_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1993-10-25 (Mon, 25 Oct 93 10:29:21 PDT) - [Re: Net Regulation](/archive/1993/10/fd37b8526ac8249892906e78460eb63c2666de2633eb0b9e10b5ab13a68b4334) - _Duncan Frissell \<frissell@panix.com\>_
   + 1993-10-25 (Mon, 25 Oct 93 15:53:21 PDT) - Re: Net Regulation - _cman@IO.COM (Douglas Barnes)_

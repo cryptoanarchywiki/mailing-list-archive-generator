@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mailerdaemon_at_alpha_remcan_ca_mail_delivery_subsystem_
+post_count: 3
 ---
 
-# MAILER-DAEMON@Alpha.remcan.ca (Mail Delivery Subsystem) (3 posts)
+# MAILER-DAEMON<span>@</span>Alpha.remcan.ca (Mail Delivery Subsystem) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

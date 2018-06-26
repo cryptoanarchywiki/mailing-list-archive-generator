@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kkirksey_at_world_std_com_ken_b_kirksey_
+post_count: 10
 ---
 
-# kkirksey@world.std.com (Ken B Kirksey) (10 posts)
+# kkirksey<span>@</span>world.std.com (Ken B Kirksey) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

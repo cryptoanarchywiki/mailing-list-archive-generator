@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eldon_jenkins_ejenkins_at_mhz_com_
+post_count: 2
 ---
 
-# Eldon Jenkins <EJENKINS@mhz.com> (2 posts)
+# Eldon Jenkins <EJENKINS<span>@</span>mhz.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

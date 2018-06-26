@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nadeshda_at_mexred_net_mx_nadeshda_vargas_stepanenko_
+post_count: 2
 ---
 
-# nadeshda@mexred.net.mx (nadeshda vargas stepanenko) (2 posts)
+# nadeshda<span>@</span>mexred.net.mx (nadeshda vargas stepanenko) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rachel_willmer_rachel_at_intertrader_com_
+post_count: 2
 ---
 
-# Rachel Willmer <rachel@intertrader.com> (2 posts)
+# Rachel Willmer <rachel<span>@</span>intertrader.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

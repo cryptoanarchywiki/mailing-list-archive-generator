@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: realnetworks_news_announce_at_dmail1_realnet_net_
+post_count: 6
 ---
 
-# RealNetworks News <announce@dmail1.real-net.net> (6 posts)
+# RealNetworks News <announce<span>@</span>dmail1.real-net.net> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

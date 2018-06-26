@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iansmith_at_weasel_cc_gatech_edu_ian_smith_
+post_count: 1
 ---
 
-# iansmith@weasel.cc.gatech.edu (Ian Smith) (1 posts)
+# iansmith<span>@</span>weasel.cc.gatech.edu (Ian Smith) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

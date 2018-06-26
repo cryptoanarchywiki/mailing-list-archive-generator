@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kutek_at_ios_com_no_name_
+post_count: 1
 ---
 
-# kutek@ios.com (No Name) (1 posts)
+# kutek<span>@</span>ios.com (No Name) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

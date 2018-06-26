@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@EINSTEIN.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>EINSTEIN.ssz.com\><br>
 To: cypherpunks@EINSTEIN.ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: 7d08bccff43f318abb09a00ee6fcf74fac7bf201abeedc85ce675bd1837518db<br>
 Message ID: \<199705140129.UAA23683@einstein.ssz.com\><br>
@@ -89,6 +89,8 @@ denial of service attack it isn't even funny.
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1997-05-14 (Wed, 14 May 1997 10:21:37 +0800) - Re: The Interlinked Cypherpunks Lists? (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

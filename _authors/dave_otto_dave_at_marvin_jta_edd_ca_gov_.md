@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_otto_dave_at_marvin_jta_edd_ca_gov_
+post_count: 12
 ---
 
-# Dave Otto <dave@marvin.jta.edd.ca.gov> (12 posts)
+# Dave Otto <dave<span>@</span>marvin.jta.edd.ca.gov> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

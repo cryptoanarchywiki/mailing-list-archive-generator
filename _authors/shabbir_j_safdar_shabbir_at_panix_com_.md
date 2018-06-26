@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shabbir_j_safdar_shabbir_at_panix_com_
+post_count: 9
 ---
 
-# "Shabbir J. Safdar" <shabbir@panix.com> (9 posts)
+# "Shabbir J. Safdar" <shabbir<span>@</span>panix.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

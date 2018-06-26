@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kb4vwa_at_juno_com_edward_r_figueroa_
+post_count: 6
 ---
 
-# kb4vwa@juno.com (Edward R. Figueroa) (6 posts)
+# kb4vwa<span>@</span>juno.com (Edward R. Figueroa) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

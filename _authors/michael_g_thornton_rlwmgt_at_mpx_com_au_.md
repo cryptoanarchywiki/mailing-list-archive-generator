@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_g_thornton_rlwmgt_at_mpx_com_au_
+post_count: 1
 ---
 
-# Michael G Thornton <rlwmgt@mpx.com.au> (1 posts)
+# Michael G Thornton <rlwmgt<span>@</span>mpx.com.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cdr_filter_account_cpunks_at_einstein_ssz_com_
+post_count: 1
 ---
 
-# CDR Filter Account <cpunks@einstein.ssz.com> (1 posts)
+# CDR Filter Account <cpunks<span>@</span>einstein.ssz.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

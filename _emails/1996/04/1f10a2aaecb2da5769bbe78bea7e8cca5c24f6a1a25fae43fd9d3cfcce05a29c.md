@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: stevenw@best.com (Steven Weller)<br>
+From: stevenw<span>@</span>best.com (Steven Weller)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1f10a2aaecb2da5769bbe78bea7e8cca5c24f6a1a25fae43fd9d3cfcce05a29c<br>
 Message ID: \<v01540b01ad90cf8c8249@[206.86.1.35]\><br>
@@ -130,6 +130,8 @@ stevenw@best.com                   |     3. Express what others cannot
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[stevenw<span>@</span>best.com (Steven Weller)](/author/stevenw_at_best_com_steven_weller_)"
 
 + 1996-04-10 (Wed, 10 Apr 1996 19:34:22 +0800) - RISKS: Compuserve "secure" login - _stevenw@best.com (Steven Weller)_
 

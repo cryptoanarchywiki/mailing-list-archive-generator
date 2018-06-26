@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phillip_hallambaker_hallam_at_ai_mit_edu_
+post_count: 16
 ---
 
-# "Phillip Hallam-Baker" <hallam@ai.mit.edu> (16 posts)
+# "Phillip Hallam-Baker" <hallam<span>@</span>ai.mit.edu> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

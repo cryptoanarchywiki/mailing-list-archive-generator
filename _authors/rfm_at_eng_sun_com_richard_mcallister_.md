@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rfm_at_eng_sun_com_richard_mcallister_
+post_count: 1
 ---
 
-# rfm@Eng.Sun.COM (Richard McAllister) (1 posts)
+# rfm<span>@</span>Eng.Sun.COM (Richard McAllister) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

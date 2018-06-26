@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Carl Ellison \<cme@tis.com\><br>
+From: Carl Ellison \<cme<span>@</span>tis.com\><br>
 To: jrochkin@cs.oberlin.edu<br>
 Message Hash: dfea761d9c0c2b3e7abe9a9ed3d276a1dcc2aead60d3c3c5d0d849ce45a309a2<br>
 Message ID: \<9407212121.AA12961@tis.com\><br>
@@ -58,6 +58,10 @@ comfortable with the scheme, wouldn't it?
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Carl Ellison <cme<span>@</span>tis.com>](/author/carl_ellison_cme_at_tis_com_)"
++ Return to "[Jonathan Rochkind <jrochkin<span>@</span>cs.oberlin.edu>](/author/jonathan_rochkind_jrochkin_at_cs_oberlin_edu_)"
++ Return to "[m5<span>@</span>vail.tivoli.com (Mike McNally)](/author/m5_at_vail_tivoli_com_mike_mcnally_)"
 
 + 1994-07-21 (Thu, 21 Jul 94 11:54:45 PDT) - [Clipper Chip Retreat](/archive/1994/07/8e9dd5cb0a4f18337ef0af6c3e47c6f34146084543682392be24967ce1da6f9c) - _Jonathan Rochkind \<jrochkin@cs.oberlin.edu\>_
   + 1994-07-21 (Thu, 21 Jul 94 14:21:37 PDT) - Re: Clipper Chip Retreat - _Carl Ellison \<cme@tis.com\>_

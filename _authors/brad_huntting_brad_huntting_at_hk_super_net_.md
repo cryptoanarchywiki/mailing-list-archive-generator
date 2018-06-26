@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brad_huntting_brad_huntting_at_hk_super_net_
+post_count: 2
 ---
 
-# Brad Huntting <Brad.Huntting@HK.Super.NET> (2 posts)
+# Brad Huntting <Brad.Huntting<span>@</span>HK.Super.NET> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: laverty_at_matrixnet_com
+post_count: 1
 ---
 
-# laverty@matrixNet.com (1 posts)
+# laverty<span>@</span>matrixNet.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

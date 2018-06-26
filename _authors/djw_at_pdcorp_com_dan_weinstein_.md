@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: djw_at_pdcorp_com_dan_weinstein_
+post_count: 11
 ---
 
-# djw@pdcorp.com (Dan Weinstein) (11 posts)
+# djw<span>@</span>pdcorp.com (Dan Weinstein) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

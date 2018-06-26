@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chelseas_bloody_carcass_remailer_at_sasknet_sk_ca
+post_count: 1
 ---
 
-# Chelsea's.Bloody.Carcass.Remailer@sasknet.sk.ca (1 posts)
+# Chelsea's.Bloody.Carcass.Remailer<span>@</span>sasknet.sk.ca (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

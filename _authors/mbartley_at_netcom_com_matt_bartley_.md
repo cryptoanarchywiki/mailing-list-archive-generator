@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mbartley_at_netcom_com_matt_bartley_
+post_count: 1
 ---
 
-# mbartley@netcom.com (Matt Bartley) (1 posts)
+# mbartley<span>@</span>netcom.com (Matt Bartley) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

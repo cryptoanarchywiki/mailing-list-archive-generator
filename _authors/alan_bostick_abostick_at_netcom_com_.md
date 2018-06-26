@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_bostick_abostick_at_netcom_com_
+post_count: 13
 ---
 
-# Alan Bostick <abostick@netcom.com> (13 posts)
+# Alan Bostick <abostick<span>@</span>netcom.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

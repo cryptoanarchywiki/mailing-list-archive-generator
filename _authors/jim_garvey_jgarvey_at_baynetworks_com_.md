@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_garvey_jgarvey_at_baynetworks_com_
+post_count: 1
 ---
 
-# Jim Garvey <jgarvey@BayNetworks.com> (1 posts)
+# Jim Garvey <jgarvey<span>@</span>BayNetworks.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

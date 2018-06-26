@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jin_s_choi_jsc_at_monolith_mit_edu_
+post_count: 4
 ---
 
-# Jin S Choi <jsc@monolith.MIT.EDU> (4 posts)
+# Jin S Choi <jsc<span>@</span>monolith.MIT.EDU> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

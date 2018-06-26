@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg__kucharo_kryten_at_shell_portal_com_
+post_count: 7
 ---
 
-# Greg - Kucharo <kryten@shell.portal.com> (7 posts)
+# Greg - Kucharo <kryten<span>@</span>shell.portal.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

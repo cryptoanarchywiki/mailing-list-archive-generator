@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zog_archer_zog_at_armory_com_
+post_count: 1
 ---
 
-# Zog Archer <zog@armory.com> (1 posts)
+# Zog Archer <zog<span>@</span>armory.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

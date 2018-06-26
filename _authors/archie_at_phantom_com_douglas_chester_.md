@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: archie_at_phantom_com_douglas_chester_
+post_count: 2
 ---
 
-# archie@phantom.com (Douglas Chester) (2 posts)
+# archie<span>@</span>phantom.com (Douglas Chester) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

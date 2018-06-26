@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: johnsonc_at_chem_udallas_edu_carrie_a_johnson_
+post_count: 3
 ---
 
-# johnsonc@chem.udallas.edu (Carrie A. Johnson) (3 posts)
+# johnsonc<span>@</span>chem.udallas.edu (Carrie A. Johnson) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

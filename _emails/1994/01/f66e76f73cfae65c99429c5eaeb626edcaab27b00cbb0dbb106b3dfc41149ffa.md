@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "L. Detweiler" \<ld231782@longs.lance.colostate.edu\><br>
+From: "L. Detweiler" \<ld231782<span>@</span>longs.lance.colostate.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f66e76f73cfae65c99429c5eaeb626edcaab27b00cbb0dbb106b3dfc41149ffa<br>
 Message ID: \<199401230242.TAA09043@longs.lance.colostate.edu\><br>
@@ -56,5 +56,8 @@ what a delightful contest. Glad that everyone is enjoying it, even Medusa.
 
 + Return to [January 1994](/archive/1994/01)
 
-+ 1994-01-23 (Sat, 22 Jan 94 18:46:27 PST) - Re: Found a snake/tentacle! - _"L. Detweiler" \<ld231782@longs.lance.colostate.edu\>_
++ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/author/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
+
++ _Unknown thread root_
+  + 1994-01-23 (Sat, 22 Jan 94 18:46:27 PST) - Re: Found a snake/tentacle! - _"L. Detweiler" \<ld231782@longs.lance.colostate.edu\>_
 

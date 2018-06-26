@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lance_cottrell_lcottrell_at_anonymizer_com_
+post_count: 1
 ---
 
-# Lance Cottrell <lcottrell@anonymizer.com> (1 posts)
+# Lance Cottrell <lcottrell<span>@</span>anonymizer.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

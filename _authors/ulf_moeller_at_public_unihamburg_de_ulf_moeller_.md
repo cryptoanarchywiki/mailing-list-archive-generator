@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ulf_moeller_at_public_unihamburg_de_ulf_moeller_
+post_count: 5
 ---
 
-# Ulf_Moeller@public.uni-hamburg.de (Ulf Moeller) (5 posts)
+# Ulf_Moeller<span>@</span>public.uni-hamburg.de (Ulf Moeller) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

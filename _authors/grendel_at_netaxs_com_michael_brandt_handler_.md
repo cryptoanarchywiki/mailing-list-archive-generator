@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: grendel_at_netaxs_com_michael_brandt_handler_
+post_count: 8
 ---
 
-# grendel@netaxs.com (Michael Brandt Handler) (8 posts)
+# grendel<span>@</span>netaxs.com (Michael Brandt Handler) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

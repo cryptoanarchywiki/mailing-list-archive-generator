@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: primestar_at_homebusiness_net
+post_count: 1
 ---
 
-# primestar@home-business.net (1 posts)
+# primestar<span>@</span>home-business.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

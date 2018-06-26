@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jan_dobrucki_jdo_at_hyperreal_art_pl_
+post_count: 1
 ---
 
-# Jan Dobrucki <jdo@hyperreal.art.pl> (1 posts)
+# Jan Dobrucki <jdo<span>@</span>hyperreal.art.pl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

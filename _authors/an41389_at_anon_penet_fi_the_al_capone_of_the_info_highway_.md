@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an41389_at_anon_penet_fi_the_al_capone_of_the_info_highway_
+post_count: 2
 ---
 
-# an41389@anon.penet.fi (The Al Capone of the Info Highway) (2 posts)
+# an41389<span>@</span>anon.penet.fi (The Al Capone of the Info Highway) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

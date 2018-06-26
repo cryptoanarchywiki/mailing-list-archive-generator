@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_w_noerenberg_jwn2_at_qualcomm_com_
+post_count: 13
 ---
 
-# "John  W. Noerenberg" <jwn2@qualcomm.com> (13 posts)
+# "John  W. Noerenberg" <jwn2<span>@</span>qualcomm.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

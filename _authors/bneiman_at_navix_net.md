@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bneiman_at_navix_net
+post_count: 1
 ---
 
-# bneiman@navix.net (1 posts)
+# bneiman<span>@</span>navix.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

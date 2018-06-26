@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rarachel_at_prism_poly_edu_arsen_ray_arachelian_
+post_count: 122
 ---
 
-# rarachel@prism.poly.edu (Arsen Ray Arachelian) (122 posts)
+# rarachel<span>@</span>prism.poly.edu (Arsen Ray Arachelian) (122 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

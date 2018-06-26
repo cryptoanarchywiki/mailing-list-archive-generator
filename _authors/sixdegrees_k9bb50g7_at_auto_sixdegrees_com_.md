@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sixdegrees_k9bb50g7_at_auto_sixdegrees_com_
+post_count: 1
 ---
 
-# "sixdegrees"<k9bb50g7@auto.sixdegrees.com> (1 posts)
+# "sixdegrees"<k9bb50g7<span>@</span>auto.sixdegrees.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

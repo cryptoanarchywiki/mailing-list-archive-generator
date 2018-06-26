@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 82f647c19cec9921fd9d62bfb83bcde0d38430dea868af5da8ce6ada3ebdf11b<br>
 Message ID: \<1.5.4.32.19970221130842.006a3434@pop.pipeline.com\><br>
@@ -89,6 +89,8 @@ report to DefSEc and DCI:
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1997-02-21 (Fri, 21 Feb 1997 05:15:13 -0800 (PST)) - Global Encryption Policy - _John Young \<jya@pipeline.com\>_
 

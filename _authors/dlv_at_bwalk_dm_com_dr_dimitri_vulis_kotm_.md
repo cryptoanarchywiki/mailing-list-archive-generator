@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_
+post_count: 1725
 ---
 
-# dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM) (1725 posts)
+# dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM) (1725 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

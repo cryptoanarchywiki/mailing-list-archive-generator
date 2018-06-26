@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: soft_export_nancy_matte_info_at_softexport_com_
+post_count: 1
 ---
 
-# "Soft Export- Nancy Matte'" <info@softexport.com> (1 posts)
+# "Soft Export- Nancy Matte'" <info<span>@</span>softexport.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

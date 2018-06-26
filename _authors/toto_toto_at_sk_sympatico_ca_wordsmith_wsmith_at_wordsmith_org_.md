@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: toto_toto_at_sk_sympatico_ca_wordsmith_wsmith_at_wordsmith_org_
+post_count: 1
 ---
 
-# Toto <toto@sk.sympatico.ca>Wordsmith <wsmith@wordsmith.org> (1 posts)
+# Toto <toto<span>@</span>sk.sympatico.ca>Wordsmith <wsmith<span>@</span>wordsmith.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

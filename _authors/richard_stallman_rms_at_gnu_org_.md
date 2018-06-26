@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_stallman_rms_at_gnu_org_
+post_count: 5
 ---
 
-# Richard Stallman <rms@gnu.org> (5 posts)
+# Richard Stallman <rms<span>@</span>gnu.org> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

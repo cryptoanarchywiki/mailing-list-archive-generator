@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: liam_david_gray_lg2g_at_andrew_cmu_edu_
+post_count: 6
 ---
 
-# Liam David Gray <lg2g+@andrew.cmu.edu> (6 posts)
+# Liam David Gray <lg2g+<span>@</span>andrew.cmu.edu> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

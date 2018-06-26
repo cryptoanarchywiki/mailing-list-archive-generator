@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: omegaman_scott_harney_at_bigeasy_com_
+post_count: 2
 ---
 
-# "Omegaman" <scott.harney@bigeasy.com> (2 posts)
+# "Omegaman" <scott.harney<span>@</span>bigeasy.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

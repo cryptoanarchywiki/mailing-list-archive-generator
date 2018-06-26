@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: trgz941_at_netscape_com
+post_count: 2
 ---
 
-# trgz941@netscape.com (2 posts)
+# trgz941<span>@</span>netscape.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

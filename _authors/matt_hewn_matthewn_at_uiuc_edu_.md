@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matt_hewn_matthewn_at_uiuc_edu_
+post_count: 2
 ---
 
-# Matt Hewn <matthewn@uiuc.edu> (2 posts)
+# Matt Hewn <matthewn<span>@</span>uiuc.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

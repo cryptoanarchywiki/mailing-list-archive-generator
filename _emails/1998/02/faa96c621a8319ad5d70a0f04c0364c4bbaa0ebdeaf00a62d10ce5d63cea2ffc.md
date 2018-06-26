@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alex de Joode \<usura@REPLAY.COM\><br>
+From: Alex de Joode \<usura<span>@</span>REPLAY.COM\><br>
 To: cypherpunks@ssz.com<br>
 Message Hash: faa96c621a8319ad5d70a0f04c0364c4bbaa0ebdeaf00a62d10ce5d63cea2ffc<br>
 Message ID: \<199802221302.OAA27880@basement.replay.com\><br>
@@ -60,6 +60,8 @@ Sorry for the mess ..
 ## Thread
 
 + Return to [February 1998](/archive/1998/02)
+
++ Return to "[Alex de Joode <usura<span>@</span>REPLAY.COM>](/author/alex_de_joode_usura_at_replay_com_)"
 
 + 1998-02-22 (Sun, 22 Feb 1998 05:02:35 -0800 (PST)) - Re: DLing from Replay.com - _Alex de Joode \<usura@REPLAY.COM\>_
 

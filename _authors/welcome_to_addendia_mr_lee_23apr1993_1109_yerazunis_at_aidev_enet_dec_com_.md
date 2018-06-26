@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: welcome_to_addendia_mr_lee_23apr1993_1109_yerazunis_at_aidev_enet_dec_com_
+post_count: 1
 ---
 
-# "Welcome to Addendia, Mr. Lee.  23-Apr-1993 1109" <yerazunis@aidev.enet.dec.com> (1 posts)
+# "Welcome to Addendia, Mr. Lee.  23-Apr-1993 1109" <yerazunis<span>@</span>aidev.enet.dec.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

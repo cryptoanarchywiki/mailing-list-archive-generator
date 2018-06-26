@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: webmaster_at_sexlink_net
+post_count: 2
 ---
 
-# webmaster@sexlink.net (2 posts)
+# webmaster<span>@</span>sexlink.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

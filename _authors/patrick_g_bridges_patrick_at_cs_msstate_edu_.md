@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_g_bridges_patrick_at_cs_msstate_edu_
+post_count: 6
 ---
 
-# Patrick G. Bridges <patrick@CS.MsState.Edu> (6 posts)
+# Patrick G. Bridges <patrick<span>@</span>CS.MsState.Edu> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

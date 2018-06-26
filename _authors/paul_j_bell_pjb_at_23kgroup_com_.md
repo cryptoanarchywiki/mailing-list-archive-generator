@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_j_bell_pjb_at_23kgroup_com_
+post_count: 1
 ---
 
-# "Paul J. Bell" <pjb@23kgroup.com> (1 posts)
+# "Paul J. Bell" <pjb<span>@</span>23kgroup.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

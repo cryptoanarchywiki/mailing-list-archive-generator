@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dirty_daves_isp_ddi_at_dave_nul_
+post_count: 1
 ---
 
-# "Dirty Dave's ISP" <ddi@dave.nul> (1 posts)
+# "Dirty Dave's ISP" <ddi<span>@</span>dave.nul> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

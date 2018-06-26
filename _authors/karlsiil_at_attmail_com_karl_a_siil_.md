@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: karlsiil_at_attmail_com_karl_a_siil_
+post_count: 2
 ---
 
-# karlsiil@attmail.com (Karl A Siil) (2 posts)
+# karlsiil<span>@</span>attmail.com (Karl A Siil) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

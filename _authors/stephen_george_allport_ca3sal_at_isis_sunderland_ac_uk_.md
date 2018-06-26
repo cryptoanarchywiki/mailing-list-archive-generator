@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephen_george_allport_ca3sal_at_isis_sunderland_ac_uk_
+post_count: 1
 ---
 
-# "Stephen.George.Allport" <ca3sal@isis.sunderland.ac.uk> (1 posts)
+# "Stephen.George.Allport" <ca3sal<span>@</span>isis.sunderland.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

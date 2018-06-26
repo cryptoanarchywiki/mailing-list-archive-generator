@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: msdnflash_editor_msdnflasheditor_001781_at_newswire_microsoft_com_
+post_count: 1
 ---
 
-# MSDNFlash Editor <MSDNFlashEditor_001781@Newswire.Microsoft.com> (1 posts)
+# MSDNFlash Editor <MSDNFlashEditor_001781<span>@</span>Newswire.Microsoft.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

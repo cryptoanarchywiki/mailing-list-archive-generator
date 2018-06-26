@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gerard_d_cochrane_jr__gdcochra_at_utep_edu_
+post_count: 2
 ---
 
-# "Gerard D. Cochrane Jr." <gdcochra@utep.edu> (2 posts)
+# "Gerard D. Cochrane Jr." <gdcochra<span>@</span>utep.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

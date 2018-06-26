@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jerry_basham_scndsun_at_sprynet_com_
+post_count: 18
 ---
 
-# "Jerry Basham" <scndsun@sprynet.com> (18 posts)
+# "Jerry Basham" <scndsun<span>@</span>sprynet.com> (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: drzaphod@brewmeister.xstablu.com (DrZaphod)<br>
+From: drzaphod<span>@</span>brewmeister.xstablu.com (DrZaphod)<br>
 To: felix@hu.se (Felix Ungman)<br>
 Message Hash: 582cc3bf2c8c41ddf58e454ab0cda3c98324de5fa7bfcbaec4a7415aaebc581f<br>
 Message ID: \<m0pMLC9-0003DhC@brewmeister.xstablu.com\><br>
@@ -52,5 +52,8 @@ Content-Type: text/plain
 
 + Return to [January 1994](/archive/1994/01)
 
-+ 1994-01-18 (Tue, 18 Jan 94 10:46:23 PST) - Re: RETURNED MAIL, ANYBODY? - _drzaphod@brewmeister.xstablu.com (DrZaphod)_
++ Return to "[drzaphod<span>@</span>brewmeister.xstablu.com (DrZaphod)](/author/drzaphod_at_brewmeister_xstablu_com_drzaphod_)"
+
++ _Unknown thread root_
+  + 1994-01-18 (Tue, 18 Jan 94 10:46:23 PST) - Re: RETURNED MAIL, ANYBODY? - _drzaphod@brewmeister.xstablu.com (DrZaphod)_
 

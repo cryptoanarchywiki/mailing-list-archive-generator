@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wak_at_next0_math_pitt_edu
+post_count: 2
 ---
 
-# wak@next0.math.pitt.edu (2 posts)
+# wak<span>@</span>next0.math.pitt.edu (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

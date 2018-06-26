@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ncra_at_ix_netcom_com_ncra_
+post_count: 2
 ---
 
-# ncra@ix.netcom.com (NCRA ) (2 posts)
+# ncra<span>@</span>ix.netcom.com (NCRA ) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

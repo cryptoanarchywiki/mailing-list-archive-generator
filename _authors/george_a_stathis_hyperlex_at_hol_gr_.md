@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: george_a_stathis_hyperlex_at_hol_gr_
+post_count: 29
 ---
 
-# "George A. Stathis" <hyperlex@hol.gr> (29 posts)
+# "George A. Stathis" <hyperlex<span>@</span>hol.gr> (29 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hisi24_at_msn_com_electric_email_
+post_count: 1
 ---
 
-# hisi24@msn.com (Electric Email) (1 posts)
+# hisi24<span>@</span>msn.com (Electric Email) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

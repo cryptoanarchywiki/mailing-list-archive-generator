@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 777e42_at_ia_com_hk_nz_
+post_count: 1
 ---
 
-# 777e42@ia.com.hk (nz) (1 posts)
+# 777e42<span>@</span>ia.com.hk (nz) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

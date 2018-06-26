@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: selective_marketing_at_dthead_dwt_daewoo_co_kr
+post_count: 1
 ---
 
-# Selective.Marketing@dthead.dwt.daewoo.co.kr (1 posts)
+# Selective.Marketing<span>@</span>dthead.dwt.daewoo.co.kr (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

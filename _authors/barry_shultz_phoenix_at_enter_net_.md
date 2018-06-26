@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: barry_shultz_phoenix_at_enter_net_
+post_count: 1
 ---
 
-# "Barry Shultz" <phoenix@enter.net> (1 posts)
+# "Barry Shultz" <phoenix<span>@</span>enter.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

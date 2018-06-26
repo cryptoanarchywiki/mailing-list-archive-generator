@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mitra_mitra_at_pandora_sf_ca_us_
+post_count: 4
 ---
 
-# Mitra <mitra@pandora.sf.ca.us> (4 posts)
+# Mitra <mitra<span>@</span>pandora.sf.ca.us> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

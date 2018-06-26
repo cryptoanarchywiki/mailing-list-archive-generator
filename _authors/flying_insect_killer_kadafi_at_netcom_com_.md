@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: flying_insect_killer_kadafi_at_netcom_com_
+post_count: 1
 ---
 
-# Flying insect killer <kadafi@netcom.com> (1 posts)
+# Flying insect killer <kadafi<span>@</span>netcom.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

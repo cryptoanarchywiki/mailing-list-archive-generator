@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@EINSTEIN.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>EINSTEIN.ssz.com\><br>
 To: cypherpunks@EINSTEIN.ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: 0ad4cb32d7cba00087cfd42e47a35fe52ffe07cf6fbb72fbfaa7ae12de45a487<br>
 Message ID: \<199811191556.JAA03049@einstein.ssz.com\><br>
@@ -104,6 +104,8 @@ Actualy they are simply sums of 1's, its actualy first grade math.
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-11-19 (Fri, 20 Nov 1998 00:40:05 +0800) - Re: Goldbach's Conjecture - a question about prime sums of odd numbers... (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

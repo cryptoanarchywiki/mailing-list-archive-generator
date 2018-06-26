@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: frantz@netcom.com (Bill Frantz)<br>
+From: frantz<span>@</span>netcom.com (Bill Frantz)<br>
 To: Rich Graves \<cypherpunks@toad.com<br>
 Message Hash: b91f1b614fcdd5eb60c9deedefb1ec2daa7fe84dbbcb35f81f07bc33155ca639<br>
 Message ID: \<199601270558.VAA04133@netcom6.netcom.com\><br>
@@ -48,6 +48,8 @@ Bill
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/author/frantz_at_netcom_com_bill_frantz_)"
 
 + 1996-01-27 (Sat, 27 Jan 1996 14:28:39 +0800) - Re: Denning's misleading statements - _frantz@netcom.com (Bill Frantz)_
 

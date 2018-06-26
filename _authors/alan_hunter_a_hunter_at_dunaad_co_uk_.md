@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_hunter_a_hunter_at_dunaad_co_uk_
+post_count: 2
 ---
 
-# Alan Hunter <a.hunter@dunaad.co.uk> (2 posts)
+# Alan Hunter <a.hunter<span>@</span>dunaad.co.uk> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

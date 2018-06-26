@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dr_jai_maharaj_jai_at_mantra_com_
+post_count: 8
 ---
 
-# "Dr. Jai Maharaj" <jai@mantra.com> (8 posts)
+# "Dr. Jai Maharaj" <jai<span>@</span>mantra.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

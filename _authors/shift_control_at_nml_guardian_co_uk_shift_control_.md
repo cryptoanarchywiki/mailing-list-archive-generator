@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shift_control_at_nml_guardian_co_uk_shift_control_
+post_count: 1
 ---
 
-# shift.control@nml.guardian.co.uk (Shift Control) (1 posts)
+# shift.control<span>@</span>nml.guardian.co.uk (Shift Control) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

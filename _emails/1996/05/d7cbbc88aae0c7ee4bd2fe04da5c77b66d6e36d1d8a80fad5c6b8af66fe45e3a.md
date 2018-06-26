@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rodger@interramp.com (Will Rodger)<br>
+From: rodger<span>@</span>interramp.com (Will Rodger)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d7cbbc88aae0c7ee4bd2fe04da5c77b66d6e36d1d8a80fad5c6b8af66fe45e3a<br>
 Message ID: \<v01510100adc39ec77b27@[38.12.5.138]\><br>
@@ -106,6 +106,9 @@ Interactive Week
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/author/declan_b_mccullagh_declan_at_cmu_edu_)"
++ Return to "[rodger<span>@</span>interramp.com (Will Rodger)](/author/rodger_at_interramp_com_will_rodger_)"
 
 + 1996-05-19 (Sun, 19 May 1996 10:12:44 +0800) - Interactive Week exclusive - White House to launch "Clipper III" - _rodger@interramp.com (Will Rodger)_
   + 1996-05-21 (Tue, 21 May 1996 17:42:30 +0800) - [Re: Interactive Week exclusive - White House to launch "Clipper III"](/archive/1996/05/83fbf3c52cb8815b532c0be041160105642f5bd2880436e59f6d80c47d4f3ba7) - _"Declan B. McCullagh" \<declan+@CMU.EDU\>_

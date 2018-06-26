@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ghio_ghio_at_utopia_hacktic_nl_
+post_count: 1
 ---
 
-# Ghio <ghio@utopia.hacktic.nl> (1 posts)
+# Ghio <ghio<span>@</span>utopia.hacktic.nl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

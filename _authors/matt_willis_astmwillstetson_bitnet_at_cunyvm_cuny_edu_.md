@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matt_willis_astmwillstetson_bitnet_at_cunyvm_cuny_edu_
+post_count: 5
 ---
 
-# Matt Willis <ASTMWILL%STETSON.bitnet@CUNYVM.CUNY.EDU> (5 posts)
+# Matt Willis <ASTMWILL%STETSON.bitnet<span>@</span>CUNYVM.CUNY.EDU> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

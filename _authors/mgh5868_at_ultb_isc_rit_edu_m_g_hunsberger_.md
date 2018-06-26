@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mgh5868_at_ultb_isc_rit_edu_m_g_hunsberger_
+post_count: 1
 ---
 
-# mgh5868@ultb.isc.rit.edu (M.G. Hunsberger) (1 posts)
+# mgh5868<span>@</span>ultb.isc.rit.edu (M.G. Hunsberger) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

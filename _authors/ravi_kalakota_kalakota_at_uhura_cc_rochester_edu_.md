@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ravi_kalakota_kalakota_at_uhura_cc_rochester_edu_
+post_count: 1
 ---
 
-# Ravi Kalakota <kalakota@uhura.cc.rochester.edu> (1 posts)
+# Ravi Kalakota <kalakota<span>@</span>uhura.cc.rochester.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

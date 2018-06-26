@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: randy_catoe_randy_at_mci_net_
+post_count: 2
 ---
 
-# Randy Catoe <Randy@mci.net> (2 posts)
+# Randy Catoe <Randy<span>@</span>mci.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

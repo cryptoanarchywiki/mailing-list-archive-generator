@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Edwin E. Smith" \<edsmith@IntNet.net\><br>
+From: "Edwin E. Smith" \<edsmith<span>@</span>IntNet.net\><br>
 To: edsmith@IntNet.net<br>
 Message Hash: 7f7bcaa71c8f3bda0ab6dedd8d8fd88fcac548dbdc1e4a66048499c1374c0f7a<br>
 Message ID: \<3.0.2.32.19980924214334.007e97d0@mailhost.IntNet.net\><br>
@@ -51,6 +51,8 @@ Look what is immediately highlighted in the selection box.
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "["Edwin E. Smith" <edsmith<span>@</span>IntNet.net>](/author/edwin_e_smith_edsmith_at_intnet_net_)"
 
 + 1998-09-25 (Thu, 24 Sep 1998 18:45:12 -0700 (PDT)) - This is a good one! - _"Edwin E. Smith" \<edsmith@IntNet.net\>_
 

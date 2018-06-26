@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_cable_mcable_at_emerald_tufts_edu_
+post_count: 3
 ---
 
-# Matthew Cable <mcable@Emerald.tufts.edu> (3 posts)
+# Matthew Cable <mcable<span>@</span>Emerald.tufts.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

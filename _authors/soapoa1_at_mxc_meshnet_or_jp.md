@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: soapoa1_at_mxc_meshnet_or_jp
+post_count: 1
 ---
 
-# soapoa1@mxc.meshnet.or.jp (1 posts)
+# soapoa1<span>@</span>mxc.meshnet.or.jp (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

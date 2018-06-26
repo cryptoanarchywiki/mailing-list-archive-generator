@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: futplex_at_pseudonym_com_futplex_
+post_count: 187
 ---
 
-# futplex@pseudonym.com (Futplex) (187 posts)
+# futplex<span>@</span>pseudonym.com (Futplex) (187 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

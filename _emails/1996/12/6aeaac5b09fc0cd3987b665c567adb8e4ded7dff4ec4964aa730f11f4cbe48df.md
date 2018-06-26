@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Carl Ellison \<cme@cybercash.com\><br>
+From: Carl Ellison \<cme<span>@</span>cybercash.com\><br>
 To: Matt Blaze \<mab@research.att.com\><br>
 Message Hash: 6aeaac5b09fc0cd3987b665c567adb8e4ded7dff4ec4964aa730f11f4cbe48df<br>
 Message ID: \<3.0.32.19961219214823.00a62160@cybercash.com\><br>
@@ -80,6 +80,8 @@ c4RETw8Os8A=
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[Carl Ellison <cme<span>@</span>cybercash.com>](/author/carl_ellison_cme_at_cybercash_com_)"
 
 + 1996-12-20 (Thu, 19 Dec 1996 18:34:32 -0800 (PST)) - Re: "Cryptography Policy and the Information Economy" draft available - _Carl Ellison \<cme@cybercash.com\>_
 

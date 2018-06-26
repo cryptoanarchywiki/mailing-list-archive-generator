@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sblair_at_upurbmw_us_dell_com_steve_
+post_count: 1
 ---
 
-# sblair@upurbmw.us.dell.com (steve) (1 posts)
+# sblair<span>@</span>upurbmw.us.dell.com (steve) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: talbert_newhart_talnewhart_at_intertemps_com_
+post_count: 1
 ---
 
-# Talbert Newhart <talnewhart@intertemps.com> (1 posts)
+# Talbert Newhart <talnewhart<span>@</span>intertemps.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

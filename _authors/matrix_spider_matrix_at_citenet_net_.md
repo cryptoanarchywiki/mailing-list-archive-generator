@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matrix_spider_matrix_at_citenet_net_
+post_count: 2
 ---
 
-# MatriX Spider <matrix@citenet.net> (2 posts)
+# MatriX Spider <matrix<span>@</span>citenet.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charlie_mullins_cmullins_at_cwa_com_
+post_count: 1
 ---
 
-# Charlie Mullins <cmullins@cwa.com> (1 posts)
+# Charlie Mullins <cmullins<span>@</span>cwa.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

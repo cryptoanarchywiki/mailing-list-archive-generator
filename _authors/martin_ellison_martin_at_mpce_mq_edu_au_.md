@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_ellison_martin_at_mpce_mq_edu_au_
+post_count: 1
 ---
 
-# Martin ELLISON <martin@mpce.mq.edu.au> (1 posts)
+# Martin ELLISON <martin<span>@</span>mpce.mq.edu.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

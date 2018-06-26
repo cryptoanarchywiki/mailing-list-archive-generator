@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sable1949_sable1949_at_aol_com_
+post_count: 1
 ---
 
-# Sable1949 <Sable1949@aol.com> (1 posts)
+# Sable1949 <Sable1949<span>@</span>aol.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

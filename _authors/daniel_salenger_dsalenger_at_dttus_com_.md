@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_salenger_dsalenger_at_dttus_com_
+post_count: 1
 ---
 
-# "Daniel Salenger" <dsalenger@dttus.com> (1 posts)
+# "Daniel Salenger" <dsalenger<span>@</span>dttus.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

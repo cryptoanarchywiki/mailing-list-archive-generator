@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: admin_pgh_plan_pghmain_at_pgh_org_
+post_count: 2
 ---
 
-# Admin Pgh Plan <pghmain@pgh.org> (2 posts)
+# Admin Pgh Plan <pghmain<span>@</span>pgh.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: darthvdr_at_fascination_com_leave_blank_
+post_count: 1
 ---
 
-# darthvdr@fascination.com (leave blank) (1 posts)
+# darthvdr<span>@</span>fascination.com (leave blank) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

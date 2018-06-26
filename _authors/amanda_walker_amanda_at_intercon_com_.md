@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: amanda_walker_amanda_at_intercon_com_
+post_count: 25
 ---
 
-# Amanda Walker <amanda@intercon.com> (25 posts)
+# Amanda Walker <amanda<span>@</span>intercon.com> (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

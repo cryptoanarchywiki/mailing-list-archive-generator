@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: "William H. Geiger III" \<stewarts@ix.netcom.com\><br>
 Message Hash: bfee699904abc70babf77df5cb5da5eac42cd0a9332bb791acba5ef2ec1f65ee<br>
 Message ID: \<199609221651.JAA10247@mail.pacifier.com\><br>
@@ -66,6 +66,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-09-22 (Mon, 23 Sep 1996 03:38:00 +0800) - Re: AP [was: Re: Kiddie porn on the Internet] [NOISE] - _jim bell \<jimbell@pacifier.com\>_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<hfinney@shell.portal.com\><br>
+From: Hal \<hfinney<span>@</span>shell.portal.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1b8c8c9abcd28dce66ee0c47cbb7b3bccbc5ce186d3483155f2b6e53021ebfdd<br>
 Message ID: \<199606132319.QAA14901@jobe.shell.portal.com\><br>
@@ -109,6 +109,9 @@ Hal
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
 
 + 1996-06-14 (Fri, 14 Jun 1996 14:22:15 +0800) - doubleclick monitoring web browsing habits - _Hal \<hfinney@shell.portal.com\>_
   + 1996-06-15 (Sat, 15 Jun 1996 17:08:09 +0800) - [Re: doubleclick monitoring web browsing habits](/archive/1996/06/371212e0680e500b6cc644d7b165482f8bf5f2aa812820bfd95a0c971281389e) - _"Mark M." \<markm@voicenet.com\>_

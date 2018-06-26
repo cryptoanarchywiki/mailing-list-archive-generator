@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kone_at_courier1_sha_cornell_edu
+post_count: 5
 ---
 
-# kone@COURIER1.SHA.CORNELL.EDU (5 posts)
+# kone<span>@</span>COURIER1.SHA.CORNELL.EDU (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

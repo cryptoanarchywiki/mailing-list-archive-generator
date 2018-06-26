@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: judic_at_netcom_com_judi_clark_
+post_count: 2
 ---
 
-# judic@netcom.com (Judi Clark) (2 posts)
+# judic<span>@</span>netcom.com (Judi Clark) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

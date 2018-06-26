@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_reese_preese_at_erinet_com_
+post_count: 1
 ---
 
-# Paul Reese <preese@erinet.com> (1 posts)
+# Paul Reese <preese<span>@</span>erinet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fce9e5df992e5c2fccaf74953fc5ef3f789501ae71693cfeeccaddf1fa1103cf<br>
 Message ID: \<199404051711.AA07994@panix.com\><br>
@@ -221,6 +221,8 @@ DESCRIPTORS: Credit cards; Banking industry; Money
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
 
 + 1994-04-05 (Tue, 5 Apr 94 10:12:15 PDT) - VISA Electronic Purse - _Duncan Frissell \<frissell@panix.com\>_
 

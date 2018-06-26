@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mark Hedges \<hedges@infonex.com\><br>
+From: Mark Hedges \<hedges<span>@</span>infonex.com\><br>
 To: Reeza! \<howree@cable.navy.mil\><br>
 Message Hash: c09ca80cfd8d7bd4bb5443e59debeefb8e5dcba65f9dfa6daba28f6bf51b093d<br>
 Message ID: \<Pine.SOL.3.96.980823113639.29011A-100000@cyberpass.net\><br>
@@ -112,6 +112,12 @@ On Mon, 24 Aug 1998, Reeza! wrote:
 ## Thread
 
 + Return to [August 1998](/archive/1998/08)
+
++ Return to "["Marc Maffei" <marcmf<span>@</span>2xtreme.net>](/author/marc_maffei_marcmf_at_2xtreme_net_)"
++ Return to "[Mark Hedges <hedges<span>@</span>infonex.com>](/author/mark_hedges_hedges_at_infonex_com_)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "[Reeza! <howree<span>@</span>cable.navy.mil>](/author/reeza_howree_at_cable_navy_mil_)"
++ Return to "[Xcott Craver <caj<span>@</span>math.niu.edu>](/author/xcott_craver_caj_at_math_niu_edu_)"
 
 + 1998-08-22 (Fri, 21 Aug 1998 22:17:05 -0700 (PDT)) - [Re: Pipe](/archive/1998/08/cf45dcf2c40ba744dd0e4354312e44f62af8bd53e1c6b5b90cdcf8275c9fb61f) - _"Marc Maffei" \<marcmf@2xtreme.net\>_
   + 1998-08-23 (Sun, 23 Aug 1998 00:00:24 -0700 (PDT)) - [Re: Pipe](/archive/1998/08/742c35c2f56f7fa1af9e2c2198e2b9f934a0bac93d9827ca5b141585959a6cab) - _Rabid Wombat \<wombat@mcfeely.bsfs.org\>_

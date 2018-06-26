@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_reid_steve_at_edmweb_com_
+post_count: 43
 ---
 
-# Steve Reid <steve@edmweb.com> (43 posts)
+# Steve Reid <steve<span>@</span>edmweb.com> (43 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

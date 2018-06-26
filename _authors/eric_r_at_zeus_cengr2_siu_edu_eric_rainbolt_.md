@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_r_at_zeus_cengr2_siu_edu_eric_rainbolt_
+post_count: 1
 ---
 
-# eric_r@zeus.c-engr2.siu.edu (Eric Rainbolt) (1 posts)
+# eric_r<span>@</span>zeus.c-engr2.siu.edu (Eric Rainbolt) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

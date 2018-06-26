@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymousremailer_at_shell_portal_comhackerpunksowner_at_alpha_c2_org
+post_count: 1
 ---
 
-# anonymous-remailer@shell.portal.comhackerpunks-owner@alpha.c2.org (1 posts)
+# anonymous-remailer<span>@</span>shell.portal.comhackerpunks-owner<span>@</span>alpha.c2.org (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

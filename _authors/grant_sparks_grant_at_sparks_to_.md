@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: grant_sparks_grant_at_sparks_to_
+post_count: 1
 ---
 
-# Grant Sparks <grant@sparks.to> (1 posts)
+# Grant Sparks <grant<span>@</span>sparks.to> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

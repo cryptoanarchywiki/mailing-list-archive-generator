@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: f_griffith_at_ccsvax_sfasu_edu
+post_count: 15
 ---
 
-# f_griffith@ccsvax.sfasu.edu (15 posts)
+# f_griffith<span>@</span>ccsvax.sfasu.edu (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

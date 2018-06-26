@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_at_hawksbill_sprintmrn_com_paul_ferguson_
+post_count: 90
 ---
 
-# paul@hawksbill.sprintmrn.com (Paul Ferguson) (90 posts)
+# paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson) (90 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

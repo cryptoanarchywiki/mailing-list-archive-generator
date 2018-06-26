@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Olsen \<alan@ctrl-alt-del.com\><br>
+From: Alan Olsen \<alan<span>@</span>ctrl-alt-del.com\><br>
 To: minuteman@fuse.net<br>
 Message Hash: 0f2edbce2a049cafc55bff29c24bedcd67ac1ba9e3290918ffffc51742a9fb24<br>
 Message ID: \<3.0.2.32.19970611221920.040ea5a0@mail.teleport.com\><br>
@@ -72,6 +72,11 @@ Oh... So you are on a short fuse...
 ## Thread
 
 + Return to [June 1997](/archive/1997/06)
+
++ Return to "[Alan Olsen <alan<span>@</span>ctrl-alt-del.com>](/author/alan_olsen_alan_at_ctrlaltdel_com_)"
++ Return to "[bennett_t1<span>@</span>popmail.firn.edu](/author/bennett_t1_at_popmail_firn_edu)"
++ Return to "[Tom McClanahan <minuteman<span>@</span>fuse.net>](/author/tom_mcclanahan_minuteman_at_fuse_net_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-06-11 (Thu, 12 Jun 1997 06:49:51 +0800) - [mailing list](/archive/1997/06/f7b776ed5a2def2d0b00e3c10af73e497a02d7fba40a46b04fbceda9a1de018e) - _Tom McClanahan \<minuteman@fuse.net\>_
   + 1997-06-12 (Thu, 12 Jun 1997 11:23:09 +0800) - [Re: mailing list](/archive/1997/06/72104ef8f4d5a3477d29267a9dd8b3bf0db5767a276a6c4123ce7de3cf3368d3) - _bennett_t1@popmail.firn.edu_

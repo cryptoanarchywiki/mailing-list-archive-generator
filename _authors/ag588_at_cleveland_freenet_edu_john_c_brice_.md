@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ag588_at_cleveland_freenet_edu_john_c_brice_
+post_count: 8
 ---
 
-# ag588@cleveland.Freenet.Edu (John C. Brice) (8 posts)
+# ag588<span>@</span>cleveland.Freenet.Edu (John C. Brice) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

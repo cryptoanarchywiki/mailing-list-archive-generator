@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrickbc_at_juno_com_patrick_b_cummings_
+post_count: 13
 ---
 
-# patrickbc@juno.com (patrick b cummings) (13 posts)
+# patrickbc<span>@</span>juno.com (patrick b cummings) (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_davis_ericd_at_shop_internet_net_
+post_count: 2
 ---
 
-# Eric Davis <ericd@shop.internet.net> (2 posts)
+# Eric Davis <ericd<span>@</span>shop.internet.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

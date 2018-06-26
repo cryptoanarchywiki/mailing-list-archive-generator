@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: simsong_at_next_cambridge_ma_us_simson_l_garfinkel_
+post_count: 3
 ---
 
-# simsong@next.cambridge.ma.us (Simson L. Garfinkel) (3 posts)
+# simsong<span>@</span>next.cambridge.ma.us (Simson L. Garfinkel) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

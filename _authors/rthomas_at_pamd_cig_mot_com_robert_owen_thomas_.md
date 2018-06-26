@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rthomas_at_pamd_cig_mot_com_robert_owen_thomas_
+post_count: 6
 ---
 
-# rthomas@pamd.cig.mot.com (Robert Owen Thomas) (6 posts)
+# rthomas<span>@</span>pamd.cig.mot.com (Robert Owen Thomas) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

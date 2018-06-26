@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dirsec_unicorn_at_schloss_li_
+post_count: 7
 ---
 
-# dirsec <unicorn@schloss.li> (7 posts)
+# dirsec <unicorn<span>@</span>schloss.li> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

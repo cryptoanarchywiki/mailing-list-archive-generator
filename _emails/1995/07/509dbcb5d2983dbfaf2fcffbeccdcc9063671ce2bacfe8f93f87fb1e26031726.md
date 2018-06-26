@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rah@shipwright.com (Robert Hettinga)<br>
+From: rah<span>@</span>shipwright.com (Robert Hettinga)<br>
 To: www-buyinfo@allegra.att.com<br>
 Message Hash: 509dbcb5d2983dbfaf2fcffbeccdcc9063671ce2bacfe8f93f87fb1e26031726<br>
 Message ID: \<v02120d00ac2a18ee888c@[199.0.65.105]\><br>
@@ -64,6 +64,8 @@ USA (617) 323-7923
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[rah<span>@</span>shipwright.com (Robert Hettinga)](/author/rah_at_shipwright_com_robert_hettinga_)"
 
 + 1995-07-13 (Wed, 12 Jul 95 17:40:12 PDT) - Road trip - _rah@shipwright.com (Robert Hettinga)_
 

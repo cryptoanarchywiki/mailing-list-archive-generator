@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sterling_d_tate_sterling_d__tate_at_smtpgty_anatcp_rockwell_com_
+post_count: 1
 ---
 
-# "STERLING D. TATE" <STERLING_D._TATE@smtpgty.anatcp.rockwell.com> (1 posts)
+# "STERLING D. TATE" <STERLING_D._TATE<span>@</span>smtpgty.anatcp.rockwell.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

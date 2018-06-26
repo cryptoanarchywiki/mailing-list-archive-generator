@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: timothy_newsham_newsham_at_wiliki_eng_hawaii_edu_
+post_count: 92
 ---
 
-# Timothy Newsham <newsham@wiliki.eng.hawaii.edu> (92 posts)
+# Timothy Newsham <newsham<span>@</span>wiliki.eng.hawaii.edu> (92 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

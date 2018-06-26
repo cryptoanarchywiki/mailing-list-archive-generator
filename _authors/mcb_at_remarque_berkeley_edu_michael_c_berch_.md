@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mcb_at_remarque_berkeley_edu_michael_c_berch_
+post_count: 1
 ---
 
-# mcb@remarque.berkeley.edu (Michael C. Berch) (1 posts)
+# mcb<span>@</span>remarque.berkeley.edu (Michael C. Berch) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

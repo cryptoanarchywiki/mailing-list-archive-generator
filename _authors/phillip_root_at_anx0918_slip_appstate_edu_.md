@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phillip_root_at_anx0918_slip_appstate_edu_
+post_count: 1
 ---
 
-# Phillip <root@anx0918.slip.appstate.edu> (1 posts)
+# Phillip <root<span>@</span>anx0918.slip.appstate.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_mg5nea1e6llvoz70pb6bweqlrmyla4udd80xgn0a0saq03_at_andrew_cmu_edu_
+post_count: 5
 ---
 
-# Anonymous <mg5n+ea1e6llvoz70pb6bweqlrmyla4udd80xgn0a0saq03@andrew.cmu.edu> (5 posts)
+# Anonymous <mg5n+ea1e6llvoz70pb6bweqlrmyla4udd80xgn0a0saq03<span>@</span>andrew.cmu.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

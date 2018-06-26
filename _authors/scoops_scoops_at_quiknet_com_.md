@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scoops_scoops_at_quiknet_com_
+post_count: 3
 ---
 
-# scoops <scoops@quiknet.com> (3 posts)
+# scoops <scoops<span>@</span>quiknet.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

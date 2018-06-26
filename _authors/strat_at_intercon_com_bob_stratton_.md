@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: strat_at_intercon_com_bob_stratton_
+post_count: 12
 ---
 
-# strat@intercon.com (Bob Stratton) (12 posts)
+# strat<span>@</span>intercon.com (Bob Stratton) (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

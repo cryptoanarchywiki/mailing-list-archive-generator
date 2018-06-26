@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_phantom_phantom_at_u_washington_edu_
+post_count: 21
 ---
 
-# The Phantom <phantom@u.washington.edu> (21 posts)
+# The Phantom <phantom<span>@</span>u.washington.edu> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

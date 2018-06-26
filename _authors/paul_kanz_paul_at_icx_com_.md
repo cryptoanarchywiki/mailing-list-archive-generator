@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_kanz_paul_at_icx_com_
+post_count: 1
 ---
 
-# Paul Kanz <paul@icx.com> (1 posts)
+# Paul Kanz <paul<span>@</span>icx.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

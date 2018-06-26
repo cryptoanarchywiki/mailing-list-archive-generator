@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_m__markm_at_omni_voicenet_com_
+post_count: 12
 ---
 
-# "Mark M." <markm@omni.voicenet.com> (12 posts)
+# "Mark M." <markm<span>@</span>omni.voicenet.com> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

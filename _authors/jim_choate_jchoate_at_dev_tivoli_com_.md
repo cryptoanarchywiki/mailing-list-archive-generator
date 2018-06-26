@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_choate_jchoate_at_dev_tivoli_com_
+post_count: 1
 ---
 
-# Jim Choate <jchoate@dev.tivoli.com> (1 posts)
+# Jim Choate <jchoate<span>@</span>dev.tivoli.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ed_kelly_edkelly_at_ins_infonet_net_
+post_count: 1
 ---
 
-# ED KELLY <edkelly@INS.INFONET.NET> (1 posts)
+# ED KELLY <edkelly<span>@</span>INS.INFONET.NET> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rbersten_at_ia_com_au_rosanne_bersten_
+post_count: 2
 ---
 
-# rbersten@ia.com.au (Rosanne Bersten) (2 posts)
+# rbersten<span>@</span>ia.com.au (Rosanne Bersten) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

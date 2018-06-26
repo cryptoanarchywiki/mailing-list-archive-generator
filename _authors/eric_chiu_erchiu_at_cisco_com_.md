@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_chiu_erchiu_at_cisco_com_
+post_count: 1
 ---
 
-# Eric Chiu <erchiu@cisco.com> (1 posts)
+# Eric Chiu <erchiu<span>@</span>cisco.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

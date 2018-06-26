@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bobpal_at_cdt_org_bob_palacios_
+post_count: 4
 ---
 
-# bobpal@cdt.org (Bob Palacios) (4 posts)
+# bobpal<span>@</span>cdt.org (Bob Palacios) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

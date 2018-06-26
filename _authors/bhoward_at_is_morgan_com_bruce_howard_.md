@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bhoward_at_is_morgan_com_bruce_howard_
+post_count: 1
 ---
 
-# bhoward@is.morgan.com (Bruce Howard) (1 posts)
+# bhoward<span>@</span>is.morgan.com (Bruce Howard) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: abostick@netcom.com (Alan Bostick)<br>
+From: abostick<span>@</span>netcom.com (Alan Bostick)<br>
 To: stewarts@ix.netcom.com<br>
 Message Hash: 3e391f0132e2f821cf20b23dd004adbdcbad1eedd9dba4ffe5645fbe91f2bd2b<br>
 Message ID: \<baHQx8m9LwlQ085yn@netcom.com\><br>
@@ -79,6 +79,10 @@ PobslFhkFEwPd9jnZwY4g0ZZKb3iABIO
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[abostick<span>@</span>netcom.com (Alan Bostick)](/author/abostick_at_netcom_com_alan_bostick_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "["James Black (CS)" <black<span>@</span>eng.usf.edu>](/author/james_black_cs__black_at_eng_usf_edu_)"
 
 + 1996-03-07 (Thu, 7 Mar 1996 22:33:14 +0800) - [Re: Looking for code to run an encrypted mailing list](/archive/1996/03/4f9e56c5124257331bc2f7ffba22f085c4627f4773ddefeb7e2348a8a0fbaff4) - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1996-03-08 (Sat, 9 Mar 1996 06:00:38 +0800) - Re: Looking for code to run an encrypted mailing list - _abostick@netcom.com (Alan Bostick)_

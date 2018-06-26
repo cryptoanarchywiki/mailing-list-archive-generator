@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: don_at_cs_byu_edu
+post_count: 30
 ---
 
-# don@cs.byu.edu (30 posts)
+# don<span>@</span>cs.byu.edu (30 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

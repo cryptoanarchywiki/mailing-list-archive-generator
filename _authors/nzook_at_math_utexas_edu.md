@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nzook_at_math_utexas_edu
+post_count: 22
 ---
 
-# nzook@math.utexas.edu (22 posts)
+# nzook<span>@</span>math.utexas.edu (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

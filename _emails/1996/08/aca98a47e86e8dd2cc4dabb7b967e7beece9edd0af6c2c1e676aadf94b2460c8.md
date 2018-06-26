@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adamsc@io-online.com (Adamsc)<br>
+From: Adamsc<span>@</span>io-online.com (Adamsc)<br>
 To: "cypherpunks" \<cypherpunks@toad.com\><br>
 Message Hash: aca98a47e86e8dd2cc4dabb7b967e7beece9edd0af6c2c1e676aadf94b2460c8<br>
 Message ID: \<19960821071500515.AAA190@IO-ONLINE.COM\><br>
@@ -103,6 +103,8 @@ http://www.io-online.com/adamsc/adamsc.htp
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/author/adamsc_at_ioonline_com_adamsc_)"
 
 + 1996-08-21 (Wed, 21 Aug 1996 17:25:25 +0800) - Fwd: Re: No Subject - Lesson in cracking (cryptoanalysis 001) - _Adamsc@io-online.com (Adamsc)_
 

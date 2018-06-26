@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frezza_at_interramp_com_bill_frezza_
+post_count: 1
 ---
 
-# frezza@interramp.com (Bill Frezza) (1 posts)
+# frezza<span>@</span>interramp.com (Bill Frezza) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

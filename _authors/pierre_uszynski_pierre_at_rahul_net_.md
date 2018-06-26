@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pierre_uszynski_pierre_at_rahul_net_
+post_count: 3
 ---
 
-# Pierre Uszynski <pierre@rahul.net> (3 posts)
+# Pierre Uszynski <pierre<span>@</span>rahul.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

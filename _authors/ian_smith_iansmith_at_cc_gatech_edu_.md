@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ian_smith_iansmith_at_cc_gatech_edu_
+post_count: 2
 ---
 
-# Ian Smith <iansmith@cc.gatech.edu> (2 posts)
+# Ian Smith <iansmith<span>@</span>cc.gatech.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

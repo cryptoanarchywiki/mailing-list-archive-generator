@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: real_at_freenet_edmonton_ab_ca
+post_count: 2
 ---
 
-# real@freenet.edmonton.ab.ca (2 posts)
+# real<span>@</span>freenet.edmonton.ab.ca (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

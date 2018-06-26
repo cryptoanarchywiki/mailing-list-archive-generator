@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: newfile_at_man_net
+post_count: 1
 ---
 
-# Newfile@man.net (1 posts)
+# Newfile<span>@</span>man.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

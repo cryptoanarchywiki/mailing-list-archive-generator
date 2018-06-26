@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ketcher_at_ix_netcom_com_michael_ketcher_
+post_count: 1
 ---
 
-# ketcher@ix.netcom.com (Michael Ketcher ) (1 posts)
+# ketcher<span>@</span>ix.netcom.com (Michael Ketcher ) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

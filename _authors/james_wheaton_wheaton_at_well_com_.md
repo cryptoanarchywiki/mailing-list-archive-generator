@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_wheaton_wheaton_at_well_com_
+post_count: 1
 ---
 
-# James Wheaton <wheaton@well.com> (1 posts)
+# James Wheaton <wheaton<span>@</span>well.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

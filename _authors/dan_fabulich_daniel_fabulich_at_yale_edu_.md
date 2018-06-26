@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_fabulich_daniel_fabulich_at_yale_edu_
+post_count: 1
 ---
 
-# Dan Fabulich <daniel.fabulich@yale.edu> (1 posts)
+# Dan Fabulich <daniel.fabulich<span>@</span>yale.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

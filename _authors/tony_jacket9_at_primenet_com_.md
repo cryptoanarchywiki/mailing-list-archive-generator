@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tony_jacket9_at_primenet_com_
+post_count: 1
 ---
 
-# "Tony" <jacket9@primenet.com> (1 posts)
+# "Tony" <jacket9<span>@</span>primenet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

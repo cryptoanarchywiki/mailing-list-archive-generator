@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>netcom.com (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0e9ce4c6ef5fd1f4cc95bbefdb07dbf04ce5ebb599db47c1f8cf371a058023ca<br>
 Message ID: \<199407282107.OAA20776@netcom2.netcom.com\><br>
@@ -108,6 +108,9 @@ Higher Power: 2^859433 | Public Key: PGP and MailSafe available.
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-07-28 (Thu, 28 Jul 94 14:07:42 PDT) - Denning and Walker on SKE and International Escrow - _tcmay@netcom.com (Timothy C. May)_
   + 1994-07-29 (Thu, 28 Jul 94 18:08:30 PDT) - [Denning and Walker on SKE and International Escrow](/archive/1994/07/30711293b525dca8f6ad1bab828c6b86f216afb8f636df018948e6be58db166f) - _hughes@ah.com (Eric Hughes)_

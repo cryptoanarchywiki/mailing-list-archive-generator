@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: syl_miniter_8037683759_miniters_at_citadel_edu_
+post_count: 8
 ---
 
-# Syl Miniter 803-768-3759 <MINITERS@Citadel.edu> (8 posts)
+# Syl Miniter 803-768-3759 <MINITERS<span>@</span>Citadel.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

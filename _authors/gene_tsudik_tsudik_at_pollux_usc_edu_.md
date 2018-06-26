@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gene_tsudik_tsudik_at_pollux_usc_edu_
+post_count: 2
 ---
 
-# Gene Tsudik <tsudik@pollux.usc.edu> (2 posts)
+# Gene Tsudik <tsudik<span>@</span>pollux.usc.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

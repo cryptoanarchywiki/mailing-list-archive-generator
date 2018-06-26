@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sdt_at_zilker_net_steve_tonnesen_
+post_count: 1
 ---
 
-# sdt@zilker.net (Steve Tonnesen) (1 posts)
+# sdt<span>@</span>zilker.net (Steve Tonnesen) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

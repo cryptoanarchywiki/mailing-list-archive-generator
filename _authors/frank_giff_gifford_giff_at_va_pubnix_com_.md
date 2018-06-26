@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frank_giff_gifford_giff_at_va_pubnix_com_
+post_count: 1
 ---
 
-# "Frank (Giff) Gifford" <giff@va.pubnix.com> (1 posts)
+# "Frank (Giff) Gifford" <giff<span>@</span>va.pubnix.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

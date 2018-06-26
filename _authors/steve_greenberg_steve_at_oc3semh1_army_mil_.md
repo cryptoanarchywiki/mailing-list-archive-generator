@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_greenberg_steve_at_oc3semh1_army_mil_
+post_count: 3
 ---
 
-# Steve Greenberg <steve@oc3s-emh1.army.mil> (3 posts)
+# Steve Greenberg <steve<span>@</span>oc3s-emh1.army.mil> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

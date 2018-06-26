@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_shipley_shipley_at_gateway_
+post_count: 1
 ---
 
-# Peter Shipley <shipley@gateway> (1 posts)
+# Peter Shipley <shipley<span>@</span>gateway> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: an366601@anon.penet.fi<br>
+From: an366601<span>@</span>anon.penet.fi<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ecdbd1cc5b3466faeb34bb4d531adeebdb5350be5f636e8e67fdfd315b83c7f1<br>
 Message ID: \<9508250244.AA26841@anon.penet.fi\><br>
@@ -416,6 +416,9 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 ## Thread
 
 + Return to [August 1995](/archive/1995/08)
+
++ Return to "[an366601<span>@</span>anon.penet.fi](/author/an366601_at_anon_penet_fi)"
++ Return to "[fc<span>@</span>all.net (Dr. Frederick B. Cohen)](/author/fc_at_all_net_dr_frederick_b_cohen_)"
 
 + 1995-08-25 (Thu, 24 Aug 95 20:00:56 PDT) - The Theory of Nymity (value of True Names) - _an366601@anon.penet.fi_
   + 1995-08-25 (Fri, 25 Aug 95 04:23:52 PDT) - [Re: The Theory of Nymity (value of True Names)](/archive/1995/08/70acb91806ba44b4d872aae7dcccb4d53279e4944d53778c873e4c1308e4b268) - _fc@all.net (Dr. Frederick B. Cohen)_

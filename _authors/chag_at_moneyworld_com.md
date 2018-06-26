@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chag_at_moneyworld_com
+post_count: 1
 ---
 
-# chag@moneyworld.com (1 posts)
+# chag<span>@</span>moneyworld.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

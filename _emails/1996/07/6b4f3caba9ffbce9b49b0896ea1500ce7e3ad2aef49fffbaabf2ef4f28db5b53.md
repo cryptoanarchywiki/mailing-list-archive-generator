@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Moroni \<moroni@scranton.com\><br>
+From: Moroni \<moroni<span>@</span>scranton.com\><br>
 To: Rabid Wombat \<wombat@mcfeely.bsfs.org\><br>
 Message Hash: 6b4f3caba9ffbce9b49b0896ea1500ce7e3ad2aef49fffbaabf2ef4f28db5b53<br>
 Message ID: \<Pine.LNX.3.95.960728210507.21489A-100000@user1.scranton.com\><br>
@@ -70,6 +70,10 @@ On Sun, 28 Jul 1996, Rabid Wombat wrote:
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Moroni <moroni<span>@</span>scranton.com>](/author/moroni_moroni_at_scranton_com_)"
++ Return to "[pjn<span>@</span>nworks.com](/author/pjn_at_nworks_com)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
 
 + 1996-07-28 (Sun, 28 Jul 1996 09:37:00 +0800) - [Re: ALL OF YOU ARE CRIMIN](/archive/1996/07/8e1838e47dbfa3d2804a5b7f75ac57287eaba2b51243b60b691388437400c457) - _pjn@nworks.com_
   + 1996-07-28 (Mon, 29 Jul 1996 02:48:53 +0800) - [Re: ALL OF YOU ARE CRIMIN](/archive/1996/07/aeb926475e97619cc69d453d9accbdaa9a0b25af6236fcf0ac2fdb2e01d8d349) - _Rabid Wombat \<wombat@mcfeely.bsfs.org\>_

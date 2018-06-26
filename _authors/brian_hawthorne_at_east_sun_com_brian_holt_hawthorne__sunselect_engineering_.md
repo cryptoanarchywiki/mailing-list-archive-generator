@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_hawthorne_at_east_sun_com_brian_holt_hawthorne__sunselect_engineering_
+post_count: 3
 ---
 
-# Brian.Hawthorne@East.Sun.COM (Brian Holt Hawthorne - SunSelect Engineering) (3 posts)
+# Brian.Hawthorne<span>@</span>East.Sun.COM (Brian Holt Hawthorne - SunSelect Engineering) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

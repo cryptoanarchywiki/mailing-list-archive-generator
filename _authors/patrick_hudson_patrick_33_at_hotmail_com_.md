@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_hudson_patrick_33_at_hotmail_com_
+post_count: 1
 ---
 
-# "Patrick Hudson" <patrick_33@hotmail.com> (1 posts)
+# "Patrick Hudson" <patrick_33<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

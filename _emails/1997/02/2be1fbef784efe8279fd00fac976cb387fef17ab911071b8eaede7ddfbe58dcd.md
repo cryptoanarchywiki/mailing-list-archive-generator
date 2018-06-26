@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Robert Rothenburg 'Walking-Owl'" \<WlkngOwl@unix.asb.com\><br>
+From: "Robert Rothenburg 'Walking-Owl'" \<WlkngOwl<span>@</span>unix.asb.com\><br>
 To: coderpunks@toad.com<br>
 Message Hash: 2be1fbef784efe8279fd00fac976cb387fef17ab911071b8eaede7ddfbe58dcd<br>
 Message ID: \<199702111411.GAA19363@toad.com\><br>
@@ -75,6 +75,8 @@ It might make an interesting experimental project to work on.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "["Robert Rothenburg 'Walking-Owl'" <WlkngOwl<span>@</span>unix.asb.com>](/author/robert_rothenburg_walkingowl_wlkngowl_at_unix_asb_com_)"
 
 + 1997-02-11 (Tue, 11 Feb 1997 06:11:49 -0800 (PST)) - E-cash and distributed computing... - _"Robert Rothenburg 'Walking-Owl'" \<WlkngOwl@unix.asb.com\>_
 

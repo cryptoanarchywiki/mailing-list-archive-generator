@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: somser_bbs_somser_at_besos_hnet_es_
+post_count: 1
 ---
 
-# SOMSER BBS <somser@besos.hnet.es> (1 posts)
+# SOMSER BBS <somser<span>@</span>besos.hnet.es> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

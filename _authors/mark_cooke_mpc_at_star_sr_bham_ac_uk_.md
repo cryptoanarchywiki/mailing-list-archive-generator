@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_cooke_mpc_at_star_sr_bham_ac_uk_
+post_count: 1
 ---
 
-# Mark Cooke <mpc@star.sr.bham.ac.uk> (1 posts)
+# Mark Cooke <mpc<span>@</span>star.sr.bham.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

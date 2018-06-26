@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dustbin_freedom_remailer_dustman_at_athensnet_com_
+post_count: 10
 ---
 
-# Dustbin Freedom Remailer <dustman@athensnet.com> (10 posts)
+# Dustbin Freedom Remailer <dustman<span>@</span>athensnet.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

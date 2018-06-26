@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mskala_at_lyell_csc_uvic_ca
+post_count: 1
 ---
 
-# mskala@lyell.csc.UVic.CA (1 posts)
+# mskala<span>@</span>lyell.csc.UVic.CA (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: darren_reed_avalon_at_coombs_anu_edu_au_
+post_count: 14
 ---
 
-# Darren Reed <avalon@coombs.anu.edu.au> (14 posts)
+# Darren Reed <avalon<span>@</span>coombs.anu.edu.au> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

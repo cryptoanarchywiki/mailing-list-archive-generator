@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nraizman@winchester.pp.psc.edu<br>
+From: nraizman<span>@</span>winchester.pp.psc.edu<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 6f6dc7b46d1511f9accfef8abfa14cef8b591a557c41dd5bdce24ab113b9bb3e<br>
 Message ID: \<9212031629.AA08600@winchester.pp.psc.edu\><br>
@@ -42,6 +42,8 @@ nraizman@winchester.pp.psc.edu
 ## Thread
 
 + Return to [December 1992](/archive/1992/12)
+
++ Return to "[nraizman<span>@</span>winchester.pp.psc.edu](/author/nraizman_at_winchester_pp_psc_edu)"
 
 + 1992-12-03 (Thu, 3 Dec 92 08:34:29 PST) - Info Wanted - _nraizman@winchester.pp.psc.edu_
 

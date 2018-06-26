@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: b44729_at_achilles_ctd_anl_gov_samuel_pigg_
+post_count: 18
 ---
 
-# b44729@achilles.ctd.anl.gov (Samuel Pigg) (18 posts)
+# b44729<span>@</span>achilles.ctd.anl.gov (Samuel Pigg) (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

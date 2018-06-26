@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hammond_at_census_gov_bob_hammond_casic_
+post_count: 1
 ---
 
-# hammond@census.gov (Bob Hammond (CASIC)) (1 posts)
+# hammond<span>@</span>census.gov (Bob Hammond (CASIC)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

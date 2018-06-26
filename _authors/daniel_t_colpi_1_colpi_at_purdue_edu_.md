@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_t_colpi_1_colpi_at_purdue_edu_
+post_count: 1
 ---
 
-# "daniel.t.colpi.1" <colpi@purdue.edu> (1 posts)
+# "daniel.t.colpi.1" <colpi<span>@</span>purdue.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

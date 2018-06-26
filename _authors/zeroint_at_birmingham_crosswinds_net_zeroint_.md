@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: zeroint_at_birmingham_crosswinds_net_zeroint_
+post_count: 2
 ---
 
 # ZeroInt.at.birmingham.crosswinds.net (ZeroInt) (2 posts)

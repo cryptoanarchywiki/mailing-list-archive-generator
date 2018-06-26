@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_dodds_bdodds_at_jyacc_com_
+post_count: 1
 ---
 
-# brian dodds <bdodds@jyacc.com> (1 posts)
+# brian dodds <bdodds<span>@</span>jyacc.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

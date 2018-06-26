@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_dodds_jyaccaspenbdodds_at_uunet_uu_net_
+post_count: 4
 ---
 
-# brian dodds <jyacc!aspen!bdodds@uunet.uu.net> (4 posts)
+# brian dodds <jyacc!aspen!bdodds<span>@</span>uunet.uu.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

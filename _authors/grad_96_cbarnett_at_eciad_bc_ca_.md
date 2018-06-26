@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: grad_96_cbarnett_at_eciad_bc_ca_
+post_count: 1
 ---
 
-# grad 96 <cbarnett@eciad.bc.ca> (1 posts)
+# grad 96 <cbarnett<span>@</span>eciad.bc.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

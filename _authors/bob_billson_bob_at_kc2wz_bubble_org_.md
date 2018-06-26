@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bob_billson_bob_at_kc2wz_bubble_org_
+post_count: 1
 ---
 
-# Bob Billson <bob@kc2wz.bubble.org> (1 posts)
+# Bob Billson <bob<span>@</span>kc2wz.bubble.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

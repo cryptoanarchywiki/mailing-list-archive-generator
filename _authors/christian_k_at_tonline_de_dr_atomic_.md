@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christian_k_at_tonline_de_dr_atomic_
+post_count: 1
 ---
 
-# Christian.K@t-online.de (Dr. Atomic) (1 posts)
+# Christian.K<span>@</span>t-online.de (Dr. Atomic) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

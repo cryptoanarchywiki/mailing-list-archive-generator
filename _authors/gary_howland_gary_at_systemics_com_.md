@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gary_howland_gary_at_systemics_com_
+post_count: 101
 ---
 
-# Gary Howland <gary@systemics.com> (101 posts)
+# Gary Howland <gary<span>@</span>systemics.com> (101 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>netcom.com (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 928c0c3dce3cf73a43ff96b65dbb9dbd7bbbb057f6b8dcce8e8b372ecf14f79a<br>
 Message ID: \<199312241941.LAA28746@mail.netcom.com\><br>
@@ -65,6 +65,8 @@ Note: I put time and money into writing this posting. I hope you enjoy it.
 ## Thread
 
 + Return to [December 1993](/archive/1993/12)
+
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1993-12-24 (Fri, 24 Dec 93 11:41:23 PST) - Talk.politics.crypto is mostly about Detweiler - _tcmay@netcom.com (Timothy C. May)_
 

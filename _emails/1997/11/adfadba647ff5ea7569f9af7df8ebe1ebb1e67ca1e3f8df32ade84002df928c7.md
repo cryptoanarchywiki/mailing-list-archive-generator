@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@invweb.net\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>invweb.net\><br>
 To: Robert Hettinga \<rah@shipwright.com\><br>
 Message Hash: adfadba647ff5ea7569f9af7df8ebe1ebb1e67ca1e3f8df32ade84002df928c7<br>
 Message ID: \<199711070123.UAA26060@users.invweb.net\><br>
@@ -122,6 +122,9 @@ hboWKKX/fXM=
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/author/william_h_geiger_iii_whgiii_at_invweb_net_)"
 
 + 1997-11-07 (Fri, 7 Nov 1997 08:39:43 +0800) - [Re: Hughes Markets? (Was Re: Copyright commerce and the street	musician protocol)](/archive/1997/11/58775c3b1597c783c0104965ac0fa44c1bd450bf2c10db9ab3703bd3cc6f1edf) - _Robert Hettinga \<rah@shipwright.com\>_
   + 1997-11-07 (Fri, 7 Nov 1997 09:43:42 +0800) - Re: Hughes Markets? (Was Re: Copyright commerce and the street	 musician protocol) - _"William H. Geiger III" \<whgiii@invweb.net\>_

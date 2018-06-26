@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cv_communications_response_at_quantcom_com_
+post_count: 3
 ---
 
-# CV Communications <response@quantcom.com> (3 posts)
+# CV Communications <response<span>@</span>quantcom.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

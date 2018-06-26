@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_de_joode_adejoode_at_replay_com_
+post_count: 5
 ---
 
-# Alex de Joode <adejoode@replay.com> (5 posts)
+# Alex de Joode <adejoode<span>@</span>replay.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

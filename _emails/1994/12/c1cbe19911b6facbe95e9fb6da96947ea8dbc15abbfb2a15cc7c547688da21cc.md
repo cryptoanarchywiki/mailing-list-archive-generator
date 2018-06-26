@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: abostick@netcom.com (Alan Bostick)<br>
+From: abostick<span>@</span>netcom.com (Alan Bostick)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c1cbe19911b6facbe95e9fb6da96947ea8dbc15abbfb2a15cc7c547688da21cc<br>
 Message ID: \<rOstkyczBaX3073yn@netcom.com\><br>
@@ -62,6 +62,8 @@ Key fingerprint:          |
 ## Thread
 
 + Return to [December 1994](/archive/1994/12)
+
++ Return to "[abostick<span>@</span>netcom.com (Alan Bostick)](/author/abostick_at_netcom_com_alan_bostick_)"
 
 + 1994-12-02 (Fri, 2 Dec 94 10:36:44 PST) - Easy-to-use signature software - _abostick@netcom.com (Alan Bostick)_
 

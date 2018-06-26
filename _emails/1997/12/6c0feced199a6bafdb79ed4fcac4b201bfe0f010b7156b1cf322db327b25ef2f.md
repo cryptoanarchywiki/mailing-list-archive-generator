@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: GreatTunes2@ar.net<br>
+From: GreatTunes2<span>@</span>ar.net<br>
 To: GreatTunes2@ar.net<br>
 Message Hash: 6c0feced199a6bafdb79ed4fcac4b201bfe0f010b7156b1cf322db327b25ef2f<br>
 Message ID: \<19971205332VAA45009@post.211.3.7\><br>
@@ -104,6 +104,8 @@ c
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[GreatTunes2<span>@</span>ar.net](/author/greattunes2_at_ar_net)"
 
 + 1997-12-05 (Fri, 5 Dec 1997 02:08:18 -0800 (PST)) - A great Christmas gift for less than $20. - _GreatTunes2@ar.net_
 

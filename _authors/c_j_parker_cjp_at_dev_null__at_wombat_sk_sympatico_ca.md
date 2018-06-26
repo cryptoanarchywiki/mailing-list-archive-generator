@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c_j_parker_cjp_at_dev_null__at_wombat_sk_sympatico_ca
+post_count: 2
 ---
 
-# "C.J. Parker <cjp@dev.null>"@wombat.sk.sympatico.ca (2 posts)
+# "C.J. Parker <cjp<span>@</span>dev.null>"<span>@</span>wombat.sk.sympatico.ca (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

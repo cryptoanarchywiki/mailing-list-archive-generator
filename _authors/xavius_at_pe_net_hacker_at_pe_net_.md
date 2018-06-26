@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: xavius_at_pe_net_hacker_at_pe_net_
+post_count: 1
 ---
 
-# "XaViUs@pe.net" <hacker@pe.net> (1 posts)
+# "XaViUs<span>@</span>pe.net" <hacker<span>@</span>pe.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

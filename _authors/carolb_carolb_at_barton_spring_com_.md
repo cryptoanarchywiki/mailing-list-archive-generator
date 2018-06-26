@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carolb_carolb_at_barton_spring_com_
+post_count: 2
 ---
 
-# carolb <carolb@barton.spring.com> (2 posts)
+# carolb <carolb<span>@</span>barton.spring.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

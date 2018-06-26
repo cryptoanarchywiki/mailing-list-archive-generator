@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_hettingazzi_rh_at_dev_null_
+post_count: 1
 ---
 
-# Robert Hettingazzi <rh@dev.null> (1 posts)
+# Robert Hettingazzi <rh<span>@</span>dev.null> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: gnu_john_gilmore_
+post_count: 108
 ---
 
 # gnu (John Gilmore) (108 posts)

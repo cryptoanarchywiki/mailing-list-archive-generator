@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phiber_optik_phiber_at_eff_org_
+post_count: 25
 ---
 
-# Phiber Optik <phiber@eff.org> (25 posts)
+# Phiber Optik <phiber<span>@</span>eff.org> (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

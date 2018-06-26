@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marcel_van_der_peijl_bigmac_at_digicash_com_
+post_count: 12
 ---
 
-# "Marcel van der Peijl" <bigmac@digicash.com> (12 posts)
+# "Marcel van der Peijl" <bigmac<span>@</span>digicash.com> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

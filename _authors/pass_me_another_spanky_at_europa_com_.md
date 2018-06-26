@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pass_me_another_spanky_at_europa_com_
+post_count: 4
 ---
 
-# "Pass me another!" <spanky@europa.com> (4 posts)
+# "Pass me another!" <spanky<span>@</span>europa.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

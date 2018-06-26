@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: llurch_at_networking_stanford_edu_rich_graves_fucking_statist_
+post_count: 1
 ---
 
-# llurch@networking.stanford.edu (Rich Graves, Fucking Statist) (1 posts)
+# llurch<span>@</span>networking.stanford.edu (Rich Graves, Fucking Statist) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

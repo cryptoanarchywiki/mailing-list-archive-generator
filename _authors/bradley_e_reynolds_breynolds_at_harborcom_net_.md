@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bradley_e_reynolds_breynolds_at_harborcom_net_
+post_count: 4
 ---
 
-# "Bradley E. Reynolds" <breynolds@harborcom.net> (4 posts)
+# "Bradley E. Reynolds" <breynolds<span>@</span>harborcom.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

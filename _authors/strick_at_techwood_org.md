@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: strick_at_techwood_org
+post_count: 5
 ---
 
-# strick@techwood.org (5 posts)
+# strick<span>@</span>techwood.org (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

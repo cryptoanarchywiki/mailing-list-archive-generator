@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cummings_clarke_a__smsgt_ccumming_at_lglan_usafe_af_mil_
+post_count: 1
 ---
 
-# "Cummings, Clarke A. - SMSgt" <ccumming@lglan.usafe.af.mil> (1 posts)
+# "Cummings, Clarke A. - SMSgt" <ccumming<span>@</span>lglan.usafe.af.mil> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

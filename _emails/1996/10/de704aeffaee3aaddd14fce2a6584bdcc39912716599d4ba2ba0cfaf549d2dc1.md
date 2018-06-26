@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Geoffrey C. Grabow" \<gcg@pb.net\><br>
+From: "Geoffrey C. Grabow" \<gcg<span>@</span>pb.net\><br>
 To: Gary Howland \<gary@systemics.com\><br>
 Message Hash: de704aeffaee3aaddd14fce2a6584bdcc39912716599d4ba2ba0cfaf549d2dc1<br>
 Message ID: \<3.0b36.32.19961018101502.0069a5e4@mail.pb.net\><br>
@@ -71,6 +71,8 @@ track 2 of the card, the bank's database or both.
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "["Geoffrey C. Grabow" <gcg<span>@</span>pb.net>](/author/geoffrey_c_grabow_gcg_at_pb_net_)"
 
 + 1996-10-18 (Fri, 18 Oct 1996 07:18:16 -0700 (PDT)) - Re: DES cracker. - _"Geoffrey C. Grabow" \<gcg@pb.net\>_
 

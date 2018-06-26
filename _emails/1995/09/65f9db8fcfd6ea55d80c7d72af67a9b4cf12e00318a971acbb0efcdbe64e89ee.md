@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Deranged Mutant \<rrothenb@ic.sunysb.edu\><br>
+From: Deranged Mutant \<rrothenb<span>@</span>ic.sunysb.edu\><br>
 To: cypherpunks@toad.com (C'Punk List)<br>
 Message Hash: 65f9db8fcfd6ea55d80c7d72af67a9b4cf12e00318a971acbb0efcdbe64e89ee<br>
 Message ID: \<199509242327.TAA06477@libws4.ic.sunysb.edu\><br>
@@ -52,6 +52,10 @@ Rob
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[chen<span>@</span>intuit.com (Mark Chen)](/author/chen_at_intuit_com_mark_chen_)"
++ Return to "[Deranged Mutant <rrothenb<span>@</span>ic.sunysb.edu>](/author/deranged_mutant_rrothenb_at_ic_sunysb_edu_)"
++ Return to "[dmandl<span>@</span>panix.com (David Mandl)](/author/dmandl_at_panix_com_david_mandl_)"
 
 + 1995-09-24 (Sun, 24 Sep 95 08:12:53 PDT) - [Re: macworld crypto articles](/archive/1995/09/131ae0c3f31881b3cf04dbf75d9e04230d41ed2a3c73074d4e7637cab6272328) - _dmandl@panix.com (David Mandl)_
   + 1995-09-24 (Sun, 24 Sep 95 10:34:20 PDT) - [Re: macworld crypto articles](/archive/1995/09/279e53fa4d8e4733f49f1efc6ed059476ef0d0f2771c0217fce403cde71ccd4e) - _chen@intuit.com (Mark Chen)_

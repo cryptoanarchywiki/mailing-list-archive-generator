@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: colin_a_reed_aleph_at_cco_caltech_edu_
+post_count: 8
 ---
 
-# "Colin A. Reed" <aleph@cco.caltech.edu> (8 posts)
+# "Colin A. Reed" <aleph<span>@</span>cco.caltech.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

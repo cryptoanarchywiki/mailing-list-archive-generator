@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_gostin_jgostin_at_eternal_pha_pa_us_
+post_count: 66
 ---
 
-# Jeff Gostin <jgostin@eternal.pha.pa.us> (66 posts)
+# Jeff Gostin <jgostin<span>@</span>eternal.pha.pa.us> (66 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 58577650_at_bluewin_ch
+post_count: 1
 ---
 
-# 58577650@bluewin.ch (1 posts)
+# 58577650<span>@</span>bluewin.ch (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

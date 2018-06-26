@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pigeon_at_idr_org_larissa_carlson_
+post_count: 1
 ---
 
-# pigeon@idr.org (Larissa Carlson) (1 posts)
+# pigeon<span>@</span>idr.org (Larissa Carlson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

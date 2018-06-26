@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: visto_corporation_visto_corporation_at_visto_com_
+post_count: 1
 ---
 
-# Visto  Corporation <Visto_Corporation@visto.com> (1 posts)
+# Visto  Corporation <Visto_Corporation<span>@</span>visto.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_at_robo_remailer
+post_count: 5
 ---
 
-# anonymous@robo.remailer (5 posts)
+# anonymous<span>@</span>robo.remailer (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: josh_m_osborne_stripes_at_va_pubnix_com_
+post_count: 25
 ---
 
-# "Josh M. Osborne" <stripes@va.pubnix.com> (25 posts)
+# "Josh M. Osborne" <stripes<span>@</span>va.pubnix.com> (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

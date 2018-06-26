@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: l_dekel_dekel_at_carmel_haifa_ac_il_
+post_count: 2
 ---
 
-# "L. DEkel" <dekel@carmel.haifa.ac.il> (2 posts)
+# "L. DEkel" <dekel<span>@</span>carmel.haifa.ac.il> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

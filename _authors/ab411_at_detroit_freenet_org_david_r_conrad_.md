@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ab411_at_detroit_freenet_org_david_r_conrad_
+post_count: 25
 ---
 
-# ab411@detroit.freenet.org (David R. Conrad) (25 posts)
+# ab411<span>@</span>detroit.freenet.org (David R. Conrad) (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

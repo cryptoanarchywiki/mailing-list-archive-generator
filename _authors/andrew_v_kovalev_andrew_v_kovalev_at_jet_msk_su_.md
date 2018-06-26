@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_v_kovalev_andrew_v_kovalev_at_jet_msk_su_
+post_count: 1
 ---
 
-# Andrew V. Kovalev <Andrew.V.Kovalev@jet.msk.su> (1 posts)
+# Andrew V. Kovalev <Andrew.V.Kovalev<span>@</span>jet.msk.su> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

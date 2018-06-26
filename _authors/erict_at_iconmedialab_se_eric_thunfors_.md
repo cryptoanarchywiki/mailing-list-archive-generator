@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erict_at_iconmedialab_se_eric_thunfors_
+post_count: 1
 ---
 
-# erict@iconmedialab.se (Eric THunfors) (1 posts)
+# erict<span>@</span>iconmedialab.se (Eric THunfors) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

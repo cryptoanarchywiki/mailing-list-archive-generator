@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jason_rennie_at_one_net_au_
+post_count: 4
 ---
 
-# Jason <rennie@one.net.au> (4 posts)
+# Jason <rennie<span>@</span>one.net.au> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

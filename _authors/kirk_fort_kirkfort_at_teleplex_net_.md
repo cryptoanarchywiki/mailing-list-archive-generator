@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kirk_fort_kirkfort_at_teleplex_net_
+post_count: 3
 ---
 
-# "Kirk Fort" <kirkfort@teleplex.net> (3 posts)
+# "Kirk Fort" <kirkfort<span>@</span>teleplex.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

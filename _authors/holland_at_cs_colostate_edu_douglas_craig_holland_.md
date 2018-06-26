@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: holland_at_cs_colostate_edu_douglas_craig_holland_
+post_count: 5
 ---
 
-# holland@CS.ColoState.EDU (douglas craig holland) (5 posts)
+# holland<span>@</span>CS.ColoState.EDU (douglas craig holland) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: godzillas_home_boy_glidedw_at_sfsuvax1_sfsu_edu_
+post_count: 4
 ---
 
-# Godzilla's Home Boy <glidedw@sfsuvax1.sfsu.edu> (4 posts)
+# Godzilla's Home Boy <glidedw<span>@</span>sfsuvax1.sfsu.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

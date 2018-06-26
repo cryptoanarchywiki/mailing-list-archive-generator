@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mix_mixmaster_at_remail_obscura_com_nerthus_no_reply_address_at_sirius_infonex_com_
+post_count: 3
 ---
 
-# Mix <mixmaster@remail.obscura.com>Nerthus <no.reply.address@sirius.infonex.com> (3 posts)
+# Mix <mixmaster<span>@</span>remail.obscura.com>Nerthus <no.reply.address<span>@</span>sirius.infonex.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

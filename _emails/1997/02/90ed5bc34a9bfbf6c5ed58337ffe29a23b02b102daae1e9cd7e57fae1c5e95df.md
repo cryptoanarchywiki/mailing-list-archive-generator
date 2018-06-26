@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Mark M." \<markm@voicenet.com\><br>
+From: "Mark M." \<markm<span>@</span>voicenet.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 90ed5bc34a9bfbf6c5ed58337ffe29a23b02b102daae1e9cd7e57fae1c5e95df<br>
 Message ID: \<Pine.LNX.3.95.970201224616.410A-100000@purple.voicenet.com\><br>
@@ -80,6 +80,9 @@ roUg/9SDCZysmuEvNh8VMLAd492wD2jhge4LiiYaSNWrpe5JD2jA/nJ9Olevpu3v
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
 
 + 1997-02-02 (Sat, 1 Feb 1997 17:56:42 -0800 (PST)) - [Re: Libel & the 1st Amendment](/archive/1997/02/3ce030614752a6769bc4748bbc5d5a483e7232ea92e2100a30e44224687cd570) - _jim bell \<jimbell@pacifier.com\>_
   + 1997-02-02 (Sat, 1 Feb 1997 19:51:41 -0800 (PST)) - Re: Libel & the 1st Amendment - _"Mark M." \<markm@voicenet.com\>_

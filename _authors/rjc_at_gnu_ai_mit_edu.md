@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rjc_at_gnu_ai_mit_edu
+post_count: 17
 ---
 
-# rjc@gnu.ai.mit.edu (17 posts)
+# rjc<span>@</span>gnu.ai.mit.edu (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

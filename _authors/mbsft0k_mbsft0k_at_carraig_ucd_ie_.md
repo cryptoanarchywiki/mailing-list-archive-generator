@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mbsft0k_mbsft0k_at_carraig_ucd_ie_
+post_count: 2
 ---
 
-# MBSFT-0K <MBSFT-0K@carraig.ucd.ie> (2 posts)
+# MBSFT-0K <MBSFT-0K<span>@</span>carraig.ucd.ie> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: arsen_arachelian_aarach01_at_barney_poly_edu_
+post_count: 2
 ---
 
-# Arsen Arachelian <aarach01@barney.poly.edu> (2 posts)
+# Arsen Arachelian <aarach01<span>@</span>barney.poly.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: se7en \<se7en@dis.org\><br>
+From: se7en \<se7en<span>@</span>dis.org\><br>
 To: Cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: 7dc06b00caffdafaeaebb607b6a45c61ce6ac24e5dc719fcbbe4e8a91f6b56d1<br>
 Message ID: \<Pine.BSI.3.91.970609220733.12873a-100000@kizmiaz.dis.org\><br>
@@ -133,6 +133,10 @@ se7en
 ## Thread
 
 + Return to [June 1997](/archive/1997/06)
+
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
++ Return to "[se7en <se7en<span>@</span>dis.org>](/author/se7en_se7en_at_dis_org_)"
 
 + 1997-06-10 (Tue, 10 Jun 1997 13:16:23 +0800) - Response to "My War" - _se7en \<se7en@dis.org\>_
   + 1997-06-10 (Tue, 10 Jun 1997 14:10:45 +0800) - [Re: Response to "My War"](/archive/1997/06/1cd880d80045b6c1cc8e3b6499a122c7b6fcdbd99408ddaa80e4056d830d956c) - _mpd@netcom.com (Mike Duvos)_

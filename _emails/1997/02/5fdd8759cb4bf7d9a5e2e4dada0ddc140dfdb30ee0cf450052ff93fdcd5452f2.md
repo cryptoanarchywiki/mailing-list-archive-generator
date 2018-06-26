@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Matthew Ghio \<ghio@temp0019.myriad.ml.org\><br>
+From: Matthew Ghio \<ghio<span>@</span>temp0019.myriad.ml.org\><br>
 To: alt.cypherpunks@myriad.alias.net<br>
 Message Hash: 5fdd8759cb4bf7d9a5e2e4dada0ddc140dfdb30ee0cf450052ff93fdcd5452f2<br>
 Message ID: \<199702151556.HAA23655@toad.com\><br>
@@ -60,6 +60,8 @@ And I'm sure we all know how to use remailers...
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[Matthew Ghio <ghio<span>@</span>temp0019.myriad.ml.org>](/author/matthew_ghio_ghio_at_temp0019_myriad_ml_org_)"
 
 + 1997-02-15 (Sat, 15 Feb 1997 07:56:11 -0800 (PST)) - Re: Cypherpunks afraid of spam? - _Matthew Ghio \<ghio@temp0019.myriad.ml.org\>_
 

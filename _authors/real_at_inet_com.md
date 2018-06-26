@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: real_at_inet_com
+post_count: 1
 ---
 
-# real@inet.com (1 posts)
+# real<span>@</span>inet.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

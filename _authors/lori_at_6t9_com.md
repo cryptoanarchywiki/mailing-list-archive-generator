@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lori_at_6t9_com
+post_count: 1
 ---
 
-# lori@6t9.com (1 posts)
+# lori<span>@</span>6t9.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

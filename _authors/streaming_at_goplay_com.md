@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: streaming_at_goplay_com
+post_count: 1
 ---
 
-# Streaming@goplay.com (1 posts)
+# Streaming<span>@</span>goplay.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

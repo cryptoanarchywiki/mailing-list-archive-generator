@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: Declan McCullagh \<declan@eff.org\><br>
 Message Hash: 0bab9c0bfbd789a455536a7a60ea75f0ed4b13dbcbea4c1b53b7fbb60fe283eb<br>
 Message ID: \<199612070232.SAA04844@mail.pacifier.com\><br>
@@ -54,6 +54,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-12-07 (Fri, 6 Dec 1996 18:32:49 -0800 (PST)) - Re: PGP in Russia - _jim bell \<jimbell@pacifier.com\>_
 

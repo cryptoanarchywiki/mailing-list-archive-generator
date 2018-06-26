@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m_strata_rose_strata_at_fenchurch_mit_edu_
+post_count: 3
 ---
 
-# "M. Strata Rose" <strata@fenchurch.MIT.EDU> (3 posts)
+# "M. Strata Rose" <strata<span>@</span>fenchurch.MIT.EDU> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

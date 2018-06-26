@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ichudov@Algebra.COM (Ignoramus)<br>
+From: ichudov<span>@</span>Algebra.COM (Ignoramus)<br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: 8f8ebda19f350fbf6dc63ddb740065782edb31bb754a9beaa1eafa4cd92a48af<br>
 Message ID: \<199812022039.PAA11521@mail.video-collage.com\><br>
@@ -38,6 +38,8 @@ test 1
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[ichudov<span>@</span>Algebra.COM (Ignoramus)](/author/ichudov_at_algebra_com_ignoramus_)"
 
 + 1998-12-02 (Thu, 3 Dec 1998 05:26:39 +0800) - test1 #1 - _ichudov@Algebra.COM (Ignoramus)_
 

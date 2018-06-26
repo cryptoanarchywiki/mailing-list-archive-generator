@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robo_anonymous_remailer__mail_server_robo_at_c2_org_
+post_count: 1
 ---
 
-# ROBO Anonymous Remailer / Mail Server <robo@c2.org> (1 posts)
+# ROBO Anonymous Remailer / Mail Server <robo<span>@</span>c2.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

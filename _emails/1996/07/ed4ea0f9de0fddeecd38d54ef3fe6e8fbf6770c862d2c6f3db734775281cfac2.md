@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Steven J. Vaughan-Nichols" \<Steven.J.Vaughan-Nichols@access.digex.net\><br>
+From: "Steven J. Vaughan-Nichols" \<Steven.J.Vaughan-Nichols<span>@</span>access.digex.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ed4ea0f9de0fddeecd38d54ef3fe6e8fbf6770c862d2c6f3db734775281cfac2<br>
 Message ID: \<199607081653.MAA17946@access5.digex.net\><br>
@@ -50,6 +50,8 @@ freelance writer
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "["Steven J. Vaughan-Nichols" <Steven.J.Vaughan-Nichols<span>@</span>access.digex.net>](/author/steven_j_vaughannichols_steven_j_vaughannichols_at_access_digex_net_)"
 
 + 1996-07-08 (Tue, 9 Jul 1996 05:45:47 +0800) - Re: Style gettting in the way of clear reporting - _"Steven J. Vaughan-Nichols" \<Steven.J.Vaughan-Nichols@access.digex.net\>_
 

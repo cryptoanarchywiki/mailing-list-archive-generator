@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lurch_apd_at_openix_com_
+post_count: 1
 ---
 
-# Lurch <apd@openix.com> (1 posts)
+# Lurch <apd<span>@</span>openix.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

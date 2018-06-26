@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pohl_at_unixg_ubc_ca_derrick_pohl_
+post_count: 1
 ---
 
-# pohl@unixg.ubc.ca (Derrick Pohl) (1 posts)
+# pohl<span>@</span>unixg.ubc.ca (Derrick Pohl) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

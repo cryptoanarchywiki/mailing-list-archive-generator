@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_a_wagner_dawagner_at_phoenix_princeton_edu_
+post_count: 5
 ---
 
-# "David A. Wagner" <dawagner@phoenix.Princeton.EDU> (5 posts)
+# "David A. Wagner" <dawagner<span>@</span>phoenix.Princeton.EDU> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

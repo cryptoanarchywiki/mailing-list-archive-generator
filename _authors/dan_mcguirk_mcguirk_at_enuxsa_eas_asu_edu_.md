@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_mcguirk_mcguirk_at_enuxsa_eas_asu_edu_
+post_count: 3
 ---
 
-# Dan McGuirk <mcguirk@enuxsa.eas.asu.edu> (3 posts)
+# Dan McGuirk <mcguirk<span>@</span>enuxsa.eas.asu.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

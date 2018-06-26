@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wce_at_hogbbs_scol_pa_us_bill_eichman_
+post_count: 1
 ---
 
-# wce@hogbbs.scol.pa.us (Bill Eichman) (1 posts)
+# wce<span>@</span>hogbbs.scol.pa.us (Bill Eichman) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

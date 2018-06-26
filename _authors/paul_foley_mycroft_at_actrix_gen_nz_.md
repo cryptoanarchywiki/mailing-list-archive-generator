@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_foley_mycroft_at_actrix_gen_nz_
+post_count: 34
 ---
 
-# Paul Foley <mycroft@actrix.gen.nz> (34 posts)
+# Paul Foley <mycroft<span>@</span>actrix.gen.nz> (34 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

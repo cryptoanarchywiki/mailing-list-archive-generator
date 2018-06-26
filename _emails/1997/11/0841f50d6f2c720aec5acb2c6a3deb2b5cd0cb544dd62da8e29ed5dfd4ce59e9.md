@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mixmaster \<mixmaster@remail.obscura.com\><br>
+From: Mixmaster \<mixmaster<span>@</span>remail.obscura.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 0841f50d6f2c720aec5acb2c6a3deb2b5cd0cb544dd62da8e29ed5dfd4ce59e9<br>
 Message ID: \<199711170804.AAA02434@sirius.infonex.com\><br>
@@ -84,6 +84,8 @@ yG1Lm1uSr8InLj1g4Zhkx0H+e7Ut9YgMFLWtfGVHiRb/73t1l0U2/Q==
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Mixmaster <mixmaster<span>@</span>remail.obscura.com>](/author/mixmaster_mixmaster_at_remail_obscura_com_)"
 
 + 1997-11-17 (Mon, 17 Nov 1997 16:14:25 +0800) - The Illusion of Freedom - _Mixmaster \<mixmaster@remail.obscura.com\>_
 

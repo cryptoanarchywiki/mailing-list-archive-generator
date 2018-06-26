@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_wilson_serw30_at_gibson_cioe_com_
+post_count: 1
 ---
 
-# Eric Wilson <serw30@gibson.cioe.com> (1 posts)
+# Eric Wilson <serw30<span>@</span>gibson.cioe.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

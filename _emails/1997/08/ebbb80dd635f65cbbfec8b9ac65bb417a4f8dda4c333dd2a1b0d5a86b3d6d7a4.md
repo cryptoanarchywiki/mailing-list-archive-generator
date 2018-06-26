@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Olsen \<root@nwdtc.com\><br>
+From: Alan Olsen \<root<span>@</span>nwdtc.com\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: ebbb80dd635f65cbbfec8b9ac65bb417a4f8dda4c333dd2a1b0d5a86b3d6d7a4<br>
 Message ID: \<33EA1ED3.1B5D1919@nwdtc.com\><br>
@@ -106,6 +106,8 @@ NYT-08-06-97 1054EDT<
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[Alan Olsen <root<span>@</span>nwdtc.com>](/author/alan_olsen_root_at_nwdtc_com_)"
 
 + 1997-08-08 (Fri, 8 Aug 1997 16:00:02 +0800) - Fraud Feared as Antigua Net Bank Fails - _Alan Olsen \<root@nwdtc.com\>_
 

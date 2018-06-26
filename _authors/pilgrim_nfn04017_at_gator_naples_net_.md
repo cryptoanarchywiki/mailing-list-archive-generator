@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pilgrim_nfn04017_at_gator_naples_net_
+post_count: 2
 ---
 
-# Pilgrim <nfn04017@gator.naples.net> (2 posts)
+# Pilgrim <nfn04017<span>@</span>gator.naples.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_humphrey_digex_at_access_
+post_count: 1
 ---
 
-# Doug Humphrey <digex@access> (1 posts)
+# Doug Humphrey <digex<span>@</span>access> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

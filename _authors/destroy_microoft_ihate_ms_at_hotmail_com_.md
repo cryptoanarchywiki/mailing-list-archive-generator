@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: destroy_microoft_ihate_ms_at_hotmail_com_
+post_count: 1
 ---
 
-# "Destroy micro$oft" <ihate_ms@hotmail.com> (1 posts)
+# "Destroy micro$oft" <ihate_ms<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

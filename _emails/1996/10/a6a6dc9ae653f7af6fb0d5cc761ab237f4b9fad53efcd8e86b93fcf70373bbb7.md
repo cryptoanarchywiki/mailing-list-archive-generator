@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: craigw@dg.ce.com.au<br>
+From: craigw<span>@</span>dg.ce.com.au<br>
 To: adamsc@io-online.com<br>
 Message Hash: a6a6dc9ae653f7af6fb0d5cc761ab237f4b9fad53efcd8e86b93fcf70373bbb7<br>
 Message ID: \<199610080602.QAA08023@mac.ce.com.au\><br>
@@ -67,6 +67,8 @@ Send a message with the subject "send pgp-key" for a copy of my key.
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[craigw<span>@</span>dg.ce.com.au](/author/craigw_at_dg_ce_com_au)"
 
 + 1996-10-08 (Tue, 8 Oct 1996 16:28:25 +0800) - RE: WINDOWS NT ???? - _craigw@dg.ce.com.au_
 

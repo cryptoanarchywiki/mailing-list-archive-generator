@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ichudov@algebra.com (Igor Chudov @ home)<br>
+From: ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)<br>
 To: cypherpunks@toad.com (Cypherpunks)<br>
 Message Hash: fa21a7a092ef25da7ce2f4287e4d69cf6baa0dda71d0b9b6bdfcdb3c01302bf5<br>
 Message ID: \<199701240432.WAA08250@manifold.algebra.com\><br>
@@ -79,6 +79,9 @@ STUMP), but am opposed to autorejections (unless mods are mailbombed).
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1997-01-24 (Thu, 23 Jan 1997 20:39:06 -0800 (PST)) - Re: Airport security [no such thing] - _ichudov@algebra.com (Igor Chudov @ home)_
   + 1997-01-24 (Thu, 23 Jan 1997 23:13:38 -0800 (PST)) - [Re: Airport security [no such thing]](/archive/1997/01/1f26cb5f7e6405b2e47b8ea2b139648566609a44664731ff8715309f2a9b8266) - _Sandy Sandfort \<sandfort@crl.com\>_

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Deanne Morgan \<dmorgan@uoguelph.ca\><br>
+From: Deanne Morgan \<dmorgan<span>@</span>uoguelph.ca\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8355fd7de168fbf4252babefd5ce00dec3f36bacbc2c5e50a78fca0ff807592c<br>
 Message ID: \<Pine.3.89.9411171826.A707-0100000@gadwall.cs.uoguelph.ca\><br>
@@ -78,6 +78,8 @@ DHM.
 ## Thread
 
 + Return to [November 1994](/archive/1994/11)
+
++ Return to "[Deanne Morgan <dmorgan<span>@</span>uoguelph.ca>](/author/deanne_morgan_dmorgan_at_uoguelph_ca_)"
 
 + 1994-11-17 (Thu, 17 Nov 94 15:57:51 PST) - Re: IRC & HTTP proxy servers (fwd) - _Deanne Morgan \<dmorgan@uoguelph.ca\>_
 

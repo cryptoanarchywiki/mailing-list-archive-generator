@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: craigw_at_dg_ce_com_au
+post_count: 15
 ---
 
-# craigw@dg.ce.com.au (15 posts)
+# craigw<span>@</span>dg.ce.com.au (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

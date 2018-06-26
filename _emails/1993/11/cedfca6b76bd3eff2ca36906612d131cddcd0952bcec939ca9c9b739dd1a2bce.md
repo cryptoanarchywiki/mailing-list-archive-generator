@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim choate \<ravage@wixer.bga.com\><br>
+From: Jim choate \<ravage<span>@</span>wixer.bga.com\><br>
 To: wmo@rebma.rebma.mn.org (Bill O'Hanlon)<br>
 Message Hash: cedfca6b76bd3eff2ca36906612d131cddcd0952bcec939ca9c9b739dd1a2bce<br>
 Message ID: \<9311281511.AA10617@wixer\><br>
@@ -84,6 +84,10 @@ long enough to make posts either....
 
 + Return to [November 1993](/archive/1993/11)
 
-+ 1993-11-28 (Sun, 28 Nov 93 09:09:34 PST) - Re: newsgroup v news-list - _Jim choate \<ravage@wixer.bga.com\>_
-  + 1993-11-29 (Sun, 28 Nov 93 21:29:41 PST) - [Re: newsgroup v news-list](/archive/1993/11/7e43a99088769415d26efa74a64125652eedd4ef5266dc43e682af3642d0cee7) - _John Schultz \<jschultz@bigcat.missouri.edu\>_
++ Return to "[Jim choate <ravage<span>@</span>wixer.bga.com>](/author/jim_choate_ravage_at_wixer_bga_com_)"
++ Return to "[John Schultz <jschultz<span>@</span>bigcat.missouri.edu>](/author/john_schultz_jschultz_at_bigcat_missouri_edu_)"
+
++ _Unknown thread root_
+  + 1993-11-28 (Sun, 28 Nov 93 09:09:34 PST) - Re: newsgroup v news-list - _Jim choate \<ravage@wixer.bga.com\>_
+    + 1993-11-29 (Sun, 28 Nov 93 21:29:41 PST) - [Re: newsgroup v news-list](/archive/1993/11/7e43a99088769415d26efa74a64125652eedd4ef5266dc43e682af3642d0cee7) - _John Schultz \<jschultz@bigcat.missouri.edu\>_
 

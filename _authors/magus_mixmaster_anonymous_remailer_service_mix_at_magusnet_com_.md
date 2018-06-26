@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: magus_mixmaster_anonymous_remailer_service_mix_at_magusnet_com_
+post_count: 3
 ---
 
-# Magus Mixmaster Anonymous Remailer Service <mix@magusnet.com> (3 posts)
+# Magus Mixmaster Anonymous Remailer Service <mix<span>@</span>magusnet.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

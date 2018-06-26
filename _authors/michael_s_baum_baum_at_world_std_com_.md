@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_s_baum_baum_at_world_std_com_
+post_count: 1
 ---
 
-# Michael S Baum <baum@world.std.com> (1 posts)
+# Michael S Baum <baum<span>@</span>world.std.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

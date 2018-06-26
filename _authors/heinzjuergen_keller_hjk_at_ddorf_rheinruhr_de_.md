@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: heinzjuergen_keller_hjk_at_ddorf_rheinruhr_de_
+post_count: 2
 ---
 
-# Heinz-Juergen Keller <hjk@ddorf.rhein-ruhr.de> (2 posts)
+# Heinz-Juergen Keller <hjk<span>@</span>ddorf.rhein-ruhr.de> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

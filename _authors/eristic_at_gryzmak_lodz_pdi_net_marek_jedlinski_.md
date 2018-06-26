@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eristic_at_gryzmak_lodz_pdi_net_marek_jedlinski_
+post_count: 2
 ---
 
-# eristic@gryzmak.lodz.pdi.net (Marek Jedlinski) (2 posts)
+# eristic<span>@</span>gryzmak.lodz.pdi.net (Marek Jedlinski) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_a_perry_perry_at_jpunix_com_
+post_count: 21
 ---
 
-# "John A. Perry" <perry@jpunix.com> (21 posts)
+# "John A. Perry" <perry<span>@</span>jpunix.com> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

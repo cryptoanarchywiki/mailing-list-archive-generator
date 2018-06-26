@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: "Powers Glenn" \<cypherpunks@toad.com<br>
 Message Hash: 88bcfe9bac8eeb9433fe7d4302a7d32ec2acb1e8fcc74b6bab55d2a950a341eb<br>
 Message ID: \<m0u7aOu-0008y4C@pacifier.com\><br>
@@ -161,6 +161,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-04-13 (Sat, 13 Apr 1996 23:13:31 +0800) - Re: No matter where you go, there they are. - _jim bell \<jimbell@pacifier.com\>_
 

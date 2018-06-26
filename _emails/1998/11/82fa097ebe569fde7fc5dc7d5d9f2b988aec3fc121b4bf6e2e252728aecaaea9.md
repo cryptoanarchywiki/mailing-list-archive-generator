@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Vladimir Z. Nuri" \<vznuri@netcom.com\><br>
+From: "Vladimir Z. Nuri" \<vznuri<span>@</span>netcom.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 82fa097ebe569fde7fc5dc7d5d9f2b988aec3fc121b4bf6e2e252728aecaaea9<br>
 Message ID: \<199811072128.NAA19746@netcom13.netcom.com\><br>
@@ -187,6 +187,8 @@ www.telepath.com/believer
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1998-11-07 (Sun, 8 Nov 1998 05:53:08 +0800) - IP: ISPI Clips 6.14: Anonymous eCash Provider-DigiCash-Files Chapter 11 - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
 

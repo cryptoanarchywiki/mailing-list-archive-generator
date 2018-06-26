@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erika_esherman_at_umich_edu_
+post_count: 2
 ---
 
-# Erika <esherman@umich.edu> (2 posts)
+# Erika <esherman<span>@</span>umich.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

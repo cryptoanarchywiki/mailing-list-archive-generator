@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ichudov_at_algebra_com_igor_chudov__at__home_
+post_count: 698
 ---
 
-# ichudov@Algebra.COM (Igor Chudov @ home) (698 posts)
+# ichudov<span>@</span>Algebra.COM (Igor Chudov <span>@</span> home) (698 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

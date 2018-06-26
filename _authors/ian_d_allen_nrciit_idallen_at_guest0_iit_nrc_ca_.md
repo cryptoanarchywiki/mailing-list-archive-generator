@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ian_d_allen_nrciit_idallen_at_guest0_iit_nrc_ca_
+post_count: 1
 ---
 
-# "Ian! D. Allen [NRC/IIT]" <idallen@guest0.iit.nrc.ca> (1 posts)
+# "Ian! D. Allen [NRC/IIT]" <idallen<span>@</span>guest0.iit.nrc.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

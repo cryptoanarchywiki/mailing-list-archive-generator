@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rex \<rshea@netcom.com\><br>
+From: rex \<rshea<span>@</span>netcom.com\><br>
 To: unicorn@schloss.li<br>
 Message Hash: ff807bdccb1ba46bb9cdee482a84383fa46a1eff4bb696ed0c3a2c2fbe034d51<br>
 Message ID: \<199702010202.SAA29775@toad.com\><br>
@@ -161,6 +161,8 @@ repugnant to that jurisprudence.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[rex <rshea<span>@</span>netcom.com>](/author/rex_rshea_at_netcom_com_)"
 
 + 1997-02-01 (Fri, 31 Jan 1997 18:02:26 -0800 (PST)) - Re: If guilty of a lesser crime, you can be sentenced for a greater - _rex \<rshea@netcom.com\>_
 

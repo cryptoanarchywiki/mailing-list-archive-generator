@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: foolswisdom_at_juno_com_my_account_
+post_count: 1
 ---
 
-# foolswisdom@juno.com (My Account) (1 posts)
+# foolswisdom<span>@</span>juno.com (My Account) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

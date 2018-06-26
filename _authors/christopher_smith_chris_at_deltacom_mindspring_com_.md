@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christopher_smith_chris_at_deltacom_mindspring_com_
+post_count: 1
 ---
 
-# Christopher Smith <chris@deltacom.mindspring.com> (1 posts)
+# Christopher Smith <chris<span>@</span>deltacom.mindspring.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

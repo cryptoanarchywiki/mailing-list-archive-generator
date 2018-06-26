@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: prince_at_alpha_c2_org_niccolo_di_bernardo_machiavelli_
+post_count: 1
 ---
 
-# prince@alpha.c2.org (Niccolo di Bernardo Machiavelli) (1 posts)
+# prince<span>@</span>alpha.c2.org (Niccolo di Bernardo Machiavelli) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

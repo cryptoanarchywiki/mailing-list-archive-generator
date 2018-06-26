@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adam_michael_becker_studly_at_uclink2_berkeley_edu_
+post_count: 1
 ---
 
-# Adam Michael Becker <studly@uclink2.berkeley.edu> (1 posts)
+# Adam Michael Becker <studly<span>@</span>uclink2.berkeley.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wb8foz_at_nrk_com_david_lesher_
+post_count: 11
 ---
 
-# wb8foz@nrk.com (David Lesher) (11 posts)
+# wb8foz<span>@</span>nrk.com (David Lesher) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

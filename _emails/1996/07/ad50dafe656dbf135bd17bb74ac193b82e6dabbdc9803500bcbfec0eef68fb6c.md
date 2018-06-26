@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ad50dafe656dbf135bd17bb74ac193b82e6dabbdc9803500bcbfec0eef68fb6c<br>
 Message ID: \<v0300760bae0881b2f082@[199.0.65.105]\><br>
@@ -156,6 +156,8 @@ The e$ Home Page: http://www.vmeng.com/rah/
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1996-07-10 (Wed, 10 Jul 1996 16:38:50 +0800) - Important UK court case - _Robert Hettinga \<rah@shipwright.com\>_
 

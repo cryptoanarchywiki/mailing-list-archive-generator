@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: omegam_at_cmq_com
+post_count: 11
 ---
 
-# omegam@cmq.com (11 posts)
+# omegam<span>@</span>cmq.com (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

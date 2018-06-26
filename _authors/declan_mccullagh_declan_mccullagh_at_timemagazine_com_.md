@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: declan_mccullagh_declan_mccullagh_at_timemagazine_com_
+post_count: 1
 ---
 
-# Declan McCullagh <Declan_McCullagh@timemagazine.com> (1 posts)
+# Declan McCullagh <Declan_McCullagh<span>@</span>timemagazine.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

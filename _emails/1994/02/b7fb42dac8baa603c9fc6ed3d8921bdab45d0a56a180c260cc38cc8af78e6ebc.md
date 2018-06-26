@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Grand Epopt Feotus \<68954@brahms.udel.edu\><br>
+From: Grand Epopt Feotus \<68954<span>@</span>brahms.udel.edu\><br>
 To: Paul Baclace \<peb@PROCASE.COM\><br>
 Message Hash: b7fb42dac8baa603c9fc6ed3d8921bdab45d0a56a180c260cc38cc8af78e6ebc<br>
 Message ID: \<Pine.3.89.9402101633.A5804-0100000@brahms.udel.edu\><br>
@@ -58,6 +58,9 @@ liked the Hitchikers Guide and base the origin of all life on it 8)
 ## Thread
 
 + Return to [February 1994](/archive/1994/02)
+
++ Return to "[Grand Epopt Feotus <68954<span>@</span>brahms.udel.edu>](/author/grand_epopt_feotus_68954_at_brahms_udel_edu_)"
++ Return to "[peb<span>@</span>PROCASE.COM (Paul Baclace)](/author/peb_at_procase_com_paul_baclace_)"
 
 + 1994-02-10 (Thu, 10 Feb 94 11:50:22 PST) - [T.A.Z.](/archive/1994/02/8fc243ca9c563ecc6ecce61def513ca2affcf3551b3f96308db01c6375e1374a) - _peb@PROCASE.COM (Paul Baclace)_
   + 1994-02-10 (Thu, 10 Feb 94 13:30:22 PST) - Re: T.A.Z. - _Grand Epopt Feotus \<68954@brahms.udel.edu\>_

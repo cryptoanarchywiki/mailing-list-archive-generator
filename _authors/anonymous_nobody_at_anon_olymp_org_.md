@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_nobody_at_anon_olymp_org_
+post_count: 6
 ---
 
-# Anonymous <nobody@anon.olymp.org> (6 posts)
+# Anonymous <nobody<span>@</span>anon.olymp.org> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

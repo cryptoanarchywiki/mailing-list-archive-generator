@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: felix_lee_flee_at_teleport_com_
+post_count: 4
 ---
 
-# Felix Lee <flee@teleport.com> (4 posts)
+# Felix Lee <flee<span>@</span>teleport.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: xjlr56xcz_at_24540_com
+post_count: 1
 ---
 
-# xjlr56xcz@24540.com (1 posts)
+# xjlr56xcz<span>@</span>24540.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_a_jacoby_rjacoby1_at_osf1_gmu_edu_
+post_count: 1
 ---
 
-# "Robert A. Jacoby" <rjacoby1@osf1.gmu.edu> (1 posts)
+# "Robert A. Jacoby" <rjacoby1<span>@</span>osf1.gmu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c06cb53db7efaa6fe8ec4a0f3d5147f5474a1bfae3b594ddaeb7cbd39735ca79<br>
 Message ID: \<yiF5He7w165w@bwalk.dm.com\><br>
@@ -59,6 +59,10 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 
 + Return to [December 1997](/archive/1997/12)
 
-+ 1997-12-22 (Mon, 22 Dec 1997 22:27:58 +0800) - [Re: Identity, Persistence, Anonymity, and Accountability--Part I](/archive/1997/12/3d22aa7303e8df0ec9d5ab88375670b89d6afec609db244e4bf818b9e3e841c3) - _Paul Bradley \<paul@fatmans.demon.co.uk\>_
-  + 1997-12-22 (Tue, 23 Dec 1997 01:03:52 +0800) - Re: Identity, Persistence, Anonymity, and Accountability--Part I - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Paul Bradley <paul<span>@</span>fatmans.demon.co.uk>](/author/paul_bradley_paul_at_fatmans_demon_co_uk_)"
+
++ _Unknown thread root_
+  + 1997-12-22 (Mon, 22 Dec 1997 22:27:58 +0800) - [Re: Identity, Persistence, Anonymity, and Accountability--Part I](/archive/1997/12/3d22aa7303e8df0ec9d5ab88375670b89d6afec609db244e4bf818b9e3e841c3) - _Paul Bradley \<paul@fatmans.demon.co.uk\>_
+    + 1997-12-22 (Tue, 23 Dec 1997 01:03:52 +0800) - Re: Identity, Persistence, Anonymity, and Accountability--Part I - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 

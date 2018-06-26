@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@snark.imsi.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>snark.imsi.com\><br>
 To: Ed Carp \<ecarp@netcom.com\><br>
 Message Hash: 49b4731fedafb3abf36caeb33ef1b58d53e35c9b57c06ddcfbc27eec3e70667c<br>
 Message ID: \<9404252120.AA05992@snark.imsi.com\><br>
@@ -63,6 +63,13 @@ Perry
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Ed Carp <ecarp<span>@</span>netcom.com>](/author/ed_carp_ecarp_at_netcom_com_)"
++ Return to "[jim<span>@</span>Tadpole.COM (Jim Thompson)](/author/jim_at_tadpole_com_jim_thompson_)"
++ Return to "[Martin Janzen <janzen<span>@</span>idacom.hp.com>](/author/martin_janzen_janzen_at_idacom_hp_com_)"
++ Return to "[Paul Schauble <pls<span>@</span>crl.com>](/author/paul_schauble_pls_at_crl_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>snark.imsi.com>](/author/perry_e_metzger_perry_at_snark_imsi_com_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-04-25 (Mon, 25 Apr 94 11:31:26 PDT) - [Re: Wow, what a key!](/archive/1994/04/16826b802e4d7a09eea59fa61ae7556d16bbb17602f8e9558d1dee93dd3d3579) - _jim@Tadpole.COM (Jim Thompson)_
   + 1994-04-25 (Mon, 25 Apr 94 12:25:38 PDT) - [Re: Wow, what a key!](/archive/1994/04/e11f3b3997a97319d98162de249c1ff9fce12373ccd40dad828baac93d6f2aa1) - _tcmay@netcom.com (Timothy C. May)_

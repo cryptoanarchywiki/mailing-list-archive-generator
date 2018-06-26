@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dale Thorn \<dthorn@gte.net\><br>
+From: Dale Thorn \<dthorn<span>@</span>gte.net\><br>
 To: Igor Chudov \<ichudov@algebra.com\><br>
 Message Hash: 40d2957dcfdb8ba4c4bbd0cc2d5ee3509cd7c83dce2bcd20e7ce4d9f2587b4e3<br>
 Message ID: \<199701230640.WAA06684@toad.com\><br>
@@ -55,6 +55,9 @@ time she has invested in Bob.
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
 
 + 1997-01-23 (Wed, 22 Jan 1997 22:40:30 -0800 (PST)) - Re: Airport security [no such thing] - _Dale Thorn \<dthorn@gte.net\>_
   + 1997-01-24 (Thu, 23 Jan 1997 20:22:56 -0800 (PST)) - [Re: Airport security [no such thing]](/archive/1997/01/f23fa9e086dc6f35e8728dc24620f02e30644c3d27b0cc8bb9e1b89511397dc5) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

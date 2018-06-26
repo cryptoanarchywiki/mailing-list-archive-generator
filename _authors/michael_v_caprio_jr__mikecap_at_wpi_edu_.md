@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_v_caprio_jr__mikecap_at_wpi_edu_
+post_count: 5
 ---
 
-# "Michael V. Caprio Jr." <mikecap@WPI.EDU> (5 posts)
+# "Michael V. Caprio Jr." <mikecap<span>@</span>WPI.EDU> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jill567_at_copacabana_com
+post_count: 1
 ---
 
-# jill567@copacabana.com (1 posts)
+# jill567<span>@</span>copacabana.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

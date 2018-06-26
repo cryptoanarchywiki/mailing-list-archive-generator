@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_ioannidis_ji_at_hol_gr_
+post_count: 4
 ---
 
-# John Ioannidis <ji@hol.gr> (4 posts)
+# John Ioannidis <ji<span>@</span>hol.gr> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

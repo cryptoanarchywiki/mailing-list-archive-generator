@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qiy68_at_leica_com_au_wghtlost_
+post_count: 1
 ---
 
-# qiy68@leica.com.au (wghtlost) (1 posts)
+# qiy68<span>@</span>leica.com.au (wghtlost) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

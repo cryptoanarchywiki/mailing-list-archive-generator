@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kip_degraaf_kip_at_monroe_lib_mi_us_
+post_count: 4
 ---
 
-# Kip DeGraaf <kip@monroe.lib.mi.us> (4 posts)
+# Kip DeGraaf <kip<span>@</span>monroe.lib.mi.us> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

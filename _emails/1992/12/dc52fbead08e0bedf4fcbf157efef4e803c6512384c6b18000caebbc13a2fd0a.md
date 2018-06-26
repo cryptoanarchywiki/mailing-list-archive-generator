@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: mark@coombs.anu.edu.au (Mark)<br>
+From: mark<span>@</span>coombs.anu.edu.au (Mark)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: dc52fbead08e0bedf4fcbf157efef4e803c6512384c6b18000caebbc13a2fd0a<br>
 Message ID: \<9212232118.AA01592@coombs.anu.edu.au\><br>
@@ -57,6 +57,8 @@ mark@coombs.anu.edu.au
 ## Thread
 
 + Return to [December 1992](/archive/1992/12)
+
++ Return to "[mark<span>@</span>coombs.anu.edu.au (Mark)](/author/mark_at_coombs_anu_edu_au_mark_)"
 
 + 1992-12-23 (Wed, 23 Dec 92 13:19:37 PST) - Re: Signing ascii text - _mark@coombs.anu.edu.au (Mark)_
 

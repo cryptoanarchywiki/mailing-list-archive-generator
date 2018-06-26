@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_hodgins_at_canrem_com_dave_hodgins_
+post_count: 7
 ---
 
-# dave.hodgins@canrem.com (Dave Hodgins) (7 posts)
+# dave.hodgins<span>@</span>canrem.com (Dave Hodgins) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

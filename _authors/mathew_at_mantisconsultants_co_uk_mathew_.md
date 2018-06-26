@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mathew_at_mantisconsultants_co_uk_mathew_
+post_count: 1
 ---
 
-# mathew@mantis-consultants.co.uk (mathew) (1 posts)
+# mathew<span>@</span>mantis-consultants.co.uk (mathew) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

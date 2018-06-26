@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kkirksey_at_appstate_campus_mci_net_ken_kirksey_
+post_count: 1
 ---
 
-# kkirksey@appstate.campus.mci.net (Ken Kirksey) (1 posts)
+# kkirksey<span>@</span>appstate.campus.mci.net (Ken Kirksey) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

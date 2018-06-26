@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: Mike Godwin \<mnemonic@eff.org\><br>
 Message Hash: 9726dee80ddfa20faf37e2bd7d4ae8fa0bffc6e2d011e11d5a1e59cdc9a66fab<br>
 Message ID: \<Pine.3.05.9402071201.A3443-9100000@panix.com\><br>
@@ -63,6 +63,9 @@ DCF
 ## Thread
 
 + Return to [February 1994](/archive/1994/02)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Mike Godwin <mnemonic<span>@</span>eff.org>](/author/mike_godwin_mnemonic_at_eff_org_)"
 
 + 1994-02-07 (Mon, 7 Feb 94 08:06:22 PST) - [Safire Mentions NSA](/archive/1994/02/98ea00200fa9bd5281eb580a3a94e99b318fa92b326e3a2b0803a164145994a2) - _Duncan Frissell \<frissell@panix.com\>_
   + 1994-02-07 (Mon, 7 Feb 94 09:36:22 PST) - [Re: Safire Mentions NSA](/archive/1994/02/337a2181ccdba86aaa69342c98c3efde552c137b55e4e66c312300f476fd124b) - _Mike Godwin \<mnemonic@eff.org\>_

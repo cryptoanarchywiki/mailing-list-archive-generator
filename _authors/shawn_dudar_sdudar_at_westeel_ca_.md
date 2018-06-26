@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shawn_dudar_sdudar_at_westeel_ca_
+post_count: 1
 ---
 
-# Shawn Dudar <sdudar@westeel.ca> (1 posts)
+# Shawn Dudar <sdudar<span>@</span>westeel.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

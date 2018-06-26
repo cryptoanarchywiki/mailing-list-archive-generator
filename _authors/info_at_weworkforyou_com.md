@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: info_at_weworkforyou_com
+post_count: 2
 ---
 
-# info@we-work-for-you.com (2 posts)
+# info<span>@</span>we-work-for-you.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

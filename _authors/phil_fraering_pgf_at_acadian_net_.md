@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phil_fraering_pgf_at_acadian_net_
+post_count: 18
 ---
 
-# Phil Fraering <pgf@acadian.net> (18 posts)
+# Phil Fraering <pgf<span>@</span>acadian.net> (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

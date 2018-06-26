@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: fc@all.net (Dr. Frederick B. Cohen)<br>
+From: fc<span>@</span>all.net (Dr. Frederick B. Cohen)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: de36dc8eaaa71eb876cf8949b2d3d8cffb1755af9d3fdaa3d2c027cb63ea9e74<br>
 Message ID: \<9510131545.AA27613@all.net\><br>
@@ -43,6 +43,8 @@ Management Analytics - 216-686-0090 - PO Box 1480, Hudson, OH 44236
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[fc<span>@</span>all.net (Dr. Frederick B. Cohen)](/author/fc_at_all_net_dr_frederick_b_cohen_)"
 
 + 1995-10-13 (Fri, 13 Oct 95 08:47:42 PDT) - NNTP holes paper updated thatnks to Rich Salz - _fc@all.net (Dr. Frederick B. Cohen)_
 

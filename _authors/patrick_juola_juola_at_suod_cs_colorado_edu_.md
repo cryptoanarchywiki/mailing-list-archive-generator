@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_juola_juola_at_suod_cs_colorado_edu_
+post_count: 8
 ---
 
-# Patrick Juola <juola@suod.cs.colorado.edu> (8 posts)
+# Patrick Juola <juola<span>@</span>suod.cs.colorado.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

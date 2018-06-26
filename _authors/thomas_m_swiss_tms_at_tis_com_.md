@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_m_swiss_tms_at_tis_com_
+post_count: 4
 ---
 
-# "Thomas M. Swiss" <tms@TIS.COM> (4 posts)
+# "Thomas M. Swiss" <tms<span>@</span>TIS.COM> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

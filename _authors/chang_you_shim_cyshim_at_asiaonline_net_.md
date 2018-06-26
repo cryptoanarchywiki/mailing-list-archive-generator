@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chang_you_shim_cyshim_at_asiaonline_net_
+post_count: 3
 ---
 
-# Chang You Shim <cyshim@asiaonline.net> (3 posts)
+# Chang You Shim <cyshim<span>@</span>asiaonline.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

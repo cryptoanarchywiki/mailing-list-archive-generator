@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<hfinney@shell.portal.com\><br>
+From: Hal \<hfinney<span>@</span>shell.portal.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: b5afed6ab98b9b435b4e6eb2e41234f1cfcb4d864f8dba3ffdd0a1b33dadc025<br>
 Message ID: \<199507201722.KAA10382@jobe.shell.portal.com\><br>
@@ -90,6 +90,8 @@ Hal
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
 
 + 1995-07-20 (Thu, 20 Jul 95 10:23:43 PDT) - Re: Netscape the Big Win - _Hal \<hfinney@shell.portal.com\>_
 

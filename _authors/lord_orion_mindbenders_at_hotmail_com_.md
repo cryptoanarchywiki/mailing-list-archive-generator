@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lord_orion_mindbenders_at_hotmail_com_
+post_count: 1
 ---
 
-# "LoRd oRiOn" <mindbenders@hotmail.com> (1 posts)
+# "LoRd oRiOn" <mindbenders<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

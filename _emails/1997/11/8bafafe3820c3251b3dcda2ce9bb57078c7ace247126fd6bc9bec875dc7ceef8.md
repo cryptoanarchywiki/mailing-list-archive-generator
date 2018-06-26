@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Benjamin Chad Wienke" \<woodwose@mailexcite.com\><br>
+From: "Benjamin Chad Wienke" \<woodwose<span>@</span>mailexcite.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 8bafafe3820c3251b3dcda2ce9bb57078c7ace247126fd6bc9bec875dc7ceef8<br>
 Message ID: \<JPOGPNJHEAJKAAAA@mailexcite.com\><br>
@@ -63,6 +63,9 @@ http://www.mailexcite.com
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "["Benjamin Chad Wienke" <woodwose<span>@</span>mailexcite.com>](/author/benjamin_chad_wienke_woodwose_at_mailexcite_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
 
 + 1997-11-17 (Mon, 17 Nov 1997 18:19:06 +0800) - Re: Exporting crypto from Japan - _"Benjamin Chad Wienke" \<woodwose@mailexcite.com\>_
   + 1997-11-17 (Mon, 17 Nov 1997 21:55:24 +0800) - [Re: Exporting crypto from Japan](/archive/1997/11/c36786c7cca5e62b1a7db00b534f1f8105e6129e458f58405c442b77a4397364) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ogre_at_brainlink_com_ron_hansen_
+post_count: 1
 ---
 
-# ogre@brainlink.com (Ron Hansen) (1 posts)
+# ogre<span>@</span>brainlink.com (Ron Hansen) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

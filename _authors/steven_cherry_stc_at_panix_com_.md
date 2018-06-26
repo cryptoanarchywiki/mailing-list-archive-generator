@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steven_cherry_stc_at_panix_com_
+post_count: 2
 ---
 
-# steven cherry <stc@panix.com> (2 posts)
+# steven cherry <stc<span>@</span>panix.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

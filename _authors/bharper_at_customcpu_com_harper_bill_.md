@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bharper_at_customcpu_com_harper_bill_
+post_count: 1
 ---
 
-# bharper@customcpu.com (Harper, Bill) (1 posts)
+# bharper<span>@</span>customcpu.com (Harper, Bill) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

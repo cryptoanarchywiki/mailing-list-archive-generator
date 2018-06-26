@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blake_at_io_org_blake_harris_
+post_count: 1
 ---
 
-# blake@io.org (Blake Harris) (1 posts)
+# blake<span>@</span>io.org (Blake Harris) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

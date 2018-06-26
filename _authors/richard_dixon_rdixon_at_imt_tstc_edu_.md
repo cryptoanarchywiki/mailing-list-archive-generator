@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_dixon_rdixon_at_imt_tstc_edu_
+post_count: 1
 ---
 
-# "Richard Dixon" <RDIXON@imt.tstc.edu> (1 posts)
+# "Richard Dixon" <RDIXON<span>@</span>imt.tstc.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

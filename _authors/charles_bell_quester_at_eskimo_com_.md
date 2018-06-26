@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charles_bell_quester_at_eskimo_com_
+post_count: 17
 ---
 
-# Charles Bell <quester@eskimo.com> (17 posts)
+# Charles Bell <quester<span>@</span>eskimo.com> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

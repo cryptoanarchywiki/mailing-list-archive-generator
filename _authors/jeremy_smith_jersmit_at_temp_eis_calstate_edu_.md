@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremy_smith_jersmit_at_temp_eis_calstate_edu_
+post_count: 1
 ---
 
-# Jeremy Smith <jersmit@temp.eis.calstate.edu> (1 posts)
+# Jeremy Smith <jersmit<span>@</span>temp.eis.calstate.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

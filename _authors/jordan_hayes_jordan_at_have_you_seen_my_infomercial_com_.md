@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jordan_hayes_jordan_at_have_you_seen_my_infomercial_com_
+post_count: 1
 ---
 
-# Jordan Hayes <jordan@Have.You.Seen.My.Infomercial.COM> (1 posts)
+# Jordan Hayes <jordan<span>@</span>Have.You.Seen.My.Infomercial.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

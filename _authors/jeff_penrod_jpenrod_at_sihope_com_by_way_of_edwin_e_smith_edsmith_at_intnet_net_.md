@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_penrod_jpenrod_at_sihope_com_by_way_of_edwin_e_smith_edsmith_at_intnet_net_
+post_count: 2
 ---
 
-# Jeff Penrod <jpenrod@sihope.com> (by way of "Edwin E. Smith" <edsmith@IntNet.net>) (2 posts)
+# Jeff Penrod <jpenrod<span>@</span>sihope.com> (by way of "Edwin E. Smith" <edsmith<span>@</span>IntNet.net>) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

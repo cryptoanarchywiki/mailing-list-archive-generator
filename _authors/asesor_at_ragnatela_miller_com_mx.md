@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: asesor_at_ragnatela_miller_com_mx
+post_count: 1
 ---
 
-# asesor@ragnatela.miller.com.mx (1 posts)
+# asesor<span>@</span>ragnatela.miller.com.mx (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

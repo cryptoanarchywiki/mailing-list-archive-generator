@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: trgz941@netscape.com<br>
+From: trgz941<span>@</span>netscape.com<br>
 To: _N/A_<br>
 Message Hash: 5afba39e9cec8ec1f7aac09e2d27e00607d246ea24f2e2ec2fdfe2eda3ab4482<br>
 Message ID: \<DOn5NbKACRT35\><br>
@@ -271,6 +271,8 @@ Thank you.
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[trgz941<span>@</span>netscape.com](/author/trgz941_at_netscape_com)"
 
 + 1998-11-09 (Mon, 9 Nov 1998 05:12:46 -0800 (PST)) - BOOST YOUR WEB SITE'S TRAFFIC--GET LISTED ON YAHOO! - _trgz941@netscape.com_
 

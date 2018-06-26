@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: submitking_submitking_at_205_199_2_191_
+post_count: 1
 ---
 
-# "submitking" <submitking@[205.199.2.191]> (1 posts)
+# "submitking" <submitking<span>@</span>[205.199.2.191]> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

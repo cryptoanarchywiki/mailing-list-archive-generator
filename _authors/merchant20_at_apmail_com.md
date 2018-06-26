@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: merchant20_at_apmail_com
+post_count: 1
 ---
 
-# merchant20@apmail.com (1 posts)
+# merchant20<span>@</span>apmail.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

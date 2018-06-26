@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carl_m_ellison_cme_at_acm_org_
+post_count: 3
 ---
 
-# "Carl M. Ellison" <cme@acm.org> (3 posts)
+# "Carl M. Ellison" <cme<span>@</span>acm.org> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

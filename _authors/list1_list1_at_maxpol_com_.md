@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: list1_list1_at_maxpol_com_
+post_count: 1
 ---
 
-# List1 <list1@maxpol.com> (1 posts)
+# List1 <list1<span>@</span>maxpol.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

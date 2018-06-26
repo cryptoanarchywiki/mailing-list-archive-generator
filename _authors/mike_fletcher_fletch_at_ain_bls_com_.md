@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_fletcher_fletch_at_ain_bls_com_
+post_count: 35
 ---
 
-# Mike Fletcher <fletch@ain.bls.com> (35 posts)
+# Mike Fletcher <fletch<span>@</span>ain.bls.com> (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

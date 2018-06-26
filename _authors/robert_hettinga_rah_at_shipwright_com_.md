@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_hettinga_rah_at_shipwright_com_
+post_count: 1095
 ---
 
-# Robert Hettinga <rah@shipwright.com> (1095 posts)
+# Robert Hettinga <rah<span>@</span>shipwright.com> (1095 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

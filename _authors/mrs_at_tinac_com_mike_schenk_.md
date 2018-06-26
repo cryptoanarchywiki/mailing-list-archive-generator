@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mrs_at_tinac_com_mike_schenk_
+post_count: 2
 ---
 
-# mrs@tinac.com (Mike Schenk) (2 posts)
+# mrs<span>@</span>tinac.com (Mike Schenk) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

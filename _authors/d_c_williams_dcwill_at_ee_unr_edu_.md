@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: d_c_williams_dcwill_at_ee_unr_edu_
+post_count: 9
 ---
 
-# D.C. Williams <dcwill@ee.unr.edu> (9 posts)
+# D.C. Williams <dcwill<span>@</span>ee.unr.edu> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

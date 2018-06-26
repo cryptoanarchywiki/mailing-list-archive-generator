@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_bernardini_matthew_at_gandalf_rutgers_edu_
+post_count: 8
 ---
 
-# Matthew Bernardini <matthew@gandalf.rutgers.edu> (8 posts)
+# Matthew Bernardini <matthew<span>@</span>gandalf.rutgers.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

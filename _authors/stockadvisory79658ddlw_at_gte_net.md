@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stockadvisory79658ddlw_at_gte_net
+post_count: 1
 ---
 
-# stockadvisory79658ddlw@gte.net (1 posts)
+# stockadvisory79658ddlw<span>@</span>gte.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

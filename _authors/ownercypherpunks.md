@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: ownercypherpunks
+post_count: 31
 ---
 
 # owner-cypherpunks (31 posts)

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nnburk_nnburk_at_cobain_hdc_net_
+post_count: 10
 ---
 
-# nnburk <nnburk@cobain.HDC.NET> (10 posts)
+# nnburk <nnburk<span>@</span>cobain.HDC.NET> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

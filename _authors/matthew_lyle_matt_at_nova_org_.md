@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: matthew_lyle_matt_at_nova_org_
+post_count: 1
 ---
 
-# Matthew Lyle <matt@nova.org> (1 posts)
+# Matthew Lyle <matt<span>@</span>nova.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: masterx_hodges_at_roadrunner_com_
+post_count: 1
 ---
 
-# Master-X <hodges@roadrunner.com> (1 posts)
+# Master-X <hodges<span>@</span>roadrunner.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

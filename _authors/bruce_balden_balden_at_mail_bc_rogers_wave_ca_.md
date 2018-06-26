@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_balden_balden_at_mail_bc_rogers_wave_ca_
+post_count: 6
 ---
 
-# "Bruce Balden" <balden@mail.bc.rogers.wave.ca> (6 posts)
+# "Bruce Balden" <balden<span>@</span>mail.bc.rogers.wave.ca> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: trei_family_trei_at_ziplink_net_
+post_count: 1
 ---
 
-# Trei Family <trei@ziplink.net> (1 posts)
+# Trei Family <trei<span>@</span>ziplink.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

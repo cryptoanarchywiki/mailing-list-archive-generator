@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: realaudio__realvideo_news_announce_at_dmail1_prognet_com_
+post_count: 2
 ---
 
-# RealAudio & RealVideo News <announce@dmail1.prognet.com> (2 posts)
+# RealAudio & RealVideo News <announce<span>@</span>dmail1.prognet.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

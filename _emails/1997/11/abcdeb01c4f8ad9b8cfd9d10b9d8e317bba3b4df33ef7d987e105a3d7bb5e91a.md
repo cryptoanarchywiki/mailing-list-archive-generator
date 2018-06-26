@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mix \<mixmaster@remail.obscura.com\><br>
+From: Mix \<mixmaster<span>@</span>remail.obscura.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: abcdeb01c4f8ad9b8cfd9d10b9d8e317bba3b4df33ef7d987e105a3d7bb5e91a<br>
 Message ID: \<199711112344.PAA18932@sirius.infonex.com\><br>
@@ -71,6 +71,9 @@ IAKSUuY709Gme6HEqWLyMDdIDZ3Y24xbd9r3eyjFGZZYeaGwG4KowQ==
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "["Jon Leonard" <jleonard<span>@</span>divcom.umop-ap.com>](/author/jon_leonard_jleonard_at_divcom_umopap_com_)"
++ Return to "[Mix <mixmaster<span>@</span>remail.obscura.com>](/author/mix_mixmaster_at_remail_obscura_com_)"
 
 + 1997-11-12 (Wed, 12 Nov 1997 08:33:47 +0800) - Secure Hashing for Entropy - _Mix \<mixmaster@remail.obscura.com\>_
   + 1997-11-12 (Wed, 12 Nov 1997 12:26:44 +0800) - [Re: Secure Hashing for Entropy](/archive/1997/11/9dd34fd663817483b5dd66589563096f40f6e2992016a66ea052bda0db53dca8) - _"Jon Leonard" \<jleonard@divcom.umop-ap.com\>_

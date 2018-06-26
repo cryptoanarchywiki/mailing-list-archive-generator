@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Attila T. Hun" \<attila@hun.attila.org\><br>
+From: "Attila T. Hun" \<attila<span>@</span>hun.attila.org\><br>
 To: cypherpunks \<cypherpunks@cyberpass.net\><br>
 Message Hash: 0ffdefa5f3d6aedf72886bf3fec1e0da2464c11ec58eb3a218cc312fc1f1e5aa<br>
 Message ID: \<199708010250.UAA11859@infowest.com\><br>
@@ -76,6 +76,8 @@ ahBzZyL2cZ4=
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "["Attila T. Hun" <attila<span>@</span>hun.attila.org>](/author/attila_t_hun_attila_at_hun_attila_org_)"
 
 + 1997-08-01 (Fri, 1 Aug 1997 11:25:33 +0800) - Denning questions/reverses her position? - _"Attila T. Hun" \<attila@hun.attila.org\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sales_sales_at_medannet_com_
+post_count: 1
 ---
 
-# "sales" <sales@medannet.com> (1 posts)
+# "sales" <sales<span>@</span>medannet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

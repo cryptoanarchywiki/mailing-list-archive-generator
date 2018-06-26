@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mlmpowerhouse_at_cashinnow_net
+post_count: 1
 ---
 
-# MLM-Powerhouse@cash-in-now.net (1 posts)
+# MLM-Powerhouse<span>@</span>cash-in-now.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

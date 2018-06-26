@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peer_at_alpha_c2_org_peer_gynt_
+post_count: 1
 ---
 
-# peer@alpha.c2.org (Peer Gynt) (1 posts)
+# peer<span>@</span>alpha.c2.org (Peer Gynt) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

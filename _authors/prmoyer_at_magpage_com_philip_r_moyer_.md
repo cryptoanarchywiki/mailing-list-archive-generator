@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: prmoyer_at_magpage_com_philip_r_moyer_
+post_count: 1
 ---
 
-# prmoyer@magpage.com (Philip R. Moyer) (1 posts)
+# prmoyer<span>@</span>magpage.com (Philip R. Moyer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

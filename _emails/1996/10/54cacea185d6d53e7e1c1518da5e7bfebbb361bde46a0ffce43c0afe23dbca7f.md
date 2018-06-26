@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: health@moneyworld.com<br>
+From: health<span>@</span>moneyworld.com<br>
 To: \<cypherpunks@toad.com\><br>
 Message Hash: 54cacea185d6d53e7e1c1518da5e7bfebbb361bde46a0ffce43c0afe23dbca7f<br>
 Message ID: \<199610111432.HAA04080@toad.com\><br>
@@ -47,6 +47,8 @@ Click on:  http://dhea.natureplus.com
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[health<span>@</span>moneyworld.com](/author/health_at_moneyworld_com)"
 
 + 1996-10-11 (Fri, 11 Oct 1996 07:33:46 -0700 (PDT)) - Scientific Discoveries Minimize Aging (DHEA) - _health@moneyworld.com_
 

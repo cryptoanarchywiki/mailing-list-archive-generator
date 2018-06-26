@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_hidden_net_anonymous_
+post_count: 21
 ---
 
-# nobody@hidden.net (Anonymous) (21 posts)
+# nobody<span>@</span>hidden.net (Anonymous) (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

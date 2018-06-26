@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_weaver_at_avtc_sel_sony_com_eric_weaver_
+post_count: 14
 ---
 
-# Eric_Weaver@avtc.sel.sony.com (Eric Weaver) (14 posts)
+# Eric_Weaver<span>@</span>avtc.sel.sony.com (Eric Weaver) (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

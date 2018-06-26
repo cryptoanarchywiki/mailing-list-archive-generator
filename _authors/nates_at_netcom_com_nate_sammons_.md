@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nates_at_netcom_com_nate_sammons_
+post_count: 10
 ---
 
-# nates@netcom.com (Nate Sammons) (10 posts)
+# nates<span>@</span>netcom.com (Nate Sammons) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

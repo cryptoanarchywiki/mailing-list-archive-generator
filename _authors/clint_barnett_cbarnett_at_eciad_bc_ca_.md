@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: clint_barnett_cbarnett_at_eciad_bc_ca_
+post_count: 10
 ---
 
-# Clint Barnett <cbarnett@eciad.bc.ca> (10 posts)
+# Clint Barnett <cbarnett<span>@</span>eciad.bc.ca> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

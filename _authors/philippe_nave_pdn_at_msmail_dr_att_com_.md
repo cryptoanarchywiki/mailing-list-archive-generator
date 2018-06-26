@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: philippe_nave_pdn_at_msmail_dr_att_com_
+post_count: 8
 ---
 
-# Philippe Nave <pdn@msmail.dr.att.com> (8 posts)
+# Philippe Nave <pdn<span>@</span>msmail.dr.att.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: damien_miller_dmiller_at_prometheus_projectx_com_au_
+post_count: 1
 ---
 
-# "Damien Miller" <dmiller@prometheus.projectx.com.au> (1 posts)
+# "Damien Miller" <dmiller<span>@</span>prometheus.projectx.com.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

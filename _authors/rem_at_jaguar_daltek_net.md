@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rem_at_jaguar_daltek_net
+post_count: 1
 ---
 
-# rem@jaguar.dal-tek.net (1 posts)
+# rem<span>@</span>jaguar.dal-tek.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

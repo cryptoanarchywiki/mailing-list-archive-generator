@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@imsi.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>imsi.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9ea7c2c8fe767edef5e46ec44fd4621b2c54f8b63d43eacf89d7d1ee6f8ceb2e<br>
 Message ID: \<9502011418.AA26570@snark.imsi.com\><br>
@@ -49,6 +49,11 @@ things that haven't even been invented yet.
 ## Thread
 
 + Return to [February 1995](/archive/1995/02)
+
++ Return to "[Michael Handler <grendel<span>@</span>netaxs.com>](/author/michael_handler_grendel_at_netaxs_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[Robert Rothenburg Walking-Owl <rrothenb<span>@</span>ic.sunysb.edu>](/author/robert_rothenburg_walkingowl_rrothenb_at_ic_sunysb_edu_)"
++ Return to "[root <root<span>@</span>einstein.ssz.com>](/author/root_root_at_einstein_ssz_com_)"
 
 + 1995-02-01 (Tue, 31 Jan 95 19:56:07 PST) - [VoicePGP cracked in 10 minutes?...](/archive/1995/02/f0dae464a081d1df06e941d5c7d963d04cfeb995da856ae81e88a586f37d14d9) - _root \<root@einstein.ssz.com\>_
   + 1995-02-01 (Tue, 31 Jan 95 20:31:13 PST) - [Re: VoicePGP cracked in 10 minutes?...](/archive/1995/02/bfa19038261572f877abe90ed636bbd6091717869f284a34331e9f0ff88f694a) - _Michael Handler \<grendel@netaxs.com\>_

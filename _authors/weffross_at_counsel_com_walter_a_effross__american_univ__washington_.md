@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: weffross_at_counsel_com_walter_a_effross__american_univ__washington_
+post_count: 2
 ---
 
-# weffross@counsel.com (Walter A Effross -- American Univ. - Washington ) (2 posts)
+# weffross<span>@</span>counsel.com (Walter A Effross -- American Univ. - Washington ) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frantz_at_netcom_com_bill_frantz_
+post_count: 382
 ---
 
-# frantz@netcom.com (Bill Frantz) (382 posts)
+# frantz<span>@</span>netcom.com (Bill Frantz) (382 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

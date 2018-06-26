@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phusnikn_phusnikn_at_simlab_net_
+post_count: 1
 ---
 
-# phusnikn <phusnikn@simlab.net> (1 posts)
+# phusnikn <phusnikn<span>@</span>simlab.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

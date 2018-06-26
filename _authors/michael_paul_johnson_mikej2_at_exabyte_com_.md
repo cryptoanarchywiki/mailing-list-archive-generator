@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_paul_johnson_mikej2_at_exabyte_com_
+post_count: 7
 ---
 
-# Michael Paul Johnson <mikej2@Exabyte.COM> (7 posts)
+# Michael Paul Johnson <mikej2<span>@</span>Exabyte.COM> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

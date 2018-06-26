@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: geoffrey_faivremalloy_geoffrey_at_crl_com_
+post_count: 4
 ---
 
-# Geoffrey Faivre-Malloy <geoffrey@crl.com> (4 posts)
+# Geoffrey Faivre-Malloy <geoffrey<span>@</span>crl.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

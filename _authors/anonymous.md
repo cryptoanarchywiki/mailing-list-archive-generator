@@ -1,5 +1,7 @@
 ---
 layout: default
+sender_id: anonymous
+post_count: 27
 ---
 
 # Anonymous (27 posts)

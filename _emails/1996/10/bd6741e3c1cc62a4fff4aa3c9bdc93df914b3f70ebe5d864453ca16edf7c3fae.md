@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Black Unicorn \<unicorn@schloss.li\><br>
+From: Black Unicorn \<unicorn<span>@</span>schloss.li\><br>
 To: John Young \<jya@pipeline.com\><br>
 Message Hash: bd6741e3c1cc62a4fff4aa3c9bdc93df914b3f70ebe5d864453ca16edf7c3fae<br>
 Message ID: \<Pine.SUN.3.94.961008203513.22095O-100000@polaris\><br>
@@ -47,6 +47,9 @@ unicorn@schloss.li
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1996-10-08 (Wed, 9 Oct 1996 07:09:03 +0800) - [NOC_ase](/archive/1996/10/297991a4b1310a659a6cc26ced9d61c27db174db89c53fe6bf3db3200df1e525) - _John Young \<jya@pipeline.com\>_
   + 1996-10-09 (Wed, 9 Oct 1996 12:40:17 +0800) - Offshore Group... - _Black Unicorn \<unicorn@schloss.li\>_

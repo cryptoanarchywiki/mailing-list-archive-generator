@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: strongmarketstock75bbn@worldnet.att.net<br>
+From: strongmarketstock75bbn<span>@</span>worldnet.att.net<br>
 To: smartinvestor1a@newsletter1a.net<br>
 Message Hash: bc3b5d1a78cca367cfcf16eaccacbe916c2f776550c19edd0f91b21fe2c36f6a<br>
 Message ID: \<\><br>
@@ -57,6 +57,8 @@ ggi.
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[strongmarketstock75bbn<span>@</span>worldnet.att.net](/author/strongmarketstock75bbn_at_worldnet_att_net)"
 
 + 1998-11-21 (Sat, 21 Nov 1998 15:14:06 -0800 (PST)) - RE:  "SIZZLER" INTERNET STOCK! - _strongmarketstock75bbn@worldnet.att.net_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: attila_t_hun_attila_at_primenet_com_attila_t_hun_attila_at_primenet_com_
+post_count: 1
 ---
 
-# "Attila T. Hun" <attila@primenet.com>"Attila T. Hun" <attila@primenet.com> (1 posts)
+# "Attila T. Hun" <attila<span>@</span>primenet.com>"Attila T. Hun" <attila<span>@</span>primenet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

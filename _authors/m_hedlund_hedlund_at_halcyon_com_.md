@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m_hedlund_hedlund_at_halcyon_com_
+post_count: 1
 ---
 
-# "M. Hedlund" <hedlund@halcyon.com> (1 posts)
+# "M. Hedlund" <hedlund<span>@</span>halcyon.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

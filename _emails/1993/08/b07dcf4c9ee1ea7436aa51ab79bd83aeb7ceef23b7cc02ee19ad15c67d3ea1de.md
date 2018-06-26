@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: anonymous@extropia.wimsey.com<br>
+From: anonymous<span>@</span>extropia.wimsey.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: b07dcf4c9ee1ea7436aa51ab79bd83aeb7ceef23b7cc02ee19ad15c67d3ea1de<br>
 Message ID: \<199308180906.AA10085@xtropia\><br>
@@ -45,6 +45,8 @@ damn near grunge-proof.
 ## Thread
 
 + Return to [August 1993](/archive/1993/08)
+
++ Return to "[anonymous<span>@</span>extropia.wimsey.com](/author/anonymous_at_extropia_wimsey_com)"
 
 + 1993-08-18 (Wed, 18 Aug 93 02:50:36 PDT) - No Subject - _anonymous@extropia.wimsey.com_
 

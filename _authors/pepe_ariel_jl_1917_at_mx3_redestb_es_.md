@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pepe_ariel_jl_1917_at_mx3_redestb_es_
+post_count: 1
 ---
 
-# "Pepe" <ariel.jl.1917@mx3.redestb.es> (1 posts)
+# "Pepe" <ariel.jl.1917<span>@</span>mx3.redestb.es> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

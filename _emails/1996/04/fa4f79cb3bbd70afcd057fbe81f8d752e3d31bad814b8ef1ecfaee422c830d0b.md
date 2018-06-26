@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Paul_Koning/US/3Com%3COM@smtp1.isd.3com.com<br>
+From: Paul_Koning/US/3Com%3COM<span>@</span>smtp1.isd.3com.com<br>
 To: wb8foz@nrk.com<br>
 Message Hash: fa4f79cb3bbd70afcd057fbe81f8d752e3d31bad814b8ef1ecfaee422c830d0b<br>
 Message ID: \<9604151827.AA0857@\><br>
@@ -64,6 +64,8 @@ rather measuring/correcting in real time.
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[Paul_Koning/US/3Com%3COM<span>@</span>smtp1.isd.3com.com](/author/paul_koningus3com3com_at_smtp1_isd_3com_com)"
 
 + 1996-04-15 (Tue, 16 Apr 1996 03:44:11 +0800) - Re: No matter where you go, there they are. - _Paul_Koning/US/3Com%3COM@smtp1.isd.3com.com_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: pfarrell@cs.gmu.edu (Pat Farrell)<br>
+From: pfarrell<span>@</span>cs.gmu.edu (Pat Farrell)<br>
 To: 74076.1041@CompuServe.COM<br>
 Message Hash: a80efcbd5d7af2e75eda09e4033b34fad93afe92f3bbb0d3716f82bc6f65cd6d<br>
 Message ID: \<9301151728.AA20322@cs.gmu.edu\><br>
@@ -71,6 +71,8 @@ PGP key available via finger or request           #include standard.disclaimer
 ## Thread
 
 + Return to [January 1993](/archive/1993/01)
+
++ Return to "[pfarrell<span>@</span>cs.gmu.edu (Pat Farrell)](/author/pfarrell_at_cs_gmu_edu_pat_farrell_)"
 
 + 1993-01-15 (Fri, 15 Jan 93 09:30:59 PST) - shrinking availability of PGP - _pfarrell@cs.gmu.edu (Pat Farrell)_
 

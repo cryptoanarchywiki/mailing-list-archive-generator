@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_h_vastag1_vast0001_at_gold_tc_umn_edu_
+post_count: 1
 ---
 
-# Brian H Vastag-1 <vast0001@gold.tc.umn.edu> (1 posts)
+# Brian H Vastag-1 <vast0001<span>@</span>gold.tc.umn.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

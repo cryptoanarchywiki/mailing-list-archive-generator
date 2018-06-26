@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: florian_lengyel_flengyel_at_dorsai_org_
+post_count: 4
 ---
 
-# Florian Lengyel <flengyel@dorsai.org> (4 posts)
+# Florian Lengyel <flengyel<span>@</span>dorsai.org> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: admin_at_anon_penet_fi
+post_count: 3
 ---
 
-# admin@anon.penet.fi (3 posts)
+# admin<span>@</span>anon.penet.fi (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

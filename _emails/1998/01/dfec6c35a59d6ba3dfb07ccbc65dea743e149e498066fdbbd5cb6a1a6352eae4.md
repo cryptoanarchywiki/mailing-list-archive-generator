@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Site Builder Network \<sbn@MICROSOFT.COM\><br>
+From: Site Builder Network \<sbn<span>@</span>MICROSOFT.COM\><br>
 To: Web-Tech-Ed@SITEBUILDER.MICROSOFT.COM<br>
 Message Hash: dfec6c35a59d6ba3dfb07ccbc65dea743e149e498066fdbbd5cb6a1a6352eae4<br>
 Message ID: \<39ADCF833E74D111A2D700805F1951EF0BB31C@red-msg-06.dns.microsoft.com\><br>
@@ -50,6 +50,8 @@ http://www.microsoft.com/events/webteched .
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Site Builder Network <sbn<span>@</span>MICROSOFT.COM>](/author/site_builder_network_sbn_at_microsoft_com_)"
 
 + 1998-01-01 (Wed, 31 Dec 1997 21:20:59 -0800 (PST)) - Microsoft Site Builder Network: Web TechEd Conference,             January 19 98 - _Site Builder Network \<sbn@MICROSOFT.COM\>_
 

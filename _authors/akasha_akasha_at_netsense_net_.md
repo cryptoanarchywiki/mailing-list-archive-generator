@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: akasha_akasha_at_netsense_net_
+post_count: 1
 ---
 
-# "Akasha" <akasha@netsense.net> (1 posts)
+# "Akasha" <akasha<span>@</span>netsense.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

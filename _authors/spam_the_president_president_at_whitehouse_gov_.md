@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: spam_the_president_president_at_whitehouse_gov_
+post_count: 4
 ---
 
-# Spam the President <president@whitehouse.gov> (4 posts)
+# Spam the President <president<span>@</span>whitehouse.gov> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

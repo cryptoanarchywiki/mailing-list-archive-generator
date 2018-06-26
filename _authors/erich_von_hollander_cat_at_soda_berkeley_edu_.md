@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erich_von_hollander_cat_at_soda_berkeley_edu_
+post_count: 5
 ---
 
-# Erich von Hollander <cat@soda.berkeley.edu> (5 posts)
+# Erich von Hollander <cat<span>@</span>soda.berkeley.edu> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

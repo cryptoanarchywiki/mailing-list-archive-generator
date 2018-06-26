@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_e_carboy_carboy_at_hooked_net_
+post_count: 6
 ---
 
-# "Michael E. Carboy" <carboy@hooked.net> (6 posts)
+# "Michael E. Carboy" <carboy<span>@</span>hooked.net> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

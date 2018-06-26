@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_johnstonlawrence_berkeley_laboratoryitg_johnston_at_george_lbl_gov_by_way_of_carl_ellison_cme_at_cybercash_com_
+post_count: 1
 ---
 
-# Bill Johnston-Lawrence Berkeley Laboratory-ITG <johnston@george.lbl.gov> (by way of Carl Ellison <cme@cybercash.com>) (1 posts)
+# Bill Johnston-Lawrence Berkeley Laboratory-ITG <johnston<span>@</span>george.lbl.gov> (by way of Carl Ellison <cme<span>@</span>cybercash.com>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: six_ualdv8_at_sk_sympatico_ca_canadian_jam_remailer_remailer_at_cypherpunks_ca_
+post_count: 1
 ---
 
-# Six <ualdv8@sk.sympatico.ca>Canadian Jam Remailer <remailer@cypherpunks.ca> (1 posts)
+# Six <ualdv8<span>@</span>sk.sympatico.ca>Canadian Jam Remailer <remailer<span>@</span>cypherpunks.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

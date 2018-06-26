@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gasparovski__daniel_ise__d_gasparovski_at_student_canberra_edu_au_
+post_count: 1
 ---
 
-# "Gasparovski / Daniel (ISE)" <d.gasparovski@student.canberra.edu.au> (1 posts)
+# "Gasparovski / Daniel (ISE)" <d.gasparovski<span>@</span>student.canberra.edu.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: declan_b_mccullagh_declan_at_cmu_edu_
+post_count: 193
 ---
 
-# "Declan B. McCullagh" <declan+@CMU.EDU> (193 posts)
+# "Declan B. McCullagh" <declan+<span>@</span>CMU.EDU> (193 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

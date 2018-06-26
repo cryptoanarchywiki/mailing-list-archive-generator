@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: greg@ideath.goldenbear.com (Greg Broiles)<br>
+From: greg<span>@</span>ideath.goldenbear.com (Greg Broiles)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: f60ddc923ca1bf7dee65b3d8c488b1fbec9a05ff9ea1b37cf3f67a979bc784de<br>
 Message ID: \<m0ptSJy-0001i7C@ideath.goldenbear.com\><br>
@@ -109,6 +109,8 @@ QzomVJslOYA=
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[greg<span>@</span>ideath.goldenbear.com (Greg Broiles)](/author/greg_at_ideath_goldenbear_com_greg_broiles_)"
 
 + 1994-04-20 (Tue, 19 Apr 94 20:10:58 PDT) - Re: Remailer Musings - _greg@ideath.goldenbear.com (Greg Broiles)_
 

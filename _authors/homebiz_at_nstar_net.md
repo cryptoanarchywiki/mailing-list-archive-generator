@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: homebiz_at_nstar_net
+post_count: 1
 ---
 
-# Homebiz@Nstar.net (1 posts)
+# Homebiz<span>@</span>Nstar.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

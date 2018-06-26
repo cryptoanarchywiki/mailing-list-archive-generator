@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: music_boulevard_customer_service_newmanlisa_at_n2k_com_
+post_count: 1
 ---
 
-# Music Boulevard Customer Service <newmanlisa@n2k.com> (1 posts)
+# Music Boulevard Customer Service <newmanlisa<span>@</span>n2k.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

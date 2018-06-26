@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lead_remailer_lead_at_zifi_genetics_utah_edu_
+post_count: 2
 ---
 
-# lead remailer <lead@zifi.genetics.utah.edu> (2 posts)
+# lead remailer <lead<span>@</span>zifi.genetics.utah.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

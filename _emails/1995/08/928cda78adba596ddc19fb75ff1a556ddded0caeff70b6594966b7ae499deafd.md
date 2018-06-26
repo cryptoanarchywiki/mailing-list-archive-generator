@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ray Arachelian \<sunder@escape.com\><br>
+From: Ray Arachelian \<sunder<span>@</span>escape.com\><br>
 To: Mike McNally \<m5@dev.tivoli.com\><br>
 Message Hash: 928cda78adba596ddc19fb75ff1a556ddded0caeff70b6594966b7ae499deafd<br>
 Message ID: \<Pine.BSD/.3.91.950820200557.28752G-100000@escape.com\><br>
@@ -76,6 +76,11 @@ Hell, another $200 and I can get a decent color printer too.
 ## Thread
 
 + Return to [August 1995](/archive/1995/08)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[m5<span>@</span>dev.tivoli.com (Mike McNally)](/author/m5_at_dev_tivoli_com_mike_mcnally_)"
++ Return to "[Ray Arachelian <sunder<span>@</span>escape.com>](/author/ray_arachelian_sunder_at_escape_com_)"
++ Return to "[Ray Cromwell <rjc<span>@</span>clark.net>](/author/ray_cromwell_rjc_at_clark_net_)"
 
 + 1995-08-15 (Tue, 15 Aug 95 06:19:29 PDT) - [Re: CoS Raid on "Copyright Terrorist"](/archive/1995/08/024c26ad5598df79c01f9e59bf4fc27bcc19ed2ef6e579fd0ae9dd0b12dc6df7) - _Duncan Frissell \<frissell@panix.com\>_
   + 1995-08-15 (Tue, 15 Aug 95 11:01:36 PDT) - [Re: CoS Raid on "Copyright Terrorist"](/archive/1995/08/341b08eb06edb6dc03107aa28e78e26f4a030c63ab26c479765c0c69ee556f84) - _Ray Cromwell \<rjc@clark.net\>_

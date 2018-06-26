@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joel_boutros_jdb_at_layer8_net_
+post_count: 1
 ---
 
-# joel boutros <jdb@layer8.net> (1 posts)
+# joel boutros <jdb<span>@</span>layer8.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

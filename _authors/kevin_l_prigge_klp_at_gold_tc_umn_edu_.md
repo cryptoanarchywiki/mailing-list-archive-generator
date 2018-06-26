@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kevin_l_prigge_klp_at_gold_tc_umn_edu_
+post_count: 10
 ---
 
-# Kevin L Prigge <klp@gold.tc.umn.edu> (10 posts)
+# Kevin L Prigge <klp<span>@</span>gold.tc.umn.edu> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

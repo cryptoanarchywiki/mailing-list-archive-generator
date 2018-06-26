@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: corwin_at_cayman_com_lord_among_panthers_
+post_count: 4
 ---
 
-# corwin@Cayman.COM (Lord Among Panthers) (4 posts)
+# corwin<span>@</span>Cayman.COM (Lord Among Panthers) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

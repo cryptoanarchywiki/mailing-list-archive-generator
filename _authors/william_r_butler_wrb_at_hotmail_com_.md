@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_r_butler_wrb_at_hotmail_com_
+post_count: 2
 ---
 
-# "William R. Butler" <wrb@hotmail.com> (2 posts)
+# "William R. Butler" <wrb<span>@</span>hotmail.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

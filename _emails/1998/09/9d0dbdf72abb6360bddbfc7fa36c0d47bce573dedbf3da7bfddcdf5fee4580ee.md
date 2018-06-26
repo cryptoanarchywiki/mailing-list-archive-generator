@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@invweb.net\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>invweb.net\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 9d0dbdf72abb6360bddbfc7fa36c0d47bce573dedbf3da7bfddcdf5fee4580ee<br>
 Message ID: \<199809070805.EAA21826@domains.invweb.net\><br>
@@ -108,6 +108,8 @@ JWYXOonQmbqw5rH0h6brzqrH3ep9Ej9DR0gv4mGgIfSNlJSUu6TWO5ZHXKWiE4yy
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/author/william_h_geiger_iii_whgiii_at_invweb_net_)"
 
 + 1998-09-07 (Mon, 7 Sep 1998 16:07:33 +0800) - KRAP is at it in the IETF - _"William H. Geiger III" \<whgiii@invweb.net\>_
 

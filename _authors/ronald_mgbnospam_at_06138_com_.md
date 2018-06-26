@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ronald_mgbnospam_at_06138_com_
+post_count: 1
 ---
 
-# "ronald" <mgbnospam@06138.com> (1 posts)
+# "ronald" <mgbnospam<span>@</span>06138.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

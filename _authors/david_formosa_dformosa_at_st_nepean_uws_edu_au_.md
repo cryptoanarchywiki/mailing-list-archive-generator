@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_formosa_dformosa_at_st_nepean_uws_edu_au_
+post_count: 2
 ---
 
-# David Formosa <dformosa@st.nepean.uws.edu.au> (2 posts)
+# David Formosa <dformosa<span>@</span>st.nepean.uws.edu.au> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

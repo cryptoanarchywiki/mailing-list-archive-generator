@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dale Thorn \<dthorn@gte.net\><br>
+From: Dale Thorn \<dthorn<span>@</span>gte.net\><br>
 To: TruthMonger \<an7575@anon.nymserver.com\><br>
 Message Hash: dcf825fe1e29562463ac2015ffc9ceadfd193c89c7adc99b4aed20be2ffe1abf<br>
 Message ID: \<332A13F5.3889@gte.net\><br>
@@ -69,6 +69,12 @@ been discussed (briefly!) on the list, but couldn't because:
 ## Thread
 
 + Return to [March 1997](/archive/1997/03)
+
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "["Peter Trei" <trei<span>@</span>process.com>](/author/peter_trei_trei_at_process_com_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
++ Return to "[TruthMonger <an7575<span>@</span>anon.nymserver.com>](/author/truthmonger_an7575_at_anon_nymserver_com_)"
 
 + 1997-03-14 (Fri, 14 Mar 1997 07:19:15 -0800 (PST)) - [Re: Anonymous Nymserver: anon.nymserver.com](/archive/1997/03/3912ecbd21a1e075d6885f51f18e67d414ad9b6fa5cca3008d4cc4704903bba0) - _"Peter Trei" \<trei@process.com\>_
   + 1997-03-14 (Fri, 14 Mar 1997 15:57:38 -0800 (PST)) - [Re: Anonymous Nymserver: anon.nymserver.com](/archive/1997/03/bca0f24ec9faf85e408cc6c234dc760110f9e4e9fd9a316546b76a5a008f7092) - _TruthMonger \<an7575@anon.nymserver.com\>_

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jrochkin@cs.oberlin.edu (Jonathan Rochkind)<br>
+From: jrochkin<span>@</span>cs.oberlin.edu (Jonathan Rochkind)<br>
 To: tcmay@netcom.com (Timothy C. May)<br>
 Message Hash: 7a8bc615647dab5a98efeceab187f76be3f7dcf9bb3e0ceeb55fe61ac3433f1e<br>
 Message ID: \<aaf358fc08021004c727@[132.162.201.201]\><br>
@@ -128,6 +128,9 @@ Or maybe I'm just a hopeless techno-phile.
 ## Thread
 
 + Return to [November 1994](/archive/1994/11)
+
++ Return to "[jrochkin<span>@</span>cs.oberlin.edu (Jonathan Rochkind)](/author/jrochkin_at_cs_oberlin_edu_jonathan_rochkind_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-11-19 (Fri, 18 Nov 94 23:41:25 PST) - Re: I Like ASCII, not MIME and Other Fancy Crap - _jrochkin@cs.oberlin.edu (Jonathan Rochkind)_
   + 1994-11-19 (Sat, 19 Nov 94 00:31:01 PST) - [Re: I Like ASCII, not MIME and Other Fancy Crap](/archive/1994/11/a0e70208ac623fb2e277e5da81e00b76cc01ef601a4a62e75950f8ef4211705b) - _tcmay@netcom.com (Timothy C. May)_

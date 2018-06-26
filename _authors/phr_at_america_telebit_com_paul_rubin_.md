@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phr_at_america_telebit_com_paul_rubin_
+post_count: 2
 ---
 
-# phr@america.Telebit.COM (Paul Rubin) (2 posts)
+# phr<span>@</span>america.Telebit.COM (Paul Rubin) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

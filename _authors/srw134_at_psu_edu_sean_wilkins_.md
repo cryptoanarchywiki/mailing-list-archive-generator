@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: srw134_at_psu_edu_sean_wilkins_
+post_count: 1
 ---
 
-# srw134@psu.edu (Sean Wilkins) (1 posts)
+# srw134<span>@</span>psu.edu (Sean Wilkins) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: whgiii_at_no_amaranth_com_spam
+post_count: 1
 ---
 
-# whgiii@NO.amaranth.com.SPAM (1 posts)
+# whgiii<span>@</span>NO.amaranth.com.SPAM (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

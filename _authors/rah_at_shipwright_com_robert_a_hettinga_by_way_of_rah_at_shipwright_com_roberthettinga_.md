@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rah_at_shipwright_com_robert_a_hettinga_by_way_of_rah_at_shipwright_com_roberthettinga_
+post_count: 1
 ---
 
-# rah@shipwright.com (Robert A. Hettinga) (by way of rah@shipwright.com (RobertHettinga)) (1 posts)
+# rah<span>@</span>shipwright.com (Robert A. Hettinga) (by way of rah<span>@</span>shipwright.com (RobertHettinga)) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

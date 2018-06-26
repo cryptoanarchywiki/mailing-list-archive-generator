@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_horowitz_marc_at_cam_ov_com_
+post_count: 7
 ---
 
-# Marc Horowitz <marc@cam.ov.com> (7 posts)
+# Marc Horowitz <marc<span>@</span>cam.ov.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: javier_rivera_zeen_at_caribe_net_
+post_count: 2
 ---
 
-# Javier Rivera <zeen@caribe.net> (2 posts)
+# Javier Rivera <zeen<span>@</span>caribe.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

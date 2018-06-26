@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_banisar_banisar_at_epic_org_
+post_count: 44
 ---
 
-# Dave Banisar <banisar@epic.org> (44 posts)
+# Dave Banisar <banisar<span>@</span>epic.org> (44 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: anonymous-remailer@shell.portal.com<br>
+From: anonymous-remailer<span>@</span>shell.portal.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: aa70ad2e0aeffcd98920f0b09e4eb881338fce6e7bf81c71efc8ffb837aae8f8<br>
 Message ID: \<199606240104.SAA29097@jobe.shell.portal.com\><br>
@@ -95,6 +95,9 @@ Is there anyone we trust involved who can answer for this?
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/author/anonymousremailer_at_shell_portal_com)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1996-06-24 (Mon, 24 Jun 1996 13:32:34 +0800) - Re: CDT Policy Post 2.25 - Senate Encrypti - _anonymous-remailer@shell.portal.com_
   + 1996-06-24 (Mon, 24 Jun 1996 14:13:11 +0800) - [Re: CDT Policy Post 2.25 - Senate Encrypti](/archive/1996/06/78ec4c6c7b305c16018baebba512ee83411a70202d759de96833716d224f3751) - _"Perry E. Metzger" \<perry@piermont.com\>_

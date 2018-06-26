@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_at_4qsi_com_brian_at_csihost_4qsi_com_
+post_count: 1
 ---
 
-# "bRIAN@4qsi.com" <brian@csihost.4qsi.com> (1 posts)
+# "bRIAN<span>@</span>4qsi.com" <brian<span>@</span>csihost.4qsi.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ichudov@algebra.com (Igor Chudov @ home)<br>
+From: ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)<br>
 To: gary@systemics.com (Gary Howland)<br>
 Message Hash: 4e29b4329a866598fcecfe4fe4e7dcc575efafaa8624eeed0d089aeb8bfd5a21<br>
 Message ID: \<199612062132.PAA13293@manifold.algebra.com\><br>
@@ -57,6 +57,13 @@ or computer consultants
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[Asgaard <asgaard<span>@</span>Cor.sos.sll.se>](/author/asgaard_asgaard_at_cor_sos_sll_se_)"
++ Return to "[attila<span>@</span>primenet.com](/author/attila_at_primenet_com)"
++ Return to "[furballs <furballs<span>@</span>netcom.com>](/author/furballs_furballs_at_netcom_com_)"
++ Return to "[Gary Howland <gary<span>@</span>systemics.com>](/author/gary_howland_gary_at_systemics_com_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
 
 + 1996-12-06 (Thu, 5 Dec 1996 21:23:07 -0800 (PST)) - [Re: Stinger Specs](/archive/1996/12/beabd3693e6de1ce4afa42e615ddf1971fddd1e6cc13638606df553233ef81ff) - _Lucky Green \<shamrock@netcom.com\>_
   + 1996-12-06 (Thu, 5 Dec 1996 23:56:15 -0800 (PST)) - [[PVT] Re: Stinger Specs](/archive/1996/12/a2e4cbe3a2a8d3d683520885ff53123473e0489e00c96bb5aace46813ea5ec36) - _attila@primenet.com_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_e_marotta_mercury_at_lcc_edu_
+post_count: 4
 ---
 
-# "Michael E. Marotta" <MERCURY@lcc.edu> (4 posts)
+# "Michael E. Marotta" <MERCURY<span>@</span>lcc.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

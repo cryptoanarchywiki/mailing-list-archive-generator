@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "A. Padgett Peterson, P.E. Information Security" \<PADGETT@hobbes.orl.mmc.com\><br>
+From: "A. Padgett Peterson, P.E. Information Security" \<PADGETT<span>@</span>hobbes.orl.mmc.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 415eb825e4ff1cad7b26a2aac2bbd7e5d14e69bee723c0f0eb23c79fbce3d38f<br>
 Message ID: \<960208225252.2021859a@hobbes.orl.mmc.com\><br>
@@ -52,6 +52,8 @@ well to contain the acid if it leaked. Well filled.)
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "["A. Padgett Peterson, P.E. Information Security" <PADGETT<span>@</span>hobbes.orl.mmc.com>](/author/a_padgett_peterson_p_e_information_security_padgett_at_hobbes_orl_mmc_com_)"
 
 + 1996-02-10 (Sat, 10 Feb 1996 11:15:15 +0800) - Top this one - _"A. Padgett Peterson, P.E. Information Security" \<PADGETT@hobbes.orl.mmc.com\>_
 

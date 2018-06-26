@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hallam_at_w3_org_hallam_at_w3_org_
+post_count: 3
 ---
 
-# hallam@w3.org (Hallam@w3.org) (3 posts)
+# hallam<span>@</span>w3.org (Hallam<span>@</span>w3.org) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

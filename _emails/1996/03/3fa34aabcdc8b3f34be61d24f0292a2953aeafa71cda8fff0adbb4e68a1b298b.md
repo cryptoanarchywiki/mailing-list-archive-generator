@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "David K. Merriman" \<merriman@arn.net\><br>
+From: "David K. Merriman" \<merriman<span>@</span>arn.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3fa34aabcdc8b3f34be61d24f0292a2953aeafa71cda8fff0adbb4e68a1b298b<br>
 Message ID: \<2.2.32.19960308085804.00688710@arn.net\><br>
@@ -64,6 +64,8 @@ For privacy tools: http://www.geocities.com/capitolhill/1148
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/author/david_k_merriman_merriman_at_arn_net_)"
 
 + 1996-03-09 (Sat, 9 Mar 1996 09:03:07 +0800) - 2nd request for links, etc. - _"David K. Merriman" \<merriman@arn.net\>_
 

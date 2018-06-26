@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonremailer_at_utopia_hacktic_nl_name_withheld_by_request_
+post_count: 16
 ---
 
-# anon-remailer@utopia.hacktic.nl (Name Withheld by Request) (16 posts)
+# anon-remailer<span>@</span>utopia.hacktic.nl (Name Withheld by Request) (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: bc61a97b3eec4c76eafd8af15d6c0f02fc7dd6e8dbe0297cd676aad4fd6483f3<br>
 Message ID: \<3P3g0D6w165w@bwalk.dm.com\><br>
@@ -60,6 +60,10 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Mac Norton <mnorton<span>@</span>cavern.uark.edu>](/author/mac_norton_mnorton_at_cavern_uark_edu_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1997-07-03 (Thu, 3 Jul 1997 08:43:12 +0800) - [Re: Liberating the Bits](/archive/1997/07/af43bb4c62ef47981c345a1d0104e43e0b01daf6dcdc5ed149f476ef7ccda255) - _Tim May \<tcmay@got.net\>_
   + 1997-07-03 (Thu, 3 Jul 1997 09:19:55 +0800) - [Re: Liberating the Bits](/archive/1997/07/49cb8a3e8c07b6c53863a9b90ae91765f79a8cacae5538aa087bb6d0f5df6e35) - _Mac Norton \<mnorton@cavern.uark.edu\>_

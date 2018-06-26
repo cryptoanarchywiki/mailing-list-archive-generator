@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: naoqize_at_worldnet_att_net_someone_who_cares_
+post_count: 1
 ---
 
-# naoqize@worldnet.att.net (Someone Who Cares!) (1 posts)
+# naoqize<span>@</span>worldnet.att.net (Someone Who Cares!) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

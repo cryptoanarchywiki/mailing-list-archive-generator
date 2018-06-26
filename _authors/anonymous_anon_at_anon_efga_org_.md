@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_anon_at_anon_efga_org_
+post_count: 329
 ---
 
-# Anonymous <anon@anon.efga.org> (329 posts)
+# Anonymous <anon<span>@</span>anon.efga.org> (329 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

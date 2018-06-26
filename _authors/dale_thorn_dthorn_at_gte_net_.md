@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dale_thorn_dthorn_at_gte_net_
+post_count: 736
 ---
 
-# Dale Thorn <dthorn@gte.net> (736 posts)
+# Dale Thorn <dthorn<span>@</span>gte.net> (736 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

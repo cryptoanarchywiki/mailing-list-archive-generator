@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: heesen_at_zpr_unikoeln_de_rainer_heesen_
+post_count: 2
 ---
 
-# heesen@zpr.uni-koeln.de (Rainer Heesen) (2 posts)
+# heesen<span>@</span>zpr.uni-koeln.de (Rainer Heesen) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

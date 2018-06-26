@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dale Thorn \<dthorn@gte.net\><br>
+From: Dale Thorn \<dthorn<span>@</span>gte.net\><br>
 To: Greg Broiles \<gbroiles@netbox.com\><br>
 Message Hash: 49ebdee46f55cf4d6acc92fbd9acfd7b29a80cd3ecc3337b3c4302d7e74b9b9e<br>
 Message ID: \<199701200455.UAA00370@toad.com\><br>
@@ -56,6 +56,8 @@ list owners out for sure).
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
 
 + 1997-01-20 (Sun, 19 Jan 1997 20:55:42 -0800 (PST)) - Re: Thoughts re moderation, filtering, and name changes - _Dale Thorn \<dthorn@gte.net\>_
 

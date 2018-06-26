@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)<br>
+From: wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c4f2d34c5d9ed65ebaccf7ce6227f354b75f35a3ccb841f0bcda3fbbdd522fe6<br>
 Message ID: \<9403112310.AA05626@anchor.ho.att.com\><br>
@@ -73,6 +73,8 @@ people immigrating from Cuba on windsurfers :-)
 ## Thread
 
 + Return to [March 1994](/archive/1994/03)
+
++ Return to "[wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)](/author/wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_)"
 
 + 1994-03-11 (Fri, 11 Mar 94 15:11:48 PST) - Re: money... - _wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)_
 

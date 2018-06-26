@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: cypherpunks@toad.com (Cypherpunks Mailing List)<br>
 Message Hash: f1397484c25485efacfe3d83fe8a2f6539bcb4f9acd01dd0c9ceb6ebffb8ffd4<br>
 Message ID: \<199602290845.AAA03948@ix4.ix.netcom.com\><br>
@@ -65,6 +65,10 @@ even 40-bit RC4, and maybe not even for rot13.
 
 + Return to [February 1996](/archive/1996/02)
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[lmccarth<span>@</span>cs.umass.edu](/author/lmccarth_at_cs_umass_edu)"
++ Return to "[Peng-chiew Low <pclow<span>@</span>pc.jaring.my>](/author/pengchiew_low_pclow_at_pc_jaring_my_)"
 
 + 1996-02-29 (Fri, 1 Mar 1996 05:58:03 +0800) - Re: S/MIME outside the US? - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1996-02-29 (Fri, 1 Mar 1996 03:55:19 +0800) - [Re: S/MIME outside the US?](/archive/1996/02/da962a74e6aae2cb12df686ecddba06f48b0734e902a0f793a5dc5813e64ec23) - _lmccarth@cs.umass.edu_

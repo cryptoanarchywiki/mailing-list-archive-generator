@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_van_schoiack_schoiack_at_tahoma_cwu_edu_
+post_count: 1
 ---
 
-# Chris Van Schoiack <schoiack@tahoma.cwu.edu> (1 posts)
+# Chris Van Schoiack <schoiack<span>@</span>tahoma.cwu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

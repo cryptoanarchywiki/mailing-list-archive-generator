@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sean Sutherland \<maverick@thepentagon.com\><br>
+From: Sean Sutherland \<maverick<span>@</span>thepentagon.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 70cfebc6ed3c286deceef0e6b94900a997c1f4cddd2e56f452d14bfed4df6f1d<br>
 Message ID: \<19960825000344312.AAA199@maverick\><br>
@@ -63,6 +63,9 @@ qFnxcDcyHa8ynHLRH9Qg0t5QuKVUvTpZh3YjPXCF9QKwvIFbZukHKw==
 
 + Return to [August 1996](/archive/1996/08)
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[DAVID A MOLNAR <molnard1<span>@</span>nevada.edu>](/author/david_a_molnar_molnard1_at_nevada_edu_)"
++ Return to "[Sean Sutherland <maverick<span>@</span>thepentagon.com>](/author/sean_sutherland_maverick_at_thepentagon_com_)"
 
 + 1996-08-25 (Sun, 25 Aug 1996 09:59:01 +0800) - Re: - _Sean Sutherland \<maverick@thepentagon.com\>_
   + 1996-09-03 (Tue, 3 Sep 1996 13:50:57 +0800) - [Re:](/archive/1996/09/76131ff390bb4caade47dac616ef6f7b2ad570e475239fe8498657641b30b042) - _DAVID A MOLNAR \<molnard1@nevada.edu\>_

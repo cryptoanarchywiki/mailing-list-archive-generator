@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mentor_at_indial1_io_com_loyd_blankenship_
+post_count: 3
 ---
 
-# mentor@indial1.io.com (Loyd Blankenship) (3 posts)
+# mentor<span>@</span>indial1.io.com (Loyd Blankenship) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

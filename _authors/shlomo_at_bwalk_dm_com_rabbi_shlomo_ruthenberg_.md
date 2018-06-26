@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shlomo_at_bwalk_dm_com_rabbi_shlomo_ruthenberg_
+post_count: 1
 ---
 
-# shlomo@bwalk.dm.com (Rabbi Shlomo Ruthenberg) (1 posts)
+# shlomo<span>@</span>bwalk.dm.com (Rabbi Shlomo Ruthenberg) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

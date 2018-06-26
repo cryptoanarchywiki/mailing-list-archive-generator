@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Vladimir Z. Nuri" \<vznuri@netcom.com\><br>
+From: "Vladimir Z. Nuri" \<vznuri<span>@</span>netcom.com\><br>
 To: Tim Fulbright \<100022.3167@compuserve.com\><br>
 Message Hash: 33cbfcdaa3fe6bb5cefd95c7dff8de4b92fcb4bfbee184b66d1b6efa4bc89bcf<br>
 Message ID: \<199603202350.PAA24534@netcom16.netcom.com\><br>
@@ -103,6 +103,9 @@ quality cyberspace mags. try www.boardwatch.com.
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[Tim Fulbright <100022.3167<span>@</span>compuserve.com>](/author/tim_fulbright_100022_3167_at_compuserve_com_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1996-03-20 (Wed, 20 Mar 1996 16:20:08 +0800) - [Mr Emmett Page, Asst. Sect. Defense, CCCI](/archive/1996/03/b603a08db351c9494edc36fc3fb54a9eb38c3f0977398d7a7fa63395095508b8) - _Tim Fulbright \<100022.3167@compuserve.com\>_
   + 1996-03-20 (Wed, 20 Mar 96 15:51:10 PST) - Re: Mr Emmett Page, Asst. Sect. Defense, CCCI - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_

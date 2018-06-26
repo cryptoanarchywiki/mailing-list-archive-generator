@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tony_iannotti_tony_at_fozzie_secapl_com_
+post_count: 2
 ---
 
-# Tony Iannotti <tony@fozzie.secapl.com> (2 posts)
+# Tony Iannotti <tony<span>@</span>fozzie.secapl.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

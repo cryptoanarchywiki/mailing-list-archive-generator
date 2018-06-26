@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anthony_ortenzi_ortenzi_at_interactive_net_
+post_count: 5
 ---
 
-# Anthony Ortenzi <ortenzi@interactive.net> (5 posts)
+# Anthony Ortenzi <ortenzi<span>@</span>interactive.net> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

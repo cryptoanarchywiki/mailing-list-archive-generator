@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_dinnissen_paul_at_digicash_com_
+post_count: 1
 ---
 
-# "Paul Dinnissen" <paul@digicash.com> (1 posts)
+# "Paul Dinnissen" <paul<span>@</span>digicash.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

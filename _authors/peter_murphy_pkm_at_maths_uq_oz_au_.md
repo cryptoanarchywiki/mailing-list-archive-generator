@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_murphy_pkm_at_maths_uq_oz_au_
+post_count: 21
 ---
 
-# Peter Murphy <pkm@maths.uq.oz.au> (21 posts)
+# Peter Murphy <pkm<span>@</span>maths.uq.oz.au> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

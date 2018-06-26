@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rich Graves \<llurch@networking.stanford.edu\><br>
+From: Rich Graves \<llurch<span>@</span>networking.stanford.edu\><br>
 To: Louis Freeh \<cypherpunks@toad.com\><br>
 Message Hash: 2defd2402d6ce7d9efbad13a43fdc3223ee90229fb1e1d5b1a8cd1caadc6af39<br>
 Message ID: \<Pine.ULT.3.91.960126125847.19154L-100000@Networking.Stanford.EDU\><br>
@@ -104,6 +104,9 @@ Note spelling. URL for FAQ and further info is in each message's X-headers.
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[Lou Zirko <lzirko<span>@</span>isdn.net>](/author/lou_zirko_lzirko_at_isdn_net_)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
 
 + 1996-01-26 (Sat, 27 Jan 1996 05:20:53 +0800) - [Re: Microsoft's CryptoAPI - thoughts?](/archive/1996/01/4740409e9f94d9e8e221f5b046ee3fd5cdbbdf09ab84dab8b6c9f8682a47cd19) - _Lou Zirko \<lzirko@isdn.net\>_
   + 1996-01-27 (Sat, 27 Jan 1996 08:41:43 +0800) - [NOISY] Printing Microsoft's CryptoAPI .ps - _Rich Graves \<llurch@networking.stanford.edu\>_

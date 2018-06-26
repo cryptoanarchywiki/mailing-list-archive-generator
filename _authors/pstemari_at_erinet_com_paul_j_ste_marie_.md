@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pstemari_at_erinet_com_paul_j_ste_marie_
+post_count: 36
 ---
 
-# pstemari@erinet.com (Paul J. Ste. Marie) (36 posts)
+# pstemari<span>@</span>erinet.com (Paul J. Ste. Marie) (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

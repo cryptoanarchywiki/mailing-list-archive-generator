@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rich_salz_rsalz_at_osf_org_
+post_count: 196
 ---
 
-# Rich Salz <rsalz@osf.org> (196 posts)
+# Rich Salz <rsalz<span>@</span>osf.org> (196 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

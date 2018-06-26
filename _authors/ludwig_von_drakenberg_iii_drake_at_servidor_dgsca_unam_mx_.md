@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ludwig_von_drakenberg_iii_drake_at_servidor_dgsca_unam_mx_
+post_count: 1
 ---
 
-# Ludwig von Drakenberg III <drake@servidor.dgsca.unam.mx> (1 posts)
+# Ludwig von Drakenberg III <drake<span>@</span>servidor.dgsca.unam.mx> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

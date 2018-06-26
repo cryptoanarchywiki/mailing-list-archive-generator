@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rodrigo_espirito_santo_res_at_unidyne_uni_pt_
+post_count: 1
 ---
 
-# Rodrigo Espirito Santo <res@unidyne.uni.pt> (1 posts)
+# Rodrigo Espirito Santo <res<span>@</span>unidyne.uni.pt> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

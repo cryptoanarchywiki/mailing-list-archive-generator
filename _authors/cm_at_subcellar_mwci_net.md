@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cm_at_subcellar_mwci_net
+post_count: 2
 ---
 
-# cm@subcellar.mwci.net (2 posts)
+# cm<span>@</span>subcellar.mwci.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

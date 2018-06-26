@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a718e50c3acbaff5d47e15ecac630e0f1197faaadddf7f3e4abdd75eb95dc051<br>
 Message ID: \<199609030151.SAA07328@toad.com\><br>
@@ -72,6 +72,9 @@ Bad Code can't always be hacked usefully, but it can always be hacked...
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "["Paul S. Penrod" <furballs<span>@</span>netcom.com>](/author/paul_s_penrod_furballs_at_netcom_com_)"
 
 + 1996-09-03 (Tue, 3 Sep 1996 13:11:22 +0800) - [BEATING A NOT QUITE DEAD] Passive Trojan [HORSE] (was:Re: HAZ-MAT virus) - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1996-09-03 (Tue, 3 Sep 1996 18:59:29 +0800) - [Still more mileage from the old grey mare... was: Trojan Horse](/archive/1996/09/cd96af4edb1d170a6525cab527fa3e5cb175ffb9e081d063735d392a0e34ce38) - _"Paul S. Penrod" \<furballs@netcom.com\>_

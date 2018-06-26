@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fred_admin_at_dcwill_com_
+post_count: 4
 ---
 
-# Fred <admin@dcwill.com> (4 posts)
+# Fred <admin<span>@</span>dcwill.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

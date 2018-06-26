@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: msh8481_at_granny_cs_nyu_edu_singh_hardayal_
+post_count: 1
 ---
 
-# m-sh8481@granny.cs.nyu.edu (Singh Hardayal) (1 posts)
+# m-sh8481<span>@</span>granny.cs.nyu.edu (Singh Hardayal) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

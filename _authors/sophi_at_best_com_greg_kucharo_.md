@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sophi_at_best_com_greg_kucharo_
+post_count: 1
 ---
 
-# sophi@best.com (Greg Kucharo) (1 posts)
+# sophi<span>@</span>best.com (Greg Kucharo) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_d_junger_junger_at_pdj2ra_fremote_cwru_edu_
+post_count: 75
 ---
 
-# "Peter D. Junger" <junger@pdj2-ra.F-REMOTE.CWRU.Edu> (75 posts)
+# "Peter D. Junger" <junger<span>@</span>pdj2-ra.F-REMOTE.CWRU.Edu> (75 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

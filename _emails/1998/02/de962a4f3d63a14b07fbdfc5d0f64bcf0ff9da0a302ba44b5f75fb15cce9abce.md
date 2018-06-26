@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@invweb.net\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>invweb.net\><br>
 To: "Paul Bradley" \<csm70830@port.ac.uk\><br>
 Message Hash: de962a4f3d63a14b07fbdfc5d0f64bcf0ff9da0a302ba44b5f75fb15cce9abce<br>
 Message ID: \<199802201043.FAA00924@users.invweb.net\><br>
@@ -79,6 +79,11 @@ UQt1DP2e0d2w4GRcYRbAO7DGe4LlgiDMT+hxzKPyhqyZKW+ZeqF7Y947LtzvF7vd
 ## Thread
 
 + Return to [February 1998](/archive/1998/02)
+
++ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/author/bill_stewart_bill_stewart_at_pobox_com_)"
++ Return to "["Paul Bradley" <csm70830<span>@</span>port.ac.uk>](/author/paul_bradley_csm70830_at_port_ac_uk_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/author/william_h_geiger_iii_whgiii_at_invweb_net_)"
 
 + 1998-02-19 (Fri, 20 Feb 1998 04:31:10 +0800) - [No Real Debate Yet on the War](/archive/1998/02/ca9d3edcee0b3b490d58ed8e5e237d58380ba37bf9d6866e874af587c2545e1c) - _Tim May \<tcmay@got.net\>_
   + 1998-02-20 (Fri, 20 Feb 1998 17:32:02 +0800) - [Re: No Real Debate Yet on the War](/archive/1998/02/e4c6e656392b52800ec15e174ee73e8b5495598ac318cd1396c0fd2f4952f373) - _"Paul Bradley" \<csm70830@port.ac.uk\>_

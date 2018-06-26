@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Nathan Syfrig \<nsyfrig@condor.depaul.edu\><br>
+From: Nathan Syfrig \<nsyfrig<span>@</span>condor.depaul.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: d2f3cf2693ae5d5c6d37d4b62e6dd8153c1bbab276376beee2acc56edfc0d5ba<br>
 Message ID: \<Pine.SOL.3.91.960722164534.22991B-100000@condor.depaul.edu\><br>
@@ -226,6 +226,8 @@ Nathan F. Syfrig
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Nathan Syfrig <nsyfrig<span>@</span>condor.depaul.edu>](/author/nathan_syfrig_nsyfrig_at_condor_depaul_edu_)"
 
 + 1996-07-23 (Tue, 23 Jul 1996 17:01:16 +0800) - Re: Digital Watermarks for copy protection in recent Billboard (fwd) - _Nathan Syfrig \<nsyfrig@condor.depaul.edu\>_
 

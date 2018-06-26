@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_guerard_danielguerard_at_accent_net_
+post_count: 1
 ---
 
-# daniel guerard <danielguerard@accent.net> (1 posts)
+# daniel guerard <danielguerard<span>@</span>accent.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_horsfall_dave_at_esi_com_au_
+post_count: 32
 ---
 
-# Dave Horsfall <dave@esi.COM.AU> (32 posts)
+# Dave Horsfall <dave<span>@</span>esi.COM.AU> (32 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

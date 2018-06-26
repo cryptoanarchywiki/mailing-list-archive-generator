@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. ALLEN SMITH" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 99bd8cebd88b7e3e27dba30ce8703e7b72135ddaacfea2cc9942a7adf2ff359f<br>
 Message ID: \<01I3V17SNRYW8Y4Z9L@mbcl.rutgers.edu\><br>
@@ -500,6 +500,8 @@ Operational Plan, January 1993, 1.
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-04-23 (Tue, 23 Apr 1996 21:20:29 +0800) - FBI Bulletin: Social Protests in the 1990s: Planning a Response - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

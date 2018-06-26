@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carol_anne_braddock_carolann_at_mm_com_
+post_count: 27
 ---
 
-# Carol Anne Braddock  <carolann@mm.com> (27 posts)
+# Carol Anne Braddock  <carolann<span>@</span>mm.com> (27 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

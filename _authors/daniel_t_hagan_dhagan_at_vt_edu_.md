@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_t_hagan_dhagan_at_vt_edu_
+post_count: 2
 ---
 
-# "Daniel T. Hagan" <dhagan@vt.edu> (2 posts)
+# "Daniel T. Hagan" <dhagan<span>@</span>vt.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

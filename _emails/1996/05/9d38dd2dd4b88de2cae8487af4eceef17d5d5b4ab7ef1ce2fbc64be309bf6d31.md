@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jay Quinby \<jquinby@fivepaces.com\><br>
+From: Jay Quinby \<jquinby<span>@</span>fivepaces.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9d38dd2dd4b88de2cae8487af4eceef17d5d5b4ab7ef1ce2fbc64be309bf6d31<br>
 Message ID: \<2.2.32.19960521195600.006f300c@mailhost\><br>
@@ -81,6 +81,8 @@ the classifieds of Rolling Stone or some such place.
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[Jay Quinby <jquinby<span>@</span>fivepaces.com>](/author/jay_quinby_jquinby_at_fivepaces_com_)"
 
 + 1996-05-22 (Wed, 22 May 1996 10:06:02 +0800) - Re: Remailer extensions - _Jay Quinby \<jquinby@fivepaces.com\>_
 

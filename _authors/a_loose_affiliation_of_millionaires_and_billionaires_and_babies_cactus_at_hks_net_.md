@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: a_loose_affiliation_of_millionaires_and_billionaires_and_babies_cactus_at_hks_net_
+post_count: 2
 ---
 
-# A Loose Affiliation of Millionaires and Billionaires and Babies <cactus@hks.net> (2 posts)
+# A Loose Affiliation of Millionaires and Billionaires and Babies <cactus<span>@</span>hks.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

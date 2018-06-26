@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: internet_at_netline_com
+post_count: 1
 ---
 
-# internet@netline.com (1 posts)
+# internet<span>@</span>netline.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

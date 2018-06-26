@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stig_at_transam_ece_cmu_edu_jonathan_stigelman_
+post_count: 5
 ---
 
-# stig@transam.ece.cmu.edu (Jonathan Stigelman) (5 posts)
+# stig<span>@</span>transam.ece.cmu.edu (Jonathan Stigelman) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

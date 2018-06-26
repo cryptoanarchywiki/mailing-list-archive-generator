@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hodges_at_cnmat_cnmat_berkeley_edu_richard_hodges_
+post_count: 1
 ---
 
-# hodges@CNMAT.CNMAT.Berkeley.EDU (Richard Hodges) (1 posts)
+# hodges<span>@</span>CNMAT.CNMAT.Berkeley.EDU (Richard Hodges) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

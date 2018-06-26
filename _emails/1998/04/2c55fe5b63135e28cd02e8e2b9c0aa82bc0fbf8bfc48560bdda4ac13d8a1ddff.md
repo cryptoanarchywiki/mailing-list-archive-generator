@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2c55fe5b63135e28cd02e8e2b9c0aa82bc0fbf8bfc48560bdda4ac13d8a1ddff<br>
 Message ID: \<199804150714.JAA14032@basement.replay.com\><br>
@@ -61,6 +61,8 @@ AlreadyHadACorkInMyButtBeforeTheDragonGotItsDickOutMonger
 ## Thread
 
 + Return to [April 1998](/archive/1998/04)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1998-04-15 (Wed, 15 Apr 1998 00:14:56 -0700 (PDT)) - Once upon a time... - _nobody@REPLAY.COM (Anonymous)_
 

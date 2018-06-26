@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: benjamin_r_ginter_bginter_at_abilnet_com_
+post_count: 1
 ---
 
-# "Benjamin R. Ginter" <bginter@abilnet.com> (1 posts)
+# "Benjamin R. Ginter" <bginter<span>@</span>abilnet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

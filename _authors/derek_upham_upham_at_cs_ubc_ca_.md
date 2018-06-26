@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: derek_upham_upham_at_cs_ubc_ca_
+post_count: 9
 ---
 
-# Derek Upham <upham@cs.ubc.ca> (9 posts)
+# Derek Upham <upham<span>@</span>cs.ubc.ca> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gr8sclaus_at_aol_com
+post_count: 2
 ---
 
-# Gr8SClaus@aol.com (2 posts)
+# Gr8SClaus<span>@</span>aol.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

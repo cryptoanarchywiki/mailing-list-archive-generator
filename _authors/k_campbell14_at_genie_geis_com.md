@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: k_campbell14_at_genie_geis_com
+post_count: 1
 ---
 
-# k.campbell14@genie.geis.com (1 posts)
+# k.campbell14<span>@</span>genie.geis.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

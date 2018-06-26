@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: um_at_c2_net_ulf_moeller_
+post_count: 10
 ---
 
-# um@c2.net (Ulf Moeller) (10 posts)
+# um<span>@</span>c2.net (Ulf Moeller) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

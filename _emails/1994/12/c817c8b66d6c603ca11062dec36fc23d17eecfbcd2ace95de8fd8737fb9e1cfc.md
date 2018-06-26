@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: hmiller@orion.it.luc.edu (Hugh Miller)<br>
+From: hmiller<span>@</span>orion.it.luc.edu (Hugh Miller)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c817c8b66d6c603ca11062dec36fc23d17eecfbcd2ace95de8fd8737fb9e1cfc<br>
 Message ID: \<9412150506.AA42667@orion.it.luc.edu\><br>
@@ -262,6 +262,8 @@ PGP Public Key 4793C529:  FC D2 08 BB 0C 6D CB C8  0B F9 BA 55 62 19 40 21
 ## Thread
 
 + Return to [December 1994](/archive/1994/12)
+
++ Return to "[hmiller<span>@</span>orion.it.luc.edu (Hugh Miller)](/author/hmiller_at_orion_it_luc_edu_hugh_miller_)"
 
 + 1994-12-15 (Wed, 14 Dec 94 21:07:04 PST) - Zimmermann Defense Fund Appeal - _hmiller@orion.it.luc.edu (Hugh Miller)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_andrew_bandrew_at_potlatch_esd112_wednet_edu_
+post_count: 1
 ---
 
-# Brian Andrew <bandrew@potlatch.esd112.wednet.edu> (1 posts)
+# Brian Andrew <bandrew<span>@</span>potlatch.esd112.wednet.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

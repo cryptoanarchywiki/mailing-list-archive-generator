@@ -167,6 +167,9 @@ whoever put out the bogus public key for X.
 
 + Return to [March 1994](/archive/1994/03)
 
++ Return to "[rcain<span>@</span>netcom.com (Robert Cain)](/author/rcain_at_netcom_com_robert_cain_)"
++ Return to "[wet!naga (Peter Davidson)](/author/wetnaga_peter_davidson_)"
+
 + 1994-03-01 (Tue, 1 Mar 94 12:11:49 PST) - Insecurity of public key crypto #2 (reply to May) - _wet!naga (Peter Davidson)_
   + 1994-03-02 (Tue, 1 Mar 94 17:32:27 PST) - [Re: Insecurity of public key crypto #2 (reply to May)](/archive/1994/03/77a854ef8490930c989c2cb6d375d4ae273ee78acf3aa836be67b8b8ed8834a6) - _rcain@netcom.com (Robert Cain)_
 

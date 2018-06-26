@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mo_baxter_morpheus_at_math_whitman_edu_
+post_count: 2
 ---
 
-# Mo Baxter <morpheus@math.whitman.edu> (2 posts)
+# Mo Baxter <morpheus<span>@</span>math.whitman.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

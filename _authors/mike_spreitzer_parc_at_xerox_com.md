@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_spreitzer_parc_at_xerox_com
+post_count: 11
 ---
 
-# Mike_Spreitzer.PARC@xerox.com (11 posts)
+# Mike_Spreitzer.PARC<span>@</span>xerox.com (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

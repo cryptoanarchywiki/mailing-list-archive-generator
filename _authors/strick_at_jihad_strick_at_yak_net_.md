@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: strick_at_jihad_strick_at_yak_net_
+post_count: 3
 ---
 
-# strick at Jihad <strick@yak.net> (3 posts)
+# strick at Jihad <strick<span>@</span>yak.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

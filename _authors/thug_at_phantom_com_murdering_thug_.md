@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thug_at_phantom_com_murdering_thug_
+post_count: 41
 ---
 
-# thug@phantom.com (Murdering Thug) (41 posts)
+# thug<span>@</span>phantom.com (Murdering Thug) (41 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

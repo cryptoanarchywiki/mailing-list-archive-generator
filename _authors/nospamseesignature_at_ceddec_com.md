@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nospamseesignature_at_ceddec_com
+post_count: 50
 ---
 
-# nospam-seesignature@ceddec.com (50 posts)
+# nospam-seesignature<span>@</span>ceddec.com (50 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

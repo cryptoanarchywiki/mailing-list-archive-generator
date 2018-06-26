@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: v75ortex_v75ortex_at_aol_com_
+post_count: 1
 ---
 
-# V75ortex <V75ortex@aol.com> (1 posts)
+# V75ortex <V75ortex<span>@</span>aol.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

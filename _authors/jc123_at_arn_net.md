@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jc123_at_arn_net
+post_count: 1
 ---
 
-# jc123@arn.net (1 posts)
+# jc123<span>@</span>arn.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

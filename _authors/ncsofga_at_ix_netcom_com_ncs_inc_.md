@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ncsofga_at_ix_netcom_com_ncs_inc_
+post_count: 1
 ---
 
-# ncsofga@ix.netcom.com (NCS, INC) (1 posts)
+# ncsofga<span>@</span>ix.netcom.com (NCS, INC) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

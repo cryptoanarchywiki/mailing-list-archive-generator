@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_user_nobody_at_soda_berkeley_edu_
+post_count: 8
 ---
 
-# Anonymous User <nobody@soda.berkeley.edu> (8 posts)
+# Anonymous User <nobody<span>@</span>soda.berkeley.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

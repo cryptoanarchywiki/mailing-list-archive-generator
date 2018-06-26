@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Tim Philp \<bplib@wat.hookup.net\><br>
+From: Tim Philp \<bplib<span>@</span>wat.hookup.net\><br>
 To: "Perry E. Metzger" \<perry@piermont.com\><br>
 Message Hash: d427f31ace0227f4fe239f9bf8b07c2b44fdeef4aeba9ad7b2e7ad3fea00aadf<br>
 Message ID: \<Pine.OSF.3.91.960124100950.4551A-100000@nic.wat.hookup.net\><br>
@@ -70,6 +70,12 @@ On Tue, 23 Jan 1996, Perry E. Metzger wrote:
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[cjl <cjl<span>@</span>welchlink.welch.jhu.edu>](/author/cjl_cjl_at_welchlink_welch_jhu_edu_)"
++ Return to "[hallam<span>@</span>w3.org](/author/hallam_at_w3_org)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[Tim Philp <bplib<span>@</span>wat.hookup.net>](/author/tim_philp_bplib_at_wat_hookup_net_)"
 
 + 1996-01-25 (Thu, 25 Jan 1996 12:31:48 +0800) - [Re: SS Obergruppenfuhrer Zimmermann (NOT!)](/archive/1996/01/f252b361cb92e7f7dcb95df79678feb428c4ad7675cd8b02d2fa82f0f112986d) - _jim bell \<jimbell@pacifier.com\>_
   + 1996-01-24 (Wed, 24 Jan 1996 13:42:08 +0800) - [Re: SS Obergruppenfuhrer Zimmermann (NOT!)](/archive/1996/01/750672fb0808cebba5670e2259dad6a4b2c5d56e9d650f63a5d4fc85cad8e863) - _"Perry E. Metzger" \<perry@piermont.com\>_

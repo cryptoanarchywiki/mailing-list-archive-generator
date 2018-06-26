@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mianigand_at_outlook_net_michael_peponis_
+post_count: 1
 ---
 
-# mianigand@outlook.net (Michael Peponis) (1 posts)
+# mianigand<span>@</span>outlook.net (Michael Peponis) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jya@pipeline.com (John Young)<br>
+From: jya<span>@</span>pipeline.com (John Young)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: cb6dd0eb603adb4dbdae882aebb106aeea171e6ae710d9c2ca6dda4c8e44927d<br>
 Message ID: \<199609241940.TAA09129@pipe1.ny1.usa.pipeline.com\><br>
@@ -111,6 +111,8 @@ Here are excerpts:
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
 
 + 1996-09-24 (Wed, 25 Sep 1996 07:27:45 +0800) - ICI_96x - _jya@pipeline.com (John Young)_
 

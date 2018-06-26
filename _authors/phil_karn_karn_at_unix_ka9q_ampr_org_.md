@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phil_karn_karn_at_unix_ka9q_ampr_org_
+post_count: 35
 ---
 
-# Phil Karn <karn@unix.ka9q.ampr.org> (35 posts)
+# Phil Karn <karn<span>@</span>unix.ka9q.ampr.org> (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

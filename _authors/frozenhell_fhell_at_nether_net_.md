@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frozenhell_fhell_at_nether_net_
+post_count: 2
 ---
 
-# FrozenHell <fhell@nether.net> (2 posts)
+# FrozenHell <fhell<span>@</span>nether.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_dibona_dibona_at_acm_org_
+post_count: 2
 ---
 
-# Chris DiBona <dibona@acm.org> (2 posts)
+# Chris DiBona <dibona<span>@</span>acm.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

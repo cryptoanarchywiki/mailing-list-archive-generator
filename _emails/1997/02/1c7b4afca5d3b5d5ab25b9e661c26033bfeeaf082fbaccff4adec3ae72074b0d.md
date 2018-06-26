@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1c7b4afca5d3b5d5ab25b9e661c26033bfeeaf082fbaccff4adec3ae72074b0d<br>
 Message ID: \<N2DF3D20w165w@bwalk.dm.com\><br>
@@ -74,5 +74,8 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 
 + Return to [February 1997](/archive/1997/02)
 
-+ 1997-02-20 (Thu, 20 Feb 1997 06:58:44 -0800 (PST)) - Re: [CRYPTO] Dale Thorn Conspiracy Theory - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
+
++ _Unknown thread root_
+  + 1997-02-20 (Thu, 20 Feb 1997 06:58:44 -0800 (PST)) - Re: [CRYPTO] Dale Thorn Conspiracy Theory - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: internet_mail_info_webmaster_at_imailinfo_com_
+post_count: 1
 ---
 
-# Internet mail info <webmaster@imailinfo.com> (1 posts)
+# Internet mail info <webmaster<span>@</span>imailinfo.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

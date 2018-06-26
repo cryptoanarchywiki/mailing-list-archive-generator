@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Vincent Cate \<vince@offshore.com.ai\><br>
+From: Vincent Cate \<vince<span>@</span>offshore.com.ai\><br>
 To: "\<pstira@escape.com\><br>
 Message Hash: 9e9766e3944a6dcbba335edfe8ba65efd86c55abb5bea5eb4aff69cffd95bfb4<br>
 Message ID: \<Pine.LNX.3.91.960813183116.10632A@offshore\><br>
@@ -54,6 +54,9 @@ Offshore Information Services         http://www.offshore.com.ai/
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "["<pstira<span>@</span>escape.com>" <pstira<span>@</span>escape.com>](/author/_pstira_at_escape_com__pstira_at_escape_com_)"
++ Return to "[Vincent Cate <vince<span>@</span>offshore.com.ai>](/author/vincent_cate_vince_at_offshore_com_ai_)"
 
 + 1996-08-11 (Sun, 11 Aug 1996 15:05:07 +0800) - [Anguilla / taxbomber  - legality](/archive/1996/08/f6a0db0fc324064ed149c1be1217fc748466a252686ae655d8576b981f0a0e52) - _Vincent Cate \<vince@offshore.com.ai\>_
   + 1996-08-14 (Wed, 14 Aug 1996 09:11:30 +0800) - [Re: Anguilla / taxbomber - legality](/archive/1996/08/abf3359effda90f1044528e714887d76dfca2dc7abe6c350d4bcc991f44d5ef8) - _"\<pstira@escape.com\>" \<pstira@escape.com\>_

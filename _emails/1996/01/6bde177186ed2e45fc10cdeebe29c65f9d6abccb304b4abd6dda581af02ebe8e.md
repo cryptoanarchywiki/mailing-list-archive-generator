@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Matt Miszewski \<crypto@midex.com\><br>
+From: Matt Miszewski \<crypto<span>@</span>midex.com\><br>
 To: gback@facility.cs.utah.edu<br>
 Message Hash: 6bde177186ed2e45fc10cdeebe29c65f9d6abccb304b4abd6dda581af02ebe8e<br>
 Message ID: \<Pine.3.89.9601232225.B4292-0100000@shaq.midex.com\><br>
@@ -66,6 +66,13 @@ Matt
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[gback<span>@</span>facility.cs.utah.edu](/author/gback_at_facility_cs_utah_edu)"
++ Return to "[heesen<span>@</span>zpr.uni-koeln.de (Rainer Heesen)](/author/heesen_at_zpr_unikoeln_de_rainer_heesen_)"
++ Return to "[Matt Miszewski <crypto<span>@</span>midex.com>](/author/matt_miszewski_crypto_at_midex_com_)"
++ Return to "[Matthew Sheppard <Matthew.Sheppard<span>@</span>Comp.VUW.AC.NZ>](/author/matthew_sheppard_matthew_sheppard_at_comp_vuw_ac_nz_)"
++ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/author/rich_salz_rsalz_at_osf_org_)"
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
 
 + 1996-01-25 (Thu, 25 Jan 1996 18:07:52 +0800) - [Hack Java](/archive/1996/01/af3cf466c88eb6d921167c1a0f9018c7b19523a984d33505834cf9035ec2ad8f) - _Rich Salz \<rsalz@osf.org\>_
   + 1996-01-23 (Wed, 24 Jan 1996 02:33:42 +0800) - [Re: Hack Java](/archive/1996/01/f589b0a50e1da44302f7fc0aa47985c58a9e15df09c60982df98d595be5c85c1) - _gback@facility.cs.utah.edu_

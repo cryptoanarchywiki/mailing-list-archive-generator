@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
+From: "E. ALLEN SMITH" \<EALLENSMITH<span>@</span>ocelot.Rutgers.EDU\><br>
 To: vznuri@netcom.com<br>
 Message Hash: fbec2dd5eeab9a72e3316dbab2cec5f0ac86bce1e23b52a3b354f1ce3adcd238<br>
 Message ID: \<01I4E4S4ZWSE8Y583T@mbcl.rutgers.edu\><br>
@@ -86,6 +86,9 @@ material the CyberAngels don't like.
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1996-05-07 (Tue, 7 May 1996 13:19:09 +0800) - Re: misunderstandings of PICS - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
   + 1996-05-07 (Tue, 7 May 1996 15:41:36 +0800) - [Re: misunderstandings of PICS](/archive/1996/05/eca4e73adefd8e2c5b34771263b52899f27e6faec7a52e41e07af5623b75d452) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_

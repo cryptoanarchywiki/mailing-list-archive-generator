@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jiri_baum_jirib_at_sweeney_cs_monash_edu_au_
+post_count: 66
 ---
 
-# Jiri Baum <jirib@sweeney.cs.monash.edu.au> (66 posts)
+# Jiri Baum <jirib<span>@</span>sweeney.cs.monash.edu.au> (66 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

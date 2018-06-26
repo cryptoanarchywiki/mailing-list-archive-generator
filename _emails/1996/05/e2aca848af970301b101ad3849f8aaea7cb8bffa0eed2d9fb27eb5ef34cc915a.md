@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr. Dimitri Vulis)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr. Dimitri Vulis)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: e2aca848af970301b101ad3849f8aaea7cb8bffa0eed2d9fb27eb5ef34cc915a<br>
 Message ID: \<DPH9ND2w165w@bwalk.dm.com\><br>
@@ -67,6 +67,12 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/author/alan_horowitz_alanh_at_infi_net_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr. Dimitri Vulis)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_)"
++ Return to "[qut<span>@</span>netcom.com (Dave Harman)](/author/qut_at_netcom_com_dave_harman_)"
++ Return to "[remailer<span>@</span>2005.bart.nl (Senator Exon)](/author/remailer_at_2005_bart_nl_senator_exon_)"
 
 + 1996-05-20 (Mon, 20 May 1996 17:23:56 +0800) - [Toastmasters?Incorporating](/archive/1996/05/d3b980aa368b58aef131a7111e348ca344b27883e6de80c2cbdf9774ce746b55) - _remailer@2005.bart.nl (Senator Exon)_
   + 1996-05-20 (Mon, 20 May 1996 23:02:22 +0800) - [Re: Incorporating](/archive/1996/05/c96d5505b858bbf7faec5d3541d02f92936e7a2674d277db3f2df4f5f7f77ba0) - _qut@netcom.com (Dave Harman)_

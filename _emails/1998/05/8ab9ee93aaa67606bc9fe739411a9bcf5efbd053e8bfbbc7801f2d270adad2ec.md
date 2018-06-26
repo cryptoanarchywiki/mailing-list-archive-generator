@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: StanSqncrs \<StanSqncrs@aol.com\><br>
 Message Hash: 8ab9ee93aaa67606bc9fe739411a9bcf5efbd053e8bfbbc7801f2d270adad2ec<br>
 Message ID: \<199805240935.LAA03446@basement.replay.com\><br>
@@ -63,6 +63,8 @@ responding to the thread via an anonymous remailer.
 ## Thread
 
 + Return to [May 1998](/archive/1998/05)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1998-05-24 (Sun, 24 May 1998 02:35:14 -0700 (PDT)) - (no subject)Re: Unix O/S - _nobody@REPLAY.COM (Anonymous)_
 

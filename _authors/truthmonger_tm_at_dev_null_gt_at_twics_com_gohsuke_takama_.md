@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: truthmonger_tm_at_dev_null_gt_at_twics_com_gohsuke_takama_
+post_count: 1
 ---
 
-# TruthMonger <tm@dev.null>gt@twics.com (Gohsuke Takama) (1 posts)
+# TruthMonger <tm<span>@</span>dev.null>gt<span>@</span>twics.com (Gohsuke Takama) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

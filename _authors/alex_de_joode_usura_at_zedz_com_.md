@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_de_joode_usura_at_zedz_com_
+post_count: 1
 ---
 
-# Alex de Joode <usura@ZedZ.com> (1 posts)
+# Alex de Joode <usura<span>@</span>ZedZ.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

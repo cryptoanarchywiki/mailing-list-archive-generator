@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_same_guy_thesameguy_at_thesameplace_old_
+post_count: 3
 ---
 
-# The Same Guy <theSameGuy@theSamePlace.Old> (3 posts)
+# The Same Guy <theSameGuy<span>@</span>theSamePlace.Old> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

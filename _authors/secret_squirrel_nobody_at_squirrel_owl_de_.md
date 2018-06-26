@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: secret_squirrel_nobody_at_squirrel_owl_de_
+post_count: 36
 ---
 
-# Secret Squirrel <nobody@squirrel.owl.de> (36 posts)
+# Secret Squirrel <nobody<span>@</span>squirrel.owl.de> (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

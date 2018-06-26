@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: skaplin_at_skypoint_com_samuel_kaplin_
+post_count: 35
 ---
 
-# skaplin@skypoint.com (Samuel Kaplin) (35 posts)
+# skaplin<span>@</span>skypoint.com (Samuel Kaplin) (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

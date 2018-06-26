@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thumper_thumper_at_kaiwan_com_
+post_count: 3
 ---
 
-# thumper <thumper@kaiwan.com> (3 posts)
+# thumper <thumper<span>@</span>kaiwan.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

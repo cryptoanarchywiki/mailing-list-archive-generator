@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rudd_a_at_alph_swosu_edu_amy_rudd_
+post_count: 1
 ---
 
-# rudd_a@alph.swosu.edu (Amy Rudd) (1 posts)
+# rudd_a<span>@</span>alph.swosu.edu (Amy Rudd) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

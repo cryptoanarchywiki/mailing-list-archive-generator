@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 09644775kg_at_fiberia_com
+post_count: 1
 ---
 
-# 09644775KG@fiberia.com (1 posts)
+# 09644775KG<span>@</span>fiberia.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: roy_at_cybrspc_mn_org_roy_m_silvernail_
+post_count: 31
 ---
 
-# roy@cybrspc.mn.org (Roy M. Silvernail) (31 posts)
+# roy<span>@</span>cybrspc.mn.org (Roy M. Silvernail) (31 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

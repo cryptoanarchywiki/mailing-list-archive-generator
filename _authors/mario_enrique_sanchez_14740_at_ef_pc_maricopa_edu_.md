@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mario_enrique_sanchez_14740_at_ef_pc_maricopa_edu_
+post_count: 1
 ---
 
-# "Mario Enrique Sanchez" <14740@ef.pc.maricopa.edu> (1 posts)
+# "Mario Enrique Sanchez" <14740<span>@</span>ef.pc.maricopa.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

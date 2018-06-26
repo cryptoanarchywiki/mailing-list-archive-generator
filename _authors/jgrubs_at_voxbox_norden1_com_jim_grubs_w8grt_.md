@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jgrubs_at_voxbox_norden1_com_jim_grubs_w8grt_
+post_count: 20
 ---
 
-# jgrubs@voxbox.norden1.com (Jim Grubs, W8GRT) (20 posts)
+# jgrubs<span>@</span>voxbox.norden1.com (Jim Grubs, W8GRT) (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_jackson_at_oubbs_telecom_uoknor_edu
+post_count: 1
 ---
 
-# tom.jackson@oubbs.telecom.uoknor.edu (1 posts)
+# tom.jackson<span>@</span>oubbs.telecom.uoknor.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

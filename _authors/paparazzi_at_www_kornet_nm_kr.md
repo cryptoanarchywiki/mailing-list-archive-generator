@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paparazzi_at_www_kornet_nm_kr
+post_count: 2
 ---
 
-# paparazzi@www.kornet.nm.kr (2 posts)
+# paparazzi<span>@</span>www.kornet.nm.kr (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_leyland_pcl_at_sable_ox_ac_uk_
+post_count: 1
 ---
 
-# Paul Leyland <pcl@sable.ox.ac.uk> (1 posts)
+# Paul Leyland <pcl<span>@</span>sable.ox.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

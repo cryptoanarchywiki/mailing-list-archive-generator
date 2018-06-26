@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ichudov@algebra.com (Igor Chudov @ home)<br>
+From: ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)<br>
 To: dlv@bwalk.dm.com (Dr. Dimitri Vulis)<br>
 Message Hash: 030d42c0772f064dd3cbf0fdbbabe940717ee4fbd847df71cceaced6bbd8ffc5<br>
 Message ID: \<199603040500.XAA06840@manifold.algebra.com\><br>
@@ -96,6 +96,11 @@ Ep1n1jmP4OQ=
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[Bruce Baugh <bruce<span>@</span>aracnet.com>](/author/bruce_baugh_bruce_at_aracnet_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr. Dimitri Vulis)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[Just Rich <rich<span>@</span>c2.org>](/author/just_rich_rich_at_c2_org_)"
 
 + 1996-03-03 (Mon, 4 Mar 1996 03:42:52 +0800) - [Mainstreaming PGP on Usenet](/archive/1996/03/4278ffc0e87441b5df1a5a240323441a1f8755ece2f729238a5175b4be987c55) - _Bruce Baugh \<bruce@aracnet.com\>_
   + 1996-03-03 (Mon, 4 Mar 1996 06:44:34 +0800) - [Re: Mainstreaming PGP on Usenet](/archive/1996/03/f42b5058e8ce31dae79899edb1819b292b22da79ee6f84bf2e742b491a2f9fa4) - _Just Rich \<rich@c2.org\>_

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rarachel@photon.poly.edu (Arsen Ray Arachelian)<br>
+From: rarachel<span>@</span>photon.poly.edu (Arsen Ray Arachelian)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9a3f74ec2ecc4c68a9d4bf11efdfa96a88fc4a9ceaf8a9dba1bb10606d23b2c9<br>
 Message ID: \<9406300200.AA14325@photon.poly.edu\><br>
@@ -658,6 +658,8 @@ STEVE:  First of all, it's been very interesting subject, thanks  but I'm
 ## Thread
 
 + Return to [June 1994](/archive/1994/06)
+
++ Return to "[rarachel<span>@</span>photon.poly.edu (Arsen Ray Arachelian)](/author/rarachel_at_photon_poly_edu_arsen_ray_arachelian_)"
 
 + 1994-06-30 (Wed, 29 Jun 94 18:59:18 PDT) - Feb 17 Transcript Part 3 - _rarachel@photon.poly.edu (Arsen Ray Arachelian)_
 

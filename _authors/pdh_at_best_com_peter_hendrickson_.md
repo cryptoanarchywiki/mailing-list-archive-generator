@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pdh_at_best_com_peter_hendrickson_
+post_count: 10
 ---
 
-# pdh@best.com (Peter Hendrickson) (10 posts)
+# pdh<span>@</span>best.com (Peter Hendrickson) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

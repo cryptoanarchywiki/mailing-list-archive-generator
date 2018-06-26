@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_fourny_acclivity_at_interweb_be_
+post_count: 1
 ---
 
-# Marc Fourny<acclivity@interweb.be> (1 posts)
+# Marc Fourny<acclivity<span>@</span>interweb.be> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

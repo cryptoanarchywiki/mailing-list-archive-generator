@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_corradinisbdc_andrew_corradini_at_m_cc_utah_edu_
+post_count: 4
 ---
 
-# Andrew Corradini/SBDC <Andrew.Corradini@m.cc.utah.edu> (4 posts)
+# Andrew Corradini/SBDC <Andrew.Corradini<span>@</span>m.cc.utah.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bernard_a_galler_at_um_cc_umich_edu
+post_count: 1
 ---
 
-# Bernard.A.Galler@um.cc.umich.edu (1 posts)
+# Bernard.A.Galler<span>@</span>um.cc.umich.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

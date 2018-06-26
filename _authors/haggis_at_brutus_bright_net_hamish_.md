@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: haggis_at_brutus_bright_net_hamish_
+post_count: 2
 ---
 
-# haggis@brutus.bright.net (Hamish) (2 posts)
+# haggis<span>@</span>brutus.bright.net (Hamish) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

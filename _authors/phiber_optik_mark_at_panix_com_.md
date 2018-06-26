@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phiber_optik_mark_at_panix_com_
+post_count: 1
 ---
 
-# Phiber Optik <mark@Panix.Com> (1 posts)
+# Phiber Optik <mark<span>@</span>Panix.Com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

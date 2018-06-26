@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_dorn_hetzel_jr_dorn_at_indigo_mese_com_
+post_count: 2
 ---
 
-# ALAN DORN HETZEL JR <dorn@indigo.mese.com> (2 posts)
+# ALAN DORN HETZEL JR <dorn<span>@</span>indigo.mese.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

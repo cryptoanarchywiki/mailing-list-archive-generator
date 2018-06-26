@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Anonymous \<anon@anon.efga.org\><br>
+From: Anonymous \<anon<span>@</span>anon.efga.org\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: be6deb8f9f96cc657ea9ce41a8b80e162ce9c2ca0bbd8865e1cebc6cc60a8ae0<br>
 Message ID: \<ccbc9adab2fcbebd2a5e59e54cb287dc@anon.efga.org\><br>
@@ -78,6 +78,8 @@ z1W9JxeFtaAF90aMxyartpKolkLvTc2fDJ//E/H8N7KAGrkqVrIXCQ==
 ## Thread
 
 + Return to [September 1997](/archive/1997/09)
+
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
 
 + 1997-09-28 (Mon, 29 Sep 1997 04:24:13 +0800) - Re: Remailers and ecash - _Anonymous \<anon@anon.efga.org\>_
 

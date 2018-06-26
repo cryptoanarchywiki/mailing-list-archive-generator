@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: biz4uin97_at_compuserve_com_a_business_opportunity_for_you_
+post_count: 1
 ---
 
-# biz4uin97@compuserve.com (A Business Opportunity for you...) (1 posts)
+# biz4uin97<span>@</span>compuserve.com (A Business Opportunity for you...) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

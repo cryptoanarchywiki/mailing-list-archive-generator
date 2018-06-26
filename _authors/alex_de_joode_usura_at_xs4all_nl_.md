@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_de_joode_usura_at_xs4all_nl_
+post_count: 7
 ---
 
-# Alex de Joode <usura@xs4all.nl> (7 posts)
+# Alex de Joode <usura<span>@</span>xs4all.nl> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

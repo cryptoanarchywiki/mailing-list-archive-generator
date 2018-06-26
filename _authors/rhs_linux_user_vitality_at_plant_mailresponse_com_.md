@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rhs_linux_user_vitality_at_plant_mailresponse_com_
+post_count: 1
 ---
 
-# RHS Linux User <vitality@plant.mail-response.com> (1 posts)
+# RHS Linux User <vitality<span>@</span>plant.mail-response.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

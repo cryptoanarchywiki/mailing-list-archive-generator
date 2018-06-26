@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fergp_at_sytex_com_paul_ferguson_
+post_count: 126
 ---
 
-# fergp@sytex.com (Paul Ferguson) (126 posts)
+# fergp<span>@</span>sytex.com (Paul Ferguson) (126 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

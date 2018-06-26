@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bennett_t1_at_popmail_firn_edu
+post_count: 28
 ---
 
-# bennett_t1@popmail.firn.edu (28 posts)
+# bennett_t1<span>@</span>popmail.firn.edu (28 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

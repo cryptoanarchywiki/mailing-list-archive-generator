@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marianne_mueller_at_eng_sun_com_marianne_mueller_
+post_count: 2
 ---
 
-# Marianne.Mueller@Eng.Sun.COM (Marianne Mueller) (2 posts)
+# Marianne.Mueller<span>@</span>Eng.Sun.COM (Marianne Mueller) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

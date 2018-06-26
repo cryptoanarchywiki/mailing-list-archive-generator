@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iso88591qb7acid_rainb7_acidrain_at_scott_net_
+post_count: 1
 ---
 
-# "=?ISO-8859-1?Q?=B7Acid.Rain=B7?=" <acidrain@scott.net> (1 posts)
+# "=?ISO-8859-1?Q?=B7Acid.Rain=B7?=" <acidrain<span>@</span>scott.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

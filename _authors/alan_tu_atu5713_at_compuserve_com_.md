@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alan_tu_atu5713_at_compuserve_com_
+post_count: 12
 ---
 
-# Alan Tu <ATU5713@compuserve.com> (12 posts)
+# Alan Tu <ATU5713<span>@</span>compuserve.com> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

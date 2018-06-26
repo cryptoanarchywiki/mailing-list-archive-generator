@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_h_guttman_guttman_at_media_mit_edu_
+post_count: 1
 ---
 
-# Robert H Guttman <guttman@media.mit.edu> (1 posts)
+# Robert H Guttman <guttman<span>@</span>media.mit.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

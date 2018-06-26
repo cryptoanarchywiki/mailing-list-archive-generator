@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: clinical27a_at_usm_edu
+post_count: 1
 ---
 
-# clinical27a@usm.edu (1 posts)
+# clinical27a<span>@</span>usm.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

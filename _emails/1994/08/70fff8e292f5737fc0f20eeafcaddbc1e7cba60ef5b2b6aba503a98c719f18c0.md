@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: mpd@netcom.com (Mike Duvos)<br>
+From: mpd<span>@</span>netcom.com (Mike Duvos)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 70fff8e292f5737fc0f20eeafcaddbc1e7cba60ef5b2b6aba503a98c719f18c0<br>
 Message ID: \<199408252050.NAA15791@netcom13.netcom.com\><br>
@@ -78,5 +78,8 @@ steel.
 
 + Return to [August 1994](/archive/1994/08)
 
-+ 1994-08-25 (Thu, 25 Aug 94 13:50:39 PDT) - Re: Nuclear Weapons Material - _mpd@netcom.com (Mike Duvos)_
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
+
++ _Unknown thread root_
+  + 1994-08-25 (Thu, 25 Aug 94 13:50:39 PDT) - Re: Nuclear Weapons Material - _mpd@netcom.com (Mike Duvos)_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Jon Leonard" \<jleonard@divcom.umop-ap.com\><br>
+From: "Jon Leonard" \<jleonard<span>@</span>divcom.umop-ap.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: b4daccf3cd22f4ff71ef9ec93e2b02194ffb5df8c7e2bbf0ded43b0c2408dfe6<br>
 Message ID: \<9604122214.AA09462@divcom.umop-ap.com\><br>
@@ -70,6 +70,9 @@ Jon Leonard
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "["Jon Leonard" <jleonard<span>@</span>divcom.umop-ap.com>](/author/jon_leonard_jleonard_at_divcom_umopap_com_)"
++ Return to "[JonWienke<span>@</span>aol.com](/author/jonwienke_at_aol_com)"
 
 + 1996-04-12 (Sat, 13 Apr 1996 01:36:02 +0800) - [Re: questions about bits and bytes [NOISE]](/archive/1996/04/f0edc2a6df8ced45797acaf3794a360fa52e763e1d66a8588fc3b2bb958296f0) - _JonWienke@aol.com_
   + 1996-04-13 (Sat, 13 Apr 1996 17:14:17 +0800) - Re: questions about bits and bytes [NOISE] - _"Jon Leonard" \<jleonard@divcom.umop-ap.com\>_

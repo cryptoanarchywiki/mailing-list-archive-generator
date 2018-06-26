@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hh_at_cicada_berkeley_edu
+post_count: 2
 ---
 
-# hh@cicada.berkeley.edu (2 posts)
+# hh<span>@</span>cicada.berkeley.edu (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

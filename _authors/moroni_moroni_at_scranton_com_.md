@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: moroni_moroni_at_scranton_com_
+post_count: 31
 ---
 
-# Moroni <moroni@scranton.com> (31 posts)
+# Moroni <moroni<span>@</span>scranton.com> (31 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gregory_ellison_gregorye_at_microsoft_com_
+post_count: 2
 ---
 
-# Gregory Ellison <gregorye@microsoft.com> (2 posts)
+# Gregory Ellison <gregorye<span>@</span>microsoft.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

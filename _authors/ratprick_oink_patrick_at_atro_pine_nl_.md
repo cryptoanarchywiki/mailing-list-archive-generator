@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ratprick_oink_patrick_at_atro_pine_nl_
+post_count: 1
 ---
 
-# Ratprick Oink <patrick@atro.pine.nl> (1 posts)
+# Ratprick Oink <patrick<span>@</span>atro.pine.nl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

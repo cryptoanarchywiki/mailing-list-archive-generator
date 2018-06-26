@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dildophus_dildo_at_americanbanker_com_
+post_count: 2
 ---
 
-# Dildophus <dildo@americanbanker.com> (2 posts)
+# Dildophus <dildo<span>@</span>americanbanker.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

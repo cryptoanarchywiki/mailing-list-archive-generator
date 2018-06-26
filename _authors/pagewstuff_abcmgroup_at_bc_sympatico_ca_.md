@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pagewstuff_abcmgroup_at_bc_sympatico_ca_
+post_count: 3
 ---
 
-# pagewstuff <abcmgroup@bc.sympatico.ca> (3 posts)
+# pagewstuff <abcmgroup<span>@</span>bc.sympatico.ca> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

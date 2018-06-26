@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: si_dawson_simond_at_perception_co_nz_
+post_count: 1
 ---
 
-# Si Dawson <simond@perception.co.nz> (1 posts)
+# Si Dawson <simond<span>@</span>perception.co.nz> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

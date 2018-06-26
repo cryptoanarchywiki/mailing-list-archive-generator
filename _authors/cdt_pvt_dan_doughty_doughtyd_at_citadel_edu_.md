@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cdt_pvt_dan_doughty_doughtyd_at_citadel_edu_
+post_count: 3
 ---
 
-# Cdt Pvt Dan Doughty <DOUGHTYD@Citadel.edu> (3 posts)
+# Cdt Pvt Dan Doughty <DOUGHTYD<span>@</span>Citadel.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

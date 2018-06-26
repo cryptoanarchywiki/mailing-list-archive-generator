@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_escalier_escali_m_at_worldnet_fr_
+post_count: 1
 ---
 
-# Marc Escalier <escali_m@worldnet.fr> (1 posts)
+# Marc Escalier <escali_m<span>@</span>worldnet.fr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

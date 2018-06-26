@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rain_face_at_f418_n161_z1_fidonet_org_rain_face_
+post_count: 1
 ---
 
-# Rain.Face@f418.n161.z1.FIDONET.ORG (Rain Face) (1 posts)
+# Rain.Face<span>@</span>f418.n161.z1.FIDONET.ORG (Rain Face) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

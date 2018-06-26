@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mixmaster_at_obscura_com_mixmaster_
+post_count: 4
 ---
 
-# mixmaster@obscura.com (Mixmaster) (4 posts)
+# mixmaster<span>@</span>obscura.com (Mixmaster) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

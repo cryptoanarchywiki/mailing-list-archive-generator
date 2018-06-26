@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hal_abelson_hal_at_martigny_ai_mit_edu_
+post_count: 9
 ---
 
-# Hal Abelson <hal@martigny.ai.mit.edu> (9 posts)
+# Hal Abelson <hal<span>@</span>martigny.ai.mit.edu> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

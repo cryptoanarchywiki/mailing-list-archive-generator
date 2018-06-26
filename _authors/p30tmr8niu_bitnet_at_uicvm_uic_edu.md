@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: p30tmr8niu_bitnet_at_uicvm_uic_edu
+post_count: 1
 ---
 
-# P30TMR8%NIU.bitnet@UICVM.UIC.EDU (1 posts)
+# P30TMR8%NIU.bitnet<span>@</span>UICVM.UIC.EDU (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

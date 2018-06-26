@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: safepassage_sales_safepassagesales_at_c2_net_
+post_count: 1
 ---
 
-# SafePassage Sales <safepassage-sales@c2.net> (1 posts)
+# SafePassage Sales <safepassage-sales<span>@</span>c2.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

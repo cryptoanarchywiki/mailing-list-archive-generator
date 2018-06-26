@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dietrich_j_kappe_dietrich_kappe_at_redweb_com_
+post_count: 1
 ---
 
-# "Dietrich J. Kappe" <Dietrich_Kappe@redweb.com> (1 posts)
+# "Dietrich J. Kappe" <Dietrich_Kappe<span>@</span>redweb.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

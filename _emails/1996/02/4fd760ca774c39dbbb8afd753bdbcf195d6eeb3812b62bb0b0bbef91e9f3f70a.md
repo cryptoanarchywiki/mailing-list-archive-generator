@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4fd760ca774c39dbbb8afd753bdbcf195d6eeb3812b62bb0b0bbef91e9f3f70a<br>
 Message ID: \<199602081454.JAA20572@pipe1.nyc.pipeline.com\><br>
@@ -142,6 +142,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1996-02-08 (Thu, 8 Feb 1996 23:32:12 +0800) - RSA-China Crypto - _John Young \<jya@pipeline.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: karl_deardorff_karl_deardorff_at_icpmech_navy_mil_
+post_count: 1
 ---
 
-# Karl Deardorff <karl_deardorff@icpmech.navy.mil> (1 posts)
+# Karl Deardorff <karl_deardorff<span>@</span>icpmech.navy.mil> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

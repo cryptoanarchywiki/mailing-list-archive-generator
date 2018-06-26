@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: asherman_at_jacobi_ikinetics_com_aaron_sherman_
+post_count: 1
 ---
 
-# asherman@jacobi.i-kinetics.com (Aaron Sherman) (1 posts)
+# asherman<span>@</span>jacobi.i-kinetics.com (Aaron Sherman) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

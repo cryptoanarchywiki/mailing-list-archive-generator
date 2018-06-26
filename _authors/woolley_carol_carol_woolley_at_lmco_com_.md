@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: woolley_carol_carol_woolley_at_lmco_com_
+post_count: 1
 ---
 
-# "Woolley, Carol" <carol.woolley@lmco.com> (1 posts)
+# "Woolley, Carol" <carol.woolley<span>@</span>lmco.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

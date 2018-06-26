@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<hfinney@shell.portal.com\><br>
+From: Hal \<hfinney<span>@</span>shell.portal.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ead4c9600ae0b2b6e5bb674df7e9c122fc6ca2f2489837b6a2acdaceb32dc4be<br>
 Message ID: \<199402070641.WAA27913@jobe.shell.portal.com\><br>
@@ -85,6 +85,8 @@ Hal
 ## Thread
 
 + Return to [February 1994](/archive/1994/02)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
 
 + 1994-02-07 (Sun, 6 Feb 94 22:41:09 PST) - RE: Magic Money attack - _Hal \<hfinney@shell.portal.com\>_
 

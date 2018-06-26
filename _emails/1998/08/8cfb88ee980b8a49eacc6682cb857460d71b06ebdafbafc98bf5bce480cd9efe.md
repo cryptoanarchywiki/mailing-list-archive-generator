@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: HyperReal-Anon \<nobody@sind.hyperreal.art.pl\><br>
+From: HyperReal-Anon \<nobody<span>@</span>sind.hyperreal.art.pl\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8cfb88ee980b8a49eacc6682cb857460d71b06ebdafbafc98bf5bce480cd9efe<br>
 Message ID: \<d66dc6966d2fdcad0f4904aade6fa1ed@anonymous\><br>
@@ -51,6 +51,8 @@ and carbon copy half of Congress.
 ## Thread
 
 + Return to [August 1998](/archive/1998/08)
+
++ Return to "[HyperReal-Anon <nobody<span>@</span>sind.hyperreal.art.pl>](/author/hyperrealanon_nobody_at_sind_hyperreal_art_pl_)"
 
 + 1998-08-09 (Sat, 8 Aug 1998 21:11:32 -0700 (PDT)) - Re: Mysterious taglines - _HyperReal-Anon \<nobody@sind.hyperreal.art.pl\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rsk_at_gynko_circ_upenn_edu_rich_kulawiec_
+post_count: 1
 ---
 
-# rsk@gynko.circ.upenn.edu (Rich Kulawiec) (1 posts)
+# rsk<span>@</span>gynko.circ.upenn.edu (Rich Kulawiec) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

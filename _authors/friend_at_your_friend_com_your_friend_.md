@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: friend_at_your_friend_com_your_friend_
+post_count: 1
 ---
 
-# friend@your.friend.com (Your Friend) (1 posts)
+# friend<span>@</span>your.friend.com (Your Friend) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

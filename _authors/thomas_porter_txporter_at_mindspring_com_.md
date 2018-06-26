@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_porter_txporter_at_mindspring_com_
+post_count: 8
 ---
 
-# Thomas Porter <txporter@mindspring.com> (8 posts)
+# Thomas Porter <txporter<span>@</span>mindspring.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

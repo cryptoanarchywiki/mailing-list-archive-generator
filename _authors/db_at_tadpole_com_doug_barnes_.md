@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: db_at_tadpole_com_doug_barnes_
+post_count: 22
 ---
 
-# db@Tadpole.COM (Doug Barnes) (22 posts)
+# db<span>@</span>Tadpole.COM (Doug Barnes) (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

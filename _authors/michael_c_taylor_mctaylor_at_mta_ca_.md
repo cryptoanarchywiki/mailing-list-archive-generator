@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_c_taylor_mctaylor_at_mta_ca_
+post_count: 7
 ---
 
-# Michael C Taylor <mctaylor@mta.ca> (7 posts)
+# Michael C Taylor <mctaylor<span>@</span>mta.ca> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

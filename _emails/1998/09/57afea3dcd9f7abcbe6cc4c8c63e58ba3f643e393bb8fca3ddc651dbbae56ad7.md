@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Matthew James Gering \<mgering@ecosystems.net\><br>
+From: Matthew James Gering \<mgering<span>@</span>ecosystems.net\><br>
 To: "Cypherpunks (E-mail)" \<cypherpunks@cyberpass.net\><br>
 Message Hash: 57afea3dcd9f7abcbe6cc4c8c63e58ba3f643e393bb8fca3ddc651dbbae56ad7<br>
 Message ID: \<33CCFE438B9DD01192E800A024C84A19284637@mossbay.chaffeyhomes.com\><br>
@@ -88,6 +88,8 @@ Certain ICMP messages are often disabled and/or certain ports blocked or
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[Matthew James Gering <mgering<span>@</span>ecosystems.net>](/author/matthew_james_gering_mgering_at_ecosystems_net_)"
 
 + 1998-09-10 (Thu, 10 Sep 1998 13:44:30 +0800) - RE: Spot The Fed - _Matthew James Gering \<mgering@ecosystems.net\>_
 

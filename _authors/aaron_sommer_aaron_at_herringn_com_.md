@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aaron_sommer_aaron_at_herringn_com_
+post_count: 1
 ---
 
-# "aaron sommer" <aaron@herringn.com> (1 posts)
+# "aaron sommer" <aaron<span>@</span>herringn.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

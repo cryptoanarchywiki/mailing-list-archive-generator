@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_prickett_jprickett_at_lightlink_satcom_net_
+post_count: 1
 ---
 
-# Jim Prickett <jprickett@lightlink.satcom.net> (1 posts)
+# Jim Prickett <jprickett<span>@</span>lightlink.satcom.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

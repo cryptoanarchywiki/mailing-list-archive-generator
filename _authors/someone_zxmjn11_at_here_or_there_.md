@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: someone_zxmjn11_at_here_or_there_
+post_count: 1
 ---
 
-# someone <zxmjn11@here.or.there> (1 posts)
+# someone <zxmjn11<span>@</span>here.or.there> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

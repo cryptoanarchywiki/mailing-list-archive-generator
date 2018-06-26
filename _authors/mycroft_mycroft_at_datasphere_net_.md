@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mycroft_mycroft_at_datasphere_net_
+post_count: 1
 ---
 
-# Mycroft <mycroft@datasphere.net> (1 posts)
+# Mycroft <mycroft<span>@</span>datasphere.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

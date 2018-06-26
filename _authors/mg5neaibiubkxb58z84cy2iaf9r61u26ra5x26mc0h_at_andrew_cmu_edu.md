@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mg5neaibiubkxb58z84cy2iaf9r61u26ra5x26mc0h_at_andrew_cmu_edu
+post_count: 1
 ---
 
-# mg5n+eaibiubkxb58z84cy2iaf9r61u26ra5x26mc0h@andrew.cmu.edu (1 posts)
+# mg5n+eaibiubkxb58z84cy2iaf9r61u26ra5x26mc0h<span>@</span>andrew.cmu.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

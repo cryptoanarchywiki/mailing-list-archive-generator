@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Martin Janzen \<janzen@idacom.hp.com\><br>
+From: Martin Janzen \<janzen<span>@</span>idacom.hp.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: bc975d867ca66fa42c9eed7d4acb4bdd1a9c505891df2f3cf93fbbecbcfdd1b0<br>
 Message ID: \<9601242142.AA19654@sabel.idacom.hp.com\><br>
@@ -74,6 +74,9 @@ qR5RtRvKyDaWR0pi3j+WQ6y8y0WyFrVk1z8/cFKVQWfZvgs1Zjs6R87DWreiN2hr
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[Bruce Baugh <bruceab<span>@</span>teleport.com>](/author/bruce_baugh_bruceab_at_teleport_com_)"
++ Return to "[Martin Janzen <janzen<span>@</span>idacom.hp.com>](/author/martin_janzen_janzen_at_idacom_hp_com_)"
 
 + 1996-01-24 (Thu, 25 Jan 1996 05:04:52 +0800) - [re: [local] Report on Portland Cpunks meeting](/archive/1996/01/e4d8b5e4827e9fd3b274fee69eee1d84a109784178107ec2b7bed5a4e0149f58) - _Bruce Baugh \<bruceab@teleport.com\>_
   + 1996-01-24 (Thu, 25 Jan 1996 06:19:11 +0800) - Signing nyms' keys (Was: Report on Portland Cpunks...) - _Martin Janzen \<janzen@idacom.hp.com\>_

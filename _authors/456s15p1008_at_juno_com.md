@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 456s15p1008_at_juno_com
+post_count: 1
 ---
 
-# 456S15P1008@juno.com (1 posts)
+# 456S15P1008<span>@</span>juno.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

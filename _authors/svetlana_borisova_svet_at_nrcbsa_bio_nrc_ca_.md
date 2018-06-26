@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: svetlana_borisova_svet_at_nrcbsa_bio_nrc_ca_
+post_count: 2
 ---
 
-# Svetlana Borisova <svet@nrcbsa.bio.nrc.ca> (2 posts)
+# Svetlana Borisova <svet<span>@</span>nrcbsa.bio.nrc.ca> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

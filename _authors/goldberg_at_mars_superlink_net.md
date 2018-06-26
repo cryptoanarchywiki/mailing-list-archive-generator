@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: goldberg_at_mars_superlink_net
+post_count: 2
 ---
 
-# goldberg@mars.superlink.net (2 posts)
+# goldberg<span>@</span>mars.superlink.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

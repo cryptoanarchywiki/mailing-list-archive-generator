@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wtshaw_at_itexas_net_w_t_shaw_
+post_count: 1
 ---
 
-# wtshaw@itexas.net (W T Shaw) (1 posts)
+# wtshaw<span>@</span>itexas.net (W T Shaw) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

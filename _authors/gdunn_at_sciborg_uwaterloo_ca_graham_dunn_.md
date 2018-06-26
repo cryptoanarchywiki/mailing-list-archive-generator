@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gdunn_at_sciborg_uwaterloo_ca_graham_dunn_
+post_count: 1
 ---
 
-# gdunn@sciborg.uwaterloo.ca (Graham Dunn) (1 posts)
+# gdunn<span>@</span>sciborg.uwaterloo.ca (Graham Dunn) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

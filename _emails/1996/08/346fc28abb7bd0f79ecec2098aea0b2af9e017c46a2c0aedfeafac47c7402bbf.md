@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hallam-Baker \<hallam@ai.mit.edu\><br>
+From: Hallam-Baker \<hallam<span>@</span>ai.mit.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 346fc28abb7bd0f79ecec2098aea0b2af9e017c46a2c0aedfeafac47c7402bbf<br>
 Message ID: \<32164B5A.2781@ai.mit.edu\><br>
@@ -76,5 +76,8 @@ club.
 
 + Return to [August 1996](/archive/1996/08)
 
-+ 1996-08-18 (Sun, 18 Aug 1996 08:35:05 +0800) - Re: Schlafly on crypto - _Hallam-Baker \<hallam@ai.mit.edu\>_
++ Return to "[Hallam-Baker <hallam<span>@</span>ai.mit.edu>](/author/hallambaker_hallam_at_ai_mit_edu_)"
+
++ _Unknown thread root_
+  + 1996-08-18 (Sun, 18 Aug 1996 08:35:05 +0800) - Re: Schlafly on crypto - _Hallam-Baker \<hallam@ai.mit.edu\>_
 

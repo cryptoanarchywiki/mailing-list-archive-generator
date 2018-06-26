@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mkyleen_mkyleen_at_sturgis_com_
+post_count: 1
 ---
 
-# Mkyleen <mkyleen@sturgis.com> (1 posts)
+# Mkyleen <mkyleen<span>@</span>sturgis.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

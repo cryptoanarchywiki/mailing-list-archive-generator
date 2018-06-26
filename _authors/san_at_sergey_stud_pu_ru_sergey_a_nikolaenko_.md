@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: san_at_sergey_stud_pu_ru_sergey_a_nikolaenko_
+post_count: 1
 ---
 
-# san@sergey.stud.pu.ru (Sergey A. Nikolaenko) (1 posts)
+# san<span>@</span>sergey.stud.pu.ru (Sergey A. Nikolaenko) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

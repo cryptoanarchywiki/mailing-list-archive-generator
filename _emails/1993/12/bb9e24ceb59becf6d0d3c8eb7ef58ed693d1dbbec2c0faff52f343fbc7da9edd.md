@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: henry strickland \<strick@versant.com\><br>
+From: henry strickland \<strick<span>@</span>versant.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: bb9e24ceb59becf6d0d3c8eb7ef58ed693d1dbbec2c0faff52f343fbc7da9edd<br>
 Message ID: \<9312071846.AA17866@osc.versant.com\><br>
@@ -75,6 +75,8 @@ online, sorry.)
 ## Thread
 
 + Return to [December 1993](/archive/1993/12)
+
++ Return to "[henry strickland <strick<span>@</span>versant.com>](/author/henry_strickland_strick_at_versant_com_)"
 
 + 1993-12-07 (Tue, 7 Dec 93 11:13:35 PST) - on initial rejection of claims of RSA patent - _henry strickland \<strick@versant.com\>_
 

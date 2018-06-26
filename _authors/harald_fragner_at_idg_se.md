@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: harald_fragner_at_idg_se
+post_count: 2
 ---
 
-# harald.fragner@idg.se (2 posts)
+# harald.fragner<span>@</span>idg.se (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

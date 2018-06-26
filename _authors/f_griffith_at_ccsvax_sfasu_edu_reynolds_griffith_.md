@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: f_griffith_at_ccsvax_sfasu_edu_reynolds_griffith_
+post_count: 1
 ---
 
-# f_griffith@ccsvax.sfasu.edu (Reynolds Griffith) (1 posts)
+# f_griffith<span>@</span>ccsvax.sfasu.edu (Reynolds Griffith) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

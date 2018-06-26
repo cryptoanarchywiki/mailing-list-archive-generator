@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_spellman_mspellman_at_cix_compulink_co_uk_
+post_count: 2
 ---
 
-# Martin Spellman <mspellman@cix.compulink.co.uk> (2 posts)
+# Martin Spellman <mspellman<span>@</span>cix.compulink.co.uk> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

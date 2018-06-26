@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_kp_k_p_at_snet_net_
+post_count: 4
 ---
 
-# Dave K-P <k.p@snet.net> (4 posts)
+# Dave K-P <k.p<span>@</span>snet.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

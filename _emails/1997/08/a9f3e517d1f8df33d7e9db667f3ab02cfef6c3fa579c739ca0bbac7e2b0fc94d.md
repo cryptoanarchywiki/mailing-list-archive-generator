@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mac Norton \<mnorton@cavern.uark.edu\><br>
+From: Mac Norton \<mnorton<span>@</span>cavern.uark.edu\><br>
 To: Ray Arachelian \<sunder@brainlink.com\><br>
 Message Hash: a9f3e517d1f8df33d7e9db667f3ab02cfef6c3fa579c739ca0bbac7e2b0fc94d<br>
 Message ID: \<Pine.SOL.3.96.970815190403.25487C-100000@cavern.uark.edu\><br>
@@ -93,6 +93,10 @@ On Fri, 15 Aug 1997, Ray Arachelian wrote:
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Mac Norton <mnorton<span>@</span>cavern.uark.edu>](/author/mac_norton_mnorton_at_cavern_uark_edu_)"
++ Return to "[Ray Arachelian <sunder<span>@</span>brainlink.com>](/author/ray_arachelian_sunder_at_brainlink_com_)"
 
 + 1997-08-15 (Sat, 16 Aug 1997 04:25:54 +0800) - [Getting back at spamford (fwd)](/archive/1997/08/58eee1bc830a67d346851a46ac3850f40131b1568f958486a50ddcce4bdb1363) - _Ray Arachelian \<sunder@brainlink.com\>_
   + 1997-08-15 (Sat, 16 Aug 1997 06:57:38 +0800) - [Re: Getting back at spamford (fwd)](/archive/1997/08/5611a1c886452f116c75824dc0477e009565211bb253c3dc02c4a4b78d789d7c) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

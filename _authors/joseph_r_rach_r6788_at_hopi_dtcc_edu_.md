@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joseph_r_rach_r6788_at_hopi_dtcc_edu_
+post_count: 2
 ---
 
-# "Joseph R. Rach" <r6788@hopi.dtcc.edu> (2 posts)
+# "Joseph R. Rach" <r6788<span>@</span>hopi.dtcc.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

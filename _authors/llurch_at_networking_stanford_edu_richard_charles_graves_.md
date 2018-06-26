@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: llurch_at_networking_stanford_edu_richard_charles_graves_
+post_count: 3
 ---
 
-# llurch@Networking.Stanford.EDU (Richard Charles Graves) (3 posts)
+# llurch<span>@</span>Networking.Stanford.EDU (Richard Charles Graves) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

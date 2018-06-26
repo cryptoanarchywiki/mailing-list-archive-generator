@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: proff@iq.org<br>
+From: proff<span>@</span>iq.org<br>
 To: cypherpunks@toad.com<br>
 Message Hash: fcb2f91ecde289fb9cf635fbc5f9a235eecabfb5d9c59ffe7a11742ba90a3087<br>
 Message ID: \<19970625004604.1793.qmail@iq.org\><br>
@@ -181,6 +181,8 @@ Extracts from Underground - The true nature of System X
 ## Thread
 
 + Return to [June 1997](/archive/1997/06)
+
++ Return to "[proff<span>@</span>iq.org](/author/proff_at_iq_org)"
 
 + 1997-06-25 (Wed, 25 Jun 1997 10:27:56 +0800) - Underground extract: System X - _proff@iq.org_
 

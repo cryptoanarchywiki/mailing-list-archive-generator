@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: goedel_at_tezcat_com_goedel_at_tezcat_com_
+post_count: 1
 ---
 
-# goedel@tezcat.com (Goedel@tezcat.com) (1 posts)
+# goedel<span>@</span>tezcat.com (Goedel<span>@</span>tezcat.com) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

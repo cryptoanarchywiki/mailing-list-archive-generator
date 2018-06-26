@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Pat Farrell" \<pfarrell@netcom.com\><br>
+From: "Pat Farrell" \<pfarrell<span>@</span>netcom.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: eff126dcf3bd7e74d1693ec5af4796ddbce8cedd0ae616d76d8232caafed62e8<br>
 Message ID: \<45331.pfarrell@netcom.com\><br>
@@ -66,6 +66,8 @@ Public key availble via finger          #include <standard.disclaimer>
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "["Pat Farrell" <pfarrell<span>@</span>netcom.com>](/author/pat_farrell_pfarrell_at_netcom_com_)"
 
 + 1993-10-27 (Wed, 27 Oct 93 09:37:54 PDT) - Re: help writing code - _"Pat Farrell" \<pfarrell@netcom.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: acousins_at_trentu_ca
+post_count: 1
 ---
 
-# ACOUSINS@TrentU.ca (1 posts)
+# ACOUSINS<span>@</span>TrentU.ca (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

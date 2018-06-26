@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: clay_olbon_ii_olbon_at_ix_netcom_com_
+post_count: 12
 ---
 
-# Clay Olbon II <olbon@ix.netcom.com> (12 posts)
+# Clay Olbon II <olbon<span>@</span>ix.netcom.com> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

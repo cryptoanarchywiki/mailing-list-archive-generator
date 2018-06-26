@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lyle_seaman_lws_at_ms_com_
+post_count: 1
 ---
 
-# Lyle Seaman <lws@ms.com> (1 posts)
+# Lyle Seaman <lws<span>@</span>ms.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

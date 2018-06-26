@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_scent_of_old_bones_and_fresh_blood_demona_at_demona_doldrums_dyn_ml_org_
+post_count: 1
 ---
 
-# the scent of old bones and fresh blood <demona@demona.doldrums.dyn.ml.org> (1 posts)
+# the scent of old bones and fresh blood <demona<span>@</span>demona.doldrums.dyn.ml.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

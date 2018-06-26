@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rel_at_lipo_st_co_at_roland_e_lipovits_
+post_count: 1
 ---
 
-# rel@lipo.st.co.at (Roland E. Lipovits) (1 posts)
+# rel<span>@</span>lipo.st.co.at (Roland E. Lipovits) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

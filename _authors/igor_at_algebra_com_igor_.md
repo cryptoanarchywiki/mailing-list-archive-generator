@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: igor_at_algebra_com_igor_
+post_count: 1
 ---
 
-# igor@Algebra.COM (Igor) (1 posts)
+# igor<span>@</span>Algebra.COM (Igor) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

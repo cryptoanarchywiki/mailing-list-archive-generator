@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aggelos_d_keromitis_kermit_at_ics_forth_gr_
+post_count: 2
 ---
 
-# "Aggelos D. Keromitis" <kermit@ics.forth.gr> (2 posts)
+# "Aggelos D. Keromitis" <kermit<span>@</span>ics.forth.gr> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

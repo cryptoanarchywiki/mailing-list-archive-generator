@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephan_schmidt_schmidt_at_pin_de_
+post_count: 19
 ---
 
-# Stephan Schmidt <schmidt@pin.de> (19 posts)
+# Stephan Schmidt <schmidt<span>@</span>pin.de> (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patiwat_panurach_pati_at_ipied_tu_ac_th_
+post_count: 5
 ---
 
-# Patiwat Panurach <pati@ipied.tu.ac.th> (5 posts)
+# Patiwat Panurach <pati<span>@</span>ipied.tu.ac.th> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

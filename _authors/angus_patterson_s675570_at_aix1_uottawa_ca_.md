@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: angus_patterson_s675570_at_aix1_uottawa_ca_
+post_count: 5
 ---
 
-# Angus Patterson <s675570@aix1.uottawa.ca> (5 posts)
+# Angus Patterson <s675570<span>@</span>aix1.uottawa.ca> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

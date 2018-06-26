@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vznuri_at_netcom_com_vznuri_at_netcom_com_
+post_count: 1
 ---
 
-# vznuri@netcom.com (Vznuri@netcom.com) (1 posts)
+# vznuri<span>@</span>netcom.com (Vznuri<span>@</span>netcom.com) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

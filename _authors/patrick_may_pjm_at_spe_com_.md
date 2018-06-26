@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_may_pjm_at_spe_com_
+post_count: 16
 ---
 
-# Patrick May <pjm@spe.com> (16 posts)
+# Patrick May <pjm<span>@</span>spe.com> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

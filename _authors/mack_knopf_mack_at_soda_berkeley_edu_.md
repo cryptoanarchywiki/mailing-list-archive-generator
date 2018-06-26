@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mack_knopf_mack_at_soda_berkeley_edu_
+post_count: 1
 ---
 
-# Mack Knopf <mack@soda.berkeley.edu> (1 posts)
+# Mack Knopf <mack<span>@</span>soda.berkeley.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

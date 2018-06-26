@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: donald_m_kitchen_don_at_cs_byu_edu_
+post_count: 17
 ---
 
-# "Donald M. Kitchen" <don@cs.byu.edu> (17 posts)
+# "Donald M. Kitchen" <don<span>@</span>cs.byu.edu> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Timothy C. May" \<tcmay@got.net\><br>
+From: "Timothy C. May" \<tcmay<span>@</span>got.net\><br>
 To: cypherpunks@toad.com (Cypherpunks Mailing List)<br>
 Message Hash: c33dbcad1accb26b1fc8d2123cdbaedc7df2cf6921fbfeec7934f92dca250e8c<br>
 Message ID: \<v03007801ae9c221ad764@[207.167.93.63]\><br>
@@ -99,6 +99,9 @@ Higher Power: 2^1,257,787-1 | black markets, collapse of governments.
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
 
 + 1996-10-29 (Mon, 28 Oct 1996 20:38:27 -0800 (PST)) - [Dimacs workshop on network threats?](/archive/1996/10/c396ce3aeda3d1009b72fb62b0ac1c9c4600eeec22c2a102ca1e0b89bac0bb5a) - _Adam Shostack \<adam@homeport.org\>_
   + 1996-10-29 (Tue, 29 Oct 1996 12:03:41 -0800 (PST)) - How do you spell "Internet"? T-H-R-E-A-T - _"Timothy C. May" \<tcmay@got.net\>_

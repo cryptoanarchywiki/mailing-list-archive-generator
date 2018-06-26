@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: henry_w_farkas_hfarkas_at_ims_advantis_com_
+post_count: 9
 ---
 
-# "Henry W. Farkas" <hfarkas@ims.advantis.com> (9 posts)
+# "Henry W. Farkas" <hfarkas<span>@</span>ims.advantis.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

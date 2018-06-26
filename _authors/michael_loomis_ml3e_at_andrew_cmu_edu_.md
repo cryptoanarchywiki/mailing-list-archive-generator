@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_loomis_ml3e_at_andrew_cmu_edu_
+post_count: 4
 ---
 
-# Michael Loomis <ml3e+@andrew.cmu.edu> (4 posts)
+# Michael Loomis <ml3e+<span>@</span>andrew.cmu.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

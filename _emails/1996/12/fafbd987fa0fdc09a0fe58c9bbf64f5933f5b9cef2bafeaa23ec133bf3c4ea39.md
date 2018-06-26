@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: varange@crl.com (Troy Varange)<br>
+From: varange<span>@</span>crl.com (Troy Varange)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: fafbd987fa0fdc09a0fe58c9bbf64f5933f5b9cef2bafeaa23ec133bf3c4ea39<br>
 Message ID: \<Love@23099\><br>
@@ -52,6 +52,8 @@ Cheers!
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[varange<span>@</span>crl.com (Troy Varange)](/author/varange_at_crl_com_troy_varange_)"
 
 + 1996-12-08 (Sat, 7 Dec 1996 21:24:34 -0800 (PST)) - wealth and property rights - _varange@crl.com (Troy Varange)_
 

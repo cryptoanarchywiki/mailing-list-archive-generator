@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: raccoon_d96racon_at_dtek_chalmers_se_
+post_count: 1
 ---
 
-# Raccoon <d96racon@dtek.chalmers.se> (1 posts)
+# Raccoon <d96racon<span>@</span>dtek.chalmers.se> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

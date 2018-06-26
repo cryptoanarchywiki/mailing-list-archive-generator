@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: national_engineering_search_nes2_at_nesnet_com_
+post_count: 1
 ---
 
-# National Engineering Search <nes2@nesnet.com> (1 posts)
+# National Engineering Search <nes2<span>@</span>nesnet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jamesd@echeque.com<br>
+From: jamesd<span>@</span>echeque.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a4a36309dbca9cc62264ca45d13141ff79afffdbfd6ba4dc1afbfe9bb59a3ad5<br>
 Message ID: \<199603120603.WAA12207@dns2.noc.best.net\><br>
@@ -57,6 +57,8 @@ arbitrary power of the state.		|   jamesd@echeque.com
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[jamesd<span>@</span>echeque.com](/author/jamesd_at_echeque_com)"
 
 + 1996-03-12 (Tue, 12 Mar 1996 18:05:36 +0800) - Re: Leahy and Mrs. Bemmis (now that's a subject line) - _jamesd@echeque.com_
 

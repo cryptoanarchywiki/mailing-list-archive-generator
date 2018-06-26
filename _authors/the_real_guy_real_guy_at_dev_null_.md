@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_real_guy_real_guy_at_dev_null_
+post_count: 2
 ---
 
-# The Real Guy <real_guy@dev.null> (2 posts)
+# The Real Guy <real_guy<span>@</span>dev.null> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

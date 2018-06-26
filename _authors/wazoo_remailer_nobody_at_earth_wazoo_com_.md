@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wazoo_remailer_nobody_at_earth_wazoo_com_
+post_count: 1
 ---
 
-# Wazoo Remailer <nobody@earth.wazoo.com> (1 posts)
+# Wazoo Remailer <nobody<span>@</span>earth.wazoo.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

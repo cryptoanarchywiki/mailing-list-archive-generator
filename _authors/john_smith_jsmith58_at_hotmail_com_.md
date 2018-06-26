@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_smith_jsmith58_at_hotmail_com_
+post_count: 24
 ---
 
-# "John Smith" <jsmith58@hotmail.com> (24 posts)
+# "John Smith" <jsmith58<span>@</span>hotmail.com> (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

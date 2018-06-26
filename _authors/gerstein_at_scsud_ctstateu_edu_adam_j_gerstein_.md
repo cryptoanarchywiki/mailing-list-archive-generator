@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gerstein_at_scsud_ctstateu_edu_adam_j_gerstein_
+post_count: 1
 ---
 
-# Gerstein@scsud.ctstateu.edu (Adam J. Gerstein) (1 posts)
+# Gerstein<span>@</span>scsud.ctstateu.edu (Adam J. Gerstein) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: solman@MIT.EDU<br>
+From: solman<span>@</span>MIT.EDU<br>
 To: Graham Toal \<gtoal@an-teallach.com\><br>
 Message Hash: 2518b7b19f7cccaf1bf1cab0fea0e46a7ad87ffe4addb32b736b160ea60a567c<br>
 Message ID: \<9407300232.AA01640@ua.MIT.EDU\><br>
@@ -65,6 +65,10 @@ JWS
 
 + Return to [July 1994](/archive/1994/07)
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[Dave Otto <dave<span>@</span>marvin.jta.edd.ca.gov>](/author/dave_otto_dave_at_marvin_jta_edd_ca_gov_)"
++ Return to "[Graham Toal <gtoal<span>@</span>an-teallach.com>](/author/graham_toal_gtoal_at_anteallach_com_)"
++ Return to "[solman<span>@</span>MIT.EDU](/author/solman_at_mit_edu)"
 
 + 1994-07-30 (Fri, 29 Jul 94 18:14:33 PDT) - [Re: "Just say 'No' to key escrow."](/archive/1994/07/6044ee4769d8134e1ac51d010b3530be63f9f11a62e598bf5838f9f129fe8711) - _Graham Toal \<gtoal@an-teallach.com\>_
   + 1994-07-30 (Fri, 29 Jul 94 19:33:03 PDT) - Re: "Just say 'No' to key escrow." - _solman@MIT.EDU_

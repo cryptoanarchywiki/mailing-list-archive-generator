@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jason W Solinsky \<solman@MIT.EDU\><br>
+From: Jason W Solinsky \<solman<span>@</span>MIT.EDU\><br>
 To: Hal \<hfinney@shell.portal.com\><br>
 Message Hash: c37f758c31a86ed80ab4b59dfca5ffead9beae9e983bd4b187debeb7f0ebbe80<br>
 Message ID: \<9408220148.AA08705@ua.MIT.EDU\><br>
@@ -62,6 +62,11 @@ JWS
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
++ Return to "[Jason W Solinsky <solman<span>@</span>MIT.EDU>](/author/jason_w_solinsky_solman_at_mit_edu_)"
++ Return to "[rah<span>@</span>shipwright.com (Robert Hettinga)](/author/rah_at_shipwright_com_robert_hettinga_)"
 
 + 1994-08-21 (Sat, 20 Aug 94 19:21:33 PDT) - [Re: In Search of Genuine DigiCash](/archive/1994/08/21dc0a9e4a1b7f3cb1cadb7c38133fc00e7a940f05d7964a7cd63239ab055f96) - _rah@shipwright.com (Robert Hettinga)_
   + 1994-08-21 (Sun, 21 Aug 94 10:07:06 PDT) - [Re: In Search of Genuine DigiCash](/archive/1994/08/74e5ccdc11b072422d5b5befbfeef85e8c3f2d5bef3f14162d154b214554d952) - _Hal \<hfinney@shell.portal.com\>_

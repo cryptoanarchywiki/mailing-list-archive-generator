@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathan_miller_jonmill_at_frds_com_
+post_count: 1
 ---
 
-# Jonathan Miller <jonmill@frds.com> (1 posts)
+# Jonathan Miller <jonmill<span>@</span>frds.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

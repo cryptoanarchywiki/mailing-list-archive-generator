@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rmtodd_at_servalan_servalan_com_richard_todd_
+post_count: 6
 ---
 
-# rmtodd@servalan.servalan.com (Richard Todd) (6 posts)
+# rmtodd<span>@</span>servalan.servalan.com (Richard Todd) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

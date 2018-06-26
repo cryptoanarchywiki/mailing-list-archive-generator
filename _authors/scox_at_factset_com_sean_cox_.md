@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scox_at_factset_com_sean_cox_
+post_count: 1
 ---
 
-# scox@factset.com (Sean Cox) (1 posts)
+# scox<span>@</span>factset.com (Sean Cox) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

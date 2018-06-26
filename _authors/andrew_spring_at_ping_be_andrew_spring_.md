@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_spring_at_ping_be_andrew_spring_
+post_count: 25
 ---
 
-# Andrew.Spring@ping.be (Andrew Spring) (25 posts)
+# Andrew.Spring<span>@</span>ping.be (Andrew Spring) (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

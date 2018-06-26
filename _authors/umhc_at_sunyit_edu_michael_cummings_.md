@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: umhc_at_sunyit_edu_michael_cummings_
+post_count: 1
 ---
 
-# umhc@sunyit.edu (Michael Cummings) (1 posts)
+# umhc<span>@</span>sunyit.edu (Michael Cummings) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

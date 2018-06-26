@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cwedgwood_at_cybernet_co_nz_chris_wedgwood_
+post_count: 8
 ---
 
-# cwedgwood@cybernet.co.nz (Chris Wedgwood) (8 posts)
+# cwedgwood<span>@</span>cybernet.co.nz (Chris Wedgwood) (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

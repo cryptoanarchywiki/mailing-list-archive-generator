@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: sameer \<sameer@c2.org\><br>
+From: sameer \<sameer<span>@</span>c2.org\><br>
 To: unicorn@schloss.li (Black Unicorn)<br>
 Message Hash: 8bf307370dbeefe4d88ac637b9dcaeaeea86ed6f6a49b7261ac03176de7cffee<br>
 Message ID: \<199512080227.SAA15534@infinity.c2.org\><br>
@@ -62,6 +62,14 @@ http://www.c2.org/ (or login as "guest")		sameer@c2.org
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[Brian Davis <bdavis<span>@</span>thepoint.net>](/author/brian_davis_bdavis_at_thepoint_net_)"
++ Return to "[futplex<span>@</span>pseudonym.com (Futplex)](/author/futplex_at_pseudonym_com_futplex_)"
++ Return to "[Jeff Weinstein <jsw<span>@</span>netscape.com>](/author/jeff_weinstein_jsw_at_netscape_com_)"
++ Return to "[Michael Froomkin <froomkin<span>@</span>law.miami.edu>](/author/michael_froomkin_froomkin_at_law_miami_edu_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1995-12-07 (Thu, 7 Dec 95 15:11:28 PST) - [Re: Is there a lawyer in the house?](/archive/1995/12/453180461b7a03f69026bd3abddcff6f2b2f9a984c3662977df27047227bfa64) - _tcmay@got.net (Timothy C. May)_
   + 1995-12-08 (Thu, 7 Dec 95 17:48:04 PST) - [Re: Is there a lawyer in the house?](/archive/1995/12/9ba301d6db224603d6a0e5478fa026da4381536aa7d40d7d0c9f3f548f44ea0e) - _Michael Froomkin \<froomkin@law.miami.edu\>_

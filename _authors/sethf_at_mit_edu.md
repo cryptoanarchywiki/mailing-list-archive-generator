@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sethf_at_mit_edu
+post_count: 3
 ---
 
-# sethf@MIT.EDU (3 posts)
+# sethf<span>@</span>MIT.EDU (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

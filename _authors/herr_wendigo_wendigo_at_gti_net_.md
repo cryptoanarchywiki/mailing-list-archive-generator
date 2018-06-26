@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: herr_wendigo_wendigo_at_gti_net_
+post_count: 6
 ---
 
-# Herr Wendigo <wendigo@gti.net> (6 posts)
+# Herr Wendigo <wendigo<span>@</span>gti.net> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

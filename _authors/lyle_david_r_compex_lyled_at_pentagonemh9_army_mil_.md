@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lyle_david_r_compex_lyled_at_pentagonemh9_army_mil_
+post_count: 2
 ---
 
-# "LYLE, DAVID R. COMPEX" <lyled@pentagon-emh9.army.mil> (2 posts)
+# "LYLE, DAVID R. COMPEX" <lyled<span>@</span>pentagon-emh9.army.mil> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_c2_org
+post_count: 2
 ---
 
-# nobody@c2.org (2 posts)
+# nobody<span>@</span>c2.org (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

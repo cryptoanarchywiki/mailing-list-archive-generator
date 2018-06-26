@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mon_08_jun_1998_19user_at_ybecker_ribbetnet_cc
+post_count: 1
 ---
 
-# "Mon, 08 Jun 1998 19":user@ybecker.ribbetnet.cc (1 posts)
+# "Mon, 08 Jun 1998 19":user<span>@</span>ybecker.ribbetnet.cc (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mallen_at_redvax1_dgsca_unam_mx_mallen_fullerton_guillermo_manueluia_
+post_count: 1
 ---
 
-# mallen@redvax1.dgsca.unam.mx (Mallen Fullerton Guillermo Manuel-UIA) (1 posts)
+# mallen<span>@</span>redvax1.dgsca.unam.mx (Mallen Fullerton Guillermo Manuel-UIA) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

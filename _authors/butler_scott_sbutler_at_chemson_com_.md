@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: butler_scott_sbutler_at_chemson_com_
+post_count: 21
 ---
 
-# "Butler, Scott" <SButler@chemson.com> (21 posts)
+# "Butler, Scott" <SButler<span>@</span>chemson.com> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

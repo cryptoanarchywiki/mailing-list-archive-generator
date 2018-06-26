@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uunetin2_uu_netnews_cais_netnntp_uio_nons_ftns_nonews_at_warwick_com
+post_count: 2
 ---
 
-# uunet!in2.uu.net!news.cais.net!nntp.uio.no!ns.ftns.no!news@warwick.com (2 posts)
+# uunet!in2.uu.net!news.cais.net!nntp.uio.no!ns.ftns.no!news<span>@</span>warwick.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

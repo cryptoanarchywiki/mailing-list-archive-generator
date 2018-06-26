@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ahoier_at_juno_com_a_hoier_
+post_count: 4
 ---
 
-# ahoier@juno.com (A Hoier) (4 posts)
+# ahoier<span>@</span>juno.com (A Hoier) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

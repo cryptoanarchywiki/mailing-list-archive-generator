@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_lucifer_at_dhp_com_
+post_count: 2
 ---
 
-# Anonymous <lucifer@dhp.com> (2 posts)
+# Anonymous <lucifer<span>@</span>dhp.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

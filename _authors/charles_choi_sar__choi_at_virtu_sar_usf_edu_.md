@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charles_choi_sar__choi_at_virtu_sar_usf_edu_
+post_count: 4
 ---
 
-# "Charles Choi (SAR)" <choi@virtu.sar.usf.edu> (4 posts)
+# "Charles Choi (SAR)" <choi<span>@</span>virtu.sar.usf.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

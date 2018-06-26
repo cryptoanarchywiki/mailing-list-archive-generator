@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: johnson_michael_p_mike__johnsmp_at_louisville_stortek_com_
+post_count: 2
 ---
 
-# "Johnson, Michael P (Mike)" <JohnsMP@LOUISVILLE.STORTEK.COM> (2 posts)
+# "Johnson, Michael P (Mike)" <JohnsMP<span>@</span>LOUISVILLE.STORTEK.COM> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

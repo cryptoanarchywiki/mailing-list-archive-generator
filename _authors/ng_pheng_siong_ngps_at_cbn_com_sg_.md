@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ng_pheng_siong_ngps_at_cbn_com_sg_
+post_count: 3
 ---
 
-# Ng Pheng Siong <ngps@cbn.com.sg> (3 posts)
+# Ng Pheng Siong <ngps<span>@</span>cbn.com.sg> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

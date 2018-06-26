@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bitnet_postmaster_postmast_at_mvs_medctr_ucla_edu_
+post_count: 1
 ---
 
-# "BITNET POSTMASTER" <POSTMAST@MVS.MEDCTR.UCLA.EDU> (1 posts)
+# "BITNET POSTMASTER" <POSTMAST<span>@</span>MVS.MEDCTR.UCLA.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

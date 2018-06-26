@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: file130_at_ibm_net
+post_count: 1
 ---
 
-# file130@ibm.net (1 posts)
+# file130<span>@</span>ibm.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

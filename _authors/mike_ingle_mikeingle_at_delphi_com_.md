@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_ingle_mikeingle_at_delphi_com_
+post_count: 103
 ---
 
-# Mike Ingle <MIKEINGLE@delphi.com> (103 posts)
+# Mike Ingle <MIKEINGLE<span>@</span>delphi.com> (103 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

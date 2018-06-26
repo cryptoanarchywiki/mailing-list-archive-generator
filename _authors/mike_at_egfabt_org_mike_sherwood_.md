@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_at_egfabt_org_mike_sherwood_
+post_count: 12
 ---
 
-# mike@EGFABT.ORG (Mike Sherwood) (12 posts)
+# mike<span>@</span>EGFABT.ORG (Mike Sherwood) (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

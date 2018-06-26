@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bovine_remailer_haystack_at_holy_cow_net_
+post_count: 35
 ---
 
-# Bovine Remailer <haystack@holy.cow.net> (35 posts)
+# Bovine Remailer <haystack<span>@</span>holy.cow.net> (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

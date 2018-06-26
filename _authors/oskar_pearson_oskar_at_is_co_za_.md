@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: oskar_pearson_oskar_at_is_co_za_
+post_count: 1
 ---
 
-# Oskar Pearson <oskar@is.co.za> (1 posts)
+# Oskar Pearson <oskar<span>@</span>is.co.za> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

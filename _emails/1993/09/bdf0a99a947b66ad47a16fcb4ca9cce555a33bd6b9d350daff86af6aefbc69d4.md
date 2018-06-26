@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "David LANDGREN, PUB           " \<David.D.L.LANDGREN@PUB.oecd.fr\><br>
+From: "David LANDGREN, PUB           " \<David.D.L.LANDGREN<span>@</span>PUB.oecd.fr\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: bdf0a99a947b66ad47a16fcb4ca9cce555a33bd6b9d350daff86af6aefbc69d4<br>
 Message ID: \<"21031101903991/16267 OECDX400*"@MHS\><br>
@@ -55,6 +55,8 @@ DES users change their keys awful frequently.
 ## Thread
 
 + Return to [September 1993](/archive/1993/09)
+
++ Return to "["David LANDGREN, PUB           " <David.D.L.LANDGREN<span>@</span>PUB.oecd.fr>](/author/david_landgren_pub__david_d_l_landgren_at_pub_oecd_fr_)"
 
 + 1993-09-10 (Fri, 10 Sep 93 03:37:38 PDT) - ... long live DES (sic) - _"David LANDGREN, PUB           " \<David.D.L.LANDGREN@PUB.oecd.fr\>_
 

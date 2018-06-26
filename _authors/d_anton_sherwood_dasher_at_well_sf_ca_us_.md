@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: d_anton_sherwood_dasher_at_well_sf_ca_us_
+post_count: 3
 ---
 
-# D Anton Sherwood <dasher@well.sf.ca.us> (3 posts)
+# D Anton Sherwood <dasher<span>@</span>well.sf.ca.us> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

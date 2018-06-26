@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alanh_at_widomaker_com_alan_horowitz_
+post_count: 1
 ---
 
-# alanh@widomaker.com (Alan Horowitz) (1 posts)
+# alanh<span>@</span>widomaker.com (Alan Horowitz) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

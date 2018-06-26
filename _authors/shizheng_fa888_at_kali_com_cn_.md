@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shizheng_fa888_at_kali_com_cn_
+post_count: 1
 ---
 
-# shizheng <fa888@kali.com.cn> (1 posts)
+# shizheng <fa888<span>@</span>kali.com.cn> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

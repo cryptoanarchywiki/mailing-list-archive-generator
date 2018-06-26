@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jon Lasser \<jlasser@rwd.goucher.edu\><br>
+From: Jon Lasser \<jlasser<span>@</span>rwd.goucher.edu\><br>
 To: cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: 2fccbbee2f5147bdf96dbb8cc0b948fffaf536bab0ab816c75072bbaa86b601f<br>
 Message ID: \<Pine.SUN.3.91.951209162229.340B-100000@rwd.goucher.edu\><br>
@@ -54,6 +54,9 @@ Jon Lasser                <jlasser@rwd.goucher.edu>            (410)494-3072
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/author/anonymousremailer_at_shell_portal_com)"
++ Return to "[Jon Lasser <jlasser<span>@</span>rwd.goucher.edu>](/author/jon_lasser_jlasser_at_rwd_goucher_edu_)"
 
 + 1995-12-09 (Sat, 9 Dec 95 13:08:42 PST) - [Warning about Pegasus Mail and PGP (fwd)](/archive/1995/12/e14eee5708d5427e4d155065016dcf4d09d901ba90b0fe0786be60e80b974169) - _anonymous-remailer@shell.portal.com_
   + 1995-12-09 (Sat, 9 Dec 95 13:30:08 PST) - Re: Warning about Pegasus Mail and PGP (fwd) - _Jon Lasser \<jlasser@rwd.goucher.edu\>_

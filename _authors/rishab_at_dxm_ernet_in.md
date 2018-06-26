@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rishab_at_dxm_ernet_in
+post_count: 225
 ---
 
-# rishab@dxm.ernet.in (225 posts)
+# rishab<span>@</span>dxm.ernet.in (225 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

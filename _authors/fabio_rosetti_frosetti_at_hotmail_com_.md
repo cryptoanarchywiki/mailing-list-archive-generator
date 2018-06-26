@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fabio_rosetti_frosetti_at_hotmail_com_
+post_count: 1
 ---
 
-# "Fabio Rosetti" <frosetti@hotmail.com> (1 posts)
+# "Fabio Rosetti" <frosetti<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thomas_hennes_aierd_at_pobox_oleane_com_
+post_count: 2
 ---
 
-# Thomas Hennes <aie-rd@pobox.oleane.com> (2 posts)
+# Thomas Hennes <aie-rd<span>@</span>pobox.oleane.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

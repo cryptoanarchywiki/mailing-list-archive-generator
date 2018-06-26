@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wallace_at_cs_widener_edu_achbed_manganime_
+post_count: 2
 ---
 
-# wallace@cs.widener.edu (Achbed Manganime) (2 posts)
+# wallace<span>@</span>cs.widener.edu (Achbed Manganime) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

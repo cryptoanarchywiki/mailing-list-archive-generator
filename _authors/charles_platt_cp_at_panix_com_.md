@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charles_platt_cp_at_panix_com_
+post_count: 8
 ---
 
-# Charles Platt <cp@panix.com> (8 posts)
+# Charles Platt <cp<span>@</span>panix.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

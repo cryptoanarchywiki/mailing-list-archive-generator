@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Clay Olbon II" \<Clay.Olbon@dynetics.com\><br>
+From: "Clay Olbon II" \<Clay.Olbon<span>@</span>dynetics.com\><br>
 To: "cypherpunks" \<cypherpunks@toad.com\><br>
 Message Hash: ec70cbb37dfe157fe5fa7e299ebfb5741ea1121ab40cbb22bf0e7bfa9b3a6d1f<br>
 Message ID: \<AE1E3145-4A32A0@193.239.225.200\><br>
@@ -69,6 +69,8 @@ Dynetics, Inc.      * http://www.msen.com/~olbon/olbon.html
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "["Clay Olbon II" <Clay.Olbon<span>@</span>dynetics.com>](/author/clay_olbon_ii_clay_olbon_at_dynetics_com_)"
 
 + 1996-07-26 (Fri, 26 Jul 1996 23:25:08 +0800) - Silliness on cypherpunks - _"Clay Olbon II" \<Clay.Olbon@dynetics.com\>_
 

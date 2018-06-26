@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "David Formosa (? the Platypus)" \<dformosa@zeta.org.au\><br>
+From: "David Formosa (? the Platypus)" \<dformosa<span>@</span>zeta.org.au\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5ff734ae996f58b5fd9efa5cdeafd7df0f21d356fd7b1c55cadcbd3049b266d8<br>
 Message ID: \<Pine.LNX.3.96.980924090232.338A-100000@mcloon\><br>
@@ -48,6 +48,10 @@ I bet that makes peaple talking about program termination happy.
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
++ Return to "["David Formosa (? the Platypus)" <dformosa<span>@</span>zeta.org.au>](/author/david_formosa__the_platypus__dformosa_at_zeta_org_au_)"
++ Return to "["Kurt Buff" <kurtbuff<span>@</span>halcyon.com>](/author/kurt_buff_kurtbuff_at_halcyon_com_)"
 
 + 1998-09-22 (Tue, 22 Sep 1998 23:23:18 +0800) - [No Subject](/archive/1998/09/7c2d89b4a9124332606a8ad7e5c689c898d3cfd903d9c6c658e8f8fbb8e746d2) - _Anonymous \<nobody@replay.com\>_
   + 1998-09-23 (Wed, 23 Sep 1998 08:03:56 +0800) - Re: your mail - _"David Formosa (? the Platypus)" \<dformosa@zeta.org.au\>_

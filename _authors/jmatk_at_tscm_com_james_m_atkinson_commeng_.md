@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jmatk_at_tscm_com_james_m_atkinson_commeng_
+post_count: 1
 ---
 
-# jmatk@tscm.com (James M. Atkinson, Comm-Eng) (1 posts)
+# jmatk<span>@</span>tscm.com (James M. Atkinson, Comm-Eng) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

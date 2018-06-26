@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: death46760_at_aol_com
+post_count: 1
 ---
 
-# Death46760@aol.com (1 posts)
+# Death46760<span>@</span>aol.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bruce Baugh \<bruceab@teleport.com\><br>
+From: Bruce Baugh \<bruceab<span>@</span>teleport.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: cea76be0a38791b3a720f3dda5ec0ee62ebe1b3513eaf7d6c90bee0abca07e3f<br>
 Message ID: \<2.2.32.19960126050633.006b0fc4@mail.teleport.com\><br>
@@ -55,6 +55,8 @@ http://www.teleport.com/~bruceab
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[Bruce Baugh <bruceab<span>@</span>teleport.com>](/author/bruce_baugh_bruceab_at_teleport_com_)"
 
 + 1996-01-26 (Fri, 26 Jan 1996 15:45:22 +0800) - Re: Cypherpunk Elitism - _Bruce Baugh \<bruceab@teleport.com\>_
 

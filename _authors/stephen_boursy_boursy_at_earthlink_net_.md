@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephen_boursy_boursy_at_earthlink_net_
+post_count: 13
 ---
 
-# Stephen Boursy <boursy@earthlink.net> (13 posts)
+# Stephen Boursy <boursy<span>@</span>earthlink.net> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

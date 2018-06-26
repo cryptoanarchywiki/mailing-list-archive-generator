@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bret_at_bjohns_win_net_bret_a_johnson_
+post_count: 4
 ---
 
-# bret@bjohns.win.net (Bret A. Johnson) (4 posts)
+# bret<span>@</span>bjohns.win.net (Bret A. Johnson) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

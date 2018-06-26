@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Philip Zimmermann \<prz@acm.org\><br>
+From: Philip Zimmermann \<prz<span>@</span>acm.org\><br>
 To: cypherpunks@toad.com (Cypherpunks)<br>
 Message Hash: 8a7d5ecfe3f8bd5fc20e49b56201ee4dfaa4fe57670ec3fde8c7cd9fdc74a87c<br>
 Message ID: \<199512290844.IAA02565@maalox\><br>
@@ -103,6 +103,8 @@ QPfqPsMErMo=
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Philip Zimmermann <prz<span>@</span>acm.org>](/author/philip_zimmermann_prz_at_acm_org_)"
 
 + 1995-12-29 (Fri, 29 Dec 1995 19:03:34 +0800) - Revocation of Zimmermann's fossil key - _Philip Zimmermann \<prz@acm.org\>_
 

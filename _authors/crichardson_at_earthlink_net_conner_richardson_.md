@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: crichardson_at_earthlink_net_conner_richardson_
+post_count: 1
 ---
 
-# crichardson@earthlink.net (Conner Richardson) (1 posts)
+# crichardson<span>@</span>earthlink.net (Conner Richardson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

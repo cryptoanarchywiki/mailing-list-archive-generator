@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: d_nicoll_ejuv19_at_festival_edinburgh_ac_uk_
+post_count: 1
 ---
 
-# D Nicoll <ejuv19@festival.edinburgh.ac.uk> (1 posts)
+# D Nicoll <ejuv19<span>@</span>festival.edinburgh.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_marshall_brucem_at_wichita_fn_net_
+post_count: 10
 ---
 
-# Bruce Marshall <brucem@wichita.fn.net> (10 posts)
+# Bruce Marshall <brucem<span>@</span>wichita.fn.net> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

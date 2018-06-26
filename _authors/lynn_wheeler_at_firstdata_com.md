@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lynn_wheeler_at_firstdata_com
+post_count: 1
 ---
 
-# Lynn.Wheeler@firstdata.com (1 posts)
+# Lynn.Wheeler<span>@</span>firstdata.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

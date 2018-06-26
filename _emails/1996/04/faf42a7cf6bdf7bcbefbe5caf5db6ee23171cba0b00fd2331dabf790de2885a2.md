@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim bell \<jimbell@pacifier.com\><br>
+From: jim bell \<jimbell<span>@</span>pacifier.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: faf42a7cf6bdf7bcbefbe5caf5db6ee23171cba0b00fd2331dabf790de2885a2<br>
 Message ID: \<m0uCiBY-00094cC@pacifier.com\><br>
@@ -59,6 +59,8 @@ jimbell@pacifier.com
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-04-26 (Fri, 26 Apr 1996 21:32:06 +0800) - Re: [NOISE] What is "laser material"? - _jim bell \<jimbell@pacifier.com\>_
 

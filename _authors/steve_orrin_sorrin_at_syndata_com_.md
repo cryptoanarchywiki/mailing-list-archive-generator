@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_orrin_sorrin_at_syndata_com_
+post_count: 3
 ---
 
-# "Steve Orrin" <sorrin@syndata.com> (3 posts)
+# "Steve Orrin" <sorrin<span>@</span>syndata.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

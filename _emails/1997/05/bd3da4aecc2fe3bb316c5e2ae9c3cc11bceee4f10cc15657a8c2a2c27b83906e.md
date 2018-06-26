@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "William H. Geiger III" \<whgiii@amaranth.com\><br>
+From: "William H. Geiger III" \<whgiii<span>@</span>amaranth.com\><br>
 To: Tim May \<tcmay@got.net\><br>
 Message Hash: bd3da4aecc2fe3bb316c5e2ae9c3cc11bceee4f10cc15657a8c2a2c27b83906e<br>
 Message ID: \<199705161321.IAA18479@mailhub.amaranth.com\><br>
@@ -124,6 +124,10 @@ nQh/yaNFcLsB7GNX6Gcye94grHKBIziA2/9HzIIFiIisFt8ffyiwUGcnmsoEpWyS
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-05-16 (Fri, 16 May 1997 10:21:38 +0800) - [MSNBC poll on crypto](/archive/1997/05/29e43c2360429e27ca8deb3dab6805e8e1da41073d61427be704836e5f4891a6) - _Declan McCullagh \<declan@well.com\>_
   + 1997-05-16 (Fri, 16 May 1997 11:57:51 +0800) - [Re: MSNBC poll on crypto](/archive/1997/05/dc354435d8412130976244c0154c1d65daf1dc5a5bfe8835bfdbfa890f44f0d3) - _Tim May \<tcmay@got.net\>_

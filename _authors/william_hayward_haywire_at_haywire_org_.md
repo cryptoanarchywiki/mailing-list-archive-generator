@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_hayward_haywire_at_haywire_org_
+post_count: 1
 ---
 
-# William Hayward <haywire@haywire.org> (1 posts)
+# William Hayward <haywire<span>@</span>haywire.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

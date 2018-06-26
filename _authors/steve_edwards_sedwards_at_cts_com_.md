@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_edwards_sedwards_at_cts_com_
+post_count: 1
 ---
 
-# Steve Edwards <sedwards@cts.com> (1 posts)
+# Steve Edwards <sedwards<span>@</span>cts.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

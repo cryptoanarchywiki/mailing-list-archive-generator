@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: mpd@netcom.com (Mike Duvos)<br>
+From: mpd<span>@</span>netcom.com (Mike Duvos)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d9e3cbccbadaafe8fa41ddcc19cda55bc07a9f3b86187f2193e8f4d107329a1e<br>
 Message ID: \<199701050643.WAA18324@netcom17.netcom.com\><br>
@@ -53,6 +53,13 @@ LOL.  Just another normal day here on Dimitripunks. :)
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
++ Return to "[ph<span>@</span>netcom.com (Peter Hendrickson)](/author/ph_at_netcom_com_peter_hendrickson_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-01-04 (Sat, 4 Jan 1997 12:43:45 -0800 (PST)) - [Re: Experiments on Mailing Lists](/archive/1997/01/1d6dd37045011a68485dfe3cb847ae2a90cea60a70f7958e9c6c3be0c59d36cd) - _ph@netcom.com (Peter Hendrickson)_
   + 1997-01-04 (Sat, 4 Jan 1997 13:10:13 -0800 (PST)) - [Re: Experiments on Mailing Lists](/archive/1997/01/ba2c6c2b2a568b740fd9f158ed0244e6dbce6b78e73e10cc852faa58660f07d0) - _"Timothy C. May" \<tcmay@got.net\>_

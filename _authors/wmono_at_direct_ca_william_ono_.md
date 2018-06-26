@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wmono_at_direct_ca_william_ono_
+post_count: 3
 ---
 
-# wmono@Direct.CA (William Ono) (3 posts)
+# wmono<span>@</span>Direct.CA (William Ono) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

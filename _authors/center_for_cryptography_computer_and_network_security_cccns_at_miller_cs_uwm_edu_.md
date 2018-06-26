@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: center_for_cryptography_computer_and_network_security_cccns_at_miller_cs_uwm_edu_
+post_count: 1
 ---
 
-# Center for Cryptography Computer and Network Security <cccns@miller.cs.uwm.edu> (1 posts)
+# Center for Cryptography Computer and Network Security <cccns<span>@</span>miller.cs.uwm.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

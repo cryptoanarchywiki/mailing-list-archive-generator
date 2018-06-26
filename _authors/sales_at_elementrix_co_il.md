@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sales_at_elementrix_co_il
+post_count: 1
 ---
 
-# sales@elementrix.co.il (1 posts)
+# sales<span>@</span>elementrix.co.il (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

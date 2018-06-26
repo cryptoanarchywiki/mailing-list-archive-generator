@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jf_avon@citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))<br>
+From: jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 19ecc54b1ba18137cd81ebef495a7487de059ba98abf5ca1cbdccd4ecdc5184c<br>
 Message ID: \<9602140047.AB19351@cti02.citenet.net\><br>
@@ -66,6 +66,8 @@ Key fingerprint =  84 96 76 AE EB 7C AB 15  88 47 87 B0 18 31 74 9F
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))](/author/jf_avon_at_citenet_net_jeanfrancois_avon_jfa_technologies_qc_canada_)"
 
 + 1996-02-14 (Tue, 13 Feb 96 16:51:26 PST) - Re: Stewart Baker's web site & OECD international crypto policy - _jf_avon@citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))_
 

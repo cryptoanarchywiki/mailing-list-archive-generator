@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jordan_at_imsi_com_jordan_hayes_
+post_count: 19
 ---
 
-# jordan@imsi.com (Jordan Hayes) (19 posts)
+# jordan<span>@</span>imsi.com (Jordan Hayes) (19 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

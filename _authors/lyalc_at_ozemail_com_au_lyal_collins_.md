@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lyalc_at_ozemail_com_au_lyal_collins_
+post_count: 4
 ---
 
-# lyalc@ozemail.com.au (lyal collins) (4 posts)
+# lyalc<span>@</span>ozemail.com.au (lyal collins) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

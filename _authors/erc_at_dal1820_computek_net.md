@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: erc_at_dal1820_computek_net
+post_count: 2
 ---
 
-# erc@dal1820.computek.net (2 posts)
+# erc<span>@</span>dal1820.computek.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

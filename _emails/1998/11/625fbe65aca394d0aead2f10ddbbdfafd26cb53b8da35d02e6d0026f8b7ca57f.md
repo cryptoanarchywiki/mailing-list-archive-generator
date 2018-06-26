@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<bill.stewart@pobox.com\><br>
+From: Bill Stewart \<bill.stewart<span>@</span>pobox.com\><br>
 To: Jim Choate \<cypherpunks@einstein.ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: 625fbe65aca394d0aead2f10ddbbdfafd26cb53b8da35d02e6d0026f8b7ca57f<br>
 Message ID: \<3.0.5.32.19981116173649.008a3d20@idiom.com\><br>
@@ -118,6 +118,12 @@ PGP Fingerprint D454 E202 CBC8 40BF  3C85 B884 0ABE 4639
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/author/bill_stewart_bill_stewart_at_pobox_com_)"
++ Return to "["Frank O'Dwyer" <fod<span>@</span>brd.ie>](/author/frank_odwyer_fod_at_brd_ie_)"
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Petro <petro<span>@</span>playboy.com>](/author/petro_petro_at_playboy_com_)"
++ Return to "[Reeza! <howree<span>@</span>cable.navy.mil>](/author/reeza_howree_at_cable_navy_mil_)"
 
 + 1998-11-10 (Wed, 11 Nov 1998 01:20:30 +0800) - [RE: dbts: Privacy Fetishes, Perfect Competition, and the (fwd)](/archive/1998/11/ea63863e11fa280c3d76e31eecab186b88c76a05c5fa8386988146fa2357fc2d) - _Jim Choate \<ravage@einstein.ssz.com\>_
   + 1998-11-10 (Wed, 11 Nov 1998 03:17:09 +0800) - [RE: dbts: Privacy Fetishes, Perfect Competition, and the (fwd)](/archive/1998/11/98694e20154f40b99a618474c13aa68a0b83a64ffaf96d909696c4fc7faae99a) - _Petro \<petro@playboy.com\>_

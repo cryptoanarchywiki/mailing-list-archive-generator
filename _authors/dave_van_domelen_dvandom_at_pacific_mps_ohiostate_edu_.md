@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_van_domelen_dvandom_at_pacific_mps_ohiostate_edu_
+post_count: 1
 ---
 
-# Dave Van Domelen <dvandom@pacific.mps.ohio-state.edu> (1 posts)
+# Dave Van Domelen <dvandom<span>@</span>pacific.mps.ohio-state.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

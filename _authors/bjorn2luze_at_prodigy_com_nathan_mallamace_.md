@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bjorn2luze_at_prodigy_com_nathan_mallamace_
+post_count: 5
 ---
 
-# BJORN2LUZE@prodigy.com (NATHAN MALLAMACE) (5 posts)
+# BJORN2LUZE<span>@</span>prodigy.com (NATHAN MALLAMACE) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

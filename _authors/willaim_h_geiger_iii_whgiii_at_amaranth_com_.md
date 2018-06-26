@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: willaim_h_geiger_iii_whgiii_at_amaranth_com_
+post_count: 10
 ---
 
-# "Willaim H. Geiger III" <whgiii@amaranth.com> (10 posts)
+# "Willaim H. Geiger III" <whgiii<span>@</span>amaranth.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

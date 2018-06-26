@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sean_walberg_umwalber_at_cc_umanitoba_ca_
+post_count: 3
 ---
 
-# Sean Walberg <umwalber@cc.UManitoba.CA> (3 posts)
+# Sean Walberg <umwalber<span>@</span>cc.UManitoba.CA> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

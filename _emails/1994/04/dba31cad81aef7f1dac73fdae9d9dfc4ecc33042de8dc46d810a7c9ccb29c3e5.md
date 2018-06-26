@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jeff Davis \<eagle@deeptht.armory.com\><br>
+From: Jeff Davis \<eagle<span>@</span>deeptht.armory.com\><br>
 To: cypher \<cypherpunks@toad.com\><br>
 Message Hash: dba31cad81aef7f1dac73fdae9d9dfc4ecc33042de8dc46d810a7c9ccb29c3e5<br>
 Message ID: \<9404060332.aa24406@deeptht.armory.com\><br>
@@ -120,6 +120,8 @@ PGP PUBLIC KEY via finger!  JAFEFFM  Speaking & Thinking For Myself!
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Jeff Davis <eagle<span>@</span>deeptht.armory.com>](/author/jeff_davis_eagle_at_deeptht_armory_com_)"
 
 + 1994-04-06 (Wed, 6 Apr 94 03:33:32 PDT) - Security Contingencies - _Jeff Davis \<eagle@deeptht.armory.com\>_
 

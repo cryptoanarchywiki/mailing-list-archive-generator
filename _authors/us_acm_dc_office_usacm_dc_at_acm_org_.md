@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: us_acm_dc_office_usacm_dc_at_acm_org_
+post_count: 2
 ---
 
-# "US ACM, DC Office" <usacm_dc@acm.org> (2 posts)
+# "US ACM, DC Office" <usacm_dc<span>@</span>acm.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

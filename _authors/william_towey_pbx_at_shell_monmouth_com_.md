@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_towey_pbx_at_shell_monmouth_com_
+post_count: 1
 ---
 
-# William Towey <pbx@shell.monmouth.com> (1 posts)
+# William Towey <pbx<span>@</span>shell.monmouth.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

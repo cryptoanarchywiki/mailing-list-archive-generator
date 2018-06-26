@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: oolid_at_acqic_org_joseph_l_moll_
+post_count: 1
 ---
 
-# oolid@acqic.org (Joseph L. Moll) (1 posts)
+# oolid<span>@</span>acqic.org (Joseph L. Moll) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

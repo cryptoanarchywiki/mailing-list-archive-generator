@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ted_lungu_lungu_at_netside_net_
+post_count: 3
 ---
 
-# Ted Lungu <lungu@netside.net> (3 posts)
+# Ted Lungu <lungu<span>@</span>netside.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

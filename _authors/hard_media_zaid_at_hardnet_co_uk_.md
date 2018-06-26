@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hard_media_zaid_at_hardnet_co_uk_
+post_count: 4
 ---
 
-# Hard Media <zaid@hardnet.co.uk> (4 posts)
+# Hard Media <zaid<span>@</span>hardnet.co.uk> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

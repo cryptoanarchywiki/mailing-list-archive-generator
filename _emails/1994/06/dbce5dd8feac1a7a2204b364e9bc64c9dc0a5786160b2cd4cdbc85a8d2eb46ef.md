@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: gtoal@an-teallach.com (Graham Toal)<br>
+From: gtoal<span>@</span>an-teallach.com (Graham Toal)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: dbce5dd8feac1a7a2204b364e9bc64c9dc0a5786160b2cd4cdbc85a8d2eb46ef<br>
 Message ID: \<199406021700.SAA25323@an-teallach.com\><br>
@@ -50,6 +50,9 @@ G
 ## Thread
 
 + Return to [June 1994](/archive/1994/06)
+
++ Return to "[gtoal<span>@</span>an-teallach.com (Graham Toal)](/author/gtoal_at_anteallach_com_graham_toal_)"
++ Return to "[Richard Johnson <Richard.Johnson<span>@</span>Colorado.EDU>](/author/richard_johnson_richard_johnson_at_colorado_edu_)"
 
 + 1994-06-02 (Thu, 2 Jun 94 10:02:19 PDT) - Re: PGP 2.6 FAQ - _gtoal@an-teallach.com (Graham Toal)_
   + 1994-06-02 (Thu, 2 Jun 94 12:03:54 PDT) - [Re: PGP 2.6 FAQ](/archive/1994/06/45400d2fe4c5745d6638bde952cca1ae9655f68858e75d42f2fbc21e501c5678) - _Richard Johnson \<Richard.Johnson@Colorado.EDU\>_

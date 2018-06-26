@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nick_west_nick_at_multipro_com_
+post_count: 4
 ---
 
-# Nick West <nick@multipro.com> (4 posts)
+# Nick West <nick<span>@</span>multipro.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

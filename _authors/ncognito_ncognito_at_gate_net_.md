@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ncognito_ncognito_at_gate_net_
+post_count: 1
 ---
 
-# nCognito <ncognito@gate.net> (1 posts)
+# nCognito <ncognito<span>@</span>gate.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

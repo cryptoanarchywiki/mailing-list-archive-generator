@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mail_administrator_postmaster_at_iguanodon_bigorange_net_
+post_count: 2
 ---
 
-# Mail Administrator<Postmaster@Iguanodon.big-orange.net> (2 posts)
+# Mail Administrator<Postmaster<span>@</span>Iguanodon.big-orange.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

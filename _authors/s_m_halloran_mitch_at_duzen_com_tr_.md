@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: s_m_halloran_mitch_at_duzen_com_tr_
+post_count: 15
 ---
 
-# "S. M. Halloran" <mitch@duzen.com.tr> (15 posts)
+# "S. M. Halloran" <mitch<span>@</span>duzen.com.tr> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patm_at_connix_com_pat_mccotter_
+post_count: 1
 ---
 
-# patm@connix.com (Pat McCotter) (1 posts)
+# patm<span>@</span>connix.com (Pat McCotter) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

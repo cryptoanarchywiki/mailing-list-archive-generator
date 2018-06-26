@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jay_holovacs_holovacs_at_styx_ios_com_
+post_count: 21
 ---
 
-# Jay Holovacs <holovacs@styx.ios.com> (21 posts)
+# Jay Holovacs <holovacs<span>@</span>styx.ios.com> (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

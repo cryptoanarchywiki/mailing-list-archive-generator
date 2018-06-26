@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: warrior_warrior_at_tateonline_com_
+post_count: 1
 ---
 
-# Warrior <warrior@tateonline.com> (1 posts)
+# Warrior <warrior<span>@</span>tateonline.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

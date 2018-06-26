@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Peter Honeyman \<honey@citi.umich.edu\><br>
+From: Peter Honeyman \<honey<span>@</span>citi.umich.edu\><br>
 To: 76114.2307@CompuServe.COM<br>
 Message Hash: 811abc6bc3fe4c60bfb1ff71ec4fb511dff895a4d8c4b4cbc67b2310e7accab8<br>
 Message ID: \<9305031301.AA22009@toad.com\><br>
@@ -62,6 +62,10 @@ recognized the experimental use defense.
 ## Thread
 
 + Return to [May 1993](/archive/1993/05)
+
++ Return to "[Eric Hughes <hughes<span>@</span>soda.berkeley.edu>](/author/eric_hughes_hughes_at_soda_berkeley_edu_)"
++ Return to "[Peter Honeyman <honey<span>@</span>citi.umich.edu>](/author/peter_honeyman_honey_at_citi_umich_edu_)"
++ Return to "[peter honeyman <honey<span>@</span>citi.umich.edu>](/author/peter_honeyman_honey_at_citi_umich_edu_)"
 
 + 1993-05-03 (Mon, 3 May 93 06:01:06 PDT) - Re:  A LEGAL way---maybe! - _Peter Honeyman \<honey@citi.umich.edu\>_
   + 1993-05-03 (Mon, 3 May 93 10:05:12 PDT) - [PATENT: A LEGAL way---maybe!](/archive/1993/05/37d0748dbed7d41f8f24733380c11a8f6ebfea99de00d49c642ce3e1a30a084b) - _Eric Hughes \<hughes@soda.berkeley.edu\>_

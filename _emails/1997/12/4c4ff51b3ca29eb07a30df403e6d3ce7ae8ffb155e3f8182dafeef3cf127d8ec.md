@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Graham-John Bullers \<real@freenet.edmonton.ab.ca\><br>
+From: Graham-John Bullers \<real<span>@</span>freenet.edmonton.ab.ca\><br>
 To: Anonymous \<anon@anon.efga.org\><br>
 Message Hash: 4c4ff51b3ca29eb07a30df403e6d3ce7ae8ffb155e3f8182dafeef3cf127d8ec<br>
 Message ID: \<Pine.A41.3.95.971215132939.46080A-100000@fn2.freenet.edmonton.ab.ca\><br>
@@ -58,6 +58,9 @@ Graham-John Bullers                      Moderator of alt.2600.moderated
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
++ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/author/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
 
 + 1997-12-14 (Sun, 14 Dec 1997 14:51:56 +0800) - [No Subject](/archive/1997/12/d9bf548ddd791952e1ce8d8029457f800b8bef665fd7369f29f5cb53dfc6d1e9) - _Anonymous \<anon@anon.efga.org\>_
   + 1997-12-15 (Tue, 16 Dec 1997 04:54:10 +0800) - Re: your mail - _Graham-John Bullers \<real@freenet.edmonton.ab.ca\>_

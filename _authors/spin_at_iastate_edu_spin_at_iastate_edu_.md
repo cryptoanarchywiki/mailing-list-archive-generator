@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: spin_at_iastate_edu_spin_at_iastate_edu_
+post_count: 2
 ---
 
-# --spin@iastate.edu-- <spin@iastate.edu> (2 posts)
+# --spin<span>@</span>iastate.edu-- <spin<span>@</span>iastate.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

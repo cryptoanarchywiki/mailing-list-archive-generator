@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: etn_head_office_etnho_at_euronet_nl_
+post_count: 1
 ---
 
-# ETN Head Office <etnho@euronet.nl> (1 posts)
+# ETN Head Office <etnho<span>@</span>euronet.nl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

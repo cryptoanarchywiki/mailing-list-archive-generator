@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: count_of_monte_carlo_catrancher_at_hotmail_com_
+post_count: 1
 ---
 
-# "Count of Monte Carlo" <catrancher@hotmail.com> (1 posts)
+# "Count of Monte Carlo" <catrancher<span>@</span>hotmail.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Matthew James Gering \<mgering@ecosystems.net\><br>
+From: Matthew James Gering \<mgering<span>@</span>ecosystems.net\><br>
 To: "Cypherpunks (E-mail)" \<cypherpunks@cyberpass.net\><br>
 Message Hash: e2fe20bf19c426b228acc57f2dc35a4d4b1fed37cddfab4a913ecaab4ab5d791<br>
 Message ID: \<5F152E6E8E6FD21195DF00104B2425AD02B22A@yarrowbay.chaffeyhomes.com\><br>
@@ -135,6 +135,8 @@ charges against the men stemmed from the June 26 e-mail.
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[Matthew James Gering <mgering<span>@</span>ecosystems.net>](/author/matthew_james_gering_mgering_at_ecosystems_net_)"
 
 + 1998-11-03 (Tue, 3 Nov 1998 08:36:30 +0800) - RE: Bic-Assassins Convicted - _Matthew James Gering \<mgering@ecosystems.net\>_
 

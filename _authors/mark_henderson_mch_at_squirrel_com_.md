@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_henderson_mch_at_squirrel_com_
+post_count: 1
 ---
 
-# Mark Henderson <mch@squirrel.com> (1 posts)
+# Mark Henderson <mch<span>@</span>squirrel.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

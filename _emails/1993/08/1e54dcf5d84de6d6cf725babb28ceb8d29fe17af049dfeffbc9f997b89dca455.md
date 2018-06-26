@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: emv@mail.msen.com (Edward Vielmetti)<br>
+From: emv<span>@</span>mail.msen.com (Edward Vielmetti)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1e54dcf5d84de6d6cf725babb28ceb8d29fe17af049dfeffbc9f997b89dca455<br>
 Message ID: \<m0oU7bj-000EYeC@garnet.msen.com\><br>
@@ -63,6 +63,8 @@ follows immediately.
 ## Thread
 
 + Return to [August 1993](/archive/1993/08)
+
++ Return to "[emv<span>@</span>mail.msen.com (Edward Vielmetti)](/author/emv_at_mail_msen_com_edward_vielmetti_)"
 
 + 1993-08-22 (Sat, 21 Aug 93 18:21:50 PDT) - (fwd) [prodigy] Am-prodigy correction - _emv@mail.msen.com (Edward Vielmetti)_
 

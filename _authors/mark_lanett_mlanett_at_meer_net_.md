@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_lanett_mlanett_at_meer_net_
+post_count: 2
 ---
 
-# "Mark Lanett" <mlanett@meer.net> (2 posts)
+# "Mark Lanett" <mlanett<span>@</span>meer.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

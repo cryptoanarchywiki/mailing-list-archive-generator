@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rclark_at_nyx10_cs_du_edu_robert_w_f_clark_
+post_count: 2
 ---
 
-# rclark@nyx10.cs.du.edu (Robert W. F. Clark) (2 posts)
+# rclark<span>@</span>nyx10.cs.du.edu (Robert W. F. Clark) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

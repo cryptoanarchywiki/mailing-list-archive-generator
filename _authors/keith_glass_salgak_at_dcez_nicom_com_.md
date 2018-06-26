@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: keith_glass_salgak_at_dcez_nicom_com_
+post_count: 1
 ---
 
-# Keith Glass <salgak@dcez.nicom.com> (1 posts)
+# Keith Glass <salgak<span>@</span>dcez.nicom.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

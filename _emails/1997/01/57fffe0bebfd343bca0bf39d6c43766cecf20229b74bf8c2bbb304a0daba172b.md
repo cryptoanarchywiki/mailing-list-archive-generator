@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Nurdane Oksas \<oksas@asimov.montclair.edu\><br>
+From: Nurdane Oksas \<oksas<span>@</span>asimov.montclair.edu\><br>
 To: "Igor Chudov @ home" \<ichudov@algebra.com\><br>
 Message Hash: 57fffe0bebfd343bca0bf39d6c43766cecf20229b74bf8c2bbb304a0daba172b<br>
 Message ID: \<199701212014.MAA11058@toad.com\><br>
@@ -53,6 +53,8 @@ oksas
 ## Thread
 
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "[Nurdane Oksas <oksas<span>@</span>asimov.montclair.edu>](/author/nurdane_oksas_oksas_at_asimov_montclair_edu_)"
 
 + 1997-01-21 (Tue, 21 Jan 1997 12:14:05 -0800 (PST)) - Re: Dr. Vulis' social engineering experiment - _Nurdane Oksas \<oksas@asimov.montclair.edu\>_
 

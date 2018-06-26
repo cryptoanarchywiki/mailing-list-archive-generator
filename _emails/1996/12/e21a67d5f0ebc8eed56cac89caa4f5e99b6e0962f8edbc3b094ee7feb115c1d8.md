@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adam Shostack \<adam@homeport.org\><br>
+From: Adam Shostack \<adam<span>@</span>homeport.org\><br>
 To: shamrock@netcom.com (Lucky Green)<br>
 Message Hash: e21a67d5f0ebc8eed56cac89caa4f5e99b6e0962f8edbc3b094ee7feb115c1d8<br>
 Message ID: \<199612120319.WAA18401@homeport.org\><br>
@@ -84,6 +84,11 @@ Lucky Green wrote:
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[snow <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
 
 + 1996-12-12 (Wed, 11 Dec 1996 16:38:50 -0800 (PST)) - [New export controls to include code signing applications](/archive/1996/12/5d7c118d220e0dd8bf8cfc6d435706bfd79a38741b45734388b398596f6c3137) - _Lucky Green \<shamrock@netcom.com\>_
   + 1996-12-12 (Wed, 11 Dec 1996 17:28:19 -0800 (PST)) - [Re: New export controls to include code signing applications](/archive/1996/12/edfa8a0009945a9630978fab72638cb2f6734111cb8fe1132c26e7ee193edbb8) - _"Timothy C. May" \<tcmay@got.net\>_

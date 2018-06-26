@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: landon_dyer_landon_dyer_at_wayfarer_com_
+post_count: 1
 ---
 
-# Landon Dyer <landon_dyer@wayfarer.com> (1 posts)
+# Landon Dyer <landon_dyer<span>@</span>wayfarer.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

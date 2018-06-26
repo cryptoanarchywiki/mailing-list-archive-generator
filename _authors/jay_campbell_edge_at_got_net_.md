@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jay_campbell_edge_at_got_net_
+post_count: 20
 ---
 
-# Jay Campbell <edge@got.net> (20 posts)
+# Jay Campbell <edge<span>@</span>got.net> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

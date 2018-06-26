@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: everard_at_infi_net_m_scott_everard_
+post_count: 1
 ---
 
-# everard@infi.net (M. Scott Everard) (1 posts)
+# everard<span>@</span>infi.net (M. Scott Everard) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: webmaster_at_fornits_com_ginger_warbis_
+post_count: 1
 ---
 
-# Webmaster@fornits.com (Ginger Warbis) (1 posts)
+# Webmaster<span>@</span>fornits.com (Ginger Warbis) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

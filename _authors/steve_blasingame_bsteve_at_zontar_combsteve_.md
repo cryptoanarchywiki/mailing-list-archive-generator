@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_blasingame_bsteve_at_zontar_combsteve_
+post_count: 1
 ---
 
-# Steve Blasingame <bsteve@zontar.com!bsteve> (1 posts)
+# Steve Blasingame <bsteve<span>@</span>zontar.com!bsteve> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

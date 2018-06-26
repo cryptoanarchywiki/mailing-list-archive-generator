@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jps_at_monad_semcor_com_jack_p_starrantino_
+post_count: 7
 ---
 
-# jps@monad.semcor.com (Jack P. Starrantino) (7 posts)
+# jps<span>@</span>monad.semcor.com (Jack P. Starrantino) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

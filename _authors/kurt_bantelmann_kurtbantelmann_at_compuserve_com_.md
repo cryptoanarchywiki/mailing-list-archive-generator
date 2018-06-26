@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kurt_bantelmann_kurtbantelmann_at_compuserve_com_
+post_count: 1
 ---
 
-# Kurt Bantelmann <KurtBantelmann@compuserve.com> (1 posts)
+# Kurt Bantelmann <KurtBantelmann<span>@</span>compuserve.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

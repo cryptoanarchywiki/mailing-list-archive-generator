@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_lucas_davidlu_at_sco_com_
+post_count: 4
 ---
 
-# David Lucas <davidlu@sco.COM> (4 posts)
+# David Lucas <davidlu<span>@</span>sco.COM> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

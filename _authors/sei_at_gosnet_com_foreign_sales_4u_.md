@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sei_at_gosnet_com_foreign_sales_4u_
+post_count: 1
 ---
 
-# sei@gosnet.com (Foreign Sales 4U) (1 posts)
+# sei<span>@</span>gosnet.com (Foreign Sales 4U) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

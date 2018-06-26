@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jerry_basham_2ndsun_at_bigfoot_com_
+post_count: 10
 ---
 
-# "Jerry Basham" <2ndSun@bigfoot.com> (10 posts)
+# "Jerry Basham" <2ndSun<span>@</span>bigfoot.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

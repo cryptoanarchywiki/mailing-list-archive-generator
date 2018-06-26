@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: samson_nobody_at_samson_ml_org_
+post_count: 2
 ---
 
-# Samson <nobody@samson.ml.org> (2 posts)
+# Samson <nobody<span>@</span>samson.ml.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

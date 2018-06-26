@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: allan_at_spamport_excite_com_allan_bailey_
+post_count: 1
 ---
 
-# allan@spamport.excite.com (Allan Bailey) (1 posts)
+# allan<span>@</span>spamport.excite.com (Allan Bailey) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

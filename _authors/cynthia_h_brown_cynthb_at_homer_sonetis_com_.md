@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cynthia_h_brown_cynthb_at_homer_sonetis_com_
+post_count: 4
 ---
 
-# "Cynthia H. Brown" <cynthb@homer.sonetis.com> (4 posts)
+# "Cynthia H. Brown" <cynthb<span>@</span>homer.sonetis.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

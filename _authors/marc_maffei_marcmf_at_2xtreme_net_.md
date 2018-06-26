@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_maffei_marcmf_at_2xtreme_net_
+post_count: 5
 ---
 
-# "Marc Maffei" <marcmf@2xtreme.net> (5 posts)
+# "Marc Maffei" <marcmf<span>@</span>2xtreme.net> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

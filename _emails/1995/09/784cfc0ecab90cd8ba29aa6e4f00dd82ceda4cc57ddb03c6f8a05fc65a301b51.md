@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adam Shostack \<adam@bwh.harvard.edu\><br>
+From: Adam Shostack \<adam<span>@</span>bwh.harvard.edu\><br>
 To: hallam@w3.org<br>
 Message Hash: 784cfc0ecab90cd8ba29aa6e4f00dd82ceda4cc57ddb03c6f8a05fc65a301b51<br>
 Message ID: \<199509131416.KAA06476@bwh.harvard.edu\><br>
@@ -63,6 +63,11 @@ Adam
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[Adam Shostack <adam<span>@</span>bwh.harvard.edu>](/author/adam_shostack_adam_at_bwh_harvard_edu_)"
++ Return to "[an215712<span>@</span>anon.penet.fi](/author/an215712_at_anon_penet_fi)"
++ Return to "[Brian Davis <bdavis<span>@</span>thepoint.net>](/author/brian_davis_bdavis_at_thepoint_net_)"
++ Return to "[hallam<span>@</span>w3.org](/author/hallam_at_w3_org)"
 
 + 1995-09-12 (Tue, 12 Sep 95 10:50:29 PDT) - [Whitehouse "dissident" web site monitoring?](/archive/1995/09/c39393e9e483ba8b10469ea69bc14eb4c4172cf452affba9515f21b5f278dc4e) - _an215712@anon.penet.fi_
   + 1995-09-12 (Tue, 12 Sep 95 14:56:35 PDT) - [Re: Whitehouse "dissident" web site monitoring?](/archive/1995/09/9c507db6d81056e60ef6b6b1e29bcfc02f2a3dd41897c1750a6e10b8527d55a8) - _Brian Davis \<bdavis@thepoint.net\>_

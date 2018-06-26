@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bradley_w_dolan_71431_2564_at_compuserve_com_
+post_count: 10
 ---
 
-# "Bradley W. Dolan" <71431.2564@compuserve.com> (10 posts)
+# "Bradley W. Dolan" <71431.2564<span>@</span>compuserve.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

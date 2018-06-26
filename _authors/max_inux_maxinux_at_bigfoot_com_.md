@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: max_inux_maxinux_at_bigfoot_com_
+post_count: 11
 ---
 
-# Max Inux <maxinux@bigfoot.com> (11 posts)
+# Max Inux <maxinux<span>@</span>bigfoot.com> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

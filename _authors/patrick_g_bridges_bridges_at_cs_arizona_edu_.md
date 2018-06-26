@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_g_bridges_bridges_at_cs_arizona_edu_
+post_count: 1
 ---
 
-# "Patrick G. Bridges" <bridges@cs.arizona.edu> (1 posts)
+# "Patrick G. Bridges" <bridges<span>@</span>cs.arizona.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

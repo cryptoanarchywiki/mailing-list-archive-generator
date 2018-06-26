@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_c_dovala_bdovala_at_solaria_mil_wi_us_
+post_count: 1
 ---
 
-# "Bruce C. Dovala" <bdovala@solaria.mil.wi.us> (1 posts)
+# "Bruce C. Dovala" <bdovala<span>@</span>solaria.mil.wi.us> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

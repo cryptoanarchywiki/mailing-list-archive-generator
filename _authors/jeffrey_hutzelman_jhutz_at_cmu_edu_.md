@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeffrey_hutzelman_jhutz_at_cmu_edu_
+post_count: 1
 ---
 
-# Jeffrey Hutzelman <jhutz+@cmu.edu> (1 posts)
+# Jeffrey Hutzelman <jhutz+<span>@</span>cmu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

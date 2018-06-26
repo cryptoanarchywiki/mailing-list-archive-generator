@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joan_kowalchuk_joan_at_sk_sympatico_ca_
+post_count: 1
 ---
 
-# Joan Kowalchuk <joan@sk.sympatico.ca> (1 posts)
+# Joan Kowalchuk <joan<span>@</span>sk.sympatico.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

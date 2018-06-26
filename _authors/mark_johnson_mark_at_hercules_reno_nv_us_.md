@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_johnson_mark_at_hercules_reno_nv_us_
+post_count: 2
 ---
 
-# Mark Johnson <mark@hercules.reno.nv.us> (2 posts)
+# Mark Johnson <mark<span>@</span>hercules.reno.nv.us> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

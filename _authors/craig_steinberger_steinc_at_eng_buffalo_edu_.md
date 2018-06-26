@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: craig_steinberger_steinc_at_eng_buffalo_edu_
+post_count: 1
 ---
 
-# Craig Steinberger <stein-c@eng.buffalo.edu> (1 posts)
+# Craig Steinberger <stein-c<span>@</span>eng.buffalo.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

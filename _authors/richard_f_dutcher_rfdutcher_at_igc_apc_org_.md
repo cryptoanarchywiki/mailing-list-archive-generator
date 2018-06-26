@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_f_dutcher_rfdutcher_at_igc_apc_org_
+post_count: 13
 ---
 
-# "Richard F. Dutcher" <rfdutcher@igc.apc.org> (13 posts)
+# "Richard F. Dutcher" <rfdutcher<span>@</span>igc.apc.org> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

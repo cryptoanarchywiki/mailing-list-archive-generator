@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kevin_elliott_kelliott_at_wiu_edu_
+post_count: 6
 ---
 
-# Kevin Elliott <k-elliott@wiu.edu> (6 posts)
+# Kevin Elliott <k-elliott<span>@</span>wiu.edu> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

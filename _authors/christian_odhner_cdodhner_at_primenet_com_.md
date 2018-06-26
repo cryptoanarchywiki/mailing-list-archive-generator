@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christian_odhner_cdodhner_at_primenet_com_
+post_count: 7
 ---
 
-# Christian Odhner <cdodhner@PrimeNet.Com> (7 posts)
+# Christian Odhner <cdodhner<span>@</span>PrimeNet.Com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

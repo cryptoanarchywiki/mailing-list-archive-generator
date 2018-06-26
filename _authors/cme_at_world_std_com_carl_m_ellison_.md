@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cme_at_world_std_com_carl_m_ellison_
+post_count: 1
 ---
 
-# cme@world.std.com (Carl M Ellison) (1 posts)
+# cme<span>@</span>world.std.com (Carl M Ellison) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

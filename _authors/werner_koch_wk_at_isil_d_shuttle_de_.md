@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: werner_koch_wk_at_isil_d_shuttle_de_
+post_count: 1
 ---
 
-# Werner Koch <wk@isil.d.shuttle.de> (1 posts)
+# Werner Koch <wk<span>@</span>isil.d.shuttle.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

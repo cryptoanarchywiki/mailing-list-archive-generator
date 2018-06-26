@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jim@suite.suite.com (Jim Miller)<br>
+From: jim<span>@</span>suite.suite.com (Jim Miller)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 594bed7bdbccd8278ee005be60efef943ce21baea0eb8bbfd61133c14f923ecb<br>
 Message ID: \<9609162334.AA17481@suite.com\><br>
@@ -85,6 +85,8 @@ Jim_Miller@suite.com
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[jim<span>@</span>suite.suite.com (Jim Miller)](/author/jim_at_suite_suite_com_jim_miller_)"
 
 + 1996-09-17 (Tue, 17 Sep 1996 13:24:56 +0800) - really undetectable crypto made somewhat practical - _jim@suite.suite.com (Jim Miller)_
 

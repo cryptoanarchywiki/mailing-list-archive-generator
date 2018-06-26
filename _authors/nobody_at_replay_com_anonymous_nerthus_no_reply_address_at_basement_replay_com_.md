@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_replay_com_anonymous_nerthus_no_reply_address_at_basement_replay_com_
+post_count: 1
 ---
 
-# nobody@REPLAY.COM (Anonymous)Nerthus <no.reply.address@basement.replay.com> (1 posts)
+# nobody<span>@</span>REPLAY.COM (Anonymous)Nerthus <no.reply.address<span>@</span>basement.replay.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

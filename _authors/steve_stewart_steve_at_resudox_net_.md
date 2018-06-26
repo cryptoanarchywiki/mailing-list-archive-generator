@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: steve_stewart_steve_at_resudox_net_
+post_count: 1
 ---
 
-# Steve Stewart <steve@resudox.net> (1 posts)
+# Steve Stewart <steve<span>@</span>resudox.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deng_at_iss_nus_sg_robert_deng_
+post_count: 1
 ---
 
-# deng@iss.nus.sg (Robert Deng) (1 posts)
+# deng<span>@</span>iss.nus.sg (Robert Deng) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Jean-Francois Avon" \<jf_avon@citenet.net\><br>
+From: "Jean-Francois Avon" \<jf_avon<span>@</span>citenet.net\><br>
 To: root@mail.demon.net<br>
 Message Hash: a2ffdacec08ab5cd7c544d8124a13bcc6937c657c4fa6b7c8dc8dce8bddfaa47<br>
 Message ID: \<9607141612.AA14447@cti02.citenet.net\><br>
@@ -108,6 +108,8 @@ Thanks
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "["Jean-Francois Avon" <jf_avon<span>@</span>citenet.net>](/author/jeanfrancois_avon_jf_avon_at_citenet_net_)"
 
 + 1996-07-14 (Mon, 15 Jul 1996 03:51:49 +0800) - Re: Failed mail - _"Jean-Francois Avon" \<jf_avon@citenet.net\>_
 

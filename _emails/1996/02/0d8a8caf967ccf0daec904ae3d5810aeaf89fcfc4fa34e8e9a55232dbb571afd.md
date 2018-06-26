@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Declan B. McCullagh" \<declan+@CMU.EDU\><br>
+From: "Declan B. McCullagh" \<declan+<span>@</span>CMU.EDU\><br>
 To: tcmay@got.net (Timothy C. May)<br>
 Message Hash: 0d8a8caf967ccf0daec904ae3d5810aeaf89fcfc4fa34e8e9a55232dbb571afd<br>
 Message ID: \<wl4fd8200YUtEdKuQV@andrew.cmu.edu\><br>
@@ -84,6 +84,11 @@ instead of my SCS AFS directory...)
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "["Brian A. LaMacchia" <bal<span>@</span>martigny.ai.mit.edu>](/author/brian_a_lamacchia_bal_at_martigny_ai_mit_edu_)"
++ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/author/declan_b_mccullagh_declan_at_cmu_edu_)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-02-03 (Sat, 3 Feb 1996 08:02:50 +0800) - [Re: Futplex makes the news!](/archive/1996/02/3c11243e3640f1aa75b38a1842d9d078683377cf1d9c9cbbe26a184b81996015) - _tcmay@got.net (Timothy C. May)_
   + 1996-02-03 (Sat, 3 Feb 1996 08:31:03 +0800) - [Re: Futplex makes the news!](/archive/1996/02/07fe34702c79f569074472c58b55f312c68e9c9c41c053d77ffa47aa6cae6498) - _"Brian A. LaMacchia" \<bal@martigny.ai.mit.edu\>_

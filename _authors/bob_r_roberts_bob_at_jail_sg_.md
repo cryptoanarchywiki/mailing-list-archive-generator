@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bob_r_roberts_bob_at_jail_sg_
+post_count: 1
 ---
 
-# "Bob. R. Roberts" <bob@jail.sg> (1 posts)
+# "Bob. R. Roberts" <bob<span>@</span>jail.sg> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

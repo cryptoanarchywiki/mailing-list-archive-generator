@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: maintains_maintains_at_nemesis_meaning_com_
+post_count: 1
 ---
 
-# maintains <maintains@nemesis.meaning.com> (1 posts)
+# maintains <maintains<span>@</span>nemesis.meaning.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7b2b4e5c07d56fcaecfc72a7cdf036adcc87e75fbf5c7307b2bde6bfd3c949e3<br>
 Message ID: \<199511080049.QAA23866@ix4.ix.netcom.com\><br>
@@ -50,6 +50,8 @@ Obviously was forwarded from a remailer inside SGI ....
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1995-11-08 (Tue, 7 Nov 95 16:50:14 PST) - Re:  forging headers (with more header information) - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

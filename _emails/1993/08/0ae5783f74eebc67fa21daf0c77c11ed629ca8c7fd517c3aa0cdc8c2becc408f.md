@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: hfinney@shell.portal.com<br>
+From: hfinney<span>@</span>shell.portal.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0ae5783f74eebc67fa21daf0c77c11ed629ca8c7fd517c3aa0cdc8c2becc408f<br>
 Message ID: \<9308230602.AA25533@jobe.shell.portal.com\><br>
@@ -191,6 +191,9 @@ hfinney@shell.portal.com
 ## Thread
 
 + Return to [August 1993](/archive/1993/08)
+
++ Return to "[cme<span>@</span>ellisun.sw.stratus.com (Carl Ellison)](/author/cme_at_ellisun_sw_stratus_com_carl_ellison_)"
++ Return to "[hfinney<span>@</span>shell.portal.com](/author/hfinney_at_shell_portal_com)"
 
 + 1993-08-23 (Mon, 23 Aug 93 10:36:21 PDT) - Attacks on remailers - _hfinney@shell.portal.com_
   + 1993-08-23 (Mon, 23 Aug 93 14:51:39 PDT) - [Re: Attacks on remailers](/archive/1993/08/067661ade8d388ab8e2a464ebe2ad342ee3e93c744e28c9249e377160eeb13f9) - _cme@ellisun.sw.stratus.com (Carl Ellison)_

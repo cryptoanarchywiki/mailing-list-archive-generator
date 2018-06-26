@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dwight_arthur_dwightarthur_at_mindspring_com_
+post_count: 1
 ---
 
-# Dwight Arthur <dwightarthur@mindspring.com> (1 posts)
+# Dwight Arthur <dwightarthur<span>@</span>mindspring.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

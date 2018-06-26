@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: temanuel_at_mecklermedia_com_tom_emanuel_
+post_count: 1
 ---
 
-# temanuel@mecklermedia.com (Tom Emanuel) (1 posts)
+# temanuel<span>@</span>mecklermedia.com (Tom Emanuel) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

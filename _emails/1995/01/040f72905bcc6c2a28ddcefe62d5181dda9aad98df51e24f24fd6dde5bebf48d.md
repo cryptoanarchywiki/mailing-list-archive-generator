@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: marsha-w@uiuc.edu (Marsha-W)<br>
+From: marsha-w<span>@</span>uiuc.edu (Marsha-W)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 040f72905bcc6c2a28ddcefe62d5181dda9aad98df51e24f24fd6dde5bebf48d<br>
 Message ID: \<ab2f9292150210048e24@[128.174.91.111]\><br>
@@ -104,6 +104,10 @@ http://www.cpsr.org/dox/global.html
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/author/black_unicorn_unicorn_at_access_digex_net_)"
++ Return to "[marsha-w<span>@</span>uiuc.edu (Marsha-W)](/author/marshaw_at_uiuc_edu_marshaw_)"
++ Return to "[Nesta Stubbs <nesta<span>@</span>nesta.pr.mcs.net>](/author/nesta_stubbs_nesta_at_nesta_pr_mcs_net_)"
 
 + 1995-01-03 (Tue, 3 Jan 95 13:52:15 PST) - LAW AND ETHICS ON THE "NETS" - _marsha-w@uiuc.edu (Marsha-W)_
   + 1995-01-03 (Tue, 3 Jan 95 14:37:58 PST) - [calls for regulation](/archive/1995/01/6a787aaa91de6f5b360be4bab1dc637d6eed5952fafb6238f8211d7cb280671d) - _Nesta Stubbs \<nesta@nesta.pr.mcs.net\>_

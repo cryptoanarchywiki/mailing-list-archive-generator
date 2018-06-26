@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brendon_at_home_net_brendon_macaraeg_
+post_count: 1
 ---
 
-# brendon@home.net (Brendon Macaraeg) (1 posts)
+# brendon<span>@</span>home.net (Brendon Macaraeg) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aq068_at_detroit_freenet_org_troy_m_walsh_
+post_count: 1
 ---
 
-# aq068@detroit.freenet.org (Troy M. Walsh) (1 posts)
+# aq068<span>@</span>detroit.freenet.org (Troy M. Walsh) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

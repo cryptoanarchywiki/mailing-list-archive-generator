@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@EINSTEIN.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>EINSTEIN.ssz.com\><br>
 To: cypherpunks@EINSTEIN.ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: 5a499f8a1ebbd1c0fba1a7be3cc8ba5d608f146b0c8dcc32ca8cd0fe2a95104d<br>
 Message ID: \<199812091927.NAA19892@einstein.ssz.com\><br>
@@ -77,6 +77,8 @@ PGP is NOT unrestrited.
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-12-09 (Thu, 10 Dec 1998 04:08:48 +0800) - Re: German government press release on Wassenaar (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

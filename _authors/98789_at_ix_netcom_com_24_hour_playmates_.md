@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 98789_at_ix_netcom_com_24_hour_playmates_
+post_count: 1
 ---
 
-# 98789@ix.netcom.com (24 hour playmates) (1 posts)
+# 98789<span>@</span>ix.netcom.com (24 hour playmates) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

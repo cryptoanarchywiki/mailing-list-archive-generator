@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eagle_one_eagleone_at_inorbit_com_
+post_count: 1
 ---
 
-# Eagle One <eagleone@inorbit.com> (1 posts)
+# Eagle One <eagleone<span>@</span>inorbit.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

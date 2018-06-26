@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: holist_holist_at_mail_matav_hu_
+post_count: 3
 ---
 
-# holist <holist@mail.matav.hu> (3 posts)
+# holist <holist<span>@</span>mail.matav.hu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

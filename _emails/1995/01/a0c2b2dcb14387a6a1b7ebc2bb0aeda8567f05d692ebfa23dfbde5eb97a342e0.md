@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: plaz@netcom.com (Plaz)<br>
+From: plaz<span>@</span>netcom.com (Plaz)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: a0c2b2dcb14387a6a1b7ebc2bb0aeda8567f05d692ebfa23dfbde5eb97a342e0<br>
 Message ID: \<v02110100ab49d6aa5898@[192.187.134.54]\><br>
@@ -103,6 +103,8 @@ ________________________________________________________________________________
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[plaz<span>@</span>netcom.com (Plaz)](/author/plaz_at_netcom_com_plaz_)"
 
 + 1995-01-24 (Mon, 23 Jan 95 22:44:59 PST) - UN passes Information Super-Highway Beautification Resolution - _plaz@netcom.com (Plaz)_
 

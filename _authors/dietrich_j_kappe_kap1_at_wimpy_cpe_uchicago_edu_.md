@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dietrich_j_kappe_kap1_at_wimpy_cpe_uchicago_edu_
+post_count: 2
 ---
 
-# "Dietrich J. Kappe" <kap1@wimpy.cpe.uchicago.edu> (2 posts)
+# "Dietrich J. Kappe" <kap1<span>@</span>wimpy.cpe.uchicago.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

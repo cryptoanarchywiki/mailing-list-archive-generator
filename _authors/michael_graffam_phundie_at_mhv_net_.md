@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_graffam_phundie_at_mhv_net_
+post_count: 3
 ---
 
-# Michael Graffam <phundie@mhv.net> (3 posts)
+# Michael Graffam <phundie<span>@</span>mhv.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Michael Froomkin - U.Miami School of Law" \<froomkin@law.miami.edu\><br>
+From: "Michael Froomkin - U.Miami School of Law" \<froomkin<span>@</span>law.miami.edu\><br>
 To: Vin McLellan \<vin@shore.net\><br>
 Message Hash: eb21374a1d03135f1c96dfcdfb8c9496fdd97e7a4b5fdedea8d4877eab5de1bc<br>
 Message ID: \<Pine.SUN.3.95.970206225051.24667D-100000@viper.law.miami.edu\><br>
@@ -60,6 +60,9 @@ Coral Gables, FL 33124 USA | It's warm here.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "["Michael Froomkin - U.Miami School of Law" <froomkin<span>@</span>law.miami.edu>](/author/michael_froomkin__u_miami_school_of_law_froomkin_at_law_miami_edu_)"
++ Return to "[Vin McLellan <vin<span>@</span>shore.net>](/author/vin_mclellan_vin_at_shore_net_)"
 
 + 1997-02-06 (Thu, 6 Feb 1997 15:01:47 -0800 (PST)) - [40-bit RC5 crack meaningless??](/archive/1997/02/29abac13a54f8c6114e8013bbdc2bee667d0f96be4ee4bd44fb0279451725c2e) - _Vin McLellan \<vin@shore.net\>_
   + 1997-02-07 (Thu, 6 Feb 1997 19:52:04 -0800 (PST)) - Re: 40-bit RC5 crack meaningless?? - _"Michael Froomkin - U.Miami School of Law" \<froomkin@law.miami.edu\>_

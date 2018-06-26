@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eichin_at_athena_mit_edu_mark_w_eichin_
+post_count: 2
 ---
 
-# eichin@ATHENA.MIT.EDU ("Mark W. Eichin") (2 posts)
+# eichin<span>@</span>ATHENA.MIT.EDU ("Mark W. Eichin") (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

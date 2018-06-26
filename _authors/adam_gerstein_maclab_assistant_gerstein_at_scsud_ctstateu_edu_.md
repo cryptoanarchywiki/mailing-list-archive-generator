@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: adam_gerstein_maclab_assistant_gerstein_at_scsud_ctstateu_edu_
+post_count: 1
 ---
 
-# "ADAM GERSTEIN, MACLAB ASSISTANT" <GERSTEIN@SCSUD.CTSTATEU.EDU> (1 posts)
+# "ADAM GERSTEIN, MACLAB ASSISTANT" <GERSTEIN<span>@</span>SCSUD.CTSTATEU.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

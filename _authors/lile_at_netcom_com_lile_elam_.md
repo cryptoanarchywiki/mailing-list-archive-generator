@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lile_at_netcom_com_lile_elam_
+post_count: 34
 ---
 
-# lile@netcom.com (Lile Elam) (34 posts)
+# lile<span>@</span>netcom.com (Lile Elam) (34 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: man_in_black_mib_at_davinci_netaxis_com_
+post_count: 1
 ---
 
-# Man In Black <mib@davinci.netaxis.com> (1 posts)
+# Man In Black <mib<span>@</span>davinci.netaxis.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

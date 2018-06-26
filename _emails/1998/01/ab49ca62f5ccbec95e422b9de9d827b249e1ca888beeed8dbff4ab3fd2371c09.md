@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>ssz.com\><br>
 To: cypherpunks@ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: ab49ca62f5ccbec95e422b9de9d827b249e1ca888beeed8dbff4ab3fd2371c09<br>
 Message ID: \<199801011919.NAA11887@einstein.ssz.com\><br>
@@ -73,6 +73,8 @@ something you're going to do very well.
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-01-01 (Fri, 2 Jan 1998 03:05:30 +0800) - Re: Guns: H&K, G3, 7.62 v 5.56 [Guns] (fwd) - _Jim Choate \<ravage@ssz.com\>_
 

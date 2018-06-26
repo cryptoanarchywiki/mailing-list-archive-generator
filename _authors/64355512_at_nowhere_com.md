@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 64355512_at_nowhere_com
+post_count: 1
 ---
 
-# 64355512@nowhere.com (1 posts)
+# 64355512<span>@</span>nowhere.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

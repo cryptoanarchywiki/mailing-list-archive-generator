@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "W. Kinney" \<kinney@ucsu.Colorado.EDU\><br>
+From: "W. Kinney" \<kinney<span>@</span>ucsu.Colorado.EDU\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 6fc8b441edae53fa6e6aac7ce020d63fefbc9e96ea7ef334274a55ccc1cd26d9<br>
 Message ID: \<199310280013.AA29113@ucsu.Colorado.EDU\><br>
@@ -91,6 +91,8 @@ vO2Z0LSwpSE=
 ## Thread
 
 + Return to [October 1993](/archive/1993/10)
+
++ Return to "["W. Kinney" <kinney<span>@</span>ucsu.Colorado.EDU>](/author/w_kinney_kinney_at_ucsu_colorado_edu_)"
 
 + 1993-10-28 (Wed, 27 Oct 93 18:22:41 PDT) - Re: I'm leaving cypherpunks - _"W. Kinney" \<kinney@ucsu.Colorado.EDU\>_
 

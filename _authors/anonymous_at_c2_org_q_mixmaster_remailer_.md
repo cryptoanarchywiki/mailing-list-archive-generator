@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_at_c2_org_q_mixmaster_remailer_
+post_count: 1
 ---
 
-# Anonymous@c2.org (Q Mixmaster Remailer) (1 posts)
+# Anonymous<span>@</span>c2.org (Q Mixmaster Remailer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

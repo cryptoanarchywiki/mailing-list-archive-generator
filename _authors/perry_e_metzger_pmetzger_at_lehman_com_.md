@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: perry_e_metzger_pmetzger_at_lehman_com_
+post_count: 347
 ---
 
-# "Perry E. Metzger" <pmetzger@lehman.com> (347 posts)
+# "Perry E. Metzger" <pmetzger<span>@</span>lehman.com> (347 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doumakes_at_netcom_com_don_doumakes_
+post_count: 5
 ---
 
-# doumakes@netcom.com (Don Doumakes) (5 posts)
+# doumakes<span>@</span>netcom.com (Don Doumakes) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Brad Huntting \<huntting@glarp.com\><br>
+From: Brad Huntting \<huntting<span>@</span>glarp.com\><br>
 To: Mats Bergstrom \<matsb@sos.sll.se\><br>
 Message Hash: ca7ecbf169d947c21c684e7fedb7629d0b5aa9e4d4ebea4d65b4abc558de1acd<br>
 Message ID: \<199408191429.IAA06996@misc.glarp.com\><br>
@@ -67,6 +67,9 @@ brad
 ## Thread
 
 + Return to [August 1994](/archive/1994/08)
+
++ Return to "[Brad Huntting <huntting<span>@</span>glarp.com>](/author/brad_huntting_huntting_at_glarp_com_)"
++ Return to "[Mats Bergstrom <matsb<span>@</span>sos.sll.se>](/author/mats_bergstrom_matsb_at_sos_sll_se_)"
 
 + 1994-08-19 (Fri, 19 Aug 94 03:23:10 PDT) - [15 years!](/archive/1994/08/fe134859de17194a1a26596eae00c57487c33832efa829c5dd6a42991af0a831) - _Mats Bergstrom \<matsb@sos.sll.se\>_
   + 1994-08-19 (Fri, 19 Aug 94 07:29:34 PDT) - Re: 15 years! - _Brad Huntting \<huntting@glarp.com\>_

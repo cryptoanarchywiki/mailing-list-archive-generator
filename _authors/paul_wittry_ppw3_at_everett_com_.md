@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_wittry_ppw3_at_everett_com_
+post_count: 1
 ---
 
-# Paul Wittry <ppw3@everett.com> (1 posts)
+# Paul Wittry <ppw3<span>@</span>everett.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

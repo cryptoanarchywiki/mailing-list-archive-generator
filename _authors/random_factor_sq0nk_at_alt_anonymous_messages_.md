@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: random_factor_sq0nk_at_alt_anonymous_messages_
+post_count: 6
 ---
 
-# Random Factor <sq0nk@alt.anonymous.messages> (6 posts)
+# Random Factor <sq0nk<span>@</span>alt.anonymous.messages> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

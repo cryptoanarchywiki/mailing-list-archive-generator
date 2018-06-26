@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: psdaalsuvm_bitnet_at_ricevm1_rice_edu
+post_count: 1
 ---
 
-# PSDAA%LSUVM.BITNET@RICEVM1.RICE.EDU (1 posts)
+# PSDAA%LSUVM.BITNET<span>@</span>RICEVM1.RICE.EDU (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: email_communications_freedom_at_econopromo_com_
+post_count: 2
 ---
 
-# "E-Mail Communications" <freedom@econopromo.com> (2 posts)
+# "E-Mail Communications" <freedom<span>@</span>econopromo.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

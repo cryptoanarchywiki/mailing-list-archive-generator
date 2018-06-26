@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nobody_at_replay_com_anonymous_bob_obooey_ahole_at_dev_null_
+post_count: 2
 ---
 
-# nobody@REPLAY.COM (Anonymous)"Bob O'Booey" <a-hole@dev.null> (2 posts)
+# nobody<span>@</span>REPLAY.COM (Anonymous)"Bob O'Booey" <a-hole<span>@</span>dev.null> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

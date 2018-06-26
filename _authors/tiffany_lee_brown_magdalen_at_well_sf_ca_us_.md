@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tiffany_lee_brown_magdalen_at_well_sf_ca_us_
+post_count: 2
 ---
 
-# Tiffany Lee Brown <magdalen@well.sf.ca.us> (2 posts)
+# Tiffany Lee Brown <magdalen<span>@</span>well.sf.ca.us> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rollo_at_artvark_com_rollo_silver_
+post_count: 7
 ---
 
-# rollo@artvark.com (Rollo Silver) (7 posts)
+# rollo<span>@</span>artvark.com (Rollo Silver) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

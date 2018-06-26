@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: collins_at_newton_apple_com_scott_collins_
+post_count: 62
 ---
 
-# collins@newton.apple.com (Scott Collins) (62 posts)
+# collins<span>@</span>newton.apple.com (Scott Collins) (62 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

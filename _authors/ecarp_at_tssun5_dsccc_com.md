@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ecarp_at_tssun5_dsccc_com
+post_count: 2
 ---
 
-# ecarp@tssun5.dsccc.com (2 posts)
+# ecarp<span>@</span>tssun5.dsccc.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

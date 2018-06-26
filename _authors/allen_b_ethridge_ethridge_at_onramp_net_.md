@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: allen_b_ethridge_ethridge_at_onramp_net_
+post_count: 1
 ---
 
-# "Allen B. Ethridge" <ethridge@Onramp.NET> (1 posts)
+# "Allen B. Ethridge" <ethridge<span>@</span>Onramp.NET> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

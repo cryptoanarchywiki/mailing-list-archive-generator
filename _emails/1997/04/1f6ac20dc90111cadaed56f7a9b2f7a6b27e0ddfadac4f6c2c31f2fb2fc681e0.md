@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@huge.cajones.com (Huge Cajones Remailer)<br>
+From: nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1f6ac20dc90111cadaed56f7a9b2f7a6b27e0ddfadac4f6c2c31f2fb2fc681e0<br>
 Message ID: \<199704072324.QAA11970@fat.doobie.com\><br>
@@ -81,6 +81,8 @@ TruthMonger (#7)
 ## Thread
 
 + Return to [April 1997](/archive/1997/04)
+
++ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/author/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
 
 + 1997-04-07 (Mon, 7 Apr 1997 16:25:01 -0700 (PDT)) - Re: Cuba and AP - _nobody@huge.cajones.com (Huge Cajones Remailer)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zac_speidel_speidel_at_lightspeed_net_
+post_count: 2
 ---
 
-# zac speidel <speidel@lightspeed.net> (2 posts)
+# zac speidel <speidel<span>@</span>lightspeed.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

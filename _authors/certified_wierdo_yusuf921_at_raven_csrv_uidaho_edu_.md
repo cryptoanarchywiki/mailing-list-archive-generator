@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: certified_wierdo_yusuf921_at_raven_csrv_uidaho_edu_
+post_count: 1
 ---
 
-# certified *WiErDo* <yusuf921@raven.csrv.uidaho.edu> (1 posts)
+# certified *WiErDo* <yusuf921<span>@</span>raven.csrv.uidaho.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

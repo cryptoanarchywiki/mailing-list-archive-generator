@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 05551984_at_turboma_dyn_ml_org
+post_count: 1
 ---
 
-# 05551984@turboma.dyn.ml.org (1 posts)
+# 05551984<span>@</span>turboma.dyn.ml.org (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c_luchini_uiuc_high_energy_physics_dept__cbl_at_uihepa_hep_uiuc_edu_
+post_count: 1
 ---
 
-# "C. Luchini (UIUC High energy physics Dept)" <CBL@UIHEPA.HEP.UIUC.EDU> (1 posts)
+# "C. Luchini (UIUC High energy physics Dept)" <CBL<span>@</span>UIHEPA.HEP.UIUC.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

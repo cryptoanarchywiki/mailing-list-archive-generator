@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jones_joneswr_at_fsg_prusec_com_
+post_count: 1
 ---
 
-# Jones <joneswr@fsg.prusec.com> (1 posts)
+# Jones <joneswr<span>@</span>fsg.prusec.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_anarchives_tao_at_presence_lglobal_com_
+post_count: 2
 ---
 
-# The Anarchives <tao@presence.lglobal.com> (2 posts)
+# The Anarchives <tao<span>@</span>presence.lglobal.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

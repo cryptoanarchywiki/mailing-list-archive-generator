@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_strzyzewski_kefir_at_pluton_pol_lublin_pl_
+post_count: 1
 ---
 
-# "Martin Strzyzewski" <KEFIR@pluton.pol.lublin.pl> (1 posts)
+# "Martin Strzyzewski" <KEFIR<span>@</span>pluton.pol.lublin.pl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iconofsin_ios_at_idirect_com_
+post_count: 2
 ---
 
-# "IconOfSin" <ios@idirect.com> (2 posts)
+# "IconOfSin" <ios<span>@</span>idirect.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

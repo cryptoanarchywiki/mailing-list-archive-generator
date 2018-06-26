@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: chatski carl \<chatski@gl.umbc.edu\><br>
+From: chatski carl \<chatski<span>@</span>gl.umbc.edu\><br>
 To: Anonymous \<nobody@replay.com\><br>
 Message Hash: 669f3ce6df95d493e08bdb09edaac538a7b7cf4c9aa161ab59dbd2cfacf62d30<br>
 Message ID: \<Pine.SGI.3.96.980416083052.23885H-100000@umbc10.umbc.edu\><br>
@@ -116,6 +116,9 @@ On Thu, 16 Apr 1998, Anonymous wrote:
 ## Thread
 
 + Return to [April 1998](/archive/1998/04)
+
++ Return to "[chatski carl <chatski<span>@</span>gl.umbc.edu>](/author/chatski_carl_chatski_at_gl_umbc_edu_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1998-04-16 (Thu, 16 Apr 1998 02:19:55 -0700 (PDT)) - [The Great Internet Bandwidth Crisis](/archive/1998/04/b0f721c758e10e952d79339e0b3745f7eeb7f22410a91f38c4051e39ac5da7ac) - _nobody@REPLAY.COM (Anonymous)_
   + 1998-04-16 (Thu, 16 Apr 1998 05:31:41 -0700 (PDT)) - Re: The Great Internet Bandwidth Crisis - _chatski carl \<chatski@gl.umbc.edu\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cedric_tefft_cedrict_at_datastorm_com_
+post_count: 3
 ---
 
-# Cedric Tefft <CedricT@datastorm.com> (3 posts)
+# Cedric Tefft <CedricT<span>@</span>datastorm.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

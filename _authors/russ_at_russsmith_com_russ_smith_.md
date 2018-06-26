@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: russ_at_russsmith_com_russ_smith_
+post_count: 1
 ---
 
-# russ@russ-smith.com (russ smith) (1 posts)
+# russ<span>@</span>russ-smith.com (russ smith) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_a_donald_jamesd_at_netcom_com_
+post_count: 68
 ---
 
-# "James A. Donald" <jamesd@netcom.com> (68 posts)
+# "James A. Donald" <jamesd<span>@</span>netcom.com> (68 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

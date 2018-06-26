@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: phr_at_netcom_com_paul_rubin_
+post_count: 2
 ---
 
-# phr@netcom.com (Paul Rubin) (2 posts)
+# phr<span>@</span>netcom.com (Paul Rubin) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

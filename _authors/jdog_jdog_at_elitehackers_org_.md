@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jdog_jdog_at_elitehackers_org_
+post_count: 4
 ---
 
-# J-Dog <J-Dog@Elitehackers.org> (4 posts)
+# J-Dog <J-Dog<span>@</span>Elitehackers.org> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

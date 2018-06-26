@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yourfriend_at_tele_ntnu_no
+post_count: 1
 ---
 
-# yourfriend@tele.ntnu.no (1 posts)
+# yourfriend<span>@</span>tele.ntnu.no (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

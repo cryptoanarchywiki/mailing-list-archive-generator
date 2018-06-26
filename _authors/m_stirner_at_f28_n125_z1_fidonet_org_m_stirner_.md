@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m_stirner_at_f28_n125_z1_fidonet_org_m_stirner_
+post_count: 21
 ---
 
-# M..Stirner@f28.n125.z1.FIDONET.ORG (M. Stirner) (21 posts)
+# M..Stirner<span>@</span>f28.n125.z1.FIDONET.ORG (M. Stirner) (21 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bovine Remailer \<haystack@cow.net\><br>
+From: Bovine Remailer \<haystack<span>@</span>cow.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: c667946c5aecd3ed18de6acc48f2e4ae1e6d2b8dad1c33d6eb6bc3a3582bb9b8<br>
 Message ID: \<9611061808.AA14306@cow.net\><br>
@@ -134,6 +134,8 @@ jack-boots on my path.
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Bovine Remailer <haystack<span>@</span>cow.net>](/author/bovine_remailer_haystack_at_cow_net_)"
 
 + 1996-11-06 (Wed, 6 Nov 1996 10:21:21 -0800 (PST)) - No Subject - _Bovine Remailer \<haystack@cow.net\>_
 

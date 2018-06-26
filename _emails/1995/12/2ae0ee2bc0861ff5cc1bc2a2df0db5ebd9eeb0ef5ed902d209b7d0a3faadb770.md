@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ecarp@tssun5.dsccc.com<br>
+From: ecarp<span>@</span>tssun5.dsccc.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2ae0ee2bc0861ff5cc1bc2a2df0db5ebd9eeb0ef5ed902d209b7d0a3faadb770<br>
 Message ID: \<9512272351.AA27795@tssun5.\><br>
@@ -59,6 +59,8 @@ and company assets.
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[ecarp<span>@</span>tssun5.dsccc.com](/author/ecarp_at_tssun5_dsccc_com)"
 
 + 1995-12-29 (Fri, 29 Dec 1995 15:50:17 +0800) - Re: Employer Probing Precedents? - _ecarp@tssun5.dsccc.com_
 

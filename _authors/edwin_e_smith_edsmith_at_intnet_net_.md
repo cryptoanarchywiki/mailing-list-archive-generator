@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edwin_e_smith_edsmith_at_intnet_net_
+post_count: 29
 ---
 
-# "Edwin E. Smith" <edsmith@IntNet.net> (29 posts)
+# "Edwin E. Smith" <edsmith<span>@</span>IntNet.net> (29 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sam_walters_swalters_at_freenet2_scri_fsu_edu_
+post_count: 1
 ---
 
-# Sam Walters <swalters@freenet2.scri.fsu.edu> (1 posts)
+# Sam Walters <swalters<span>@</span>freenet2.scri.fsu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

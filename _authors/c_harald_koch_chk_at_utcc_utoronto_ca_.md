@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: c_harald_koch_chk_at_utcc_utoronto_ca_
+post_count: 1
 ---
 
-# "C. Harald Koch" <chk@utcc.utoronto.ca> (1 posts)
+# "C. Harald Koch" <chk<span>@</span>utcc.utoronto.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

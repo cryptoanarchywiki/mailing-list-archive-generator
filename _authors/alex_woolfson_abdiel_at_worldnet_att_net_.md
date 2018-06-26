@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alex_woolfson_abdiel_at_worldnet_att_net_
+post_count: 4
 ---
 
-# "Alex Woolfson" <abdiel@worldnet.att.net> (4 posts)
+# "Alex Woolfson" <abdiel<span>@</span>worldnet.att.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ashfaq_rasheed_ashfaq_at_corp_cirrus_com_
+post_count: 4
 ---
 
-# Ashfaq Rasheed <ashfaq@corp.cirrus.com> (4 posts)
+# Ashfaq Rasheed <ashfaq<span>@</span>corp.cirrus.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

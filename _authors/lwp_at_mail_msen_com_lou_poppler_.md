@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lwp_at_mail_msen_com_lou_poppler_
+post_count: 5
 ---
 
-# lwp@mail.msen.com (Lou Poppler) (5 posts)
+# lwp<span>@</span>mail.msen.com (Lou Poppler) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

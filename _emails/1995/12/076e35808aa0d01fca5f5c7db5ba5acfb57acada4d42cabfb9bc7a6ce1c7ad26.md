@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Gilmore \<gnu@toad.com\><br>
+From: John Gilmore \<gnu<span>@</span>toad.com\><br>
 To: cypherpunks<br>
 Message Hash: 076e35808aa0d01fca5f5c7db5ba5acfb57acada4d42cabfb9bc7a6ce1c7ad26<br>
 Message ID: \<9512040256.AA14558@toad.com\><br>
@@ -64,6 +64,8 @@ Check out http://javacontest.sun.com for complete details.
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
 
 + 1995-12-04 (Sun, 3 Dec 95 18:56:37 PST) - Java Cup International -- $1,000,000 in prizes - _John Gilmore \<gnu@toad.com\>_
 

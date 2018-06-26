@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: billxxxjbt_at_itt_net
+post_count: 1
 ---
 
-# billxxxjbt@itt.net (1 posts)
+# billxxxjbt<span>@</span>itt.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

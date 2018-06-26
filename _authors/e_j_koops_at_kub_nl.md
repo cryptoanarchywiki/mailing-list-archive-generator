@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: e_j_koops_at_kub_nl
+post_count: 3
 ---
 
-# E.J.Koops@kub.nl (3 posts)
+# E.J.Koops<span>@</span>kub.nl (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

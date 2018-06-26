@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: derek_rothbiester_derek_at_hagling_demon_co_uk_by_way_of_duncan_frissell_frissell_at_panix_com_
+post_count: 1
 ---
 
-# Derek Roth-Biester <derek@hagling.demon.co.uk> (by way of Duncan Frissell <frissell@panix.com>) (1 posts)
+# Derek Roth-Biester <derek<span>@</span>hagling.demon.co.uk> (by way of Duncan Frissell <frissell<span>@</span>panix.com>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

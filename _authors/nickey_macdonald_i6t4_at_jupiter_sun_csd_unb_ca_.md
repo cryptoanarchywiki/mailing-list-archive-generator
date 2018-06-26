@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nickey_macdonald_i6t4_at_jupiter_sun_csd_unb_ca_
+post_count: 36
 ---
 
-# Nickey MacDonald <i6t4@jupiter.sun.csd.unb.ca> (36 posts)
+# Nickey MacDonald <i6t4<span>@</span>jupiter.sun.csd.unb.ca> (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

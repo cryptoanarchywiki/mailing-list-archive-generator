@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ae446_at_freenet_carleton_ca_nigel_allen_
+post_count: 1
 ---
 
-# ae446@freenet.carleton.ca (Nigel Allen) (1 posts)
+# ae446<span>@</span>freenet.carleton.ca (Nigel Allen) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

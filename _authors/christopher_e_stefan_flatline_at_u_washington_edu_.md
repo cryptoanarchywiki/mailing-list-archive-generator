@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christopher_e_stefan_flatline_at_u_washington_edu_
+post_count: 4
 ---
 
-# Christopher E Stefan <flatline@u.washington.edu> (4 posts)
+# Christopher E Stefan <flatline<span>@</span>u.washington.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: still_x93ojg_at_juliet_stfx_ca_
+post_count: 7
 ---
 
-# Still <x93ojg@juliet.stfx.ca> (7 posts)
+# Still <x93ojg<span>@</span>juliet.stfx.ca> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

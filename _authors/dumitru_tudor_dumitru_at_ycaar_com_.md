@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dumitru_tudor_dumitru_at_ycaar_com_
+post_count: 1
 ---
 
-# Dumitru Tudor <dumitru@ycaar.com> (1 posts)
+# Dumitru Tudor <dumitru<span>@</span>ycaar.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

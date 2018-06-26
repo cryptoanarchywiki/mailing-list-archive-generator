@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Tim May)<br>
+From: tcmay<span>@</span>got.net (Tim May)<br>
 To: jseiger@cdt.org<br>
 Message Hash: bb5d4fe88c65b2ed8ae5fadb76d3b1d8a683144adddf6a6c60dc1efa6b55d70b<br>
 Message ID: \<199705011646.JAA16972@you.got.net\><br>
@@ -200,5 +200,8 @@ Higher Power: 2^1398269     | black markets, collapse of governments.
 
 + Return to [May 1997](/archive/1997/05)
 
-+ 1997-05-01 (Fri, 2 May 1997 01:17:20 +0800) - CDT Flash:   SADE Bill -- "Hold a belief, go to prison" - _tcmay@got.net (Tim May)_
++ Return to "[tcmay<span>@</span>got.net (Tim May)](/author/tcmay_at_got_net_tim_may_)"
+
++ _Unknown thread root_
+  + 1997-05-01 (Fri, 2 May 1997 01:17:20 +0800) - CDT Flash:   SADE Bill -- "Hold a belief, go to prison" - _tcmay@got.net (Tim May)_
 

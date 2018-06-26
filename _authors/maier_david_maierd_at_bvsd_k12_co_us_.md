@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: maier_david_maierd_at_bvsd_k12_co_us_
+post_count: 1
 ---
 
-# Maier David <maierd@bvsd.k12.co.us> (1 posts)
+# Maier David <maierd<span>@</span>bvsd.k12.co.us> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

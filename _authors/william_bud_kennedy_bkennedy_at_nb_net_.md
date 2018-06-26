@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_bud_kennedy_bkennedy_at_nb_net_
+post_count: 3
 ---
 
-# "William \"Bud\" Kennedy" <bkennedy@nb.net> (3 posts)
+# "William \"Bud\" Kennedy" <bkennedy<span>@</span>nb.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

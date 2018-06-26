@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_e_smith_dsmith_at_prairienet_org_
+post_count: 42
 ---
 
-# "David E. Smith" <dsmith@prairienet.org> (42 posts)
+# "David E. Smith" <dsmith<span>@</span>prairienet.org> (42 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: justin_burke_jburke_at_alt255_com_
+post_count: 1
 ---
 
-# Justin Burke <jburke@alt255.com> (1 posts)
+# Justin Burke <jburke<span>@</span>alt255.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

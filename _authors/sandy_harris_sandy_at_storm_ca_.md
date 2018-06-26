@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sandy_harris_sandy_at_storm_ca_
+post_count: 3
 ---
 
-# "Sandy Harris" <sandy@storm.ca> (3 posts)
+# "Sandy Harris" <sandy<span>@</span>storm.ca> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

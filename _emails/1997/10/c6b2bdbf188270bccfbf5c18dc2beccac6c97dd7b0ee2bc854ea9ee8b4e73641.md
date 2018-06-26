@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jon Callas \<jon@pgp.com\><br>
+From: Jon Callas \<jon<span>@</span>pgp.com\><br>
 To: Adam Back \<mark@unicorn.com<br>
 Message Hash: c6b2bdbf188270bccfbf5c18dc2beccac6c97dd7b0ee2bc854ea9ee8b4e73641<br>
 Message ID: \<3.0.3.32.19971022120251.00bf7b30@mail.pgp.com\><br>
@@ -148,6 +148,14 @@ Fingerprints: D1EC 3C51 FCB1 67F8 4345 4A04 7DF9 C2E6 F129 27A9 (DSS)
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[amp<span>@</span>pobox.com](/author/amp_at_pobox_com)"
++ Return to "[jmayorga<span>@</span>netscape.com (John Mayorga)](/author/jmayorga_at_netscape_com_john_mayorga_)"
++ Return to "[Jon Callas <jon<span>@</span>pgp.com>](/author/jon_callas_jon_at_pgp_com_)"
++ Return to "[lutz<span>@</span>taranis.iks-jena.de (Lutz Donnerhacke)](/author/lutz_at_taranis_iksjena_de_lutz_donnerhacke_)"
++ Return to "[mark<span>@</span>unicorn.com](/author/mark_at_unicorn_com)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1997-10-22 (Wed, 22 Oct 1997 18:10:30 +0800) - [PGP 5.5 CMR/GAK: a possible solution](/archive/1997/10/facc384450f56b9f115ec7d685384dbffe1df9b3c5b264f62ad375e3564ed0e8) - _mark@unicorn.com_
   + 1997-10-22 (Wed, 22 Oct 1997 19:57:44 +0800) - [Re: PGP 5.5 CMR/GAK: a possible solution](/archive/1997/10/65957c4a48ba38555cb02a867bbe959c74fdb9d037af6a3acdc514ca6ce6882d) - _amp@pobox.com_

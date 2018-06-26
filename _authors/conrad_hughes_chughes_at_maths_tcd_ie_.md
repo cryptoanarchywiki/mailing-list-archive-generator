@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: conrad_hughes_chughes_at_maths_tcd_ie_
+post_count: 2
 ---
 
-# Conrad Hughes <chughes@maths.tcd.ie> (2 posts)
+# Conrad Hughes <chughes<span>@</span>maths.tcd.ie> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

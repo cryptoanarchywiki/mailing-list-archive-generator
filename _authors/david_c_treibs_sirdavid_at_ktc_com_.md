@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_c_treibs_sirdavid_at_ktc_com_
+post_count: 1
 ---
 
-# "David C. Treibs" <sirdavid@ktc.com> (1 posts)
+# "David C. Treibs" <sirdavid<span>@</span>ktc.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

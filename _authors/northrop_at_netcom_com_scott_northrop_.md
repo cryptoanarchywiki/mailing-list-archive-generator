@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: northrop_at_netcom_com_scott_northrop_
+post_count: 4
 ---
 
-# northrop@netcom.com (Scott Northrop) (4 posts)
+# northrop<span>@</span>netcom.com (Scott Northrop) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

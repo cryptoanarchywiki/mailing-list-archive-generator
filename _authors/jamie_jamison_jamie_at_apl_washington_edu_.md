@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jamie_jamison_jamie_at_apl_washington_edu_
+post_count: 4
 ---
 
-# Jamie Jamison <jamie@apl.washington.edu> (4 posts)
+# Jamie Jamison <jamie<span>@</span>apl.washington.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

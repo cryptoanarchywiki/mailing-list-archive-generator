@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ricksorak_at_ichange_com_richard_sorak_
+post_count: 1
 ---
 
-# ricksorak@ichange.com (Richard Sorak) (1 posts)
+# ricksorak<span>@</span>ichange.com (Richard Sorak) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

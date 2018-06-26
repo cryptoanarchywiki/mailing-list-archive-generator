@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_rochberg_rochberg_at_gs84_sp_cs_cmu_edu_
+post_count: 1
 ---
 
-# David Rochberg <rochberg@GS84.SP.CS.CMU.EDU> (1 posts)
+# David Rochberg <rochberg<span>@</span>GS84.SP.CS.CMU.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: blancw_at_pylon_com
+post_count: 52
 ---
 
-# blancw@pylon.com (52 posts)
+# blancw<span>@</span>pylon.com (52 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: elbert2_at_darmstadt_gmd_de_andreas_elbert_modacom_account_
+post_count: 1
 ---
 
-# elbert2@darmstadt.gmd.de (Andreas Elbert, Modacom Account) (1 posts)
+# elbert2<span>@</span>darmstadt.gmd.de (Andreas Elbert, Modacom Account) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

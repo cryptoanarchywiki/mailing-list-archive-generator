@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: frantz@netcom.com (Bill Frantz)<br>
+From: frantz<span>@</span>netcom.com (Bill Frantz)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: c427c135c8fece9bdd8a9a7bcec9bffdef930bbc57e43e65399b5fd9c749b01b<br>
 Message ID: \<199604110019.RAA05628@netcom9.netcom.com\><br>
@@ -78,6 +78,8 @@ frantz@netcom.com | dead teenagers | Los Gatos, CA 95032, USA
 ## Thread
 
 + Return to [April 1996](/archive/1996/04)
+
++ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/author/frantz_at_netcom_com_bill_frantz_)"
 
 + 1996-04-11 (Thu, 11 Apr 1996 17:31:55 +0800) - Re: No matter where you go, there they are. - _frantz@netcom.com (Bill Frantz)_
 

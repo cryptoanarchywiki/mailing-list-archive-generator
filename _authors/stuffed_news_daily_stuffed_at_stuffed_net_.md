@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stuffed_news_daily_stuffed_at_stuffed_net_
+post_count: 45
 ---
 
-# STUFFED NEWS DAILY <stuffed@stuffed.net> (45 posts)
+# STUFFED NEWS DAILY <stuffed<span>@</span>stuffed.net> (45 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

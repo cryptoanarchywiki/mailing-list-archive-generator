@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Seth Oestreicher \<setho@westnet.com\><br>
+From: Seth Oestreicher \<setho<span>@</span>westnet.com\><br>
 To: Mike McNally \<m5@vail.tivoli.com\><br>
 Message Hash: b0a6ebc5107edd7d2fdead0684df53cebe170bd048da7dacf60fc1bf1b60f869<br>
 Message ID: \<1.5.4.32.19960728224008.0095b920@westnet.com\><br>
@@ -52,6 +52,8 @@ Seth
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[Seth Oestreicher <setho<span>@</span>westnet.com>](/author/seth_oestreicher_setho_at_westnet_com_)"
 
 + 1996-07-29 (Mon, 29 Jul 1996 08:56:52 +0800) - Re: Feinstein wants controls on Internet, Books - _Seth Oestreicher \<setho@westnet.com\>_
 

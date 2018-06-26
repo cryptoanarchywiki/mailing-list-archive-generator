@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: theaudin_thea0594_at_eurobretagne_fr_
+post_count: 1
 ---
 
-# "THEAUDIN" <thea0594@eurobretagne.fr> (1 posts)
+# "THEAUDIN" <thea0594<span>@</span>eurobretagne.fr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

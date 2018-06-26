@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: david_kennedy_76702_3557_at_compuserve_com_
+post_count: 1
 ---
 
-# David Kennedy <76702.3557@compuserve.com> (1 posts)
+# David Kennedy <76702.3557<span>@</span>compuserve.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: aleph_one_aleph1_at_dfw_net_
+post_count: 45
 ---
 
-# Aleph One <aleph1@dfw.net> (45 posts)
+# Aleph One <aleph1<span>@</span>dfw.net> (45 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

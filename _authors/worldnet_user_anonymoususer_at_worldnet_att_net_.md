@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: worldnet_user_anonymoususer_at_worldnet_att_net_
+post_count: 1
 ---
 
-# WorldNet User <anonymous-user@worldnet.att.net> (1 posts)
+# WorldNet User <anonymous-user<span>@</span>worldnet.att.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

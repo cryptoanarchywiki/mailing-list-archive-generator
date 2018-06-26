@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_otto_daveotto_at_acm_org_daveotto_at_acm_org_
+post_count: 1
 ---
 
-# "Dave Otto daveotto@acm.org" <DAVEOTTO@ACM.ORG> (1 posts)
+# "Dave Otto daveotto<span>@</span>acm.org" <DAVEOTTO<span>@</span>ACM.ORG> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

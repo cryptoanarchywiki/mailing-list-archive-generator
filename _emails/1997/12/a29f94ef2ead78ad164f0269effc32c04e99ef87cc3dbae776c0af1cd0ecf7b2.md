@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Information Security \<guy@panix.com\><br>
+From: Information Security \<guy<span>@</span>panix.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a29f94ef2ead78ad164f0269effc32c04e99ef87cc3dbae776c0af1cd0ecf7b2<br>
 Message ID: \<199712310835.DAA16962@panix2.panix.com\><br>
@@ -43,6 +43,8 @@ Half Romanian Gypsie, half Hungarian Jew.
 ## Thread
 
 + Return to [December 1997](/archive/1997/12)
+
++ Return to "[Information Security <guy<span>@</span>panix.com>](/author/information_security_guy_at_panix_com_)"
 
 + 1997-12-31 (Wed, 31 Dec 1997 00:35:58 -0800 (PST)) - Vulis again - _Information Security \<guy@panix.com\>_
 

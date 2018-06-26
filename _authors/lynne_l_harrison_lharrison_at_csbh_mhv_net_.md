@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lynne_l_harrison_lharrison_at_csbh_mhv_net_
+post_count: 4
 ---
 
-# "Lynne L. Harrison" <lharrison@csbh.mhv.net> (4 posts)
+# "Lynne L. Harrison" <lharrison<span>@</span>csbh.mhv.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

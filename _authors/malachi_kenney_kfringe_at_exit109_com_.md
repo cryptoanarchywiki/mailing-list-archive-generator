@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: malachi_kenney_kfringe_at_exit109_com_
+post_count: 1
 ---
 
-# Malachi Kenney <kfringe@exit109.com> (1 posts)
+# Malachi Kenney <kfringe<span>@</span>exit109.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

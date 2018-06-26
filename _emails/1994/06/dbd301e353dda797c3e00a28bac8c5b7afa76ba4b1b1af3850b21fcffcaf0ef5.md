@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Frezza (via RadioMail) \<frezza@radiomail.net\><br>
+From: Bill Frezza (via RadioMail) \<frezza<span>@</span>radiomail.net\><br>
 To: gnu@toad.com<br>
 Message Hash: dbd301e353dda797c3e00a28bac8c5b7afa76ba4b1b1af3850b21fcffcaf0ef5<br>
 Message ID: \<199406172327.AA19400@radiomail.net\><br>
@@ -77,6 +77,8 @@ DigitaLiberty
 ## Thread
 
 + Return to [June 1994](/archive/1994/06)
+
++ Return to "[Bill Frezza (via RadioMail) <frezza<span>@</span>radiomail.net>](/author/bill_frezza_via_radiomail_frezza_at_radiomail_net_)"
 
 + 1994-06-17 (Fri, 17 Jun 94 16:27:40 PDT) - Re: Crypto export legislation defeated in House Intelligence Cmte. - _Bill Frezza (via RadioMail) \<frezza@radiomail.net\>_
 

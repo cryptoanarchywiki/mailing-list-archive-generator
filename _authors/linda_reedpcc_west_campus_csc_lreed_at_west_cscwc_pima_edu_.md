@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: linda_reedpcc_west_campus_csc_lreed_at_west_cscwc_pima_edu_
+post_count: 65
 ---
 
-# Linda Reed--PCC West Campus CSC <lreed@west.cscwc.pima.edu> (65 posts)
+# Linda Reed--PCC West Campus CSC <lreed<span>@</span>west.cscwc.pima.edu> (65 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: shamrock@netcom.com (Lucky Green)<br>
+From: shamrock<span>@</span>netcom.com (Lucky Green)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: e0d6d606b5a8a764ec984d5b774e215d7d8ffcdaefb8195ac2fbbbd6ffd510da<br>
 Message ID: \<v02120d0cac72d4f2b20d@[192.0.2.1]\><br>
@@ -49,6 +49,9 @@ TIA,
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/author/black_unicorn_unicorn_at_access_digex_net_)"
++ Return to "[shamrock<span>@</span>netcom.com (Lucky Green)](/author/shamrock_at_netcom_com_lucky_green_)"
 
 + 1995-09-06 (Tue, 5 Sep 95 20:48:03 PDT) - Growth of actions definded as crime. Which math formula? - _shamrock@netcom.com (Lucky Green)_
   + 1995-09-06 (Tue, 5 Sep 95 20:57:27 PDT) - [Re: Growth of actions definded as crime. Which math formula?](/archive/1995/09/6d552c587b101c32656104bafbc27f6c24cfc1e8f4c3cc9ac904ed1ad0e47ec1) - _Black Unicorn \<unicorn@access.digex.net\>_

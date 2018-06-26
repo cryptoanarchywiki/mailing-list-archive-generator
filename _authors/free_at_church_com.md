@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: free_at_church_com
+post_count: 1
 ---
 
-# free@church.com (1 posts)
+# free<span>@</span>church.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: Marshall Clow \<cypherpunks@toad.com<br>
 Message Hash: 333eb107c0a6b5f357becd327db2c236132cdbcfcbcafbf5fbdeb548ba917d17<br>
 Message ID: \<v0300784eaeeeccee3dec@[139.167.130.248]\><br>
@@ -71,6 +71,10 @@ FC97: Anguilla, anyone? http://offshore.com.ai/fc97/
 
 + Return to [December 1996](/archive/1996/12)
 + Return to [January 1997](/archive/1997/01)
+
++ Return to "["Attila T. Hun" <attila<span>@</span>primenet.com>](/author/attila_t_hun_attila_at_primenet_com_)"
++ Return to "[Marshall Clow <mclow<span>@</span>owl.csusm.edu>](/author/marshall_clow_mclow_at_owl_csusm_edu_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1996-12-31 (Mon, 30 Dec 1996 22:55:08 -0800 (PST)) - [Re: LAW_dno](/archive/1996/12/dd2d730907abf432471c6457fa571d65cc11be4454f2aace016e725dff7d7f16) - _Marshall Clow \<mclow@owl.csusm.edu\>_
   + 1996-12-31 (Tue, 31 Dec 1996 06:23:21 -0800 (PST)) - Re: LAW_dno - _Robert Hettinga \<rah@shipwright.com\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: clark_reynard_clark_at_metal_psu_edu_
+post_count: 28
 ---
 
-# Clark Reynard <clark@metal.psu.edu> (28 posts)
+# Clark Reynard <clark<span>@</span>metal.psu.edu> (28 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

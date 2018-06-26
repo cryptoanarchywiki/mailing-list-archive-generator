@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeff_gross_jgross_at_microsoft_com_
+post_count: 1
 ---
 
-# Jeff Gross <jgross@microsoft.com> (1 posts)
+# Jeff Gross <jgross<span>@</span>microsoft.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

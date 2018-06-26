@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gabriel_millerd_millerd_at_vhoorl_rlinet_net_
+post_count: 2
 ---
 
-# Gabriel Millerd <millerd@vhoorl.rli-net.net> (2 posts)
+# Gabriel Millerd <millerd<span>@</span>vhoorl.rli-net.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

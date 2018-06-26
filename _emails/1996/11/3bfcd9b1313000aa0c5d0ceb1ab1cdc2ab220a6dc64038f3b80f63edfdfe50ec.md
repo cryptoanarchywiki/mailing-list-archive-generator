@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Clay Olbon II \<olbon@ix.netcom.com\><br>
+From: Clay Olbon II \<olbon<span>@</span>ix.netcom.com\><br>
 To: Jim Wise \<jw250@columbia.edu\><br>
 Message Hash: 3bfcd9b1313000aa0c5d0ceb1ab1cdc2ab220a6dc64038f3b80f63edfdfe50ec<br>
 Message ID: \<1.5.4.32.19961127203425.006dff10@popd.ix.netcom.com\><br>
@@ -117,6 +117,8 @@ engineer, programmer, statistitian, etc.
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Clay Olbon II <olbon<span>@</span>ix.netcom.com>](/author/clay_olbon_ii_olbon_at_ix_netcom_com_)"
 
 + 1996-11-27 (Wed, 27 Nov 1996 12:36:26 -0800 (PST)) - Re: wealth and property rights - _Clay Olbon II \<olbon@ix.netcom.com\>_
 

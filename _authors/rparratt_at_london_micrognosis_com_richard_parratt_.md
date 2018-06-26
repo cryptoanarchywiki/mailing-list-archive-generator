@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rparratt_at_london_micrognosis_com_richard_parratt_
+post_count: 11
 ---
 
-# rparratt@london.micrognosis.com (Richard Parratt) (11 posts)
+# rparratt<span>@</span>london.micrognosis.com (Richard Parratt) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

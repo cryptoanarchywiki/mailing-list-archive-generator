@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bogdan_at_ljextra_com
+post_count: 1
 ---
 
-# bogdan@ljextra.com (1 posts)
+# bogdan<span>@</span>ljextra.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

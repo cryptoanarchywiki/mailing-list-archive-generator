@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ed_at_justanote_com
+post_count: 1
 ---
 
-# ed@justanote.com (1 posts)
+# ed<span>@</span>justanote.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_edward_marotta_mercury_at_well_sf_ca_us_
+post_count: 6
 ---
 
-# Michael Edward Marotta <mercury@well.sf.ca.us> (6 posts)
+# Michael Edward Marotta <mercury<span>@</span>well.sf.ca.us> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

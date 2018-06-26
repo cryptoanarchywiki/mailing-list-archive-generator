@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rachel_beth_goldstein_rbg_at_panix_com_
+post_count: 1
 ---
 
-# Rachel Beth Goldstein <rbg@panix.com> (1 posts)
+# Rachel Beth Goldstein <rbg<span>@</span>panix.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

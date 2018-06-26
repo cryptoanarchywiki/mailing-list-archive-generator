@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4cf07c60fbab29e6a5ca4cd4b99cca34f81cb2c42f640f7becdfb283691efebd<br>
 Message ID: \<1.5.4.32.19971018182339.00c2fad0@pop.pipeline.com\><br>
@@ -44,6 +44,8 @@ in the Thursday press release:
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1997-10-18 (Sun, 19 Oct 1997 02:44:49 +0800) - Junger Motion and Brief - _John Young \<jya@pipeline.com\>_
 

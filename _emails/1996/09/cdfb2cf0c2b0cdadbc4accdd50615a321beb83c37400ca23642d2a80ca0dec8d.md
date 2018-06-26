@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Simon Spero \<ses@tipper.oit.unc.edu\><br>
+From: Simon Spero \<ses<span>@</span>tipper.oit.unc.edu\><br>
 To: Surya Koneru \<surya@premenos.com\><br>
 Message Hash: cdfb2cf0c2b0cdadbc4accdd50615a321beb83c37400ca23642d2a80ca0dec8d<br>
 Message ID: \<Pine.SUN.3.91.960903232408.11721A-100000@tipper.oit.unc.edu\><br>
@@ -53,6 +53,10 @@ You're my firewall -    	      | ........First in Usenet.........
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[qut<span>@</span>netcom.com (Dave Harman OBC)](/author/qut_at_netcom_com_dave_harman_obc_)"
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
++ Return to "[Surya Koneru <surya<span>@</span>premenos.com>](/author/surya_koneru_surya_at_premenos_com_)"
 
 + 1996-09-03 (Wed, 4 Sep 1996 06:07:23 +0800) - [rc2 export limits..](/archive/1996/09/abca5c316c7d3a126cf4a3a10eb0427857416e6af7b851f26ce62ea046ecf91a) - _Surya Koneru \<surya@premenos.com\>_
   + 1996-09-03 (Wed, 4 Sep 1996 07:41:10 +0800) - [Re: rc2 export limits..](/archive/1996/09/f77bc31f03125acc406b0affa80f73d10b436b3d69f0082eb038f77512826c7c) - _qut@netcom.com (Dave Harman OBC)_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: avi_baumstein_avi_at_clas_ufl_edu_
+post_count: 3
 ---
 
-# avi baumstein <avi@clas.ufl.edu> (3 posts)
+# avi baumstein <avi<span>@</span>clas.ufl.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

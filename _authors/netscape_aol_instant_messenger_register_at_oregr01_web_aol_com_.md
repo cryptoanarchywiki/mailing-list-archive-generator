@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: netscape_aol_instant_messenger_register_at_oregr01_web_aol_com_
+post_count: 2
 ---
 
-# "Netscape AOL Instant Messenger" <register@oreg-r01.web.aol.com> (2 posts)
+# "Netscape AOL Instant Messenger" <register<span>@</span>oreg-r01.web.aol.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

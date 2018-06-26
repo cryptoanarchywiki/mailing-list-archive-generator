@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: neil_johnson_njohnson_at_gmu_edu_
+post_count: 1
 ---
 
-# Neil Johnson <njohnson@gmu.edu> (1 posts)
+# Neil Johnson <njohnson<span>@</span>gmu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

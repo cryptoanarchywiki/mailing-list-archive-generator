@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deltorto_at_applelink_apple_com_imaja_david_del_tortopas_
+post_count: 2
 ---
 
-# DELTORTO@AppleLink.Apple.COM (Imaja, David Del Torto,PAS) (2 posts)
+# DELTORTO<span>@</span>AppleLink.Apple.COM (Imaja, David Del Torto,PAS) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

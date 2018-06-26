@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: johnathan_corgan_jcorgan_at_aeinet_com_
+post_count: 23
 ---
 
-# Johnathan Corgan <jcorgan@aeinet.com> (23 posts)
+# Johnathan Corgan <jcorgan<span>@</span>aeinet.com> (23 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

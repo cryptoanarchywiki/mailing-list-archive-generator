@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_m_lacey_mml_at_halcyon_com_
+post_count: 2
 ---
 
-# "Mark M. Lacey" <mml@halcyon.com> (2 posts)
+# "Mark M. Lacey" <mml<span>@</span>halcyon.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lora_crouse_lcrouse_at_wesleyan_edu_
+post_count: 1
 ---
 
-# Lora Crouse <lcrouse@wesleyan.edu> (1 posts)
+# Lora Crouse <lcrouse<span>@</span>wesleyan.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

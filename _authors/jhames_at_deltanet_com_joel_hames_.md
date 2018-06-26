@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jhames_at_deltanet_com_joel_hames_
+post_count: 1
 ---
 
-# jhames@deltanet.com (Joel Hames) (1 posts)
+# jhames<span>@</span>deltanet.com (Joel Hames) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

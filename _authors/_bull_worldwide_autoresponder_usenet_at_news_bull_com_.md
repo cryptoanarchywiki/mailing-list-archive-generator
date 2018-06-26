@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _bull_worldwide_autoresponder_usenet_at_news_bull_com_
+post_count: 1
 ---
 
-# (Bull Worldwide AutoResponder) <UseNet@news.bull.com> (1 posts)
+# (Bull Worldwide AutoResponder) <UseNet<span>@</span>news.bull.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

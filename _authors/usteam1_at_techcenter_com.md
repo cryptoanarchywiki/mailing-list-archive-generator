@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: usteam1_at_techcenter_com
+post_count: 1
 ---
 
-# usteam1@tech-center.com (1 posts)
+# usteam1<span>@</span>tech-center.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rah@shipwright.com (Robert Hettinga)<br>
+From: rah<span>@</span>shipwright.com (Robert Hettinga)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ffdcaea60089ae51ec4aef7bcaec7ebd0c051dc3f3c34b34752509bc3ce1ede7<br>
 Message ID: \<v02120d1ead4e2130ac45@[199.0.65.105]\><br>
@@ -62,6 +62,8 @@ The e$ Home Page: http://thumper.vmeng.com/pub/rah/
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[rah<span>@</span>shipwright.com (Robert Hettinga)](/author/rah_at_shipwright_com_robert_hettinga_)"
 
 + 1996-02-19 (Mon, 19 Feb 1996 22:21:26 +0800) - Re: Anonymous remailers are a virus spreading online! (Replies) - _rah@shipwright.com (Robert Hettinga)_
 

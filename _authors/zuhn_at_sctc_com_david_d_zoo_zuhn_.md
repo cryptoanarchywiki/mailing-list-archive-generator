@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zuhn_at_sctc_com_david_d_zoo_zuhn_
+post_count: 3
 ---
 
-# zuhn@sctc.com (david d `zoo' zuhn) (3 posts)
+# zuhn<span>@</span>sctc.com (david d `zoo' zuhn) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

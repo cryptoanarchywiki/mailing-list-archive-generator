@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mitton_ken_mittonk_at_ucsu_colorado_edu_
+post_count: 1
 ---
 
-# Mitton Ken <mittonk@ucsu.colorado.edu> (1 posts)
+# Mitton Ken <mittonk<span>@</span>ucsu.colorado.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

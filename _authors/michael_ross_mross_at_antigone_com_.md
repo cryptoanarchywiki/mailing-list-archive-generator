@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_ross_mross_at_antigone_com_
+post_count: 1
 ---
 
-# Michael Ross <mross@antigone.com> (1 posts)
+# Michael Ross <mross<span>@</span>antigone.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

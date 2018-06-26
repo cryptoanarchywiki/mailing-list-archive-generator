@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: glenn_hauman_hauman_at_bb_com_
+post_count: 7
 ---
 
-# Glenn Hauman <hauman@bb.com> (7 posts)
+# Glenn Hauman <hauman<span>@</span>bb.com> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

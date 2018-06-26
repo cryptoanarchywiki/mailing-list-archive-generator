@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Arthur Chandler \<arthurc@crl.com\><br>
+From: Arthur Chandler \<arthurc<span>@</span>crl.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fb286705b5a75e6bcbacc0408adfed11607ac9645edfedb5fb5ac66acd6f6b1c<br>
 Message ID: \<Pine.3.87.9405031510.A27193-0100000@crl.crl.com\><br>
@@ -52,6 +52,8 @@ for the services they could provide.
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[Arthur Chandler <arthurc<span>@</span>crl.com>](/author/arthur_chandler_arthurc_at_crl_com_)"
 
 + 1994-05-03 (Tue, 3 May 94 15:54:39 PDT) - Rucker on "Cryps" - _Arthur Chandler \<arthurc@crl.com\>_
 

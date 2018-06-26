@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rich_burroughs_rich_at_paranoid_org_
+post_count: 4
 ---
 
-# Rich Burroughs <rich@paranoid.org> (4 posts)
+# Rich Burroughs <rich<span>@</span>paranoid.org> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

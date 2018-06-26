@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: HyperReal-Anon \<nobody@sind.hyperreal.art.pl\><br>
+From: HyperReal-Anon \<nobody<span>@</span>sind.hyperreal.art.pl\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: e8425fabefae9b2bf044f560fb3b0c1563d8f80aecffe59f3b7fad65ea9fd623<br>
 Message ID: \<0022261586779894a81c52a54603b461@anonymous\><br>
@@ -82,6 +82,8 @@ LamenessMonger
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[HyperReal-Anon <nobody<span>@</span>sind.hyperreal.art.pl>](/author/hyperrealanon_nobody_at_sind_hyperreal_art_pl_)"
 
 + 1998-09-09 (Wed, 9 Sep 1998 12:01:37 +0800) - Re: Any good hacking sites? - _HyperReal-Anon \<nobody@sind.hyperreal.art.pl\>_
 

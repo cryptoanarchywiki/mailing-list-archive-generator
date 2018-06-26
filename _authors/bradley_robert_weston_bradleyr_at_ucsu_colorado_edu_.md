@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bradley_robert_weston_bradleyr_at_ucsu_colorado_edu_
+post_count: 1
 ---
 
-# BRADLEY  ROBERT WESTON <bradleyr@ucsu.Colorado.EDU> (1 posts)
+# BRADLEY  ROBERT WESTON <bradleyr<span>@</span>ucsu.Colorado.EDU> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

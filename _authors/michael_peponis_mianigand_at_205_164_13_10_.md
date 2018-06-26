@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_peponis_mianigand_at_205_164_13_10_
+post_count: 2
 ---
 
-# "Michael Peponis" <mianigand@[205.164.13.10]> (2 posts)
+# "Michael Peponis" <mianigand<span>@</span>[205.164.13.10]> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: christopher_at_nescio_zerberus_de_christopher_creutzig_
+post_count: 1
 ---
 
-# christopher@nescio.zerberus.de (Christopher Creutzig) (1 posts)
+# christopher<span>@</span>nescio.zerberus.de (Christopher Creutzig) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

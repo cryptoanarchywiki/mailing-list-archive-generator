@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jps@monad.semcor.com (Jack P. Starrantino)<br>
+From: jps<span>@</span>monad.semcor.com (Jack P. Starrantino)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 01ffda67e75fc4cf0162c74baca9b4f4c9a4e1ffb4acca4ddde2863b77cd5365<br>
 Message ID: \<9512071516.AA01104@monad.semcor.com\><br>
@@ -51,6 +51,8 @@ Warminster, PA 18974
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[jps<span>@</span>monad.semcor.com (Jack P. Starrantino)](/author/jps_at_monad_semcor_com_jack_p_starrantino_)"
 
 + 1995-12-07 (Thu, 7 Dec 95 07:16:05 PST) - Re: latest librand source now av - _jps@monad.semcor.com (Jack P. Starrantino)_
 

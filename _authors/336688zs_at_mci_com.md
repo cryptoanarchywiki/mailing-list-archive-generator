@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 336688zs_at_mci_com
+post_count: 1
 ---
 
-# 336688zs@mci.com (1 posts)
+# 336688zs<span>@</span>mci.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: everheul@mail.rijnhaave.nl<br>
+From: everheul<span>@</span>mail.rijnhaave.nl<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 418fdfe77d9a2fdcdb2a9ffbdb55877d8c60152fabd94bc3d21b0cb06b6ddd9e<br>
 Message ID: \<199610181057.LAA11997@mail.rijnhaave.nl\><br>
@@ -131,6 +131,8 @@ Best regards, Eric
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[everheul<span>@</span>mail.rijnhaave.nl](/author/everheul_at_mail_rijnhaave_nl)"
 
 + 1996-10-18 (Fri, 18 Oct 1996 03:57:45 -0700 (PDT)) - RE: Binding cryptography - a fraud-detectible alternative to  ke - _everheul@mail.rijnhaave.nl_
 

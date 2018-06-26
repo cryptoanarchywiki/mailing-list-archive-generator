@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_jones_mkljones_at_cris_com_
+post_count: 1
 ---
 
-# Mike Jones <Mkljones@cris.com> (1 posts)
+# Mike Jones <Mkljones<span>@</span>cris.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

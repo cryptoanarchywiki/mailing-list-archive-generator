@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: the_spectre_spectre_at_anthrax_net_
+post_count: 7
 ---
 
-# The Spectre <spectre@anthrax.net> (7 posts)
+# The Spectre <spectre<span>@</span>anthrax.net> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

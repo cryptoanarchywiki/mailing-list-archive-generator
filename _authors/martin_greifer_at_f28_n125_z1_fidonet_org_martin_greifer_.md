@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: martin_greifer_at_f28_n125_z1_fidonet_org_martin_greifer_
+post_count: 6
 ---
 
-# Martin.Greifer@f28.n125.z1.FIDONET.ORG (Martin Greifer) (6 posts)
+# Martin.Greifer<span>@</span>f28.n125.z1.FIDONET.ORG (Martin Greifer) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

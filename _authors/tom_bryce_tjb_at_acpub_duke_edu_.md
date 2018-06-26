@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_bryce_tjb_at_acpub_duke_edu_
+post_count: 4
 ---
 
-# tom bryce <tjb@acpub.duke.edu> (4 posts)
+# tom bryce <tjb<span>@</span>acpub.duke.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

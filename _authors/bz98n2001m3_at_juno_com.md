@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bz98n2001m3_at_juno_com
+post_count: 1
 ---
 
-# bz98n2001m3@juno.com (1 posts)
+# bz98n2001m3<span>@</span>juno.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

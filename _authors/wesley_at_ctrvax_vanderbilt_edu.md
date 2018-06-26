@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wesley_at_ctrvax_vanderbilt_edu
+post_count: 1
 ---
 
-# WESLEY@ctrvax.Vanderbilt.Edu (1 posts)
+# WESLEY<span>@</span>ctrvax.Vanderbilt.Edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

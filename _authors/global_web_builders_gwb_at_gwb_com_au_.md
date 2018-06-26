@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: global_web_builders_gwb_at_gwb_com_au_
+post_count: 35
 ---
 
-# Global Web Builders <gwb@gwb.com.au> (35 posts)
+# Global Web Builders <gwb<span>@</span>gwb.com.au> (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: drzaphod_at_brewmeister_xstablu_com
+post_count: 1
 ---
 
-# drzaphod@brewmeister.xstablu.com (1 posts)
+# drzaphod<span>@</span>brewmeister.xstablu.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

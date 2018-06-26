@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: diane@extractorpro.net<br>
+From: diane<span>@</span>extractorpro.net<br>
 To: friend@bulkmailer<br>
 Message Hash: 351479d0a23ffac0bbee2dfcea48fcaf400d42c69ee0d336cb1bdca81a2bb883<br>
 Message ID: \<199805092253.SAA22521@sour.extractorpro.net\><br>
@@ -95,6 +95,8 @@ Extractor Marketing
 ## Thread
 
 + Return to [May 1998](/archive/1998/05)
+
++ Return to "[diane<span>@</span>extractorpro.net](/author/diane_at_extractorpro_net)"
 
 + 1998-05-09 (Sat, 9 May 1998 12:24:11 -0700 (PDT)) - What Bill Gates doesn't want you to know. - _diane@extractorpro.net_
 

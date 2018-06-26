@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: james_caldwell_jcaldwel_at_iquest_net_
+post_count: 9
 ---
 
-# "James Caldwell" <jcaldwel@iquest.net> (9 posts)
+# "James Caldwell" <jcaldwel<span>@</span>iquest.net> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

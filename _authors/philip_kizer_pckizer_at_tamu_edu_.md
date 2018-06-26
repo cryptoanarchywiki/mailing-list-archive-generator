@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: philip_kizer_pckizer_at_tamu_edu_
+post_count: 1
 ---
 
-# Philip Kizer <pckizer@tamu.edu> (1 posts)
+# Philip Kizer <pckizer<span>@</span>tamu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

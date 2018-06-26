@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charles_senescall_apache_at_quux_apana_org_au_
+post_count: 4
 ---
 
-# Charles Senescall <apache@quux.apana.org.au> (4 posts)
+# Charles Senescall <apache<span>@</span>quux.apana.org.au> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

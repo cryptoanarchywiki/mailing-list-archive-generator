@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eli_brandt_ebrandt_at_jarthur_cs_hmc_edu_
+post_count: 63
 ---
 
-# Eli Brandt <ebrandt@jarthur.cs.hmc.edu> (63 posts)
+# Eli Brandt <ebrandt<span>@</span>jarthur.cs.hmc.edu> (63 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

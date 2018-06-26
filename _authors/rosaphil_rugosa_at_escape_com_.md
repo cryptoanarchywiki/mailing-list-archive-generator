@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rosaphil_rugosa_at_escape_com_
+post_count: 2
 ---
 
-# rosaphil <rugosa@escape.com> (2 posts)
+# rosaphil <rugosa<span>@</span>escape.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

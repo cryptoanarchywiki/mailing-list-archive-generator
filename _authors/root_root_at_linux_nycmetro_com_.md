@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: root_root_at_linux_nycmetro_com_
+post_count: 1
 ---
 
-# root <root@linux.nycmetro.com> (1 posts)
+# root <root<span>@</span>linux.nycmetro.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

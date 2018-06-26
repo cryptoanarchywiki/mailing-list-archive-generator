@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gambler_at_msn_com
+post_count: 2
 ---
 
-# Gambler@msn.com (2 posts)
+# Gambler<span>@</span>msn.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

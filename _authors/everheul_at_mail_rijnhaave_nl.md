@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: everheul_at_mail_rijnhaave_nl
+post_count: 2
 ---
 
-# everheul@mail.rijnhaave.nl (2 posts)
+# everheul<span>@</span>mail.rijnhaave.nl (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

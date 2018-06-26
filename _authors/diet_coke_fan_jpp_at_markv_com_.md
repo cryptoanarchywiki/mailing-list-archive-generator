@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: diet_coke_fan_jpp_at_markv_com_
+post_count: 1
 ---
 
-# Diet Coke Fan <jpp@markv.com> (1 posts)
+# Diet Coke Fan <jpp<span>@</span>markv.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

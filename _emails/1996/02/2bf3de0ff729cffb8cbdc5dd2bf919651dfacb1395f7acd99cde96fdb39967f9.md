@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: asgaard@sos.sll.se\><br>
 Message Hash: 2bf3de0ff729cffb8cbdc5dd2bf919651dfacb1395f7acd99cde96fdb39967f9<br>
 Message ID: \<ad4c0e4904021004badd@[205.199.118.202]\><br>
@@ -84,6 +84,8 @@ Higher Power: 2^756839 - 1  | black markets, collapse of governments.
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-02-18 (Sun, 18 Feb 1996 15:33:59 +0800) - Denying Entrance Visas to Troublemakers - _tcmay@got.net (Timothy C. May)_
 

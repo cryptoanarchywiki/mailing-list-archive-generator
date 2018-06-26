@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_horowitz_marc_at_athena_mit_edu_
+post_count: 20
 ---
 
-# Marc Horowitz <marc@Athena.MIT.EDU> (20 posts)
+# Marc Horowitz <marc<span>@</span>Athena.MIT.EDU> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

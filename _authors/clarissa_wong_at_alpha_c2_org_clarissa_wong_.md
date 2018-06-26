@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: clarissa_wong_at_alpha_c2_org_clarissa_wong_
+post_count: 3
 ---
 
-# clarissa_wong@alpha.c2.org (Clarissa Wong) (3 posts)
+# clarissa_wong<span>@</span>alpha.c2.org (Clarissa Wong) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

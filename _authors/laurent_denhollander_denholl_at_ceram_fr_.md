@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: laurent_denhollander_denholl_at_ceram_fr_
+post_count: 1
 ---
 
-# Laurent Den-Hollander <denholl@ceram.fr> (1 posts)
+# Laurent Den-Hollander <denholl<span>@</span>ceram.fr> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

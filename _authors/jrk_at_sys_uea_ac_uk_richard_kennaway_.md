@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jrk_at_sys_uea_ac_uk_richard_kennaway_
+post_count: 17
 ---
 
-# jrk@sys.uea.ac.uk (Richard Kennaway) (17 posts)
+# jrk<span>@</span>sys.uea.ac.uk (Richard Kennaway) (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iso88591qste9phane__jacquet_sjacquet_at_musician_org_
+post_count: 1
 ---
 
-# =?iso-8859-1?Q?St=E9phane_?= Jacquet <sjacquet@musician.org> (1 posts)
+# =?iso-8859-1?Q?St=E9phane_?= Jacquet <sjacquet<span>@</span>musician.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

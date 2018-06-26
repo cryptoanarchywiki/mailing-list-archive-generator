@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Blake Wehlage \<jwilk@iglou.com\><br>
+From: Blake Wehlage \<jwilk<span>@</span>iglou.com\><br>
 To: Alan Horowitz \<jimbell@pacifier.com\><br>
 Message Hash: c01a40dc8b2ca4a633a1f8c8b1e2ee4ad147ab0d5deafd83cba2a4c7f90f36c1<br>
 Message ID: \<m0uQOnZ-000388C@mail.iglou.com\><br>
@@ -65,6 +65,8 @@ Current Girlfriend(s)- Lindsey Wilcox, Laura Schubring
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[Blake Wehlage <jwilk<span>@</span>iglou.com>](/author/blake_wehlage_jwilk_at_iglou_com_)"
 
 + 1996-06-03 (Mon, 3 Jun 1996 13:03:30 +0800) - Re: [Off-Topic] "Curfews" - _Blake Wehlage \<jwilk@iglou.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ole_jacobsen_olejac_at_post4_tele_dk_
+post_count: 1
 ---
 
-# Ole Jacobsen <olejac@post4.tele.dk> (1 posts)
+# Ole Jacobsen <olejac<span>@</span>post4.tele.dk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

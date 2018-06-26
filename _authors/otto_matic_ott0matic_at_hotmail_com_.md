@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: otto_matic_ott0matic_at_hotmail_com_
+post_count: 16
 ---
 
-# "Otto Matic" <ott0matic@hotmail.com> (16 posts)
+# "Otto Matic" <ott0matic<span>@</span>hotmail.com> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

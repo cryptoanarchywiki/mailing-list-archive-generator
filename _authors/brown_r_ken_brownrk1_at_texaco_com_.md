@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brown_r_ken_brownrk1_at_texaco_com_
+post_count: 50
 ---
 
-# "Brown, R Ken" <brownrk1@texaco.com> (50 posts)
+# "Brown, R Ken" <brownrk1<span>@</span>texaco.com> (50 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

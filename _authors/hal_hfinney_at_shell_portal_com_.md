@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hal_hfinney_at_shell_portal_com_
+post_count: 542
 ---
 
-# Hal <hfinney@shell.portal.com> (542 posts)
+# Hal <hfinney<span>@</span>shell.portal.com> (542 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

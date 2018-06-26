@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: urban_nilsson_d7urban_at_dtek_chalmers_se_
+post_count: 4
 ---
 
-# Urban Nilsson <d7urban@dtek.chalmers.se> (4 posts)
+# Urban Nilsson <d7urban<span>@</span>dtek.chalmers.se> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

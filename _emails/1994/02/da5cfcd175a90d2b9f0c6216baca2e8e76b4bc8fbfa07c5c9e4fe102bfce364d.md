@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: David Michel \<davidm@smtplink.chey.com\><br>
+From: David Michel \<davidm<span>@</span>smtplink.chey.com\><br>
 To: jdblair@nextsrv.cas.muohio.edu<br>
 Message Hash: da5cfcd175a90d2b9f0c6216baca2e8e76b4bc8fbfa07c5c9e4fe102bfce364d<br>
 Message ID: \<9402040948.A03416@smtplink.chey.com\><br>
@@ -43,6 +43,8 @@ davidm@chey.com
 ## Thread
 
 + Return to [February 1994](/archive/1994/02)
+
++ Return to "[David Michel <davidm<span>@</span>smtplink.chey.com>](/author/david_michel_davidm_at_smtplink_chey_com_)"
 
 + 1994-02-04 (Fri, 4 Feb 94 06:49:50 PST) - Re: Prodigy Hard Drive Scans - _David Michel \<davidm@smtplink.chey.com\>_
 

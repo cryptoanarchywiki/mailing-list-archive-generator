@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Don \<don@cs.byu.edu\><br>
+From: Don \<don<span>@</span>cs.byu.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 6eff57592ee7052d936db9cbf0fae42dbbccf77f202ba53b9effe7cfa2e20eab<br>
 Message ID: \<ML-2.0.823490857.8565.don@wero.cs.byu.edu\><br>
@@ -61,6 +61,9 @@ PS: ObNukes: None.
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[Don <don<span>@</span>cs.byu.edu>](/author/don_don_at_cs_byu_edu_)"
 
 + 1996-02-05 (Mon, 5 Feb 1996 21:12:27 +0800) - Nyms with keys - _Don \<don@cs.byu.edu\>_
   + 1996-02-09 (Sat, 10 Feb 1996 06:10:47 +0800) - [Re: Nyms with keys](/archive/1996/02/470a311367728abd935cafa52e13a1f6370fb74fedaddd35ea5c3fc3c469e9cd) - _Black Unicorn \<unicorn@schloss.li\>_

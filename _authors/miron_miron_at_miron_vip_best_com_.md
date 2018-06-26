@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: miron_miron_at_miron_vip_best_com_
+post_count: 1
 ---
 
-# Miron <miron@miron.vip.best.com> (1 posts)
+# Miron <miron<span>@</span>miron.vip.best.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

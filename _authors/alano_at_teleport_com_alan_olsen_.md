@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alano_at_teleport_com_alan_olsen_
+post_count: 13
 ---
 
-# alano@teleport.com (Alan Olsen) (13 posts)
+# alano<span>@</span>teleport.com (Alan Olsen) (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

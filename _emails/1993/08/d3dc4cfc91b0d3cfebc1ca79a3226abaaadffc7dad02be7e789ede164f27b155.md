@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: collins@newton.apple.com (Scott Collins)<br>
+From: collins<span>@</span>newton.apple.com (Scott Collins)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: d3dc4cfc91b0d3cfebc1ca79a3226abaaadffc7dad02be7e789ede164f27b155<br>
 Message ID: \<9308302050.AA17798@newton.apple.com\><br>
@@ -84,6 +84,9 @@ PERSONAL.   voice/fax:408.257.1746    1024:669687   catalyst@netcom.com
 ## Thread
 
 + Return to [August 1993](/archive/1993/08)
+
++ Return to "[collins<span>@</span>newton.apple.com (Scott Collins)](/author/collins_at_newton_apple_com_scott_collins_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1993-08-30 (Mon, 30 Aug 93 13:58:50 PDT) - Re: Apple+Clipper - _collins@newton.apple.com (Scott Collins)_
   + 1993-08-31 (Mon, 30 Aug 93 19:23:51 PDT) - [Re: Apple+Clipper](/archive/1993/08/2e4f773baa52c88736050bdfa24c9b2cb822436ac1b16e2a2be5ab9df785e390) - _tcmay@netcom.com (Timothy C. May)_

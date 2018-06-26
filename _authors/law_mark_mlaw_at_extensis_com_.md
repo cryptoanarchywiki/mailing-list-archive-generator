@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: law_mark_mlaw_at_extensis_com_
+post_count: 1
 ---
 
-# "Law, Mark" <MLaw@extensis.com> (1 posts)
+# "Law, Mark" <MLaw<span>@</span>extensis.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

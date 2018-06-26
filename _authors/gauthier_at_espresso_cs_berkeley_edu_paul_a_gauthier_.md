@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gauthier_at_espresso_cs_berkeley_edu_paul_a_gauthier_
+post_count: 1
 ---
 
-# gauthier@espresso.CS.Berkeley.EDU (Paul_A Gauthier) (1 posts)
+# gauthier<span>@</span>espresso.CS.Berkeley.EDU (Paul_A Gauthier) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

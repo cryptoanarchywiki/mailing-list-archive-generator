@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kibo_kibo_at_thecia_net_
+post_count: 2
 ---
 
-# kibo <kibo@thecia.net> (2 posts)
+# kibo <kibo<span>@</span>thecia.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_k_engdahl_daniel_engdahl_at_abc_se_
+post_count: 1
 ---
 
-# Daniel K Engdahl <daniel.engdahl@abc.se> (1 posts)
+# Daniel K Engdahl <daniel.engdahl<span>@</span>abc.se> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

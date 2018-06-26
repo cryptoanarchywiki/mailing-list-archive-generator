@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0b006e1ca6acab8eace6f2bbeaee12bdeaddbee072a84def1cc7910f9fb3d2bf<br>
 Message ID: \<2.2.32.19960625211952.0097c780@popserver.panix.com\><br>
@@ -66,6 +66,9 @@ DCF
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[sameer<span>@</span>c2.org](/author/sameer_at_c2_org)"
 
 + 1996-06-26 (Wed, 26 Jun 1996 11:22:00 +0800) - Re: AT&T bans anonymous messages - _Duncan Frissell \<frissell@panix.com\>_
   + 1996-06-26 (Wed, 26 Jun 1996 11:37:13 +0800) - [Re: AT&T bans anonymous messages](/archive/1996/06/2bec6981794f1a8977f8c8b394493a0841fc121135eeafd0fd58a87ee18a4c83) - _sameer@c2.org_

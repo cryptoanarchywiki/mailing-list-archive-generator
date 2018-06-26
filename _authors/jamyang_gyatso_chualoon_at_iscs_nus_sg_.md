@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jamyang_gyatso_chualoon_at_iscs_nus_sg_
+post_count: 1
 ---
 
-# Jamyang Gyatso <chualoon@iscs.nus.sg> (1 posts)
+# Jamyang Gyatso <chualoon<span>@</span>iscs.nus.sg> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

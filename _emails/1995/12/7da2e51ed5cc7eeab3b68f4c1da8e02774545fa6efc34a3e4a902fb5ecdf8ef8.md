@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: futplex@pseudonym.com (Futplex)<br>
+From: futplex<span>@</span>pseudonym.com (Futplex)<br>
 To: cypherpunks@toad.com (Cypherpunks Mailing List)<br>
 Message Hash: 7da2e51ed5cc7eeab3b68f4c1da8e02774545fa6efc34a3e4a902fb5ecdf8ef8<br>
 Message ID: \<199512112229.RAA27787@thor.cs.umass.edu\><br>
@@ -68,6 +68,9 @@ game is up.
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Daniel Miskell <DMiskell<span>@</span>envirolink.org>](/author/daniel_miskell_dmiskell_at_envirolink_org_)"
++ Return to "[futplex<span>@</span>pseudonym.com (Futplex)](/author/futplex_at_pseudonym_com_futplex_)"
 
 + 1995-12-11 (Tue, 12 Dec 1995 04:41:18 +0800) - [Re: The Elevator Problem](/archive/1995/12/08de5b639870cc07199f556d016fef67701c20a8ac8d439b07bccdd754453316) - _Daniel Miskell \<DMiskell@envirolink.org\>_
   + 1995-12-12 (Wed, 13 Dec 1995 05:54:07 +0800) - Re: The Elevator Problem - _futplex@pseudonym.com (Futplex)_

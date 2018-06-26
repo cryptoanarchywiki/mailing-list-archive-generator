@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jkthomson \<jkthomson@bigfoot.com\><br>
+From: jkthomson \<jkthomson<span>@</span>bigfoot.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 4f0fff0f8a1e34b90cb62b2bef6dc6fc2ed1b94a86a16ac605e7babc0ce5a854<br>
 Message ID: \<3.0.3.32.19981106210608.00956390@dowco.com\><br>
@@ -70,6 +70,8 @@ encryption would be stupid enough to choose DES
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[jkthomson <jkthomson<span>@</span>bigfoot.com>](/author/jkthomson_jkthomson_at_bigfoot_com_)"
 
 + 1998-11-07 (Sat, 7 Nov 1998 13:38:35 +0800) - verisign digital id's for outlook <shudder> - _jkthomson \<jkthomson@bigfoot.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jukka_kotovirta_jukka_kotovirta_at_datafellows_com_
+post_count: 1
 ---
 
-# Jukka Kotovirta <Jukka.Kotovirta@DataFellows.com> (1 posts)
+# Jukka Kotovirta <Jukka.Kotovirta<span>@</span>DataFellows.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

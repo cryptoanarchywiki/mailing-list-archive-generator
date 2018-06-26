@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 33c234f5ec1362fbae6ded0e366e5d77db33bfd8c6b394bfdbfb96976fcee8df<br>
 Message ID: \<199512062336.PAA14035@ix6.ix.netcom.com\><br>
@@ -84,6 +84,8 @@ car phone to say you'll be a bit late dropping off the secret plans.
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1995-12-06 (Wed, 6 Dec 95 15:35:34 PST) - Re: NIST GAK export meeting, short version - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

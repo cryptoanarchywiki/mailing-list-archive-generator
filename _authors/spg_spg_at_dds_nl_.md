@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: spg_spg_at_dds_nl_
+post_count: 1
 ---
 
-# SPG <spg@dds.nl> (1 posts)
+# SPG <spg<span>@</span>dds.nl> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

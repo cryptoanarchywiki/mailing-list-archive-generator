@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: poier_at_sfu_ca_nabaron_feydrautha_harkonnen_
+post_count: 4
 ---
 
-# poier@sfu.ca (na-Baron Feyd-Rautha Harkonnen) (4 posts)
+# poier<span>@</span>sfu.ca (na-Baron Feyd-Rautha Harkonnen) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

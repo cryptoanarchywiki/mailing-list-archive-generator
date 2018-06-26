@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kermit69_kermit69_at_10mb_com_
+post_count: 1
 ---
 
-# Kermit69 <kermit69@10mb.com> (1 posts)
+# Kermit69 <kermit69<span>@</span>10mb.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

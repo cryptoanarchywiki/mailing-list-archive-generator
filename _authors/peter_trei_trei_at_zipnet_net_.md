@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_trei_trei_at_zipnet_net_
+post_count: 1
 ---
 
-# Peter Trei <trei@zipnet.net> (1 posts)
+# Peter Trei <trei<span>@</span>zipnet.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

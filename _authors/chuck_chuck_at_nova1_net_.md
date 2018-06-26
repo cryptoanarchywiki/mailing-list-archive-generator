@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chuck_chuck_at_nova1_net_
+post_count: 1
 ---
 
-# Chuck <chuck@nova1.net> (1 posts)
+# Chuck <chuck<span>@</span>nova1.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

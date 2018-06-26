@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cg_at_bofh_lake_de_cees_de_groot_
+post_count: 5
 ---
 
-# cg@bofh.lake.de (Cees de Groot) (5 posts)
+# cg<span>@</span>bofh.lake.de (Cees de Groot) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

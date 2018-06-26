@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: decius_decius_at_r42h17_res_gatech_edu_
+post_count: 1
 ---
 
-# Decius <decius@r42h17.res.gatech.edu> (1 posts)
+# Decius <decius<span>@</span>r42h17.res.gatech.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

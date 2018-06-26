@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vipul_ved_prakash_vipul_at_pobox_com_
+post_count: 56
 ---
 
-# Vipul Ved Prakash <vipul@pobox.com> (56 posts)
+# Vipul Ved Prakash <vipul<span>@</span>pobox.com> (56 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

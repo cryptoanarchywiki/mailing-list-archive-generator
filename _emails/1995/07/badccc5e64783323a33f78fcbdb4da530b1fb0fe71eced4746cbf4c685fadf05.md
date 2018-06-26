@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: badccc5e64783323a33f78fcbdb4da530b1fb0fe71eced4746cbf4c685fadf05<br>
 Message ID: \<199507311910.PAA20121@pipe1.nyc.pipeline.com\><br>
@@ -96,6 +96,9 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "["Quazi F. Haque" <qfh1<span>@</span>crux3.cit.cornell.edu>](/author/quazi_f_haque_qfh1_at_crux3_cit_cornell_edu_)"
 
 + 1995-07-31 (Mon, 31 Jul 95 12:10:31 PDT) - LOG_rol - _John Young \<jya@pipeline.com\>_
   + 1995-07-31 (Mon, 31 Jul 95 14:40:33 PDT) - [Re: LOG_rol](/archive/1995/07/55578fa4db7291796dbd1f543a2ee8f8887b6ad614b8ab8490b5d7547c7bb013) - _"Quazi F. Haque" \<qfh1@crux3.cit.cornell.edu\>_

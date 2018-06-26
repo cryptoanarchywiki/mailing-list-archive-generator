@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: almika_bap_at_po_cwru_edu_
+post_count: 1
 ---
 
-# almika <bap@po.cwru.edu> (1 posts)
+# almika <bap<span>@</span>po.cwru.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

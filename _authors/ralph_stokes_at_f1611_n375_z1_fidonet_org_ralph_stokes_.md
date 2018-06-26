@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ralph_stokes_at_f1611_n375_z1_fidonet_org_ralph_stokes_
+post_count: 1
 ---
 
-# Ralph.Stokes@f1611.n375.z1.fidonet.org (Ralph Stokes) (1 posts)
+# Ralph.Stokes<span>@</span>f1611.n375.z1.fidonet.org (Ralph Stokes) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

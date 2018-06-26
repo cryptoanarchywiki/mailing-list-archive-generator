@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dfickes_at_advice_com_david_fickes_
+post_count: 1
 ---
 
-# dfickes@advice.com (David Fickes) (1 posts)
+# dfickes<span>@</span>advice.com (David Fickes) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

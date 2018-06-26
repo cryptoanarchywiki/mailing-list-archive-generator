@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cs5549_at_conrad_appstate_edu
+post_count: 1
 ---
 
-# CS5549@conrad.appstate.edu (1 posts)
+# CS5549<span>@</span>conrad.appstate.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

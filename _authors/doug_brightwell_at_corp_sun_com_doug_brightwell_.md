@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doug_brightwell_at_corp_sun_com_doug_brightwell_
+post_count: 6
 ---
 
-# Doug.Brightwell@Corp.Sun.COM (Doug Brightwell) (6 posts)
+# Doug.Brightwell<span>@</span>Corp.Sun.COM (Doug Brightwell) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

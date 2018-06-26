@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ohara_walter_oharaw_at_jmb_ads_com_
+post_count: 1
 ---
 
-# O'Hara Walter <oharaw@jmb.ads.com> (1 posts)
+# O'Hara Walter <oharaw<span>@</span>jmb.ads.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

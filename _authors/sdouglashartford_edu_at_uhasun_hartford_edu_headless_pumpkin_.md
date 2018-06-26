@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sdouglashartford_edu_at_uhasun_hartford_edu_headless_pumpkin_
+post_count: 1
 ---
 
-# sdouglas%hartford.edu@uhasun.hartford.edu (Headless Pumpkin) (1 posts)
+# sdouglas%hartford.edu<span>@</span>uhasun.hartford.edu (Headless Pumpkin) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

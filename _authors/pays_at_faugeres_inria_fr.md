@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pays_at_faugeres_inria_fr
+post_count: 1
 ---
 
-# pays@faugeres.inria.fr (1 posts)
+# pays<span>@</span>faugeres.inria.fr (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

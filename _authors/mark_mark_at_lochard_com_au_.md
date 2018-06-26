@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_mark_at_lochard_com_au_
+post_count: 36
 ---
 
-# Mark <mark@lochard.com.au> (36 posts)
+# Mark <mark<span>@</span>lochard.com.au> (36 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

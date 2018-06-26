@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: anali \<anali@slt.lk\><br>
+From: anali \<anali<span>@</span>slt.lk\><br>
 To: "dan@siri.org\><br>
 Message Hash: 2d84ecc21a33dbcf6a629cdf6aeddd26bdedab561fe53e2826f9e5ae6557bd24<br>
 Message ID: \<1.5.4.16.19981230213844.2d2fe0fe@slt.lk\><br>
@@ -254,6 +254,8 @@ E.Mail: anali@slt.lk
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[anali <anali<span>@</span>slt.lk>](/author/anali_anali_at_slt_lk_)"
 
 + 1998-12-30 (Thu, 31 Dec 1998 00:25:37 +0800) - Happy New Year 1999 - Export Trade - _anali \<anali@slt.lk\>_
 

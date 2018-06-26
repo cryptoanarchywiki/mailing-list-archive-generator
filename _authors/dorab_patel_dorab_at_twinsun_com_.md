@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dorab_patel_dorab_at_twinsun_com_
+post_count: 2
 ---
 
-# Dorab Patel <dorab@twinsun.com> (2 posts)
+# Dorab Patel <dorab<span>@</span>twinsun.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

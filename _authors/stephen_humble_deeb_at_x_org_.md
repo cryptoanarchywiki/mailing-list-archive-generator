@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephen_humble_deeb_at_x_org_
+post_count: 3
 ---
 
-# Stephen Humble <deeb@x.org> (3 posts)
+# Stephen Humble <deeb<span>@</span>x.org> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

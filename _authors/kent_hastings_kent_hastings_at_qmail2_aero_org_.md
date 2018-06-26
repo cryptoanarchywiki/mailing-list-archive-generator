@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kent_hastings_kent_hastings_at_qmail2_aero_org_
+post_count: 16
 ---
 
-# "Kent Hastings" <kent_hastings@qmail2.aero.org> (16 posts)
+# "Kent Hastings" <kent_hastings<span>@</span>qmail2.aero.org> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

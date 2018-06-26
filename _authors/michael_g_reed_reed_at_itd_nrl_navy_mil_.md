@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_g_reed_reed_at_itd_nrl_navy_mil_
+post_count: 2
 ---
 
-# "Michael G. Reed" <reed@itd.nrl.navy.mil> (2 posts)
+# "Michael G. Reed" <reed<span>@</span>itd.nrl.navy.mil> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

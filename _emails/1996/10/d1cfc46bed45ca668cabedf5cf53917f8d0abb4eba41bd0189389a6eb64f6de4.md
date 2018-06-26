@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: d1cfc46bed45ca668cabedf5cf53917f8d0abb4eba41bd0189389a6eb64f6de4<br>
 Message ID: \<1.5.4.32.19961017215404.00664b1c@pop.pipeline.com\><br>
@@ -72,6 +72,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1996-10-17 (Thu, 17 Oct 1996 14:54:35 -0700 (PDT)) - EUP_hem - _John Young \<jya@pipeline.com\>_
 

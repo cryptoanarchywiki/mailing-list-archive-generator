@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: sdudar@solutions.net<br>
+From: sdudar<span>@</span>solutions.net<br>
 To: "John A. Perry" \<perry@alpha.jpunix.com\><br>
 Message Hash: a7d8850ae77bebefe2624c8b80ecba468048af6a1ace09fbaeeef9bbf91d36ae<br>
 Message ID: \<2.2.16.19960617134123.4e17463c@mail.solutions.net\><br>
@@ -65,6 +65,9 @@ At 06:14 PM 6/16/96 -0500, you wrote:
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "["John A. Perry" <perry<span>@</span>alpha.jpunix.com>](/author/john_a_perry_perry_at_alpha_jpunix_com_)"
++ Return to "[sdudar<span>@</span>solutions.net](/author/sdudar_at_solutions_net)"
 
 + 1996-06-18 (Tue, 18 Jun 1996 10:32:02 +0800) - Re: alpha.c2.org in deep shit? - _sdudar@solutions.net_
   + 1996-06-18 (Tue, 18 Jun 1996 22:50:32 +0800) - [Re: alpha.c2.org in deep shit?](/archive/1996/06/ca2e403928e45ad722a88f082ed0a74c63a2ec119e810ca888c980abacbac3ec) - _"John A. Perry" \<perry@alpha.jpunix.com\>_

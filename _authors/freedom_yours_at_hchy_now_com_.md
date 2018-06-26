@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: freedom_yours_at_hchy_now_com_
+post_count: 1
 ---
 
-# Freedom<Yours@HCHY.Now.com> (1 posts)
+# Freedom<Yours<span>@</span>HCHY.Now.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

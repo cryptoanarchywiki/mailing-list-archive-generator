@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: claudel_at_netcom_com_claude_v_lucas_
+post_count: 1
 ---
 
-# claudel@netcom.com (Claude V. Lucas) (1 posts)
+# claudel<span>@</span>netcom.com (Claude V. Lucas) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mailerdaemon_at_grimsel_frcs_alt_za
+post_count: 1
 ---
 
-# MAILER-DAEMON@grimsel.frcs.alt.za (1 posts)
+# MAILER-DAEMON<span>@</span>grimsel.frcs.alt.za (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: szarac_at_guvax_acc_georgetown_edu
+post_count: 1
 ---
 
-# SZARAC@guvax.acc.georgetown.edu (1 posts)
+# SZARAC<span>@</span>guvax.acc.georgetown.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dave Otto (the Wizard of TOTOSoft) \<dave@marvin.jta.edd.ca.gov\><br>
+From: Dave Otto (the Wizard of TOTOSoft) \<dave<span>@</span>marvin.jta.edd.ca.gov\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 1da9cf78ccbcd95d09dca4345bce99cb0ab24dc58c6e4ac2ccdd8407b38b3d7d<br>
 Message ID: \<9404291619.AA16742@marvin.jta.edd.ca.gov\><br>
@@ -67,6 +67,8 @@ entrepreneurs, financially successful and *ACTIVE*.)
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Dave Otto (the Wizard of TOTOSoft) <dave<span>@</span>marvin.jta.edd.ca.gov>](/author/dave_otto_the_wizard_of_totosoft_dave_at_marvin_jta_edd_ca_gov_)"
 
 + 1994-04-29 (Fri, 29 Apr 94 09:20:00 PDT) - RE: C'Punk list - _Dave Otto (the Wizard of TOTOSoft) \<dave@marvin.jta.edd.ca.gov\>_
 

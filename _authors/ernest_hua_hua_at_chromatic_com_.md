@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ernest_hua_hua_at_chromatic_com_
+post_count: 83
 ---
 
-# Ernest Hua <hua@chromatic.com> (83 posts)
+# Ernest Hua <hua<span>@</span>chromatic.com> (83 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

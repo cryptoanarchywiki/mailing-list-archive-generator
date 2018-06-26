@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hal_finney_hal_at_rain_org_
+post_count: 63
 ---
 
-# Hal Finney <hal@rain.org> (63 posts)
+# Hal Finney <hal<span>@</span>rain.org> (63 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

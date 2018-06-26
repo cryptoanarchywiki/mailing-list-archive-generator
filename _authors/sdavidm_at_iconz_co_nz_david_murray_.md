@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sdavidm_at_iconz_co_nz_david_murray_
+post_count: 7
 ---
 
-# sdavidm@iconz.co.nz (David Murray) (7 posts)
+# sdavidm<span>@</span>iconz.co.nz (David Murray) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pg3448_at_csc_albany_edu_harbinger_
+post_count: 1
 ---
 
-# pg3448@csc.albany.edu (Harbinger ) (1 posts)
+# pg3448<span>@</span>csc.albany.edu (Harbinger ) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@EINSTEIN.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>EINSTEIN.ssz.com\><br>
 To: cypherpunks@EINSTEIN.ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: c6c1a2bef409ae2b8e7623b4ede34ba9f87bf1ccc96b2e58caa8195dedfe25ca<br>
 Message ID: \<199811052212.QAA14923@einstein.ssz.com\><br>
@@ -177,6 +177,8 @@ violence.
 ## Thread
 
 + Return to [November 1998](/archive/1998/11)
+
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-11-05 (Fri, 6 Nov 1998 06:46:59 +0800) - RE: dbts: Privacy Fetishes, Perfect Competition, and the Foregone (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

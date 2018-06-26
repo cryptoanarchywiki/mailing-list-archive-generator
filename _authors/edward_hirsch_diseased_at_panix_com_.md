@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edward_hirsch_diseased_at_panix_com_
+post_count: 4
 ---
 
-# Edward Hirsch <diseased@panix.com> (4 posts)
+# Edward Hirsch <diseased<span>@</span>panix.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@huge.cajones.com (Huge Cajones Remailer)<br>
+From: nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ee53bcf195f8f6ab6d4128cd7c211b3648ef7af1f8bfefa1037eaf062bcfe4ad<br>
 Message ID: \<199702092209.OAA27719@mailmasher.com\><br>
@@ -46,6 +46,8 @@ AIDS infected lovers.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/author/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
 
 + 1997-02-09 (Sun, 9 Feb 1997 14:09:17 -0800 (PST)) - Re: [PVT] Export restrictions - _nobody@huge.cajones.com (Huge Cajones Remailer)_
 

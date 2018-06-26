@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jota_at_iguana_inesc_pt_joao_pedro_martins_
+post_count: 1
 ---
 
-# jota@iguana.inesc.pt (Joao Pedro Martins) (1 posts)
+# jota<span>@</span>iguana.inesc.pt (Joao Pedro Martins) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

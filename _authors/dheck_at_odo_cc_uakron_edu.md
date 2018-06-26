@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dheck_at_odo_cc_uakron_edu
+post_count: 1
 ---
 
-# dheck@odo.cc.uakron.edu (1 posts)
+# dheck<span>@</span>odo.cc.uakron.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

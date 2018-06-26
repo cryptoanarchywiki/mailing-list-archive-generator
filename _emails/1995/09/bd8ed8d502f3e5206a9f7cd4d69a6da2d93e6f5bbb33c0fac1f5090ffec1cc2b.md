@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: bd8ed8d502f3e5206a9f7cd4d69a6da2d93e6f5bbb33c0fac1f5090ffec1cc2b<br>
 Message ID: \<ac7376ea1a0210046d3c@[205.199.118.202]\><br>
@@ -95,6 +95,8 @@ Higher Power: 2^756839      | black markets, collapse of governments.
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1995-09-06 (Wed, 6 Sep 95 16:09:51 PDT) - Re: Collection of personal info - _tcmay@got.net (Timothy C. May)_
 

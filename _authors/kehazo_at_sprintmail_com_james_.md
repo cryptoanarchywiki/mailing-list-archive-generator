@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kehazo_at_sprintmail_com_james_
+post_count: 1
 ---
 
-# kehazo@sprintmail.com (James) (1 posts)
+# kehazo<span>@</span>sprintmail.com (James) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

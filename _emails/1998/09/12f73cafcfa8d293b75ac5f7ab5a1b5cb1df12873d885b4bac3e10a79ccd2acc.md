@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Matthew James Gering \<mgering@ecosystems.net\><br>
+From: Matthew James Gering \<mgering<span>@</span>ecosystems.net\><br>
 To: "Cypherpunks (E-mail)" \<cypherpunks@cyberpass.net\><br>
 Message Hash: 12f73cafcfa8d293b75ac5f7ab5a1b5cb1df12873d885b4bac3e10a79ccd2acc<br>
 Message ID: \<33CCFE438B9DD01192E800A024C84A19284706@mossbay.chaffeyhomes.com\><br>
@@ -132,6 +132,8 @@ that could make open source viable.
 ## Thread
 
 + Return to [September 1998](/archive/1998/09)
+
++ Return to "[Matthew James Gering <mgering<span>@</span>ecosystems.net>](/author/matthew_james_gering_mgering_at_ecosystems_net_)"
 
 + 1998-09-29 (Wed, 30 Sep 1998 03:18:47 +0800) - RE: GPL & commercial software, the critical distinction (fwd) - _Matthew James Gering \<mgering@ecosystems.net\>_
 

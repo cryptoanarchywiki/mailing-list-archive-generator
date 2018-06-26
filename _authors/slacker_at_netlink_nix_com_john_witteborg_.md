@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: slacker_at_netlink_nix_com_john_witteborg_
+post_count: 1
 ---
 
-# slacker@netlink.nix.com (John Witteborg) (1 posts)
+# slacker<span>@</span>netlink.nix.com (John Witteborg) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

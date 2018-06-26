@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mnemonic_at_eff_org
+post_count: 1
 ---
 
-# mnemonic@eff.org (1 posts)
+# mnemonic<span>@</span>eff.org (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

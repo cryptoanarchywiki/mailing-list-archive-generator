@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: harka_23_suck_my_root_at_dosequis_cum_
+post_count: 1
 ---
 
-# Harka #23 <suck_my_root@DosEquis.cum> (1 posts)
+# Harka #23 <suck_my_root<span>@</span>DosEquis.cum> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

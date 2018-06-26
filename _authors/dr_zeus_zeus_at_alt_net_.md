@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dr_zeus_zeus_at_alt_net_
+post_count: 4
 ---
 
-# "Dr. Zeus" <zeus@alt.net> (4 posts)
+# "Dr. Zeus" <zeus<span>@</span>alt.net> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

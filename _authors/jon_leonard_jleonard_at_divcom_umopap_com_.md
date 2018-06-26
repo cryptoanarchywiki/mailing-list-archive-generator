@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jon_leonard_jleonard_at_divcom_umopap_com_
+post_count: 18
 ---
 
-# Jon Leonard <jleonard@divcom.umop-ap.com> (18 posts)
+# Jon Leonard <jleonard<span>@</span>divcom.umop-ap.com> (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: cb2f1b4e905b82aa74a27eabce67ed5ba6d489ca9feafe12c4eb6fe88efc2641<br>
 Message ID: \<199411291929.OAA05687@pipe3.pipeline.com\><br>
@@ -263,6 +263,8 @@ Content-Length: 1332
 ## Thread
 
 + Return to [November 1994](/archive/1994/11)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1994-11-29 (Tue, 29 Nov 94 11:30:41 PST) - Re:  Transparent Email - _John Young \<jya@pipeline.com\>_
 

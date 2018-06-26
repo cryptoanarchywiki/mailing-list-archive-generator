@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: me_root_at_cloud_cuckoo_land_
+post_count: 1
 ---
 
-# me <root@Cloud.Cuckoo.Land> (1 posts)
+# me <root<span>@</span>Cloud.Cuckoo.Land> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

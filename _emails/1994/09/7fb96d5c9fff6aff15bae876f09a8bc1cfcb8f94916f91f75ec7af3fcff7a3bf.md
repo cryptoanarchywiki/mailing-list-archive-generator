@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: GRABOW_GEOFFREY@tandem.com<br>
+From: GRABOW_GEOFFREY<span>@</span>tandem.com<br>
 To: pstemari@bismark.cbis.com<br>
 Message Hash: 7fb96d5c9fff6aff15bae876f09a8bc1cfcb8f94916f91f75ec7af3fcff7a3bf<br>
 Message ID: \<199409281646.AA14137@comm.Tandem.COM\><br>
@@ -64,6 +64,8 @@ Anyone?
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[GRABOW_GEOFFREY<span>@</span>tandem.com](/author/grabow_geoffrey_at_tandem_com)"
 
 + 1994-09-28 (Wed, 28 Sep 94 16:46:48 PDT) - Re: 3DES - _GRABOW_GEOFFREY@tandem.com_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sten_drescher_stend_at_grendel_texas_net_
+post_count: 20
 ---
 
-# Sten Drescher <stend@grendel.texas.net> (20 posts)
+# Sten Drescher <stend<span>@</span>grendel.texas.net> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cons0005_at_algonquinc_on_ca
+post_count: 1
 ---
 
-# cons0005@algonquinc.on.ca (1 posts)
+# cons0005<span>@</span>algonquinc.on.ca (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

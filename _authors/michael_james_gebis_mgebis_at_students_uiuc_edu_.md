@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_james_gebis_mgebis_at_students_uiuc_edu_
+post_count: 1
 ---
 
-# Michael James Gebis <m-gebis@students.uiuc.edu> (1 posts)
+# Michael James Gebis <m-gebis<span>@</span>students.uiuc.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

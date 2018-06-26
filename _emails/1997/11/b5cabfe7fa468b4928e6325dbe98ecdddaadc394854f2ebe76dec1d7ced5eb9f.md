@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Afriend@good-buddy-911.com<br>
+From: Afriend<span>@</span>good-buddy-911.com<br>
 To: WiseMan@Uwisefolk.com<br>
 Message Hash: b5cabfe7fa468b4928e6325dbe98ecdddaadc394854f2ebe76dec1d7ced5eb9f<br>
 Message ID: \<99556025_93313642\><br>
@@ -82,6 +82,8 @@ WE ARE VERY EXCITED ABOUT THIS AND EXPECT TO HAVE OUR LEXUS BY JAN. 1ST!
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Afriend<span>@</span>good-buddy-911.com](/author/afriend_at_goodbuddy911_com)"
 
 + 1997-11-19 (Tue, 18 Nov 1997 21:36:28 -0800 (PST)) - Best Internet Phone!! Read all about it....... - _Afriend@good-buddy-911.com_
 

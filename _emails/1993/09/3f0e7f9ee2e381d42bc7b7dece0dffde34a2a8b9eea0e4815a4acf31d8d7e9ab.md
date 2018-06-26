@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ANSPRING@delphi.com<br>
+From: ANSPRING<span>@</span>delphi.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 3f0e7f9ee2e381d42bc7b7dece0dffde34a2a8b9eea0e4815a4acf31d8d7e9ab<br>
 Message ID: \<01H35AR2BPS68ZEFI2@delphi.com\><br>
@@ -56,6 +56,9 @@ is it?
 ## Thread
 
 + Return to [September 1993](/archive/1993/09)
+
++ Return to "[ANSPRING<span>@</span>delphi.com](/author/anspring_at_delphi_com)"
++ Return to "[Mike Godwin <mnemonic<span>@</span>eff.org>](/author/mike_godwin_mnemonic_at_eff_org_)"
 
 + 1993-09-20 (Sun, 19 Sep 93 18:30:56 PDT) - Re: Restrictions on crypto exports - _ANSPRING@delphi.com_
   + 1993-09-20 (Sun, 19 Sep 93 20:35:57 PDT) - [Re: Restrictions on crypto exports](/archive/1993/09/001804e4c046424ca85fdec3f24c941a6082ad0dc900ea279ad8cd8920f33310) - _Mike Godwin \<mnemonic@eff.org\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stephen_dunne_44_715385656_sdun_at_isma_demon_co_uk_
+post_count: 2
 ---
 
-# "Stephen Dunne             (+44) 71-538-5656"    <sdun@isma.demon.co.uk> (2 posts)
+# "Stephen Dunne             (+44) 71-538-5656"    <sdun<span>@</span>isma.demon.co.uk> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

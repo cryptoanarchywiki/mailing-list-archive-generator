@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wolfgang_scherer_wolfgang_scherer_at_gmx_de_
+post_count: 1
 ---
 
-# Wolfgang Scherer <Wolfgang.Scherer@gmx.de> (1 posts)
+# Wolfgang Scherer <Wolfgang.Scherer<span>@</span>gmx.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

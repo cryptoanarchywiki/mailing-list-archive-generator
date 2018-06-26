@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alt_at_iquest_net_al_thompson_
+post_count: 11
 ---
 
-# alt@iquest.net (Al Thompson) (11 posts)
+# alt<span>@</span>iquest.net (Al Thompson) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

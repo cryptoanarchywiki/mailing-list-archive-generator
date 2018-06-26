@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bhayes_at_cs_stanford_edu
+post_count: 1
 ---
 
-# bhayes@CS.Stanford.EDU (1 posts)
+# bhayes<span>@</span>CS.Stanford.EDU (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

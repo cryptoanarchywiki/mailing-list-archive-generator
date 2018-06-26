@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_ellsworth_mellswor_at_firewall_nielsen_com_
+post_count: 1
 ---
 
-# Mike Ellsworth <mellswor@firewall.nielsen.com> (1 posts)
+# Mike Ellsworth <mellswor<span>@</span>firewall.nielsen.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

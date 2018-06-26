@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_camp_b093161c_at_bc_seflin_org_
+post_count: 1
 ---
 
-# Michael Camp <b093161c@bc.seflin.org> (1 posts)
+# Michael Camp <b093161c<span>@</span>bc.seflin.org> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

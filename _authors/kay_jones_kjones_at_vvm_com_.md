@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kay_jones_kjones_at_vvm_com_
+post_count: 2
 ---
 
-# Kay Jones <kjones@vvm.com> (2 posts)
+# Kay Jones <kjones<span>@</span>vvm.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

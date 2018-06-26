@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brian_a_lamacchia_bal_at_freeside_cs_colorado_edu_
+post_count: 1
 ---
 
-# "Brian A. LaMacchia" <bal@freeside.cs.colorado.edu> (1 posts)
+# "Brian A. LaMacchia" <bal<span>@</span>freeside.cs.colorado.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

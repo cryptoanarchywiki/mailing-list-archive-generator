@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qydzs7g6b_at_netshel_net
+post_count: 1
 ---
 
-# qyDZS7G6b@netshel.net (1 posts)
+# qyDZS7G6b<span>@</span>netshel.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

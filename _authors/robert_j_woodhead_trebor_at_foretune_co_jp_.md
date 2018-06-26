@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_j_woodhead_trebor_at_foretune_co_jp_
+post_count: 35
 ---
 
-# "Robert J. Woodhead" <trebor@foretune.co.jp> (35 posts)
+# "Robert J. Woodhead" <trebor<span>@</span>foretune.co.jp> (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

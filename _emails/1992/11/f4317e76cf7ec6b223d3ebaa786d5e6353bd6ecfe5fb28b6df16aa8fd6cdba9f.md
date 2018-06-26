@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: yanek@novavax.nova.edu (Yanek Martinson)<br>
+From: yanek<span>@</span>novavax.nova.edu (Yanek Martinson)<br>
 To: karn@qualcomm.com (Phil Karn)<br>
 Message Hash: f4317e76cf7ec6b223d3ebaa786d5e6353bd6ecfe5fb28b6df16aa8fd6cdba9f<br>
 Message ID: \<9211280343.AA07573@novavax.nova.edu\><br>
@@ -152,6 +152,9 @@ Phone (305) 765-6300 daytime   FAX: (305) 765-6708  1321 N 65 Way/Hollywood
 ## Thread
 
 + Return to [November 1992](/archive/1992/11)
+
++ Return to "[karn<span>@</span>qualcomm.com (Phil Karn)](/author/karn_at_qualcomm_com_phil_karn_)"
++ Return to "[yanek<span>@</span>novavax.nova.edu (Yanek Martinson)](/author/yanek_at_novavax_nova_edu_yanek_martinson_)"
 
 + 1992-11-28 (Fri, 27 Nov 92 18:49:41 PST) - [Re: More comments on dongles](/archive/1992/11/7d25aa61587f97f0d78c37e496c31fcbff8f3f30f0ca4b2f37b920fae653cc7c) - _karn@qualcomm.com (Phil Karn)_
   + 1992-11-28 (Fri, 27 Nov 92 19:43:52 PST) - Re: More comments on dongles - _yanek@novavax.nova.edu (Yanek Martinson)_

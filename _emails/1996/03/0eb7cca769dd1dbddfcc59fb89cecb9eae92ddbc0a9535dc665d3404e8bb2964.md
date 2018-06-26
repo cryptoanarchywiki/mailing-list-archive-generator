@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mutant Rob \<wlkngowl@unix.asb.com\><br>
+From: Mutant Rob \<wlkngowl<span>@</span>unix.asb.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0eb7cca769dd1dbddfcc59fb89cecb9eae92ddbc0a9535dc665d3404e8bb2964<br>
 Message ID: \<199603032316.SAA22404@bb.hks.net\><br>
@@ -67,6 +67,8 @@ bOAEKnlQmwhRKOxpNmBr+EpM3zoRIWWP
 ## Thread
 
 + Return to [March 1996](/archive/1996/03)
+
++ Return to "[Mutant Rob <wlkngowl<span>@</span>unix.asb.com>](/author/mutant_rob_wlkngowl_at_unix_asb_com_)"
 
 + 1996-03-07 (Fri, 8 Mar 1996 07:22:23 +0800) - Re: Truelly Random Numbers - _Mutant Rob \<wlkngowl@unix.asb.com\>_
 

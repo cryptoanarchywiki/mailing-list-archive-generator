@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: truthmonger_96_tm96_at_dev_null_
+post_count: 1
 ---
 
-# TruthMonger  #-96 <tm96@dev.null> (1 posts)
+# TruthMonger  #-96 <tm96<span>@</span>dev.null> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: yaoshiang_ho_hoding_at_soda_berkeley_edu_
+post_count: 3
 ---
 
-# Yaoshiang Ho <hoding@soda.berkeley.edu> (3 posts)
+# Yaoshiang Ho <hoding<span>@</span>soda.berkeley.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

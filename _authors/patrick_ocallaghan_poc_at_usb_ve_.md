@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_ocallaghan_poc_at_usb_ve_
+post_count: 1
 ---
 
-# Patrick O'Callaghan <poc@usb.ve> (1 posts)
+# Patrick O'Callaghan <poc<span>@</span>usb.ve> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Deranged Mutant" \<WlkngOwl@unix.asb.com\><br>
+From: "Deranged Mutant" \<WlkngOwl<span>@</span>unix.asb.com\><br>
 To: tcmay@got.net (Timothy C. May)<br>
 Message Hash: c32727effff3d1cce96ca82cd378bce77a315ebd2029aac87f1faedf8e56ae0f<br>
 Message ID: \<199607090024.UAA13729@unix.asb.com\><br>
@@ -64,6 +64,8 @@ Send a message with the subject "send pgp-key" for a copy of my key.
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/author/deranged_mutant_wlkngowl_at_unix_asb_com_)"
 
 + 1996-07-09 (Tue, 9 Jul 1996 12:07:06 +0800) - Re: Technology- vs. Human-based Surveillance - _"Deranged Mutant" \<WlkngOwl@unix.asb.com\>_
 

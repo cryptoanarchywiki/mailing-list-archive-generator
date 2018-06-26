@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fen_at_genmagic_com_fen_labalme_by_way_of_fen_at_genmagic_fen_labalme_
+post_count: 2
 ---
 
-# fen@genmagic.com (Fen Labalme) (by way of fen@genmagic (Fen Labalme)) (2 posts)
+# fen<span>@</span>genmagic.com (Fen Labalme) (by way of fen<span>@</span>genmagic (Fen Labalme)) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: r_jason_cronk_listmanager_at_orange_redmans_com_
+post_count: 2
 ---
 
-# "R. Jason Cronk" <listmanager@orange.redmans.com> (2 posts)
+# "R. Jason Cronk" <listmanager<span>@</span>orange.redmans.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

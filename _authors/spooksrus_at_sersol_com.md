@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: spooksrus_at_sersol_com
+post_count: 2
 ---
 
-# Spooks-R-Us@sersol.com (2 posts)
+# Spooks-R-Us<span>@</span>sersol.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

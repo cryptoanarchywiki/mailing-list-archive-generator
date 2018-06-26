@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Lawrence.Hughes@Software.com (Lawrence Hughes)<br>
+From: Lawrence.Hughes<span>@</span>Software.com (Lawrence Hughes)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: bd7f66d5a1856dd1f00dee8a5bd2e6cf5dd52e43cd9be984bd4f8d71edf6d69f<br>
 Message ID: \<3.0b26.32.19961029143328.00a26b30@pop-sb.software.com\><br>
@@ -76,6 +76,8 @@ their home life" - Kung Fu Tse (Confucius), roughly 500 BC
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Lawrence.Hughes<span>@</span>Software.com (Lawrence Hughes)](/author/lawrence_hughes_at_software_com_lawrence_hughes_)"
 
 + 1996-10-29 (Tue, 29 Oct 1996 14:34:12 -0800 (PST)) - Re: First Union Ahead of Curve with Sun's "JavaStation" - _Lawrence.Hughes@Software.com (Lawrence Hughes)_
 

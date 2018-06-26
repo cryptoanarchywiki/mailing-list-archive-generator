@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jay_jason_labelle_jlabelle_at_expert_cc_purdue_edu_
+post_count: 1
 ---
 
-# *****Jay Jason LaBelle***** <jlabelle@expert.cc.purdue.edu> (1 posts)
+# *****Jay Jason LaBelle***** <jlabelle<span>@</span>expert.cc.purdue.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

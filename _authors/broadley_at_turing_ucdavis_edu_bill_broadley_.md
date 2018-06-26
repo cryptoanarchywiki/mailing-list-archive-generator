@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: broadley_at_turing_ucdavis_edu_bill_broadley_
+post_count: 1
 ---
 
-# broadley@turing.ucdavis.edu (Bill Broadley) (1 posts)
+# broadley<span>@</span>turing.ucdavis.edu (Bill Broadley) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

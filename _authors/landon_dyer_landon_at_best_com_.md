@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: landon_dyer_landon_at_best_com_
+post_count: 10
 ---
 
-# landon dyer <landon@best.com> (10 posts)
+# landon dyer <landon<span>@</span>best.com> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

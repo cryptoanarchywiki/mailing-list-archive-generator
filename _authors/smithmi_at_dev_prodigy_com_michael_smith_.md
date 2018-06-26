@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: smithmi_at_dev_prodigy_com_michael_smith_
+post_count: 5
 ---
 
-# smithmi@dev.prodigy.com (Michael Smith) (5 posts)
+# smithmi<span>@</span>dev.prodigy.com (Michael Smith) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

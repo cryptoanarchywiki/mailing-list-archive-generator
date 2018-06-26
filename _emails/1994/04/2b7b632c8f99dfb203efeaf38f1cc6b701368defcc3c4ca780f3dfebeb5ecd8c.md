@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Karl Lui Barrus \<klbarrus@owlnet.rice.edu\><br>
+From: Karl Lui Barrus \<klbarrus<span>@</span>owlnet.rice.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2b7b632c8f99dfb203efeaf38f1cc6b701368defcc3c4ca780f3dfebeb5ecd8c<br>
 Message ID: \<9404040142.AA29777@seawolf.owlnet.rice.edu\><br>
@@ -61,6 +61,8 @@ kZWGC8rnKOxFlwuXamMCF8+0+3+XrGqCxD6H2WuOGVZ82nUc5fHO25nNDes0B2tp
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Karl Lui Barrus <klbarrus<span>@</span>owlnet.rice.edu>](/author/karl_lui_barrus_klbarrus_at_owlnet_rice_edu_)"
 
 + 1994-04-04 (Sun, 3 Apr 94 18:42:49 PDT) - MAIL: prank - _Karl Lui Barrus \<klbarrus@owlnet.rice.edu\>_
 

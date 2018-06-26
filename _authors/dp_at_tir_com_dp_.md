@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dp_at_tir_com_dp_
+post_count: 1
 ---
 
-# dp@tir.com (dp) (1 posts)
+# dp<span>@</span>tir.com (dp) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

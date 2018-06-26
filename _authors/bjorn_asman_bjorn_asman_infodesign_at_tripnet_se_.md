@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bjorn_asman_bjorn_asman_infodesign_at_tripnet_se_
+post_count: 2
 ---
 
-# "Bjorn Asman" <Bjorn.Asman.Info-Design@tripnet.se> (2 posts)
+# "Bjorn Asman" <Bjorn.Asman.Info-Design<span>@</span>tripnet.se> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

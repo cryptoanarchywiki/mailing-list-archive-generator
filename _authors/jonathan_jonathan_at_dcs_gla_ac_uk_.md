@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathan_jonathan_at_dcs_gla_ac_uk_
+post_count: 1
 ---
 
-# jonathan <jonathan@dcs.gla.ac.uk> (1 posts)
+# jonathan <jonathan<span>@</span>dcs.gla.ac.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

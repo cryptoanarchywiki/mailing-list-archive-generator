@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: george_t_talbot_george_at_knucklehead_phat_com_
+post_count: 1
 ---
 
-# "George T. Talbot" <george@knucklehead.phat.com> (1 posts)
+# "George T. Talbot" <george<span>@</span>knucklehead.phat.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

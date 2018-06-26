@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wa6ube_at_ix_netcom_com
+post_count: 1
 ---
 
-# wa6ube@ix.netcom.com (1 posts)
+# wa6ube<span>@</span>ix.netcom.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rabid_wombat_wombat_at_mcfeely_bsfs_org_
+post_count: 247
 ---
 
-# Rabid Wombat <wombat@mcfeely.bsfs.org> (247 posts)
+# Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org> (247 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

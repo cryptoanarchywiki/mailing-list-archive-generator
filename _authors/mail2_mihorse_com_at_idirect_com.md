@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mail2_mihorse_com_at_idirect_com
+post_count: 1
 ---
 
-# mail2.mihorse.com@idirect.com (1 posts)
+# mail2.mihorse.com<span>@</span>idirect.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

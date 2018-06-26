@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: d2fdfd8e500d4c8caba0dce6b35ae70d1ceff9ecb98cc31c0c730615a0da43f7<br>
 Message ID: \<1.5.4.32.19980110013045.006e9b2c@pop.pipeline.com\><br>
@@ -85,6 +85,8 @@ A curious parallel to the argument for Wassenaar.
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1998-01-10 (Sat, 10 Jan 1998 09:39:07 +0800) - Re: Germany not so worried about Gestapo wiretaps now - _John Young \<jya@pipeline.com\>_
 

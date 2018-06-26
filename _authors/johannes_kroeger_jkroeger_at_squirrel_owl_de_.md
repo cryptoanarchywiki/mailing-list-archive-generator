@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: johannes_kroeger_jkroeger_at_squirrel_owl_de_
+post_count: 4
 ---
 
-# Johannes Kroeger <jkroeger@squirrel.owl.de> (4 posts)
+# Johannes Kroeger <jkroeger<span>@</span>squirrel.owl.de> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

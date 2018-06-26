@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_nicol__vrl__broomstick_productions_nicol_at_highway1_com_au_
+post_count: 7
 ---
 
-# "Peter Nicol - VRL / BroomStick Productions" <nicol@highway1.com.au> (7 posts)
+# "Peter Nicol - VRL / BroomStick Productions" <nicol<span>@</span>highway1.com.au> (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

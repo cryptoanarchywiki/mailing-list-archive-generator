@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_claborne_chris_claborne_at_sandiego_attgis_com_
+post_count: 3
 ---
 
-# Chris Claborne <Chris.Claborne@SanDiego.ATTGIS.COM> (3 posts)
+# Chris Claborne <Chris.Claborne<span>@</span>SanDiego.ATTGIS.COM> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

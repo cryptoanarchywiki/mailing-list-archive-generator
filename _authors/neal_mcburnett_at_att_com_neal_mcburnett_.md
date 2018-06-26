@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: neal_mcburnett_at_att_com_neal_mcburnett_
+post_count: 1
 ---
 
-# Neal.McBurnett@att.com (Neal McBurnett) (1 posts)
+# Neal.McBurnett<span>@</span>att.com (Neal McBurnett) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

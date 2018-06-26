@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: leif_ericksen_leif_at_imho_net_
+post_count: 6
 ---
 
-# Leif Ericksen <leif@imho.net> (6 posts)
+# Leif Ericksen <leif<span>@</span>imho.net> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

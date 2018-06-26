@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bef6785_at_mpifrbonn_mpg_de
+post_count: 1
 ---
 
-# BeF6785@mpifr-bonn.mpg.de (1 posts)
+# BeF6785<span>@</span>mpifr-bonn.mpg.de (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

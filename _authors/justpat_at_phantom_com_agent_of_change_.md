@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: justpat_at_phantom_com_agent_of_change_
+post_count: 1
 ---
 
-# justpat@phantom.com (Agent of Change) (1 posts)
+# justpat<span>@</span>phantom.com (Agent of Change) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

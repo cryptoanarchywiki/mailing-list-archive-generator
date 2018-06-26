@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: collsc_at_snowbird_aud_alcatel_com_scott_collins_
+post_count: 2
 ---
 
-# collsc@snowbird.aud.alcatel.com (Scott Collins) (2 posts)
+# collsc<span>@</span>snowbird.aud.alcatel.com (Scott Collins) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

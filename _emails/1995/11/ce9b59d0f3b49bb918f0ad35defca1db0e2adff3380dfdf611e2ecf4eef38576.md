@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ce9b59d0f3b49bb918f0ad35defca1db0e2adff3380dfdf611e2ecf4eef38576<br>
 Message ID: \<199511290230.DAA13064@utopia.hacktic.nl\><br>
@@ -73,6 +73,8 @@ Unofficial Wang VS Information Center
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
 
 + 1995-11-29 (Wed, 29 Nov 1995 10:47:12 +0800) - Re: PGP hooks for Pegasus Mail? - _nobody@REPLAY.COM (Anonymous)_
 

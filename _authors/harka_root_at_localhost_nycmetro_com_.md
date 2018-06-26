@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: harka_root_at_localhost_nycmetro_com_
+post_count: 1
 ---
 
-# Harka <root@localhost.nycmetro.com> (1 posts)
+# Harka <root<span>@</span>localhost.nycmetro.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

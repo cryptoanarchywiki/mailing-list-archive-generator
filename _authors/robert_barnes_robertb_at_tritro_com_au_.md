@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_barnes_robertb_at_tritro_com_au_
+post_count: 2
 ---
 
-# Robert Barnes <robertb@tritro.com.au> (2 posts)
+# Robert Barnes <robertb<span>@</span>tritro.com.au> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

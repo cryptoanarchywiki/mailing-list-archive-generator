@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Tim May \<tcmay@got.net\><br>
+From: Tim May \<tcmay<span>@</span>got.net\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: 1d5cbdda5895bc99acb40ab6e8b1aaefee4cc93fbfb12cbc93b0bbae5ea9ad22<br>
 Message ID: \<v03102803affbe2b3efed@[207.167.93.63]\><br>
@@ -127,6 +127,11 @@ Higher Power: 2^1398269     | black markets, collapse of governments.
 ## Thread
 
 + Return to [July 1997](/archive/1997/07)
+
++ Return to "[Alan <alan<span>@</span>ctrl-alt-del.com>](/author/alan_alan_at_ctrlaltdel_com_)"
++ Return to "[David Yaffe <straightedge.dave<span>@</span>sk.sympatico.ca>](/author/david_yaffe_straightedge_dave_at_sk_sympatico_ca_)"
++ Return to "[Ryan Lackey <rdl<span>@</span>mit.edu>](/author/ryan_lackey_rdl_at_mit_edu_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1997-07-23 (Thu, 24 Jul 1997 00:26:18 +0800) - [Re: IRS sending warning notes, violating ECPA?](/archive/1997/07/f453403dc995eaf0d1b6949c14eaefcb7d2f29c63f427978221461858404e1a2) - _Ryan Lackey \<rdl@mit.edu\>_
   + 1997-07-23 (Thu, 24 Jul 1997 01:04:03 +0800) - Re: IRS sending warning notes, violating ECPA? - _Tim May \<tcmay@got.net\>_

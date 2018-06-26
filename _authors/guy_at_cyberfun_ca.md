@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: guy_at_cyberfun_ca
+post_count: 1
 ---
 
-# guy@cyberfun.ca (1 posts)
+# guy<span>@</span>cyberfun.ca (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

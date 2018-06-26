@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jet_at_netcom_com_j_eric_townsend_
+post_count: 27
 ---
 
-# jet@netcom.com (J. Eric Townsend) (27 posts)
+# jet<span>@</span>netcom.com (J. Eric Townsend) (27 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

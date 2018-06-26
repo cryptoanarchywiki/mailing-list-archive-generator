@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: karl_marx_at_juno_com_jonathan_m_summers_
+post_count: 1
 ---
 
-# karl_marx@juno.com (Jonathan M Summers) (1 posts)
+# karl_marx<span>@</span>juno.com (Jonathan M Summers) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

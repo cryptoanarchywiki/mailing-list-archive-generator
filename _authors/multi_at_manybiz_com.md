@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: multi_at_manybiz_com
+post_count: 1
 ---
 
-# multi@manybiz.com (1 posts)
+# multi<span>@</span>manybiz.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

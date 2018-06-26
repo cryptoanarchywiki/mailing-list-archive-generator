@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 1gh9tbmi2_at_gen_com
+post_count: 1
 ---
 
-# 1gh9TbMi2@gen.com (1 posts)
+# 1gh9TbMi2<span>@</span>gen.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

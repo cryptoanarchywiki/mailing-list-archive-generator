@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andy_dustman_andy_at_ccmsd_chem_uga_edu_
+post_count: 12
 ---
 
-# Andy Dustman <andy@CCMSD.chem.uga.edu> (12 posts)
+# Andy Dustman <andy<span>@</span>CCMSD.chem.uga.edu> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

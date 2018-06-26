@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sandy Sandfort \<sandfort@crl.com\><br>
+From: Sandy Sandfort \<sandfort<span>@</span>crl.com\><br>
 To: Eric Hughes \<hughes@ah.com\><br>
 Message Hash: de6a5e5a9c24859c7aeff17e918edc44a13827d1bc3aec7e97bdb9efe3a4aaec<br>
 Message ID: \<Pine.3.87.9407270837.A25102-0100000@crl.crl.com\><br>
@@ -73,6 +73,12 @@ Too cute, I know, but who knows, it might work.
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
++ Return to "[Justin Lister <ruf<span>@</span>osiris.cs.uow.edu.au>](/author/justin_lister_ruf_at_osiris_cs_uow_edu_au_)"
++ Return to "["Robert A. Hayden" <hayden<span>@</span>vorlon.mankato.msus.edu>](/author/robert_a_hayden_hayden_at_vorlon_mankato_msus_edu_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
++ Return to "[Yarkumila <yusuf921<span>@</span>raven.csrv.uidaho.edu>](/author/yarkumila_yusuf921_at_raven_csrv_uidaho_edu_)"
 
 + 1994-07-26 (Tue, 26 Jul 94 12:08:31 PDT) - [Re: LITTLE BROTHER INSIDE](/archive/1994/07/0c3a4758598ca4b7aab33258d4275cebe5d3f45802f4c17b5b8763236c750d54) - _Justin Lister \<ruf@osiris.cs.uow.edu.au\>_
   + 1994-07-27 (Tue, 26 Jul 94 19:04:25 PDT) - [LITTLE BROTHER INSIDE](/archive/1994/07/bb3a91dea6d6e68b75deca92a27dcf03e09af65536c64b7c25f0f66c1e3e9736) - _hughes@ah.com (Eric Hughes)_

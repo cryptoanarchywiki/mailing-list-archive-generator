@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mokkong_shen_mokkong_shen_at_stud_unimuenchen_de_
+post_count: 72
 ---
 
-# Mok-Kong Shen <mok-kong.shen@stud.uni-muenchen.de> (72 posts)
+# Mok-Kong Shen <mok-kong.shen<span>@</span>stud.uni-muenchen.de> (72 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

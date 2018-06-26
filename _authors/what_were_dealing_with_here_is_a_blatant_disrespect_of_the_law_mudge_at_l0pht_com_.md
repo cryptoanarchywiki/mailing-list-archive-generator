@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: what_were_dealing_with_here_is_a_blatant_disrespect_of_the_law_mudge_at_l0pht_com_
+post_count: 1
 ---
 
-# "What we're dealing with here is a blatant disrespect of the law!" <mudge@l0pht.com> (1 posts)
+# "What we're dealing with here is a blatant disrespect of the law!" <mudge<span>@</span>l0pht.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

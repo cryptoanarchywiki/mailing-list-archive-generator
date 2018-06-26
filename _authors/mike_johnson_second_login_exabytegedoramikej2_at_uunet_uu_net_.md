@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mike_johnson_second_login_exabytegedoramikej2_at_uunet_uu_net_
+post_count: 13
 ---
 
-# Mike Johnson second login <exabyte!gedora!mikej2@uunet.uu.net> (13 posts)
+# Mike Johnson second login <exabyte!gedora!mikej2<span>@</span>uunet.uu.net> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

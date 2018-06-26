@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: donald_t_davis_don_at_cam_ov_com_
+post_count: 1
 ---
 
-# "Donald T. Davis" <don@cam.ov.com> (1 posts)
+# "Donald T. Davis" <don<span>@</span>cam.ov.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

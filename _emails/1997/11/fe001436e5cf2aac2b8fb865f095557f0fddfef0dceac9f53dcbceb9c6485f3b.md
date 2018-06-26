@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Steve Schear \<schear@lvdi.net\><br>
+From: Steve Schear \<schear<span>@</span>lvdi.net\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: fe001436e5cf2aac2b8fb865f095557f0fddfef0dceac9f53dcbceb9c6485f3b<br>
 Message ID: \<v03102802b08a3cb3fc04@[208.129.55.202]\><br>
@@ -75,6 +75,8 @@ The SSA reports that about 80% of its core code has been converted and tested an
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Steve Schear <schear<span>@</span>lvdi.net>](/author/steve_schear_schear_at_lvdi_net_)"
 
 + 1997-11-08 (Sun, 9 Nov 1997 03:06:33 +0800) - New GAO y2k reports - _Steve Schear \<schear@lvdi.net\>_
 

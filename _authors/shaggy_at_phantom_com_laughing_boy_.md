@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: shaggy_at_phantom_com_laughing_boy_
+post_count: 2
 ---
 
-# shaggy@phantom.com (laughing boy) (2 posts)
+# shaggy<span>@</span>phantom.com (laughing boy) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_brock_hrast_at_flash_net_
+post_count: 3
 ---
 
-# Michael Brock <hrast@flash.net> (3 posts)
+# Michael Brock <hrast<span>@</span>flash.net> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

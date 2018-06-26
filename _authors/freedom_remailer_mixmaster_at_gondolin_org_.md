@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: freedom_remailer_mixmaster_at_gondolin_org_
+post_count: 2
 ---
 
-# Freedom Remailer <mixmaster@gondolin.org> (2 posts)
+# Freedom Remailer <mixmaster<span>@</span>gondolin.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

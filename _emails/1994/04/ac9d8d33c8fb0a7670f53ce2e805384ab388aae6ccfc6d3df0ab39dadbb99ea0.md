@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tim werner \<werner@mc.ab.com\><br>
+From: tim werner \<werner<span>@</span>mc.ab.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: ac9d8d33c8fb0a7670f53ce2e805384ab388aae6ccfc6d3df0ab39dadbb99ea0<br>
 Message ID: \<199404111912.PAA02627@sparcserver.mc.ab.com\><br>
@@ -55,6 +55,8 @@ tw
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[tim werner <werner<span>@</span>mc.ab.com>](/author/tim_werner_werner_at_mc_ab_com_)"
 
 + 1994-04-11 (Mon, 11 Apr 94 12:12:23 PDT) - Re: MacPGP and AOL - _tim werner \<werner@mc.ab.com\>_
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@hidden.net (Anonymous)<br>
+From: nobody<span>@</span>hidden.net (Anonymous)<br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: 2ceba74fcbbfc3eebdcb0da66817d1a2526bc1a9c622dffddc91d647149cb19b<br>
 Message ID: \<199706072342.QAA17818@jefferson.hidden.net\><br>
@@ -43,6 +43,8 @@ thanks
 ## Thread
 
 + Return to [June 1997](/archive/1997/06)
+
++ Return to "[nobody<span>@</span>hidden.net (Anonymous)](/author/nobody_at_hidden_net_anonymous_)"
 
 + 1997-06-07 (Sun, 8 Jun 1997 07:51:48 +0800) - Stats on the lists - _nobody@hidden.net (Anonymous)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: devin_akin_devinakin_at_usa_net_
+post_count: 1
 ---
 
-# "Devin Akin" <Devin-Akin@usa.net> (1 posts)
+# "Devin Akin" <Devin-Akin<span>@</span>usa.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tom_knight_tk_at_reagan_ai_mit_edu_
+post_count: 8
 ---
 
-# Tom Knight <tk@reagan.ai.mit.edu> (8 posts)
+# Tom Knight <tk<span>@</span>reagan.ai.mit.edu> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

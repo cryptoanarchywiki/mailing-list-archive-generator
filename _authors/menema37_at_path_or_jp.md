@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: menema37_at_path_or_jp
+post_count: 1
 ---
 
-# menema37@path.or.jp (1 posts)
+# menema37<span>@</span>path.or.jp (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

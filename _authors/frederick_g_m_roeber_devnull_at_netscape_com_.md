@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frederick_g_m_roeber_devnull_at_netscape_com_
+post_count: 1
 ---
 
-# "Frederick G.M. Roeber" <dev-null@netscape.com> (1 posts)
+# "Frederick G.M. Roeber" <dev-null<span>@</span>netscape.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

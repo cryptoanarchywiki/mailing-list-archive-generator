@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: lassie!jim%lassie@netcom.com (Jim Nalbandian)<br>
+From: lassie!jim%lassie<span>@</span>netcom.com (Jim Nalbandian)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 81eb4f2ae1dbcdbdcf24e62003d569d2c7dafedb9cfe8828e3d8893ff9aa49fe<br>
 Message ID: \<165@lassie.lassie.uucp\><br>
@@ -63,6 +63,8 @@ government. <-------- Thomas Jefferson                            --
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[lassie!jim%lassie<span>@</span>netcom.com (Jim Nalbandian)](/author/lassiejimlassie_at_netcom_com_jim_nalbandian_)"
 
 + 1994-05-03 (Tue, 3 May 94 00:40:26 PDT) - Re: A distribution solution! (fwd) - _lassie!jim%lassie@netcom.com (Jim Nalbandian)_
 

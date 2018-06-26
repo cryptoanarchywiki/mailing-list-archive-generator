@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_kp_dkp_at_iname_com_
+post_count: 4
 ---
 
-# Dave K-P <dkp@iname.com> (4 posts)
+# Dave K-P <dkp<span>@</span>iname.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

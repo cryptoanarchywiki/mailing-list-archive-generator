@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Black Unicorn \<unicorn@access.digex.net\><br>
+From: Black Unicorn \<unicorn<span>@</span>access.digex.net\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7f97876b56fcf18a2c28c9a70eae4bdefea24d3fbcfc54dbedf5c30a749d5ef1<br>
 Message ID: \<199404212227.AA05060@access1.digex.net\><br>
@@ -57,6 +57,8 @@ I got a kick out of this, especially considering the distribution.
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/author/black_unicorn_unicorn_at_access_digex_net_)"
 
 + 1994-04-21 (Thu, 21 Apr 94 15:27:47 PDT) - Green Card Post - _Black Unicorn \<unicorn@access.digex.net\>_
 

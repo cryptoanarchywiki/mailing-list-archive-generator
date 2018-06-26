@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: krenn_krenn_at_nym_alias_net_
+post_count: 6
 ---
 
-# Krenn <krenn@nym.alias.net> (6 posts)
+# Krenn <krenn<span>@</span>nym.alias.net> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

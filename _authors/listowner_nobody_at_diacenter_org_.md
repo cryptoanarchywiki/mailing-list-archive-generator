@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: listowner_nobody_at_diacenter_org_
+post_count: 4
 ---
 
-# List-Owner <nobody@diacenter.org> (4 posts)
+# List-Owner <nobody<span>@</span>diacenter.org> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

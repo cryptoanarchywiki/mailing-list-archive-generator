@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: truthmonger_tm_at_dev_null_samplerrequest_at_lmboyd_com
+post_count: 1
 ---
 
-# TruthMonger <tm@dev.null>sampler-request@lmboyd.com (1 posts)
+# TruthMonger <tm<span>@</span>dev.null>sampler-request<span>@</span>lmboyd.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

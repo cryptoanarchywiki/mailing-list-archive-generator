@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alexander_kjeldaas_astor_at_guardian_no_
+post_count: 9
 ---
 
-# Alexander Kjeldaas <astor@guardian.no> (9 posts)
+# Alexander Kjeldaas <astor<span>@</span>guardian.no> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

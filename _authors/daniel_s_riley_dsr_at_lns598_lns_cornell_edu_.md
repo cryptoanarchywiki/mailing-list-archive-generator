@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_s_riley_dsr_at_lns598_lns_cornell_edu_
+post_count: 1
 ---
 
-# "Daniel S. Riley" <dsr@lns598.lns.cornell.edu> (1 posts)
+# "Daniel S. Riley" <dsr<span>@</span>lns598.lns.cornell.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

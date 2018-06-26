@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@netcom.com (Timothy C. May)<br>
+From: tcmay<span>@</span>netcom.com (Timothy C. May)<br>
 To: ecarp@netcom.com<br>
 Message Hash: c7bb04a9a78ad486cf1a9dd7ffa6bfbaea5fe730dd90eb918cb72ed706a415df<br>
 Message ID: \<199409250717.AAA05229@netcom10.netcom.com\><br>
@@ -71,6 +71,11 @@ subscribe cypherpunks. FAQ available at ftp.netcom.com in pub/tcmay
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[Jef Poskanzer <jef<span>@</span>ee.lbl.gov>](/author/jef_poskanzer_jef_at_ee_lbl_gov_)"
++ Return to "[khijol!erc (Ed Carp [Sysadmin])](/author/khijolerc_ed_carp_sysadmin_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-09-24 (Sat, 24 Sep 94 16:13:10 PDT) - [Re: kerberosV telnet](/archive/1994/09/13c284aba4466876c2574d62ffacc05ca88de8f3d5939fe1a90196f6c0372d6f) - _Jef Poskanzer \<jef@ee.lbl.gov\>_
   + 1994-09-25 (Sun, 25 Sep 94 00:01:26 PDT) - [Re: kerberosV telnet](/archive/1994/09/8ef7dea43238264905a231035f623e01832ef02770e148cbeb38199fbf2a2d99) - _khijol!erc (Ed Carp [Sysadmin])_

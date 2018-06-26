@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cypherpunks_cypherpunks_at_toad_com_
+post_count: 3
 ---
 
-# Cypherpunks <cypherpunks@toad.com> (3 posts)
+# Cypherpunks <cypherpunks<span>@</span>toad.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

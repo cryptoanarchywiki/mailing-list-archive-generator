@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: remail_at_tamsun_tamu_edu
+post_count: 50
 ---
 
-# remail@tamsun.tamu.edu (50 posts)
+# remail<span>@</span>tamsun.tamu.edu (50 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

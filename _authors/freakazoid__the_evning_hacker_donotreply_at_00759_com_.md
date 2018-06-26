@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: freakazoid__the_evning_hacker_donotreply_at_00759_com_
+post_count: 1
 ---
 
-# "Freakazoid - The Evning Hacker" <donotreply@00759.com> (1 posts)
+# "Freakazoid - The Evning Hacker" <donotreply<span>@</span>00759.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

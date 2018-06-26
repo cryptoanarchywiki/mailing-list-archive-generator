@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: greg@ideath.goldenbear.com (Greg Broiles)<br>
+From: greg<span>@</span>ideath.goldenbear.com (Greg Broiles)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: ca9bee540e35dc5d9e2e11bd23eaaa7de3b070a00085bdc2fea3da53bcc5e025<br>
 Message ID: \<m0pqsop-0001W7C@ideath.goldenbear.com\><br>
@@ -69,6 +69,8 @@ flreCRCe/ZqKQ4+EJzNQXT4HtQglbDO3Tl3aM411urnhFLhTCorrbTW4NChhd3S8
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[greg<span>@</span>ideath.goldenbear.com (Greg Broiles)](/author/greg_at_ideath_goldenbear_com_greg_broiles_)"
 
 + 1994-04-13 (Tue, 12 Apr 94 17:47:09 PDT) - Anonymity and the US Supreme Court - _greg@ideath.goldenbear.com (Greg Broiles)_
 

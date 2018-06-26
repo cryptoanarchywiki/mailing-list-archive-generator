@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: qut@netcom.com (Dave Harman OBC)<br>
 Message Hash: 40feedf5a77b606799b0c22e1df1a0cfd1401cbcfccceca2ffab934c23e1a893<br>
 Message ID: \<ae4fbf0e0602100498ed@[207.167.93.63]\><br>
@@ -102,6 +102,8 @@ Licensed Ontologist         | black markets, collapse of governments.
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-09-02 (Mon, 2 Sep 1996 16:14:55 +0800) - Re: Silenced Machine Guns Are Safer Than TWA - _tcmay@got.net (Timothy C. May)_
 

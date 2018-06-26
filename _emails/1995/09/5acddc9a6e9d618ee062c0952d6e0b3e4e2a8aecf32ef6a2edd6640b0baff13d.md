@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Alan Olsen \<alano@teleport.com\><br>
+From: Alan Olsen \<alano<span>@</span>teleport.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5acddc9a6e9d618ee062c0952d6e0b3e4e2a8aecf32ef6a2edd6640b0baff13d<br>
 Message ID: \<199509200633.XAA18595@desiree.teleport.com\><br>
@@ -51,6 +51,8 @@ the story.
 ## Thread
 
 + Return to [September 1995](/archive/1995/09)
+
++ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/author/alan_olsen_alano_at_teleport_com_)"
 
 + 1995-09-20 (Tue, 19 Sep 95 23:33:17 PDT) - Re: netscape broken on NPR - _Alan Olsen \<alano@teleport.com\>_
 

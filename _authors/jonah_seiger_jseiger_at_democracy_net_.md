@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonah_seiger_jseiger_at_democracy_net_
+post_count: 1
 ---
 
-# Jonah Seiger <jseiger@democracy.net> (1 posts)
+# Jonah Seiger <jseiger<span>@</span>democracy.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

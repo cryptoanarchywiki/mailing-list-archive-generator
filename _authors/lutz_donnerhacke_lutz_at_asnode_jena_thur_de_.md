@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lutz_donnerhacke_lutz_at_asnode_jena_thur_de_
+post_count: 3
 ---
 
-# Lutz Donnerhacke <lutz@as-node.jena.thur.de> (3 posts)
+# Lutz Donnerhacke <lutz<span>@</span>as-node.jena.thur.de> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

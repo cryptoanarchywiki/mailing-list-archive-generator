@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathon_fletcher_jonathon_at_izanagi_sbi_com_
+post_count: 5
 ---
 
-# Jonathon Fletcher <jonathon@izanagi.sbi.com> (5 posts)
+# Jonathon Fletcher <jonathon<span>@</span>izanagi.sbi.com> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

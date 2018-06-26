@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andy_brown_asb_at_nexor_co_uk_
+post_count: 24
 ---
 
-# Andy Brown <asb@nexor.co.uk> (24 posts)
+# Andy Brown <asb<span>@</span>nexor.co.uk> (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

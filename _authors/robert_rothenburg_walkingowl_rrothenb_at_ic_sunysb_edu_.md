@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_rothenburg_walkingowl_rrothenb_at_ic_sunysb_edu_
+post_count: 31
 ---
 
-# Robert Rothenburg Walking-Owl <rrothenb@ic.sunysb.edu> (31 posts)
+# Robert Rothenburg Walking-Owl <rrothenb<span>@</span>ic.sunysb.edu> (31 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

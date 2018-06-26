@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Rick Smith \<smith@sctc.com\><br>
+From: Rick Smith \<smith<span>@</span>sctc.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: a1ece581ed1b0baccdc222cdb752bd8ffb669ecfe58c58ee98a0f66562e76c0a<br>
 Message ID: \<199611122141.PAA27619@shade.sctc.com\><br>
@@ -83,6 +83,10 @@ smith@sctc.com
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[Rick Smith <smith<span>@</span>sctc.com>](/author/rick_smith_smith_at_sctc_com_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
 
 + 1996-11-12 (Tue, 12 Nov 1996 13:54:06 -0800 (PST)) - Re: Secrecy: My life as a nym. (Was: nym blown?) - _Rick Smith \<smith@sctc.com\>_
   + 1996-11-13 (Tue, 12 Nov 1996 19:11:19 -0800 (PST)) - [Dossier on Rick Smith is Easily Obtainable](/archive/1996/11/d30c2c33e8a74030fbd8ce270e3e40710a18b8da5ec33cc889c25e8843709d70) - _"Timothy C. May" \<tcmay@got.net\>_

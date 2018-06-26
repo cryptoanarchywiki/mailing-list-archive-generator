@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: "Jonathan M. Bresler" \<EALLENSMITH@ocelot.Rutgers.EDU\><br>
 Message Hash: cad0c9a9b0fecd921cb737bc5e4ef9c2ee7306daf4ccfea2bf396ff5bbd38ac2<br>
 Message ID: \<v030078efaf27fd6d6b48@[139.167.130.246]\><br>
@@ -69,6 +69,10 @@ FC97: Anguilla, anyone? http://www.ai/fc97/
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "["Jonathan M. Bresler" <jmb<span>@</span>FRB.GOV>](/author/jonathan_m_bresler_jmb_at_frb_gov_)"
++ Return to "["Jonathan M. Bresler" <jmb<span>@</span>frb.gov>](/author/jonathan_m_bresler_jmb_at_frb_gov_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-02-12 (Wed, 12 Feb 1997 12:57:03 -0800 (PST)) - [Re: Need a good bi-directional mail-news gateway](/archive/1997/02/b5dfc191b70493ccfdc38c260e1e43dd7ee320bc7756d4868d5bbbdfd9665627) - _"Jonathan M. Bresler" \<jmb@frb.gov\>_
   + 1997-02-12 (Wed, 12 Feb 1997 15:14:13 -0800 (PST)) - Re: Need a good bi-directional mail-news gateway - _Robert Hettinga \<rah@shipwright.com\>_

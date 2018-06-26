@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "James A. Donald" \<jamesd@echeque.com\><br>
+From: "James A. Donald" \<jamesd<span>@</span>echeque.com\><br>
 To: Duncan Frissell \<cypherpunks@toad.com<br>
 Message Hash: 5faebc1c0b1ab6bdf6c5307af8e7c191655afccf97d335b82bb30baccebd705e<br>
 Message ID: \<199511130522.VAA09142@blob.best.net\><br>
@@ -65,6 +65,8 @@ arbitrary power of the state.		|   jamesd@echeque.com
 ## Thread
 
 + Return to [November 1995](/archive/1995/11)
+
++ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/author/james_a_donald_jamesd_at_echeque_com_)"
 
 + 1995-11-13 (Mon, 13 Nov 1995 13:41:41 +0800) - Re: "Industry Group Rebuffs U.S. on Encryption" - _"James A. Donald" \<jamesd@echeque.com\>_
 

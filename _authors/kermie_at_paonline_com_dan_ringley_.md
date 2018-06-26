@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kermie_at_paonline_com_dan_ringley_
+post_count: 1
 ---
 
-# kermie@paonline.com (Dan Ringley) (1 posts)
+# kermie<span>@</span>paonline.com (Dan Ringley) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

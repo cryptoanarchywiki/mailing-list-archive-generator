@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: kentborg@world.std.com (Kent Borg)<br>
+From: kentborg<span>@</span>world.std.com (Kent Borg)<br>
 To: hughes@ah.com<br>
 Message Hash: 56cb1eb5acacee9c1ee0e07a93ff92eae825bbba372752d6918ddc2ead477ac9<br>
 Message ID: \<199407190311.AA23428@world.std.com\><br>
@@ -51,6 +51,8 @@ kentborg@aol.com
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[kentborg<span>@</span>world.std.com (Kent Borg)](/author/kentborg_at_world_std_com_kent_borg_)"
 
 + 1994-07-19 (Mon, 18 Jul 94 20:12:01 PDT) - Re:  Card Playing Protocol? - _kentborg@world.std.com (Kent Borg)_
 

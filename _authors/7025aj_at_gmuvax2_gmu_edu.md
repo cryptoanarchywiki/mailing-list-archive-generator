@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 7025aj_at_gmuvax2_gmu_edu
+post_count: 1
 ---
 
-# 7025aj@gmuvax2.gmu.edu (1 posts)
+# 7025aj<span>@</span>gmuvax2.gmu.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

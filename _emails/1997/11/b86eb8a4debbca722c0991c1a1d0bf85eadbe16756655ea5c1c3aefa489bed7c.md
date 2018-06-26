@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ray Hirschfeld \<R.Hirschfeld@cwi.nl\><br>
+From: Ray Hirschfeld \<R.Hirschfeld<span>@</span>cwi.nl\><br>
 To: R.Hirschfeld@cwi.nl<br>
 Message Hash: b86eb8a4debbca722c0991c1a1d0bf85eadbe16756655ea5c1c3aefa489bed7c<br>
 Message ID: \<UTC199711042318.AAA06490.ray@prauw.cwi.nl\><br>
@@ -219,6 +219,8 @@ conference will be available at URL http://www.cwi.nl/conferences/FC98.
 ## Thread
 
 + Return to [November 1997](/archive/1997/11)
+
++ Return to "[Ray Hirschfeld <R.Hirschfeld<span>@</span>cwi.nl>](/author/ray_hirschfeld_r_hirschfeld_at_cwi_nl_)"
 
 + 1997-11-04 (Tue, 4 Nov 1997 15:19:34 -0800 (PST)) - Financial Cryptography '98 Final Call for Papers - _Ray Hirschfeld \<R.Hirschfeld@cwi.nl\>_
 

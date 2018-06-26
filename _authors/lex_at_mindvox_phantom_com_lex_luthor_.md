@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lex_at_mindvox_phantom_com_lex_luthor_
+post_count: 4
 ---
 
-# lex@mindvox.phantom.com (Lex Luthor) (4 posts)
+# lex<span>@</span>mindvox.phantom.com (Lex Luthor) (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

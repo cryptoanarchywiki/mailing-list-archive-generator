@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rocker_at_hermes_acm_rpi_edu_rocker__accept_no_substitutes_
+post_count: 1
 ---
 
-# rocker@hermes.acm.rpi.edu (rocker - accept no substitutes) (1 posts)
+# rocker<span>@</span>hermes.acm.rpi.edu (rocker - accept no substitutes) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: zvi_zvi_at_creditnet_com_
+post_count: 1
 ---
 
-# zvi <zvi@creditnet.com> (1 posts)
+# zvi <zvi<span>@</span>creditnet.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: paul@hawksbill.sprintmrn.com (Paul Ferguson)<br>
+From: paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: f63d424c1bea432f1a5d6faf87826e6455c30ceda9bdc9de9b7dc6eb9ca5cd3b<br>
 Message ID: \<9501160258.AA09372@hawksbill.sprintmrn.com\><br>
@@ -268,6 +268,8 @@ Reston, Virginia  USA                             http://www.sprintmrn.com
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "[paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)](/author/paul_at_hawksbill_sprintmrn_com_paul_ferguson_)"
 
 + 1995-01-16 (Sun, 15 Jan 95 18:58:12 PST) - ... and speaking of WiReD... - _paul@hawksbill.sprintmrn.com (Paul Ferguson)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rocke_verser_rcv_at_dopey_verser_frii_com_
+post_count: 1
 ---
 
-# Rocke Verser <rcv@dopey.verser.frii.com> (1 posts)
+# Rocke Verser <rcv<span>@</span>dopey.verser.frii.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

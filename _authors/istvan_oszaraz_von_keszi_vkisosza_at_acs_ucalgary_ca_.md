@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: istvan_oszaraz_von_keszi_vkisosza_at_acs_ucalgary_ca_
+post_count: 15
 ---
 
-# "Istvan Oszaraz von Keszi" <vkisosza@acs.ucalgary.ca> (15 posts)
+# "Istvan Oszaraz von Keszi" <vkisosza<span>@</span>acs.ucalgary.ca> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

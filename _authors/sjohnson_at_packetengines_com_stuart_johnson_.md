@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sjohnson_at_packetengines_com_stuart_johnson_
+post_count: 1
 ---
 
-# sjohnson@packetengines.com (stuart johnson) (1 posts)
+# sjohnson<span>@</span>packetengines.com (stuart johnson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

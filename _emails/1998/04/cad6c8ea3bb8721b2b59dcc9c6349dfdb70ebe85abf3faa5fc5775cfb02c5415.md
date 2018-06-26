@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Gilmore \<gnu@toad.com\><br>
+From: John Gilmore \<gnu<span>@</span>toad.com\><br>
 To: cypherpunks<br>
 Message Hash: cad6c8ea3bb8721b2b59dcc9c6349dfdb70ebe85abf3faa5fc5775cfb02c5415<br>
 Message ID: \<199804161839.LAA05360@toad.com\><br>
@@ -150,6 +150,8 @@ The Federation of International Trade Associations (FITA)
 ## Thread
 
 + Return to [April 1998](/archive/1998/04)
+
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
 
 + 1998-04-16 (Thu, 16 Apr 1998 11:39:05 -0700 (PDT)) - BXA Encryption Export Seminar - San Jose, April 28 - _John Gilmore \<gnu@toad.com\>_
 

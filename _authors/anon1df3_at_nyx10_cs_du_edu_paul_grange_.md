@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anon1df3_at_nyx10_cs_du_edu_paul_grange_
+post_count: 1
 ---
 
-# anon1df3@nyx10.cs.du.edu (Paul Grange) (1 posts)
+# anon1df3<span>@</span>nyx10.cs.du.edu (Paul Grange) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carol_anyuser_at_anyuser_com_
+post_count: 1
 ---
 
-# Carol <anyuser@anyuser.com> (1 posts)
+# Carol <anyuser<span>@</span>anyuser.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

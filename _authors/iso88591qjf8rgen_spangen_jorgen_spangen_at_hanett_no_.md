@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iso88591qjf8rgen_spangen_jorgen_spangen_at_hanett_no_
+post_count: 2
 ---
 
-# =?iso-8859-1?Q?J=F8rgen?= Spangen <jorgen.spangen@ha-nett.no> (2 posts)
+# =?iso-8859-1?Q?J=F8rgen?= Spangen <jorgen.spangen<span>@</span>ha-nett.no> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

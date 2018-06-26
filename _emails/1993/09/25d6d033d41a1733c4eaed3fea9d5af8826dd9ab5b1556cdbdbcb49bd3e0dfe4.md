@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: jrk@sys.uea.ac.uk (Richard Kennaway)<br>
+From: jrk<span>@</span>sys.uea.ac.uk (Richard Kennaway)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 25d6d033d41a1733c4eaed3fea9d5af8826dd9ab5b1556cdbdbcb49bd3e0dfe4<br>
 Message ID: \<8826.9309300858@s5.sys.uea.ac.uk\><br>
@@ -63,6 +63,9 @@ uucp:  ...mcsun!ukc!uea-sys!jrk    \/       Norwich NR4 7TJ, U.K.
 ## Thread
 
 + Return to [September 1993](/archive/1993/09)
+
++ Return to "[J. Michael Diehl <mdiehl<span>@</span>triton.unm.edu>](/author/j_michael_diehl_mdiehl_at_triton_unm_edu_)"
++ Return to "[jrk<span>@</span>sys.uea.ac.uk (Richard Kennaway)](/author/jrk_at_sys_uea_ac_uk_richard_kennaway_)"
 
 + 1993-09-30 (Thu, 30 Sep 93 01:56:35 PDT) - Re: soda.berkeley.edu - _jrk@sys.uea.ac.uk (Richard Kennaway)_
   + 1993-09-30 (Thu, 30 Sep 93 02:11:52 PDT) - [Re: soda.berkeley.edu](/archive/1993/09/e001989e93b737449727d5c17794ba1717fd7b33a7a3a03b375f78e9dd7aafdc) - _J. Michael Diehl \<mdiehl@triton.unm.edu\>_

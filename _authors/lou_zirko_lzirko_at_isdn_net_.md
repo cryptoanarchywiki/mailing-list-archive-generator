@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lou_zirko_lzirko_at_isdn_net_
+post_count: 14
 ---
 
-# Lou Zirko <lzirko@isdn.net> (14 posts)
+# Lou Zirko <lzirko<span>@</span>isdn.net> (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

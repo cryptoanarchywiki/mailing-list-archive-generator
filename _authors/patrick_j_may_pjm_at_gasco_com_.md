@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: patrick_j_may_pjm_at_gasco_com_
+post_count: 1
 ---
 
-# "Patrick J. May" <pjm@gasco.com> (1 posts)
+# "Patrick J. May" <pjm<span>@</span>gasco.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

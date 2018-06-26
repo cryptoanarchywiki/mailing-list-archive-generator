@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: geoff_white_geoffw_at_precipice_vsite_net_
+post_count: 1
 ---
 
-# Geoff White <geoffw@precipice.V-site.net> (1 posts)
+# Geoff White <geoffw<span>@</span>precipice.V-site.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

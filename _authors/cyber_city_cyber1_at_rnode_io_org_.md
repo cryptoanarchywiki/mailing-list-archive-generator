@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cyber_city_cyber1_at_rnode_io_org_
+post_count: 2
 ---
 
-# Cyber City <cyber1@r-node.io.org> (2 posts)
+# Cyber City <cyber1<span>@</span>r-node.io.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

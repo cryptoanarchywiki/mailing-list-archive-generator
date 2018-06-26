@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ray_mckinney_rem3614_at_tam2000_tamu_edu_
+post_count: 1
 ---
 
-# Ray McKinney <rem3614@tam2000.tamu.edu> (1 posts)
+# Ray McKinney <rem3614<span>@</span>tam2000.tamu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

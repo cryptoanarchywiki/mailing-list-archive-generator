@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: emw_at_ima_com_ed_wilkinson_
+post_count: 3
 ---
 
-# emw@ima.com (Ed Wilkinson) (3 posts)
+# emw<span>@</span>ima.com (Ed Wilkinson) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

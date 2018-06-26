@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scottg_at_b4a206_mdc_com_teco_master_
+post_count: 2
 ---
 
-# scottg@b4a206.mdc.com (TECO Master) (2 posts)
+# scottg<span>@</span>b4a206.mdc.com (TECO Master) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

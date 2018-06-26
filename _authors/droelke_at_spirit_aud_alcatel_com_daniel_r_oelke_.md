@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: droelke_at_spirit_aud_alcatel_com_daniel_r_oelke_
+post_count: 10
 ---
 
-# droelke@spirit.aud.alcatel.com (Daniel R. Oelke) (10 posts)
+# droelke<span>@</span>spirit.aud.alcatel.com (Daniel R. Oelke) (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

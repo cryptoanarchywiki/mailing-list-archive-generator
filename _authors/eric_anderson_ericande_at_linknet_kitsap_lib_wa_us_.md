@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eric_anderson_ericande_at_linknet_kitsap_lib_wa_us_
+post_count: 5
 ---
 
-# Eric Anderson <ericande@linknet.kitsap.lib.wa.us> (5 posts)
+# Eric Anderson <ericande<span>@</span>linknet.kitsap.lib.wa.us> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: keycapture_at_lsd_com_dave_del_torto_
+post_count: 1
 ---
 
-# KEY-CAPTURE@lsd.com (Dave Del Torto) (1 posts)
+# KEY-CAPTURE<span>@</span>lsd.com (Dave Del Torto) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_c_peponis_peponmc_at_fe3_rust_net_
+post_count: 2
 ---
 
-# "Michael C. Peponis" <peponmc@Fe3.rust.net> (2 posts)
+# "Michael C. Peponis" <peponmc<span>@</span>Fe3.rust.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

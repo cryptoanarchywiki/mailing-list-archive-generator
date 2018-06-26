@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_at_interval_net_william_c_archibald_
+post_count: 1
 ---
 
-# william@interval.net (William C. Archibald) (1 posts)
+# william<span>@</span>interval.net (William C. Archibald) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

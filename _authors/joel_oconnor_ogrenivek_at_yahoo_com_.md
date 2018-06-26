@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joel_oconnor_ogrenivek_at_yahoo_com_
+post_count: 13
 ---
 
-# "Joel O'Connor" <ogrenivek@yahoo.com> (13 posts)
+# "Joel O'Connor" <ogrenivek<span>@</span>yahoo.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

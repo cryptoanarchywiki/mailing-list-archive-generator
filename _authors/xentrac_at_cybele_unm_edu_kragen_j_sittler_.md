@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: xentrac_at_cybele_unm_edu_kragen_j_sittler_
+post_count: 7
 ---
 
-# xentrac@cybele.unm.edu (Kragen J. Sittler) (7 posts)
+# xentrac<span>@</span>cybele.unm.edu (Kragen J. Sittler) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

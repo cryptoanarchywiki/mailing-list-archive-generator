@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: doom13_at_juno_com_floyd_w_odom_
+post_count: 3
 ---
 
-# doom13@juno.com (Floyd W Odom) (3 posts)
+# doom13<span>@</span>juno.com (Floyd W Odom) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

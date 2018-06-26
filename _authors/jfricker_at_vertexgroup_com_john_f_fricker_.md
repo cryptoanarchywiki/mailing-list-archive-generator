@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jfricker_at_vertexgroup_com_john_f_fricker_
+post_count: 39
 ---
 
-# jfricker@vertexgroup.com (John F. Fricker) (39 posts)
+# jfricker<span>@</span>vertexgroup.com (John F. Fricker) (39 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

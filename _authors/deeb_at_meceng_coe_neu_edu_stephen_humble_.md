@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deeb_at_meceng_coe_neu_edu_stephen_humble_
+post_count: 6
 ---
 
-# deeb@meceng.coe.neu.edu (Stephen Humble) (6 posts)
+# deeb<span>@</span>meceng.coe.neu.edu (Stephen Humble) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

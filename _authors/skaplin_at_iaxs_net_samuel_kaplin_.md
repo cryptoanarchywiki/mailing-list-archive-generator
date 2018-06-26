@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: skaplin_at_iaxs_net_samuel_kaplin_
+post_count: 1
 ---
 
-# skaplin@iaxs.net (Samuel Kaplin) (1 posts)
+# skaplin<span>@</span>iaxs.net (Samuel Kaplin) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

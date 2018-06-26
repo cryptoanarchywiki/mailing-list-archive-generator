@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: greg_morgan_mac5tgm_at_hibbs_vcu_edu_
+post_count: 4
 ---
 
-# Greg Morgan <mac5tgm@hibbs.vcu.edu> (4 posts)
+# Greg Morgan <mac5tgm<span>@</span>hibbs.vcu.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

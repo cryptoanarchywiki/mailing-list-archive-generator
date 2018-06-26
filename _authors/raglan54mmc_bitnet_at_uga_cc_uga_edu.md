@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: raglan54mmc_bitnet_at_uga_cc_uga_edu
+post_count: 1
 ---
 
-# RAGLAN54%MMC.BITNET@uga.cc.uga.edu (1 posts)
+# RAGLAN54%MMC.BITNET<span>@</span>uga.cc.uga.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

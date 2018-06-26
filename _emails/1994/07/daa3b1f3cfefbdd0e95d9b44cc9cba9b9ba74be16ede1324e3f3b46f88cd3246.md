@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Berzerk \<berzerk@xmission.xmission.com\><br>
+From: Berzerk \<berzerk<span>@</span>xmission.xmission.com\><br>
 To: _N/A_<br>
 Message Hash: daa3b1f3cfefbdd0e95d9b44cc9cba9b9ba74be16ede1324e3f3b46f88cd3246<br>
 Message ID: \<Pine.3.89.9407251815.A10590-0100000@xmission\><br>
@@ -55,6 +55,10 @@ Berzerk.
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Berzerk <berzerk<span>@</span>xmission.xmission.com>](/author/berzerk_berzerk_at_xmission_xmission_com_)"
++ Return to "[pjm<span>@</span>gasco.com (Patrick J. May)](/author/pjm_at_gasco_com_patrick_j_may_)"
++ Return to "[rah<span>@</span>shipwright.com (Robert Hettinga)](/author/rah_at_shipwright_com_robert_hettinga_)"
 
 + 1994-07-22 (Thu, 21 Jul 94 18:15:11 PDT) - [Re: "Key Escrow" --- the very idea](/archive/1994/07/b9e14f150074f3c203bf08af278218295acc68106cd833b99db756ebc8086fac) - _rah@shipwright.com (Robert Hettinga)_
   + 1994-07-22 (Thu, 21 Jul 94 18:58:24 PDT) - [Re: "Key Escrow" --- the very idea](/archive/1994/07/022c22998cd1cb741c0368fc92609e6fbad7e82f4246a6756db9ddf5fdb68d30) - _Berzerk \<berzerk@xmission.xmission.com\>_

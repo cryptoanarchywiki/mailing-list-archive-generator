@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carl_malamud_carl_at_radio_com_
+post_count: 1
 ---
 
-# Carl Malamud <carl@radio.com> (1 posts)
+# Carl Malamud <carl<span>@</span>radio.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

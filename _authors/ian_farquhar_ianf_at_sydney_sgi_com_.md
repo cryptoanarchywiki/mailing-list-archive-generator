@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ian_farquhar_ianf_at_sydney_sgi_com_
+post_count: 37
 ---
 
-# "Ian Farquhar" <ianf@sydney.sgi.com> (37 posts)
+# "Ian Farquhar" <ianf<span>@</span>sydney.sgi.com> (37 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

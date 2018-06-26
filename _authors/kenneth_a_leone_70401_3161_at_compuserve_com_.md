@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kenneth_a_leone_70401_3161_at_compuserve_com_
+post_count: 6
 ---
 
-# "KENNETH A. LEONE" <70401.3161@CompuServe.COM> (6 posts)
+# "KENNETH A. LEONE" <70401.3161<span>@</span>CompuServe.COM> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Lucky Green \<shamrock@netcom.com\><br>
+From: Lucky Green \<shamrock<span>@</span>netcom.com\><br>
 To: Ernest Hua \<hua@chromatic.com\><br>
 Message Hash: 48bdc2e659a0b59cfa4250bf5f7bf4a7ca6b9db56d91a430a5d6e1dbeecc9a3c<br>
 Message ID: \<Pine.3.89.9610031804.A16004-0100000@netcom14\><br>
@@ -54,6 +54,13 @@ that will ship with every workstation.
 ## Thread
 
 + Return to [October 1996](/archive/1996/10)
+
++ Return to "[Eric Murray <ericm<span>@</span>lne.com>](/author/eric_murray_ericm_at_lne_com_)"
++ Return to "[Ernest Hua <hua<span>@</span>chromatic.com>](/author/ernest_hua_hua_at_chromatic_com_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
++ Return to "[snow <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
 
 + 1996-10-04 (Fri, 4 Oct 1996 11:16:44 +0800) - [Did Sun get a sweetheart deal?](/archive/1996/10/5a190edb56a781c22c2f20472b1176ef7a7714c49d1d4de525f2c54f91030f94) - _Ernest Hua \<hua@chromatic.com\>_
   + 1996-10-04 (Fri, 4 Oct 1996 12:39:54 +0800) - [Re: Did Sun get a sweetheart deal?](/archive/1996/10/135e75a6bd419c1dd18d1be6f7632710e69f33f4898709b30c5474d9f9045bee) - _Eric Murray \<ericm@lne.com\>_

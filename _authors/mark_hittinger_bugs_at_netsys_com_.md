@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_hittinger_bugs_at_netsys_com_
+post_count: 15
 ---
 
-# Mark Hittinger <bugs@netsys.com> (15 posts)
+# Mark Hittinger <bugs<span>@</span>netsys.com> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

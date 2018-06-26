@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: _an114_at_vox_hacktic_nl_nobody_
+post_count: 2
 ---
 
-# <an114@vox.hacktic.nl> (Nobody) (2 posts)
+# <an114<span>@</span>vox.hacktic.nl> (Nobody) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

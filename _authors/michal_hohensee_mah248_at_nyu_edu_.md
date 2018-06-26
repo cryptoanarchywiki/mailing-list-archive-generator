@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michal_hohensee_mah248_at_nyu_edu_
+post_count: 2
 ---
 
-# Michal Hohensee <mah248@nyu.edu> (2 posts)
+# Michal Hohensee <mah248<span>@</span>nyu.edu> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

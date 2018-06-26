@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nyap_at_mailhub_garban_com_noel_yap_
+post_count: 5
 ---
 
-# nyap@mailhub.garban.com (Noel Yap) (5 posts)
+# nyap<span>@</span>mailhub.garban.com (Noel Yap) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

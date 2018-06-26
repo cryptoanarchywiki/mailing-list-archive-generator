@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: declan_mccullagh_declan_at_well_com_
+post_count: 723
 ---
 
-# Declan McCullagh <declan@well.com> (723 posts)
+# Declan McCullagh <declan<span>@</span>well.com> (723 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

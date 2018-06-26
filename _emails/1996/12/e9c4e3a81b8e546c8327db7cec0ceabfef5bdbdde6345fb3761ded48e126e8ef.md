@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: John Young \<jya@pipeline.com\><br>
+From: John Young \<jya<span>@</span>pipeline.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: e9c4e3a81b8e546c8327db7cec0ceabfef5bdbdde6345fb3761ded48e126e8ef<br>
 Message ID: \<1.5.4.32.19961220162515.00681b90@pop.pipeline.com\><br>
@@ -93,6 +93,8 @@ Dated: December 6, 1996.
 ## Thread
 
 + Return to [December 1996](/archive/1996/12)
+
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
 
 + 1996-12-20 (Fri, 20 Dec 1996 11:39:51 -0800 (PST)) - BXA Crypto Meeting - _John Young \<jya@pipeline.com\>_
 

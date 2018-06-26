@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ichudov@algebra.com (Igor Chudov @ home)<br>
+From: ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)<br>
 To: gbroiles@netbox.com (Greg Broiles)<br>
 Message Hash: 209abedd1fdc48efc508f5cb67fe36d37ac6eb5ae92936fcbffce223ee6b1e8c<br>
 Message ID: \<199608160913.EAA18988@manifold.algebra.com\><br>
@@ -57,6 +57,10 @@ time one wastes.
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/author/alan_horowitz_alanh_at_infi_net_)"
++ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/author/greg_broiles_gbroiles_at_netbox_com_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
 
 + 1996-08-16 (Fri, 16 Aug 1996 16:24:32 +0800) - [implausible defenses & tax havens](/archive/1996/08/0a1747cbb1a3bcbc1ed337be94216710af9ecee3e7260c5ab55bf3a96d387750) - _Greg Broiles \<gbroiles@netbox.com\>_
   + 1996-08-16 (Fri, 16 Aug 1996 20:52:13 +0800) - Re: implausible defenses & tax havens - _ichudov@algebra.com (Igor Chudov @ home)_

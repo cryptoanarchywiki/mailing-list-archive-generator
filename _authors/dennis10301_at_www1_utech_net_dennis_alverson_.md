@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dennis10301_at_www1_utech_net_dennis_alverson_
+post_count: 1
 ---
 
-# dennis10301@www1.utech.net (Dennis Alverson) (1 posts)
+# dennis10301<span>@</span>www1.utech.net (Dennis Alverson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

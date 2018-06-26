@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marita_nasmanrepo_marita_nasmanrepo_at_datafellows_com_
+post_count: 1
 ---
 
-# Marita Nasman-Repo <Marita.Nasman-Repo@DataFellows.com> (1 posts)
+# Marita Nasman-Repo <Marita.Nasman-Repo<span>@</span>DataFellows.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

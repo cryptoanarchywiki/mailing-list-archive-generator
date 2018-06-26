@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: geeman_geeman_at_best_com_
+post_count: 13
 ---
 
-# geeman <geeman@best.com> (13 posts)
+# geeman <geeman<span>@</span>best.com> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

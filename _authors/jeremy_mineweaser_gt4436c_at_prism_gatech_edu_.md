@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jeremy_mineweaser_gt4436c_at_prism_gatech_edu_
+post_count: 3
 ---
 
-# Jeremy Mineweaser <gt4436c@prism.gatech.edu> (3 posts)
+# Jeremy Mineweaser <gt4436c<span>@</span>prism.gatech.edu> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

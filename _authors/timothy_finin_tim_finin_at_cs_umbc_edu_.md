@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: timothy_finin_tim_finin_at_cs_umbc_edu_
+post_count: 1
 ---
 
-# Timothy Finin <Tim.Finin@cs.umbc.edu> (1 posts)
+# Timothy Finin <Tim.Finin<span>@</span>cs.umbc.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

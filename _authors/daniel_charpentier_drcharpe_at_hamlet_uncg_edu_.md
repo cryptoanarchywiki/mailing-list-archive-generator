@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: daniel_charpentier_drcharpe_at_hamlet_uncg_edu_
+post_count: 4
 ---
 
-# DANIEL CHARPENTIER <drcharpe@hamlet.uncg.edu> (4 posts)
+# DANIEL CHARPENTIER <drcharpe<span>@</span>hamlet.uncg.edu> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

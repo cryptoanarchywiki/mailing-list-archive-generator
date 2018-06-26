@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bruce_murphy_packrat_at_ratbox_rattus_uwa_edu_au_
+post_count: 11
 ---
 
-# Bruce Murphy <packrat@ratbox.rattus.uwa.edu.au> (11 posts)
+# Bruce Murphy <packrat<span>@</span>ratbox.rattus.uwa.edu.au> (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

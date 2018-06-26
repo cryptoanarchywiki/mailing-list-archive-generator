@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_del_torto_ddt_at_pgp_com_
+post_count: 16
 ---
 
-# Dave Del Torto <ddt@pgp.com> (16 posts)
+# Dave Del Torto <ddt<span>@</span>pgp.com> (16 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

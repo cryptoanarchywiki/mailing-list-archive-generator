@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: iagoldbe@calum.csclub.uwaterloo.ca (Ian Goldberg)<br>
+From: iagoldbe<span>@</span>calum.csclub.uwaterloo.ca (Ian Goldberg)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 5ddce7af25391b6ff4eaf9c46b3ddb41899a7320bad9857eccb79adbb4b8ff4a<br>
 Message ID: \<4e6m48$npf@calum.csclub.uwaterloo.ca\><br>
@@ -85,5 +85,8 @@ crypto to or "on behalf of" a foreign person.
 
 + Return to [January 1996](/archive/1996/01)
 
-+ 1996-01-25 (Thu, 25 Jan 1996 11:34:10 +0800) - Re: Crippled Notes export encryption - _iagoldbe@calum.csclub.uwaterloo.ca (Ian Goldberg)_
++ Return to "[iagoldbe<span>@</span>calum.csclub.uwaterloo.ca (Ian Goldberg)](/author/iagoldbe_at_calum_csclub_uwaterloo_ca_ian_goldberg_)"
+
++ _Unknown thread root_
+  + 1996-01-25 (Thu, 25 Jan 1996 11:34:10 +0800) - Re: Crippled Notes export encryption - _iagoldbe@calum.csclub.uwaterloo.ca (Ian Goldberg)_
 

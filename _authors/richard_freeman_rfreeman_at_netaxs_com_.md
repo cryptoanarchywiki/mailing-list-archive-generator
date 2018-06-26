@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_freeman_rfreeman_at_netaxs_com_
+post_count: 1
 ---
 
-# "Richard Freeman" <rfreeman@netaxs.com> (1 posts)
+# "Richard Freeman" <rfreeman<span>@</span>netaxs.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_conrad_jjc_at_infi_net_
+post_count: 1
 ---
 
-# Jim Conrad <jjc@infi.net> (1 posts)
+# Jim Conrad <jjc<span>@</span>infi.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

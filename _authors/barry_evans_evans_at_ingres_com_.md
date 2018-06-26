@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: barry_evans_evans_at_ingres_com_
+post_count: 1
 ---
 
-# Barry Evans <evans@ingres.com> (1 posts)
+# Barry Evans <evans<span>@</span>ingres.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

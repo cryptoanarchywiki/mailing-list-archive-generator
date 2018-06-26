@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: paul_bradley_paul_at_fatmans_demon_co_uk_
+post_count: 209
 ---
 
-# Paul Bradley <paul@fatmans.demon.co.uk> (209 posts)
+# Paul Bradley <paul<span>@</span>fatmans.demon.co.uk> (209 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

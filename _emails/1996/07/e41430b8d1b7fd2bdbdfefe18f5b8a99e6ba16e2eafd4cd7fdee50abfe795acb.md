@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: vinnie moscaritolo \<vinnie@webstuff.apple.com\><br>
+From: vinnie moscaritolo \<vinnie<span>@</span>webstuff.apple.com\><br>
 To: snow@crash.suba.com<br>
 Message Hash: e41430b8d1b7fd2bdbdfefe18f5b8a99e6ba16e2eafd4cd7fdee50abfe795acb<br>
 Message ID: \<v03007601ae0444e551ad@[38.26.2.89]\><br>
@@ -66,6 +66,8 @@ Fingerprint: 4FA3298150E404F2782501876EA2146A
 ## Thread
 
 + Return to [July 1996](/archive/1996/07)
+
++ Return to "[vinnie moscaritolo <vinnie<span>@</span>webstuff.apple.com>](/author/vinnie_moscaritolo_vinnie_at_webstuff_apple_com_)"
 
 + 1996-07-06 (Sun, 7 Jul 1996 02:29:39 +0800) - Re: Net and Terrorism - _vinnie moscaritolo \<vinnie@webstuff.apple.com\>_
 

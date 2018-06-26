@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: satan_is_a_hacker_at_juno_com_lou_zer_
+post_count: 6
 ---
 
-# satan_is_a_hacker@juno.com (Lou Zer) (6 posts)
+# satan_is_a_hacker<span>@</span>juno.com (Lou Zer) (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

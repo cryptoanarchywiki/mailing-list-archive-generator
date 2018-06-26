@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bdolan_at_usit_net_brad_dolan_
+post_count: 1
 ---
 
-# bdolan@USIT.NET (Brad Dolan) (1 posts)
+# bdolan<span>@</span>USIT.NET (Brad Dolan) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

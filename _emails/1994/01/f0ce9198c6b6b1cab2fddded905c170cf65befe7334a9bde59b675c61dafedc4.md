@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Ron Davis \<rondavis@datawatch.com\><br>
+From: Ron Davis \<rondavis<span>@</span>datawatch.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: f0ce9198c6b6b1cab2fddded905c170cf65befe7334a9bde59b675c61dafedc4<br>
 Message ID: \<9401200918.aa03559@gateway.datawatch.com\><br>
@@ -72,6 +72,8 @@ Datawatch, Research Triangle Park, NC      (919)549-0711
 ## Thread
 
 + Return to [January 1994](/archive/1994/01)
+
++ Return to "[Ron Davis <rondavis<span>@</span>datawatch.com>](/author/ron_davis_rondavis_at_datawatch_com_)"
 
 + 1994-01-20 (Thu, 20 Jan 94 06:19:49 PST) - Re: faster code for neural network - _Ron Davis \<rondavis@datawatch.com\>_
 

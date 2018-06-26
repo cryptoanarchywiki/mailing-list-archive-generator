@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_demmers_jdemmers_at_noel_pd_org_
+post_count: 2
 ---
 
-# Jim Demmers <jdemmers@noel.pd.org> (2 posts)
+# Jim Demmers <jdemmers<span>@</span>noel.pd.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

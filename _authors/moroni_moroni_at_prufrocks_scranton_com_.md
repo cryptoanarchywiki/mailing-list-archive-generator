@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: moroni_moroni_at_prufrocks_scranton_com_
+post_count: 2
 ---
 
-# Moroni <moroni@prufrocks.scranton.com> (2 posts)
+# Moroni <moroni<span>@</span>prufrocks.scranton.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

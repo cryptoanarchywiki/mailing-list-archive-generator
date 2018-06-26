@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Perry E. Metzger" \<perry@imsi.com\><br>
+From: "Perry E. Metzger" \<perry<span>@</span>imsi.com\><br>
 To: rkmoore@iol.ie (Richard K. Moore)<br>
 Message Hash: 63354aad5badf17d3edbea0f27bb9b5ffbe4aa93e581140c37fedaef31db717b<br>
 Message ID: \<9501301859.AA24106@snark.imsi.com\><br>
@@ -54,6 +54,10 @@ Perry
 ## Thread
 
 + Return to [January 1995](/archive/1995/01)
+
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[rkmoore<span>@</span>iol.ie (Richard K. Moore)](/author/rkmoore_at_iol_ie_richard_k_moore_)"
++ Return to "["W. Kinney" <kinney<span>@</span>bogart.Colorado.EDU>](/author/w_kinney_kinney_at_bogart_colorado_edu_)"
 
 + 1995-01-30 (Mon, 30 Jan 95 10:39:24 PST) - ["bad" government](/archive/1995/01/6caf59be4199b216afad794ebcccfa02a93fff00599e4423c07cc81597ede5cc) - _rkmoore@iol.ie (Richard K. Moore)_
   + 1995-01-30 (Mon, 30 Jan 95 11:00:19 PST) - Re: "bad" government - _"Perry E. Metzger" \<perry@imsi.com\>_

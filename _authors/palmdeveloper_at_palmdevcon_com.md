@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: palmdeveloper_at_palmdevcon_com
+post_count: 4
 ---
 
-# palmdeveloper@palmdevcon.com (4 posts)
+# palmdeveloper<span>@</span>palmdevcon.com (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: danisch_at_ira_uka_de_hadmut_danisch_
+post_count: 96
 ---
 
-# danisch@ira.uka.de (Hadmut Danisch) (96 posts)
+# danisch<span>@</span>ira.uka.de (Hadmut Danisch) (96 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

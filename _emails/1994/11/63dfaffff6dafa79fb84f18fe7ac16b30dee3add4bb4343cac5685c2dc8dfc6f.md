@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: merriman@metronet.com (David K. Merriman)<br>
+From: merriman<span>@</span>metronet.com (David K. Merriman)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 63dfaffff6dafa79fb84f18fe7ac16b30dee3add4bb4343cac5685c2dc8dfc6f<br>
 Message ID: \<199411210211.AA19685@metronet.com\><br>
@@ -56,6 +56,8 @@ War is Peace.  Freedom is Slavery.   Ignorance is Strength.       No?
 ## Thread
 
 + Return to [November 1994](/archive/1994/11)
+
++ Return to "[merriman<span>@</span>metronet.com (David K. Merriman)](/author/merriman_at_metronet_com_david_k_merriman_)"
 
 + 1994-11-21 (Sun, 20 Nov 94 18:11:28 PST) - Re: usenet-to-mail - _merriman@metronet.com (David K. Merriman)_
 

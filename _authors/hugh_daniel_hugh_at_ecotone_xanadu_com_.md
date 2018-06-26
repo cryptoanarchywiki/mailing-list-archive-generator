@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hugh_daniel_hugh_at_ecotone_xanadu_com_
+post_count: 4
 ---
 
-# Hugh Daniel <hugh@ecotone.xanadu.com> (4 posts)
+# Hugh Daniel <hugh<span>@</span>ecotone.xanadu.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

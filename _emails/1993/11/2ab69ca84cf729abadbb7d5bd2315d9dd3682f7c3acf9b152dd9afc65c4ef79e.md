@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: cfrye@ciis.mitre.org (Curtis D. Frye)<br>
+From: cfrye<span>@</span>ciis.mitre.org (Curtis D. Frye)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 2ab69ca84cf729abadbb7d5bd2315d9dd3682f7c3acf9b152dd9afc65c4ef79e<br>
 Message ID: \<9311231727.AA09153@ciis.mitre.org\><br>
@@ -95,6 +95,8 @@ cfrye@ciis.mitre.org
 ## Thread
 
 + Return to [November 1993](/archive/1993/11)
+
++ Return to "[cfrye<span>@</span>ciis.mitre.org (Curtis D. Frye)](/author/cfrye_at_ciis_mitre_org_curtis_d_frye_)"
 
 + 1993-11-23 (Tue, 23 Nov 93 09:22:56 PST) - Re: Pyrrhus Cracks RSA? - _cfrye@ciis.mitre.org (Curtis D. Frye)_
 

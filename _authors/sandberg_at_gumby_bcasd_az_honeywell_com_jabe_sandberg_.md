@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sandberg_at_gumby_bcasd_az_honeywell_com_jabe_sandberg_
+post_count: 1
 ---
 
-# SANDBERG@GUMBY.BCASD.AZ.HONEYWELL.COM (Jabe Sandberg) (1 posts)
+# SANDBERG<span>@</span>GUMBY.BCASD.AZ.HONEYWELL.COM (Jabe Sandberg) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

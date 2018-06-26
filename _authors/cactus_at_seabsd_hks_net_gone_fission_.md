@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cactus_at_seabsd_hks_net_gone_fission_
+post_count: 3
 ---
 
-# cactus@seabsd.hks.net (Gone Fission) (3 posts)
+# cactus<span>@</span>seabsd.hks.net (Gone Fission) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

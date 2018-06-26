@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: chris_liljenstolpe_at_ssds_com_christopher_liljenstolpe_
+post_count: 5
 ---
 
-# chris.liljenstolpe@SSDS.com (Christopher Liljenstolpe) (5 posts)
+# chris.liljenstolpe<span>@</span>SSDS.com (Christopher Liljenstolpe) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

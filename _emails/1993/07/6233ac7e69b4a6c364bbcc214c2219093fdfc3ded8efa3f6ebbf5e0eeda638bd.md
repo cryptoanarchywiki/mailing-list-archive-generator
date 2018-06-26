@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@eli-remailer<br>
+From: nobody<span>@</span>eli-remailer<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 6233ac7e69b4a6c364bbcc214c2219093fdfc3ded8efa3f6ebbf5e0eeda638bd<br>
 Message ID: \<9307011457.AA15378@toad.com\><br>
@@ -90,6 +90,8 @@ xlkiNkCs+0E=
 ## Thread
 
 + Return to [July 1993](/archive/1993/07)
+
++ Return to "[nobody<span>@</span>eli-remailer](/author/nobody_at_eliremailer)"
 
 + 1993-07-01 (Thu, 1 Jul 93 07:57:26 PDT) - REMAIL: list of remailers 7/1/93 - _nobody@eli-remailer_
 

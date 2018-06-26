@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lware_at_voxel_com_lance_ware_voxel_guru_
+post_count: 1
 ---
 
-# lware@voxel.com (Lance Ware {VOXEL Guru}) (1 posts)
+# lware<span>@</span>voxel.com (Lance Ware {VOXEL Guru}) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

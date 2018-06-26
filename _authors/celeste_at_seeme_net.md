@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: celeste_at_seeme_net
+post_count: 1
 ---
 
-# celeste@seeme.net (1 posts)
+# celeste<span>@</span>seeme.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

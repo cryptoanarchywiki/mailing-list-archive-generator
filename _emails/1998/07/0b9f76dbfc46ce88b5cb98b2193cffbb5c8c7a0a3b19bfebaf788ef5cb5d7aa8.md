@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Linda Reed--PCC West Campus CSC \<lreed@west.cscwc.pima.edu\><br>
+From: Linda Reed--PCC West Campus CSC \<lreed<span>@</span>west.cscwc.pima.edu\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 0b9f76dbfc46ce88b5cb98b2193cffbb5c8c7a0a3b19bfebaf788ef5cb5d7aa8<br>
 Message ID: \<009C9B44.CC4026A0.7@west.cscwc.pima.edu\><br>
@@ -375,6 +375,8 @@ Content-Type: text/plain
 ## Thread
 
 + Return to [July 1998](/archive/1998/07)
+
++ Return to "[Linda Reed--PCC West Campus CSC <lreed<span>@</span>west.cscwc.pima.edu>](/author/linda_reedpcc_west_campus_csc_lreed_at_west_cscwc_pima_edu_)"
 
 + 1998-07-25 (Sat, 25 Jul 1998 11:05:21 -0700 (PDT)) - A Thousand Points Of Fight - _Linda Reed--PCC West Campus CSC \<lreed@west.cscwc.pima.edu\>_
 

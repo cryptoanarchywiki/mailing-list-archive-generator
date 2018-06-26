@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: dbs@philodox.com\><br>
 Message Hash: 075dcae3c9b9fffccbb8be9b0b2ba4775bfaa34245689ef0f2cdadfa4c2f684a<br>
 Message ID: \<v04020a14b2a69bffef40@[139.167.130.246]\><br>
@@ -89,6 +89,8 @@ experience." -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
 ## Thread
 
 + Return to [December 1998](/archive/1998/12)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1998-12-23 (Wed, 23 Dec 1998 22:45:52 +0800) - Context Magazine interviews with Moore, Metcalfe, and Coase - _Robert Hettinga \<rah@shipwright.com\>_
 

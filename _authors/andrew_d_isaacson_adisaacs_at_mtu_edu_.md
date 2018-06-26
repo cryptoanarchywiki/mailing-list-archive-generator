@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_d_isaacson_adisaacs_at_mtu_edu_
+post_count: 1
 ---
 
-# "Andrew D. Isaacson" <adisaacs@mtu.edu> (1 posts)
+# "Andrew D. Isaacson" <adisaacs<span>@</span>mtu.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

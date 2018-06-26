@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gerstein_at_scsud_ctstateu_edu
+post_count: 10
 ---
 
-# GERSTEIN@SCSUD.CTSTATEU.EDU (10 posts)
+# GERSTEIN<span>@</span>SCSUD.CTSTATEU.EDU (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

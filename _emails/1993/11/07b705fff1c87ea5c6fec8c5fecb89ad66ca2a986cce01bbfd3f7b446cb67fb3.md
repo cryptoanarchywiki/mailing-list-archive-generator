@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Dark \<unicorn@access.digex.net\><br>
+From: Dark \<unicorn<span>@</span>access.digex.net\><br>
 To: tcmay@netcom.com<br>
 Message Hash: 07b705fff1c87ea5c6fec8c5fecb89ad66ca2a986cce01bbfd3f7b446cb67fb3<br>
 Message ID: \<199311100437.AA05249@access.digex.net\><br>
@@ -63,6 +63,9 @@ as a political sway force and that personal feel?
 ## Thread
 
 + Return to [November 1993](/archive/1993/11)
+
++ Return to "[Dark <unicorn<span>@</span>access.digex.net>](/author/dark_unicorn_at_access_digex_net_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1993-11-10 (Tue, 9 Nov 93 20:38:47 PST) - Re: Are we gatewayed to Usenet? - _Dark \<unicorn@access.digex.net\>_
   + 1993-11-10 (Tue, 9 Nov 93 20:48:47 PST) - [Re: Are we gatewayed to Usenet?](/archive/1993/11/aab8da51a2b7910f9f0948e5aa1a3b7d9700d19c0376eaf4f781bb89d2a11068) - _tcmay@netcom.com (Timothy C. May)_

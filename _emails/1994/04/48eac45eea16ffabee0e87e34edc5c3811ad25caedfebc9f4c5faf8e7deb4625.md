@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Eric Johnson \<ejohnson@pmip.dist.maricopa.edu\><br>
+From: Eric Johnson \<ejohnson<span>@</span>pmip.dist.maricopa.edu\><br>
 To: merriman@metronet.com<br>
 Message Hash: 48eac45eea16ffabee0e87e34edc5c3811ad25caedfebc9f4c5faf8e7deb4625<br>
 Message ID: \<199404271554.IAA08454@pmip.dist.maricopa.edu\><br>
@@ -72,6 +72,8 @@ If you are interested in ordering a shirt from me, send email.
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[Eric Johnson <ejohnson<span>@</span>pmip.dist.maricopa.edu>](/author/eric_johnson_ejohnson_at_pmip_dist_maricopa_edu_)"
 
 + 1994-04-27 (Wed, 27 Apr 94 08:55:14 PDT) - Re: anti-clipper t-shirt - _Eric Johnson \<ejohnson@pmip.dist.maricopa.edu\>_
 

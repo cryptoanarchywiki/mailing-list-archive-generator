@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mlm_at_skyrr_is_magnus_logi_magnusson_
+post_count: 2
 ---
 
-# mlm@skyrr.is (Magnus Logi Magnusson) (2 posts)
+# mlm<span>@</span>skyrr.is (Magnus Logi Magnusson) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

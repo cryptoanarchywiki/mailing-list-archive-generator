@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dac_at_zurich_ibm_com_marc_dacier_
+post_count: 2
 ---
 
-# dac@zurich.ibm.com (Marc Dacier) (2 posts)
+# dac<span>@</span>zurich.ibm.com (Marc Dacier) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

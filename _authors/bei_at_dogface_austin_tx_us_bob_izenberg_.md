@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bei_at_dogface_austin_tx_us_bob_izenberg_
+post_count: 1
 ---
 
-# bei@dogface.austin.tx.us (Bob Izenberg) (1 posts)
+# bei<span>@</span>dogface.austin.tx.us (Bob Izenberg) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

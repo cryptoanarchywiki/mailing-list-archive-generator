@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_at_coombs_anu_edu_au_mark_
+post_count: 24
 ---
 
-# mark@coombs.anu.edu.au (Mark) (24 posts)
+# mark<span>@</span>coombs.anu.edu.au (Mark) (24 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

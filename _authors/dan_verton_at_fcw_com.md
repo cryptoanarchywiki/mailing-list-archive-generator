@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_verton_at_fcw_com
+post_count: 2
 ---
 
-# "dan_verton"@fcw.com (2 posts)
+# "dan_verton"<span>@</span>fcw.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

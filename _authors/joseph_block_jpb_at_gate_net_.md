@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joseph_block_jpb_at_gate_net_
+post_count: 13
 ---
 
-# Joseph Block <jpb@gate.net> (13 posts)
+# Joseph Block <jpb<span>@</span>gate.net> (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

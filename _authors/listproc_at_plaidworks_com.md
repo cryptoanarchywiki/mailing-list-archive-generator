@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: listproc_at_plaidworks_com
+post_count: 9
 ---
 
-# listproc@plaidworks.com (9 posts)
+# listproc<span>@</span>plaidworks.com (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

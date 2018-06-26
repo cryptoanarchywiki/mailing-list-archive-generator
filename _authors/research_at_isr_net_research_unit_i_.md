@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: research_at_isr_net_research_unit_i_
+post_count: 1
 ---
 
-# research@isr.net (Research Unit I) (1 posts)
+# research<span>@</span>isr.net (Research Unit I) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

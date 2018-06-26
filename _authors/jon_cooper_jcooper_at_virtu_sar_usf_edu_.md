@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jon_cooper_jcooper_at_virtu_sar_usf_edu_
+post_count: 1
 ---
 
-# Jon Cooper <jcooper@virtu.sar.usf.edu> (1 posts)
+# Jon Cooper <jcooper<span>@</span>virtu.sar.usf.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

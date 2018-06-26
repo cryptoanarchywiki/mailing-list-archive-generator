@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: carl_a_wescott_eyethink_at_cse_ucsc_edu_
+post_count: 1
 ---
 
-# "Carl A. Wescott" <eyethink@cse.ucsc.edu> (1 posts)
+# "Carl A. Wescott" <eyethink<span>@</span>cse.ucsc.edu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

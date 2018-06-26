@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anon0709_at_nyx_cs_du_edu_name_withheld_by_request_
+post_count: 1
 ---
 
-# anon0709@nyx.cs.du.edu (Name withheld by request) (1 posts)
+# anon0709<span>@</span>nyx.cs.du.edu (Name withheld by request) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dirk_elmendorf_delmendo_at_vm1_tucc_trinity_edu_
+post_count: 2
 ---
 
-# Dirk Elmendorf <DELMENDO@VM1.TUCC.TRINITY.EDU> (2 posts)
+# Dirk Elmendorf <DELMENDO<span>@</span>VM1.TUCC.TRINITY.EDU> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

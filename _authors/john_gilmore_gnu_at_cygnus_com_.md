@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: john_gilmore_gnu_at_cygnus_com_
+post_count: 2
 ---
 
-# John Gilmore <gnu@cygnus.com> (2 posts)
+# John Gilmore <gnu<span>@</span>cygnus.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

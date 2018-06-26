@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bogstad_at_condor_cs_jhu_edu_bill_bogstad_
+post_count: 1
 ---
 
-# bogstad@condor.cs.jhu.edu (Bill Bogstad) (1 posts)
+# bogstad<span>@</span>condor.cs.jhu.edu (Bill Bogstad) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

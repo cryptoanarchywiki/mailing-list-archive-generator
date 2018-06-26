@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alexey_boldyrev_overlord_at_hp_novsu_ac_ru_
+post_count: 1
 ---
 
-# Alexey Boldyrev <overlord@hp.novsu.ac.ru> (1 posts)
+# Alexey Boldyrev <overlord<span>@</span>hp.novsu.ac.ru> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

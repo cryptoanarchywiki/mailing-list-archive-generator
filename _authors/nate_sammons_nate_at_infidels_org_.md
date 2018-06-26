@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: nate_sammons_nate_at_infidels_org_
+post_count: 4
 ---
 
-# Nate Sammons <nate@infidels.org> (4 posts)
+# Nate Sammons <nate<span>@</span>infidels.org> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

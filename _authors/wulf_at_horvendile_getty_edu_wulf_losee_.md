@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wulf_at_horvendile_getty_edu_wulf_losee_
+post_count: 1
 ---
 
-# wulf@horvendile.getty.edu (Wulf Losee) (1 posts)
+# wulf<span>@</span>horvendile.getty.edu (Wulf Losee) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

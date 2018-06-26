@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jay_sulzberger_jays_at_cloud9_net_
+post_count: 1
 ---
 
-# Jay Sulzberger <jays@cloud9.net> (1 posts)
+# Jay Sulzberger <jays<span>@</span>cloud9.net> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

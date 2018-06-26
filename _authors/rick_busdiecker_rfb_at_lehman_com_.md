@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rick_busdiecker_rfb_at_lehman_com_
+post_count: 114
 ---
 
-# Rick Busdiecker <rfb@lehman.com> (114 posts)
+# Rick Busdiecker <rfb<span>@</span>lehman.com> (114 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

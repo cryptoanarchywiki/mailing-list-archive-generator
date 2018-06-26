@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Tim May \<tcmay@got.net\><br>
+From: Tim May \<tcmay<span>@</span>got.net\><br>
 To: cypherpunks@Algebra.COM<br>
 Message Hash: 6daf91863278dda1bdebe5dc9d588977bd85e1b8e05d9dfe6b0d9fef3fb09ebc<br>
 Message ID: \<v03102806b0f599c3ba80@[207.167.93.63]\><br>
@@ -72,6 +72,10 @@ Higher Power: 2^2,976,221   | black markets, collapse of governments.
 ## Thread
 
 + Return to [January 1998](/archive/1998/01)
+
++ Return to "[jim<span>@</span>mentat.com (Jim Gillogly)](/author/jim_at_mentat_com_jim_gillogly_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "["Uhh...this is Joe [Randall Farmer]" <rfarmer<span>@</span>HiWAAY.net>](/author/uhh_this_is_joe_randall_farmer_rfarmer_at_hiwaay_net_)"
 
 + 1998-01-29 (Thu, 29 Jan 1998 08:34:07 +0800) - [Re: Predicting cipher life / NSA rigged DES? / Destroying encrypted data (Tangent to Re: Burning papers)](/archive/1998/01/fe6e4878233c097937e79ebf7ab35b1bfcb773a96c7c398461ddce41e166668d) - _jim@mentat.com (Jim Gillogly)_
   + 1998-01-29 (Thu, 29 Jan 1998 10:36:23 +0800) - Chaining ciphers - _Tim May \<tcmay@got.net\>_

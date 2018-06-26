@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vincent_cate_at_furmint_nectar_cs_cmu_edu
+post_count: 25
 ---
 
-# Vincent.Cate@FURMINT.NECTAR.CS.CMU.EDU (25 posts)
+# Vincent.Cate<span>@</span>FURMINT.NECTAR.CS.CMU.EDU (25 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kwit_at_iap_net_au
+post_count: 6
 ---
 
-# kwit@iap.net.au (6 posts)
+# kwit<span>@</span>iap.net.au (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

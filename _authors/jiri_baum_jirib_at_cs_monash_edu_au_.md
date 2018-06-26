@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jiri_baum_jirib_at_cs_monash_edu_au_
+post_count: 10
 ---
 
-# Jiri Baum <jirib@cs.monash.edu.au> (10 posts)
+# Jiri Baum <jirib<span>@</span>cs.monash.edu.au> (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

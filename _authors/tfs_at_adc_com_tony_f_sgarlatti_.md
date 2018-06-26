@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: tfs_at_adc_com_tony_f_sgarlatti_
+post_count: 1
 ---
 
-# tfs@adc.com (Tony F Sgarlatti) (1 posts)
+# tfs<span>@</span>adc.com (Tony F Sgarlatti) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dr_jai_maharaj_jai_at_aloha_com_
+post_count: 3
 ---
 
-# "Dr. Jai Maharaj" <jai@aloha.com> (3 posts)
+# "Dr. Jai Maharaj" <jai<span>@</span>aloha.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

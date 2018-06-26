@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 8be1ec56ff6540e8928ee0cf8cb22a2bb1b98dd96e0fabd5ca2ac00fb632ebf0<br>
 Message ID: \<yT0guD107w165w@bwalk.dm.com\><br>
@@ -64,5 +64,8 @@ Fuckhead.
 
 + Return to [September 1996](/archive/1996/09)
 
-+ 1996-09-19 (Thu, 19 Sep 1996 12:46:53 +0800) - Re: Fuckhead - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
+
++ _Unknown thread root_
+  + 1996-09-19 (Thu, 19 Sep 1996 12:46:53 +0800) - Re: Fuckhead - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 

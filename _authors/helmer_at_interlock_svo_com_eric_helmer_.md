@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: helmer_at_interlock_svo_com_eric_helmer_
+post_count: 1
 ---
 
-# helmer@interlock.svo.com (Eric Helmer) (1 posts)
+# helmer<span>@</span>interlock.svo.com (Eric Helmer) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

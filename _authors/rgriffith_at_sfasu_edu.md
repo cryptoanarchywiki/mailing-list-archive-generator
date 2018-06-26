@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rgriffith_at_sfasu_edu
+post_count: 6
 ---
 
-# RGRIFFITH@sfasu.edu (6 posts)
+# RGRIFFITH<span>@</span>sfasu.edu (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

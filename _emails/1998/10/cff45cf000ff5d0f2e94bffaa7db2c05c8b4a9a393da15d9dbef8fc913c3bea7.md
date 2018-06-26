@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: cff45cf000ff5d0f2e94bffaa7db2c05c8b4a9a393da15d9dbef8fc913c3bea7<br>
 Message ID: \<v04020a05b2602e1192b0@[139.167.130.247]\><br>
@@ -295,6 +295,10 @@ experience." -- Edward Gibbon, 'Decline and Fall of the Roman Empire'
 ## Thread
 
 + Return to [October 1998](/archive/1998/10)
+
++ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/author/james_a_donald_jamesd_at_echeque_com_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
 
 + 1998-10-31 (Sat, 31 Oct 1998 11:40:28 +0800) - [RRE]The Return of Antimasonism in American Political Life - _Robert Hettinga \<rah@shipwright.com\>_
   + 1998-10-31 (Sun, 1 Nov 1998 04:27:59 +0800) - [Re: [RRE]The Return of Antimasonism in American Political Life](/archive/1998/10/24e037fe676d3b6b3ee8ec14ac1d3bd21cb8c1d3c7b1b5e2f4e9b635d8a43d1b) - _"James A. Donald" \<jamesd@echeque.com\>_

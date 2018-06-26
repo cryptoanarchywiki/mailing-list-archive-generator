@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: rdonnovan@hotmail.com<br>
+From: rdonnovan<span>@</span>hotmail.com<br>
 To: _N/A_<br>
 Message Hash: 028ac909cf4eefc626cbefe690cca75450f3ca12de3ddb9be2c319950ce9ddee<br>
 Message ID: \<199804032147.NAA29714@toad.com\><br>
@@ -225,6 +225,8 @@ Columbus, OH 43222
 ## Thread
 
 + Return to [April 1998](/archive/1998/04)
+
++ Return to "[rdonnovan<span>@</span>hotmail.com](/author/rdonnovan_at_hotmail_com)"
 
 + 1998-04-03 (Fri, 3 Apr 1998 13:47:48 -0800 (PST)) - Golden Portfolio and Ca$h - _rdonnovan@hotmail.com_
 

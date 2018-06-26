@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: inigo_gonzalez_nexus_at_adv_es_
+post_count: 4
 ---
 
-# "I~nigo Gonzalez" <nexus@adv.es> (4 posts)
+# "I~nigo Gonzalez" <nexus<span>@</span>adv.es> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

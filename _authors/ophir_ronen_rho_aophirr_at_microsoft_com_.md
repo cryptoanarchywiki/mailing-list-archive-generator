@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ophir_ronen_rho_aophirr_at_microsoft_com_
+post_count: 9
 ---
 
-# Ophir Ronen (Rho) <a-ophirr@microsoft.com> (9 posts)
+# Ophir Ronen (Rho) <a-ophirr<span>@</span>microsoft.com> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

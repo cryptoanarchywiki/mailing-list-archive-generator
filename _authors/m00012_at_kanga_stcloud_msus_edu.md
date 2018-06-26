@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: m00012_at_kanga_stcloud_msus_edu
+post_count: 12
 ---
 
-# M00012@kanga.stcloud.msus.edu (12 posts)
+# M00012<span>@</span>kanga.stcloud.msus.edu (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

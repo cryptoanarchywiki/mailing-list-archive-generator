@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: robert_brooks_rb_at_hprrb_rose_hp_com_
+post_count: 3
 ---
 
-# Robert Brooks <rb@hprrb.rose.hp.com> (3 posts)
+# Robert Brooks <rb<span>@</span>hprrb.rose.hp.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

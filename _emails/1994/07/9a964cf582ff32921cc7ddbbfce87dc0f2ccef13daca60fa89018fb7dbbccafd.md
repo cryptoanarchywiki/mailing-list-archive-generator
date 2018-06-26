@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jeff Gostin \<jgostin@eternal.pha.pa.us\><br>
+From: Jeff Gostin \<jgostin<span>@</span>eternal.pha.pa.us\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9a964cf582ff32921cc7ddbbfce87dc0f2ccef13daca60fa89018fb7dbbccafd<br>
 Message ID: \<940724171435A8Ljgostin@eternal.pha.pa.us\><br>
@@ -53,6 +53,8 @@ without the proper authorization.
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "[Jeff Gostin <jgostin<span>@</span>eternal.pha.pa.us>](/author/jeff_gostin_jgostin_at_eternal_pha_pa_us_)"
 
 + 1994-07-26 (Mon, 25 Jul 94 20:10:03 PDT) - Re: How to legit encryption - _Jeff Gostin \<jgostin@eternal.pha.pa.us\>_
 

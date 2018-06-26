@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: z_b__zachb_at_netcom_com_
+post_count: 53
 ---
 
-# "Z.B." <zachb@netcom.com> (53 posts)
+# "Z.B." <zachb<span>@</span>netcom.com> (53 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

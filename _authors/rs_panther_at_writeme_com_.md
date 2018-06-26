@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rs_panther_at_writeme_com_
+post_count: 1
 ---
 
-# "RS" <panther@writeme.com> (1 posts)
+# "RS" <panther<span>@</span>writeme.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

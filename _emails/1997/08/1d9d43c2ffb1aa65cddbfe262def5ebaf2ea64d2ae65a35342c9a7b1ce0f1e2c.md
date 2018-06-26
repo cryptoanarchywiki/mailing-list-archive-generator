@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mike \<Michael.Johnson@mejl.com\><br>
+From: Mike \<Michael.Johnson<span>@</span>mejl.com\><br>
 To: ? the platypus {aka David Formosa} \<cypherpunks@toad.com<br>
 Message Hash: 1d9d43c2ffb1aa65cddbfe262def5ebaf2ea64d2ae65a35342c9a7b1ce0f1e2c<br>
 Message ID: \<3.0.3.32.19970819080948.009b9190@localhost\><br>
@@ -67,6 +67,15 @@ Mike.
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[? the Platypus {aka David Formosa} <dformosa<span>@</span>st.nepean.uws.edu.au>](/author/_the_platypus_aka_david_formosa_dformosa_at_st_nepean_uws_edu_au_)"
++ Return to "[? the platypus {aka David Formosa} <dformosa<span>@</span>st.nepean.uws.edu.au>](/author/_the_platypus_aka_david_formosa_dformosa_at_st_nepean_uws_edu_au_)"
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "["David Downey" <digital_matrix<span>@</span>hotmail.com>](/author/david_downey_digital_matrix_at_hotmail_com_)"
++ Return to "[Irwan Hadi <phoenix<span>@</span>cutey.com>](/author/irwan_hadi_phoenix_at_cutey_com_)"
++ Return to "[Mike <Michael.Johnson<span>@</span>mejl.com>](/author/mike_michael_johnson_at_mejl_com_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-08-17 (Sun, 17 Aug 1997 20:49:29 +0800) - [Re: PGP5i supports RSA keys?](/archive/1997/08/a7fcbea80f0575ee22ff5dbce57345740f55a79674eb314feffcb64d60455f88) - _"David Downey" \<digital_matrix@hotmail.com\>_
   + 1997-08-19 (Tue, 19 Aug 1997 12:51:14 +0800) - [Re: PGP5i supports RSA keys?](/archive/1997/08/a7f2c1f582f3ad0518105dc368a3c4598255c21cefcd141a91bb2b0d23c7374f) - _? the platypus {aka David Formosa} \<dformosa@st.nepean.uws.edu.au\>_

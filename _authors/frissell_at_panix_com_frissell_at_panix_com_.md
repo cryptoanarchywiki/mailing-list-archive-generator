@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: frissell_at_panix_com_frissell_at_panix_com_
+post_count: 1
 ---
 
-# frissell@panix.com (Frissell@panix.com) (1 posts)
+# frissell<span>@</span>panix.com (Frissell<span>@</span>panix.com) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

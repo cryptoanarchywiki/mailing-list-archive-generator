@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: susan_sales_at_megasites_jpinc_com_
+post_count: 1
 ---
 
-# Susan <sales@megasites.jp-inc.com> (1 posts)
+# Susan <sales<span>@</span>megasites.jp-inc.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: eliner_at_departs_co_il
+post_count: 1
 ---
 
-# eliner@departs.co.il (1 posts)
+# eliner<span>@</span>departs.co.il (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

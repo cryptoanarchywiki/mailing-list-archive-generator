@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_allan_at_aeat_co_uk_peter_m_allan_
+post_count: 26
 ---
 
-# peter.allan@aeat.co.uk (Peter M Allan) (26 posts)
+# peter.allan<span>@</span>aeat.co.uk (Peter M Allan) (26 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

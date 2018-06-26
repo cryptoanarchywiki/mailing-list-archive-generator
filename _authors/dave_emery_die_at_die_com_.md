@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_emery_die_at_die_com_
+post_count: 20
 ---
 
-# Dave Emery <die@die.com> (20 posts)
+# Dave Emery <die<span>@</span>die.com> (20 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

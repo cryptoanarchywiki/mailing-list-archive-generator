@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: stu_at_nemesis_stuart_smith_
+post_count: 2
 ---
 
-# stu@nemesis (Stuart Smith) (2 posts)
+# stu<span>@</span>nemesis (Stuart Smith) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lwjohnson_at_grill_sk_ca_larry_johnson_
+post_count: 11
 ---
 
-# lwjohnson@grill.sk.ca (Larry Johnson) (11 posts)
+# lwjohnson<span>@</span>grill.sk.ca (Larry Johnson) (11 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

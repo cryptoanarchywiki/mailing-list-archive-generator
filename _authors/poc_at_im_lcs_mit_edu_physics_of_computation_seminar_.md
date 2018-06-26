@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: poc_at_im_lcs_mit_edu_physics_of_computation_seminar_
+post_count: 2
 ---
 
-# poc@im.lcs.mit.edu (Physics of Computation Seminar) (2 posts)
+# poc<span>@</span>im.lcs.mit.edu (Physics of Computation Seminar) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

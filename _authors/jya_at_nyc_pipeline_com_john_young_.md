@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jya_at_nyc_pipeline_com_john_young_
+post_count: 1
 ---
 
-# jya@nyc.pipeline.com (John Young) (1 posts)
+# jya<span>@</span>nyc.pipeline.com (John Young) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

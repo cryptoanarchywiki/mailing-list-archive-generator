@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_sewell_jims_at_central_keywest_mpgn_com_
+post_count: 31
 ---
 
-# "Jim Sewell" <jims@Central.KeyWest.MPGN.COM> (31 posts)
+# "Jim Sewell" <jims<span>@</span>Central.KeyWest.MPGN.COM> (31 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

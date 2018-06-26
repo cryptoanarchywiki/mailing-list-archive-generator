@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: crawford_at_scruznet_com_michael_d_crawford_
+post_count: 13
 ---
 
-# crawford@scruznet.com (Michael D. Crawford) (13 posts)
+# crawford<span>@</span>scruznet.com (Michael D. Crawford) (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

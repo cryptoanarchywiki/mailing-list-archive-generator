@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vpuser_at_u041_oh_vp_com_adminstandard_vp_login_
+post_count: 2
 ---
 
-# vpuser@u041.oh.vp.com (ADMIN-Standard VP login) (2 posts)
+# vpuser<span>@</span>u041.oh.vp.com (ADMIN-Standard VP login) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

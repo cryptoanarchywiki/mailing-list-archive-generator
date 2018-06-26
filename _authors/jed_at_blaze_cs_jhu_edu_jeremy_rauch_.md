@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jed_at_blaze_cs_jhu_edu_jeremy_rauch_
+post_count: 2
 ---
 
-# jed@blaze.cs.jhu.edu (Jeremy Rauch) (2 posts)
+# jed<span>@</span>blaze.cs.jhu.edu (Jeremy Rauch) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

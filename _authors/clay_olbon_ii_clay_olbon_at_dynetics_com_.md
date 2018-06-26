@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: clay_olbon_ii_clay_olbon_at_dynetics_com_
+post_count: 22
 ---
 
-# Clay Olbon II <clay.olbon@dynetics.com> (22 posts)
+# Clay Olbon II <clay.olbon<span>@</span>dynetics.com> (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

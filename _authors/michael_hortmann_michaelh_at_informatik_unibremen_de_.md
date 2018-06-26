@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: michael_hortmann_michaelh_at_informatik_unibremen_de_
+post_count: 1
 ---
 
-# Michael Hortmann <michaelh@Informatik.Uni-Bremen.DE> (1 posts)
+# Michael Hortmann <michaelh<span>@</span>Informatik.Uni-Bremen.DE> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

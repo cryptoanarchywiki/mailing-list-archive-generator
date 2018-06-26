@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: declan_at_hotwired_com_declan_mccullagh_
+post_count: 2
 ---
 
-# declan@hotwired.com (Declan McCullagh) (2 posts)
+# declan<span>@</span>hotwired.com (Declan McCullagh) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

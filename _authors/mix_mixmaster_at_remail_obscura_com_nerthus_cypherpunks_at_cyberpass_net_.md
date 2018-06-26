@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mix_mixmaster_at_remail_obscura_com_nerthus_cypherpunks_at_cyberpass_net_
+post_count: 2
 ---
 
-# Mix <mixmaster@remail.obscura.com>Nerthus <cypherpunks@cyberpass.net> (2 posts)
+# Mix <mixmaster<span>@</span>remail.obscura.com>Nerthus <cypherpunks<span>@</span>cyberpass.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

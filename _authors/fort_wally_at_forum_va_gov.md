@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fort_wally_at_forum_va_gov
+post_count: 1
 ---
 
-# FORT.WALLY@forum.va.gov (1 posts)
+# FORT.WALLY<span>@</span>forum.va.gov (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

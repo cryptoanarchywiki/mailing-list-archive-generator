@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Jim Choate \<ravage@einstein.ssz.com\><br>
+From: Jim Choate \<ravage<span>@</span>einstein.ssz.com\><br>
 To: cypherpunks@einstein.ssz.com (Cypherpunks Distributed Remailer)<br>
 Message Hash: 78d7af853fef6ba4a21a5fe45fd82fb0bd9facea207e87724b5abce1aeaa0946<br>
 Message ID: \<199810220410.XAA05986@einstein.ssz.com\><br>
@@ -62,6 +62,8 @@ Perhaps one of the more versed in case law members might remember it.
 ## Thread
 
 + Return to [October 1998](/archive/1998/10)
+
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-10-22 (Thu, 22 Oct 1998 12:23:54 +0800) - Re: Women cannot commit rape? (fwd) - _Jim Choate \<ravage@einstein.ssz.com\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: new_world_fnorder_miller_su_at_swam1_enet_dec_com_
+post_count: 1
 ---
 
-# New World Fnorder <miller_su@swam1.enet.dec.com> (1 posts)
+# New World Fnorder <miller_su<span>@</span>swam1.enet.dec.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

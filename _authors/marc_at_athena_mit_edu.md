@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: marc_at_athena_mit_edu
+post_count: 2
 ---
 
-# marc@Athena.MIT.EDU (2 posts)
+# marc<span>@</span>Athena.MIT.EDU (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

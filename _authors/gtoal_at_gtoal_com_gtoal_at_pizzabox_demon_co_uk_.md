@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gtoal_at_gtoal_com_gtoal_at_pizzabox_demon_co_uk_
+post_count: 9
 ---
 
-# "gtoal@gtoal.com" <gtoal@pizzabox.demon.co.uk> (9 posts)
+# "gtoal<span>@</span>gtoal.com" <gtoal<span>@</span>pizzabox.demon.co.uk> (9 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

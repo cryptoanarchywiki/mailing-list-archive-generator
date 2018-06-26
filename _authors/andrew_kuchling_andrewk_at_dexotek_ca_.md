@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: andrew_kuchling_andrewk_at_dexotek_ca_
+post_count: 2
 ---
 
-# Andrew Kuchling <andrewk@dexotek.ca> (2 posts)
+# Andrew Kuchling <andrewk<span>@</span>dexotek.ca> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

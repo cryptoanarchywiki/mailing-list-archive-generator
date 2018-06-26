@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fen_labalme_fen_at_comedia_com_
+post_count: 1
 ---
 
-# Fen Labalme <fen@comedia.com> (1 posts)
+# Fen Labalme <fen<span>@</span>comedia.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

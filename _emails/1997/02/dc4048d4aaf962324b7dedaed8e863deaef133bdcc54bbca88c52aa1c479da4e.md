@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
+From: dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: dc4048d4aaf962324b7dedaed8e863deaef133bdcc54bbca88c52aa1c479da4e<br>
 Message ID: \<L19u2D3w165w@bwalk.dm.com\><br>
@@ -727,5 +727,8 @@ Meaw.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ 1997-02-09 (Sun, 9 Feb 1997 08:20:11 -0800 (PST)) - Re: On "spammers" and "anti-spammers" - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
+
++ _Unknown thread root_
+  + 1997-02-09 (Sun, 9 Feb 1997 08:20:11 -0800 (PST)) - Re: On "spammers" and "anti-spammers" - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 

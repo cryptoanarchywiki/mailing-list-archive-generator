@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: azur_at_netcom_com_steve_schear_
+post_count: 163
 ---
 
-# azur@netcom.com (Steve Schear) (163 posts)
+# azur<span>@</span>netcom.com (Steve Schear) (163 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Mark M." \<markm@voicenet.com\><br>
+From: "Mark M." \<markm<span>@</span>voicenet.com\><br>
 To: Andrew Loewenstern \<andrew_loewenstern@il.us.swissbank.com\><br>
 Message Hash: f94fea15afcc9fd4a8a7df192592ad5ef0b24bcdcb0c4ee84ba145aec708267b<br>
 Message ID: \<Pine.LNX.3.93.960528160536.176B-100000@gak\><br>
@@ -84,6 +84,10 @@ LgUf7G9L4vI=
 ## Thread
 
 + Return to [May 1996](/archive/1996/05)
+
++ Return to "[Andrew Loewenstern <andrew_loewenstern<span>@</span>il.us.swissbank.com>](/author/andrew_loewenstern_andrew_loewenstern_at_il_us_swissbank_com_)"
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
 
 + 1996-05-25 (Sat, 25 May 1996 15:57:51 +0800) - [Re: Layman's explanation for limits on escrowed encryption ...](/archive/1996/05/7266b6edcb9504b039d04fbed00ae1c88d0c0a1b4d0abeb7ead8e4aa0c913f50) - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
   + 1996-05-28 (Tue, 28 May 1996 13:50:10 +0800) - [Re: Layman's explanation for limits on escrowed encryption ...](/archive/1996/05/18db79102d7cdeefab9567c47d33d893e10d45315a60b541601b61e186d9ada7) - _"Mark M." \<markm@voicenet.com\>_

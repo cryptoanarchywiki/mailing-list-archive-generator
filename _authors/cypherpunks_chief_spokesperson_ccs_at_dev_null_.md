@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cypherpunks_chief_spokesperson_ccs_at_dev_null_
+post_count: 2
 ---
 
-# CypherPunks Chief SpokesPerson <ccs@dev.null> (2 posts)
+# CypherPunks Chief SpokesPerson <ccs<span>@</span>dev.null> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: c81d7ef395e6a6cd3ed3a2ccc89df7e8def27e0a9e3d080da54a38efe888ebbf<br>
 Message ID: \<199512190442.UAA14637@ix3.ix.netcom.com\><br>
@@ -98,6 +98,10 @@ publicity supporting a candidate provided directly by non-candidates.
 ## Thread
 
 + Return to [December 1995](/archive/1995/12)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[hallam<span>@</span>w3.org](/author/hallam_at_w3_org)"
++ Return to "[Jay Holovacs <holovacs<span>@</span>styx.ios.com>](/author/jay_holovacs_holovacs_at_styx_ios_com_)"
 
 + 1995-12-19 (Tue, 19 Dec 1995 21:02:52 +0800) - Re: Political Cleanup program [NOISE] - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1995-12-19 (Tue, 19 Dec 1995 20:50:38 +0800) - [Re: Political Cleanup program [NOISE]](/archive/1995/12/f2d3c3cfba92535af9bedc136aaf697149b2db3b5c7aab54131d368982bd252a) - _Jay Holovacs \<holovacs@styx.ios.com\>_

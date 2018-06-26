@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: system_operator_system_at_decode_com_
+post_count: 3
 ---
 
-# System Operator <system@decode.com> (3 posts)
+# System Operator <system<span>@</span>decode.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

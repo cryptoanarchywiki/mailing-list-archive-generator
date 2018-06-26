@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@shell.portal.com<br>
+From: nobody<span>@</span>shell.portal.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9dbdcadcab56b54f4be76274b7dbfdf1872dfcdcfbd3b5c4b51c176afe74e369<br>
 Message ID: \<199406251707.KAA04021@jobe.shell.portal.com\><br>
@@ -39,6 +39,8 @@ has ever shown up, and I suspect I've got a bad key on my ring for them!
 ## Thread
 
 + Return to [June 1994](/archive/1994/06)
+
++ Return to "[nobody<span>@</span>shell.portal.com](/author/nobody_at_shell_portal_com)"
 
 + 1994-06-25 (Sat, 25 Jun 94 10:06:11 PDT) - PGP public key for soda.berkeley remailer? - _nobody@shell.portal.com_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dan_mcdonald_danmcd_at_eng_sun_com_
+post_count: 1
 ---
 
-# Dan McDonald <danmcd@Eng.Sun.COM> (1 posts)
+# Dan McDonald <danmcd<span>@</span>Eng.Sun.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

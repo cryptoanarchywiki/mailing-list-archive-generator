@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sergey_goldgaber_sergey_at_el_net_
+post_count: 15
 ---
 
-# Sergey Goldgaber <sergey@el.net> (15 posts)
+# Sergey Goldgaber <sergey<span>@</span>el.net> (15 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

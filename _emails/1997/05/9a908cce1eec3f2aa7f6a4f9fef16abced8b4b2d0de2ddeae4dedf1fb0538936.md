@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: azur@netcom.com (Steve Schear)<br>
+From: azur<span>@</span>netcom.com (Steve Schear)<br>
 To: Jeff Barber \<declan@well.com<br>
 Message Hash: 9a908cce1eec3f2aa7f6a4f9fef16abced8b4b2d0de2ddeae4dedf1fb0538936<br>
 Message ID: \<v02140b09af9075621186@[10.0.2.15]\><br>
@@ -71,6 +71,8 @@ Las Vegas, NV 89129       | Internet: azur@netcom.com
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[azur<span>@</span>netcom.com (Steve Schear)](/author/azur_at_netcom_com_steve_schear_)"
 
 + 1997-05-03 (Sat, 3 May 1997 13:17:54 +0800) - Re: Bombs Away, from The Netly News Network - _azur@netcom.com (Steve Schear)_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 9fx7q8jnz_at_pobox_com
+post_count: 1
 ---
 
-# 9fX7Q8JNZ@pobox.com (1 posts)
+# 9fX7Q8JNZ<span>@</span>pobox.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

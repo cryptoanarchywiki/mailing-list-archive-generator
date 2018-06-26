@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: just_rich_rich_at_c2_org_
+post_count: 17
 ---
 
-# Just Rich <rich@c2.org> (17 posts)
+# Just Rich <rich<span>@</span>c2.org> (17 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

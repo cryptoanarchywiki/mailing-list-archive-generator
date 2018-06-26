@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dave_neuenschwander_at_va_arca_com_dave_neuenschwander_
+post_count: 1
 ---
 
-# Dave_Neuenschwander@va.arca.com (Dave Neuenschwander) (1 posts)
+# Dave_Neuenschwander<span>@</span>va.arca.com (Dave Neuenschwander) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

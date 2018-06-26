@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Elf" \<cwalker@erie.net\><br>
+From: "Elf" \<cwalker<span>@</span>erie.net\><br>
 To: "Rich Graves" \<cypherpunks@toad.com\><br>
 Message Hash: 71bb1069ac0080bf41dd45eebb1cd10ca3ddbfe3e0e69b335ad02ec795dbbfc5<br>
 Message ID: \<199608220615.CAA24044@moose.erie.net\><br>
@@ -67,6 +67,8 @@ employees would enforce this.  But you never know!
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "["Elf" <cwalker<span>@</span>erie.net>](/author/elf_cwalker_at_erie_net_)"
 
 + 1996-08-22 (Thu, 22 Aug 1996 16:13:41 +0800) - Re: Husband/Wife jailed for saying Clinton Sucks - _"Elf" \<cwalker@erie.net\>_
 

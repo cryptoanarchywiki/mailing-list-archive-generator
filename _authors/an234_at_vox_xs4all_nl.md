@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an234_at_vox_xs4all_nl
+post_count: 3
 ---
 
-# an234@vox.xs4all.nl (3 posts)
+# an234<span>@</span>vox.xs4all.nl (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: elton_at_sybase_com_elton_wildermuth_
+post_count: 3
 ---
 
-# elton@sybase.com (Elton Wildermuth) (3 posts)
+# elton<span>@</span>sybase.com (Elton Wildermuth) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

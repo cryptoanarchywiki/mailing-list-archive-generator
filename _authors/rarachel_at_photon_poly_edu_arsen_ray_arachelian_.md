@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: rarachel_at_photon_poly_edu_arsen_ray_arachelian_
+post_count: 18
 ---
 
-# rarachel@photon.poly.edu (Arsen Ray Arachelian) (18 posts)
+# rarachel<span>@</span>photon.poly.edu (Arsen Ray Arachelian) (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

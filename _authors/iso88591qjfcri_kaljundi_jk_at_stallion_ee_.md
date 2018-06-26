@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: iso88591qjfcri_kaljundi_jk_at_stallion_ee_
+post_count: 34
 ---
 
-# =?ISO-8859-1?Q?J=FCri_Kaljundi?= <jk@stallion.ee> (34 posts)
+# =?ISO-8859-1?Q?J=FCri_Kaljundi?= <jk<span>@</span>stallion.ee> (34 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

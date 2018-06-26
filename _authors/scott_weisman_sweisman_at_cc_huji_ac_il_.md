@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: scott_weisman_sweisman_at_cc_huji_ac_il_
+post_count: 1
 ---
 
-# Scott Weisman <sweisman@cc.huji.ac.il> (1 posts)
+# Scott Weisman <sweisman<span>@</span>cc.huji.ac.il> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: lmccarth_at_freya_cs_umass_edu
+post_count: 2
 ---
 
-# lmccarth@freya.cs.umass.edu (2 posts)
+# lmccarth<span>@</span>freya.cs.umass.edu (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

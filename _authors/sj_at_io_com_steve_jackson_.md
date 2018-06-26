@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sj_at_io_com_steve_jackson_
+post_count: 1
 ---
 
-# sj@io.com (Steve Jackson) (1 posts)
+# sj<span>@</span>io.com (Steve Jackson) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

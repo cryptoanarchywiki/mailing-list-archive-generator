@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Douglas R. Floyd" \<dfloyd@io.com\><br>
+From: "Douglas R. Floyd" \<dfloyd<span>@</span>io.com\><br>
 To: schmidt@pin.de (Stephan Schmidt)<br>
 Message Hash: effd57e092db2643047e4cd9aef6ecf1a0eddf86e9fdbf6ccbb091f49c12bf5c<br>
 Message ID: \<199608151830.NAA10012@xanadu.io.com\><br>
@@ -76,6 +76,12 @@ makes an attempt to give a fair trial.
 ## Thread
 
 + Return to [August 1996](/archive/1996/08)
+
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "["Douglas R. Floyd" <dfloyd<span>@</span>io.com>](/author/douglas_r_floyd_dfloyd_at_io_com_)"
++ Return to "[iang<span>@</span>cs.berkeley.edu (Ian Goldberg)](/author/iang_at_cs_berkeley_edu_ian_goldberg_)"
++ Return to "[Kevin Stephenson <cts<span>@</span>deltanet.com>](/author/kevin_stephenson_cts_at_deltanet_com_)"
++ Return to "[Stephan Schmidt <schmidt<span>@</span>pin.de>](/author/stephan_schmidt_schmidt_at_pin_de_)"
 
 + 1996-08-15 (Thu, 15 Aug 1996 16:55:02 +0800) - [Jurisdictionless Distributed Data Havens](/archive/1996/08/7d177a0189ec1e239540d304a72a1871e1f6941d2622eeceafdf8433e892534e) - _Kevin Stephenson \<cts@deltanet.com\>_
   + 1996-08-15 (Thu, 15 Aug 1996 23:43:10 +0800) - [Re: Jurisdictionless Distributed Data Havens](/archive/1996/08/5ad5c1bf17fb725cec893d98483e2fc792f8090c819b8ad557fc7166dafade07) - _Stephan Schmidt \<schmidt@pin.de\>_

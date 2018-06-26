@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: camcc_at_abraxis_com_alec_
+post_count: 29
 ---
 
-# camcc@abraxis.com (Alec) (29 posts)
+# camcc<span>@</span>abraxis.com (Alec) (29 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

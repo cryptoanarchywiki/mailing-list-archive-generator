@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: heroesfitzgerald_7feb1997_14heroesfitzgerald_7feb1997_141816_47
+post_count: 1
 ---
 
-# "HEROES::FITZGERALD    7-FEB-1997 14":HEROES::FITZGERALD.7-FEB-1997.14:18:16.47 (1 posts)
+# "HEROES::FITZGERALD    7-FEB-1997 14":HEROES::FITZGERALD.7-FEB-1997.14:18:16.47 (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

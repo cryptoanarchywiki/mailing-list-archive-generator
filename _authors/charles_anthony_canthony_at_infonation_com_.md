@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: charles_anthony_canthony_at_infonation_com_
+post_count: 12
 ---
 
-# "Charles Anthony" <canthony@info-nation.com> (12 posts)
+# "Charles Anthony" <canthony<span>@</span>info-nation.com> (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: marc@kg6kf.ampr.org (Marc de Groot - KG6KF)<br>
+From: marc<span>@</span>kg6kf.ampr.org (Marc de Groot - KG6KF)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 235c7c3e14ca0abdb4ef75a7cbe79f081cb2aae7eb5ca8ebfcc604717216bfc1<br>
 Message ID: \<9210261024.AA11069@kg6kf.ampr.org\><br>
@@ -52,6 +52,9 @@ All the best,
 ## Thread
 
 + Return to [October 1992](/archive/1992/10)
+
++ Return to "[marc<span>@</span>kg6kf.ampr.org (Marc de Groot - KG6KF)](/author/marc_at_kg6kf_ampr_org_marc_de_groot__kg6kf_)"
++ Return to "[Peter Shipley <shipley<span>@</span>tfs.COM>](/author/peter_shipley_shipley_at_tfs_com_)"
 
 + 1992-10-26 (Mon, 26 Oct 92 03:44:55 PPE) - Re: Alpha Particles and One Time Pads - _marc@kg6kf.ampr.org (Marc de Groot - KG6KF)_
   + 1992-10-26 (Mon, 26 Oct 92 12:13:42 PPE) - [Re: Alpha Particles and One Time Pads](/archive/1992/10/96f4cccc3f7dcec3807398d9e17c2ea77516a4daa35cb38c9570bec1fea0481d) - _Peter Shipley \<shipley@tfs.COM\>_

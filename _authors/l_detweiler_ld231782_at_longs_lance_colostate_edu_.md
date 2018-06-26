@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: l_detweiler_ld231782_at_longs_lance_colostate_edu_
+post_count: 283
 ---
 
-# "L. Detweiler" <ld231782@longs.lance.colostate.edu> (283 posts)
+# "L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu> (283 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

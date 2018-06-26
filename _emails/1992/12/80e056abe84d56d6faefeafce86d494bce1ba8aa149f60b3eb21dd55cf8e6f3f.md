@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill O'Hanlon \<wmo@rebma.rebma.mn.org\><br>
+From: Bill O'Hanlon \<wmo<span>@</span>rebma.rebma.mn.org\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 80e056abe84d56d6faefeafce86d494bce1ba8aa149f60b3eb21dd55cf8e6f3f<br>
 Message ID: \<m0n0g5G-0006bMC@rebma.rebma.mn.org\><br>
@@ -52,6 +52,8 @@ Bill O'Hanlon						 wmo@rebma.mn.org
 ## Thread
 
 + Return to [December 1992](/archive/1992/12)
+
++ Return to "[Bill O'Hanlon <wmo<span>@</span>rebma.rebma.mn.org>](/author/bill_ohanlon_wmo_at_rebma_rebma_mn_org_)"
 
 + 1992-12-12 (Sat, 12 Dec 92 15:44:58 PST) - Remailer problem at rebma fixed - _Bill O'Hanlon \<wmo@rebma.rebma.mn.org\>_
 

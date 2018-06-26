@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Matthew James Gering \<mgering@ecosystems.net\><br>
+From: Matthew James Gering \<mgering<span>@</span>ecosystems.net\><br>
 To: "Cypherpunks (E-mail)" \<cypherpunks@cyberpass.net\><br>
 Message Hash: c03c44c0a08fff6cd8bd7dbfade4a068d1bd0ab4d5a901bcbc95cb22dcc0e033<br>
 Message ID: \<33CCFE438B9DD01192E800A024C84A19284710@mossbay.chaffeyhomes.com\><br>
@@ -72,6 +72,11 @@ forces.
 
 + Return to [September 1998](/archive/1998/09)
 + Return to [October 1998](/archive/1998/10)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Matthew James Gering <mgering<span>@</span>ecosystems.net>](/author/matthew_james_gering_mgering_at_ecosystems_net_)"
++ Return to "[Petro <petro<span>@</span>playboy.com>](/author/petro_petro_at_playboy_com_)"
++ Return to "[pjm<span>@</span>spe.com](/author/pjm_at_spe_com)"
 
 + 1998-09-30 (Wed, 30 Sep 1998 17:27:36 +0800) - RE: GPL & commercial software, the critical distinction (fwd) - _Matthew James Gering \<mgering@ecosystems.net\>_
   + 1998-10-01 (Thu, 1 Oct 1998 14:18:56 +0800) - [RE: GPL & commercial software, the critical distinction (fwd)](/archive/1998/10/e3848e5dd65826fc7f04412471d4bc8d42189f74a7f0d5069bef3db61a917978) - _Petro \<petro@playboy.com\>_

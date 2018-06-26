@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: papamichail_72133_1415_at_compuserve_com_
+post_count: 1
 ---
 
-# PAPAMICHAIL <72133.1415@CompuServe.COM> (1 posts)
+# PAPAMICHAIL <72133.1415<span>@</span>CompuServe.COM> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

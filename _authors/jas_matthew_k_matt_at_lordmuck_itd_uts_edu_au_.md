@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jas_matthew_k_matt_at_lordmuck_itd_uts_edu_au_
+post_count: 1
 ---
 
-# Jas (Matthew K) <matt@lordmuck.itd.uts.edu.au> (1 posts)
+# Jas (Matthew K) <matt<span>@</span>lordmuck.itd.uts.edu.au> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

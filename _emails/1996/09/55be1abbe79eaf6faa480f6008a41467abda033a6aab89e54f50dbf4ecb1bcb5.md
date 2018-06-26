@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: tcmay@got.net (Timothy C. May)<br>
+From: tcmay<span>@</span>got.net (Timothy C. May)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 55be1abbe79eaf6faa480f6008a41467abda033a6aab89e54f50dbf4ecb1bcb5<br>
 Message ID: \<ae58bfd30d0210042a69@[207.167.93.63]\><br>
@@ -60,6 +60,9 @@ Detwiler Foundation that would worry me.
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Moroni <moroni<span>@</span>scranton.com>](/author/moroni_moroni_at_scranton_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-09-09 (Mon, 9 Sep 1996 11:55:18 +0800) - Re: [NOISE] Far-reaching tentacles . . . ? - _tcmay@got.net (Timothy C. May)_
   + 1996-09-09 (Mon, 9 Sep 1996 15:52:03 +0800) - [Re: [NOISE] Far-reaching tentacles . . . ?](/archive/1996/09/3890023cf9a0d61fe15f04b689d54765bcf38547c7e9315f9f13a01c7ed06e27) - _Moroni \<moroni@scranton.com\>_

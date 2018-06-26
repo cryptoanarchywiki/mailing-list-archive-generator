@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 0x7cf5048d_at_nowhere
+post_count: 10
 ---
 
-# 0x7CF5048D@nowhere (10 posts)
+# 0x7CF5048D<span>@</span>nowhere (10 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

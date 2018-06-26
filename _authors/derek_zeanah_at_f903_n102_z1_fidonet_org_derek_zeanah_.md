@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: derek_zeanah_at_f903_n102_z1_fidonet_org_derek_zeanah_
+post_count: 1
 ---
 
-# Derek.Zeanah@f903.n102.z1.fidonet.org (Derek Zeanah) (1 posts)
+# Derek.Zeanah<span>@</span>f903.n102.z1.fidonet.org (Derek Zeanah) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

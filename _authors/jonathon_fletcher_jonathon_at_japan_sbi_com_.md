@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathon_fletcher_jonathon_at_japan_sbi_com_
+post_count: 2
 ---
 
-# Jonathon Fletcher <jonathon@japan.sbi.com> (2 posts)
+# Jonathon Fletcher <jonathon<span>@</span>japan.sbi.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

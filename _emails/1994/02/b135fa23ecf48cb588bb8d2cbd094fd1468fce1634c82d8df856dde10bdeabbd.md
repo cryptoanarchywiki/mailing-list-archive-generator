@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: catalyst-remailer@netcom.com<br>
+From: catalyst-remailer<span>@</span>netcom.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: b135fa23ecf48cb588bb8d2cbd094fd1468fce1634c82d8df856dde10bdeabbd<br>
 Message ID: \<199402241041.CAA17675@mail.netcom.com\><br>
@@ -103,6 +103,8 @@ Sign me... "one who knows"
 ## Thread
 
 + Return to [February 1994](/archive/1994/02)
+
++ Return to "[catalyst-remailer<span>@</span>netcom.com](/author/catalystremailer_at_netcom_com)"
 
 + 1994-02-24 (Thu, 24 Feb 94 02:40:42 PST) - re: CERT funding - _catalyst-remailer@netcom.com_
 

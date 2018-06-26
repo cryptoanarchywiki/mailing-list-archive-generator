@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: hal9001@panix.com (Robert A. Rosenberg)<br>
+From: hal9001<span>@</span>panix.com (Robert A. Rosenberg)<br>
 To: Scott Brickner \<sjb@austin.ibm.com\><br>
 Message Hash: 1b5ae286e4abedcd356e37a8adcceba32846b4d4e9bc4bb9d5ef3f812a26f0ee<br>
 Message ID: \<v02130500ac3c612078f3@[166.84.254.3]\><br>
@@ -53,6 +53,8 @@ voters.
 ## Thread
 
 + Return to [July 1995](/archive/1995/07)
+
++ Return to "[hal9001<span>@</span>panix.com (Robert A. Rosenberg)](/author/hal9001_at_panix_com_robert_a_rosenberg_)"
 
 + 1995-07-27 (Wed, 26 Jul 95 20:31:23 PDT) - Re: Three strikes you're out! for politicians... yeah we wish! - _hal9001@panix.com (Robert A. Rosenberg)_
 

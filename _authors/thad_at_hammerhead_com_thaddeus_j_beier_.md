@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: thad_at_hammerhead_com_thaddeus_j_beier_
+post_count: 35
 ---
 
-# thad@hammerhead.com (Thaddeus J. Beier) (35 posts)
+# thad<span>@</span>hammerhead.com (Thaddeus J. Beier) (35 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: don_henson_72466_3616_at_compuserve_com_
+post_count: 5
 ---
 
-# Don Henson <72466.3616@CompuServe.COM> (5 posts)
+# Don Henson <72466.3616<span>@</span>CompuServe.COM> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

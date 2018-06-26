@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bill Stewart \<stewarts@ix.netcom.com\><br>
+From: Bill Stewart \<stewarts<span>@</span>ix.netcom.com\><br>
 To: chris@breakwater.net<br>
 Message Hash: 96ae31fbcbb3bbc2672b11dc0b0faf8616dfc0cf9452be769b0fb2d0de0ddc45<br>
 Message ID: \<3.0.1.32.19970331201125.0064f4f8@popd.ix.netcom.com\><br>
@@ -197,6 +197,9 @@ Hal Finney, Internet email hfinney@shell.portal.com)
 
 + Return to [March 1997](/archive/1997/03)
 + Return to [April 1997](/archive/1997/04)
+
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Ray Arachelian <sunder<span>@</span>brainlink.com>](/author/ray_arachelian_sunder_at_brainlink_com_)"
 
 + 1997-03-31 (Mon, 31 Mar 1997 08:16:44 -0800 (PST)) - [Re: [NTSEC] Re: Internet Explorer Bug #4 (fwd)](/archive/1997/03/e531cf8cda06709cd3598f10a670a26855f3d37e929168141fea99a7e8b0bfda) - _Ray Arachelian \<sunder@brainlink.com\>_
   + 1997-04-01 (Mon, 31 Mar 1997 20:15:11 -0800 (PST)) - Re: [NTSEC] Re: Internet Explorer Bug #4 (fwd) - _Bill Stewart \<stewarts@ix.netcom.com\>_

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mark \<mark@lochard.com.au\><br>
+From: Mark \<mark<span>@</span>lochard.com.au\><br>
 To: hfinney@shell.portal.com (Hal)<br>
 Message Hash: 7776c374db4acc9e7bfacae3b3e48e39023f22193ebf9deaa8ebae4a8ae93ed9<br>
 Message ID: \<199510220058.AA44534@junkers.lochard.com.au\><br>
@@ -57,6 +57,17 @@ Mark
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[anon-remailer<span>@</span>utopia.hacktic.nl (Anonymous)](/author/anonremailer_at_utopia_hacktic_nl_anonymous_)"
++ Return to "[Enzo Michelangeli <enzo<span>@</span>ima.com>](/author/enzo_michelangeli_enzo_at_ima_com_)"
++ Return to "[Eric Young <eay<span>@</span>mincom.oz.au>](/author/eric_young_eay_at_mincom_oz_au_)"
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[Mark <mark<span>@</span>lochard.com.au>](/author/mark_mark_at_lochard_com_au_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
++ Return to "[someone <zxmjn11<span>@</span>here.or.there>](/author/someone_zxmjn11_at_here_or_there_)"
++ Return to "[Tatu Ylonen <ylo<span>@</span>cs.hut.fi>](/author/tatu_ylonen_ylo_at_cs_hut_fi_)"
++ Return to "[Wei Dai <weidai<span>@</span>eskimo.com>](/author/wei_dai_weidai_at_eskimo_com_)"
 
 + 1995-10-21 (Sat, 21 Oct 95 15:18:21 PDT) - [Encrypted TCP Tunneler](/archive/1995/10/b9d60530447f8ae326a42d89c192d7f5e4a73abe4af69c552b97db9d0b35b1fc) - _Wei Dai \<weidai@eskimo.com\>_
   + 1995-10-22 (Sat, 21 Oct 95 18:03:58 PDT) - [Re: Encrypted TCP Tunneler](/archive/1995/10/19cad0d8e9b48ed8583856826474807a3a276fe15b1cbd721592e3e7c25a4fe8) - _Hal \<hfinney@shell.portal.com\>_

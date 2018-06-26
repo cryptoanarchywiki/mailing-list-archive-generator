@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: cypher_at_cyberstation_net
+post_count: 13
 ---
 
-# cypher@cyberstation.net (13 posts)
+# cypher<span>@</span>cyberstation.net (13 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

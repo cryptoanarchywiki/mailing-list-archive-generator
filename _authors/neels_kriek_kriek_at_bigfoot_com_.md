@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: neels_kriek_kriek_at_bigfoot_com_
+post_count: 6
 ---
 
-# "Neels Kriek" <kriek@bigfoot.com> (6 posts)
+# "Neels Kriek" <kriek<span>@</span>bigfoot.com> (6 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

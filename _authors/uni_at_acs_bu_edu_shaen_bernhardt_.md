@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: uni_at_acs_bu_edu_shaen_bernhardt_
+post_count: 18
 ---
 
-# uni@acs.bu.edu (Shaen Bernhardt) (18 posts)
+# uni<span>@</span>acs.bu.edu (Shaen Bernhardt) (18 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

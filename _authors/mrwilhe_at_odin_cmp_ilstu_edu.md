@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mrwilhe_at_odin_cmp_ilstu_edu
+post_count: 1
 ---
 
-# mrwilhe@odin.cmp.ilstu.edu (1 posts)
+# mrwilhe<span>@</span>odin.cmp.ilstu.edu (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: helledge_at_oilfieldtrash_com
+post_count: 3
 ---
 
-# helledge@oilfieldtrash.com (3 posts)
+# helledge<span>@</span>oilfieldtrash.com (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

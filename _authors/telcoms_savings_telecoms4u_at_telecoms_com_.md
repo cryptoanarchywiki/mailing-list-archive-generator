@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: telcoms_savings_telecoms4u_at_telecoms_com_
+post_count: 1
 ---
 
-# "Telcoms Savings" <Telecoms4u@Telecoms.com> (1 posts)
+# "Telcoms Savings" <Telecoms4u<span>@</span>Telecoms.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

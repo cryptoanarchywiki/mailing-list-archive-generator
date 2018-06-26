@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dfloyd_at_runner_utsa_edu_douglas_r_floyd_
+post_count: 14
 ---
 
-# dfloyd@runner.utsa.edu (Douglas R. Floyd) (14 posts)
+# dfloyd<span>@</span>runner.utsa.edu (Douglas R. Floyd) (14 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

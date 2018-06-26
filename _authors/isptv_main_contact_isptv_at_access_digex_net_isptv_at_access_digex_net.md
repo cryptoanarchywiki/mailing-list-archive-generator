@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: isptv_main_contact_isptv_at_access_digex_net_isptv_at_access_digex_net
+post_count: 2
 ---
 
-# ISP-TV Main Contact <isptv@access.digex.net>isptv@access.digex.net (2 posts)
+# ISP-TV Main Contact <isptv<span>@</span>access.digex.net>isptv<span>@</span>access.digex.net (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

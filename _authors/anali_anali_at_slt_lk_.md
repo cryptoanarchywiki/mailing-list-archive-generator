@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anali_anali_at_slt_lk_
+post_count: 3
 ---
 
-# anali <anali@slt.lk> (3 posts)
+# anali <anali<span>@</span>slt.lk> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_bell_jimbell_at_pacifier_com_
+post_count: 1118
 ---
 
-# jim bell <jimbell@pacifier.com> (1118 posts)
+# jim bell <jimbell<span>@</span>pacifier.com> (1118 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

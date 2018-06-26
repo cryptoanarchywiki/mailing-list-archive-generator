@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gsi_at_juno_com_floyd_w_odom_
+post_count: 2
 ---
 
-# gsi@juno.com (Floyd W Odom) (2 posts)
+# gsi<span>@</span>juno.com (Floyd W Odom) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

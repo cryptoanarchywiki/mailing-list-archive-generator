@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: user0105_at_mallmaster1_com
+post_count: 1
 ---
 
-# user0105@mallmaster1.com (1 posts)
+# user0105<span>@</span>mallmaster1.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: joshua geller \<joshua@cae.retix.com\><br>
+From: joshua geller \<joshua<span>@</span>cae.retix.com\><br>
 To: lefty@apple.com<br>
 Message Hash: 75990d165f6be7afcafd25baafc7138e80bc3cffa606f7fabca06df979b52b6e<br>
 Message ID: \<199404200026.RAA01538@sleepy.retix.com\><br>
@@ -65,6 +65,8 @@ josh
 ## Thread
 
 + Return to [April 1994](/archive/1994/04)
+
++ Return to "[joshua geller <joshua<span>@</span>cae.retix.com>](/author/joshua_geller_joshua_at_cae_retix_com_)"
 
 + 1994-04-20 (Tue, 19 Apr 94 17:31:08 PDT) - Re: Black Net - _joshua geller \<joshua@cae.retix.com\>_
 

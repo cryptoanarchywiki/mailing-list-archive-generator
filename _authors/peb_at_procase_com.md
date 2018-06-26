@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peb_at_procase_com
+post_count: 22
 ---
 
-# peb@PROCASE.COM (22 posts)
+# peb<span>@</span>PROCASE.COM (22 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

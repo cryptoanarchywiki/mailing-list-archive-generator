@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: laszlo_vecsey_master_at_internexus_net_
+post_count: 33
 ---
 
-# Laszlo Vecsey <master@internexus.net> (33 posts)
+# Laszlo Vecsey <master<span>@</span>internexus.net> (33 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

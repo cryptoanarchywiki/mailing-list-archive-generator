@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pads_at_mouse_com
+post_count: 2
 ---
 
-# pads@mouse.com (2 posts)
+# pads<span>@</span>mouse.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

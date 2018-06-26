@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: deuce_ualdv8_at_sk_sympatico_ca_
+post_count: 1
 ---
 
-# Deuce <ualdv8@sk.sympatico.ca> (1 posts)
+# Deuce <ualdv8<span>@</span>sk.sympatico.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

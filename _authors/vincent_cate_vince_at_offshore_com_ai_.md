@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vincent_cate_vince_at_offshore_com_ai_
+post_count: 69
 ---
 
-# Vincent Cate <vince@offshore.com.ai> (69 posts)
+# Vincent Cate <vince<span>@</span>offshore.com.ai> (69 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

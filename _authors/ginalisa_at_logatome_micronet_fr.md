@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ginalisa_at_logatome_micronet_fr
+post_count: 1
 ---
 
-# Gina-Lisa@logatome.micronet.fr (1 posts)
+# Gina-Lisa<span>@</span>logatome.micronet.fr (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

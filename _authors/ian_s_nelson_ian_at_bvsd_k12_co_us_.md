@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ian_s_nelson_ian_at_bvsd_k12_co_us_
+post_count: 5
 ---
 
-# "Ian S. Nelson" <ian@bvsd.k12.co.us> (5 posts)
+# "Ian S. Nelson" <ian<span>@</span>bvsd.k12.co.us> (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

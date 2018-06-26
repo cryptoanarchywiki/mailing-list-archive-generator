@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: edward_russell_mail_at_inbox_co_uk_
+post_count: 1
 ---
 
-# Edward Russell <mail@inbox.co.uk> (1 posts)
+# Edward Russell <mail<span>@</span>inbox.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

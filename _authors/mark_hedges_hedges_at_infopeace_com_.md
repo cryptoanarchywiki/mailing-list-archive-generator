@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mark_hedges_hedges_at_infopeace_com_
+post_count: 4
 ---
 
-# Mark Hedges <hedges@infopeace.com> (4 posts)
+# Mark Hedges <hedges<span>@</span>infopeace.com> (4 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

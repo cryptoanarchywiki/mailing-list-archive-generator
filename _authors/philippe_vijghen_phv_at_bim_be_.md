@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: philippe_vijghen_phv_at_bim_be_
+post_count: 1
 ---
 
-# Philippe VIJGHEN <phv@bim.be> (1 posts)
+# Philippe VIJGHEN <phv<span>@</span>bim.be> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

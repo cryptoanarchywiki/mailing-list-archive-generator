@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: linefeed_at_juno_com_leon_w_samson_
+post_count: 3
 ---
 
-# linefeed@juno.com (Leon W Samson) (3 posts)
+# linefeed<span>@</span>juno.com (Leon W Samson) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

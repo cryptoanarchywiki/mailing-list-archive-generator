@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_adler_jadler_at_soundcode_com_
+post_count: 2
 ---
 
-# "Jim Adler" <jadler@soundcode.com> (2 posts)
+# "Jim Adler" <jadler<span>@</span>soundcode.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jonathon_blake_wd803_at_freenet_victoria_bc_ca_
+post_count: 1
 ---
 
-# Jonathon Blake <wd803@freenet.victoria.bc.ca> (1 posts)
+# Jonathon Blake <wd803<span>@</span>freenet.victoria.bc.ca> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: nobody@REPLAY.COM (Anonymous)<br>
+From: nobody<span>@</span>REPLAY.COM (Anonymous)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: 6ab73ed1b9ee8ac4c1bc32aa009a22dc5c9287ea0ccc5be10559fbdfbcf541d8<br>
 Message ID: \<199710051646.SAA26190@basement.replay.com\><br>
@@ -54,6 +54,12 @@ YoungMonger
 ## Thread
 
 + Return to [October 1997](/archive/1997/10)
+
++ Return to "[Alan <alan<span>@</span>ctrl-alt-del.com>](/author/alan_alan_at_ctrlaltdel_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "["snow" <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-10-05 (Mon, 6 Oct 1997 00:59:11 +0800) - Re: Stronghold - _nobody@REPLAY.COM (Anonymous)_
   + 1997-10-05 (Mon, 6 Oct 1997 04:07:14 +0800) - [Re: Stronghold](/archive/1997/10/47ef09169c1971fa5aece02c8b09bb930d968753c77eca627dfe42b982171ff8) - _Alan \<alan@ctrl-alt-del.com\>_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: garrard_david_david_garrard_at_exch_eds_com_
+post_count: 2
 ---
 
-# "Garrard, David" <David.Garrard@EXCH.EDS.com> (2 posts)
+# "Garrard, David" <David.Garrard<span>@</span>EXCH.EDS.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: alexander_sasha_chislenko_sasha1_at_netcom_com_
+post_count: 8
 ---
 
-# "Alexander 'Sasha' Chislenko" <sasha1@netcom.com> (8 posts)
+# "Alexander 'Sasha' Chislenko" <sasha1<span>@</span>netcom.com> (8 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

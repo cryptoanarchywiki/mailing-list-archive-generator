@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: captain_loogie_at_juno_com_patrick_delaney_
+post_count: 1
 ---
 
-# captain_loogie@juno.com (Patrick Delaney) (1 posts)
+# captain_loogie<span>@</span>juno.com (Patrick Delaney) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

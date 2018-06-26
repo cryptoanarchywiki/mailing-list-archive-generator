@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sheedy_e_c_c__e_c_c_sheedy_at_research_kpn_com_
+post_count: 2
 ---
 
-# "Sheedy, E.C.C." <E.C.C.Sheedy@research.kpn.com> (2 posts)
+# "Sheedy, E.C.C." <E.C.C.Sheedy<span>@</span>research.kpn.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

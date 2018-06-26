@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ravage_at_wixer_bga_com_jim_choate_
+post_count: 1
 ---
 
-# ravage@wixer.bga.com (Jim choate) (1 posts)
+# ravage<span>@</span>wixer.bga.com (Jim choate) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

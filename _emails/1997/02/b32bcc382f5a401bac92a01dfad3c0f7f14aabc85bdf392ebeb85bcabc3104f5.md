@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: ichudov@algebra.com<br>
+From: ichudov<span>@</span>algebra.com<br>
 To: Cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: b32bcc382f5a401bac92a01dfad3c0f7f14aabc85bdf392ebeb85bcabc3104f5<br>
 Message ID: \<199702032256.OAA04959@toad.com\><br>
@@ -55,6 +55,8 @@ to appear. In fact, I know one.
 ## Thread
 
 + Return to [February 1997](/archive/1997/02)
+
++ Return to "[ichudov<span>@</span>algebra.com](/author/ichudov_at_algebra_com)"
 
 + 1997-02-03 (Mon, 3 Feb 1997 14:56:07 -0800 (PST)) - Re: Filling Power Vacuums - _ichudov@algebra.com_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: richard_johnson_rdump_at_river_com_
+post_count: 1
 ---
 
-# "Richard Johnson" <rdump@river.com> (1 posts)
+# "Richard Johnson" <rdump<span>@</span>river.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

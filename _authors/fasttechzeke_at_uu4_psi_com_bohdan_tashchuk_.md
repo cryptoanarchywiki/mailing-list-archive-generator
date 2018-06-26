@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fasttechzeke_at_uu4_psi_com_bohdan_tashchuk_
+post_count: 3
 ---
 
-# fasttech!zeke@uu4.psi.com (Bohdan Tashchuk) (3 posts)
+# fasttech!zeke<span>@</span>uu4.psi.com (Bohdan Tashchuk) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

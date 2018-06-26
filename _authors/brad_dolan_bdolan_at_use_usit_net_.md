@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brad_dolan_bdolan_at_use_usit_net_
+post_count: 80
 ---
 
-# Brad Dolan <bdolan@use.usit.net> (80 posts)
+# Brad Dolan <bdolan<span>@</span>use.usit.net> (80 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bill_stout_stoutb_at_pios_com_
+post_count: 1
 ---
 
-# Bill Stout <stoutb@pios.com> (1 posts)
+# Bill Stout <stoutb<span>@</span>pios.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: magic3_at_n2mail_com
+post_count: 1
 ---
 
-# magic3@n2mail.com (1 posts)
+# magic3<span>@</span>n2mail.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

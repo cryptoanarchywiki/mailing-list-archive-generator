@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: 37387166_at_prodigy_com
+post_count: 1
 ---
 
-# 37387166@prodigy.com (1 posts)
+# 37387166<span>@</span>prodigy.com (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

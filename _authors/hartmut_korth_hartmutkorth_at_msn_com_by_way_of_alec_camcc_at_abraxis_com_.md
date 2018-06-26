@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: hartmut_korth_hartmutkorth_at_msn_com_by_way_of_alec_camcc_at_abraxis_com_
+post_count: 1
 ---
 
-# "Hartmut Korth" <hartmut-korth@msn.com> (by way of Alec <camcc@abraxis.com>) (1 posts)
+# "Hartmut Korth" <hartmut-korth<span>@</span>msn.com> (by way of Alec <camcc<span>@</span>abraxis.com>) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

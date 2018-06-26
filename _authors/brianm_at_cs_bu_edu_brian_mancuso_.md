@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: brianm_at_cs_bu_edu_brian_mancuso_
+post_count: 1
 ---
 
-# brianm@cs.bu.edu (Brian Mancuso) (1 posts)
+# brianm<span>@</span>cs.bu.edu (Brian Mancuso) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

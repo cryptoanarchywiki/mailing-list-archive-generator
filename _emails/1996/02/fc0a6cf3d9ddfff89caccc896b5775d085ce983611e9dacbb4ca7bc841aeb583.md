@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Duncan Frissell \<frissell@panix.com\><br>
+From: Duncan Frissell \<frissell<span>@</span>panix.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: fc0a6cf3d9ddfff89caccc896b5775d085ce983611e9dacbb4ca7bc841aeb583<br>
 Message ID: \<2.2.32.19960227181316.0070e158@panix.com\><br>
@@ -146,6 +146,9 @@ DCF
 ## Thread
 
 + Return to [February 1996](/archive/1996/02)
+
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[mark<span>@</span>ausnetinfo.com.au (Mark)](/author/mark_at_ausnetinfo_com_au_mark_)"
 
 + 1996-02-27 (Wed, 28 Feb 1996 04:02:02 +0800) - "Physical Reality" - _Duncan Frissell \<frissell@panix.com\>_
   + 1996-02-27 (Wed, 28 Feb 1996 06:45:50 +0800) - [Re: "Physical Reality"](/archive/1996/02/d76584b483be76a1d2eae51d4db4946fb014b8884074c93e21431b3d7114cadb) - _mark@ausnetinfo.com.au (Mark)_

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qqww22_at_oo_net
+post_count: 1
 ---
 
-# qqww22@oo.net (1 posts)
+# qqww22<span>@</span>oo.net (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

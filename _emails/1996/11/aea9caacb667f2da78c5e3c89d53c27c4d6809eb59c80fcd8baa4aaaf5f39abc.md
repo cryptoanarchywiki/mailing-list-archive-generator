@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Daniel Todd \<dtodd@corp.usweb.com\><br>
+From: Daniel Todd \<dtodd<span>@</span>corp.usweb.com\><br>
 To: "'IMCEAX400-c=GB+3Ba=+20+3Bp=CHEMSON+3Bo=CSH+3Bdda+3ASMTP=cypherpunks+40toad+2Ecom+3B@usweb.com\><br>
 Message Hash: aea9caacb667f2da78c5e3c89d53c27c4d6809eb59c80fcd8baa4aaaf5f39abc<br>
 Message ID: \<c=US%a=_%p=USWeb_Corporatio%l=RACHEL-961119181113Z-2572@rachel.corp.usweb.com\><br>
@@ -62,6 +62,8 @@ USWeb Corporation
 ## Thread
 
 + Return to [November 1996](/archive/1996/11)
+
++ Return to "[Daniel Todd <dtodd<span>@</span>corp.usweb.com>](/author/daniel_todd_dtodd_at_corp_usweb_com_)"
 
 + 1996-11-19 (Tue, 19 Nov 1996 10:11:59 -0800 (PST)) - RE: Unsubtroll - _Daniel Todd \<dtodd@corp.usweb.com\>_
 

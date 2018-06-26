@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Adam Back \<aba@dcs.ex.ac.uk\><br>
+From: Adam Back \<aba<span>@</span>dcs.ex.ac.uk\><br>
 To: coderpunks@toad.com<br>
 Message Hash: 7a69a5ac3b35ea9641b34deef97c5f3a468d4e74afdfba11b6fe5be80dba2cc2<br>
 Message ID: \<199609062108.WAA00230@server.test.net\><br>
@@ -109,6 +109,8 @@ lK[d2%Sa2/d0$^Ixp"|dc`;s/\W//g;$_=pack('H*',/((..)*)$/)
 ## Thread
 
 + Return to [September 1996](/archive/1996/09)
+
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
 
 + 1996-09-07 (Sun, 8 Sep 1996 00:54:05 +0800) - non-interactive forward secrecy - _Adam Back \<aba@dcs.ex.ac.uk\>_
 

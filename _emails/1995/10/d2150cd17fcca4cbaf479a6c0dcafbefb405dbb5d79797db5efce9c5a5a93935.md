@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Michael H. Warfield \<mhw@wittsend.com\><br>
+From: Michael H. Warfield \<mhw<span>@</span>wittsend.com\><br>
 To: stu@nemesis.wimsey.com<br>
 Message Hash: d2150cd17fcca4cbaf479a6c0dcafbefb405dbb5d79797db5efce9c5a5a93935<br>
 Message ID: \<m0t2Jg8-0000rmC@wittsend.com\><br>
@@ -91,6 +91,12 @@ group is the largest newsgroup group on my system!
 ## Thread
 
 + Return to [October 1995](/archive/1995/10)
+
++ Return to "[bogstad<span>@</span>news.cs.jhu.edu (Bill Bogstad)](/author/bogstad_at_news_cs_jhu_edu_bill_bogstad_)"
++ Return to "[Bryce <wilcoxb<span>@</span>nagina.cs.colorado.edu>](/author/bryce_wilcoxb_at_nagina_cs_colorado_edu_)"
++ Return to "["Erik E. Fair"  (Time Keeper) <fair<span>@</span>clock.org>](/author/erik_e_fair_time_keeper_fair_at_clock_org_)"
++ Return to "[Michael H. Warfield <mhw<span>@</span>wittsend.com>](/author/michael_h_warfield_mhw_at_wittsend_com_)"
++ Return to "[stu<span>@</span>nemesis (Stuart Smith)](/author/stu_at_nemesis_stuart_smith_)"
 
 + 1995-10-05 (Thu, 5 Oct 95 10:19:05 PDT) - [Re: Rethinking the utility of netnews "cancel" control messages](/archive/1995/10/b7fdd4e3d2456f5d93c05be67efde0654e0ba78c4cf304cc58322077eef91b8c) - _"Erik E. Fair"  (Time Keeper) \<fair@clock.org\>_
   + 1995-10-05 (Thu, 5 Oct 95 12:42:50 PDT) - [Re: Rethinking the utility of netnews "cancel" control messages](/archive/1995/10/1c88940aef0d082cf991766cc67966a28dae361ac27836d823ed9bc8db431ef8) - _Bryce \<wilcoxb@nagina.cs.colorado.edu\>_

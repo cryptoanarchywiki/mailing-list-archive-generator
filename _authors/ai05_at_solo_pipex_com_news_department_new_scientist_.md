@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: ai05_at_solo_pipex_com_news_department_new_scientist_
+post_count: 1
 ---
 
-# ai05@solo.pipex.com (News Department, New Scientist) (1 posts)
+# ai05<span>@</span>solo.pipex.com (News Department, New Scientist) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

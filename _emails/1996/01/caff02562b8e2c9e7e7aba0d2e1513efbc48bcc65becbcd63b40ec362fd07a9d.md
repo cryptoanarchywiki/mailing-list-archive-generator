@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: kephart@interserv.com<br>
+From: kephart<span>@</span>interserv.com<br>
 To: cypherpunks@toad.com<br>
 Message Hash: caff02562b8e2c9e7e7aba0d2e1513efbc48bcc65becbcd63b40ec362fd07a9d<br>
 Message ID: \<199601091836.AA25616@relay.interserv.com\><br>
@@ -37,6 +37,8 @@ please send anon remailer faq. many thanks.
 ## Thread
 
 + Return to [January 1996](/archive/1996/01)
+
++ Return to "[kephart<span>@</span>interserv.com](/author/kephart_at_interserv_com)"
 
 + 1996-01-09 (Tue, 9 Jan 96 10:37:11 PST) - No Subject - _kephart@interserv.com_
 

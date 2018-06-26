@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: d9bertil_at_dtek_chalmers_se_bertil_jonell_
+post_count: 1
 ---
 
-# d9bertil@dtek.chalmers.se (Bertil Jonell) (1 posts)
+# d9bertil<span>@</span>dtek.chalmers.se (Bertil Jonell) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: flatline_at_direct_ca_der_fuhrer_of_ss_
+post_count: 1
 ---
 
-# flatline@direct.ca (Der Fuhrer of SS) (1 posts)
+# flatline<span>@</span>direct.ca (Der Fuhrer of SS) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: joseph_halstead_jhdeval_at_soho_ios_com_
+post_count: 1
 ---
 
-# Joseph Halstead <jhdeval@soho.ios.com> (1 posts)
+# Joseph Halstead <jhdeval<span>@</span>soho.ios.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

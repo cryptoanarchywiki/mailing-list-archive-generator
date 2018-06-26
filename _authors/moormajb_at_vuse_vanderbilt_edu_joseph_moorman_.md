@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: moormajb_at_vuse_vanderbilt_edu_joseph_moorman_
+post_count: 2
 ---
 
-# moormajb@vuse.vanderbilt.edu (Joseph Moorman) (2 posts)
+# moormajb<span>@</span>vuse.vanderbilt.edu (Joseph Moorman) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

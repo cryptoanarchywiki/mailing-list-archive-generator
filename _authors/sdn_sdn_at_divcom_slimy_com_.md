@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: sdn_sdn_at_divcom_slimy_com_
+post_count: 3
 ---
 
-# SDN <sdn@divcom.slimy.com> (3 posts)
+# SDN <sdn<span>@</span>divcom.slimy.com> (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

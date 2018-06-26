@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: william_f_towey_liam_at_webspan_net_
+post_count: 2
 ---
 
-# "William F. Towey" <liam@webspan.net> (2 posts)
+# "William F. Towey" <liam<span>@</span>webspan.net> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

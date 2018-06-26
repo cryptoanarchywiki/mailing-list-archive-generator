@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dochobbs_at_wwa_com_michael_d_hobbs_
+post_count: 3
 ---
 
-# dochobbs@wwa.com (Michael D. Hobbs) (3 posts)
+# dochobbs<span>@</span>wwa.com (Michael D. Hobbs) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

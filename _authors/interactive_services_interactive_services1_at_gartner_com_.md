@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: interactive_services_interactive_services1_at_gartner_com_
+post_count: 1
 ---
 
-# Interactive Services <interactive.services1@gartner.com> (1 posts)
+# Interactive Services <interactive.services1<span>@</span>gartner.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

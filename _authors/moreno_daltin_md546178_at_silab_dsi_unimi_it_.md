@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: moreno_daltin_md546178_at_silab_dsi_unimi_it_
+post_count: 1
 ---
 
-# Moreno Daltin <md546178@silab.dsi.unimi.it> (1 posts)
+# Moreno Daltin <md546178<span>@</span>silab.dsi.unimi.it> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

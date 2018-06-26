@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: garth_brown_skylight_software_vgarthb_at_microsoft_com_
+post_count: 1
 ---
 
-# Garth Brown (Skylight Software) <v-garthb@microsoft.com> (1 posts)
+# Garth Brown (Skylight Software) <v-garthb<span>@</span>microsoft.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

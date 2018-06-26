@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: travis_j_i_corcoran_tjic_at_openmarket_com_
+post_count: 1
 ---
 
-# "Travis J.I. Corcoran" <tjic@OpenMarket.com> (1 posts)
+# "Travis J.I. Corcoran" <tjic<span>@</span>OpenMarket.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Robert Hettinga \<rah@shipwright.com\><br>
+From: Robert Hettinga \<rah<span>@</span>shipwright.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 132e4501cc70b3bafa6e06f4acd5d7ec662607becb6aad5e2dbf882cd0eefcb0<br>
 Message ID: \<v03020903afa3b44feaa4@[139.167.130.248]\><br>
@@ -149,6 +149,9 @@ The e$ Home Page: http://www.shipwright.com/
 ## Thread
 
 + Return to [May 1997](/archive/1997/05)
+
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Steve Schear <azur<span>@</span>netcom.com>](/author/steve_schear_azur_at_netcom_com_)"
 
 + 1997-05-18 (Sun, 18 May 1997 09:18:25 +0800) - DCSB: Fred Hapgood on the Internet as an Auction-Pricing Incubator - _Robert Hettinga \<rah@shipwright.com\>_
   + 1997-05-19 (Tue, 20 May 1997 06:44:36 +0800) - [Incorporating in Nevada](/archive/1997/05/4db4eb07e899b86c686f54aa1dc6e8fe6fd3115615fce8d1a3a2610d8e11e74c) - _Steve Schear \<azur@netcom.com\>_

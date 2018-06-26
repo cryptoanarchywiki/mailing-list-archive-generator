@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: jim_gillogly_jim_at_mycroft_rand_org_
+post_count: 2
 ---
 
-# Jim Gillogly <jim@mycroft.rand.org> (2 posts)
+# Jim Gillogly <jim<span>@</span>mycroft.rand.org> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

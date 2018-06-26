@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: member_benefits_benefits_at_biztravel_com_
+post_count: 2
 ---
 
-# Member Benefits <benefits@biztravel.com> (2 posts)
+# Member Benefits <benefits<span>@</span>biztravel.com> (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

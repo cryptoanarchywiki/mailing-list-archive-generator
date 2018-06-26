@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: anonymous_thiswillbounce_at_zoom_nu_
+post_count: 1
 ---
 
-# Anonymous <this-will-bounce@zoom.nu> (1 posts)
+# Anonymous <this-will-bounce<span>@</span>zoom.nu> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

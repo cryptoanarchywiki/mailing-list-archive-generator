@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: radatti_at_cyber_com_pete_radatti_
+post_count: 1
 ---
 
-# radatti@cyber.com (Pete Radatti) (1 posts)
+# radatti<span>@</span>cyber.com (Pete Radatti) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

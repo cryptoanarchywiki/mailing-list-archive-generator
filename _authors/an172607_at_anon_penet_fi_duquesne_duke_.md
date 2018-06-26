@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: an172607_at_anon_penet_fi_duquesne_duke_
+post_count: 3
 ---
 
-# an172607@anon.penet.fi (duquesne duke) (3 posts)
+# an172607<span>@</span>anon.penet.fi (duquesne duke) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

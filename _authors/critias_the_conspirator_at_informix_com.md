@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: critias_the_conspirator_at_informix_com
+post_count: 2
 ---
 
-# Critias_the_conspirator@informix.com (2 posts)
+# Critias_the_conspirator<span>@</span>informix.com (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

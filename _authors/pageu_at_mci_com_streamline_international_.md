@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: pageu_at_mci_com_streamline_international_
+post_count: 1
 ---
 
-# pageu@MCI.Com (Streamline International) (1 posts)
+# pageu<span>@</span>MCI.Com (Streamline International) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

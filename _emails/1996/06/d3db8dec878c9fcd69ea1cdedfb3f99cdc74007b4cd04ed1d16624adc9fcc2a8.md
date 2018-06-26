@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Bruce Baugh \<bruce@aracnet.com\><br>
+From: Bruce Baugh \<bruce<span>@</span>aracnet.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: d3db8dec878c9fcd69ea1cdedfb3f99cdc74007b4cd04ed1d16624adc9fcc2a8<br>
 Message ID: \<2.2.32.19960603182730.006afff8@mail.aracnet.com\><br>
@@ -84,6 +84,8 @@ http://www.aracnet.com/~bruce
 ## Thread
 
 + Return to [June 1996](/archive/1996/06)
+
++ Return to "[Bruce Baugh <bruce<span>@</span>aracnet.com>](/author/bruce_baugh_bruce_at_aracnet_com_)"
 
 + 1996-06-04 (Tue, 4 Jun 1996 08:06:58 +0800) - PGP's ubiquity (was Re: NRC Session Hiss) - _Bruce Baugh \<bruce@aracnet.com\>_
 

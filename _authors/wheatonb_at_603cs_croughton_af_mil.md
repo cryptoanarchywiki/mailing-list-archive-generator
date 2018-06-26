@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: wheatonb_at_603cs_croughton_af_mil
+post_count: 2
 ---
 
-# WheatonB@603cs.croughton.af.mil (2 posts)
+# WheatonB<span>@</span>603cs.croughton.af.mil (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

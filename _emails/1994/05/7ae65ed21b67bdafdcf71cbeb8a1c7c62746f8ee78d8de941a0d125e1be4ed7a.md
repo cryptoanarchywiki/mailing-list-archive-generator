@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Hal \<hfinney@shell.portal.com\><br>
+From: Hal \<hfinney<span>@</span>shell.portal.com\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 7ae65ed21b67bdafdcf71cbeb8a1c7c62746f8ee78d8de941a0d125e1be4ed7a<br>
 Message ID: \<199405141940.MAA21337@jobe.shell.portal.com\><br>
@@ -44,6 +44,10 @@ Hal
 ## Thread
 
 + Return to [May 1994](/archive/1994/05)
+
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[Karl Lui Barrus <klbarrus<span>@</span>owlnet.rice.edu>](/author/karl_lui_barrus_klbarrus_at_owlnet_rice_edu_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-05-14 (Sat, 14 May 94 12:39:27 PDT) - Re: Message Havens - _Hal \<hfinney@shell.portal.com\>_
   + 1994-05-14 (Sat, 14 May 94 14:02:08 PDT) - [Message Havens, Pools, and Usenet](/archive/1994/05/90a6c427bf8e7254c6425932f4b35eaea4613a79ab3b5fc55cf3b90fdde5078d) - _tcmay@netcom.com (Timothy C. May)_

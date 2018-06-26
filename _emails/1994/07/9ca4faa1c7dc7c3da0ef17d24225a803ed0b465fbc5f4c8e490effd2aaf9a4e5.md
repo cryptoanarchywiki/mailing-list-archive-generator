@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: "Robert M. Humphrey" \<Robert@rmh.khabarovsk.su\><br>
+From: "Robert M. Humphrey" \<Robert<span>@</span>rmh.khabarovsk.su\><br>
 To: cypherpunks@toad.com<br>
 Message Hash: 9ca4faa1c7dc7c3da0ef17d24225a803ed0b465fbc5f4c8e490effd2aaf9a4e5<br>
 Message ID: \<AAoAy6kGh7@rmh.khabarovsk.su\><br>
@@ -67,6 +67,8 @@ Bob
 ## Thread
 
 + Return to [July 1994](/archive/1994/07)
+
++ Return to "["Robert M. Humphrey" <Robert<span>@</span>rmh.khabarovsk.su>](/author/robert_m_humphrey_robert_at_rmh_khabarovsk_su_)"
 
 + 1994-07-07 (Thu, 7 Jul 94 00:15:48 PDT) - Need help in Russia............... - _"Robert M. Humphrey" \<Robert@rmh.khabarovsk.su\>_
 

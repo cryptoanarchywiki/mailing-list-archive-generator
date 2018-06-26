@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: dwomack_at_runner_utsa_edu_david_l_womack_
+post_count: 32
 ---
 
-# dwomack@runner.utsa.edu (David L Womack) (32 posts)
+# dwomack<span>@</span>runner.utsa.edu (David L Womack) (32 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

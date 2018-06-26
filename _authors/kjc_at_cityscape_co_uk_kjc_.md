@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: kjc_at_cityscape_co_uk_kjc_
+post_count: 3
 ---
 
-# KJC@cityscape.co.uk (KJC) (3 posts)
+# KJC<span>@</span>cityscape.co.uk (KJC) (3 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

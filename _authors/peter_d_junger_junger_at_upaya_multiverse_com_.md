@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: peter_d_junger_junger_at_upaya_multiverse_com_
+post_count: 26
 ---
 
-# "Peter D. Junger" <junger@upaya.multiverse.com> (26 posts)
+# "Peter D. Junger" <junger<span>@</span>upaya.multiverse.com> (26 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

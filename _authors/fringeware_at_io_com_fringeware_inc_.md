@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: fringeware_at_io_com_fringeware_inc_
+post_count: 2
 ---
 
-# fringeware@io.com (FringeWare Inc) (2 posts)
+# fringeware<span>@</span>io.com (FringeWare Inc) (2 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Mike Duvos \<enoch@zipcon.net\><br>
+From: Mike Duvos \<enoch<span>@</span>zipcon.net\><br>
 To: cypherpunks@cyberpass.net<br>
 Message Hash: 8bd3f601af44606e28cee061d3f97d3acbac6ce6e0affc6fbc5cc99ddc0242ed<br>
 Message ID: \<19970819211323.369.qmail@zipcon.net\><br>
@@ -47,6 +47,8 @@ may be browsed at...
 ## Thread
 
 + Return to [August 1997](/archive/1997/08)
+
++ Return to "[Mike Duvos <enoch<span>@</span>zipcon.net>](/author/mike_duvos_enoch_at_zipcon_net_)"
 
 + 1997-08-19 (Wed, 20 Aug 1997 05:28:20 +0800) - CPAC Quotes Templeton - _Mike Duvos \<enoch@zipcon.net\>_
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: vincent_m_padua_vincent_at_psnw_com_
+post_count: 1
 ---
 
-# "Vincent M. Padua" <vincent@psnw.com> (1 posts)
+# "Vincent M. Padua" <vincent<span>@</span>psnw.com> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

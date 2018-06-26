@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: amanda@intercon.com (Amanda Walker)<br>
+From: amanda<span>@</span>intercon.com (Amanda Walker)<br>
 To: cypherpunks@toad.com<br>
 Message Hash: be3b75e8315fea8c7fdf3c646dce3ccd45f7b66c1aecfd64134ecb5aa88ce9d6<br>
 Message ID: \<199412151623.LAA23108@intercon.com\><br>
@@ -51,6 +51,8 @@ InterCon Systems Corporation
 ## Thread
 
 + Return to [December 1994](/archive/1994/12)
+
++ Return to "[amanda<span>@</span>intercon.com (Amanda Walker)](/author/amanda_at_intercon_com_amanda_walker_)"
 
 + 1994-12-15 (Thu, 15 Dec 94 08:24:06 PST) - Re: Less Flaming, More Civility - _amanda@intercon.com (Amanda Walker)_
 

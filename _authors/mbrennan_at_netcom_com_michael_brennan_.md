@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: mbrennan_at_netcom_com_michael_brennan_
+post_count: 12
 ---
 
-# mbrennan@netcom.com (Michael Brennan) (12 posts)
+# mbrennan<span>@</span>netcom.com (Michael Brennan) (12 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

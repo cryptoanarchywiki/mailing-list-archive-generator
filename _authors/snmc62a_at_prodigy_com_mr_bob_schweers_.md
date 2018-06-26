@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: snmc62a_at_prodigy_com_mr_bob_schweers_
+post_count: 1
 ---
 
-# SNMC62A@prodigy.com  (MR BOB SCHWEERS) (1 posts)
+# SNMC62A<span>@</span>prodigy.com  (MR BOB SCHWEERS) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

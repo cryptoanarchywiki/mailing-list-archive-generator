@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: gt_at_kdn0_attnet_or_jp_gemini_thunder_
+post_count: 7
 ---
 
-# gt@kdn0.attnet.or.jp (Gemini Thunder) (7 posts)
+# gt<span>@</span>kdn0.attnet.or.jp (Gemini Thunder) (7 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

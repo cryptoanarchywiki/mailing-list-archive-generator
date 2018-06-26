@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: weidai_at_eskimo_com_wei_dai_
+post_count: 5
 ---
 
-# weidai@eskimo.com (Wei Dai) (5 posts)
+# weidai<span>@</span>eskimo.com (Wei Dai) (5 posts)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

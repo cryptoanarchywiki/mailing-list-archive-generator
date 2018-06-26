@@ -6,7 +6,7 @@ layout: default
 
 ## Header Data
 
-From: Sandy Sandfort \<sandfort@crl.com\><br>
+From: Sandy Sandfort \<sandfort<span>@</span>crl.com\><br>
 To: Cypherpunks \<cypherpunks@toad.com\><br>
 Message Hash: a4aadf41a6f6bda0eaa3b1aab9cb5ba5dd24fcbc40554bb9e9d2b744d83b8825<br>
 Message ID: \<Pine.3.87.9409191343.A12756-0100000@crl2.crl.com\><br>
@@ -104,6 +104,8 @@ Thanks Paul.
 ## Thread
 
 + Return to [September 1994](/archive/1994/09)
+
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1994-09-19 (Mon, 19 Sep 94 13:31:37 PDT) - EMBARRASSED, I? - _Sandy Sandfort \<sandfort@crl.com\>_
 

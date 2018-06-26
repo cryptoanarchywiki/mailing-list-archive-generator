@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: terry_wright_dactyl_at_mail_zynet_co_uk_
+post_count: 1
 ---
 
-# Terry Wright <dactyl@mail.zynet.co.uk> (1 posts)
+# Terry Wright <dactyl<span>@</span>mail.zynet.co.uk> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

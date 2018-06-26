@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: qjones_at_infi_net_wayne_q_jones_
+post_count: 1
 ---
 
-# qjones@infi.net (Wayne Q Jones) (1 posts)
+# qjones<span>@</span>infi.net (Wayne Q Jones) (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

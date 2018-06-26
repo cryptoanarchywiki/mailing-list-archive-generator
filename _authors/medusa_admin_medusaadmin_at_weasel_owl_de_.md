@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: medusa_admin_medusaadmin_at_weasel_owl_de_
+post_count: 1
 ---
 
-# Medusa Admin <medusa-admin@weasel.owl.de> (1 posts)
+# Medusa Admin <medusa-admin<span>@</span>weasel.owl.de> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 

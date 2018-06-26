@@ -1,8 +1,10 @@
 ---
 layout: default
+sender_id: bozhidar_v_bozhinov_boshko_at_unisvishtov_bg_
+post_count: 1
 ---
 
-# Bozhidar V Bozhinov <boshko@uni-svishtov.bg> (1 posts)
+# Bozhidar V Bozhinov <boshko<span>@</span>uni-svishtov.bg> (1 post)
 
 _Be aware that many list participants used multiple email addresses over their time active on the list. As such this page may not contain all threads available._
 
