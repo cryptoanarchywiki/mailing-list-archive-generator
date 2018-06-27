@@ -40,7 +40,7 @@ http://hipcrime.home.ml.org
 
 + Return to [July 1997](/archive/1997/07)
 
-+ Return to "[cypherpunks<span>@</span>Algebra.COM](/author/cypherpunks_at_algebra_com)"
++ Return to "[cypherpunks<span>@</span>Algebra.COM](/authors/cypherpunks_at_algebra_com)"
 
 + 1997-07-03 (Thu, 3 Jul 1997 19:14:07 +0800) - http://hipcrime.home.ml.org - _cypherpunks@Algebra.COM_
 

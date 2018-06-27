@@ -149,11 +149,11 @@ On Mon, 4 May 1998 mgraffam@mhv.net wrote:
 
 + Return to [May 1998](/archive/1998/05)
 
-+ Return to "["Edwin E. Smith" <edsmith<span>@</span>IntNet.net>](/author/edwin_e_smith_edsmith_at_intnet_net_)"
-+ Return to "[mgraffam<span>@</span>mhv.net](/author/mgraffam_at_mhv_net)"
-+ Return to "[Peter Swire <swire.1<span>@</span>osu.edu>](/author/peter_swire_swire_1_at_osu_edu_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
-+ Return to "[Xcott Craver <caj<span>@</span>math.niu.edu>](/author/xcott_craver_caj_at_math_niu_edu_)"
++ Return to "["Edwin E. Smith" <edsmith<span>@</span>IntNet.net>](/authors/edwin_e_smith_edsmith_at_intnet_net_)"
++ Return to "[mgraffam<span>@</span>mhv.net](/authors/mgraffam_at_mhv_net)"
++ Return to "[Peter Swire <swire.1<span>@</span>osu.edu>](/authors/peter_swire_swire_1_at_osu_edu_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
++ Return to "[Xcott Craver <caj<span>@</span>math.niu.edu>](/authors/xcott_craver_caj_at_math_niu_edu_)"
 
 + 1998-05-04 (Mon, 4 May 1998 13:04:18 -0700 (PDT)) - [A new Swiss banking novel](/archive/1998/05/cc64efce8e90bbf1c40e76d5ede8c351af99c2d374013ce89d4c368de1a1b852) - _Peter Swire \<swire.1@osu.edu\>_
   + 1998-05-04 (Mon, 4 May 1998 16:11:50 -0700 (PDT)) - [Re: A new Swiss banking novel](/archive/1998/05/6a45b8de0f12cf368867a51984cf69dde6449c14e3fe04fb3d806a32410b1353) - _Xcott Craver \<caj@math.niu.edu\>_

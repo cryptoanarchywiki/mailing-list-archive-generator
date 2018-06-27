@@ -91,7 +91,7 @@ function (MD4 originally).  A choice of hash functions can be provided. See RFC-
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Peter M Allan <peter.allan<span>@</span>aeat.co.uk>](/author/peter_m_allan_peter_allan_at_aeat_co_uk_)"
++ Return to "[Peter M Allan <peter.allan<span>@</span>aeat.co.uk>](/authors/peter_m_allan_peter_allan_at_aeat_co_uk_)"
 
 + 1997-01-27 (Mon, 27 Jan 1997 11:49:15 -0800 (PST)) - S/KEY (was: 2 Questions) - _Peter M Allan \<peter.allan@aeat.co.uk\>_
 

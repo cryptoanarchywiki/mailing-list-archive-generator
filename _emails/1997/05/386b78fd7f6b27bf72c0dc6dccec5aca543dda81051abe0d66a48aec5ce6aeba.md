@@ -97,11 +97,11 @@ dLrBMM3+tTCdKJrRZRQKvY+Qux4YFc5tJnn+EZFf5tSsGV/7jGqsVQ==
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[Alan Olsen <alan<span>@</span>ctrl-alt-del.com>](/author/alan_olsen_alan_at_ctrlaltdel_com_)"
-+ Return to "[frissell<span>@</span>panix.com](/author/frissell_at_panix_com)"
-+ Return to "["Lynne L. Harrison" <lharrison<span>@</span>mhv.net>](/author/lynne_l_harrison_lharrison_at_mhv_net_)"
-+ Return to "["Robert A. Costner" <pooh<span>@</span>efga.org>](/author/robert_a_costner_pooh_at_efga_org_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Alan Olsen <alan<span>@</span>ctrl-alt-del.com>](/authors/alan_olsen_alan_at_ctrlaltdel_com_)"
++ Return to "[frissell<span>@</span>panix.com](/authors/frissell_at_panix_com)"
++ Return to "["Lynne L. Harrison" <lharrison<span>@</span>mhv.net>](/authors/lynne_l_harrison_lharrison_at_mhv_net_)"
++ Return to "["Robert A. Costner" <pooh<span>@</span>efga.org>](/authors/robert_a_costner_pooh_at_efga_org_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
 
 + 1997-05-18 (Sun, 18 May 1997 09:03:09 +0800) - [PGP 5.0 beta is out at PGP.com](/archive/1997/05/195739417ef7ce7e033d1ec6aa454a81a6b2505a4f2062e7aa5ee921e9d15982) - _Alan Olsen \<alan@ctrl-alt-del.com\>_
   + 1997-05-18 (Sun, 18 May 1997 09:32:55 +0800) - [Re: PGP 5.0 beta is out at PGP.com](/archive/1997/05/8c8e8844f0d55e060dbcc0732d8ced823fe290ac9dcc2495da7ad53f5de2e05a) - _Tim May \<tcmay@got.net\>_

@@ -78,7 +78,7 @@ DigitaLiberty
 
 + Return to [June 1994](/archive/1994/06)
 
-+ Return to "[Bill Frezza (via RadioMail) <frezza<span>@</span>radiomail.net>](/author/bill_frezza_via_radiomail_frezza_at_radiomail_net_)"
++ Return to "[Bill Frezza (via RadioMail) <frezza<span>@</span>radiomail.net>](/authors/bill_frezza_via_radiomail_frezza_at_radiomail_net_)"
 
 + 1994-06-17 (Fri, 17 Jun 94 16:27:40 PDT) - Re: Crypto export legislation defeated in House Intelligence Cmte. - _Bill Frezza (via RadioMail) \<frezza@radiomail.net\>_
 

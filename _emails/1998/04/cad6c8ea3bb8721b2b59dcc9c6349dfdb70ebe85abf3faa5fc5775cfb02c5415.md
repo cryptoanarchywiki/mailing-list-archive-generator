@@ -151,7 +151,7 @@ The Federation of International Trade Associations (FITA)
 
 + Return to [April 1998](/archive/1998/04)
 
-+ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/authors/john_gilmore_gnu_at_toad_com_)"
 
 + 1998-04-16 (Thu, 16 Apr 1998 11:39:05 -0700 (PDT)) - BXA Encryption Export Seminar - San Jose, April 28 - _John Gilmore \<gnu@toad.com\>_
 

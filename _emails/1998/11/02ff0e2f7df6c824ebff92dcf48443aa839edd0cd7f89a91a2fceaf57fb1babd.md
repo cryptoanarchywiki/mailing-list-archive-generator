@@ -109,8 +109,8 @@ be no drives just fast main ram.
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/author/bill_stewart_bill_stewart_at_pobox_com_)"
-+ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/authors/bill_stewart_bill_stewart_at_pobox_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-11-28 (Sun, 29 Nov 1998 02:07:18 +0800) - Re: Securing data in memory (was "Locking physical memory (fwd) - _Jim Choate \<ravage@einstein.ssz.com\>_
   + 1998-11-30 (Mon, 30 Nov 1998 12:18:26 +0800) - [Re: Securing data in memory (was "Locking physical memory (fwd)](/archive/1998/11/346ffc87cf49eb981dd7629ea5c4e8b05323241f54f23bbf921402a21ac960ca) - _Bill Stewart \<bill.stewart@pobox.com\>_

@@ -91,7 +91,7 @@ Technicolorized
 
 + Return to [March 1993](/archive/1993/03)
 
-+ Return to "["DrZaphod" <ncselxsi!drzaphod<span>@</span>ncselxsi.netcom.com>](/author/drzaphod_ncselxsidrzaphod_at_ncselxsi_netcom_com_)"
++ Return to "["DrZaphod" <ncselxsi!drzaphod<span>@</span>ncselxsi.netcom.com>](/authors/drzaphod_ncselxsidrzaphod_at_ncselxsi_netcom_com_)"
 
 + 1993-03-07 (Sun, 7 Mar 93 15:05:31 PST) - Fw: Law and Disorder on the Electronic Frontier - _"DrZaphod" \<ncselxsi!drzaphod@ncselxsi.netcom.com\>_
 

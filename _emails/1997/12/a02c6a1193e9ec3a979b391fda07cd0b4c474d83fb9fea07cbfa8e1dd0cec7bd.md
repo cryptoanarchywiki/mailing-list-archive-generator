@@ -107,7 +107,7 @@ than from Mailmasher itself.
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[Anonymous <Use-Author-Address-Header<span>@</span>[127.1]>](/author/anonymous_useauthoraddressheader_at_127_1_)"
++ Return to "[Anonymous <Use-Author-Address-Header<span>@</span>[127.1]>](/authors/anonymous_useauthoraddressheader_at_127_1_)"
 
 + _Unknown thread root_
   + 1997-12-03 (Thu, 4 Dec 1997 00:58:36 +0800) - Another of Gary Burnore's Lies Exposed (was: Re: not so fast Re: Kudos to NETCOM!) - _Anonymous \<Use-Author-Address-Header@[127.1]\>_

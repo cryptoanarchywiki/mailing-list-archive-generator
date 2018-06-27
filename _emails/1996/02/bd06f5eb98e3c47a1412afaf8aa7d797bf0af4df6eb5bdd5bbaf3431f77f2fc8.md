@@ -78,7 +78,7 @@ http://java.sun.com/people/mrm/
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[mrm<span>@</span>netcom.com (Marianne Mueller)](/author/mrm_at_netcom_com_marianne_mueller_)"
++ Return to "[mrm<span>@</span>netcom.com (Marianne Mueller)](/authors/mrm_at_netcom_com_marianne_mueller_)"
 
 + 1996-02-25 (Mon, 26 Feb 1996 05:35:37 +0800) - Re: DNS-related problem, and, motherhood 'n apple pie, etc - _mrm@netcom.com (Marianne Mueller)_
 

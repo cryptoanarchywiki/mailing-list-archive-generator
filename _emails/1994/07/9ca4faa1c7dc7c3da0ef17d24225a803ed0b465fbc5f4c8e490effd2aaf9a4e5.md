@@ -68,7 +68,7 @@ Bob
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "["Robert M. Humphrey" <Robert<span>@</span>rmh.khabarovsk.su>](/author/robert_m_humphrey_robert_at_rmh_khabarovsk_su_)"
++ Return to "["Robert M. Humphrey" <Robert<span>@</span>rmh.khabarovsk.su>](/authors/robert_m_humphrey_robert_at_rmh_khabarovsk_su_)"
 
 + 1994-07-07 (Thu, 7 Jul 94 00:15:48 PDT) - Need help in Russia............... - _"Robert M. Humphrey" \<Robert@rmh.khabarovsk.su\>_
 

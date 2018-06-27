@@ -110,7 +110,7 @@ A second offense could lead to a prison term of up to six years.
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[David Honig <honig<span>@</span>otc.net>](/author/david_honig_honig_at_otc_net_)"
++ Return to "[David Honig <honig<span>@</span>otc.net>](/authors/david_honig_honig_at_otc_net_)"
 
 + 1997-12-17 (Wed, 17 Dec 1997 15:24:08 -0800 (PST)) - No Subject - _David Honig \<honig@otc.net\>_
 

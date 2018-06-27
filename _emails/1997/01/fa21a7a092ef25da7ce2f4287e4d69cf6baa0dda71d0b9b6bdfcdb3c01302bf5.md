@@ -80,8 +80,8 @@ STUMP), but am opposed to autorejections (unless mods are mailbombed).
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
-+ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/authors/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/authors/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1997-01-24 (Thu, 23 Jan 1997 20:39:06 -0800 (PST)) - Re: Airport security [no such thing] - _ichudov@algebra.com (Igor Chudov @ home)_
   + 1997-01-24 (Thu, 23 Jan 1997 23:13:38 -0800 (PST)) - [Re: Airport security [no such thing]](/archive/1997/01/1f26cb5f7e6405b2e47b8ea2b139648566609a44664731ff8715309f2a9b8266) - _Sandy Sandfort \<sandfort@crl.com\>_

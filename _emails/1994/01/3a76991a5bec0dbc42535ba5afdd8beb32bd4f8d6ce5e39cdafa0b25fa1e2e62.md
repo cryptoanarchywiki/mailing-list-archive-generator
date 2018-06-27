@@ -48,7 +48,7 @@ is going to the be processing sight paying their electric bill).
 
 + Return to [January 1994](/archive/1994/01)
 
-+ Return to "[Jim choate <ravage<span>@</span>wixer.bga.com>](/author/jim_choate_ravage_at_wixer_bga_com_)"
++ Return to "[Jim choate <ravage<span>@</span>wixer.bga.com>](/authors/jim_choate_ravage_at_wixer_bga_com_)"
 
 + 1994-01-28 (Fri, 28 Jan 94 12:48:02 PST) - Digital Cash.... - _Jim choate \<ravage@wixer.bga.com\>_
 

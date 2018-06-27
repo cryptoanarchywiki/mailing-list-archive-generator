@@ -64,10 +64,10 @@ facsimile : +44 256 810159	Hampshire, RG24 8WD, United Kingdom.
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "[gtoal<span>@</span>an-teallach.com (Graham Toal)](/author/gtoal_at_anteallach_com_graham_toal_)"
-+ Return to "[Paul Kathro <pak<span>@</span>chaser.co.uk>](/author/paul_kathro_pak_at_chaser_co_uk_)"
-+ Return to "[pstemari<span>@</span>bismark.cbis.com (Paul J. Ste. Marie)](/author/pstemari_at_bismark_cbis_com_paul_j_ste_marie_)"
-+ Return to "[uunet!alias.com!rmartin<span>@</span>uunet.uu.net (Richard Martin)](/author/uunetalias_comrmartin_at_uunet_uu_net_richard_martin_)"
++ Return to "[gtoal<span>@</span>an-teallach.com (Graham Toal)](/authors/gtoal_at_anteallach_com_graham_toal_)"
++ Return to "[Paul Kathro <pak<span>@</span>chaser.co.uk>](/authors/paul_kathro_pak_at_chaser_co_uk_)"
++ Return to "[pstemari<span>@</span>bismark.cbis.com (Paul J. Ste. Marie)](/authors/pstemari_at_bismark_cbis_com_paul_j_ste_marie_)"
++ Return to "[uunet!alias.com!rmartin<span>@</span>uunet.uu.net (Richard Martin)](/authors/uunetalias_comrmartin_at_uunet_uu_net_richard_martin_)"
 
 + 1994-07-06 (Wed, 6 Jul 94 06:47:46 PDT) - [Re: Most People don't Think about Security](/archive/1994/07/d9a46d75e4543101459ac4bc3d98bc9b43a954b153b5efa1292ecb8865ffd2c5) - _gtoal@an-teallach.com (Graham Toal)_
   + 1994-07-07 (Thu, 7 Jul 94 05:58:11 PDT) - Re: Most People don't Think about Security - _Paul Kathro \<pak@chaser.co.uk\>_

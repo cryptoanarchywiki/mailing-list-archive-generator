@@ -98,7 +98,7 @@ BendOverI'mHereToHelpYouMonger
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1997-12-24 (Thu, 25 Dec 1997 04:54:05 +0800) - Cryptographers Do It With Protection - _nobody@REPLAY.COM (Anonymous)_
 

@@ -66,8 +66,8 @@ Hal
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[hfinney<span>@</span>shell.portal.com (Hal Finney)](/author/hfinney_at_shell_portal_com_hal_finney_)"
-+ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/author/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
++ Return to "[hfinney<span>@</span>shell.portal.com (Hal Finney)](/authors/hfinney_at_shell_portal_com_hal_finney_)"
++ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/authors/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
 
 + 1993-10-22 (Fri, 22 Oct 93 09:38:17 PDT) - Sharing a secret - _hfinney@shell.portal.com (Hal Finney)_
   + 1993-10-22 (Fri, 22 Oct 93 13:33:18 PDT) - [Re: Sharing a secret](/archive/1993/10/8d808728fac34b5ee5e5fbc8898755027113aa7311bffdd3a33d7f59ca346aa3) - _Matthew J Ghio \<mg5n+@andrew.cmu.edu\>_

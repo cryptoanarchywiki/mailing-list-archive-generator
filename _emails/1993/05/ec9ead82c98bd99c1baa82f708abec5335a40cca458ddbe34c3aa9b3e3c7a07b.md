@@ -61,8 +61,8 @@ Does anyone know the rationale behind this?
 
 + Return to [May 1993](/archive/1993/05)
 
-+ Return to "[Joe Thomas <jthomas<span>@</span>access.digex.net>](/author/joe_thomas_jthomas_at_access_digex_net_)"
-+ Return to "[Timothy Newsham <newsham<span>@</span>wiliki.eng.hawaii.edu>](/author/timothy_newsham_newsham_at_wiliki_eng_hawaii_edu_)"
++ Return to "[Joe Thomas <jthomas<span>@</span>access.digex.net>](/authors/joe_thomas_jthomas_at_access_digex_net_)"
++ Return to "[Timothy Newsham <newsham<span>@</span>wiliki.eng.hawaii.edu>](/authors/timothy_newsham_newsham_at_wiliki_eng_hawaii_edu_)"
 
 + 1993-05-04 (Tue, 4 May 93 13:13:45 PDT) - tripple des - _Timothy Newsham \<newsham@wiliki.eng.hawaii.edu\>_
   + 1993-05-04 (Tue, 4 May 93 14:18:38 PDT) - [Re: tripple des](/archive/1993/05/bff6e89482897a8e1e530e100056b183c91fb0365d27bdf9f8bbfc65597afa1e) - _Joe Thomas \<jthomas@access.digex.net\>_

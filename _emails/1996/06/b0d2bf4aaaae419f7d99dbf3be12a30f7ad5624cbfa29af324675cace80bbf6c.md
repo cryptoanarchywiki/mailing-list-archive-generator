@@ -64,8 +64,8 @@ bought in from the get-go with a project called I-Net in the mid-80's.
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/authors/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
 
 + 1996-06-03 (Mon, 3 Jun 1996 18:31:20 +0800) - IR Cameras - _Jim Choate \<ravage@ssz.com\>_
   + 1996-06-04 (Tue, 4 Jun 1996 13:43:11 +0800) - [Re: IR Cameras](/archive/1996/06/145433daa999f2d0b537cd3f3f89cd7c7ddf01b1eca6a4d3218c50b667c6852e) - _Black Unicorn \<unicorn@schloss.li\>_

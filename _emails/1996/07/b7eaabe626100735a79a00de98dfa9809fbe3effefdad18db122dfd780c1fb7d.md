@@ -62,9 +62,9 @@ change-sun-hostid, Sun NVRAM/hostid FAQ - http://www.squirrel.com/squirrel/
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
-+ Return to "["Mark C. Henderson" <mch<span>@</span>squirrel.com>](/author/mark_c_henderson_mch_at_squirrel_com_)"
-+ Return to "[snow <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/authors/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "["Mark C. Henderson" <mch<span>@</span>squirrel.com>](/authors/mark_c_henderson_mch_at_squirrel_com_)"
++ Return to "[snow <snow<span>@</span>smoke.suba.com>](/authors/snow_snow_at_smoke_suba_com_)"
 
 + 1996-07-14 (Mon, 15 Jul 1996 06:30:20 +0800) - [Encrypted file systems](/archive/1996/07/986b0a6f21bd87861c5688ba93b8a392e2ca6fe61242c21b4ea6f9f88f3b2f5f) - _Adam Back \<aba@dcs.ex.ac.uk\>_
   + 1996-07-14 (Mon, 15 Jul 1996 07:59:45 +0800) - Re: Encrypted file systems - _"Mark C. Henderson" \<mch@squirrel.com\>_

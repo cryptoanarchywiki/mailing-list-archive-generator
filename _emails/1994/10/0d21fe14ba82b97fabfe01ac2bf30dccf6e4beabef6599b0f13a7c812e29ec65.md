@@ -49,7 +49,7 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 
 + Return to [October 1994](/archive/1994/10)
 
-+ Return to "[bogus<span>@</span>no.return.address (Underdog)](/author/bogus_at_no_return_address_underdog_)"
++ Return to "[bogus<span>@</span>no.return.address (Underdog)](/authors/bogus_at_no_return_address_underdog_)"
 
 + 1994-10-04 (Tue, 4 Oct 94 13:57:52 PDT) - A practical use of c'punk brain power. - _bogus@no.return.address (Underdog)_
 

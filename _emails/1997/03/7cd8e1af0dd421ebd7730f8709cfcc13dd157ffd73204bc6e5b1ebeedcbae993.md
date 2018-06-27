@@ -98,7 +98,7 @@ with remove in the subject header.
 
 + Return to [March 1997](/archive/1997/03)
 
-+ Return to "[Ken Synder <sfd<span>@</span>sfdungeon.com>](/author/ken_synder_sfd_at_sfdungeon_com_)"
++ Return to "[Ken Synder <sfd<span>@</span>sfdungeon.com>](/authors/ken_synder_sfd_at_sfdungeon_com_)"
 
 + 1997-03-13 (Thu, 13 Mar 1997 10:40:46 -0800 (PST)) - Good News/Bad News!! - _Ken Synder \<sfd@sfdungeon.com\>_
 

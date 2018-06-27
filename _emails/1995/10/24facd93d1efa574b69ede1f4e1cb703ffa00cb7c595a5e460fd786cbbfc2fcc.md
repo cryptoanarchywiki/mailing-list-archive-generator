@@ -49,7 +49,7 @@ Perry
 
 + Return to [October 1995](/archive/1995/10)
 
-+ Return to "["& E. Metzger" <perry<span>@</span>piermont.com>](/author/_e_metzger_perry_at_piermont_com_)"
++ Return to "["& E. Metzger" <perry<span>@</span>piermont.com>](/authors/_e_metzger_perry_at_piermont_com_)"
 
 + 1995-10-15 (Sun, 15 Oct 95 16:10:42 PDT) - Netscape bugs bounty - _"& E. Metzger" \<perry@piermont.com\>_
 

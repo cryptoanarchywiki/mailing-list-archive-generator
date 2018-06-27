@@ -40,7 +40,7 @@ has ever shown up, and I suspect I've got a bad key on my ring for them!
 
 + Return to [June 1994](/archive/1994/06)
 
-+ Return to "[nobody<span>@</span>shell.portal.com](/author/nobody_at_shell_portal_com)"
++ Return to "[nobody<span>@</span>shell.portal.com](/authors/nobody_at_shell_portal_com)"
 
 + 1994-06-25 (Sat, 25 Jun 94 10:06:11 PDT) - PGP public key for soda.berkeley remailer? - _nobody@shell.portal.com_
 

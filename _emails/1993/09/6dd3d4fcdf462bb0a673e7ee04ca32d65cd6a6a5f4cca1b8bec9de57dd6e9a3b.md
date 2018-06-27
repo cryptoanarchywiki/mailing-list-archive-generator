@@ -45,7 +45,7 @@ sameer@netcom.com
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "[sameer<span>@</span>netcom.com (Sameer Parekh)](/author/sameer_at_netcom_com_sameer_parekh_)"
++ Return to "[sameer<span>@</span>netcom.com (Sameer Parekh)](/authors/sameer_at_netcom_com_sameer_parekh_)"
 
 + 1993-09-07 (Tue, 7 Sep 93 16:51:46 PDT) - news.cs.indiana.edu *does* work - _sameer@netcom.com (Sameer Parekh)_
 

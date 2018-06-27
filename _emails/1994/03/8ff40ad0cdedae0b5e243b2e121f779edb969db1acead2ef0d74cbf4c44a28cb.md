@@ -138,10 +138,10 @@ Higher Power: 2^859433 | Public Key: PGP and MailSafe available.
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[Grand Epopt Feotus <68954<span>@</span>brahms.udel.edu>](/author/grand_epopt_feotus_68954_at_brahms_udel_edu_)"
-+ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
-+ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/author/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[Grand Epopt Feotus <68954<span>@</span>brahms.udel.edu>](/authors/grand_epopt_feotus_68954_at_brahms_udel_edu_)"
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/authors/hughes_at_ah_com_eric_hughes_)"
++ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/authors/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-03-10 (Wed, 9 Mar 94 17:57:49 PST) - [The Coming Police State](/archive/1994/03/54a07c7aa8059a33232cd22a0a0d4aa1d57976db55e4fc9a69a38194237a9275) - _tcmay@netcom.com (Timothy C. May)_
   + 1994-03-10 (Thu, 10 Mar 94 00:19:31 PST) - [Re: The Coming Police State](/archive/1994/03/4a6ff635a38b974d08f2bd275032e6587b8cca703a7f04f4e6ae494d31b705b5) - _Grand Epopt Feotus \<68954@brahms.udel.edu\>_

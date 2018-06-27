@@ -81,7 +81,7 @@ c4RETw8Os8A=
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[Carl Ellison <cme<span>@</span>cybercash.com>](/author/carl_ellison_cme_at_cybercash_com_)"
++ Return to "[Carl Ellison <cme<span>@</span>cybercash.com>](/authors/carl_ellison_cme_at_cybercash_com_)"
 
 + 1996-12-20 (Thu, 19 Dec 1996 18:34:32 -0800 (PST)) - Re: "Cryptography Policy and the Information Economy" draft available - _Carl Ellison \<cme@cybercash.com\>_
 

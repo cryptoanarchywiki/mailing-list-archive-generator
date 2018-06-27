@@ -83,7 +83,7 @@ In the SuSE manual (pp. 188) it says:
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-09-17 (Fri, 18 Sep 1998 07:26:18 +0800) - RF networks, spread spectrum (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

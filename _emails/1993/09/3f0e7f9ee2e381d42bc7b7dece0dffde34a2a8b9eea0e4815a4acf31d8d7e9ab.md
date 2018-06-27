@@ -57,8 +57,8 @@ is it?
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "[ANSPRING<span>@</span>delphi.com](/author/anspring_at_delphi_com)"
-+ Return to "[Mike Godwin <mnemonic<span>@</span>eff.org>](/author/mike_godwin_mnemonic_at_eff_org_)"
++ Return to "[ANSPRING<span>@</span>delphi.com](/authors/anspring_at_delphi_com)"
++ Return to "[Mike Godwin <mnemonic<span>@</span>eff.org>](/authors/mike_godwin_mnemonic_at_eff_org_)"
 
 + 1993-09-20 (Sun, 19 Sep 93 18:30:56 PDT) - Re: Restrictions on crypto exports - _ANSPRING@delphi.com_
   + 1993-09-20 (Sun, 19 Sep 93 20:35:57 PDT) - [Re: Restrictions on crypto exports](/archive/1993/09/001804e4c046424ca85fdec3f24c941a6082ad0dc900ea279ad8cd8920f33310) - _Mike Godwin \<mnemonic@eff.org\>_

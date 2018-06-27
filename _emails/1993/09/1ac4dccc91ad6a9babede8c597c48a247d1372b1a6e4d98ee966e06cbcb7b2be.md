@@ -53,7 +53,7 @@ friendly town librarian, but I may try once I'm resettled.)
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "[wcs<span>@</span>anchor.ho.att.com (Bill Stewart +1-908-949-0705 wcs<span>@</span>anchor.ho.att.com)](/author/wcs_at_anchor_ho_att_com_bill_stewart_19089490705_wcs_at_anchor_ho_att_com_)"
++ Return to "[wcs<span>@</span>anchor.ho.att.com (Bill Stewart +1-908-949-0705 wcs<span>@</span>anchor.ho.att.com)](/authors/wcs_at_anchor_ho_att_com_bill_stewart_19089490705_wcs_at_anchor_ho_att_com_)"
 
 + 1993-09-20 (Mon, 20 Sep 93 11:39:58 PDT) - Re: Restrictions on crypto exports - _wcs@anchor.ho.att.com (Bill Stewart +1-908-949-0705 wcs@anchor.ho.att.com)_
 

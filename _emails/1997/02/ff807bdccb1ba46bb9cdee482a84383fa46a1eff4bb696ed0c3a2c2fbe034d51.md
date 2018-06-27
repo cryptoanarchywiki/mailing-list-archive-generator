@@ -162,7 +162,7 @@ repugnant to that jurisprudence.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[rex <rshea<span>@</span>netcom.com>](/author/rex_rshea_at_netcom_com_)"
++ Return to "[rex <rshea<span>@</span>netcom.com>](/authors/rex_rshea_at_netcom_com_)"
 
 + 1997-02-01 (Fri, 31 Jan 1997 18:02:26 -0800 (PST)) - Re: If guilty of a lesser crime, you can be sentenced for a greater - _rex \<rshea@netcom.com\>_
 

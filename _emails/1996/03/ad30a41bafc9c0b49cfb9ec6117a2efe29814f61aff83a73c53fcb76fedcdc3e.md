@@ -65,7 +65,7 @@ commercial key escrow data recovery center in the United STates.
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[koontz<span>@</span>netapp.com (Dave Koontz)](/author/koontz_at_netapp_com_dave_koontz_)"
++ Return to "[koontz<span>@</span>netapp.com (Dave Koontz)](/authors/koontz_at_netapp_com_dave_koontz_)"
 
 + 1996-03-14 (Thu, 14 Mar 1996 12:47:10 -0500) - Commercial Key Escrow as Prerequisite to 64 bit Export - _koontz@netapp.com (Dave Koontz)_
 

@@ -72,7 +72,7 @@ Las Vegas, NV 89129       | Internet: azur@netcom.com
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[azur<span>@</span>netcom.com (Steve Schear)](/author/azur_at_netcom_com_steve_schear_)"
++ Return to "[azur<span>@</span>netcom.com (Steve Schear)](/authors/azur_at_netcom_com_steve_schear_)"
 
 + 1997-05-03 (Sat, 3 May 1997 13:17:54 +0800) - Re: Bombs Away, from The Netly News Network - _azur@netcom.com (Steve Schear)_
 

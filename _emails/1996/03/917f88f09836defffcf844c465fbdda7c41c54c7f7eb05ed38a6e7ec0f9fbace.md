@@ -54,7 +54,7 @@ Has anyone else received one of these?
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[anonymous<span>@</span>extropia.wimsey.com](/author/anonymous_at_extropia_wimsey_com)"
++ Return to "[anonymous<span>@</span>extropia.wimsey.com](/authors/anonymous_at_extropia_wimsey_com)"
 
 + 1996-03-13 (Wed, 13 Mar 1996 16:14:19 +0800) - all.net - _anonymous@extropia.wimsey.com_
 

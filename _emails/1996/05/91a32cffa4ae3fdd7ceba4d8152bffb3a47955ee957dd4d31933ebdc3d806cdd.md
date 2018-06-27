@@ -92,7 +92,7 @@ Licensed Ontologist         | black markets, collapse of governments.
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/authors/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-05-02 (Thu, 2 May 1996 08:58:46 +0800) - Re: Lolitas and Cyber Angels - _tcmay@got.net (Timothy C. May)_
 

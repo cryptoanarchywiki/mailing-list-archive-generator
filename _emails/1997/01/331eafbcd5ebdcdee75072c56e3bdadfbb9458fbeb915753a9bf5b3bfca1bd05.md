@@ -46,7 +46,7 @@ on the toilet.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[nobody<span>@</span>zifi.genetics.utah.edu (Anonymous)](/author/nobody_at_zifi_genetics_utah_edu_anonymous_)"
++ Return to "[nobody<span>@</span>zifi.genetics.utah.edu (Anonymous)](/authors/nobody_at_zifi_genetics_utah_edu_anonymous_)"
 
 + 1997-01-23 (Wed, 22 Jan 1997 18:19:02 -0800 (PST)) - Digital signatures - _nobody@zifi.genetics.utah.edu (Anonymous)_
 

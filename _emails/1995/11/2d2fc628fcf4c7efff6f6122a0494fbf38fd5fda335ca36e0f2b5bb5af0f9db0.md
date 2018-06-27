@@ -99,8 +99,8 @@ Higher Power: 2^756839      | black markets, collapse of governments.
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
-+ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/authors/sameer_sameer_at_c2_org_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/authors/tcmay_at_got_net_timothy_c_may_)"
 
 + 1995-11-16 (Fri, 17 Nov 1995 02:32:00 +0800) - Re: e$: Come aaaannnndddd Get it! - _tcmay@got.net (Timothy C. May)_
   + 1995-11-19 (Sun, 19 Nov 1995 11:58:33 +0800) - [Re: e$: Come aaaannnndddd Get it!](/archive/1995/11/6767001b18426b57ae0d9b8c1dfe24038dfe1c5f363f847b67fecb29680b1ade) - _sameer \<sameer@c2.org\>_

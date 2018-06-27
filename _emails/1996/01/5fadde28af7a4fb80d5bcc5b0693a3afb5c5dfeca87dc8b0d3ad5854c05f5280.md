@@ -61,8 +61,8 @@ Real NetWare servers do qualify for a C2 rating.
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
-+ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/authors/rich_graves_llurch_at_networking_stanford_edu_)"
 
 + 1996-01-09 (Tue, 9 Jan 1996 10:04:07 +0800) - [NSA Rigs Win NT to B](/archive/1996/01/34615b2ea041885a7bbb7dcfb896ccfdb50a6a0032220a7064dc2d528b79195c) - _nobody@REPLAY.COM (Anonymous)_
   + 1996-01-09 (Tue, 9 Jan 1996 10:27:03 +0800) - Re: NSA Rigs Win NT to B - _Rich Graves \<llurch@networking.stanford.edu\>_

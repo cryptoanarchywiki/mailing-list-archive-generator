@@ -50,8 +50,8 @@ Perry
 
 + Return to [January 1994](/archive/1994/01)
 
-+ Return to "[nobody<span>@</span>shell.portal.com](/author/nobody_at_shell_portal_com)"
-+ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/author/perry_e_metzger_pmetzger_at_lehman_com_)"
++ Return to "[nobody<span>@</span>shell.portal.com](/authors/nobody_at_shell_portal_com)"
++ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/authors/perry_e_metzger_pmetzger_at_lehman_com_)"
 
 + 1994-01-25 (Mon, 24 Jan 94 18:16:44 PST) - [No Subject](/archive/1994/01/a982d67bf3fcc1c72ea800f219da79cf9606634e3233195e2b1cd58c9f58b7ca) - _nobody@shell.portal.com_
   + 1994-01-25 (Mon, 24 Jan 94 19:26:43 PST) - No Subject - _"Perry E. Metzger" \<pmetzger@lehman.com\>_

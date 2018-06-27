@@ -58,10 +58,10 @@ further...
 
 + Return to [November 1993](/archive/1993/11)
 
-+ Return to "[hfinney<span>@</span>shell.portal.com (Hal Finney)](/author/hfinney_at_shell_portal_com_hal_finney_)"
-+ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/author/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
-+ Return to "[nate<span>@</span>VIS.ColoState.EDU (CVL staff member Nate Sammons)](/author/nate_at_vis_colostate_edu_cvl_staff_member_nate_sammons_)"
-+ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/author/perry_e_metzger_pmetzger_at_lehman_com_)"
++ Return to "[hfinney<span>@</span>shell.portal.com (Hal Finney)](/authors/hfinney_at_shell_portal_com_hal_finney_)"
++ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/authors/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
++ Return to "[nate<span>@</span>VIS.ColoState.EDU (CVL staff member Nate Sammons)](/authors/nate_at_vis_colostate_edu_cvl_staff_member_nate_sammons_)"
++ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/authors/perry_e_metzger_pmetzger_at_lehman_com_)"
 
 + 1993-11-12 (Thu, 11 Nov 93 23:49:23 PST) - [Fractal cryptography](/archive/1993/11/f2e83fd916da3092cf51f91ad2b70c777d0b6b8ea1c1ce5561eba84b62e73143) - _hfinney@shell.portal.com (Hal Finney)_
   + 1993-11-13 (Fri, 12 Nov 93 16:19:42 PST) - [Re: Fractal cryptography](/archive/1993/11/34a9e3c9832f0e14e19d0a52b81718fb884f1a55153691ad00e3c6b2f840bf6f) - _Matthew J Ghio \<mg5n+@andrew.cmu.edu\>_

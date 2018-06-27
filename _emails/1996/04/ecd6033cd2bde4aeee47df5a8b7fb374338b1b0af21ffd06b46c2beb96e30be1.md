@@ -63,11 +63,11 @@ MlUiwpoo0OE=
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[Josh Richards <jrichard<span>@</span>slonet.org>](/author/josh_richards_jrichard_at_slonet_org_)"
-+ Return to "[Mark Allyn 206-860-9454 <allyn<span>@</span>allyn.com>](/author/mark_allyn_2068609454_allyn_at_allyn_com_)"
-+ Return to "[rich<span>@</span>c2.org (Rich Graves)](/author/rich_at_c2_org_rich_graves_)"
-+ Return to "["Seth I. Rich" <seth<span>@</span>hygnet.com>](/author/seth_i_rich_seth_at_hygnet_com_)"
-+ Return to "[Steven L Baur <steve<span>@</span>miranova.com>](/author/steven_l_baur_steve_at_miranova_com_)"
++ Return to "[Josh Richards <jrichard<span>@</span>slonet.org>](/authors/josh_richards_jrichard_at_slonet_org_)"
++ Return to "[Mark Allyn 206-860-9454 <allyn<span>@</span>allyn.com>](/authors/mark_allyn_2068609454_allyn_at_allyn_com_)"
++ Return to "[rich<span>@</span>c2.org (Rich Graves)](/authors/rich_at_c2_org_rich_graves_)"
++ Return to "["Seth I. Rich" <seth<span>@</span>hygnet.com>](/authors/seth_i_rich_seth_at_hygnet_com_)"
++ Return to "[Steven L Baur <steve<span>@</span>miranova.com>](/authors/steven_l_baur_steve_at_miranova_com_)"
 
 + 1996-04-27 (Sat, 27 Apr 1996 20:46:49 +0800) - www.WhosWhere.com selling access to my employer's passwd file - _rich@c2.org (Rich Graves)_
   + 1996-04-27 (Sun, 28 Apr 1996 03:16:02 +0800) - [Re: www.WhosWhere.com selling access to my employer's passwd file](/archive/1996/04/5b26cd5423908f1c8500e4221fc397ad1562927648237630b367fc3afeeb54dc) - _Mark Allyn 206-860-9454 \<allyn@allyn.com\>_

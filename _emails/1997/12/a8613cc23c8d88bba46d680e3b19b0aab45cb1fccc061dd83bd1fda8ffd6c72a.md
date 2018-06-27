@@ -95,7 +95,7 @@ Content-Type: text/plain
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
 
 + 1997-12-29 (Mon, 29 Dec 1997 12:27:09 +0800) - 17.html - _Jim Choate \<ravage@ssz.com\>_
 

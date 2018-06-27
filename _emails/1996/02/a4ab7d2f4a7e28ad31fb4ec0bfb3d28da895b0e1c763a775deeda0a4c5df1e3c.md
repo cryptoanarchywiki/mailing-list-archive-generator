@@ -104,9 +104,9 @@ Co-Principal Investigators
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[Adam Shostack <adam<span>@</span>lighthouse.homeport.org>](/author/adam_shostack_adam_at_lighthouse_homeport_org_)"
-+ Return to "[juggy<span>@</span>cerc.wvu.edu (V. "Juggy" Jagannathan)](/author/juggy_at_cerc_wvu_edu_v_juggy_jagannathan_)"
-+ Return to "["Martin Diehl" <mdiehl<span>@</span>dttus.com>](/author/martin_diehl_mdiehl_at_dttus_com_)"
++ Return to "[Adam Shostack <adam<span>@</span>lighthouse.homeport.org>](/authors/adam_shostack_adam_at_lighthouse_homeport_org_)"
++ Return to "[juggy<span>@</span>cerc.wvu.edu (V. "Juggy" Jagannathan)](/authors/juggy_at_cerc_wvu_edu_v_juggy_jagannathan_)"
++ Return to "["Martin Diehl" <mdiehl<span>@</span>dttus.com>](/authors/martin_diehl_mdiehl_at_dttus_com_)"
 
 + 1996-02-21 (Wed, 21 Feb 1996 12:55:34 +0800) - [Patient medical files on Net](/archive/1996/02/cc7ffa79b284460fcdab1c4452d87e61b9cd7d381d11d7ffd3a257f9ea7f76c6) - _"Martin Diehl" \<mdiehl@dttus.com\>_
   + 1996-02-21 (Thu, 22 Feb 1996 00:38:24 +0800) - [Re: Patient medical files on Net](/archive/1996/02/554444fcbc286d2d9e54d44de3c0dc5a4056ba24d4c6bcad748fdb1a889a2379) - _Adam Shostack \<adam@lighthouse.homeport.org\>_

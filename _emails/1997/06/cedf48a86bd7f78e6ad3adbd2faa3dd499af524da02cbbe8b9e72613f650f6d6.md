@@ -108,7 +108,7 @@ ymr - massmail
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[constitution99<span>@</span>hotmail.com](/author/constitution99_at_hotmail_com)"
++ Return to "[constitution99<span>@</span>hotmail.com](/authors/constitution99_at_hotmail_com)"
 
 + 1997-06-17 (Mon, 16 Jun 1997 23:40:43 -0700 (PDT)) - Need Your Immediate Help To Stop Censorship by FCC's Reed Hundt - _constitution99@hotmail.com_
 

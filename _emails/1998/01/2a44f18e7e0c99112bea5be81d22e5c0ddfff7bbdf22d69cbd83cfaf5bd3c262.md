@@ -80,7 +80,7 @@ equal Suffrage in the Senate.
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-01-19 (Tue, 20 Jan 1998 04:46:34 +0800) - Amending the Constitution - _Jim Choate \<ravage@ssz.com\>_
 

@@ -77,8 +77,8 @@ For privacy tools: http://www.geocities.com/capitolhill/1148
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
-+ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/author/david_k_merriman_merriman_at_arn_net_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/authors/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/authors/david_k_merriman_merriman_at_arn_net_)"
 
 + 1996-03-03 (Mon, 4 Mar 1996 05:40:12 +0800) - Re: Duress - _"David K. Merriman" \<merriman@arn.net\>_
   + 1996-03-04 (Mon, 4 Mar 1996 08:18:38 +0800) - [Re: Duress](/archive/1996/03/0287ccc5cc94744c68f67bf2c582cca27cf4c333b5f184cc4963358f5f3572d2) - _Black Unicorn \<unicorn@schloss.li\>_

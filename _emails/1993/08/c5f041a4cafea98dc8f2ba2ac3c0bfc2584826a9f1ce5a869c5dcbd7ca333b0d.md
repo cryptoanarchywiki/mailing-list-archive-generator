@@ -50,9 +50,9 @@ Eric
 
 + Return to [August 1993](/archive/1993/08)
 
-+ Return to "[Eric Hughes <hughes<span>@</span>soda.berkeley.edu>](/author/eric_hughes_hughes_at_soda_berkeley_edu_)"
-+ Return to "[jpp<span>@</span>markv.com](/author/jpp_at_markv_com)"
-+ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/author/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
++ Return to "[Eric Hughes <hughes<span>@</span>soda.berkeley.edu>](/authors/eric_hughes_hughes_at_soda_berkeley_edu_)"
++ Return to "[jpp<span>@</span>markv.com](/authors/jpp_at_markv_com)"
++ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/authors/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
 
 + 1993-08-04 (Tue, 3 Aug 93 23:29:14 PDT) - [CAKE--Citizens Against Key Escrow](/archive/1993/08/dc2c60484926b9af8920120674faa8391814d3e54481a2f071d31996a7fda528) - _"L. Detweiler" \<ld231782@longs.lance.colostate.edu\>_
   + 1993-08-05 (Wed, 4 Aug 93 18:30:13 PDT) - CAKE--Citizens Against Key Escrow - _Eric Hughes \<hughes@soda.berkeley.edu\>_

@@ -84,8 +84,8 @@ Higher Power: 2^859433 | Public Key: PGP and MailSafe available.
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
-+ Return to "[wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)](/author/wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)](/authors/wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_)"
 
 + 1994-03-23 (Wed, 23 Mar 94 00:03:15 PST) - [Re: CLIPPER CHIP ON LIMBAUGH](/archive/1994/03/3406010ce93221c6639415162aa28455ad862e905f80b62a581537f2d8f16f68) - _wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)_
   + 1994-03-23 (Wed, 23 Mar 94 00:20:55 PST) - I'm Glad Clinton Won in '92 - _tcmay@netcom.com (Timothy C. May)_

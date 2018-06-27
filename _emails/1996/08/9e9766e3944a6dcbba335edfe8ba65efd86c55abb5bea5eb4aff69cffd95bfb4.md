@@ -55,8 +55,8 @@ Offshore Information Services         http://www.offshore.com.ai/
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "["<pstira<span>@</span>escape.com>" <pstira<span>@</span>escape.com>](/author/_pstira_at_escape_com__pstira_at_escape_com_)"
-+ Return to "[Vincent Cate <vince<span>@</span>offshore.com.ai>](/author/vincent_cate_vince_at_offshore_com_ai_)"
++ Return to "["<pstira<span>@</span>escape.com>" <pstira<span>@</span>escape.com>](/authors/_pstira_at_escape_com__pstira_at_escape_com_)"
++ Return to "[Vincent Cate <vince<span>@</span>offshore.com.ai>](/authors/vincent_cate_vince_at_offshore_com_ai_)"
 
 + 1996-08-11 (Sun, 11 Aug 1996 15:05:07 +0800) - [Anguilla / taxbomber  - legality](/archive/1996/08/f6a0db0fc324064ed149c1be1217fc748466a252686ae655d8576b981f0a0e52) - _Vincent Cate \<vince@offshore.com.ai\>_
   + 1996-08-14 (Wed, 14 Aug 1996 09:11:30 +0800) - [Re: Anguilla / taxbomber - legality](/archive/1996/08/abf3359effda90f1044528e714887d76dfca2dc7abe6c350d4bcc991f44d5ef8) - _"\<pstira@escape.com\>" \<pstira@escape.com\>_

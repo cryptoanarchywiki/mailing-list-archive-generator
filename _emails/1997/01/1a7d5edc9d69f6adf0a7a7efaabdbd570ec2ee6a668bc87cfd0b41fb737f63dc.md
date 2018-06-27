@@ -73,12 +73,12 @@ PGP fingerprint:   5A 16 DA 04 31 33 40 1E  87 DA 29 02 97 A3 46 2F
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Alan Olsen <alan<span>@</span>ctrl-alt-del.com>](/author/alan_olsen_alan_at_ctrlaltdel_com_)"
-+ Return to "["/**\\anonymous/**\\" <panther<span>@</span>iglou.com>](/author/anonymous_panther_at_iglou_com_)"
-+ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
-+ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/author/kent_crispin_kent_at_songbird_com_)"
-+ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
-+ Return to "[Steve Stewart <steve<span>@</span>resudox.net>](/author/steve_stewart_steve_at_resudox_net_)"
++ Return to "[Alan Olsen <alan<span>@</span>ctrl-alt-del.com>](/authors/alan_olsen_alan_at_ctrlaltdel_com_)"
++ Return to "["/**\\anonymous/**\\" <panther<span>@</span>iglou.com>](/authors/anonymous_panther_at_iglou_com_)"
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/authors/dale_thorn_dthorn_at_gte_net_)"
++ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/authors/kent_crispin_kent_at_songbird_com_)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/authors/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "[Steve Stewart <steve<span>@</span>resudox.net>](/authors/steve_stewart_steve_at_resudox_net_)"
 
 + 1997-01-03 (Thu, 2 Jan 1997 23:00:31 -0800 (PST)) - [Re: OCR and Machine Readable Text](/archive/1997/01/320aa8e2b1873dac5559cbd0acb563788d9ee5d7e9d573b65b24750768a3bec0) - _Alan Olsen \<alan@ctrl-alt-del.com\>_
   + 1997-01-03 (Fri, 3 Jan 1997 09:34:57 -0800 (PST)) - [Re: OCR and Machine Readable Text](/archive/1997/01/899658b4da64f34d482b97406fb2657005ca3689f2562c3601de9fb08f457382) - _"/**\\anonymous/**\\" \<panther@iglou.com\>_

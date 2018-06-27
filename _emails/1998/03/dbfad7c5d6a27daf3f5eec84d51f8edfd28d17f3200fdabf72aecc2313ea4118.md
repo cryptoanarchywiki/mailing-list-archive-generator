@@ -39,7 +39,7 @@ Oh, lets not forget the adult WebSites also.
 
 + Return to [March 1998](/archive/1998/03)
 
-+ Return to "[Bill <webmaster<span>@</span>canes.gsw.peachnet.edu>](/author/bill_webmaster_at_canes_gsw_peachnet_edu_)"
++ Return to "[Bill <webmaster<span>@</span>canes.gsw.peachnet.edu>](/authors/bill_webmaster_at_canes_gsw_peachnet_edu_)"
 
 + 1998-03-24 (Tue, 24 Mar 1998 05:51:26 -0800 (PST)) - Hello - _Bill \<webmaster@canes.gsw.peachnet.edu\>_
 

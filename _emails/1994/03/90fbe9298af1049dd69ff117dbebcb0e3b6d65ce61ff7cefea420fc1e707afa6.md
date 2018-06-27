@@ -60,9 +60,9 @@ of the cover in front of the lens :)
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[Darren Reed <avalon<span>@</span>coombs.anu.edu.au>](/author/darren_reed_avalon_at_coombs_anu_edu_au_)"
-+ Return to "[gtoal<span>@</span>an-teallach.com (Graham Toal)](/author/gtoal_at_anteallach_com_graham_toal_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[Darren Reed <avalon<span>@</span>coombs.anu.edu.au>](/authors/darren_reed_avalon_at_coombs_anu_edu_au_)"
++ Return to "[gtoal<span>@</span>an-teallach.com (Graham Toal)](/authors/gtoal_at_anteallach_com_graham_toal_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-03-10 (Thu, 10 Mar 94 12:39:38 PST) - [Surveillance cameras](/archive/1994/03/d7c2901330cef8c713507ec2fce3d11a5bb20c3f90fcf9a0842d4359b9ccbdb4) - _gtoal@an-teallach.com (Graham Toal)_
   + 1994-03-11 (Thu, 10 Mar 94 21:42:15 PST) - Re: Surveillance cameras - _Darren Reed \<avalon@coombs.anu.edu.au\>_

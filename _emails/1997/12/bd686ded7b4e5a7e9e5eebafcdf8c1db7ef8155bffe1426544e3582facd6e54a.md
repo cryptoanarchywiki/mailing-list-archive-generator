@@ -56,8 +56,8 @@ Regular Key PGP Fingerprint D454 E202 CBC8 40BF  3C85 B884 0ABE 4639
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
-+ Return to "[Declan McCullagh <declan<span>@</span>pathfinder.com>](/author/declan_mccullagh_declan_at_pathfinder_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Declan McCullagh <declan<span>@</span>pathfinder.com>](/authors/declan_mccullagh_declan_at_pathfinder_com_)"
 
 + 1997-12-05 (Fri, 5 Dec 1997 14:27:15 +0800) - [White House humiliates Louis Freeh in public](/archive/1997/12/4e7686e8b178830681e07a5b14d3c48eb46e4a359a10e987a822ef8bf081dfae) - _Declan McCullagh \<declan@pathfinder.com\>_
   + 1997-12-05 (Sat, 6 Dec 1997 03:01:03 +0800) - Re: White House humiliates Louis Freeh in public - _Bill Stewart \<stewarts@ix.netcom.com\>_

@@ -50,9 +50,9 @@ Will French  <wfrench@interport.net>
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "[hallam<span>@</span>w3.org](/author/hallam_at_w3_org)"
-+ Return to "[Piete Brooks <Piete.Brooks<span>@</span>cl.cam.ac.uk>](/author/piete_brooks_piete_brooks_at_cl_cam_ac_uk_)"
-+ Return to "[Will French <wfrench<span>@</span>interport.net>](/author/will_french_wfrench_at_interport_net_)"
++ Return to "[hallam<span>@</span>w3.org](/authors/hallam_at_w3_org)"
++ Return to "[Piete Brooks <Piete.Brooks<span>@</span>cl.cam.ac.uk>](/authors/piete_brooks_piete_brooks_at_cl_cam_ac_uk_)"
++ Return to "[Will French <wfrench<span>@</span>interport.net>](/authors/will_french_wfrench_at_interport_net_)"
 
 + 1995-08-26 (Sat, 26 Aug 95 14:22:25 PDT) - Re: SSL trouble - _Will French \<wfrench@interport.net\>_
   + 1995-08-26 (Sat, 26 Aug 95 14:58:08 PDT) - [Re: SSL trouble](/archive/1995/08/031f7ee10960d4455f6abbf1847f18beaebb389469814cc16ee1ff9e50cb8178) - _Piete Brooks \<Piete.Brooks@cl.cam.ac.uk\>_

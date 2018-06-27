@@ -50,8 +50,8 @@ The rest of the header is enough of a potential deterrent, anyway.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
 
 + 1997-01-26 (Sun, 26 Jan 1997 08:40:37 -0800 (PST)) - Re: [No Subject:] - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1997-01-27 (Sun, 26 Jan 1997 17:30:09 -0800 (PST)) - [Re: [No Subject:]](/archive/1997/01/5b312c96f0302b3d2bc2372b1571cca4af81eeadec4b2b60da91c6137e349e91) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

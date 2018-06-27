@@ -51,8 +51,8 @@ as anything other than unadulterated dreck?
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
-+ Return to "[Eric Murray <ericm<span>@</span>lne.com>](/author/eric_murray_ericm_at_lne_com_)"
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/authors/anonymous_nobody_at_replay_com_)"
++ Return to "[Eric Murray <ericm<span>@</span>lne.com>](/authors/eric_murray_ericm_at_lne_com_)"
 
 + 1998-12-24 (Fri, 25 Dec 1998 02:34:01 +0800) - [Re: I want to spam the Jury Duty information](/archive/1998/12/8940b67a6d1c7ee311aa3ac70dae10ad4ae51499a16daa2f3cad07b691467a04) - _Eric Murray \<ericm@lne.com\>_
   + 1998-12-24 (Fri, 25 Dec 1998 04:12:10 +0800) - Re: I want to spam the Jury Duty information - _Anonymous \<nobody@replay.com\>_

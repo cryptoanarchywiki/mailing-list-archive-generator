@@ -66,7 +66,7 @@ arbitrary power of the state.		|   jamesd@echeque.com
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[jamesd<span>@</span>echeque.com](/author/jamesd_at_echeque_com)"
++ Return to "[jamesd<span>@</span>echeque.com](/authors/jamesd_at_echeque_com)"
 
 + 1996-03-10 (Sun, 10 Mar 1996 14:39:23 +0800) - Re: Another Motivation for the CDA (Federal Sentencing Guid - _jamesd@echeque.com_
 

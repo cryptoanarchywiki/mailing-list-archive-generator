@@ -70,8 +70,8 @@ On Thu, 5 Sep 1996, Stephan Schmidt wrote:
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/author/declan_mccullagh_declan_at_eff_org_)"
-+ Return to "[Stephan Schmidt <schmidt<span>@</span>pin.de>](/author/stephan_schmidt_schmidt_at_pin_de_)"
++ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/authors/declan_mccullagh_declan_at_eff_org_)"
++ Return to "[Stephan Schmidt <schmidt<span>@</span>pin.de>](/authors/stephan_schmidt_schmidt_at_pin_de_)"
 
 + _Unknown thread root_
   + 1996-09-05 (Fri, 6 Sep 1996 05:15:22 +0800) - [Re: German prosecutors redouble attack on Net, subversive leftists](/archive/1996/09/f328339e9dbe24f4c76e8fd47f94dcdbf24ed1eb7f22c4f2ec08fc07c0889e86) - _Stephan Schmidt \<schmidt@pin.de\>_

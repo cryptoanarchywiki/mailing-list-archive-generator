@@ -167,7 +167,7 @@ Forwarded-by: Hal Abelson (I don't know the original source).
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/authors/john_gilmore_gnu_at_toad_com_)"
 
 + 1997-06-30 (Mon, 30 Jun 1997 10:57:59 +0800) - Australian "Walsh" report exposes the hole in key escrow - _John Gilmore \<gnu@toad.com\>_
 

@@ -67,8 +67,8 @@ Brian B. Riley --> http://members.macconnect.com/~brianbr
 
 + Return to [February 1998](/archive/1998/02)
 
-+ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/author/bill_stewart_bill_stewart_at_pobox_com_)"
-+ Return to "["Brian B. Riley" <brianbr<span>@</span>together.net>](/author/brian_b_riley_brianbr_at_together_net_)"
++ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/authors/bill_stewart_bill_stewart_at_pobox_com_)"
++ Return to "["Brian B. Riley" <brianbr<span>@</span>together.net>](/authors/brian_b_riley_brianbr_at_together_net_)"
 
 + 1998-02-09 (Tue, 10 Feb 1998 06:09:25 +0800) - Re: Driver Licenses - _"Brian B. Riley" \<brianbr@together.net\>_
   + 1998-02-10 (Tue, 10 Feb 1998 17:01:22 +0800) - [Re: Driver Licenses](/archive/1998/02/b766d92f2f411418b44bfab9e6e74dbde55a2d30645ffe595e9a209779aea56a) - _Bill Stewart \<bill.stewart@pobox.com\>_

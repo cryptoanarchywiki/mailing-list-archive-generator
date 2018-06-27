@@ -51,7 +51,7 @@ http://www.microsoft.com/events/webteched .
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Site Builder Network <sbn<span>@</span>MICROSOFT.COM>](/author/site_builder_network_sbn_at_microsoft_com_)"
++ Return to "[Site Builder Network <sbn<span>@</span>MICROSOFT.COM>](/authors/site_builder_network_sbn_at_microsoft_com_)"
 
 + 1998-01-01 (Wed, 31 Dec 1997 21:20:59 -0800 (PST)) - Microsoft Site Builder Network: Web TechEd Conference,             January 19 98 - _Site Builder Network \<sbn@MICROSOFT.COM\>_
 

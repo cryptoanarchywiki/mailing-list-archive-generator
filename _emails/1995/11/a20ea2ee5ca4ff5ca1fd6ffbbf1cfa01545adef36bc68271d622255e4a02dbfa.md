@@ -59,7 +59,7 @@ they get a clue enough to spot them. Yes, the shouting is theirs.
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/authors/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1995-11-28 (Tue, 28 Nov 1995 09:24:48 +0800) - Cyberangels vs Anonymnity - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

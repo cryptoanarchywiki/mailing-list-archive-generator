@@ -70,7 +70,7 @@ XXX
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[anonymous<span>@</span>extropia.wimsey.com](/author/anonymous_at_extropia_wimsey_com)"
++ Return to "[anonymous<span>@</span>extropia.wimsey.com](/authors/anonymous_at_extropia_wimsey_com)"
 
 + 1994-04-11 (Mon, 11 Apr 94 15:52:00 PDT) - RE: Code review is requested - _anonymous@extropia.wimsey.com_
 

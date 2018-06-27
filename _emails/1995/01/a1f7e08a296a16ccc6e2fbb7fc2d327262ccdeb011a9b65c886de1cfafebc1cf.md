@@ -58,7 +58,7 @@ YHzBctPXYt0=
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[doumakes<span>@</span>netcom.com (Don Doumakes)](/author/doumakes_at_netcom_com_don_doumakes_)"
++ Return to "[doumakes<span>@</span>netcom.com (Don Doumakes)](/authors/doumakes_at_netcom_com_don_doumakes_)"
 
 + 1995-01-07 (Sat, 7 Jan 95 11:27:20 PST) - Let's NOT talk about Netcom - _doumakes@netcom.com (Don Doumakes)_
 

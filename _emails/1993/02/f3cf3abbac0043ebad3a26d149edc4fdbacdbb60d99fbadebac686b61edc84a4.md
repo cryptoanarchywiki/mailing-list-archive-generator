@@ -78,7 +78,7 @@ sytex.com!fergp     (UUNet)       |
 
 + Return to [February 1993](/archive/1993/02)
 
-+ Return to "[fergp<span>@</span>sytex.com (Paul Ferguson)](/author/fergp_at_sytex_com_paul_ferguson_)"
++ Return to "[fergp<span>@</span>sytex.com (Paul Ferguson)](/authors/fergp_at_sytex_com_paul_ferguson_)"
 
 + 1993-02-24 (Wed, 24 Feb 93 01:13:36 PST) - Enough's enough already - _fergp@sytex.com (Paul Ferguson)_
 

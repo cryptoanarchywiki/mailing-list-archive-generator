@@ -85,7 +85,7 @@ everything including social institutions.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1997-01-28 (Tue, 28 Jan 1997 14:12:02 -0800 (PST)) - Re: Fighting the cybercensor. (fwd) - _Jim Choate \<ravage@einstein.ssz.com\>_
 

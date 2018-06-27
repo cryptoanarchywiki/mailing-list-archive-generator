@@ -270,7 +270,7 @@ for US laws.
 
 + Return to [October 1995](/archive/1995/10)
 
-+ Return to "[cman<span>@</span>communities.com (Douglas Barnes)](/author/cman_at_communities_com_douglas_barnes_)"
++ Return to "[cman<span>@</span>communities.com (Douglas Barnes)](/authors/cman_at_communities_com_douglas_barnes_)"
 
 + 1995-10-11 (Tue, 10 Oct 95 19:32:50 PDT) - Int'l Money Laundering, Part the Second - _cman@communities.com (Douglas Barnes)_
 

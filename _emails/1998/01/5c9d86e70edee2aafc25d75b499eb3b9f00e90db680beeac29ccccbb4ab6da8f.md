@@ -71,7 +71,7 @@ Adam
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/authors/adam_back_aba_at_dcs_ex_ac_uk_)"
 
 + 1998-01-13 (Wed, 14 Jan 1998 07:31:18 +0800) - load balancing web proxy and server networks - _Adam Back \<aba@dcs.ex.ac.uk\>_
 

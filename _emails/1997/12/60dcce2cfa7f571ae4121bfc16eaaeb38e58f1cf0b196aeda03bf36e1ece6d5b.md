@@ -53,8 +53,8 @@ Hmmmmm.
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[bureau42 Anonymous Remailer <nobody<span>@</span>bureau42.ml.org>](/author/bureau42_anonymous_remailer_nobody_at_bureau42_ml_org_)"
-+ Return to "[Harish Pillay <harish<span>@</span>brokat.com.sg>](/author/harish_pillay_harish_at_brokat_com_sg_)"
++ Return to "[bureau42 Anonymous Remailer <nobody<span>@</span>bureau42.ml.org>](/authors/bureau42_anonymous_remailer_nobody_at_bureau42_ml_org_)"
++ Return to "[Harish Pillay <harish<span>@</span>brokat.com.sg>](/authors/harish_pillay_harish_at_brokat_com_sg_)"
 
 + 1997-12-08 (Mon, 8 Dec 1997 17:29:48 +0800) - Quick Response Team in sg? - _bureau42 Anonymous Remailer \<nobody@bureau42.ml.org\>_
   + 1997-12-08 (Mon, 8 Dec 1997 23:05:39 +0800) - [Re: Quick Response Team in sg?](/archive/1997/12/3d9ab1fed1aade11189263b84a5038aa0bb6b94945781446d700230a319a417d) - _Harish Pillay \<harish@brokat.com.sg\>_

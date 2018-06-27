@@ -49,11 +49,11 @@ what is IT?
 + Return to [November 1996](/archive/1996/11)
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
-+ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
-+ Return to "[paul<span>@</span>fatmans.demon.co.uk](/author/paul_at_fatmans_demon_co_uk)"
-+ Return to "[The Deviant <deviant<span>@</span>pooh-corner.com>](/author/the_deviant_deviant_at_poohcorner_com_)"
-+ Return to "[wichita<span>@</span>cyberstation.net](/author/wichita_at_cyberstation_net)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/authors/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[paul<span>@</span>fatmans.demon.co.uk](/authors/paul_at_fatmans_demon_co_uk)"
++ Return to "[The Deviant <deviant<span>@</span>pooh-corner.com>](/authors/the_deviant_deviant_at_poohcorner_com_)"
++ Return to "[wichita<span>@</span>cyberstation.net](/authors/wichita_at_cyberstation_net)"
 
 + 1996-11-26 (Tue, 26 Nov 1996 09:48:41 -0800 (PST)) - [Re: IPG Algorith Broken!](/archive/1996/11/d35155e75553bd0fae22f81093d32ecbfa526db849b2e5b63f6b852004caf279) - _paul@fatmans.demon.co.uk_
   + 1996-11-30 (Sat, 30 Nov 1996 01:57:21 -0800 (PST)) - [Re: IPG Algorith Broken!](/archive/1996/11/4cd2e7c4d4a2c352a8231ddfdb33fe013f218cc176607dd7fea3df5e9bb71a0b) - _wichita@cyberstation.net_

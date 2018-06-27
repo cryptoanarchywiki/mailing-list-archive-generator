@@ -73,7 +73,7 @@ Roger Schlafly
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[rschlafly<span>@</span>attmail.com (Roger  Schlafly)](/author/rschlafly_at_attmail_com_roger_schlafly_)"
++ Return to "[rschlafly<span>@</span>attmail.com (Roger  Schlafly)](/authors/rschlafly_at_attmail_com_roger_schlafly_)"
 
 + 1995-12-19 (Tue, 19 Dec 1995 10:27:18 +0800) - RSA Data v. Cylink hearing - _rschlafly@attmail.com (Roger  Schlafly)_
 

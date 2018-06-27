@@ -66,7 +66,7 @@ PGP key available via finger or request           #include standard.disclaimer
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[pfarrell<span>@</span>netcom.com (Pat Farrell)](/author/pfarrell_at_netcom_com_pat_farrell_)"
++ Return to "[pfarrell<span>@</span>netcom.com (Pat Farrell)](/authors/pfarrell_at_netcom_com_pat_farrell_)"
 
 + 1995-09-12 (Tue, 12 Sep 95 13:01:10 PDT) - DC-C'punks meeting - _pfarrell@netcom.com (Pat Farrell)_
 

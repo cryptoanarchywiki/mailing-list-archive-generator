@@ -71,7 +71,7 @@ that's the way it goes; any non-trusted system is, well, non-trusted....
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)](/author/wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_)"
++ Return to "[wcs<span>@</span>anchor.ho.att.com (bill.stewart<span>@</span>pleasantonca.ncr.com +1-510-484-6204)](/authors/wcs_at_anchor_ho_att_com_bill_stewart_at_pleasantonca_ncr_com_15104846204_)"
 
 + 1994-08-18 (Wed, 17 Aug 94 18:02:20 PDT) - Re: Remailer ideas (Was: Re: Latency vs. Reordering) - _wcs@anchor.ho.att.com (bill.stewart@pleasantonca.ncr.com +1-510-484-6204)_
 

@@ -58,9 +58,9 @@ and more out of control?"
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
-+ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/authors/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/authors/simon_spero_ses_at_tipper_oit_unc_edu_)"
 
 + 1996-10-10 (Wed, 9 Oct 1996 19:22:37 -0700 (PDT)) - Re: "European Union Bank" - _Duncan Frissell \<frissell@panix.com\>_
   + 1996-10-10 (Thu, 10 Oct 1996 01:48:29 -0700 (PDT)) - [Re: "European Union Bank"](/archive/1996/10/54a9f593b1ab5a8d8a2f7c947e194fe9c252f0577d5784532ad6fceb8b177241) - _Black Unicorn \<unicorn@schloss.li\>_

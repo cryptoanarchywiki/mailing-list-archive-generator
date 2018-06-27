@@ -77,7 +77,7 @@ http://www.io.com/~gbroiles |
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/author/greg_broiles_gbroiles_at_netbox_com_)"
++ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/authors/greg_broiles_gbroiles_at_netbox_com_)"
 
 + 1996-10-28 (Sun, 27 Oct 1996 19:09:43 -0800 (PST)) - Re: considering internet/privacy periodical - _Greg Broiles \<gbroiles@netbox.com\>_
 

@@ -96,7 +96,7 @@ we can insure that we provide enough goodies.
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[bsteve<span>@</span>zontar.com (Steve Blasingame)](/author/bsteve_at_zontar_com_steve_blasingame_)"
++ Return to "[bsteve<span>@</span>zontar.com (Steve Blasingame)](/authors/bsteve_at_zontar_com_steve_blasingame_)"
 
 + 1994-05-10 (Tue, 10 May 94 10:10:52 PDT) - Party Announcement - _bsteve@zontar.com (Steve Blasingame)_
 

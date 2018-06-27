@@ -56,7 +56,7 @@ DES users change their keys awful frequently.
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "["David LANDGREN, PUB           " <David.D.L.LANDGREN<span>@</span>PUB.oecd.fr>](/author/david_landgren_pub__david_d_l_landgren_at_pub_oecd_fr_)"
++ Return to "["David LANDGREN, PUB           " <David.D.L.LANDGREN<span>@</span>PUB.oecd.fr>](/authors/david_landgren_pub__david_d_l_landgren_at_pub_oecd_fr_)"
 
 + 1993-09-10 (Fri, 10 Sep 93 03:37:38 PDT) - ... long live DES (sic) - _"David LANDGREN, PUB           " \<David.D.L.LANDGREN@PUB.oecd.fr\>_
 

@@ -68,7 +68,7 @@ Regards, Voices, Harald, Woof, moans, and whatever.
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[HyperReal-Anon <nobody<span>@</span>sind.hyperreal.art.pl>](/author/hyperrealanon_nobody_at_sind_hyperreal_art_pl_)"
++ Return to "[HyperReal-Anon <nobody<span>@</span>sind.hyperreal.art.pl>](/authors/hyperrealanon_nobody_at_sind_hyperreal_art_pl_)"
 
 + 1998-09-15 (Wed, 16 Sep 1998 01:52:07 +0800) - Re: Harald Fragner - _HyperReal-Anon \<nobody@sind.hyperreal.art.pl\>_
 

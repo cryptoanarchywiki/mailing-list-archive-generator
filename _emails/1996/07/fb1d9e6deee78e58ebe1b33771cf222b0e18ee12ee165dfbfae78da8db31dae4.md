@@ -58,7 +58,7 @@ Send a message with the subject "send pgp-key" for a copy of my key.
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/author/deranged_mutant_wlkngowl_at_unix_asb_com_)"
++ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/authors/deranged_mutant_wlkngowl_at_unix_asb_com_)"
 
 + 1996-07-11 (Thu, 11 Jul 1996 10:26:53 +0800) - Re: July Freedom Forum Meeting - _"Deranged Mutant" \<WlkngOwl@unix.asb.com\>_
 

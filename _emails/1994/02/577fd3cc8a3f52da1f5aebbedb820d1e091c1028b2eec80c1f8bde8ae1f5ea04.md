@@ -129,7 +129,7 @@ it all.
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/author/perry_e_metzger_pmetzger_at_lehman_com_)"
++ Return to "["Perry E. Metzger" <pmetzger<span>@</span>lehman.com>](/authors/perry_e_metzger_pmetzger_at_lehman_com_)"
 
 + 1994-02-05 (Fri, 4 Feb 94 16:55:17 PST) - Food for thought - _"Perry E. Metzger" \<pmetzger@lehman.com\>_
 

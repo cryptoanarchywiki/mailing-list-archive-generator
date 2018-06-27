@@ -65,8 +65,8 @@ ps - is 'forlornly' really a word? I think so, but it looks odd today.
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[Michael Motyka <mmotyka<span>@</span>lsil.com>](/author/michael_motyka_mmotyka_at_lsil_com_)"
-+ Return to "[Richard.Bragg<span>@</span>ssa.co.uk](/author/richard_bragg_at_ssa_co_uk)"
++ Return to "[Michael Motyka <mmotyka<span>@</span>lsil.com>](/authors/michael_motyka_mmotyka_at_lsil_com_)"
++ Return to "[Richard.Bragg<span>@</span>ssa.co.uk](/authors/richard_bragg_at_ssa_co_uk)"
 
 + 1998-09-15 (Wed, 16 Sep 1998 04:18:05 +0800) - [Re: Democracy...](/archive/1998/09/7cc8ef345ea3b1abef8817c7aa11aca562f2cb216e09c4bb069507aef50d7603) - _Richard.Bragg@ssa.co.uk_
   + 1998-09-16 (Wed, 16 Sep 1998 14:05:57 +0800) - Re: Democracy... - _Michael Motyka \<mmotyka@lsil.com\>_

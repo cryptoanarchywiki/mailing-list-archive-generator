@@ -41,7 +41,7 @@ Thanks
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "["Terry L. Davis" <terryld<span>@</span>earthlink.net>](/author/terry_l_davis_terryld_at_earthlink_net_)"
++ Return to "["Terry L. Davis" <terryld<span>@</span>earthlink.net>](/authors/terry_l_davis_terryld_at_earthlink_net_)"
 
 + 1997-02-18 (Mon, 17 Feb 1997 21:12:47 -0800 (PST)) - Removal from newsgroup listing - _"Terry L. Davis" \<terryld@earthlink.net\>_
 

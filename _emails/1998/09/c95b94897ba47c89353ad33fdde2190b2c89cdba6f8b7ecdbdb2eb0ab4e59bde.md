@@ -54,7 +54,7 @@ hoaxes which has hit the list in a long time.
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/authors/anonymous_nobody_at_replay_com_)"
 
 + 1998-09-28 (Tue, 29 Sep 1998 00:12:55 +0800) - Toto -- mimic function or the real thing (Re: no subject) - _Anonymous \<nobody@replay.com\>_
 

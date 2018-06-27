@@ -66,7 +66,7 @@ Or, if the http fails, send a CDA_win to <jya@pipeline.com>.
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/authors/jya_at_pipeline_com_john_young_)"
 
 + 1996-06-13 (Fri, 14 Jun 1996 01:59:32 +0800) - NYT on CDA Win - _jya@pipeline.com (John Young)_
 

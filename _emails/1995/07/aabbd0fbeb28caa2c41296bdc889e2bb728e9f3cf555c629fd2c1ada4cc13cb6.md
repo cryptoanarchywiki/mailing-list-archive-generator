@@ -69,7 +69,7 @@ and would like to avoid making international phone calls.
 
 + Return to [July 1995](/archive/1995/07)
 
-+ Return to "[ruf<span>@</span>osiris.cs.uow.edu.au (Justin J. Lister)](/author/ruf_at_osiris_cs_uow_edu_au_justin_j_lister_)"
++ Return to "[ruf<span>@</span>osiris.cs.uow.edu.au (Justin J. Lister)](/authors/ruf_at_osiris_cs_uow_edu_au_justin_j_lister_)"
 
 + 1995-07-22 (Sat, 22 Jul 95 00:42:42 PDT) - Searching for reference - _ruf@osiris.cs.uow.edu.au (Justin J. Lister)_
 

@@ -72,7 +72,7 @@ http://www.ddj.com - if you can't find it there, drop me a note.
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "["Chris Adams" <adamsc<span>@</span>io-online.com>](/author/chris_adams_adamsc_at_ioonline_com_)"
++ Return to "["Chris Adams" <adamsc<span>@</span>io-online.com>](/authors/chris_adams_adamsc_at_ioonline_com_)"
 
 + 1996-07-23 (Tue, 23 Jul 1996 12:09:56 +0800) - Re: Opiated file systems - _"Chris Adams" \<adamsc@io-online.com\>_
 

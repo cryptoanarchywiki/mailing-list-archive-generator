@@ -122,10 +122,10 @@ Reeza!
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
-+ Return to "[Michael Hohensee <mah248<span>@</span>nyu.edu>](/author/michael_hohensee_mah248_at_nyu_edu_)"
-+ Return to "[Petro <petro<span>@</span>playboy.com>](/author/petro_petro_at_playboy_com_)"
-+ Return to "[Reeza! <howree<span>@</span>cable.navy.mil>](/author/reeza_howree_at_cable_navy_mil_)"
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Michael Hohensee <mah248<span>@</span>nyu.edu>](/authors/michael_hohensee_mah248_at_nyu_edu_)"
++ Return to "[Petro <petro<span>@</span>playboy.com>](/authors/petro_petro_at_playboy_com_)"
++ Return to "[Reeza! <howree<span>@</span>cable.navy.mil>](/authors/reeza_howree_at_cable_navy_mil_)"
 
 + 1998-11-10 (Tue, 10 Nov 1998 11:13:33 +0800) - [RE: dbts: Privacy Fetishes, Perfect Competition, and the Foregone (fwd)](/archive/1998/11/18a7ddd0da4674969edc5eb99beaeefef06a9fc22f02892b8df2d4c895c7c5d7) - _Jim Choate \<ravage@einstein.ssz.com\>_
   + 1998-11-10 (Tue, 10 Nov 1998 14:36:05 +0800) - [Re: dbts: Privacy Fetishes, Perfect Competition, and the Foregone (fwd)](/archive/1998/11/6bfcfe43c28bce6013558be3df109e4da0df6455eb8db128b67c63d2393bf1b3) - _Michael Hohensee \<mah248@nyu.edu\>_

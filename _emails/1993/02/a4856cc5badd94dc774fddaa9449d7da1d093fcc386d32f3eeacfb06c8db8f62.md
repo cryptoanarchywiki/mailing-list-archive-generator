@@ -46,8 +46,8 @@ What if you sell it later?  At what point do you need to license it?
 
 + Return to [February 1993](/archive/1993/02)
 
-+ Return to "[Eric Hughes <hughes<span>@</span>soda.berkeley.edu>](/author/eric_hughes_hughes_at_soda_berkeley_edu_)"
-+ Return to "[jordan<span>@</span>imsi.com (Jordan Hayes)](/author/jordan_at_imsi_com_jordan_hayes_)"
++ Return to "[Eric Hughes <hughes<span>@</span>soda.berkeley.edu>](/authors/eric_hughes_hughes_at_soda_berkeley_edu_)"
++ Return to "[jordan<span>@</span>imsi.com (Jordan Hayes)](/authors/jordan_at_imsi_com_jordan_hayes_)"
 
 + 1993-02-20 (Sat, 20 Feb 93 08:06:37 PST) - RE: Advertising on the net - _jordan@imsi.com (Jordan Hayes)_
   + 1993-02-21 (Sun, 21 Feb 93 14:32:28 PST) - [RSA licensing policy](/archive/1993/02/0cd8d7a1c64b83f9879596af8edcf588ba16b718587388af410a6b85d63ba99f) - _Eric Hughes \<hughes@soda.berkeley.edu\>_

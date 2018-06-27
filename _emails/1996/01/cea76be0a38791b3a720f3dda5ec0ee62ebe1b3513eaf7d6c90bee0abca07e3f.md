@@ -56,7 +56,7 @@ http://www.teleport.com/~bruceab
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[Bruce Baugh <bruceab<span>@</span>teleport.com>](/author/bruce_baugh_bruceab_at_teleport_com_)"
++ Return to "[Bruce Baugh <bruceab<span>@</span>teleport.com>](/authors/bruce_baugh_bruceab_at_teleport_com_)"
 
 + 1996-01-26 (Fri, 26 Jan 1996 15:45:22 +0800) - Re: Cypherpunk Elitism - _Bruce Baugh \<bruceab@teleport.com\>_
 

@@ -53,8 +53,8 @@ ob crypto:
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "["Scott Staedeli" <scottst<span>@</span>ionet.net>](/author/scott_staedeli_scottst_at_ionet_net_)"
-+ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
++ Return to "["Scott Staedeli" <scottst<span>@</span>ionet.net>](/authors/scott_staedeli_scottst_at_ionet_net_)"
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/authors/simon_spero_ses_at_tipper_oit_unc_edu_)"
 
 + 1996-01-23 (Tue, 23 Jan 96 00:07:51 PST) - [Re: The Collapse of Ideas in a Pop Culture](/archive/1996/01/c2d652ae8c6334e342593eb9c7c1df7d575f5f5d84333e4b7c2c27b1fcc8cb29) - _"Scott Staedeli" \<scottst@ionet.net\>_
   + 1996-01-23 (Wed, 24 Jan 1996 04:46:37 +0800) - Re: The Collapse of Ideas in a Pop Culture - _Simon Spero \<ses@tipper.oit.unc.edu\>_

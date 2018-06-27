@@ -89,7 +89,7 @@ away from a microphone)  is one answer.  Of a sort.
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[vin<span>@</span>shore.net (Vin McLellan)](/author/vin_at_shore_net_vin_mclellan_)"
++ Return to "[vin<span>@</span>shore.net (Vin McLellan)](/authors/vin_at_shore_net_vin_mclellan_)"
 
 + 1996-06-12 (Wed, 12 Jun 1996 12:54:37 +0800) - Re: Terrorism Hysteria on the Net - _vin@shore.net (Vin McLellan)_
 

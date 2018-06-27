@@ -73,7 +73,7 @@ Content-Type: text/plain
 
 + Return to [October 1995](/archive/1995/10)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1995-10-07 (Sat, 7 Oct 95 06:19:50 PDT) - UNA_fim - _John Young \<jya@pipeline.com\>_
 

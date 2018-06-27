@@ -68,7 +68,7 @@ sophisticated scanners, and have made numerous arrests.
 
 + Return to [March 1998](/archive/1998/03)
 
-+ Return to "[Dave Del Torto <ddt<span>@</span>lsd.com>](/author/dave_del_torto_ddt_at_lsd_com_)"
++ Return to "[Dave Del Torto <ddt<span>@</span>lsd.com>](/authors/dave_del_torto_ddt_at_lsd_com_)"
 
 + 1998-03-27 (Fri, 27 Mar 1998 04:37:28 -0800 (PST)) - anti-snoop RF detector - _Dave Del Torto \<ddt@lsd.com\>_
 

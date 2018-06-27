@@ -62,13 +62,13 @@ On Mon, Aug 24, 1998 at 03:22:42PM -0400, Chip Mefford wrote:
 
 + Return to [August 1998](/archive/1998/08)
 
-+ Return to "[Adam Shostack <adam<span>@</span>weathership.homeport.org>](/author/adam_shostack_adam_at_weathership_homeport_org_)"
-+ Return to "[Chip Mefford <cmefford<span>@</span>video.avwashington.com>](/author/chip_mefford_cmefford_at_video_avwashington_com_)"
-+ Return to "[Fade <fade<span>@</span>mail1.i1.net>](/author/fade_fade_at_mail1_i1_net_)"
-+ Return to "[Mordy Ovits <movits<span>@</span>lockstar.com>](/author/mordy_ovits_movits_at_lockstar_com_)"
-+ Return to "[Steve Bryan <sbryan<span>@</span>vendorsystems.com>](/author/steve_bryan_sbryan_at_vendorsystems_com_)"
-+ Return to "[Vin McLellan <vin<span>@</span>shore.net>](/author/vin_mclellan_vin_at_shore_net_)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>openpgp.net>](/author/william_h_geiger_iii_whgiii_at_openpgp_net_)"
++ Return to "[Adam Shostack <adam<span>@</span>weathership.homeport.org>](/authors/adam_shostack_adam_at_weathership_homeport_org_)"
++ Return to "[Chip Mefford <cmefford<span>@</span>video.avwashington.com>](/authors/chip_mefford_cmefford_at_video_avwashington_com_)"
++ Return to "[Fade <fade<span>@</span>mail1.i1.net>](/authors/fade_fade_at_mail1_i1_net_)"
++ Return to "[Mordy Ovits <movits<span>@</span>lockstar.com>](/authors/mordy_ovits_movits_at_lockstar_com_)"
++ Return to "[Steve Bryan <sbryan<span>@</span>vendorsystems.com>](/authors/steve_bryan_sbryan_at_vendorsystems_com_)"
++ Return to "[Vin McLellan <vin<span>@</span>shore.net>](/authors/vin_mclellan_vin_at_shore_net_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>openpgp.net>](/authors/william_h_geiger_iii_whgiii_at_openpgp_net_)"
 
 + 1998-08-24 (Mon, 24 Aug 1998 11:04:30 -0700 (PDT)) - ["Unbreakable Crypto" announcement??](/archive/1998/08/9f03b032c0106569c540047d1bf27c9d9bce3e1bf097f67e1cde81ae107789ab) - _Fade \<fade@mail1.i1.net\>_
   + 1998-08-24 (Mon, 24 Aug 1998 11:42:46 -0700 (PDT)) - [Re: "Unbreakable Crypto" announcement??](/archive/1998/08/d3542647403a21d89fa152ed5db3fc7ed9246346539274a6753ffca16ca4985b) - _"William H. Geiger III" \<whgiii@openpgp.net\>_

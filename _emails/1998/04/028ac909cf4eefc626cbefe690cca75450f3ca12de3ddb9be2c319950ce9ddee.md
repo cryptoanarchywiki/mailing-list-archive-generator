@@ -226,7 +226,7 @@ Columbus, OH 43222
 
 + Return to [April 1998](/archive/1998/04)
 
-+ Return to "[rdonnovan<span>@</span>hotmail.com](/author/rdonnovan_at_hotmail_com)"
++ Return to "[rdonnovan<span>@</span>hotmail.com](/authors/rdonnovan_at_hotmail_com)"
 
 + 1998-04-03 (Fri, 3 Apr 1998 13:47:48 -0800 (PST)) - Golden Portfolio and Ca$h - _rdonnovan@hotmail.com_
 

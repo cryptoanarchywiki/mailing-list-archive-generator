@@ -90,7 +90,7 @@ hRmFoVFudRPRn1qyU65tzLbGurpXT8hxYbWwv895qaDfLHdQ2IH0iQ==
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[btmoore<span>@</span>iquest.net (Benjamin T. Moore)](/author/btmoore_at_iquest_net_benjamin_t_moore_)"
++ Return to "[btmoore<span>@</span>iquest.net (Benjamin T. Moore)](/authors/btmoore_at_iquest_net_benjamin_t_moore_)"
 
 + 1995-12-03 (Sun, 3 Dec 1995 10:40:38 +0800) - Re: "Got a subpoena?" - _btmoore@iquest.net (Benjamin T. Moore)_
 

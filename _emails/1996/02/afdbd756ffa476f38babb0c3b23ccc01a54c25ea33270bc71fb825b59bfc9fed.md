@@ -81,8 +81,8 @@ station), accompanied by a 'confession' and demand for swift prosecution.
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[bob bruen <bruen<span>@</span>wizard.mit.edu>](/author/bob_bruen_bruen_at_wizard_mit_edu_)"
-+ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/author/david_k_merriman_merriman_at_arn_net_)"
++ Return to "[bob bruen <bruen<span>@</span>wizard.mit.edu>](/authors/bob_bruen_bruen_at_wizard_mit_edu_)"
++ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/authors/david_k_merriman_merriman_at_arn_net_)"
 
 + 1996-02-10 (Sat, 10 Feb 1996 10:45:41 +0800) - [Req. for soundbites](/archive/1996/02/c6ffd8ef33ecbb2d49c04736bae97dcd94155c8b817e50a0f2853d2698919aaf) - _"David K. Merriman" \<merriman@arn.net\>_
   + 1996-02-12 (Mon, 12 Feb 1996 22:55:21 +0800) - Re: Req. for soundbites - _bob bruen \<bruen@wizard.mit.edu\>_

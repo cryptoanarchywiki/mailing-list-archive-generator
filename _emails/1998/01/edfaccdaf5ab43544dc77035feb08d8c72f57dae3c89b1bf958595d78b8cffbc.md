@@ -161,7 +161,7 @@ __biometric herd management__"(The) children"__state granted privilege_____!
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1998-01-10 (Sat, 10 Jan 1998 16:51:08 +0800) - Surprise - Anonymous Journalist Opposes Laundering [1/4] - _nobody@REPLAY.COM (Anonymous)_
 

@@ -51,7 +51,7 @@ The segment was about 10 minutes.
 
 + Return to [October 1995](/archive/1995/10)
 
-+ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/author/rich_salz_rsalz_at_osf_org_)"
++ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/authors/rich_salz_rsalz_at_osf_org_)"
 
 + 1995-10-01 (Sat, 30 Sep 95 22:34:11 PDT) - T-shirt on French TV - _Rich Salz \<rsalz@osf.org\>_
 

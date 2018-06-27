@@ -58,7 +58,7 @@ I have not gotten a recent version to work with 1.2.8..
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[bret<span>@</span>bjohns.win.net (Bret A. Johnson)](/author/bret_at_bjohns_win_net_bret_a_johnson_)"
++ Return to "[bret<span>@</span>bjohns.win.net (Bret A. Johnson)](/authors/bret_at_bjohns_win_net_bret_a_johnson_)"
 
 + 1995-09-22 (Fri, 22 Sep 95 16:27:39 PDT) - Re: Netscape to end Linux support? - _bret@bjohns.win.net (Bret A. Johnson)_
 

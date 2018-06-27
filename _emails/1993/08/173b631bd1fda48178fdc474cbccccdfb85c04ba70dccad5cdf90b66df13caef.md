@@ -53,7 +53,7 @@ using for the purchase, and the credit card expiration date.
 
 + Return to [August 1993](/archive/1993/08)
 
-+ Return to "[nobody<span>@</span>shell.portal.com](/author/nobody_at_shell_portal_com)"
++ Return to "[nobody<span>@</span>shell.portal.com](/authors/nobody_at_shell_portal_com)"
 
 + 1993-08-31 (Tue, 31 Aug 93 03:49:02 PDT) - Internet commerce...for your cracking pleasure - _nobody@shell.portal.com_
 

@@ -84,8 +84,8 @@ long enough to make posts either....
 
 + Return to [November 1993](/archive/1993/11)
 
-+ Return to "[Jim choate <ravage<span>@</span>wixer.bga.com>](/author/jim_choate_ravage_at_wixer_bga_com_)"
-+ Return to "[John Schultz <jschultz<span>@</span>bigcat.missouri.edu>](/author/john_schultz_jschultz_at_bigcat_missouri_edu_)"
++ Return to "[Jim choate <ravage<span>@</span>wixer.bga.com>](/authors/jim_choate_ravage_at_wixer_bga_com_)"
++ Return to "[John Schultz <jschultz<span>@</span>bigcat.missouri.edu>](/authors/john_schultz_jschultz_at_bigcat_missouri_edu_)"
 
 + _Unknown thread root_
   + 1993-11-28 (Sun, 28 Nov 93 09:09:34 PST) - Re: newsgroup v news-list - _Jim choate \<ravage@wixer.bga.com\>_

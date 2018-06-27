@@ -73,7 +73,7 @@ technology as alternatives to breaking strong crypto?
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/authors/jya_at_pipeline_com_john_young_)"
 
 + 1996-07-08 (Mon, 8 Jul 1996 08:38:38 +0800) - DEA Intercepts - _jya@pipeline.com (John Young)_
 

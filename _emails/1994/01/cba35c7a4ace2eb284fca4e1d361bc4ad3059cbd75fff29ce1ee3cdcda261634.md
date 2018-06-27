@@ -58,7 +58,7 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 
 + Return to [January 1994](/archive/1994/01)
 
-+ Return to "[an52436<span>@</span>anon.penet.fi (Mephisto)](/author/an52436_at_anon_penet_fi_mephisto_)"
++ Return to "[an52436<span>@</span>anon.penet.fi (Mephisto)](/authors/an52436_at_anon_penet_fi_mephisto_)"
 
 + 1994-01-31 (Mon, 31 Jan 94 04:03:00 PST) - Applicability of ITAR - _an52436@anon.penet.fi (Mephisto)_
 

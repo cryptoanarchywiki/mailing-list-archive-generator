@@ -86,7 +86,7 @@ Alan Olsen -- alano@teleport.com -- Contract Web Design & Instruction
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/author/alan_olsen_alano_at_teleport_com_)"
++ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/authors/alan_olsen_alano_at_teleport_com_)"
 
 + 1996-01-27 (Sun, 28 Jan 1996 06:57:14 +0800) - Re: Denning's misleading statements - _Alan Olsen \<alano@teleport.com\>_
 

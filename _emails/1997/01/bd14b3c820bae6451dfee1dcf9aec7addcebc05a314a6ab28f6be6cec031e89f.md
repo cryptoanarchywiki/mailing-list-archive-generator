@@ -208,7 +208,7 @@ or John Gilmore, EFF Board Member, +1 415 221 6524, gnu@toad.com
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/authors/john_gilmore_gnu_at_toad_com_)"
 
 + 1997-01-09 (Wed, 8 Jan 1997 16:13:29 -0800 (PST)) - URGENT: Fri 10Jan 9:30AM Wash,DC: Karn appeals, come to the hearing! - _John Gilmore \<gnu@toad.com\>_
 

@@ -89,7 +89,7 @@ The e$ Home Page: http://www.vmeng.com/rah/
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/authors/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1996-10-19 (Sat, 19 Oct 1996 10:33:40 -0700 (PDT)) - Judge rules "harmless flame" is harassment - _Robert Hettinga \<rah@shipwright.com\>_
 

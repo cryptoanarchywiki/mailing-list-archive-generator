@@ -264,7 +264,7 @@ To this address: majordomo@igc.apc.org
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Julian Assange <proff<span>@</span>suburbia.net>](/author/julian_assange_proff_at_suburbia_net_)"
++ Return to "[Julian Assange <proff<span>@</span>suburbia.net>](/authors/julian_assange_proff_at_suburbia_net_)"
 
 + 1996-08-11 (Sun, 11 Aug 1996 08:06:58 +0800) - GOP Security (fwd) - _Julian Assange \<proff@suburbia.net\>_
 

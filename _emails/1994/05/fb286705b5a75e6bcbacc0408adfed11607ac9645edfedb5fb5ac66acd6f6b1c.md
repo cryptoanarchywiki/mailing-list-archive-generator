@@ -53,7 +53,7 @@ for the services they could provide.
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[Arthur Chandler <arthurc<span>@</span>crl.com>](/author/arthur_chandler_arthurc_at_crl_com_)"
++ Return to "[Arthur Chandler <arthurc<span>@</span>crl.com>](/authors/arthur_chandler_arthurc_at_crl_com_)"
 
 + 1994-05-03 (Tue, 3 May 94 15:54:39 PDT) - Rucker on "Cryps" - _Arthur Chandler \<arthurc@crl.com\>_
 

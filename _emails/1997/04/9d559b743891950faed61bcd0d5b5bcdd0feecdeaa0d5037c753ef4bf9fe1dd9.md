@@ -59,8 +59,8 @@ jimbell@pacifier.com
 
 + Return to [April 1997](/archive/1997/04)
 
-+ Return to "[jimbell<span>@</span>pacifier.com (Jim Bell)](/author/jimbell_at_pacifier_com_jim_bell_)"
-+ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
++ Return to "[jimbell<span>@</span>pacifier.com (Jim Bell)](/authors/jimbell_at_pacifier_com_jim_bell_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/authors/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-04-13 (Sun, 13 Apr 1997 15:45:23 -0700 (PDT)) - Re: APRIL BAY AREA CYPHERPUNKS MEETING - _jimbell@pacifier.com (Jim Bell)_
   + 1997-04-14 (Sun, 13 Apr 1997 17:09:27 -0700 (PDT)) - [Re: APRIL BAY AREA CYPHERPUNKS MEETING](/archive/1997/04/e01e98f5755312ed59a463c039f56e83e6f1eeb6502937d736510c53c865b505) - _Toto \<toto@sk.sympatico.ca\>_

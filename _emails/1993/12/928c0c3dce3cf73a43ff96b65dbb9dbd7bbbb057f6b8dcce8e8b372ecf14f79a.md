@@ -66,7 +66,7 @@ Note: I put time and money into writing this posting. I hope you enjoy it.
 
 + Return to [December 1993](/archive/1993/12)
 
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1993-12-24 (Fri, 24 Dec 93 11:41:23 PST) - Talk.politics.crypto is mostly about Detweiler - _tcmay@netcom.com (Timothy C. May)_
 

@@ -74,8 +74,8 @@ Brian B. Riley --> http://members.macconnect.com/~brianbr
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "["Brian B. Riley" <brianbr<span>@</span>together.net>](/author/brian_b_riley_brianbr_at_together_net_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "["Brian B. Riley" <brianbr<span>@</span>together.net>](/authors/brian_b_riley_brianbr_at_together_net_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
 
 + 1998-01-13 (Tue, 13 Jan 1998 12:08:57 +0800) - Re: Talk of Banning Research into Human Cloning - _"Brian B. Riley" \<brianbr@together.net\>_
   + 1998-01-13 (Tue, 13 Jan 1998 12:36:59 +0800) - [Announcement: Clonerpunks mailing list](/archive/1998/01/debd371a8699a7aa10cd4a4422a940814972fa47c15db063d21885bfaaad3582) - _Tim May \<tcmay@got.net\>_

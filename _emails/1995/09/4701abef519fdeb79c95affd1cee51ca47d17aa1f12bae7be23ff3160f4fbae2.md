@@ -68,9 +68,9 @@ buffer overflow bugs
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "["David R. Conrad" <drc<span>@</span>russell.moore.com>](/author/david_r_conrad_drc_at_russell_moore_com_)"
-+ Return to "[jsw<span>@</span>neon.netscape.com (Jeff Weinstein)](/author/jsw_at_neon_netscape_com_jeff_weinstein_)"
-+ Return to "[Ray Cromwell <rjc<span>@</span>clark.net>](/author/ray_cromwell_rjc_at_clark_net_)"
++ Return to "["David R. Conrad" <drc<span>@</span>russell.moore.com>](/authors/david_r_conrad_drc_at_russell_moore_com_)"
++ Return to "[jsw<span>@</span>neon.netscape.com (Jeff Weinstein)](/authors/jsw_at_neon_netscape_com_jeff_weinstein_)"
++ Return to "[Ray Cromwell <rjc<span>@</span>clark.net>](/authors/ray_cromwell_rjc_at_clark_net_)"
 
 + 1995-09-25 (Sun, 24 Sep 95 23:49:16 PDT) - New Netscape RNG - _Ray Cromwell \<rjc@clark.net\>_
   + 1995-09-25 (Mon, 25 Sep 95 00:32:57 PDT) - [Re: New Netscape RNG](/archive/1995/09/e6c1c76a1386e8d4687d17367063546d3a3263741ec83be41f3b2089752e9784) - _jsw@neon.netscape.com (Jeff Weinstein)_

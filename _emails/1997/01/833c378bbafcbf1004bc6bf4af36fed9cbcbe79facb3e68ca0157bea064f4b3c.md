@@ -85,10 +85,10 @@ originate from MIT.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/author/derek_atkins_warlord_at_mit_edu_)"
-+ Return to "["James A. Tunnicliffe" <Tunny<span>@</span>inference.com>](/author/james_a_tunnicliffe_tunny_at_inference_com_)"
-+ Return to "[Jason Burrell <jburrell<span>@</span>crl.crl.com>](/author/jason_burrell_jburrell_at_crl_crl_com_)"
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/authors/derek_atkins_warlord_at_mit_edu_)"
++ Return to "["James A. Tunnicliffe" <Tunny<span>@</span>inference.com>](/authors/james_a_tunnicliffe_tunny_at_inference_com_)"
++ Return to "[Jason Burrell <jburrell<span>@</span>crl.crl.com>](/authors/jason_burrell_jburrell_at_crl_crl_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
 
 + 1997-01-08 (Wed, 8 Jan 1997 08:00:51 -0800 (PST)) - [RE: Why are 1024 bit keys the limit right now?](/archive/1997/01/045073d610a937ca33e99222a0b475a35ab891113b0e2e4746d426985a4d88bc) - _"James A. Tunnicliffe" \<Tunny@inference.com\>_
   + 1997-01-08 (Wed, 8 Jan 1997 12:59:50 -0800 (PST)) - [RE: Why are 1024 bit keys the limit right now?](/archive/1997/01/f92cf0fb1ab3fa14812e647da057c4c12f68a362d561c28d5bd1455ac45b35df) - _"Mark M." \<markm@voicenet.com\>_

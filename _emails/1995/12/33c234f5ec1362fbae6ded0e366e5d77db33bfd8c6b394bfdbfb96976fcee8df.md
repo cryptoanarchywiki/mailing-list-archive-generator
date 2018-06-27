@@ -85,7 +85,7 @@ car phone to say you'll be a bit late dropping off the secret plans.
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1995-12-06 (Wed, 6 Dec 95 15:35:34 PST) - Re: NIST GAK export meeting, short version - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

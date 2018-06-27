@@ -91,7 +91,7 @@ xlkiNkCs+0E=
 
 + Return to [July 1993](/archive/1993/07)
 
-+ Return to "[nobody<span>@</span>eli-remailer](/author/nobody_at_eliremailer)"
++ Return to "[nobody<span>@</span>eli-remailer](/authors/nobody_at_eliremailer)"
 
 + 1993-07-01 (Thu, 1 Jul 93 07:57:26 PDT) - REMAIL: list of remailers 7/1/93 - _nobody@eli-remailer_
 

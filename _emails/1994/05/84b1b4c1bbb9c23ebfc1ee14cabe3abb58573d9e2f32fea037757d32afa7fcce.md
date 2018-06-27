@@ -138,7 +138,7 @@ Higher Power: 2^859433 | Public Key: PGP and MailSafe available.
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-05-17 (Tue, 17 May 94 11:35:19 PDT) - Remailer low usage is not surprising - _tcmay@netcom.com (Timothy C. May)_
 

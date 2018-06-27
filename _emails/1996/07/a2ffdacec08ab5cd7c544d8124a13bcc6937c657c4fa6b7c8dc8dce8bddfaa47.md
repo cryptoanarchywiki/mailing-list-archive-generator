@@ -109,7 +109,7 @@ Thanks
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "["Jean-Francois Avon" <jf_avon<span>@</span>citenet.net>](/author/jeanfrancois_avon_jf_avon_at_citenet_net_)"
++ Return to "["Jean-Francois Avon" <jf_avon<span>@</span>citenet.net>](/authors/jeanfrancois_avon_jf_avon_at_citenet_net_)"
 
 + 1996-07-14 (Mon, 15 Jul 1996 03:51:49 +0800) - Re: Failed mail - _"Jean-Francois Avon" \<jf_avon@citenet.net\>_
 

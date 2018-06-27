@@ -53,7 +53,7 @@ well to contain the acid if it leaked. Well filled.)
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "["A. Padgett Peterson, P.E. Information Security" <PADGETT<span>@</span>hobbes.orl.mmc.com>](/author/a_padgett_peterson_p_e_information_security_padgett_at_hobbes_orl_mmc_com_)"
++ Return to "["A. Padgett Peterson, P.E. Information Security" <PADGETT<span>@</span>hobbes.orl.mmc.com>](/authors/a_padgett_peterson_p_e_information_security_padgett_at_hobbes_orl_mmc_com_)"
 
 + 1996-02-10 (Sat, 10 Feb 1996 11:15:15 +0800) - Top this one - _"A. Padgett Peterson, P.E. Information Security" \<PADGETT@hobbes.orl.mmc.com\>_
 

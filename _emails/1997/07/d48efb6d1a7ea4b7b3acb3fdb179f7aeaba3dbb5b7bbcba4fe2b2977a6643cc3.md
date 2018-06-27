@@ -50,7 +50,7 @@ Cheers!
 
 + Return to [July 1997](/archive/1997/07)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1997-07-22 (Tue, 22 Jul 1997 13:43:33 +0800) - No Subject - _nobody@REPLAY.COM (Anonymous)_
 

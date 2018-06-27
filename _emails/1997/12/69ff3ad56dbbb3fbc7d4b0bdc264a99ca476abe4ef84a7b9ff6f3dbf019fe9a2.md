@@ -78,7 +78,7 @@ Your friends at LiveUpdate
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "["LiveUpdate News" <update<span>@</span>liveupdate.com>](/author/liveupdate_news_update_at_liveupdate_com_)"
++ Return to "["LiveUpdate News" <update<span>@</span>liveupdate.com>](/authors/liveupdate_news_update_at_liveupdate_com_)"
 
 + 1997-12-19 (Fri, 19 Dec 1997 08:24:28 +0800) - Crescendo News - Version 3.0 now available - _"LiveUpdate News" \<update@liveupdate.com\>_
 

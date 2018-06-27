@@ -75,7 +75,7 @@ At 11:50 AM 1/31/97 -0800, sameer wrote:
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1997-02-01 (Fri, 31 Jan 1997 23:55:43 -0800 (PST)) - Re: Cats Out of Bags - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

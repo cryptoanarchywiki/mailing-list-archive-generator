@@ -105,7 +105,7 @@ Thanks Paul.
 
 + Return to [September 1994](/archive/1994/09)
 
-+ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/authors/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1994-09-19 (Mon, 19 Sep 94 13:31:37 PDT) - EMBARRASSED, I? - _Sandy Sandfort \<sandfort@crl.com\>_
 

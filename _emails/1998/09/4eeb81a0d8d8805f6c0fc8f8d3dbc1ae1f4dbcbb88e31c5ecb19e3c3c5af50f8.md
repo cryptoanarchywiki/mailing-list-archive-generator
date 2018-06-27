@@ -70,8 +70,8 @@ You're a customs inspector, what?
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[Michael Motyka <mmotyka<span>@</span>lsil.com>](/author/michael_motyka_mmotyka_at_lsil_com_)"
-+ Return to "[Richard.Bragg<span>@</span>ssa.co.uk](/author/richard_bragg_at_ssa_co_uk)"
++ Return to "[Michael Motyka <mmotyka<span>@</span>lsil.com>](/authors/michael_motyka_mmotyka_at_lsil_com_)"
++ Return to "[Richard.Bragg<span>@</span>ssa.co.uk](/authors/richard_bragg_at_ssa_co_uk)"
 
 + 1998-09-14 (Tue, 15 Sep 1998 05:47:08 +0800) - [Re: Joe Farah 9/14 (Pppbbbttt)](/archive/1998/09/d744c84921d05162696222d0be42f30c989296bdf845bc5a42c665e9b129b75c) - _Richard.Bragg@ssa.co.uk_
   + 1998-09-15 (Tue, 15 Sep 1998 11:01:48 +0800) - Re: Joe Farah 9/14 (Pppbbbttt) - _Michael Motyka \<mmotyka@lsil.com\>_

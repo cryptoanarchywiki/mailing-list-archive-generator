@@ -84,7 +84,7 @@ Write PKP. Offer money for a personal use license for RSA.
 
 + Return to [November 1992](/archive/1992/11)
 
-+ Return to "[pfarrell<span>@</span>cs.gmu.edu (Pat Farrell)](/author/pfarrell_at_cs_gmu_edu_pat_farrell_)"
++ Return to "[pfarrell<span>@</span>cs.gmu.edu (Pat Farrell)](/authors/pfarrell_at_cs_gmu_edu_pat_farrell_)"
 
 + 1992-11-30 (Mon, 30 Nov 92 11:11:12 PST) - Re: Secure Key exchange - _pfarrell@cs.gmu.edu (Pat Farrell)_
 

@@ -86,7 +86,7 @@ Hal
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/authors/hal_hfinney_at_shell_portal_com_)"
 
 + 1994-02-07 (Sun, 6 Feb 94 22:41:09 PST) - RE: Magic Money attack - _Hal \<hfinney@shell.portal.com\>_
 

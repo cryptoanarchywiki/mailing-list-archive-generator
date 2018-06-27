@@ -60,7 +60,7 @@ Brian
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[Brian D Williams <talon57<span>@</span>well.com>](/author/brian_d_williams_talon57_at_well_com_)"
++ Return to "[Brian D Williams <talon57<span>@</span>well.com>](/authors/brian_d_williams_talon57_at_well_com_)"
 
 + 1996-09-04 (Wed, 4 Sep 1996 08:27:39 +0800) - The Vincennes shootdown - _Brian D Williams \<talon57@well.com\>_
 

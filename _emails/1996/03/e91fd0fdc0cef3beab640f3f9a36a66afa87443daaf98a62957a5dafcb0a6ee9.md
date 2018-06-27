@@ -57,7 +57,7 @@ Yes.  And your point...?
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/author/alan_olsen_alano_at_teleport_com_)"
++ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/authors/alan_olsen_alano_at_teleport_com_)"
 
 + 1996-03-15 (Fri, 15 Mar 1996 15:30:24 +0800) - Re: SCHWA - New Web Search Engine!! - _Alan Olsen \<alano@teleport.com\>_
 

@@ -269,7 +269,7 @@ Reston, Virginia  USA                             http://www.sprintmrn.com
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)](/author/paul_at_hawksbill_sprintmrn_com_paul_ferguson_)"
++ Return to "[paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)](/authors/paul_at_hawksbill_sprintmrn_com_paul_ferguson_)"
 
 + 1995-01-16 (Sun, 15 Jan 95 18:58:12 PST) - ... and speaking of WiReD... - _paul@hawksbill.sprintmrn.com (Paul Ferguson)_
 

@@ -57,9 +57,9 @@ fiction even in that book of improbable fiction.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "["Bruce M." <bkmarsh<span>@</span>feist.com>](/author/bruce_m__bkmarsh_at_feist_com_)"
-+ Return to "[Eric Murray <ericm<span>@</span>lne.com>](/author/eric_murray_ericm_at_lne_com_)"
-+ Return to "["Thaddeus J. Beier" <thad<span>@</span>hammerhead.com>](/author/thaddeus_j_beier_thad_at_hammerhead_com_)"
++ Return to "["Bruce M." <bkmarsh<span>@</span>feist.com>](/authors/bruce_m__bkmarsh_at_feist_com_)"
++ Return to "[Eric Murray <ericm<span>@</span>lne.com>](/authors/eric_murray_ericm_at_lne_com_)"
++ Return to "["Thaddeus J. Beier" <thad<span>@</span>hammerhead.com>](/authors/thaddeus_j_beier_thad_at_hammerhead_com_)"
 
 + 1997-01-06 (Mon, 6 Jan 1997 13:45:16 -0800 (PST)) - Re: IWD_ism - _"Thaddeus J. Beier" \<thad@hammerhead.com\>_
   + 1997-01-06 (Mon, 6 Jan 1997 14:41:07 -0800 (PST)) - [Re: IWD_ism](/archive/1997/01/0afaeac44f7a3d8f6aa883e2541ec634727c7a5c8c3fad60c3f8cd27efc30ff9) - _Eric Murray \<ericm@lne.com\>_

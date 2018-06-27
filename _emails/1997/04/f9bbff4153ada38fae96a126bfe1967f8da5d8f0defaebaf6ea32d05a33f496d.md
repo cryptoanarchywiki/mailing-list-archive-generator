@@ -66,7 +66,7 @@ http://www.io.com/~gbroiles | Export jobs, not crypto.
 
 + Return to [April 1997](/archive/1997/04)
 
-+ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/author/greg_broiles_gbroiles_at_netbox_com_)"
++ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/authors/greg_broiles_gbroiles_at_netbox_com_)"
 
 + 1997-04-06 (Sun, 6 Apr 1997 00:30:42 -0800 (PST)) - Wassenaar - _Greg Broiles \<gbroiles@netbox.com\>_
 

@@ -120,8 +120,8 @@ end
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[aga <aga<span>@</span>dhp.com>](/author/aga_aga_at_dhp_com_)"
-+ Return to "["James A. Tunnicliffe" <Tunny<span>@</span>inference.com>](/author/james_a_tunnicliffe_tunny_at_inference_com_)"
++ Return to "[aga <aga<span>@</span>dhp.com>](/authors/aga_aga_at_dhp_com_)"
++ Return to "["James A. Tunnicliffe" <Tunny<span>@</span>inference.com>](/authors/james_a_tunnicliffe_tunny_at_inference_com_)"
 
 + 1996-11-15 (Fri, 15 Nov 1996 12:16:47 -0800 (PST)) - RE: [REBUTTAL] Censorship on cypherpunks?, from The Netly News - _"James A. Tunnicliffe" \<Tunny@inference.com\>_
   + 1996-11-16 (Sat, 16 Nov 1996 02:08:56 -0800 (PST)) - [RE: [REBUTTAL] Censorship on cypherpunks?, from The Netly News](/archive/1996/11/86fec3df6800f473a146edf8eff4c21a76f08caedd43654869946cf9e4ed172a) - _aga \<aga@dhp.com\>_

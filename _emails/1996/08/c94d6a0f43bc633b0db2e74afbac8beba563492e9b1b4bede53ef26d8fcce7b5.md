@@ -119,8 +119,8 @@ __________________________________________________________________________
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[jonathon <grafolog<span>@</span>netcom.com>](/author/jonathon_grafolog_at_netcom_com_)"
-+ Return to "[Roger Williams <roger<span>@</span>coelacanth.com>](/author/roger_williams_roger_at_coelacanth_com_)"
++ Return to "[jonathon <grafolog<span>@</span>netcom.com>](/authors/jonathon_grafolog_at_netcom_com_)"
++ Return to "[Roger Williams <roger<span>@</span>coelacanth.com>](/authors/roger_williams_roger_at_coelacanth_com_)"
 
 + 1996-08-04 (Sun, 4 Aug 1996 14:12:54 +0800) - Future US Postal History -- Indicium to Replace Stamps (fwd) - _jonathon \<grafolog@netcom.com\>_
   + 1996-08-04 (Mon, 5 Aug 1996 00:27:13 +0800) - [Re: [Noise] Future US Postal History...](/archive/1996/08/46f9d52872ab709f64137a966ca1cbaf4d5fe4ca56b9d16890b360d711ceaf3d) - _Roger Williams \<roger@coelacanth.com\>_

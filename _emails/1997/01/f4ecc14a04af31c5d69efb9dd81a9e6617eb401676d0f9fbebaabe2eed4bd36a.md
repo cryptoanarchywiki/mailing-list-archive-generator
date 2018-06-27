@@ -96,7 +96,7 @@ l//8Egaaz1IgZf+i11C/o/nIJWac0JBqRcSsDBaqMC01+RfN5zrJvw==
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Michael Johnson <mpj<span>@</span>csn.net>](/author/michael_johnson_mpj_at_csn_net_)"
++ Return to "[Michael Johnson <mpj<span>@</span>csn.net>](/authors/michael_johnson_mpj_at_csn_net_)"
 
 + 1997-01-21 (Tue, 21 Jan 1997 15:58:09 -0800 (PST)) - North American crypto archive - _Michael Johnson \<mpj@csn.net\>_
 

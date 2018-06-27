@@ -76,7 +76,7 @@ Subject: HUMOR: A Bah Humbug
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[Alan <alan<span>@</span>clueserver.org>](/author/alan_alan_at_clueserver_org_)"
++ Return to "[Alan <alan<span>@</span>clueserver.org>](/authors/alan_alan_at_clueserver_org_)"
 
 + 1997-12-25 (Thu, 25 Dec 1997 16:27:40 +0800) - HUMOR: A Bah Humbug (fwd) - _Alan \<alan@clueserver.org\>_
 

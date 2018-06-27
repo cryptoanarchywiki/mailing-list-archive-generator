@@ -77,8 +77,8 @@ Randall Farmer
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Ryan Lackey <rdl<span>@</span>mit.edu>](/author/ryan_lackey_rdl_at_mit_edu_)"
-+ Return to "["Uhh...this is Joe [Randall Farmer]" <rfarmer<span>@</span>HiWAAY.net>](/author/uhh_this_is_joe_randall_farmer_rfarmer_at_hiwaay_net_)"
++ Return to "[Ryan Lackey <rdl<span>@</span>mit.edu>](/authors/ryan_lackey_rdl_at_mit_edu_)"
++ Return to "["Uhh...this is Joe [Randall Farmer]" <rfarmer<span>@</span>HiWAAY.net>](/authors/uhh_this_is_joe_randall_farmer_rfarmer_at_hiwaay_net_)"
 
 + _Unknown thread root_
   + 1998-01-18 (Sun, 18 Jan 1998 22:37:08 +0800) - [Re: (eternity) Eternity as a secure filesystem/backup medium](/archive/1998/01/a29339584c425b898421ed806262127dba835d15f0296f8414f9c8657f82b0e3) - _Ryan Lackey \<rdl@mit.edu\>_

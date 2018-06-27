@@ -66,8 +66,8 @@ Content-Type: text/plain
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "["David Klur" <dklur<span>@</span>dttus.com>](/author/david_klur_dklur_at_dttus_com_)"
-+ Return to "["Donald E. Eastlake 3rd" <dee<span>@</span>cybercash.com>](/author/donald_e_eastlake_3rd_dee_at_cybercash_com_)"
++ Return to "["David Klur" <dklur<span>@</span>dttus.com>](/authors/david_klur_dklur_at_dttus_com_)"
++ Return to "["Donald E. Eastlake 3rd" <dee<span>@</span>cybercash.com>](/authors/donald_e_eastlake_3rd_dee_at_cybercash_com_)"
 
 + 1995-12-22 (Sat, 23 Dec 1995 04:32:35 +0800) - Cybercash questions... - _"David Klur" \<dklur@dttus.com\>_
   + 1995-12-22 (Sat, 23 Dec 1995 05:05:42 +0800) - [Re: Cybercash questions...](/archive/1995/12/5ba31ea9252b96f56a056710369bf8c518cb4d7fa97847fd241d5aa9964ec81a) - _"Donald E. Eastlake 3rd" \<dee@cybercash.com\>_

@@ -59,8 +59,8 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
-+ Return to "[Paul Bradley <paul<span>@</span>fatmans.demon.co.uk>](/author/paul_bradley_paul_at_fatmans_demon_co_uk_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Paul Bradley <paul<span>@</span>fatmans.demon.co.uk>](/authors/paul_bradley_paul_at_fatmans_demon_co_uk_)"
 
 + _Unknown thread root_
   + 1997-12-22 (Mon, 22 Dec 1997 22:27:58 +0800) - [Re: Identity, Persistence, Anonymity, and Accountability--Part I](/archive/1997/12/3d22aa7303e8df0ec9d5ab88375670b89d6afec609db244e4bf818b9e3e841c3) - _Paul Bradley \<paul@fatmans.demon.co.uk\>_

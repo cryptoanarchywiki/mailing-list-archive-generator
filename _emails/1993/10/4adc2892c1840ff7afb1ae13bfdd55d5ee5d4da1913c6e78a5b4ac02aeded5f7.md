@@ -117,8 +117,8 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[Al Billings <mimir<span>@</span>u.washington.edu>](/author/al_billings_mimir_at_u_washington_edu_)"
-+ Return to "[an12070<span>@</span>anon.penet.fi (S. Boxx)](/author/an12070_at_anon_penet_fi_s_boxx_)"
++ Return to "[Al Billings <mimir<span>@</span>u.washington.edu>](/authors/al_billings_mimir_at_u_washington_edu_)"
++ Return to "[an12070<span>@</span>anon.penet.fi (S. Boxx)](/authors/an12070_at_anon_penet_fi_s_boxx_)"
 
 + 1993-10-03 (Sat, 2 Oct 93 17:34:26 PDT) - FIDOnet troglodyte MIND RAPISTS _unrepentant_! - _an12070@anon.penet.fi (S. Boxx)_
   + 1993-10-03 (Sun, 3 Oct 93 01:28:51 PDT) - [Re: FIDOnet troglodyte MIND RAPISTS _unrepentant_!](/archive/1993/10/6d189956bdb504395254ad8ae59bede9a86926cbfb29c1163e793d346d0bbe32) - _Al Billings \<mimir@u.washington.edu\>_

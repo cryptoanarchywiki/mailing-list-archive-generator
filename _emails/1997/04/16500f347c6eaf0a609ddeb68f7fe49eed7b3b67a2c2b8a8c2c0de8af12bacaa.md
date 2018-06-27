@@ -71,7 +71,7 @@ http://netlynews.com/
 
 + Return to [April 1997](/archive/1997/04)
 
-+ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/authors/declan_mccullagh_declan_at_well_com_)"
 
 + _Unknown thread root_
   + 1997-04-07 (Mon, 7 Apr 1997 16:50:31 -0700 (PDT)) - Re: Helping Prof. Jim Bell - _Declan McCullagh \<declan@well.com\>_

@@ -63,7 +63,7 @@ civilians during WWII.)
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1996-09-02 (Tue, 3 Sep 1996 02:33:28 +0800) - Re: PLEASE Nuke Singapore Back into the Stone Age - _Duncan Frissell \<frissell@panix.com\>_
 

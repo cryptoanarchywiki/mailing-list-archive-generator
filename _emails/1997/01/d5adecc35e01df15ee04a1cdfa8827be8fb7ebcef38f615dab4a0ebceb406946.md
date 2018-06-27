@@ -40,7 +40,7 @@ For more information contact   cyberdude@iname.com
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[cyberdude<span>@</span>iname.com](/author/cyberdude_at_iname_com)"
++ Return to "[cyberdude<span>@</span>iname.com](/authors/cyberdude_at_iname_com)"
 
 + 1997-01-20 (Sun, 19 Jan 1997 18:49:50 -0800 (PST)) - 'Making Money Fast" - _cyberdude@iname.com_
 

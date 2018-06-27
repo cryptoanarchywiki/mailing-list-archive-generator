@@ -105,7 +105,7 @@ Jeff Simmons                           jsimmons@goblin.punk.net
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Jeff Simmons <jsimmons<span>@</span>goblin.punk.net>](/author/jeff_simmons_jsimmons_at_goblin_punk_net_)"
++ Return to "[Jeff Simmons <jsimmons<span>@</span>goblin.punk.net>](/authors/jeff_simmons_jsimmons_at_goblin_punk_net_)"
 
 + 1995-12-02 (Sat, 2 Dec 1995 11:08:23 +0800) - Filtering Net Commercials - _Jeff Simmons \<jsimmons@goblin.punk.net\>_
 

@@ -326,7 +326,7 @@ Meeks out...
 
 + Return to [June 1994](/archive/1994/06)
 
-+ Return to "[Anonymous <nowhere<span>@</span>bsu-cs>](/author/anonymous_nowhere_at_bsucs_)"
++ Return to "[Anonymous <nowhere<span>@</span>bsu-cs>](/authors/anonymous_nowhere_at_bsucs_)"
 
 + 1994-06-05 (Sun, 5 Jun 94 15:26:31 PDT) - No Subject - _Anonymous \<nowhere@bsu-cs\>_
 

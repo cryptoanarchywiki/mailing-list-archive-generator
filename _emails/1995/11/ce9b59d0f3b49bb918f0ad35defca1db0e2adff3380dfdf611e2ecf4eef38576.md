@@ -74,7 +74,7 @@ Unofficial Wang VS Information Center
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1995-11-29 (Wed, 29 Nov 1995 10:47:12 +0800) - Re: PGP hooks for Pegasus Mail? - _nobody@REPLAY.COM (Anonymous)_
 

@@ -227,7 +227,7 @@ Nathan F. Syfrig
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[Nathan Syfrig <nsyfrig<span>@</span>condor.depaul.edu>](/author/nathan_syfrig_nsyfrig_at_condor_depaul_edu_)"
++ Return to "[Nathan Syfrig <nsyfrig<span>@</span>condor.depaul.edu>](/authors/nathan_syfrig_nsyfrig_at_condor_depaul_edu_)"
 
 + 1996-07-23 (Tue, 23 Jul 1996 17:01:16 +0800) - Re: Digital Watermarks for copy protection in recent Billboard (fwd) - _Nathan Syfrig \<nsyfrig@condor.depaul.edu\>_
 

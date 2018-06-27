@@ -73,7 +73,7 @@ If you are interested in ordering a shirt from me, send email.
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[Eric Johnson <ejohnson<span>@</span>pmip.dist.maricopa.edu>](/author/eric_johnson_ejohnson_at_pmip_dist_maricopa_edu_)"
++ Return to "[Eric Johnson <ejohnson<span>@</span>pmip.dist.maricopa.edu>](/authors/eric_johnson_ejohnson_at_pmip_dist_maricopa_edu_)"
 
 + 1994-04-27 (Wed, 27 Apr 94 08:55:14 PDT) - Re: anti-clipper t-shirt - _Eric Johnson \<ejohnson@pmip.dist.maricopa.edu\>_
 

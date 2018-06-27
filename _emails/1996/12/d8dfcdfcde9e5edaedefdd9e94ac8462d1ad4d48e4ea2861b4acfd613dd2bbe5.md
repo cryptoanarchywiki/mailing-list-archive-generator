@@ -76,7 +76,7 @@ HIH_and  (25 kb)
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1996-12-23 (Mon, 23 Dec 1996 05:41:03 -0800 (PST)) - HIH_and - _John Young \<jya@pipeline.com\>_
 

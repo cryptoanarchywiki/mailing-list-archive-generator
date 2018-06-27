@@ -46,7 +46,7 @@ NB:  Followups redirected.
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/author/rich_salz_rsalz_at_osf_org_)"
++ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/authors/rich_salz_rsalz_at_osf_org_)"
 
 + 1995-12-02 (Sat, 2 Dec 1995 17:11:15 +0800) - Re: GAK, Netscape, CyberDog, and you. - _Rich Salz \<rsalz@osf.org\>_
 

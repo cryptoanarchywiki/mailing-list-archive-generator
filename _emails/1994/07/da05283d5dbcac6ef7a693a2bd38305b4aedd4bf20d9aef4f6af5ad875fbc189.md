@@ -53,7 +53,7 @@ Blanc
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "[Blanc Weber <blancw<span>@</span>microsoft.com>](/author/blanc_weber_blancw_at_microsoft_com_)"
++ Return to "[Blanc Weber <blancw<span>@</span>microsoft.com>](/authors/blanc_weber_blancw_at_microsoft_com_)"
 
 + 1994-07-04 (Mon, 4 Jul 94 14:40:51 PDT) - Re: Detweiler clone at WSJ - _Blanc Weber \<blancw@microsoft.com\>_
 

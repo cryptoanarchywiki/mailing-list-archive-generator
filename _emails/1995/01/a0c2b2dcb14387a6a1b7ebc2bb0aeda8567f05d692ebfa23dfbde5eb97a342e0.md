@@ -104,7 +104,7 @@ ________________________________________________________________________________
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[plaz<span>@</span>netcom.com (Plaz)](/author/plaz_at_netcom_com_plaz_)"
++ Return to "[plaz<span>@</span>netcom.com (Plaz)](/authors/plaz_at_netcom_com_plaz_)"
 
 + 1995-01-24 (Mon, 23 Jan 95 22:44:59 PST) - UN passes Information Super-Highway Beautification Resolution - _plaz@netcom.com (Plaz)_
 

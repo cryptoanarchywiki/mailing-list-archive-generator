@@ -59,7 +59,7 @@ demo at commerce net (http://www.commerce.net)
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "["Rick H. Wesson" <wessorh<span>@</span>ar.com>](/author/rick_h_wesson_wessorh_at_ar_com_)"
++ Return to "["Rick H. Wesson" <wessorh<span>@</span>ar.com>](/authors/rick_h_wesson_wessorh_at_ar_com_)"
 
 + 1994-08-28 (Sat, 27 Aug 94 19:04:43 PDT) - ?-line cash - _"Rick H. Wesson" \<wessorh@ar.com\>_
 

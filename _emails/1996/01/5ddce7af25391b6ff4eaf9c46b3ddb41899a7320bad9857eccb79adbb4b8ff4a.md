@@ -85,7 +85,7 @@ crypto to or "on behalf of" a foreign person.
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[iagoldbe<span>@</span>calum.csclub.uwaterloo.ca (Ian Goldberg)](/author/iagoldbe_at_calum_csclub_uwaterloo_ca_ian_goldberg_)"
++ Return to "[iagoldbe<span>@</span>calum.csclub.uwaterloo.ca (Ian Goldberg)](/authors/iagoldbe_at_calum_csclub_uwaterloo_ca_ian_goldberg_)"
 
 + _Unknown thread root_
   + 1996-01-25 (Thu, 25 Jan 1996 11:34:10 +0800) - Re: Crippled Notes export encryption - _iagoldbe@calum.csclub.uwaterloo.ca (Ian Goldberg)_

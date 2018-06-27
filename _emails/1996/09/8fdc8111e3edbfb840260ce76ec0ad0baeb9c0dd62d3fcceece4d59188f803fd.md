@@ -64,7 +64,7 @@ Content-Type: text/plain
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/authors/jya_at_pipeline_com_john_young_)"
 
 + 1996-09-16 (Mon, 16 Sep 1996 12:25:58 +0800) - The Living and the Dead - _jya@pipeline.com (John Young)_
 

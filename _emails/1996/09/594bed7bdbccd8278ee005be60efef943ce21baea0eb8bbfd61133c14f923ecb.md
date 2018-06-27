@@ -86,7 +86,7 @@ Jim_Miller@suite.com
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[jim<span>@</span>suite.suite.com (Jim Miller)](/author/jim_at_suite_suite_com_jim_miller_)"
++ Return to "[jim<span>@</span>suite.suite.com (Jim Miller)](/authors/jim_at_suite_suite_com_jim_miller_)"
 
 + 1996-09-17 (Tue, 17 Sep 1996 13:24:56 +0800) - really undetectable crypto made somewhat practical - _jim@suite.suite.com (Jim Miller)_
 

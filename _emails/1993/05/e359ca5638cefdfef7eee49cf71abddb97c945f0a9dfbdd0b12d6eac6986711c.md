@@ -84,7 +84,7 @@ fergp@sytex.com             |  to shape it.
 
 + Return to [May 1993](/archive/1993/05)
 
-+ Return to "[fergp<span>@</span>sytex.com (Paul Ferguson)](/author/fergp_at_sytex_com_paul_ferguson_)"
++ Return to "[fergp<span>@</span>sytex.com (Paul Ferguson)](/authors/fergp_at_sytex_com_paul_ferguson_)"
 
 + 1993-05-25 (Tue, 25 May 93 09:17:06 PDT) - VinCrypt - _fergp@sytex.com (Paul Ferguson)_
 

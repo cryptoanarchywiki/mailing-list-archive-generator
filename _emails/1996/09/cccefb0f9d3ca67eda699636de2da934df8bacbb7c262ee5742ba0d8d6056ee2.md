@@ -44,8 +44,8 @@ Perhaps you can start by giving us some bit programming techniques.
 + Return to [August 1996](/archive/1996/08)
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "["James Erickson" <exl<span>@</span>castles.com>](/author/james_erickson_exl_at_castles_com_)"
-+ Return to "[qut<span>@</span>netcom.com (Dave Harman OBC)](/author/qut_at_netcom_com_dave_harman_obc_)"
++ Return to "["James Erickson" <exl<span>@</span>castles.com>](/authors/james_erickson_exl_at_castles_com_)"
++ Return to "[qut<span>@</span>netcom.com (Dave Harman OBC)](/authors/qut_at_netcom_com_dave_harman_obc_)"
 
 + 1996-08-31 (Sun, 1 Sep 1996 07:02:32 +0800) - [Re: Below-bit-level encoding](/archive/1996/08/cb3cd1ea75c4fae42c0ab78e844acd16084df9a95390069ba5f8ff529d5a33e2) - _"James Erickson" \<exl@castles.com\>_
   + 1996-09-01 (Sun, 1 Sep 1996 09:52:18 +0800) - Re: Below-bit-level encoding - _qut@netcom.com (Dave Harman OBC)_

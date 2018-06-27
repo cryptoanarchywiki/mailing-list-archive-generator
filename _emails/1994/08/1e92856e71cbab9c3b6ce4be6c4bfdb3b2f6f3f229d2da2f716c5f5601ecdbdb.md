@@ -81,7 +81,7 @@ For further information, call Mike Potter at 708 960-0133 x15.
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[Brian D Williams <talon57<span>@</span>well.sf.ca.us>](/author/brian_d_williams_talon57_at_well_sf_ca_us_)"
++ Return to "[Brian D Williams <talon57<span>@</span>well.sf.ca.us>](/authors/brian_d_williams_talon57_at_well_sf_ca_us_)"
 
 + 1994-08-11 (Thu, 11 Aug 94 08:53:16 PDT) - Bruce Schneier appearance - _Brian D Williams \<talon57@well.sf.ca.us\>_
 

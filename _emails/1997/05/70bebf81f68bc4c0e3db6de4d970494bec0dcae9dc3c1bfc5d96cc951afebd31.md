@@ -78,7 +78,7 @@ destroyed?
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/authors/mpd_at_netcom_com_mike_duvos_)"
 
 + 1997-05-20 (Wed, 21 May 1997 03:59:53 +0800) - Metal Virus - _mpd@netcom.com (Mike Duvos)_
 

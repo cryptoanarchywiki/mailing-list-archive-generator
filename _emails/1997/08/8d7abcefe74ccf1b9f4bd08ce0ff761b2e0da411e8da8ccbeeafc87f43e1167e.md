@@ -96,7 +96,7 @@ CBChEIemL4afO5M4hL7B8oJX
 
 + Return to [August 1997](/archive/1997/08)
 
-+ Return to "[Alex Le Heux <alexlh<span>@</span>xs4all.nl>](/author/alex_le_heux_alexlh_at_xs4all_nl_)"
++ Return to "[Alex Le Heux <alexlh<span>@</span>xs4all.nl>](/authors/alex_le_heux_alexlh_at_xs4all_nl_)"
 
 + 1997-08-24 (Mon, 25 Aug 1997 02:54:26 +0800) - Re: Shooting the taggers - _Alex Le Heux \<alexlh@xs4all.nl\>_
 

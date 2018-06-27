@@ -50,7 +50,7 @@ Outta my way!
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[bluebreeze<span>@</span>nym.jpunix.com](/author/bluebreeze_at_nym_jpunix_com)"
++ Return to "[bluebreeze<span>@</span>nym.jpunix.com](/authors/bluebreeze_at_nym_jpunix_com)"
 
 + 1996-07-03 (Thu, 4 Jul 1996 04:23:28 +0800) - Re: Sameer on C-SPAN - _bluebreeze@nym.jpunix.com_
 

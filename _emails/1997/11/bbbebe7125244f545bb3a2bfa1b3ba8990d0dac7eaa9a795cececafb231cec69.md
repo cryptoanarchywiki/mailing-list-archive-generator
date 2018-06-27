@@ -126,9 +126,9 @@ N6zMkBKuDXEpjmnX9O1LRelT7hEMX0ss6b4ZTmFw39NXwDwgFahP+C2/Zw+Kt0Je
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Mix <mixmaster<span>@</span>remail.obscura.com>](/author/mix_mixmaster_at_remail_obscura_com_)"
-+ Return to "["Peter D. Junger" <junger<span>@</span>upaya.multiverse.com>](/author/peter_d_junger_junger_at_upaya_multiverse_com_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Mix <mixmaster<span>@</span>remail.obscura.com>](/authors/mix_mixmaster_at_remail_obscura_com_)"
++ Return to "["Peter D. Junger" <junger<span>@</span>upaya.multiverse.com>](/authors/peter_d_junger_junger_at_upaya_multiverse_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
 
 + 1997-11-03 (Mon, 3 Nov 1997 18:26:28 +0800) - One Time Pads (Real Ones!) - _Mix \<mixmaster@remail.obscura.com\>_
   + 1997-11-03 (Tue, 4 Nov 1997 00:51:54 +0800) - [Re: One Time Pads (Real Ones!)](/archive/1997/11/27c6a9f083175d30a86287c8d2dafa18e615d23f0f2945271141561ef440a1f2) - _"Peter D. Junger" \<junger@upaya.multiverse.com\>_

@@ -74,7 +74,7 @@ something you're going to do very well.
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-01-01 (Fri, 2 Jan 1998 03:05:30 +0800) - Re: Guns: H&K, G3, 7.62 v 5.56 [Guns] (fwd) - _Jim Choate \<ravage@ssz.com\>_
 

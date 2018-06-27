@@ -72,7 +72,7 @@ jimbell@pacifier.com
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-08-14 (Thu, 15 Aug 1996 02:38:59 +0800) - Re: Capital and Taxes - _jim bell \<jimbell@pacifier.com\>_
 

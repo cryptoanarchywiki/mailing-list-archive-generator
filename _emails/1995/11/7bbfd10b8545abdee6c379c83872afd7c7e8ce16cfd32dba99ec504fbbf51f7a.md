@@ -51,9 +51,9 @@ Ta ta
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
-+ Return to "[Mike Fletcher <fletch<span>@</span>ain.bls.com>](/author/mike_fletcher_fletch_at_ain_bls_com_)"
-+ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Mike Fletcher <fletch<span>@</span>ain.bls.com>](/authors/mike_fletcher_fletch_at_ain_bls_com_)"
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/authors/simon_spero_ses_at_tipper_oit_unc_edu_)"
 
 + 1995-11-28 (Tue, 28 Nov 1995 12:59:42 +0800) - Inexpensive Crypto Boxes... - _Jim Choate \<ravage@einstein.ssz.com\>_
   + 1995-11-28 (Tue, 28 Nov 1995 15:48:27 +0800) - [Re: Inexpensive Crypto Boxes...](/archive/1995/11/287e339e7246fb5263263bb5d1781fe3605d7a101957a916129ec34d76cd2616) - _Simon Spero \<ses@tipper.oit.unc.edu\>_

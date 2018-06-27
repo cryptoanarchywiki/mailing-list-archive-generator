@@ -57,7 +57,7 @@ http://www.io.com/~gbroiles |wherein Sgt Page was spun around by Sgt
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/author/greg_broiles_gbroiles_at_netbox_com_)"
++ Return to "[Greg Broiles <gbroiles<span>@</span>netbox.com>](/authors/greg_broiles_gbroiles_at_netbox_com_)"
 
 + 1996-08-18 (Sun, 18 Aug 1996 19:30:49 +0800) - Re: MD5 completely broken! - _Greg Broiles \<gbroiles@netbox.com\>_
 

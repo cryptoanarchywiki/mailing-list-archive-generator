@@ -52,7 +52,7 @@ Foxpro databases built to your specifications.  Email me for details.
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "[doumakes<span>@</span>netcom.com (Don Doumakes)](/author/doumakes_at_netcom_com_don_doumakes_)"
++ Return to "[doumakes<span>@</span>netcom.com (Don Doumakes)](/authors/doumakes_at_netcom_com_don_doumakes_)"
 
 + 1994-12-12 (Mon, 12 Dec 94 10:21:56 PST) - Re: Real-time surveillance of the police - _doumakes@netcom.com (Don Doumakes)_
 

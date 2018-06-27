@@ -52,7 +52,7 @@ Look what is immediately highlighted in the selection box.
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "["Edwin E. Smith" <edsmith<span>@</span>IntNet.net>](/author/edwin_e_smith_edsmith_at_intnet_net_)"
++ Return to "["Edwin E. Smith" <edsmith<span>@</span>IntNet.net>](/authors/edwin_e_smith_edsmith_at_intnet_net_)"
 
 + 1998-09-25 (Thu, 24 Sep 1998 18:45:12 -0700 (PDT)) - This is a good one! - _"Edwin E. Smith" \<edsmith@IntNet.net\>_
 

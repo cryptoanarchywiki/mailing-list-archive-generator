@@ -71,8 +71,8 @@ pgp fingerprint: 10 49 F5 24 F1 D9 A7 D6  DE 14 25 C8 C0 E2 57 9D
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
-+ Return to "["Thomas C. Allard" <m1tca00<span>@</span>FRB.GOV>](/author/thomas_c_allard_m1tca00_at_frb_gov_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "["Thomas C. Allard" <m1tca00<span>@</span>FRB.GOV>](/authors/thomas_c_allard_m1tca00_at_frb_gov_)"
 
 + 1996-08-01 (Fri, 2 Aug 1996 05:21:13 +0800) - [Re: CDT Policy Post 2.29 - Administration, Congress Propose Sweeping Anti-Terrorism Initiatives](/archive/1996/08/e4fbc71d37b63e1cc4b10f64429bfa5b967ac91a3816ab09a02bdf537c8cae79) - _jim bell \<jimbell@pacifier.com\>_
   + 1996-08-01 (Fri, 2 Aug 1996 06:42:25 +0800) - Re: CDT Policy Post 2.29 - Administration, Congress Propose   Sweeping Anti-Terrorism Initiatives - _"Thomas C. Allard" \<m1tca00@FRB.GOV\>_

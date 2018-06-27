@@ -51,9 +51,9 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
-+ Return to "[nobody<span>@</span>cypherpunks.ca (John Anonymous MacDonald)](/author/nobody_at_cypherpunks_ca_john_anonymous_macdonald_)"
-+ Return to "[Tim Scanlon <tfs<span>@</span>adsl-122.cais.com>](/author/tim_scanlon_tfs_at_adsl122_cais_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[nobody<span>@</span>cypherpunks.ca (John Anonymous MacDonald)](/authors/nobody_at_cypherpunks_ca_john_anonymous_macdonald_)"
++ Return to "[Tim Scanlon <tfs<span>@</span>adsl-122.cais.com>](/authors/tim_scanlon_tfs_at_adsl122_cais_com_)"
 
 + 1996-12-01 (Sun, 1 Dec 1996 14:13:29 -0800 (PST)) - [Phrack, where can i find it?](/archive/1996/12/9115b77c983ed621eb1d1d702c0c4b23526891c42185f6144600901228a3722a) - _nobody@cypherpunks.ca (John Anonymous MacDonald)_
   + 1996-12-01 (Sun, 1 Dec 1996 15:38:48 -0800 (PST)) - [Re: Phrack, where can i find it?](/archive/1996/12/8ebe3fce39f67d5cabfa3b29591a07770d343d82dc403244f0750c8f77f86f38) - _Tim Scanlon \<tfs@adsl-122.cais.com\>_

@@ -44,7 +44,7 @@ Raph
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[Raph Levien <raph<span>@</span>CS.Berkeley.EDU>](/author/raph_levien_raph_at_cs_berkeley_edu_)"
++ Return to "[Raph Levien <raph<span>@</span>CS.Berkeley.EDU>](/authors/raph_levien_raph_at_cs_berkeley_edu_)"
 
 + 1995-09-20 (Wed, 20 Sep 95 10:08:44 PDT) - Hypermail gateway - _Raph Levien \<raph@CS.Berkeley.EDU\>_
 

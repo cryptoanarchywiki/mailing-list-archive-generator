@@ -62,8 +62,8 @@ OS/2 PGP 5.0 at: http://www.openpgp.net/pgp.html
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[info<span>@</span>chemweb.com](/author/info_at_chemweb_com)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>openpgp.net>](/author/william_h_geiger_iii_whgiii_at_openpgp_net_)"
++ Return to "[info<span>@</span>chemweb.com](/authors/info_at_chemweb_com)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>openpgp.net>](/authors/william_h_geiger_iii_whgiii_at_openpgp_net_)"
 
 + 1998-12-03 (Thu, 3 Dec 1998 23:25:56 +0800) - [Welcome to ChemWeb.com](/archive/1998/12/eed2dd3ca476892f1f59816e3f19e4134585224908204e8129df2871c66ce329) - _info@chemweb.com_
   + 1998-12-03 (Fri, 4 Dec 1998 01:13:05 +0800) - Re: Welcome to ChemWeb.com - _"William H. Geiger III" \<whgiii@openpgp.net\>_

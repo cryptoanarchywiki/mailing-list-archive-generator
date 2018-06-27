@@ -85,7 +85,7 @@ yG1Lm1uSr8InLj1g4Zhkx0H+e7Ut9YgMFLWtfGVHiRb/73t1l0U2/Q==
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Mixmaster <mixmaster<span>@</span>remail.obscura.com>](/author/mixmaster_mixmaster_at_remail_obscura_com_)"
++ Return to "[Mixmaster <mixmaster<span>@</span>remail.obscura.com>](/authors/mixmaster_mixmaster_at_remail_obscura_com_)"
 
 + 1997-11-17 (Mon, 17 Nov 1997 16:14:25 +0800) - The Illusion of Freedom - _Mixmaster \<mixmaster@remail.obscura.com\>_
 

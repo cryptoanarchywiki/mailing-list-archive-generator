@@ -54,7 +54,7 @@ trei@process.com
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "["Peter Trei" <trei<span>@</span>process.com>](/author/peter_trei_trei_at_process_com_)"
++ Return to "["Peter Trei" <trei<span>@</span>process.com>](/authors/peter_trei_trei_at_process_com_)"
 
 + 1997-09-18 (Thu, 18 Sep 1997 22:22:34 +0800) - Re: National Security Committee amendments to SAFE - _"Peter Trei" \<trei@process.com\>_
 

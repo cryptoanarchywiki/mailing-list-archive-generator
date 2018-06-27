@@ -84,7 +84,7 @@ PGP PUBLIC KEY via finger!  JAFEFFM  Speaking & Thinking For Myself!
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[Jeff Davis <eagle<span>@</span>deeptht.armory.com>](/author/jeff_davis_eagle_at_deeptht_armory_com_)"
++ Return to "[Jeff Davis <eagle<span>@</span>deeptht.armory.com>](/authors/jeff_davis_eagle_at_deeptht_armory_com_)"
 
 + 1994-04-17 (Sun, 17 Apr 94 15:20:35 PDT) - Warrentless Search - _Jeff Davis \<eagle@deeptht.armory.com\>_
 

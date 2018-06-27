@@ -56,7 +56,7 @@ You don't think Anguilla is due for a Tomahawk sometime in the future?
 
 + Return to [October 1998](/archive/1998/10)
 
-+ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/authors/anonymous_nobody_at_replay_com_)"
 
 + 1998-10-25 (Mon, 26 Oct 1998 06:40:46 +0800) - Re: Feds Seize Houses for Illegal Downloading - _Anonymous \<nobody@replay.com\>_
 

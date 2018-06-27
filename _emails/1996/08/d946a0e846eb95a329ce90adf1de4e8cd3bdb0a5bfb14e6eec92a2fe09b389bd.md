@@ -96,11 +96,11 @@ Adam
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
-+ Return to "[Daniel Hagerty <hag<span>@</span>ai.mit.edu>](/author/daniel_hagerty_hag_at_ai_mit_edu_)"
-+ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
-+ Return to "[lists<span>@</span>lina.inka.de (Bernd Eckenfels)](/author/lists_at_lina_inka_de_bernd_eckenfels_)"
-+ Return to "["Mark O. Aldrich" <maldrich<span>@</span>grci.com>](/author/mark_o_aldrich_maldrich_at_grci_com_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/authors/adam_shostack_adam_at_homeport_org_)"
++ Return to "[Daniel Hagerty <hag<span>@</span>ai.mit.edu>](/authors/daniel_hagerty_hag_at_ai_mit_edu_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/authors/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[lists<span>@</span>lina.inka.de (Bernd Eckenfels)](/authors/lists_at_lina_inka_de_bernd_eckenfels_)"
++ Return to "["Mark O. Aldrich" <maldrich<span>@</span>grci.com>](/authors/mark_o_aldrich_maldrich_at_grci_com_)"
 
 + 1996-08-27 (Tue, 27 Aug 1996 12:46:43 +0800) - [Code Review Guidelines (draft)](/archive/1996/08/adc7450dc019e1ebd0bd19ec12d38887eb9b86aaf17641bc7bbc3263af25efbc) - _Adam Shostack \<adam@homeport.org\>_
   + 1996-08-27 (Wed, 28 Aug 1996 04:42:29 +0800) - [Re: Code Review Guidelines (draft)](/archive/1996/08/bd999e3c3e8025c41b2ae8aa6195f6a97710985f8d3f463a50055239ca164ea6) - _ichudov@algebra.com (Igor Chudov @ home)_

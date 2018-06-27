@@ -71,7 +71,7 @@ Desperately seeking HTML expert for (paid) consulting and handholding.
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "[frissell<span>@</span>panix.com (Duncan Frissell)](/author/frissell_at_panix_com_duncan_frissell_)"
++ Return to "[frissell<span>@</span>panix.com (Duncan Frissell)](/authors/frissell_at_panix_com_duncan_frissell_)"
 
 + 1994-07-14 (Thu, 14 Jul 94 06:57:49 PDT) - Re: NATIONAL SECURITY PORN RISK - _frissell@panix.com (Duncan Frissell)_
 

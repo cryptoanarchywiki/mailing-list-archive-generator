@@ -97,8 +97,8 @@ Phil
 
 + Return to [August 1993](/archive/1993/08)
 
-+ Return to "[karn<span>@</span>qualcomm.com (Phil Karn)](/author/karn_at_qualcomm_com_phil_karn_)"
-+ Return to "[peb<span>@</span>PROCASE.COM (Paul Baclace)](/author/peb_at_procase_com_paul_baclace_)"
++ Return to "[karn<span>@</span>qualcomm.com (Phil Karn)](/authors/karn_at_qualcomm_com_phil_karn_)"
++ Return to "[peb<span>@</span>PROCASE.COM (Paul Baclace)](/authors/peb_at_procase_com_paul_baclace_)"
 
 + 1993-08-27 (Fri, 27 Aug 93 11:13:21 PDT) - [Re: What, Me Worry?](/archive/1993/08/8bb3dd35ec66bd2e027e9d260c349d8546d7daa698b345af31886464de16e4c0) - _peb@PROCASE.COM (Paul Baclace)_
   + 1993-08-27 (Fri, 27 Aug 93 13:13:24 PDT) - What, Me Worry? - _karn@qualcomm.com (Phil Karn)_

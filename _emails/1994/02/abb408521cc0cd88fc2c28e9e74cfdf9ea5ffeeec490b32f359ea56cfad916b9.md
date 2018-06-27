@@ -127,7 +127,7 @@ Not if the FBI and NSA have their way.            Ask membership@eff.org how.
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[gnu (John Gilmore)](/author/gnu_john_gilmore_)"
++ Return to "[gnu (John Gilmore)](/authors/gnu_john_gilmore_)"
 
 + 1994-02-03 (Wed, 2 Feb 94 23:41:05 PST) - Commodity Jurisdiction success for Kerberos Bones! - _gnu (John Gilmore)_
 

@@ -110,7 +110,7 @@ lK[d2%Sa2/d0$^Ixp"|dc`;s/\W//g;$_=pack('H*',/((..)*)$/)
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/authors/adam_back_aba_at_dcs_ex_ac_uk_)"
 
 + 1996-09-07 (Sun, 8 Sep 1996 00:54:05 +0800) - non-interactive forward secrecy - _Adam Back \<aba@dcs.ex.ac.uk\>_
 

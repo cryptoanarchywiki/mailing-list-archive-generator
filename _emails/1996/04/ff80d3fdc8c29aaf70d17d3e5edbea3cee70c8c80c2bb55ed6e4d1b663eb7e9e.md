@@ -86,7 +86,7 @@ Please refer all inquiries to Keith A. Glass, 703-354-1737, salgak@dcez.com
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/author/declan_mccullagh_declan_at_eff_org_)"
++ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/authors/declan_mccullagh_declan_at_eff_org_)"
 
 + 1996-04-24 (Wed, 24 Apr 1996 16:49:18 -0700 (PDT)) - Electronic Freedom March postponed to Fall 1996 - _Declan McCullagh \<declan@eff.org\>_
 

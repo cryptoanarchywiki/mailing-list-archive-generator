@@ -81,8 +81,8 @@ dW6xxqKCzsU=
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[A Player To Be Named Later <aptbnl<span>@</span>dev.null>](/author/a_player_to_be_named_later_aptbnl_at_dev_null_)"
-+ Return to "["Attila T. Hun" <attila<span>@</span>hun.org>](/author/attila_t_hun_attila_at_hun_org_)"
++ Return to "[A Player To Be Named Later <aptbnl<span>@</span>dev.null>](/authors/a_player_to_be_named_later_aptbnl_at_dev_null_)"
++ Return to "["Attila T. Hun" <attila<span>@</span>hun.org>](/authors/attila_t_hun_attila_at_hun_org_)"
 
 + 1997-09-25 (Thu, 25 Sep 1997 18:17:05 +0800) - [Good News / Bad News](/archive/1997/09/46a49a9658eeaa46662a5b1b1599b3830a02a6f721f5b293de687120e8d1e808) - _A Player To Be Named Later \<aptbnl@dev.null\>_
   + 1997-09-25 (Thu, 25 Sep 1997 23:16:00 +0800) - Re: Good News / Bad News  NOT FUNNY, GUYS - _"Attila T. Hun" \<attila@hun.org\>_

@@ -95,7 +95,7 @@ unicorn@schloss.li
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/authors/black_unicorn_unicorn_at_schloss_li_)"
 
 + _Unknown thread root_
   + 1996-10-02 (Wed, 2 Oct 1996 17:57:34 +0800) - RE: LivePGP (fwd) - _Black Unicorn \<unicorn@schloss.li\>_

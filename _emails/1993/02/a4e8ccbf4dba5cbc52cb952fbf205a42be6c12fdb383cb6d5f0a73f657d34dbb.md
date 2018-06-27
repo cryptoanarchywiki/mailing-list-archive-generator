@@ -75,8 +75,8 @@ sorry for the free-form :)
 
 + Return to [February 1993](/archive/1993/02)
 
-+ Return to "[fnerd<span>@</span>smds.com (FutureNerd Steve Witham)](/author/fnerd_at_smds_com_futurenerd_steve_witham_)"
-+ Return to "[Timothy Newsham <newsham<span>@</span>wiliki.eng.hawaii.edu>](/author/timothy_newsham_newsham_at_wiliki_eng_hawaii_edu_)"
++ Return to "[fnerd<span>@</span>smds.com (FutureNerd Steve Witham)](/authors/fnerd_at_smds_com_futurenerd_steve_witham_)"
++ Return to "[Timothy Newsham <newsham<span>@</span>wiliki.eng.hawaii.edu>](/authors/timothy_newsham_newsham_at_wiliki_eng_hawaii_edu_)"
 
 + 1993-02-24 (Tue, 23 Feb 93 21:33:09 PST) - [Re: Crypto goals](/archive/1993/02/214537bedbda0306576e943526bfef927e9f546442ababe802af76024d6bc746) - _fnerd@smds.com (FutureNerd Steve Witham)_
   + 1993-02-24 (Wed, 24 Feb 93 00:21:07 PST) - Re: Crypto goals - _Timothy Newsham \<newsham@wiliki.eng.hawaii.edu\>_

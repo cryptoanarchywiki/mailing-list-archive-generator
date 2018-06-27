@@ -182,7 +182,7 @@ http://www.nytimes.com/yr/mo/day/news/national/psychopaths-educ.html
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/authors/ichudov_at_algebra_com_igor_chudov__at__home_)"
 
 + 1997-01-02 (Wed, 1 Jan 1997 20:58:43 -0800 (PST)) - stupid remailer-ignorant stud3nt caught by NY polic3 - _ichudov@algebra.com (Igor Chudov @ home)_
 

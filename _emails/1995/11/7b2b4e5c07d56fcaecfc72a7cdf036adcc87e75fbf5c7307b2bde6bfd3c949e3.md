@@ -51,7 +51,7 @@ Obviously was forwarded from a remailer inside SGI ....
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1995-11-08 (Tue, 7 Nov 95 16:50:14 PST) - Re:  forging headers (with more header information) - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

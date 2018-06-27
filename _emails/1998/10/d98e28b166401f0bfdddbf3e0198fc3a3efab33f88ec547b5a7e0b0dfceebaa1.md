@@ -72,7 +72,7 @@ lack of supply and demand, but for lack of free competition.
 
 + Return to [October 1998](/archive/1998/10)
 
-+ Return to "[Matthew James Gering <mgering<span>@</span>ecosystems.net>](/author/matthew_james_gering_mgering_at_ecosystems_net_)"
++ Return to "[Matthew James Gering <mgering<span>@</span>ecosystems.net>](/authors/matthew_james_gering_mgering_at_ecosystems_net_)"
 
 + 1998-10-06 (Tue, 6 Oct 1998 08:28:47 +0800) - RE: GPL & commercial software, the critical distinction (fwd) - _Matthew James Gering \<mgering@ecosystems.net\>_
 

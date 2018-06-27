@@ -117,7 +117,7 @@ process, take steps to monitor compliance with the procedures.
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[Mike Godwin <mnemonic<span>@</span>eff.org>](/author/mike_godwin_mnemonic_at_eff_org_)"
++ Return to "[Mike Godwin <mnemonic<span>@</span>eff.org>](/authors/mike_godwin_mnemonic_at_eff_org_)"
 
 + 1994-02-04 (Fri, 4 Feb 94 15:00:19 PST) - reno_key_escrow.statement (fwd) - _Mike Godwin \<mnemonic@eff.org\>_
 

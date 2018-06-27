@@ -161,8 +161,8 @@ President, Community ConneXion
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[attila <attila<span>@</span>primenet.com>](/author/attila_attila_at_primenet_com_)"
-+ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
++ Return to "[attila <attila<span>@</span>primenet.com>](/authors/attila_attila_at_primenet_com_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/authors/sameer_sameer_at_c2_org_)"
 
 + 1996-01-11 (Thu, 11 Jan 96 01:43:54 PST) - COMMUNITY CONNEXION REFUSES TO CENSOR INTERNET SERVICES - _sameer \<sameer@c2.org\>_
   + 1996-01-14 (Sun, 14 Jan 96 08:15:13 PST) - [Re: COMMUNITY CONNEXION REFUSES TO CENSOR INTERNET SERVICES](/archive/1996/01/fe72452650d0c4f6ce3e35e0fdff4a77ef759c167c64b03e8cf58f1dcba5a39d) - _attila \<attila@primenet.com\>_

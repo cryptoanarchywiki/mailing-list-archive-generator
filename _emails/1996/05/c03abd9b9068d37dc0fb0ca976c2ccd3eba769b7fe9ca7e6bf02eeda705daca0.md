@@ -121,7 +121,7 @@ A: There is syntax to support an array of account management activities,
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[Hector Garcia-Molina <hector<span>@</span>DB.Stanford.EDU>](/author/hector_garciamolina_hector_at_db_stanford_edu_)"
++ Return to "[Hector Garcia-Molina <hector<span>@</span>DB.Stanford.EDU>](/authors/hector_garciamolina_hector_at_db_stanford_edu_)"
 
 + 1996-05-18 (Sat, 18 May 1996 18:57:29 +0800) - SIFT service moving to Reference.COM - _Hector Garcia-Molina \<hector@DB.Stanford.EDU\>_
 

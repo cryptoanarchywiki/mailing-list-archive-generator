@@ -49,9 +49,9 @@ basically everyone has been adopting the sun /dev/audio ioctls.
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
-+ Return to "[Ray Cromwell <rjc<span>@</span>clark.net>](/author/ray_cromwell_rjc_at_clark_net_)"
-+ Return to "[shamrock<span>@</span>netcom.com (Lucky Green)](/author/shamrock_at_netcom_com_lucky_green_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/authors/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[Ray Cromwell <rjc<span>@</span>clark.net>](/authors/ray_cromwell_rjc_at_clark_net_)"
++ Return to "[shamrock<span>@</span>netcom.com (Lucky Green)](/authors/shamrock_at_netcom_com_lucky_green_)"
 
 + 1995-08-27 (Sun, 27 Aug 95 13:15:11 PDT) - [Re: proliferation of voicesystems](/archive/1995/08/362d4789685bebdc431547ac7df7870dc5df7e5a907cb99a608cda514bd6be46) - _shamrock@netcom.com (Lucky Green)_
   + 1995-08-27 (Sun, 27 Aug 95 15:00:34 PDT) - [Re: proliferation of voicesystems](/archive/1995/08/4cd1203c94d2693fa78b2358074c16c31c14e02667c5e6bfe789d8361b8b6328) - _Ray Cromwell \<rjc@clark.net\>_

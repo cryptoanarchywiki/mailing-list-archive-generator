@@ -85,7 +85,7 @@ http://www.aracnet.com/~bruce
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[Bruce Baugh <bruce<span>@</span>aracnet.com>](/author/bruce_baugh_bruce_at_aracnet_com_)"
++ Return to "[Bruce Baugh <bruce<span>@</span>aracnet.com>](/authors/bruce_baugh_bruce_at_aracnet_com_)"
 
 + 1996-06-04 (Tue, 4 Jun 1996 08:06:58 +0800) - PGP's ubiquity (was Re: NRC Session Hiss) - _Bruce Baugh \<bruce@aracnet.com\>_
 

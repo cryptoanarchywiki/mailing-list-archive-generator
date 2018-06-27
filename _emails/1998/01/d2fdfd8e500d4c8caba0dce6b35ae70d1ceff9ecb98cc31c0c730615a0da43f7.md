@@ -86,7 +86,7 @@ A curious parallel to the argument for Wassenaar.
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1998-01-10 (Sat, 10 Jan 1998 09:39:07 +0800) - Re: Germany not so worried about Gestapo wiretaps now - _John Young \<jya@pipeline.com\>_
 

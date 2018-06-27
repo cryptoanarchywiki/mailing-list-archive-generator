@@ -54,7 +54,7 @@ oksas
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Nurdane Oksas <oksas<span>@</span>asimov.montclair.edu>](/author/nurdane_oksas_oksas_at_asimov_montclair_edu_)"
++ Return to "[Nurdane Oksas <oksas<span>@</span>asimov.montclair.edu>](/authors/nurdane_oksas_oksas_at_asimov_montclair_edu_)"
 
 + 1997-01-21 (Tue, 21 Jan 1997 12:14:05 -0800 (PST)) - Re: Dr. Vulis' social engineering experiment - _Nurdane Oksas \<oksas@asimov.montclair.edu\>_
 

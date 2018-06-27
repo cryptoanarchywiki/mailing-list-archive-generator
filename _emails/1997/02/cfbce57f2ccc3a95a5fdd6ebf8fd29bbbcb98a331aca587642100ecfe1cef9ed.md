@@ -94,7 +94,7 @@ On Wed, 12 Feb 1997, Tobin Fricke wrote:
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[Moroni <moroni<span>@</span>scranton.com>](/author/moroni_moroni_at_scranton_com_)"
++ Return to "[Moroni <moroni<span>@</span>scranton.com>](/authors/moroni_moroni_at_scranton_com_)"
 
 + 1997-02-13 (Wed, 12 Feb 1997 21:13:30 -0800 (PST)) - Re: NSA Rainbow Series. - _Moroni \<moroni@scranton.com\>_
 

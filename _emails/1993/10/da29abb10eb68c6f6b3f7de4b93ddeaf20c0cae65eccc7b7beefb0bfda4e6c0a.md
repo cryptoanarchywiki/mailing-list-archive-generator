@@ -99,7 +99,7 @@ Jim_Miller@suite.com
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[jim<span>@</span>bilbo.suite.com (Jim Miller)](/author/jim_at_bilbo_suite_com_jim_miller_)"
++ Return to "[jim<span>@</span>bilbo.suite.com (Jim Miller)](/authors/jim_at_bilbo_suite_com_jim_miller_)"
 
 + 1993-10-25 (Mon, 25 Oct 93 12:34:29 PDT) - Re: Interesting reading - _jim@bilbo.suite.com (Jim Miller)_
 

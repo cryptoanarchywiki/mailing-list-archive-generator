@@ -54,7 +54,7 @@ without the proper authorization.
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "[Jeff Gostin <jgostin<span>@</span>eternal.pha.pa.us>](/author/jeff_gostin_jgostin_at_eternal_pha_pa_us_)"
++ Return to "[Jeff Gostin <jgostin<span>@</span>eternal.pha.pa.us>](/authors/jeff_gostin_jgostin_at_eternal_pha_pa_us_)"
 
 + 1994-07-26 (Mon, 25 Jul 94 20:10:03 PDT) - Re: How to legit encryption - _Jeff Gostin \<jgostin@eternal.pha.pa.us\>_
 

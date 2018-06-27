@@ -314,7 +314,7 @@ dA0KLS0tLS1FTkQgUEdQIE1FU1NBR0UsIFBBUlQgMDcvMDctLS0tLQ0K
 
 + Return to [July 1998](/archive/1998/07)
 
-+ Return to "[toto<span>@</span>fhouse.org](/author/toto_at_fhouse_org)"
++ Return to "[toto<span>@</span>fhouse.org](/authors/toto_at_fhouse_org)"
 
 + 1998-07-31 (Fri, 31 Jul 1998 07:59:41 -0700 (PDT)) - SECRET.AS7 - _toto@fhouse.org_
 

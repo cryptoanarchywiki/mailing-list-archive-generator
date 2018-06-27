@@ -79,7 +79,7 @@ over-controlling heads.
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1995-01-17 (Tue, 17 Jan 95 09:53:02 PST) - Re: Abuse and Remailer Ethics - _John Young \<jya@pipeline.com\>_
 

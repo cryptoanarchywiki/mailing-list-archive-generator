@@ -56,7 +56,7 @@ END OF COMMANDS
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[steve <steve<span>@</span>idoru.demon.co.uk>](/author/steve_steve_at_idoru_demon_co_uk_)"
++ Return to "[steve <steve<span>@</span>idoru.demon.co.uk>](/authors/steve_steve_at_idoru_demon_co_uk_)"
 
 + 1997-02-06 (Thu, 6 Feb 1997 13:50:10 -0800 (PST)) - No Subject - _steve \<steve@idoru.demon.co.uk\>_
 

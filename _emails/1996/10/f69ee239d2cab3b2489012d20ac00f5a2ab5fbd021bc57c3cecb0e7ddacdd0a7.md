@@ -177,7 +177,7 @@ Content-Type: text/plain
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/authors/jya_at_pipeline_com_john_young_)"
 
 + 1996-10-03 (Thu, 3 Oct 1996 10:33:11 +0800) - GAK Rat Pack - _jya@pipeline.com (John Young)_
 

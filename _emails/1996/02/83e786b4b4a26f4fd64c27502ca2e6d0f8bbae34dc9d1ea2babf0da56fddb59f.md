@@ -58,7 +58,7 @@ Selfishness is a virtue!
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))](/author/jf_avon_at_citenet_net_jeanfrancois_avon_jfa_technologies_qc_canada_)"
++ Return to "[jf_avon<span>@</span>citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))](/authors/jf_avon_at_citenet_net_jeanfrancois_avon_jfa_technologies_qc_canada_)"
 
 + 1996-02-11 (Sun, 11 Feb 1996 11:14:38 +0800) - Re: "Rights" - _jf_avon@citenet.net (Jean-Francois Avon (JFA Technologies, QC, Canada))_
 

@@ -96,7 +96,7 @@ jimbell@pacifier.com
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-07-24 (Wed, 24 Jul 1996 19:42:09 +0800) - Re: Netscape - _jim bell \<jimbell@pacifier.com\>_
 

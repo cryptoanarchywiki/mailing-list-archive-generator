@@ -71,7 +71,7 @@ Apple Computer, Inc.  5 Infinite Loop, MS 305-2D  Cupertino, CA 95014
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "[collins<span>@</span>newton.apple.com (Scott Collins)](/author/collins_at_newton_apple_com_scott_collins_)"
++ Return to "[collins<span>@</span>newton.apple.com (Scott Collins)](/authors/collins_at_newton_apple_com_scott_collins_)"
 
 + 1994-07-22 (Fri, 22 Jul 94 11:47:20 PDT) - catalyst remailer closed - _collins@newton.apple.com (Scott Collins)_
 

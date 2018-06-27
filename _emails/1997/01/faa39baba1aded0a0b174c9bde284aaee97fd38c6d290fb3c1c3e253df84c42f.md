@@ -49,7 +49,7 @@ fixation on little boys and Usenet forgeries.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/author/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
++ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/authors/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
 
 + 1997-01-08 (Tue, 7 Jan 1997 17:47:05 -0800 (PST)) - Zero-knowledge commit - _nobody@huge.cajones.com (Huge Cajones Remailer)_
 

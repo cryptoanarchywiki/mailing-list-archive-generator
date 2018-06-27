@@ -92,7 +92,7 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "[an109574<span>@</span>anon.penet.fi](/author/an109574_at_anon_penet_fi)"
++ Return to "[an109574<span>@</span>anon.penet.fi](/authors/an109574_at_anon_penet_fi)"
 
 + 1994-12-26 (Mon, 26 Dec 94 14:01:08 PST) - voice encryption for portable PCs - _an109574@anon.penet.fi_
 

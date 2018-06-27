@@ -65,7 +65,7 @@ Also, please send your website address and aprox. hits you are recieving if you 
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[dave<span>@</span>liveauctiononline.com](/author/dave_at_liveauctiononline_com)"
++ Return to "[dave<span>@</span>liveauctiononline.com](/authors/dave_at_liveauctiononline_com)"
 
 + 1998-12-15 (Tue, 15 Dec 1998 15:09:07 -0800 (PST)) - Free Banner offer from LAO--- - _dave@liveauctiononline.com_
 

@@ -50,8 +50,8 @@ Procmail can do absolutely any filtering, unlike most news readers.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "["E. Allen Smith" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
-+ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "["E. Allen Smith" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/authors/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/authors/ichudov_at_algebra_com_igor_chudov__at__home_)"
 
 + 1997-02-04 (Tue, 4 Feb 1997 13:59:41 -0800 (PST)) - [Re: Dissolving Choke Points](/archive/1997/02/f5a05263727806145688cbb7a79cc98852c982450fdd28e79e664518b3ebd104) - _"E. Allen Smith" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
   + 1997-02-04 (Tue, 4 Feb 1997 14:19:35 -0800 (PST)) - Re: Dissolving Choke Points - _ichudov@algebra.com (Igor Chudov @ home)_

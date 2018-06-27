@@ -53,9 +53,9 @@ Eric
 
 + Return to [October 1994](/archive/1994/10)
 
-+ Return to "[Anonymous <remailer<span>@</span>chaos.bsu.edu>](/author/anonymous_remailer_at_chaos_bsu_edu_)"
-+ Return to "["Douglas R. Floyd" <dfloyd<span>@</span>paris.eng.utsa.edu>](/author/douglas_r_floyd_dfloyd_at_paris_eng_utsa_edu_)"
-+ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
++ Return to "[Anonymous <remailer<span>@</span>chaos.bsu.edu>](/authors/anonymous_remailer_at_chaos_bsu_edu_)"
++ Return to "["Douglas R. Floyd" <dfloyd<span>@</span>paris.eng.utsa.edu>](/authors/douglas_r_floyd_dfloyd_at_paris_eng_utsa_edu_)"
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/authors/hughes_at_ah_com_eric_hughes_)"
 
 + 1994-10-06 (Thu, 6 Oct 94 04:07:23 PDT) - [No Subject](/archive/1994/10/b4252ebd937aea190044d8635df2cad7e777c79a1b5a902b64c84e269d0e3c6c) - _Anonymous \<remailer@chaos.bsu.edu\>_
   + 1994-10-06 (Thu, 6 Oct 94 04:57:19 PDT) - data havens and operator protection - _hughes@ah.com (Eric Hughes)_

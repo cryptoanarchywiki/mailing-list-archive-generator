@@ -79,7 +79,7 @@ stake.
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-01-16 (Sat, 17 Jan 1998 07:07:50 +0800) - Re: Sun to fight MS w/ new workstations [CNN] (fwd) - _Jim Choate \<ravage@ssz.com\>_
 

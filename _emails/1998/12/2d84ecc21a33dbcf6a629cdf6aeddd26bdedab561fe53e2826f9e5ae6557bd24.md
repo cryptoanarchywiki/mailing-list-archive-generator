@@ -255,7 +255,7 @@ E.Mail: anali@slt.lk
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[anali <anali<span>@</span>slt.lk>](/author/anali_anali_at_slt_lk_)"
++ Return to "[anali <anali<span>@</span>slt.lk>](/authors/anali_anali_at_slt_lk_)"
 
 + 1998-12-30 (Thu, 31 Dec 1998 00:25:37 +0800) - Happy New Year 1999 - Export Trade - _anali \<anali@slt.lk\>_
 

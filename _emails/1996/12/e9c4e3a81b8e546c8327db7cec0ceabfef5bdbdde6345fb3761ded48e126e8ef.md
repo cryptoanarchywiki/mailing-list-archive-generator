@@ -94,7 +94,7 @@ Dated: December 6, 1996.
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1996-12-20 (Fri, 20 Dec 1996 11:39:51 -0800 (PST)) - BXA Crypto Meeting - _John Young \<jya@pipeline.com\>_
 

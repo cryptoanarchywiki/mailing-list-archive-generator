@@ -48,8 +48,8 @@ unicorn@schloss.li
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/authors/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1996-10-08 (Wed, 9 Oct 1996 07:09:03 +0800) - [NOC_ase](/archive/1996/10/297991a4b1310a659a6cc26ced9d61c27db174db89c53fe6bf3db3200df1e525) - _John Young \<jya@pipeline.com\>_
   + 1996-10-09 (Wed, 9 Oct 1996 12:40:17 +0800) - Offshore Group... - _Black Unicorn \<unicorn@schloss.li\>_

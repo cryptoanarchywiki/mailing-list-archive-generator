@@ -61,7 +61,7 @@ something next to a quarter.
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Sean Roach <roach_s<span>@</span>alph.swosu.edu>](/author/sean_roach_roach_s_at_alph_swosu_edu_)"
++ Return to "[Sean Roach <roach_s<span>@</span>alph.swosu.edu>](/authors/sean_roach_roach_s_at_alph_swosu_edu_)"
 
 + 1997-09-17 (Thu, 18 Sep 1997 05:31:18 +0800) - Re: Telephone bugging devices - _Sean Roach \<roach_s@alph.swosu.edu\>_
 

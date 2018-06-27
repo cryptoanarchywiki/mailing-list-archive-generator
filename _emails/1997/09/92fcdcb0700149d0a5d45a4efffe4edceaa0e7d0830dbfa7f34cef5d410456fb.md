@@ -90,8 +90,8 @@ and accept Ecash.
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
-+ Return to "["Robert A. Costner" <pooh<span>@</span>efga.org>](/author/robert_a_costner_pooh_at_efga_org_)"
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/authors/anonymous_anon_at_anon_efga_org_)"
++ Return to "["Robert A. Costner" <pooh<span>@</span>efga.org>](/authors/robert_a_costner_pooh_at_efga_org_)"
 
 + 1997-09-28 (Sun, 28 Sep 1997 08:03:30 +0800) - [Re: Remailer Attack](/archive/1997/09/cfb5c29d3aac12715d8930c86567b5f1bcded57a740e3e0eafb89772333923a1) - _Anonymous \<anon@anon.efga.org\>_
   + 1997-09-28 (Sun, 28 Sep 1997 10:10:40 +0800) - Re: Remailer Attack - _"Robert A. Costner" \<pooh@efga.org\>_

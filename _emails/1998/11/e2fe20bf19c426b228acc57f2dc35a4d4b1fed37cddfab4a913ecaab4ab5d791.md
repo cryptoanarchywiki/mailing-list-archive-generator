@@ -136,7 +136,7 @@ charges against the men stemmed from the June 26 e-mail.
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[Matthew James Gering <mgering<span>@</span>ecosystems.net>](/author/matthew_james_gering_mgering_at_ecosystems_net_)"
++ Return to "[Matthew James Gering <mgering<span>@</span>ecosystems.net>](/authors/matthew_james_gering_mgering_at_ecosystems_net_)"
 
 + 1998-11-03 (Tue, 3 Nov 1998 08:36:30 +0800) - RE: Bic-Assassins Convicted - _Matthew James Gering \<mgering@ecosystems.net\>_
 

@@ -200,7 +200,7 @@ Higher Power: 2^1398269     | black markets, collapse of governments.
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[tcmay<span>@</span>got.net (Tim May)](/author/tcmay_at_got_net_tim_may_)"
++ Return to "[tcmay<span>@</span>got.net (Tim May)](/authors/tcmay_at_got_net_tim_may_)"
 
 + _Unknown thread root_
   + 1997-05-01 (Fri, 2 May 1997 01:17:20 +0800) - CDT Flash:   SADE Bill -- "Hold a belief, go to prison" - _tcmay@got.net (Tim May)_

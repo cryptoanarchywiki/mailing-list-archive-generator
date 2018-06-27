@@ -134,7 +134,7 @@ The e$ Home Page: http://www.shipwright.com/
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/authors/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-05-27 (Wed, 28 May 1997 06:33:56 +0800) - New Hampshire INTERNET SIG Meeting, Tuesday, June 3, 1997 - _Robert Hettinga \<rah@shipwright.com\>_
 

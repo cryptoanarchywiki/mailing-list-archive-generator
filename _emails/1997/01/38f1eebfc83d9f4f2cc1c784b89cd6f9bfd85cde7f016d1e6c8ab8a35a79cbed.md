@@ -46,7 +46,7 @@ homosexual lover.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Huge Cajones Remailer <nobody<span>@</span>huge.cajones.com>](/author/huge_cajones_remailer_nobody_at_huge_cajones_com_)"
++ Return to "[Huge Cajones Remailer <nobody<span>@</span>huge.cajones.com>](/authors/huge_cajones_remailer_nobody_at_huge_cajones_com_)"
 
 + 1997-01-27 (Mon, 27 Jan 1997 14:11:21 -0800 (PST)) - Re: Shave the Whales - _Huge Cajones Remailer \<nobody@huge.cajones.com\>_
 

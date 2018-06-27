@@ -102,7 +102,7 @@ frogfarm@yakko.cs.wmich.edu   free market anarchist, natural law advocate,
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[Damaged Justice <frogfarm<span>@</span>yakko.cs.wmich.edu>](/author/damaged_justice_frogfarm_at_yakko_cs_wmich_edu_)"
++ Return to "[Damaged Justice <frogfarm<span>@</span>yakko.cs.wmich.edu>](/authors/damaged_justice_frogfarm_at_yakko_cs_wmich_edu_)"
 
 + 1996-04-22 (Mon, 22 Apr 1996 08:22:51 +0800) - (fwd) Important new web site discusses risks of loss of domain names - _Damaged Justice \<frogfarm@yakko.cs.wmich.edu\>_
 

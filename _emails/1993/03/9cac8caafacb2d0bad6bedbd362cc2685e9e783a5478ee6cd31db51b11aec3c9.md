@@ -59,8 +59,8 @@ On Wed, 3 Mar 1993, Peter & wrote:
 
 + Return to [March 1993](/archive/1993/03)
 
-+ Return to "[Nickey MacDonald <i6t4<span>@</span>jupiter.sun.csd.unb.ca>](/author/nickey_macdonald_i6t4_at_jupiter_sun_csd_unb_ca_)"
-+ Return to "[Peter & <shipley<span>@</span>merde.dis.org>](/author/peter__shipley_at_merde_dis_org_)"
++ Return to "[Nickey MacDonald <i6t4<span>@</span>jupiter.sun.csd.unb.ca>](/authors/nickey_macdonald_i6t4_at_jupiter_sun_csd_unb_ca_)"
++ Return to "[Peter & <shipley<span>@</span>merde.dis.org>](/authors/peter__shipley_at_merde_dis_org_)"
 
 + 1993-03-04 (Wed, 3 Mar 93 18:13:48 PST) - [a /etc/magic for the unix file command](/archive/1993/03/c09d6ab4e089abf7b7dfef0504c7ed4b307bbf5a82d6c2dae6ec83a9a46d14d0) - _Peter & \<shipley@merde.dis.org\>_
   + 1993-03-04 (Wed, 3 Mar 93 18:58:53 PST) - Re: a /etc/magic for the unix file command - _Nickey MacDonald \<i6t4@jupiter.sun.csd.unb.ca\>_

@@ -116,8 +116,8 @@ C:.M:.C:., D:.O:.D:.
 
 + Return to [June 1994](/archive/1994/06)
 
-+ Return to "[grendel<span>@</span>netaxs.com (Michael Handler)](/author/grendel_at_netaxs_com_michael_handler_)"
-+ Return to "[lefty<span>@</span>apple.com (Lefty)](/author/lefty_at_apple_com_lefty_)"
++ Return to "[grendel<span>@</span>netaxs.com (Michael Handler)](/authors/grendel_at_netaxs_com_michael_handler_)"
++ Return to "[lefty<span>@</span>apple.com (Lefty)](/authors/lefty_at_apple_com_lefty_)"
 
 + 1994-06-02 (Thu, 2 Jun 94 16:23:13 PDT) - HACK - U HAVE NO PRIVACY - _lefty@apple.com (Lefty)_
   + 1994-06-02 (Thu, 2 Jun 94 16:44:30 PDT) - [Re: HACK - U HAVE NO PRIVACY](/archive/1994/06/3c4a2dc2302ebcb7ada5a659120758ce462fcaf89132597bc39d8d048bb65fc4) - _grendel@netaxs.com (Michael Handler)_

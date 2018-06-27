@@ -75,8 +75,8 @@ Boston, MA 02313 USA                    snakes." -- Bertrand Russell
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "["Perry E. Metzger" <perry<span>@</span>snark.imsi.com>](/author/perry_e_metzger_perry_at_snark_imsi_com_)"
-+ Return to "[rah<span>@</span>TIAC.net (Robert Hettinga, Shipwright Development Corp.)](/author/rah_at_tiac_net_robert_hettinga_shipwright_development_corp_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>snark.imsi.com>](/authors/perry_e_metzger_perry_at_snark_imsi_com_)"
++ Return to "[rah<span>@</span>TIAC.net (Robert Hettinga, Shipwright Development Corp.)](/authors/rah_at_tiac_net_robert_hettinga_shipwright_development_corp_)"
 
 + 1994-05-03 (Tue, 3 May 94 12:31:55 PDT) - Re:  Digital Cash - _rah@TIAC.net (Robert Hettinga, Shipwright Development Corp.)_
   + 1994-05-03 (Tue, 3 May 94 15:40:47 PDT) - [Re: Digital Cash](/archive/1994/05/f2a3ebdc1c800994da9fc12e160c579a60c37962e7ae6b4d41575ae162862374) - _"Perry E. Metzger" \<perry@snark.imsi.com\>_

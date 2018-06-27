@@ -55,7 +55,7 @@ interest.  Is this possible, even if it's more work?
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/authors/dale_thorn_dthorn_at_gte_net_)"
 
 + _Unknown thread root_
   + 1996-12-22 (Sun, 22 Dec 1996 10:29:47 -0800 (PST)) - Re: DES implementation in C - _Dale Thorn \<dthorn@gte.net\>_

@@ -53,7 +53,7 @@ Seth
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[Seth Oestreicher <setho<span>@</span>westnet.com>](/author/seth_oestreicher_setho_at_westnet_com_)"
++ Return to "[Seth Oestreicher <setho<span>@</span>westnet.com>](/authors/seth_oestreicher_setho_at_westnet_com_)"
 
 + 1996-07-29 (Mon, 29 Jul 1996 08:56:52 +0800) - Re: Feinstein wants controls on Internet, Books - _Seth Oestreicher \<setho@westnet.com\>_
 

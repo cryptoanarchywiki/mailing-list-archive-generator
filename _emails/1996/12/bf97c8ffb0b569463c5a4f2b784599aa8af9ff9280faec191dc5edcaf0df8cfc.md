@@ -68,7 +68,7 @@ getting that compile-once/run-anywhere ability for quite awhile.
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/author/adamsc_at_ioonline_com_adamsc_)"
++ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/authors/adamsc_at_ioonline_com_adamsc_)"
 
 + 1996-12-07 (Fri, 6 Dec 1996 17:23:35 -0800 (PST)) - Re: Decline of Science ?? (Was: Stinger Specs) - _Adamsc@io-online.com (Adamsc)_
 

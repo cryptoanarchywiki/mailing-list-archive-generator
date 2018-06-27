@@ -69,8 +69,8 @@ Just be thankful that Microsoft does not manufacture pharmaceuticals.
 
 + Return to [April 1998](/archive/1998/04)
 
-+ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/authors/adam_shostack_adam_at_homeport_org_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1998-04-10 (Thu, 9 Apr 1998 17:17:42 -0700 (PDT)) - [Secure Cell Phones for State](/archive/1998/04/6413688463921c606f81f1084ac9272761283bbce49d871fd31d99afe38fca59) - _John Young \<jya@pipeline.com\>_
   + 1998-04-10 (Fri, 10 Apr 1998 05:43:47 -0700 (PDT)) - Re: Secure Cell Phones for State - _Adam Shostack \<adam@homeport.org\>_

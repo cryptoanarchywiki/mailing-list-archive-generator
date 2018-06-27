@@ -53,8 +53,8 @@ All the best,
 
 + Return to [October 1992](/archive/1992/10)
 
-+ Return to "[marc<span>@</span>kg6kf.ampr.org (Marc de Groot - KG6KF)](/author/marc_at_kg6kf_ampr_org_marc_de_groot__kg6kf_)"
-+ Return to "[Peter Shipley <shipley<span>@</span>tfs.COM>](/author/peter_shipley_shipley_at_tfs_com_)"
++ Return to "[marc<span>@</span>kg6kf.ampr.org (Marc de Groot - KG6KF)](/authors/marc_at_kg6kf_ampr_org_marc_de_groot__kg6kf_)"
++ Return to "[Peter Shipley <shipley<span>@</span>tfs.COM>](/authors/peter_shipley_shipley_at_tfs_com_)"
 
 + 1992-10-26 (Mon, 26 Oct 92 03:44:55 PPE) - Re: Alpha Particles and One Time Pads - _marc@kg6kf.ampr.org (Marc de Groot - KG6KF)_
   + 1992-10-26 (Mon, 26 Oct 92 12:13:42 PPE) - [Re: Alpha Particles and One Time Pads](/archive/1992/10/96f4cccc3f7dcec3807398d9e17c2ea77516a4daa35cb38c9570bec1fea0481d) - _Peter Shipley \<shipley@tfs.COM\>_

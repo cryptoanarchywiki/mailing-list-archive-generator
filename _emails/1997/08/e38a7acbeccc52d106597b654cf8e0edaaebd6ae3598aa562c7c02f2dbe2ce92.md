@@ -67,7 +67,7 @@ been a few firms like TIS that have developed it for its own sake.
 
 + Return to [August 1997](/archive/1997/08)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1997-08-01 (Fri, 1 Aug 1997 15:46:48 +0800) - Dorothy Denning changes Escrow position - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

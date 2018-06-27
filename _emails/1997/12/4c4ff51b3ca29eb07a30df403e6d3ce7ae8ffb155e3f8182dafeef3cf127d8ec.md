@@ -59,8 +59,8 @@ Graham-John Bullers                      Moderator of alt.2600.moderated
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
-+ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/author/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/authors/anonymous_anon_at_anon_efga_org_)"
++ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/authors/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
 
 + 1997-12-14 (Sun, 14 Dec 1997 14:51:56 +0800) - [No Subject](/archive/1997/12/d9bf548ddd791952e1ce8d8029457f800b8bef665fd7369f29f5cb53dfc6d1e9) - _Anonymous \<anon@anon.efga.org\>_
   + 1997-12-15 (Tue, 16 Dec 1997 04:54:10 +0800) - Re: your mail - _Graham-John Bullers \<real@freenet.edmonton.ab.ca\>_

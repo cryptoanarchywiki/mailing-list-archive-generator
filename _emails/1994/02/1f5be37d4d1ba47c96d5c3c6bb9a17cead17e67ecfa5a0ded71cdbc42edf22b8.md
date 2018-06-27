@@ -48,9 +48,9 @@ numbers as pen registers.
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[Eric Blossom <eb<span>@</span>mwmax.sr.hp.com>](/author/eric_blossom_eb_at_mwmax_sr_hp_com_)"
-+ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
-+ Return to "[Jonathan Scott Mallin <jmallin<span>@</span>umich.edu>](/author/jonathan_scott_mallin_jmallin_at_umich_edu_)"
++ Return to "[Eric Blossom <eb<span>@</span>mwmax.sr.hp.com>](/authors/eric_blossom_eb_at_mwmax_sr_hp_com_)"
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/authors/hal_hfinney_at_shell_portal_com_)"
++ Return to "[Jonathan Scott Mallin <jmallin<span>@</span>umich.edu>](/authors/jonathan_scott_mallin_jmallin_at_umich_edu_)"
 
 + 1994-02-17 (Wed, 16 Feb 94 21:40:28 PST) - [Pen recorders and phone records](/archive/1994/02/e71638199720de07e92a1a07351fd5e94b23b975f3592f5e35b10cf00d6a6dc5) - _Hal \<hfinney@shell.portal.com\>_
   + 1994-02-17 (Thu, 17 Feb 94 06:45:23 PST) - Re: Pen recorders and phone records - _Jonathan Scott Mallin \<jmallin@umich.edu\>_

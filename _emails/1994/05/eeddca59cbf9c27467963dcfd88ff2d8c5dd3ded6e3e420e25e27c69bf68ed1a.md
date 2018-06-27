@@ -50,7 +50,7 @@ been fixed, and if you could try again, I would be thankful.
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[nate<span>@</span>VIS.ColoState.EDU (CVL staff member Nate Sammons)](/author/nate_at_vis_colostate_edu_cvl_staff_member_nate_sammons_)"
++ Return to "[nate<span>@</span>VIS.ColoState.EDU (CVL staff member Nate Sammons)](/authors/nate_at_vis_colostate_edu_cvl_staff_member_nate_sammons_)"
 
 + 1994-05-14 (Sat, 14 May 94 11:28:05 PDT) - email server problem - _nate@VIS.ColoState.EDU (CVL staff member Nate Sammons)_
 

@@ -57,8 +57,8 @@ never have caught him.  This is why we need GAK!"
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/author/adamsc_at_ioonline_com_adamsc_)"
-+ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
++ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/authors/adamsc_at_ioonline_com_adamsc_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/authors/timothy_c_may_tcmay_at_got_net_)"
 
 + 1996-11-21 (Wed, 20 Nov 1996 19:39:27 -0800 (PST)) - Re: U.S. CIA employee caught spying - _Adamsc@io-online.com (Adamsc)_
   + 1996-11-21 (Thu, 21 Nov 1996 00:15:57 -0800 (PST)) - [Better ways to spy](/archive/1996/11/f843873ec383bd3d38dccedd4dc4edd25fc3d0459dd88b3687f4992758f2942f) - _"Timothy C. May" \<tcmay@got.net\>_

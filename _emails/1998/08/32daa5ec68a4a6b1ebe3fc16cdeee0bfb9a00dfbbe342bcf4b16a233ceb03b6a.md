@@ -45,7 +45,7 @@ ltisue@aol.com
 
 + Return to [August 1998](/archive/1998/08)
 
-+ Return to "[Ltisue<span>@</span>aol.com](/author/ltisue_at_aol_com)"
++ Return to "[Ltisue<span>@</span>aol.com](/authors/ltisue_at_aol_com)"
 
 + 1998-08-18 (Tue, 18 Aug 1998 12:28:34 -0700 (PDT)) - email travel information - _Ltisue@aol.com_
 

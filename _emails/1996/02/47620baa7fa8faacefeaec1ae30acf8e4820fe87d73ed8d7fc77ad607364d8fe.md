@@ -86,7 +86,7 @@ Forwarded message:
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[lmccarth<span>@</span>cs.umass.edu](/author/lmccarth_at_cs_umass_edu)"
++ Return to "[lmccarth<span>@</span>cs.umass.edu](/authors/lmccarth_at_cs_umass_edu)"
 
 + 1996-02-07 (Wed, 7 Feb 1996 20:25:05 +0800) - Re: has this been on cypherpunks? (fwd) - _lmccarth@cs.umass.edu_
 

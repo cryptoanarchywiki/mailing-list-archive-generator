@@ -53,7 +53,7 @@ Jim_Miller@suite.com
 
 + Return to [November 1993](/archive/1993/11)
 
-+ Return to "[jim<span>@</span>bilbo.suite.com (Jim Miller)](/author/jim_at_bilbo_suite_com_jim_miller_)"
++ Return to "[jim<span>@</span>bilbo.suite.com (Jim Miller)](/authors/jim_at_bilbo_suite_com_jim_miller_)"
 
 + 1993-11-03 (Wed, 3 Nov 93 13:32:21 PST) - Re: WARNING: direct-marketing email address list - _jim@bilbo.suite.com (Jim Miller)_
 

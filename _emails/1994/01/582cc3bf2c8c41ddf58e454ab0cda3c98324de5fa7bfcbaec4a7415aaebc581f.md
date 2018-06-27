@@ -52,7 +52,7 @@ Content-Type: text/plain
 
 + Return to [January 1994](/archive/1994/01)
 
-+ Return to "[drzaphod<span>@</span>brewmeister.xstablu.com (DrZaphod)](/author/drzaphod_at_brewmeister_xstablu_com_drzaphod_)"
++ Return to "[drzaphod<span>@</span>brewmeister.xstablu.com (DrZaphod)](/authors/drzaphod_at_brewmeister_xstablu_com_drzaphod_)"
 
 + _Unknown thread root_
   + 1994-01-18 (Tue, 18 Jan 94 10:46:23 PST) - Re: RETURNED MAIL, ANYBODY? - _drzaphod@brewmeister.xstablu.com (DrZaphod)_

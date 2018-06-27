@@ -62,7 +62,7 @@ jimbell@pacifier.com
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-09-26 (Thu, 26 Sep 1996 15:45:25 +0800) - Re: Mitsubishi MISTY LSI - _jim bell \<jimbell@pacifier.com\>_
 

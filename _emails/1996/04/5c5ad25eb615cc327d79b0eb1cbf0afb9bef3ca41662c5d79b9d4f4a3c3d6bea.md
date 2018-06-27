@@ -72,7 +72,7 @@ lGCoDjdIKg8=
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
 
 + 1996-04-28 (Mon, 29 Apr 1996 05:05:41 +0800) - Re: WWW Proxies? - _"Mark M." \<markm@voicenet.com\>_
 

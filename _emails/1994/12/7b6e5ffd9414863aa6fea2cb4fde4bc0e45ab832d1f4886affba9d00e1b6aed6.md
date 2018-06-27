@@ -69,8 +69,8 @@ RemailerOp, which appearantly isn't clear to many people currently.
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
-+ Return to "[jrochkin<span>@</span>cs.oberlin.edu (Jonathan Rochkind)](/author/jrochkin_at_cs_oberlin_edu_jonathan_rochkind_)"
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/authors/hal_hfinney_at_shell_portal_com_)"
++ Return to "[jrochkin<span>@</span>cs.oberlin.edu (Jonathan Rochkind)](/authors/jrochkin_at_cs_oberlin_edu_jonathan_rochkind_)"
 
 + 1994-12-12 (Mon, 12 Dec 94 10:56:08 PST) - Re: Misunderstanding of Remail Headers - _jrochkin@cs.oberlin.edu (Jonathan Rochkind)_
   + 1994-12-12 (Mon, 12 Dec 94 12:40:29 PST) - [Re: Misunderstanding of Remail Headers](/archive/1994/12/fc3a24664acac622006fdbfcba31d83f35cd6428e4fd37757beb60c51731ef36) - _Hal \<hfinney@shell.portal.com\>_

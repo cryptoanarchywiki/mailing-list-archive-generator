@@ -60,7 +60,7 @@ not be a public-key cryptosystem.  Thus:
 
 + Return to [May 1993](/archive/1993/05)
 
-+ Return to "[meyer <wixer!wixer.bga.com!meyer<span>@</span>cactus.org>](/author/meyer_wixerwixer_bga_commeyer_at_cactus_org_)"
++ Return to "[meyer <wixer!wixer.bga.com!meyer<span>@</span>cactus.org>](/authors/meyer_wixerwixer_bga_commeyer_at_cactus_org_)"
 
 + 1993-05-24 (Mon, 24 May 93 05:42:30 PDT) - FAQ - _meyer \<wixer!wixer.bga.com!meyer@cactus.org\>_
 

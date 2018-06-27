@@ -64,7 +64,7 @@ follows immediately.
 
 + Return to [August 1993](/archive/1993/08)
 
-+ Return to "[emv<span>@</span>mail.msen.com (Edward Vielmetti)](/author/emv_at_mail_msen_com_edward_vielmetti_)"
++ Return to "[emv<span>@</span>mail.msen.com (Edward Vielmetti)](/authors/emv_at_mail_msen_com_edward_vielmetti_)"
 
 + 1993-08-22 (Sat, 21 Aug 93 18:21:50 PDT) - (fwd) [prodigy] Am-prodigy correction - _emv@mail.msen.com (Edward Vielmetti)_
 

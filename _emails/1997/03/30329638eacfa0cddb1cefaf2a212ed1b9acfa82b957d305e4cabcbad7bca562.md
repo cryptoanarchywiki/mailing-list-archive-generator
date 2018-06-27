@@ -49,8 +49,8 @@ fetal cranium (not much to begin with).
 
 + Return to [March 1997](/archive/1997/03)
 
-+ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/author/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
-+ Return to "[lucifer<span>@</span>dhp.com (lucifer Anonymous Remailer)](/author/lucifer_at_dhp_com_lucifer_anonymous_remailer_)"
++ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/authors/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
++ Return to "[lucifer<span>@</span>dhp.com (lucifer Anonymous Remailer)](/authors/lucifer_at_dhp_com_lucifer_anonymous_remailer_)"
 
 + 1997-03-25 (Mon, 24 Mar 1997 20:08:26 -0800 (PST)) - [IMPORTANT] Forgery detection - _lucifer@dhp.com (lucifer Anonymous Remailer)_
   + 1997-03-25 (Mon, 24 Mar 1997 22:05:31 -0800 (PST)) - [Re: [IMPORTANT] Forgery detection](/archive/1997/03/d3356bcc38603d4424e409309f2d6f415b3473624475d934e9309a4692fe72e0) - _Graham-John Bullers \<real@freenet.edmonton.ab.ca\>_

@@ -63,7 +63,7 @@ Perhaps one of the more versed in case law members might remember it.
 
 + Return to [October 1998](/archive/1998/10)
 
-+ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-10-22 (Thu, 22 Oct 1998 12:23:54 +0800) - Re: Women cannot commit rape? (fwd) - _Jim Choate \<ravage@einstein.ssz.com\>_
 

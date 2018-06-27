@@ -108,7 +108,7 @@ syDfLcUl7ks=
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[jis<span>@</span>mit.edu (Jeffrey I. Schiller)](/author/jis_at_mit_edu_jeffrey_i_schiller_)"
++ Return to "[jis<span>@</span>mit.edu (Jeffrey I. Schiller)](/authors/jis_at_mit_edu_jeffrey_i_schiller_)"
 
 + 1996-01-07 (Mon, 8 Jan 1996 03:58:58 +0800) - New PGPfone Beta Test Available (1.0b5) Still Mac only - _jis@mit.edu (Jeffrey I. Schiller)_
 

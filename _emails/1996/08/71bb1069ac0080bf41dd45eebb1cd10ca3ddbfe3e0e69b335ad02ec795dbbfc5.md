@@ -68,7 +68,7 @@ employees would enforce this.  But you never know!
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "["Elf" <cwalker<span>@</span>erie.net>](/author/elf_cwalker_at_erie_net_)"
++ Return to "["Elf" <cwalker<span>@</span>erie.net>](/authors/elf_cwalker_at_erie_net_)"
 
 + 1996-08-22 (Thu, 22 Aug 1996 16:13:41 +0800) - Re: Husband/Wife jailed for saying Clinton Sucks - _"Elf" \<cwalker@erie.net\>_
 

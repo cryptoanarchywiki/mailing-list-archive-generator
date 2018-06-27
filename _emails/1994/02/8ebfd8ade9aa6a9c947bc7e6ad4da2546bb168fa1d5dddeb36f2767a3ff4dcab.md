@@ -54,8 +54,8 @@ ____        Robert A. Hayden          <=> hayden@krypton.mankato.msus.edu
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[nobody<span>@</span>pmantis.berkeley.edu](/author/nobody_at_pmantis_berkeley_edu)"
-+ Return to "["Robert A. Hayden" <hayden<span>@</span>krypton.mankato.msus.edu>](/author/robert_a_hayden_hayden_at_krypton_mankato_msus_edu_)"
++ Return to "[nobody<span>@</span>pmantis.berkeley.edu](/authors/nobody_at_pmantis_berkeley_edu)"
++ Return to "["Robert A. Hayden" <hayden<span>@</span>krypton.mankato.msus.edu>](/authors/robert_a_hayden_hayden_at_krypton_mankato_msus_edu_)"
 
 + 1994-02-25 (Fri, 25 Feb 94 15:11:32 PST) - [Re: lists of U.S. cypherpunks and Tentacles.](/archive/1994/02/8632d1f76ab0fb34706e7e9e8f786bb761065f2272ffbff9065a7de4b867ed7c) - _nobody@pmantis.berkeley.edu_
   + 1994-02-25 (Fri, 25 Feb 94 15:28:52 PST) - Re: lists of U.S. cypherpunks and Tentacles. - _"Robert A. Hayden" \<hayden@krypton.mankato.msus.edu\>_

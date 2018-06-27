@@ -48,7 +48,7 @@ a random number to set its half-key; a scribble window may be good enough.
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1996-04-22 (Mon, 22 Apr 1996 16:04:28 +0800) - Re: Add-in encryption module to Netscape - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

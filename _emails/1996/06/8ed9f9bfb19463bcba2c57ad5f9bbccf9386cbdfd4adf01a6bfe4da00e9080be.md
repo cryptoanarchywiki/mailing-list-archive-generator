@@ -55,7 +55,7 @@ frantz@netcom.com | worldwide conversation.    | Los Gatos, CA 95032, USA
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/author/frantz_at_netcom_com_bill_frantz_)"
++ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/authors/frantz_at_netcom_com_bill_frantz_)"
 
 + 1996-06-18 (Tue, 18 Jun 1996 10:27:56 +0800) - Re: Remailer Operator Liability? - _frantz@netcom.com (Bill Frantz)_
 

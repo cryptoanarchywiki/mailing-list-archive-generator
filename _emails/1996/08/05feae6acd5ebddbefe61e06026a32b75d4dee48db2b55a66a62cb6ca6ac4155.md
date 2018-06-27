@@ -79,7 +79,7 @@ DCF
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1996-08-29 (Thu, 29 Aug 1996 20:46:39 +0800) - Re: There is no Agent Toby Tyler at the FBI [UK Observer Story] - _Duncan Frissell \<frissell@panix.com\>_
 

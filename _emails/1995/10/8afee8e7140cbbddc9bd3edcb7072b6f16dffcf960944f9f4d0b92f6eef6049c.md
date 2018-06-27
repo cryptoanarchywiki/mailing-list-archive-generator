@@ -57,7 +57,7 @@ improvement.
 
 + Return to [October 1995](/archive/1995/10)
 
-+ Return to "["Rev. Mark Grant" <mark<span>@</span>unicorn.com>](/author/rev_mark_grant_mark_at_unicorn_com_)"
++ Return to "["Rev. Mark Grant" <mark<span>@</span>unicorn.com>](/authors/rev_mark_grant_mark_at_unicorn_com_)"
 
 + 1995-10-27 (Sat, 28 Oct 1995 02:08:35 +0800) - Re: Linux security issues - _"Rev. Mark Grant" \<mark@unicorn.com\>_
 

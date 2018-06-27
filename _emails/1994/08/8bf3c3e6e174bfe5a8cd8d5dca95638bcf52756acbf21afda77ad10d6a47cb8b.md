@@ -75,7 +75,7 @@ he said."
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)](/author/paul_at_hawksbill_sprintmrn_com_paul_ferguson_)"
++ Return to "[paul<span>@</span>hawksbill.sprintmrn.com (Paul Ferguson)](/authors/paul_at_hawksbill_sprintmrn_com_paul_ferguson_)"
 
 + 1994-08-09 (Tue, 9 Aug 94 06:29:20 PDT) - NRO spoof and deception - _paul@hawksbill.sprintmrn.com (Paul Ferguson)_
 

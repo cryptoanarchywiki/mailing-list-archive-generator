@@ -132,7 +132,7 @@ Best regards, Eric
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[everheul<span>@</span>mail.rijnhaave.nl](/author/everheul_at_mail_rijnhaave_nl)"
++ Return to "[everheul<span>@</span>mail.rijnhaave.nl](/authors/everheul_at_mail_rijnhaave_nl)"
 
 + 1996-10-18 (Fri, 18 Oct 1996 03:57:45 -0700 (PDT)) - RE: Binding cryptography - a fraud-detectible alternative to  ke - _everheul@mail.rijnhaave.nl_
 

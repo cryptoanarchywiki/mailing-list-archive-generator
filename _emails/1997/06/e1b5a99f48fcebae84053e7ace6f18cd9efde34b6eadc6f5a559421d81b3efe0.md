@@ -62,8 +62,8 @@ frantz@netcom.com | from hostile governments.  | Los Gatos, CA 95032, USA
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
-+ Return to "["Peter Trei" <trei<span>@</span>process.com>](/author/peter_trei_trei_at_process_com_)"
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/authors/bill_frantz_frantz_at_netcom_com_)"
++ Return to "["Peter Trei" <trei<span>@</span>process.com>](/authors/peter_trei_trei_at_process_com_)"
 
 + 1997-06-03 (Wed, 4 Jun 1997 04:29:10 +0800) - [[OFF-TOPIC] Naming systems...](/archive/1997/06/4265bc1d9d3cc402066db3217b4e7beda663ba675bb227f4638cd5603e255252) - _"Peter Trei" \<trei@process.com\>_
   + 1997-06-04 (Wed, 4 Jun 1997 13:29:31 +0800) - Re: [OFF-TOPIC] Naming systems... - _Bill Frantz \<frantz@netcom.com\>_

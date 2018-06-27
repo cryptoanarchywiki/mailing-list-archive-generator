@@ -55,7 +55,7 @@ jimbell@pacifier.com
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-12-07 (Fri, 6 Dec 1996 18:32:49 -0800 (PST)) - Re: PGP in Russia - _jim bell \<jimbell@pacifier.com\>_
 

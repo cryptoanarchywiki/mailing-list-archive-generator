@@ -53,7 +53,7 @@ Cheers!
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[varange<span>@</span>crl.com (Troy Varange)](/author/varange_at_crl_com_troy_varange_)"
++ Return to "[varange<span>@</span>crl.com (Troy Varange)](/authors/varange_at_crl_com_troy_varange_)"
 
 + 1996-12-08 (Sat, 7 Dec 1996 21:24:34 -0800 (PST)) - wealth and property rights - _varange@crl.com (Troy Varange)_
 

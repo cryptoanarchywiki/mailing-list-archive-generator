@@ -84,7 +84,7 @@ Content-Type: text/plain
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "["CRYPTO" <crypto<span>@</span>nas.edu>](/author/crypto_crypto_at_nas_edu_)"
++ Return to "["CRYPTO" <crypto<span>@</span>nas.edu>](/authors/crypto_crypto_at_nas_edu_)"
 
 + 1996-05-25 (Sat, 25 May 1996 11:45:11 +0800) - Re: the NRC report on National Cryptography Policy - _"CRYPTO" \<crypto@nas.edu\>_
 

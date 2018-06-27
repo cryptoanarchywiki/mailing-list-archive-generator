@@ -72,7 +72,7 @@ jimbell@pacifier.com
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-05-11 (Sat, 11 May 1996 14:25:45 +0800) - Re: Edited Edupage, 9 May 1996 - _jim bell \<jimbell@pacifier.com\>_
 

@@ -74,7 +74,7 @@ MasfVZJdFg1M7XmjMEZZ2lEW1eecjm0U
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "["L. McCarthy" <lmccarth<span>@</span>ducie.cs.umass.edu>](/author/l_mccarthy_lmccarth_at_ducie_cs_umass_edu_)"
++ Return to "["L. McCarthy" <lmccarth<span>@</span>ducie.cs.umass.edu>](/authors/l_mccarthy_lmccarth_at_ducie_cs_umass_edu_)"
 
 + 1994-12-11 (Sun, 11 Dec 94 02:08:18 PST) - Re: manual processing of big list messages - _"L. McCarthy" \<lmccarth@ducie.cs.umass.edu\>_
 

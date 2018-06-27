@@ -128,10 +128,10 @@ Maybe I'm just being dense.
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[Deranged Mutant <rrothenb<span>@</span>ic.sunysb.edu>](/author/deranged_mutant_rrothenb_at_ic_sunysb_edu_)"
-+ Return to "[Jim Gillogly <jim<span>@</span>rand.org>](/author/jim_gillogly_jim_at_rand_org_)"
-+ Return to "[m5<span>@</span>dev.tivoli.com (Mike McNally)](/author/m5_at_dev_tivoli_com_mike_mcnally_)"
-+ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
++ Return to "[Deranged Mutant <rrothenb<span>@</span>ic.sunysb.edu>](/authors/deranged_mutant_rrothenb_at_ic_sunysb_edu_)"
++ Return to "[Jim Gillogly <jim<span>@</span>rand.org>](/authors/jim_gillogly_jim_at_rand_org_)"
++ Return to "[m5<span>@</span>dev.tivoli.com (Mike McNally)](/authors/m5_at_dev_tivoli_com_mike_mcnally_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/authors/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1995-09-05 (Tue, 5 Sep 95 13:54:02 PDT) - [Another Son of Clipper discussion paper](/archive/1995/09/32142df791f8c5b949547b1276a32eceb4687a87f28e668e19cc2fe6f878f875) - _Jim Gillogly \<jim@rand.org\>_
   + 1995-09-05 (Tue, 5 Sep 95 14:37:28 PDT) - Another Son of Clipper discussion paper - _m5@dev.tivoli.com (Mike McNally)_

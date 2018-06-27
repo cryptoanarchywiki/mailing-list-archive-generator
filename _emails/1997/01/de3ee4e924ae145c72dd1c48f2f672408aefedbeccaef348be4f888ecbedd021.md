@@ -63,9 +63,9 @@ On Sun, 26 Jan 1997, Dr.Dimitri Vulis KOTM wrote:
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
-+ Return to "[Nurdane Oksas <oksas<span>@</span>asimov.montclair.edu>](/author/nurdane_oksas_oksas_at_asimov_montclair_edu_)"
-+ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Nurdane Oksas <oksas<span>@</span>asimov.montclair.edu>](/authors/nurdane_oksas_oksas_at_asimov_montclair_edu_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/authors/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-01-26 (Sat, 25 Jan 1997 22:56:07 -0800 (PST)) - [Re: Rejection policy of the Cypherpunks mailing list](/archive/1997/01/81fe6d02797876bc591f1293420db7ff84ecd04bbbe0f72b6ad0250286a28a0b) - _Toto \<toto@sk.sympatico.ca\>_
   + 1997-01-26 (Sun, 26 Jan 1997 07:41:14 -0800 (PST)) - [Re: Rejection policy of the Cypherpunks mailing list](/archive/1997/01/a227b65039ad926bec4f1900789b47ea0239651ea22c15f918adb17bd4353aec) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

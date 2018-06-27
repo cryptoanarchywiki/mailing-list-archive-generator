@@ -94,8 +94,8 @@ stevenw@best.com                   |     3. Express what others cannot
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[Mike McNally <m5<span>@</span>vail.tivoli.com>](/author/mike_mcnally_m5_at_vail_tivoli_com_)"
-+ Return to "[stevenw<span>@</span>best.com (Steven Weller)](/author/stevenw_at_best_com_steven_weller_)"
++ Return to "[Mike McNally <m5<span>@</span>vail.tivoli.com>](/authors/mike_mcnally_m5_at_vail_tivoli_com_)"
++ Return to "[stevenw<span>@</span>best.com (Steven Weller)](/authors/stevenw_at_best_com_steven_weller_)"
 
 + 1996-04-10 (Thu, 11 Apr 1996 01:08:37 +0800) - RISKS: Social Security (sic) Administration fraud - _stevenw@best.com (Steven Weller)_
   + 1996-04-10 (Thu, 11 Apr 1996 03:34:22 +0800) - [Re: RISKS: Social Security (sic) Administration fraud](/archive/1996/04/75f2e2541d9745c021e207dd5755c19622cd4cf6b6e2f09fceaaa88587ec90f8) - _Mike McNally \<m5@vail.tivoli.com\>_

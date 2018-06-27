@@ -114,7 +114,7 @@ V.P. Marketing
 
 + Return to [July 1998](/archive/1998/07)
 
-+ Return to "[Marketing<span>@</span>departs.co.il (Marketing Dept.)](/author/marketing_at_departs_co_il_marketing_dept_)"
++ Return to "[Marketing<span>@</span>departs.co.il (Marketing Dept.)](/authors/marketing_at_departs_co_il_marketing_dept_)"
 
 + 1998-07-21 (Mon, 20 Jul 1998 17:44:05 -0700 (PDT)) - De'Parts - The Parts locating highway... - _Marketing@departs.co.il (Marketing Dept.)_
 

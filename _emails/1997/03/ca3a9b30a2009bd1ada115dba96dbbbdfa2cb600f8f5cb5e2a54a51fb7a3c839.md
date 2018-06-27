@@ -450,7 +450,7 @@ Chapter 21 - All The Marbles
 
 + Return to [March 1997](/archive/1997/03)
 
-+ Return to "[Bubba Rom Dos <bubba<span>@</span>dev.null>](/author/bubba_rom_dos_bubba_at_dev_null_)"
++ Return to "[Bubba Rom Dos <bubba<span>@</span>dev.null>](/authors/bubba_rom_dos_bubba_at_dev_null_)"
 
 + 1997-03-30 (Sun, 30 Mar 1997 15:14:34 -0800 (PST)) - WebWorld 21 - _Bubba Rom Dos \<bubba@dev.null\>_
 

@@ -74,8 +74,8 @@ By Tuesday, when Cindy Cohn sticks her head in the beast's mouth.
 
 + Return to [March 1998](/archive/1998/03)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
-+ Return to "[TruthMonger <tm<span>@</span>dev.null>](/author/truthmonger_tm_at_dev_null_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
++ Return to "[TruthMonger <tm<span>@</span>dev.null>](/authors/truthmonger_tm_at_dev_null_)"
 
 + 1998-03-14 (Sat, 14 Mar 1998 15:50:49 -0800 (PST)) - Re: time to export RSA and demand to be prosecuted? (Re: Cypherpunks Crypto_Legal Assistance Fund) - _John Young \<jya@pipeline.com\>_
   + 1998-03-15 (Sat, 14 Mar 1998 18:22:48 -0800 (PST)) - [Re: time to export RSA and demand to be prosecuted? (Re:Cypherpunks Crypto_Legal Assistance Fund)](/archive/1998/03/43be8a5d0d31b0796e63cd76c537c951d93891b19e9a9852a89ef31440eb282e) - _TruthMonger \<tm@dev.null\>_

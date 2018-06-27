@@ -65,7 +65,7 @@ DCF
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1996-07-24 (Wed, 24 Jul 1996 18:14:55 +0800) - Re: [Noise] Hettinga Sees Colors... - _Duncan Frissell \<frissell@panix.com\>_
 

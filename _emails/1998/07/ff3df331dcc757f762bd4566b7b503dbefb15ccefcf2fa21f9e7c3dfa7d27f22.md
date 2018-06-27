@@ -659,7 +659,7 @@ LUVORCBQR1AgTUVTU0FHRS0tLS0tDQo=
 
 + Return to [July 1998](/archive/1998/07)
 
-+ Return to "[toto<span>@</span>fhouse.org](/author/toto_at_fhouse_org)"
++ Return to "[toto<span>@</span>fhouse.org](/authors/toto_at_fhouse_org)"
 
 + 1998-07-31 (Fri, 31 Jul 1998 08:05:01 -0700 (PDT)) - TOP TEN1 / .hfx / PASSWORD: ultimatesecurity - _toto@fhouse.org_
 

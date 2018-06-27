@@ -80,7 +80,7 @@ Dope dealers
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1993-10-18 (Mon, 18 Oct 93 06:32:14 PDT) - What, Me Worry? - _Duncan Frissell \<frissell@panix.com\>_
 

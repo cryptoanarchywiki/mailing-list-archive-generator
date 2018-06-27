@@ -50,9 +50,9 @@ Chuck (nonthinker)
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[Charles Lewton <clewton<span>@</span>netcom.com>](/author/charles_lewton_clewton_at_netcom_com_)"
-+ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
-+ Return to "[weinberg<span>@</span>accessus.net (WThinker)](/author/weinberg_at_accessus_net_wthinker_)"
++ Return to "[Charles Lewton <clewton<span>@</span>netcom.com>](/authors/charles_lewton_clewton_at_netcom_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/authors/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[weinberg<span>@</span>accessus.net (WThinker)](/authors/weinberg_at_accessus_net_wthinker_)"
 
 + 1996-03-22 (Fri, 22 Mar 1996 22:39:50 +0800) - [LET'S ROCK!!!!](/archive/1996/03/897b3d5f726ec319f7fa89ed8c8f17aaea206883e601fa83e0874ec1ce381605) - _weinberg@accessus.net (WThinker)_
   + 1996-03-22 (Sat, 23 Mar 1996 01:54:29 +0800) - Re: LET'S ROCK!!!! - _Charles Lewton \<clewton@netcom.com\>_

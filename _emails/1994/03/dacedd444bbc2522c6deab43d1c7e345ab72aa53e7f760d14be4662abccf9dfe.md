@@ -46,7 +46,7 @@ and currently its unknown...
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[nobody<span>@</span>jarthur.claremont.edu](/author/nobody_at_jarthur_claremont_edu)"
++ Return to "[nobody<span>@</span>jarthur.claremont.edu](/authors/nobody_at_jarthur_claremont_edu)"
 
 + 1994-03-01 (Tue, 1 Mar 94 11:50:16 PST) - No Subject - _nobody@jarthur.claremont.edu_
 

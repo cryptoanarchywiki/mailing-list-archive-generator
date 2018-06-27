@@ -42,8 +42,8 @@ jpb@gate.net
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[Joseph Block <jpb<span>@</span>gate.net>](/author/joseph_block_jpb_at_gate_net_)"
-+ Return to "[sw<span>@</span>tiac.net (Steve Witham)](/author/sw_at_tiac_net_steve_witham_)"
++ Return to "[Joseph Block <jpb<span>@</span>gate.net>](/authors/joseph_block_jpb_at_gate_net_)"
++ Return to "[sw<span>@</span>tiac.net (Steve Witham)](/authors/sw_at_tiac_net_steve_witham_)"
 
 + 1994-08-29 (Sun, 28 Aug 94 21:34:23 PDT) - [Sendmail & POP for PCs & Macs w/TCP?](/archive/1994/08/391f215e254f24d2ae0785d37eeed33edbd83115cb73ed265aaa38979a502309) - _sw@tiac.net (Steve Witham)_
   + 1994-08-30 (Tue, 30 Aug 94 04:08:35 PDT) - Re: Sendmail & POP for PCs & Macs w/TCP? - _Joseph Block \<jpb@gate.net\>_

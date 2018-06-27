@@ -85,8 +85,8 @@ PGP Fingerprint D454 E202 CBC8 40BF  3C85 B884 0ABE 4639
 
 + Return to [March 1998](/archive/1998/03)
 
-+ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/author/bill_stewart_bill_stewart_at_pobox_com_)"
-+ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
++ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/authors/bill_stewart_bill_stewart_at_pobox_com_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/authors/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1998-03-12 (Wed, 11 Mar 1998 22:58:43 -0800 (PST)) - ANNOUNCE: March Bay Area Cypherpunks Meeting Saturday March 14, 12-6pm - _Bill Stewart \<bill.stewart@pobox.com\>_
   + 1998-03-12 (Thu, 12 Mar 1998 09:15:51 -0800 (PST)) - [Re: ANNOUNCE: March Bay Area Cypherpunks Meeting Saturday March 14, 12-6pm](/archive/1998/03/0f546e69770613b8f5ad4d15c8b1beb6e6ef8b2d40d86cda0144cf495deb9de4) - _Sandy Sandfort \<sandfort@crl.com\>_

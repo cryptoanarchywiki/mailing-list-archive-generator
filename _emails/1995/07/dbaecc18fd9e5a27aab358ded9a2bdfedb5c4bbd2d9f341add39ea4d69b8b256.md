@@ -63,8 +63,8 @@ Karl L. Barrus <klbarrus@infocom.net>
 
 + Return to [July 1995](/archive/1995/07)
 
-+ Return to "[alex <cp<span>@</span>proust.suba.com>](/author/alex_cp_at_proust_suba_com_)"
-+ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/author/anonymousremailer_at_shell_portal_com)"
++ Return to "[alex <cp<span>@</span>proust.suba.com>](/authors/alex_cp_at_proust_suba_com_)"
++ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/authors/anonymousremailer_at_shell_portal_com)"
 
 + 1995-07-16 (Sat, 15 Jul 95 21:04:29 PDT) - re: unix, vanguard - _anonymous-remailer@shell.portal.com_
   + 1995-07-16 (Sat, 15 Jul 95 22:45:21 PDT) - [Re: unix, vanguard](/archive/1995/07/5500d347e7d3fb95719c61a9e0878bf078072beaeabe2ef48d3b99f1194e5e23) - _alex \<cp@proust.suba.com\>_

@@ -78,7 +78,7 @@ he lived in.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1997-01-22 (Tue, 21 Jan 1997 20:42:12 -0800 (PST)) - Nikola Tesla - _Jim Choate \<ravage@einstein.ssz.com\>_
 

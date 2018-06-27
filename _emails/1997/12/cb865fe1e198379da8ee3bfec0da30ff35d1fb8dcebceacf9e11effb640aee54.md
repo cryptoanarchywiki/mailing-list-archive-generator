@@ -65,7 +65,7 @@ Subject:
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[kae28<span>@</span>nims.nec.co.jp](/author/kae28_at_nims_nec_co_jp)"
++ Return to "[kae28<span>@</span>nims.nec.co.jp](/authors/kae28_at_nims_nec_co_jp)"
 
 + 1997-12-28 (Sun, 28 Dec 1997 04:01:07 -0800 (PST)) - XXX ADULT SEX!!! - _kae28@nims.nec.co.jp_
 

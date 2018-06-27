@@ -56,7 +56,7 @@ appeared on the list before the original!)
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[rperkins-remailer<span>@</span>nyx.cs.du.edu](/author/rperkinsremailer_at_nyx_cs_du_edu)"
++ Return to "[rperkins-remailer<span>@</span>nyx.cs.du.edu](/authors/rperkinsremailer_at_nyx_cs_du_edu)"
 
 + 1994-03-11 (Thu, 10 Mar 94 21:37:23 PST) - Delays & random message order? - _rperkins-remailer@nyx.cs.du.edu_
 

@@ -81,7 +81,7 @@ See you there!
 
 + Return to [August 1998](/archive/1998/08)
 
-+ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/authors/john_gilmore_gnu_at_toad_com_)"
 
 + 1998-08-21 (Fri, 21 Aug 1998 07:14:51 -0700 (PDT)) - Announce: SF cypherpolitech dinner, Friday 21 Aug, 6pm: Khan Toke - _John Gilmore \<gnu@toad.com\>_
 

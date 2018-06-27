@@ -68,7 +68,7 @@ End of corporate problem. End of "worry" about problems with PGP.
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[tallpaul<span>@</span>pipeline.com (tallpaul)](/author/tallpaul_at_pipeline_com_tallpaul_)"
++ Return to "[tallpaul<span>@</span>pipeline.com (tallpaul)](/authors/tallpaul_at_pipeline_com_tallpaul_)"
 
 + 1996-02-24 (Sat, 24 Feb 1996 11:52:35 +0800) - Re: TIS--Building in Big Brother for a Better Tommorrow - _tallpaul@pipeline.com (tallpaul)_
 

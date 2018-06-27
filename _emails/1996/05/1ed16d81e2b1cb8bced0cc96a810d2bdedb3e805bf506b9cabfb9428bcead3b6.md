@@ -68,8 +68,8 @@ Bv7xE9WjM5A=
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
-+ Return to "["O. C. Winton WN1Z" <orrin<span>@</span>redshift.com>](/author/o_c_winton_wn1z_orrin_at_redshift_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
++ Return to "["O. C. Winton WN1Z" <orrin<span>@</span>redshift.com>](/authors/o_c_winton_wn1z_orrin_at_redshift_com_)"
 
 + 1996-05-27 (Mon, 27 May 1996 09:06:46 +0800) - [e-mail gateways to usenet](/archive/1996/05/5f96e7a1f5e442fa0de8bc619ab0bbd122ab3a01e97ecee981329f484b287e53) - _"O. C. Winton WN1Z" \<orrin@redshift.com\>_
   + 1996-05-27 (Mon, 27 May 1996 11:40:58 +0800) - Re: e-mail gateways to usenet - _"Mark M." \<markm@voicenet.com\>_

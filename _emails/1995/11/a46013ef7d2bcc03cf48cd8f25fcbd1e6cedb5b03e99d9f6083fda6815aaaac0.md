@@ -48,9 +48,9 @@ data.
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
-+ Return to "[amp <Alan.Pugh<span>@</span>internetMCI.COM>](/author/amp_alan_pugh_at_internetmci_com_)"
-+ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/author/derek_atkins_warlord_at_mit_edu_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/authors/adam_shostack_adam_at_homeport_org_)"
++ Return to "[amp <Alan.Pugh<span>@</span>internetMCI.COM>](/authors/amp_alan_pugh_at_internetmci_com_)"
++ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/authors/derek_atkins_warlord_at_mit_edu_)"
 
 + 1995-11-07 (Tue, 7 Nov 1995 11:03:53 +0800) - [RE: using pgp to make an otp](/archive/1995/11/e76e643c743afaac610b3d241d43cc4a5d5d3bc127f7385cdfbcd300eff9d241) - _amp \<Alan.Pugh@internetMCI.COM\>_
   + 1995-11-07 (Tue, 7 Nov 1995 13:35:43 +0800) - [Re: using pgp to make an otp](/archive/1995/11/13437d697a03f7d3dac31adfba2395ef376e02a9953ee5a9da082dc8bf85ab07) - _Adam Shostack \<adam@homeport.org\>_

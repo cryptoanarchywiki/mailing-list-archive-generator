@@ -87,8 +87,8 @@ Billy Sunday
 
 + Return to [October 1997](/archive/1997/10)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1997-10-12 (Mon, 13 Oct 1997 02:52:36 +0800) - Re: Stronghold - _John Young \<jya@pipeline.com\>_
   + 1997-10-12 (Mon, 13 Oct 1997 07:42:39 +0800) - [Re: Stronghold](/archive/1997/10/56e4158aef2c9e7c71bc07ae21d96757ab0ba65a49cf440005d7323453e373f7) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

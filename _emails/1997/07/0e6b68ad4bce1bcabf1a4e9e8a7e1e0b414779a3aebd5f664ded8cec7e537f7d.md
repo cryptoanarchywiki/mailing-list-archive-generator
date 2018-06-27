@@ -60,9 +60,9 @@ Coral Gables, FL 33124 USA | It's @%#$%$# hot here.
 
 + Return to [July 1997](/archive/1997/07)
 
-+ Return to "[Carl Ellison <cme<span>@</span>cybercash.com>](/author/carl_ellison_cme_at_cybercash_com_)"
-+ Return to "[Joichi Ito <jito<span>@</span>eccosys.com>](/author/joichi_ito_jito_at_eccosys_com_)"
-+ Return to "["Michael Froomkin - U.Miami School of Law" <froomkin<span>@</span>law.miami.edu>](/author/michael_froomkin__u_miami_school_of_law_froomkin_at_law_miami_edu_)"
++ Return to "[Carl Ellison <cme<span>@</span>cybercash.com>](/authors/carl_ellison_cme_at_cybercash_com_)"
++ Return to "[Joichi Ito <jito<span>@</span>eccosys.com>](/authors/joichi_ito_jito_at_eccosys_com_)"
++ Return to "["Michael Froomkin - U.Miami School of Law" <froomkin<span>@</span>law.miami.edu>](/authors/michael_froomkin__u_miami_school_of_law_froomkin_at_law_miami_edu_)"
 
 + 1997-07-05 (Sat, 5 Jul 1997 09:21:02 +0800) - [Key Recovery Policy in Japan](/archive/1997/07/1fc11a25f7828e6baa7145944b91754b350c4b3848ccd726d6edec26210cdcfc) - _Joichi Ito \<jito@eccosys.com\>_
   + 1997-07-05 (Sat, 5 Jul 1997 12:12:30 +0800) - Re: Key Recovery Policy in Japan - _"Michael Froomkin - U.Miami School of Law" \<froomkin@law.miami.edu\>_

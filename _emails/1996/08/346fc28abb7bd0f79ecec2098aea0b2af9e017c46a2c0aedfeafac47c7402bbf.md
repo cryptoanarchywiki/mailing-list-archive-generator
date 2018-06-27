@@ -76,7 +76,7 @@ club.
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Hallam-Baker <hallam<span>@</span>ai.mit.edu>](/author/hallambaker_hallam_at_ai_mit_edu_)"
++ Return to "[Hallam-Baker <hallam<span>@</span>ai.mit.edu>](/authors/hallambaker_hallam_at_ai_mit_edu_)"
 
 + _Unknown thread root_
   + 1996-08-18 (Sun, 18 Aug 1996 08:35:05 +0800) - Re: Schlafly on crypto - _Hallam-Baker \<hallam@ai.mit.edu\>_

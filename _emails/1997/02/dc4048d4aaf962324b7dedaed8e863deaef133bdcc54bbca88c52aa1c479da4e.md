@@ -727,7 +727,7 @@ Meaw.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
 
 + _Unknown thread root_
   + 1997-02-09 (Sun, 9 Feb 1997 08:20:11 -0800 (PST)) - Re: On "spammers" and "anti-spammers" - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

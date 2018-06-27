@@ -79,7 +79,7 @@ frantz@netcom.com | dead teenagers | Los Gatos, CA 95032, USA
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/author/frantz_at_netcom_com_bill_frantz_)"
++ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/authors/frantz_at_netcom_com_bill_frantz_)"
 
 + 1996-04-11 (Thu, 11 Apr 1996 17:31:55 +0800) - Re: No matter where you go, there they are. - _frantz@netcom.com (Bill Frantz)_
 

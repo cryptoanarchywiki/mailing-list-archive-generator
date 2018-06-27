@@ -58,8 +58,8 @@ Regular Key PGP Fingerprint D454 E202 CBC8 40BF  3C85 B884 0ABE 4639
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
-+ Return to "[rarab<span>@</span>buffnet.net](/author/rarab_at_buffnet_net)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[rarab<span>@</span>buffnet.net](/authors/rarab_at_buffnet_net)"
 
 + 1997-09-26 (Sat, 27 Sep 1997 00:46:55 +0800) - [clean machine](/archive/1997/09/d2bd7aa290059c8899e02f5a69a8c0768facd6f70ac6d49a86a017fd1a9a6661) - _rarab@buffnet.net_
   + 1997-09-27 (Sat, 27 Sep 1997 15:37:53 +0800) - Re: clean machine - _Bill Stewart \<stewarts@ix.netcom.com\>_

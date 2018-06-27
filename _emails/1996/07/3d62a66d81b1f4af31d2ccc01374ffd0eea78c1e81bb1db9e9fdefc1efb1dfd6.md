@@ -58,8 +58,8 @@ realities is to kill burglars on sight. After all, dead people don't sue...
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
-+ Return to "[shamrock<span>@</span>netcom.com (Lucky Green)](/author/shamrock_at_netcom_com_lucky_green_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/authors/mpd_at_netcom_com_mike_duvos_)"
++ Return to "[shamrock<span>@</span>netcom.com (Lucky Green)](/authors/shamrock_at_netcom_com_lucky_green_)"
 
 + 1996-07-23 (Tue, 23 Jul 1996 17:06:40 +0800) - Re: Boobytraps and the American Legal System - _shamrock@netcom.com (Lucky Green)_
   + 1996-07-23 (Tue, 23 Jul 1996 20:39:01 +0800) - [Re: Boobytraps and the American Legal System](/archive/1996/07/2fd84f6bf209d4a9e28159a8541e5d7aa4516dc9fa298eeb0401f3b3b4e4dd30) - _mpd@netcom.com (Mike Duvos)_

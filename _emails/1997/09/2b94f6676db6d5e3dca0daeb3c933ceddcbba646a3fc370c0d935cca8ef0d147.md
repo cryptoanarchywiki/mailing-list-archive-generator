@@ -77,8 +77,8 @@ Higher Power: 2^1398269     | black markets, collapse of governments.
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
 
 + 1997-09-01 (Tue, 2 Sep 1997 02:29:40 +0800) - Re: Encouraging News - France - _Tim May \<tcmay@got.net\>_
   + 1997-09-01 (Tue, 2 Sep 1997 03:51:22 +0800) - [UNSAFE Re: Encouraging News - France](/archive/1997/09/9661be551fd06e227ba4bb83dbb25e8b81f171e7dfd8e86f7968074c8705c356) - _Bill Stewart \<stewarts@ix.netcom.com\>_

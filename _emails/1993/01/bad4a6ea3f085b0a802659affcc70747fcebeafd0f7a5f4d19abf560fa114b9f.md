@@ -70,7 +70,7 @@ dan
 
 + Return to [January 1993](/archive/1993/01)
 
-+ Return to "[Daniel Ray <root<span>@</span>tnl.com>](/author/daniel_ray_root_at_tnl_com_)"
++ Return to "[Daniel Ray <root<span>@</span>tnl.com>](/authors/daniel_ray_root_at_tnl_com_)"
 
 + 1993-01-20 (Tue, 19 Jan 93 16:35:51 PST) - Re: need for more anon remailer sites - _Daniel Ray \<root@tnl.com\>_
 

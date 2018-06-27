@@ -63,9 +63,9 @@ Eric
 
 + Return to [March 1993](/archive/1993/03)
 
-+ Return to "[Eric Hughes <hughes<span>@</span>soda.berkeley.edu>](/author/eric_hughes_hughes_at_soda_berkeley_edu_)"
-+ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/author/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
-+ Return to "[peter honeyman <honey<span>@</span>citi.umich.edu>](/author/peter_honeyman_honey_at_citi_umich_edu_)"
++ Return to "[Eric Hughes <hughes<span>@</span>soda.berkeley.edu>](/authors/eric_hughes_hughes_at_soda_berkeley_edu_)"
++ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/authors/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
++ Return to "[peter honeyman <honey<span>@</span>citi.umich.edu>](/authors/peter_honeyman_honey_at_citi_umich_edu_)"
 
 + 1993-03-26 (Thu, 25 Mar 93 21:49:26 PST) - [Re: Many Important Items in the News](/archive/1993/03/7a5ca608647c588a3655a5124c212cfbd0a9d33df7e55753aebdf5dfc80152e4) - _peter honeyman \<honey@citi.umich.edu\>_
   + 1993-03-26 (Fri, 26 Mar 93 00:00:42 PST) - Many Important Items in the News - _Eric Hughes \<hughes@soda.berkeley.edu\>_

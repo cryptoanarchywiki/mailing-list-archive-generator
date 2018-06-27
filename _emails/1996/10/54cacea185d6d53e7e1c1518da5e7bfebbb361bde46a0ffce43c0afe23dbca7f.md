@@ -48,7 +48,7 @@ Click on:  http://dhea.natureplus.com
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[health<span>@</span>moneyworld.com](/author/health_at_moneyworld_com)"
++ Return to "[health<span>@</span>moneyworld.com](/authors/health_at_moneyworld_com)"
 
 + 1996-10-11 (Fri, 11 Oct 1996 07:33:46 -0700 (PDT)) - Scientific Discoveries Minimize Aging (DHEA) - _health@moneyworld.com_
 

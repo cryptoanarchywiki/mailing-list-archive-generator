@@ -52,8 +52,8 @@ perversity).  So would scrambling the low-order bits of a sound file.
 
 + Return to [March 1993](/archive/1993/03)
 
-+ Return to "[Bill Sommerfeld <sommerfeld<span>@</span>orchard.medford.ma.us>](/author/bill_sommerfeld_sommerfeld_at_orchard_medford_ma_us_)"
-+ Return to "[Matthew J Miszewski <MJMISKI<span>@</span>macc.wisc.edu>](/author/matthew_j_miszewski_mjmiski_at_macc_wisc_edu_)"
++ Return to "[Bill Sommerfeld <sommerfeld<span>@</span>orchard.medford.ma.us>](/authors/bill_sommerfeld_sommerfeld_at_orchard_medford_ma_us_)"
++ Return to "[Matthew J Miszewski <MJMISKI<span>@</span>macc.wisc.edu>](/authors/matthew_j_miszewski_mjmiski_at_macc_wisc_edu_)"
 
 + 1993-03-11 (Thu, 11 Mar 93 10:20:38 PST) - [CYPHER: Plain encypher](/archive/1993/03/ab6aaaa3a030f5bd3d8d64d3253fb9bea94074a97e3b74e168ce18c439dfdbd9) - _Matthew J Miszewski \<MJMISKI@macc.wisc.edu\>_
   + 1993-03-13 (Fri, 12 Mar 93 21:33:18 PST) - CYPHER: Plain encypher - _Bill Sommerfeld \<sommerfeld@orchard.medford.ma.us\>_

@@ -85,7 +85,7 @@ info@we-work-for-you.com
 
 + Return to [July 1997](/archive/1997/07)
 
-+ Return to "[info<span>@</span>we-work-for-you.com](/author/info_at_weworkforyou_com)"
++ Return to "[info<span>@</span>we-work-for-you.com](/authors/info_at_weworkforyou_com)"
 
 + 1997-07-24 (Thu, 24 Jul 1997 14:34:23 -0700 (PDT)) - Put Us To Work For You TODAY!! - _info@we-work-for-you.com_
 

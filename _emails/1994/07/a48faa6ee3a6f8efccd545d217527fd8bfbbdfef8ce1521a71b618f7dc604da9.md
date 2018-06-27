@@ -74,8 +74,8 @@ be a legal firm?  Does the legal term "in terrorem" apply here? <g>
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "["Jim Sewell" <jims<span>@</span>Central.KeyWest.MPGN.COM>](/author/jim_sewell_jims_at_central_keywest_mpgn_com_)"
-+ Return to "[nobody<span>@</span>shell.portal.com](/author/nobody_at_shell_portal_com)"
++ Return to "["Jim Sewell" <jims<span>@</span>Central.KeyWest.MPGN.COM>](/authors/jim_sewell_jims_at_central_keywest_mpgn_com_)"
++ Return to "[nobody<span>@</span>shell.portal.com](/authors/nobody_at_shell_portal_com)"
 
 + 1994-07-14 (Wed, 13 Jul 94 20:32:33 PDT) - RE: PGP bastardization - _nobody@shell.portal.com_
   + 1994-07-14 (Thu, 14 Jul 94 06:43:37 PDT) - [Re: PGP bastardization](/archive/1994/07/f9161800d41791e8cd4b793541cf7640cc3e4458a895992faf5d72f7a34483b3) - _"Jim Sewell" \<jims@Central.KeyWest.MPGN.COM\>_

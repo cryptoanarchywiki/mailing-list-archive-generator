@@ -54,7 +54,7 @@ DCF
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1995-09-18 (Mon, 18 Sep 95 07:27:17 PDT) - Re: "Hackers"-- brief review and anecdote... - _Duncan Frissell \<frissell@panix.com\>_
 

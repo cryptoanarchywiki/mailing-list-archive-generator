@@ -78,8 +78,8 @@ arbitrary power of the state.		|   jamesd@echeque.com
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/author/declan_mccullagh_declan_at_eff_org_)"
-+ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/author/james_a_donald_jamesd_at_echeque_com_)"
++ Return to "[Declan McCullagh <declan<span>@</span>eff.org>](/authors/declan_mccullagh_declan_at_eff_org_)"
++ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/authors/james_a_donald_jamesd_at_echeque_com_)"
 
 + 1996-08-27 (Tue, 27 Aug 1996 11:02:08 +0800) - Re: Sen. Leahy's "impeccable cyberspace credentials" - _"James A. Donald" \<jamesd@echeque.com\>_
   + 1996-08-27 (Tue, 27 Aug 1996 14:08:09 +0800) - [Re: Sen. Leahy's "impeccable cyberspace credentials"](/archive/1996/08/8d3cdf064451499ecb5cd0fb935889b5bff2d10445fcdae7666966b3807064ff) - _Declan McCullagh \<declan@eff.org\>_

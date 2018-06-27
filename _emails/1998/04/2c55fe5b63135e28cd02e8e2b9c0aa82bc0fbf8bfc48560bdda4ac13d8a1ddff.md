@@ -62,7 +62,7 @@ AlreadyHadACorkInMyButtBeforeTheDragonGotItsDickOutMonger
 
 + Return to [April 1998](/archive/1998/04)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1998-04-15 (Wed, 15 Apr 1998 00:14:56 -0700 (PDT)) - Once upon a time... - _nobody@REPLAY.COM (Anonymous)_
 

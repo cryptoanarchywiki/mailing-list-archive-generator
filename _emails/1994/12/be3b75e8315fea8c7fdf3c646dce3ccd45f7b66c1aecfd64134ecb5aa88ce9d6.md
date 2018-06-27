@@ -52,7 +52,7 @@ InterCon Systems Corporation
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "[amanda<span>@</span>intercon.com (Amanda Walker)](/author/amanda_at_intercon_com_amanda_walker_)"
++ Return to "[amanda<span>@</span>intercon.com (Amanda Walker)](/authors/amanda_at_intercon_com_amanda_walker_)"
 
 + 1994-12-15 (Thu, 15 Dec 94 08:24:06 PST) - Re: Less Flaming, More Civility - _amanda@intercon.com (Amanda Walker)_
 

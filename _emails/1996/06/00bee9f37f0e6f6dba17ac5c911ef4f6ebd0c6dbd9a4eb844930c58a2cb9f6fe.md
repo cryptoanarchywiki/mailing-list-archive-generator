@@ -56,8 +56,8 @@ unwarranted ill will be left floating around...
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[Rich Burroughs <richieb<span>@</span>teleport.com>](/author/rich_burroughs_richieb_at_teleport_com_)"
-+ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
++ Return to "[Rich Burroughs <richieb<span>@</span>teleport.com>](/authors/rich_burroughs_richieb_at_teleport_com_)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/authors/rich_graves_llurch_at_networking_stanford_edu_)"
 
 + 1996-06-17 (Mon, 17 Jun 1996 08:30:46 +0800) - [Re: Snake Oil on the Water...](/archive/1996/06/d8bd96c9d35121a853c0ef26099060289d115d8983dfd8c12b79fdaa1a0f7f8c) - _Rich Burroughs \<richieb@teleport.com\>_
   + 1996-06-17 (Mon, 17 Jun 1996 14:41:02 +0800) - Re: Snake Oil on the Water... - _Rich Graves \<llurch@networking.stanford.edu\>_

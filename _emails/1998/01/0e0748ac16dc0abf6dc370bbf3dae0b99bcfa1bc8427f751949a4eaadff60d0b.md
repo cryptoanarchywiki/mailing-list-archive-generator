@@ -67,9 +67,9 @@ On Sat, 24 Jan 1998, Igor Chudov @ home wrote:
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[ichudov<span>@</span>Algebra.COM (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
-+ Return to "[Lucky Green <shamrock<span>@</span>cypherpunks.to>](/author/lucky_green_shamrock_at_cypherpunks_to_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[ichudov<span>@</span>Algebra.COM (Igor Chudov <span>@</span> home)](/authors/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[Lucky Green <shamrock<span>@</span>cypherpunks.to>](/authors/lucky_green_shamrock_at_cypherpunks_to_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
 
 + 1998-01-24 (Sat, 24 Jan 1998 23:40:21 +0800) - [Document destruction services](/archive/1998/01/0f9290022e382b2d0899dfa74fbb88181aedca2fb3475c7e040ade9ef0337790) - _ichudov@Algebra.COM (Igor Chudov @ home)_
   + 1998-01-24 (Sun, 25 Jan 1998 00:46:30 +0800) - [Re: Document destruction services](/archive/1998/01/776684177168f290a73956c5719f4b06836045c3c38c029f3b9a29cacc7cc95c) - _Tim May \<tcmay@got.net\>_

@@ -52,7 +52,7 @@ Reference: <m0q3JvD-0003pSC@jpplap>
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[jpp<span>@</span>jpplap (Jay Prime Positive)](/author/jpp_at_jpplap_jay_prime_positive_)"
++ Return to "[jpp<span>@</span>jpplap (Jay Prime Positive)](/authors/jpp_at_jpplap_jay_prime_positive_)"
 
 + 1994-05-17 (Tue, 17 May 94 01:06:02 PDT) - [MAILER-DAEMON@jpplap: mail failed, returning to sender] - _jpp@jpplap (Jay Prime Positive)_
 

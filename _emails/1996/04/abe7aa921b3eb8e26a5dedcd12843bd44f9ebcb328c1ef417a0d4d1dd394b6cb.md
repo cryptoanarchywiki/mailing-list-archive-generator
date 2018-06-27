@@ -63,9 +63,9 @@ Or a thug for the CDA                   Which side are you on?
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[abostick<span>@</span>netcom.com (Alan Bostick)](/author/abostick_at_netcom_com_alan_bostick_)"
-+ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/author/declan_b_mccullagh_declan_at_cmu_edu_)"
-+ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
++ Return to "[abostick<span>@</span>netcom.com (Alan Bostick)](/authors/abostick_at_netcom_com_alan_bostick_)"
++ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/authors/declan_b_mccullagh_declan_at_cmu_edu_)"
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/authors/simon_spero_ses_at_tipper_oit_unc_edu_)"
 
 + 1996-04-16 (Tue, 16 Apr 1996 18:20:41 +0800) - [CDA Court Challenge: Update #7 (Ducks on the Net)](/archive/1996/04/756a485600d583c6dbb126a716da1963040633492faff859b1d79b807129f491) - _"Declan B. McCullagh" \<declan+@CMU.EDU\>_
   + 1996-04-16 (Tue, 16 Apr 1996 16:07:08 +0800) - [Re: CDA Court Challenge: Update #7 (Ducks on the Net)](/archive/1996/04/d0b5d263e4744766ff3b72d601171a1c7595e38d6833ed44baf2f9ea08a64785) - _Simon Spero \<ses@tipper.oit.unc.edu\>_

@@ -56,7 +56,7 @@ Send a message with the subject "send pgp-key" for a copy of my key.
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/author/deranged_mutant_wlkngowl_at_unix_asb_com_)"
++ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/authors/deranged_mutant_wlkngowl_at_unix_asb_com_)"
 
 + 1996-06-06 (Thu, 6 Jun 1996 16:45:39 +0800) - Re: USA on Feds Cyberteam - _"Deranged Mutant" \<WlkngOwl@unix.asb.com\>_
 

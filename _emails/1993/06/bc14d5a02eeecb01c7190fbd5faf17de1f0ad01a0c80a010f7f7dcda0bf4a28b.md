@@ -230,8 +230,8 @@ fergp@sytex.com             |      - Murphy's 7th Law of Computing
 
 + Return to [June 1993](/archive/1993/06)
 
-+ Return to "[fergp<span>@</span>sytex.com (Paul Ferguson)](/author/fergp_at_sytex_com_paul_ferguson_)"
-+ Return to "[khijol!erc<span>@</span>apple.com (Ed Carp)](/author/khijolerc_at_apple_com_ed_carp_)"
++ Return to "[fergp<span>@</span>sytex.com (Paul Ferguson)](/authors/fergp_at_sytex_com_paul_ferguson_)"
++ Return to "[khijol!erc<span>@</span>apple.com (Ed Carp)](/authors/khijolerc_at_apple_com_ed_carp_)"
 
 + 1993-06-30 (Tue, 29 Jun 93 19:43:14 PDT) - PC Week Clipper article - _fergp@sytex.com (Paul Ferguson)_
   + 1993-06-30 (Tue, 29 Jun 93 20:37:07 PDT) - [Re: PC Week Clipper article](/archive/1993/06/55166ea4fcac4ddb28a6f1ea71c9d265563c2fc23538f5862d0acf0c14c72cd4) - _khijol!erc@apple.com (Ed Carp)_

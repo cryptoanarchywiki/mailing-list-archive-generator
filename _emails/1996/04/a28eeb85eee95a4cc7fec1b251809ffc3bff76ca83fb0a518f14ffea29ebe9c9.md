@@ -87,7 +87,7 @@ Content-Type: text/plain
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1996-04-06 (Sat, 6 Apr 1996 17:31:56 +0800) - Re: e$ Signorage - _John Young \<jya@pipeline.com\>_
 

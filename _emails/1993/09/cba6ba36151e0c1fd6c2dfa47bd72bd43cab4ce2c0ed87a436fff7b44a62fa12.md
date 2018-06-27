@@ -71,8 +71,8 @@ PGP Key = 7C06F1 = A6 27 E1 1D 5F B2 F2 F1  12 E7 53 2D 85 A2 10 5D
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "["Christian D. Odhner" <cdodhner<span>@</span>indirect.com>](/author/christian_d_odhner_cdodhner_at_indirect_com_)"
-+ Return to "[J. Michael Diehl <mdiehl<span>@</span>triton.unm.edu>](/author/j_michael_diehl_mdiehl_at_triton_unm_edu_)"
++ Return to "["Christian D. Odhner" <cdodhner<span>@</span>indirect.com>](/authors/christian_d_odhner_cdodhner_at_indirect_com_)"
++ Return to "[J. Michael Diehl <mdiehl<span>@</span>triton.unm.edu>](/authors/j_michael_diehl_mdiehl_at_triton_unm_edu_)"
 
 + 1993-09-06 (Mon, 6 Sep 93 07:16:19 PDT) - [Key signing, authentication](/archive/1993/09/54b447a26a9ab3fe9935dabfcec9a4fac1a27a6f2351b2481034293b6b96df09) - _"Christian D. Odhner" \<cdodhner@indirect.com\>_
   + 1993-09-06 (Mon, 6 Sep 93 13:51:26 PDT) - Re: Key signing, authentication - _J. Michael Diehl \<mdiehl@triton.unm.edu\>_

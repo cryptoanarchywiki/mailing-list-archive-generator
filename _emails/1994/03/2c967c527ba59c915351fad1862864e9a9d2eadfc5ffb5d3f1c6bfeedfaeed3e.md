@@ -103,7 +103,7 @@ cc:  GR.CLG
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[paul braunbehrens <pbraunb<span>@</span>netcom.com>](/author/paul_braunbehrens_pbraunb_at_netcom_com_)"
++ Return to "[paul braunbehrens <pbraunb<span>@</span>netcom.com>](/authors/paul_braunbehrens_pbraunb_at_netcom_com_)"
 
 + 1994-03-24 (Thu, 24 Mar 94 12:11:39 PST) - clipper debate at stanford u. (fwd) - _paul braunbehrens \<pbraunb@netcom.com\>_
 

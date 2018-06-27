@@ -107,7 +107,7 @@ NYT-08-06-97 1054EDT<
 
 + Return to [August 1997](/archive/1997/08)
 
-+ Return to "[Alan Olsen <root<span>@</span>nwdtc.com>](/author/alan_olsen_root_at_nwdtc_com_)"
++ Return to "[Alan Olsen <root<span>@</span>nwdtc.com>](/authors/alan_olsen_root_at_nwdtc_com_)"
 
 + 1997-08-08 (Fri, 8 Aug 1997 16:00:02 +0800) - Fraud Feared as Antigua Net Bank Fails - _Alan Olsen \<root@nwdtc.com\>_
 

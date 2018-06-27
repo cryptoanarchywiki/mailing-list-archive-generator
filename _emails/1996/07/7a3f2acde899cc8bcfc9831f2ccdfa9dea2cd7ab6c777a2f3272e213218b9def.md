@@ -61,7 +61,7 @@ arbitrary power of the state.		|   jamesd@echeque.com
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[jamesd<span>@</span>echeque.com](/author/jamesd_at_echeque_com)"
++ Return to "[jamesd<span>@</span>echeque.com](/authors/jamesd_at_echeque_com)"
 
 + 1996-07-01 (Tue, 2 Jul 1996 03:03:35 +0800) - Re: Hardware RNG - _jamesd@echeque.com_
 

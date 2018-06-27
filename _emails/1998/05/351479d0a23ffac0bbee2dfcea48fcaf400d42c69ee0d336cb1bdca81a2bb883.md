@@ -96,7 +96,7 @@ Extractor Marketing
 
 + Return to [May 1998](/archive/1998/05)
 
-+ Return to "[diane<span>@</span>extractorpro.net](/author/diane_at_extractorpro_net)"
++ Return to "[diane<span>@</span>extractorpro.net](/authors/diane_at_extractorpro_net)"
 
 + 1998-05-09 (Sat, 9 May 1998 12:24:11 -0700 (PDT)) - What Bill Gates doesn't want you to know. - _diane@extractorpro.net_
 

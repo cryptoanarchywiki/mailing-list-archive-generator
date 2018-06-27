@@ -70,7 +70,7 @@ full article is at:
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Lou Poppler <lwp<span>@</span>mail.msen.com>](/author/lou_poppler_lwp_at_mail_msen_com_)"
++ Return to "[Lou Poppler <lwp<span>@</span>mail.msen.com>](/authors/lou_poppler_lwp_at_mail_msen_com_)"
 
 + 1997-09-15 (Mon, 15 Sep 1997 23:40:45 +0800) - Some anti-GAK reverse-FUD ? - _Lou Poppler \<lwp@mail.msen.com\>_
 

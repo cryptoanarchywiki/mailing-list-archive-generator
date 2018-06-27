@@ -56,7 +56,7 @@ the language as defined by the ARM.)
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[m5<span>@</span>vail.tivoli.com (Mike McNally)](/author/m5_at_vail_tivoli_com_mike_mcnally_)"
++ Return to "[m5<span>@</span>vail.tivoli.com (Mike McNally)](/authors/m5_at_vail_tivoli_com_mike_mcnally_)"
 
 + _Unknown thread root_
   + 1995-01-27 (Fri, 27 Jan 95 14:35:59 PST) - Oops, Correction: one big error in "Even more unix holy war." - _m5@vail.tivoli.com (Mike McNally)_

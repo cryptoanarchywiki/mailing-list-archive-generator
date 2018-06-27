@@ -90,7 +90,7 @@ report to DefSEc and DCI:
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1997-02-21 (Fri, 21 Feb 1997 05:15:13 -0800 (PST)) - Global Encryption Policy - _John Young \<jya@pipeline.com\>_
 

@@ -82,7 +82,7 @@ bill and art
 
 + Return to [May 1998](/archive/1998/05)
 
-+ Return to "[bill payne <billp<span>@</span>nmol.com>](/author/bill_payne_billp_at_nmol_com_)"
++ Return to "[bill payne <billp<span>@</span>nmol.com>](/authors/bill_payne_billp_at_nmol_com_)"
 
 + 1998-05-01 (Fri, 1 May 1998 13:54:27 -0700 (PDT)) - Ruling in Payne & Morales v NSA's Minihan - _bill payne \<billp@nmol.com\>_
 

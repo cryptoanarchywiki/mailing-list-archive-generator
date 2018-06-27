@@ -64,8 +64,8 @@ uucp:  ...mcsun!ukc!uea-sys!jrk    \/       Norwich NR4 7TJ, U.K.
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "[J. Michael Diehl <mdiehl<span>@</span>triton.unm.edu>](/author/j_michael_diehl_mdiehl_at_triton_unm_edu_)"
-+ Return to "[jrk<span>@</span>sys.uea.ac.uk (Richard Kennaway)](/author/jrk_at_sys_uea_ac_uk_richard_kennaway_)"
++ Return to "[J. Michael Diehl <mdiehl<span>@</span>triton.unm.edu>](/authors/j_michael_diehl_mdiehl_at_triton_unm_edu_)"
++ Return to "[jrk<span>@</span>sys.uea.ac.uk (Richard Kennaway)](/authors/jrk_at_sys_uea_ac_uk_richard_kennaway_)"
 
 + 1993-09-30 (Thu, 30 Sep 93 01:56:35 PDT) - Re: soda.berkeley.edu - _jrk@sys.uea.ac.uk (Richard Kennaway)_
   + 1993-09-30 (Thu, 30 Sep 93 02:11:52 PDT) - [Re: soda.berkeley.edu](/archive/1993/09/e001989e93b737449727d5c17794ba1717fd7b33a7a3a03b375f78e9dd7aafdc) - _J. Michael Diehl \<mdiehl@triton.unm.edu\>_

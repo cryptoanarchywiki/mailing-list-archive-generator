@@ -60,7 +60,7 @@ W+azO+zC1+k6ozWaGwcCqtgwi2Kmbv/XtCnDbzzQdSI6k0rJFwhbw5rDkxQ4W5sQ
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Greg Broiles <greg<span>@</span>ideath.goldenbear.com>](/author/greg_broiles_greg_at_ideath_goldenbear_com_)"
++ Return to "[Greg Broiles <greg<span>@</span>ideath.goldenbear.com>](/authors/greg_broiles_greg_at_ideath_goldenbear_com_)"
 
 + 1995-12-10 (Sat, 9 Dec 95 16:25:55 PST) - ideath remailer temporarily down - _Greg Broiles \<greg@ideath.goldenbear.com\>_
 

@@ -51,7 +51,7 @@ jimbell@pacifier.com
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-12-22 (Sun, 22 Dec 1996 11:10:45 -0800 (PST)) - Re: Executing Encrypted Code - _jim bell \<jimbell@pacifier.com\>_
 

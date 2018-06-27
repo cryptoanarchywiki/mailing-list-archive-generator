@@ -49,8 +49,8 @@ and a sample client/server that use it.  I believe you can find it on:
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/author/derek_atkins_warlord_at_mit_edu_)"
-+ Return to "["Rev. Ben" <samman-ben<span>@</span>CS.YALE.EDU>](/author/rev_ben_sammanben_at_cs_yale_edu_)"
++ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/authors/derek_atkins_warlord_at_mit_edu_)"
++ Return to "["Rev. Ben" <samman-ben<span>@</span>CS.YALE.EDU>](/authors/rev_ben_sammanben_at_cs_yale_edu_)"
 
 + 1995-09-29 (Thu, 28 Sep 95 19:40:22 PDT) - [GSSAPI compliant Apps](/archive/1995/09/ca530d2becd49397b73f34e8fbcdb194741f70865ff23aa697fda6f365efd382) - _"Rev. Ben" \<samman-ben@CS.YALE.EDU\>_
   + 1995-09-29 (Thu, 28 Sep 95 20:06:05 PDT) - Re: GSSAPI compliant Apps - _Derek Atkins \<warlord@MIT.EDU\>_

@@ -64,8 +64,8 @@ Content-Type: text/plain
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[David Mandl <dmandl<span>@</span>panix.com>](/author/david_mandl_dmandl_at_panix_com_)"
-+ Return to "[kevin<span>@</span>axon.cs.byu.edu (Kevin Vanhorn)](/author/kevin_at_axon_cs_byu_edu_kevin_vanhorn_)"
++ Return to "[David Mandl <dmandl<span>@</span>panix.com>](/authors/david_mandl_dmandl_at_panix_com_)"
++ Return to "[kevin<span>@</span>axon.cs.byu.edu (Kevin Vanhorn)](/authors/kevin_at_axon_cs_byu_edu_kevin_vanhorn_)"
 
 + 1994-02-09 (Wed, 9 Feb 94 09:22:24 PST) - Cypherpunk forum in NYC, Thurs. 2/17 - _David Mandl \<dmandl@panix.com\>_
   + 1994-02-09 (Wed, 9 Feb 94 10:17:24 PST) - [Cypherpunk forum in NYC, Thurs. 2/17](/archive/1994/02/c5e16e4b4c631a00c102fa3da132f13b666371310e7e9a750523b3bb5a00cae7) - _kevin@axon.cs.byu.edu (Kevin Vanhorn)_

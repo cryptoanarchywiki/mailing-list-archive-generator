@@ -146,8 +146,8 @@ Thought for the Day:
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[qut<span>@</span>netcom.com (Skip)](/author/qut_at_netcom_com_skip_)"
-+ Return to "[Rich Graves <rich<span>@</span>c2.org>](/author/rich_graves_rich_at_c2_org_)"
++ Return to "[qut<span>@</span>netcom.com (Skip)](/authors/qut_at_netcom_com_skip_)"
++ Return to "[Rich Graves <rich<span>@</span>c2.org>](/authors/rich_graves_rich_at_c2_org_)"
 
 + 1996-08-23 (Fri, 23 Aug 1996 14:19:05 +0800) - Racists Speak Up For Crypto - _qut@netcom.com (Skip)_
   + 1996-08-23 (Fri, 23 Aug 1996 21:21:55 +0800) - [Re: Racists Speak Up For Crypto](/archive/1996/08/92e008e99af0f00f16f7c52156152f8ef7093206ab5c994f8f328a88e3561a83) - _Rich Graves \<rich@c2.org\>_

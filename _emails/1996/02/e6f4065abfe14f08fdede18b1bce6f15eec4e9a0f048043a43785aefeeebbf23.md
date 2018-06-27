@@ -123,7 +123,7 @@ well as Premenos corporate information materials.
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1996-02-29 (Fri, 1 Mar 1996 04:07:26 +0800) - Top Spy Hawks GAK - _nobody@REPLAY.COM (Anonymous)_
 

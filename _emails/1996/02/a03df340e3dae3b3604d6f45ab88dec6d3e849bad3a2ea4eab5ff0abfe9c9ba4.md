@@ -341,7 +341,7 @@ Include the line(s):
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/author/declan_b_mccullagh_declan_at_cmu_edu_)"
++ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/authors/declan_b_mccullagh_declan_at_cmu_edu_)"
 
 + 1996-02-13 (Tue, 13 Feb 1996 09:59:46 +0800) - Censorship and Snooping at Winthrop University - _"Declan B. McCullagh" \<declan+@CMU.EDU\>_
 

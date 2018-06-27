@@ -68,7 +68,7 @@ defer to ignorance at this point.
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[jalicqui<span>@</span>prairienet.org (Jeff Licquia)](/author/jalicqui_at_prairienet_org_jeff_licquia_)"
++ Return to "[jalicqui<span>@</span>prairienet.org (Jeff Licquia)](/authors/jalicqui_at_prairienet_org_jeff_licquia_)"
 
 + 1995-01-18 (Wed, 18 Jan 95 11:42:18 PST) - Re: EE Times on PRZ - _jalicqui@prairienet.org (Jeff Licquia)_
 

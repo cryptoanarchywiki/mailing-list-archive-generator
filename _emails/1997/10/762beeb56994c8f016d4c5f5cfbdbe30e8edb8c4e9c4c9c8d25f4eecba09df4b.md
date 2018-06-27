@@ -280,7 +280,7 @@ hundred years previously, when he reads, on the back of the plaque:
 
 + Return to [October 1997](/archive/1997/10)
 
-+ Return to "[TruthMonger <tm<span>@</span>dev.null>](/author/truthmonger_tm_at_dev_null_)"
++ Return to "[TruthMonger <tm<span>@</span>dev.null>](/authors/truthmonger_tm_at_dev_null_)"
 
 + 1997-10-13 (Tue, 14 Oct 1997 01:40:49 +0800) - InfoWar Epilogue 2 / TEXT - _TruthMonger \<tm@dev.null\>_
 

@@ -49,7 +49,7 @@ http://mozilla-crypto.ssleay.org/press/19980401-02/index.html
 
 + Return to [April 1998](/archive/1998/04)
 
-+ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/authors/lucky_green_shamrock_at_netcom_com_)"
 
 + 1998-04-03 (Thu, 2 Apr 1998 16:27:29 -0800 (PST)) - Crytozilla operational 15 h after Netscape releases Mozilla source - _Lucky Green \<shamrock@netcom.com\>_
 

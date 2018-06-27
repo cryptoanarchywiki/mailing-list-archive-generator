@@ -45,7 +45,7 @@ aeisenb@duke.poly.edu
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Anne Eisenberg <aeisenb<span>@</span>duke.poly.edu>](/author/anne_eisenberg_aeisenb_at_duke_poly_edu_)"
++ Return to "[Anne Eisenberg <aeisenb<span>@</span>duke.poly.edu>](/authors/anne_eisenberg_aeisenb_at_duke_poly_edu_)"
 
 + 1996-08-07 (Wed, 7 Aug 1996 08:53:17 +0800) - DoubleClick: Does is track browsing across multiple sites? - _Anne Eisenberg \<aeisenb@duke.poly.edu\>_
 

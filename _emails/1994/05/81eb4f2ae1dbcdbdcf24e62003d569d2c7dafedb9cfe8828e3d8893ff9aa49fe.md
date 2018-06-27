@@ -64,7 +64,7 @@ government. <-------- Thomas Jefferson                            --
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[lassie!jim%lassie<span>@</span>netcom.com (Jim Nalbandian)](/author/lassiejimlassie_at_netcom_com_jim_nalbandian_)"
++ Return to "[lassie!jim%lassie<span>@</span>netcom.com (Jim Nalbandian)](/authors/lassiejimlassie_at_netcom_com_jim_nalbandian_)"
 
 + 1994-05-03 (Tue, 3 May 94 00:40:26 PDT) - Re: A distribution solution! (fwd) - _lassie!jim%lassie@netcom.com (Jim Nalbandian)_
 

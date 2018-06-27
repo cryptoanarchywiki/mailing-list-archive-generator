@@ -89,9 +89,9 @@ trusted by both Alice and Sam ;)
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Alex Strasheim <alex<span>@</span>proust.suba.com>](/author/alex_strasheim_alex_at_proust_suba_com_)"
-+ Return to "[Alex Strasheim <cp<span>@</span>proust.suba.com>](/author/alex_strasheim_cp_at_proust_suba_com_)"
-+ Return to "[futplex<span>@</span>pseudonym.com (Futplex)](/author/futplex_at_pseudonym_com_futplex_)"
++ Return to "[Alex Strasheim <alex<span>@</span>proust.suba.com>](/authors/alex_strasheim_alex_at_proust_suba_com_)"
++ Return to "[Alex Strasheim <cp<span>@</span>proust.suba.com>](/authors/alex_strasheim_cp_at_proust_suba_com_)"
++ Return to "[futplex<span>@</span>pseudonym.com (Futplex)](/authors/futplex_at_pseudonym_com_futplex_)"
 
 + 1995-12-29 (Fri, 29 Dec 1995 13:00:08 +0800) - [blind validation](/archive/1995/12/ff055af84b58ac48c1251f8c4499d4a13e14c65b6a7f760fe7ce8186a87a677b) - _Alex Strasheim \<alex@proust.suba.com\>_
   + 1995-12-30 (Sat, 30 Dec 1995 17:23:09 +0800) - Re: blind validation - _futplex@pseudonym.com (Futplex)_

@@ -46,7 +46,7 @@ private citizens to quarter troups in their home.
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "["R. David Murray" <rdmurray<span>@</span>keene.edu>](/author/r_david_murray_rdmurray_at_keene_edu_)"
++ Return to "["R. David Murray" <rdmurray<span>@</span>keene.edu>](/authors/r_david_murray_rdmurray_at_keene_edu_)"
 
 + 1994-05-14 (Sat, 14 May 94 08:39:29 PDT) - possible anti-mandatory-clipper constitutional angle? - _"R. David Murray" \<rdmurray@keene.edu\>_
 

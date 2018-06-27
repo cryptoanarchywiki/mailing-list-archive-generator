@@ -48,8 +48,8 @@ Reuben Halper
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[drzaphod<span>@</span>brewmeister.xstablu.com (DrZaphod)](/author/drzaphod_at_brewmeister_xstablu_com_drzaphod_)"
-+ Return to "[fhalper<span>@</span>pilot.njin.net (Frederic Halper)](/author/fhalper_at_pilot_njin_net_frederic_halper_)"
++ Return to "[drzaphod<span>@</span>brewmeister.xstablu.com (DrZaphod)](/authors/drzaphod_at_brewmeister_xstablu_com_drzaphod_)"
++ Return to "[fhalper<span>@</span>pilot.njin.net (Frederic Halper)](/authors/fhalper_at_pilot_njin_net_frederic_halper_)"
 
 + 1994-02-24 (Thu, 24 Feb 94 13:42:33 PST) - Re: Net Restructure - _fhalper@pilot.njin.net (Frederic Halper)_
   + 1994-02-25 (Thu, 24 Feb 94 20:55:27 PST) - [Re: Net Restructure](/archive/1994/02/39ec2d4a75ade7161e0a06d639012a47e184f8a2e526e7a41f3c5606bb09f9ca) - _drzaphod@brewmeister.xstablu.com (DrZaphod)_

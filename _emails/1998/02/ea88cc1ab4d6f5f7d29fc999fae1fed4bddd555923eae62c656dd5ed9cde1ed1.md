@@ -101,8 +101,8 @@ better start thinking about what's happening.
 
 + Return to [February 1998](/archive/1998/02)
 
-+ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
-+ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/authors/anonymous_anon_at_anon_efga_org_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/authors/black_unicorn_unicorn_at_schloss_li_)"
 
 + _Unknown thread root_
   + 1998-02-02 (Mon, 2 Feb 1998 14:56:29 +0800) - The Continued Attack on Cash (Was: "The Right of Anonymity"...) - _Black Unicorn \<unicorn@schloss.li\>_

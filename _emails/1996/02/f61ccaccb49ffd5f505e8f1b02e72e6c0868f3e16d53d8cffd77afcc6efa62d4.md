@@ -54,7 +54,7 @@ Content-Type: text/plain
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1996-02-15 (Thu, 15 Feb 1996 17:56:51 +0800) - MES_sag - _John Young \<jya@pipeline.com\>_
 

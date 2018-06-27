@@ -75,7 +75,7 @@ Erik Fair
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "["Erik E. Fair"  (Time Keeper) <fair<span>@</span>clock.org>](/author/erik_e_fair_time_keeper_fair_at_clock_org_)"
++ Return to "["Erik E. Fair"  (Time Keeper) <fair<span>@</span>clock.org>](/authors/erik_e_fair_time_keeper_fair_at_clock_org_)"
 
 + 1996-02-02 (Sat, 3 Feb 1996 04:35:21 +0800) - Re: Espionage-enabled Greed - _"Erik E. Fair"  (Time Keeper) \<fair@clock.org\>_
 

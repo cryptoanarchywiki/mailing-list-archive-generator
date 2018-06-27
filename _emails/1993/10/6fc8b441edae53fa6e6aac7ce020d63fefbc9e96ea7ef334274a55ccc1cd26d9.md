@@ -92,7 +92,7 @@ vO2Z0LSwpSE=
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "["W. Kinney" <kinney<span>@</span>ucsu.Colorado.EDU>](/author/w_kinney_kinney_at_ucsu_colorado_edu_)"
++ Return to "["W. Kinney" <kinney<span>@</span>ucsu.Colorado.EDU>](/authors/w_kinney_kinney_at_ucsu_colorado_edu_)"
 
 + 1993-10-28 (Wed, 27 Oct 93 18:22:41 PDT) - Re: I'm leaving cypherpunks - _"W. Kinney" \<kinney@ucsu.Colorado.EDU\>_
 

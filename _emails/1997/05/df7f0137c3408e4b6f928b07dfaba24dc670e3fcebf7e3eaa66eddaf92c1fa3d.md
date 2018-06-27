@@ -64,8 +64,8 @@ C Matthew Curtin wrote:
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
-+ Return to "[C Matthew Curtin <cmcurtin<span>@</span>research.megasoft.com>](/author/c_matthew_curtin_cmcurtin_at_research_megasoft_com_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/authors/adam_shostack_adam_at_homeport_org_)"
++ Return to "[C Matthew Curtin <cmcurtin<span>@</span>research.megasoft.com>](/authors/c_matthew_curtin_cmcurtin_at_research_megasoft_com_)"
 
 + 1997-05-07 (Thu, 8 May 1997 02:55:07 +0800) - [US Citizens doing crypto work overseas](/archive/1997/05/dd8f3e47e1e8d97416c94815b50c76cb2e863e2958aac2ca778bfed16f0e8984) - _C Matthew Curtin \<cmcurtin@research.megasoft.com\>_
   + 1997-05-08 (Thu, 8 May 1997 19:58:48 +0800) - Re: US Citizens doing crypto work overseas - _Adam Shostack \<adam@homeport.org\>_

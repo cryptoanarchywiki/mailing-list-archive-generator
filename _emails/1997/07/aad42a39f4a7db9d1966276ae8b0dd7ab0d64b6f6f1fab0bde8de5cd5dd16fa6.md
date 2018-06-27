@@ -56,7 +56,7 @@ versions:
 
 + Return to [July 1997](/archive/1997/07)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1997-07-01 (Wed, 2 Jul 1997 02:19:23 +0800) - The Walsh Report - _John Young \<jya@pipeline.com\>_
 

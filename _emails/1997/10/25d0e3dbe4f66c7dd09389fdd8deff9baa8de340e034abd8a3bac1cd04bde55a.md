@@ -54,9 +54,9 @@ draft. There is a solution.
 
 + Return to [October 1997](/archive/1997/10)
 
-+ Return to "[lutz<span>@</span>taranis.iks-jena.de (Lutz Donnerhacke)](/author/lutz_at_taranis_iksjena_de_lutz_donnerhacke_)"
-+ Return to "[nobody<span>@</span>neva.org (Neva Remailer)](/author/nobody_at_neva_org_neva_remailer_)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/author/william_h_geiger_iii_whgiii_at_invweb_net_)"
++ Return to "[lutz<span>@</span>taranis.iks-jena.de (Lutz Donnerhacke)](/authors/lutz_at_taranis_iksjena_de_lutz_donnerhacke_)"
++ Return to "[nobody<span>@</span>neva.org (Neva Remailer)](/authors/nobody_at_neva_org_neva_remailer_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/authors/william_h_geiger_iii_whgiii_at_invweb_net_)"
 
 + 1997-10-24 (Fri, 24 Oct 1997 09:50:47 +0800) - [CMR versus GAK?](/archive/1997/10/50a927b2bf58fb596e09c2bcc4b30946c798e652e09a8511bf252d0ef9cd9c91) - _nobody@neva.org (Neva Remailer)_
   + 1997-10-24 (Fri, 24 Oct 1997 20:31:43 +0800) - [Re: CMR versus GAK?](/archive/1997/10/cd384ccdbd99e4a1877d47afe4e7fa61e486c2f48a38d536c49f2ac94e5af0be) - _"William H. Geiger III" \<whgiii@invweb.net\>_

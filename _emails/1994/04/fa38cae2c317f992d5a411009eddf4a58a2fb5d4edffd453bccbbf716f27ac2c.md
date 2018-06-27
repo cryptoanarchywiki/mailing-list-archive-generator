@@ -143,8 +143,8 @@ Y2tbaWNdID0gdGVtcDsKCX0KfQo=
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "["Buckley Collum" <buckley<span>@</span>wavefront.wti.com>](/author/buckley_collum_buckley_at_wavefront_wti_com_)"
-+ Return to "[Jim Gillogly <jim<span>@</span>rand.org>](/author/jim_gillogly_jim_at_rand_org_)"
++ Return to "["Buckley Collum" <buckley<span>@</span>wavefront.wti.com>](/authors/buckley_collum_buckley_at_wavefront_wti_com_)"
++ Return to "[Jim Gillogly <jim<span>@</span>rand.org>](/authors/jim_gillogly_jim_at_rand_org_)"
 
 + 1994-04-20 (Wed, 20 Apr 94 14:50:25 PDT) - simple_crypt comparison - _"Buckley Collum" \<buckley@wavefront.wti.com\>_
   + 1994-04-20 (Wed, 20 Apr 94 15:42:45 PDT) - [Re: simple_crypt comparison](/archive/1994/04/165ee25b0a0037522090b0203923b0520e2fefa181cd15ece858fa7056589adf) - _Jim Gillogly \<jim@rand.org\>_

@@ -44,7 +44,7 @@ Half Romanian Gypsie, half Hungarian Jew.
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[Information Security <guy<span>@</span>panix.com>](/author/information_security_guy_at_panix_com_)"
++ Return to "[Information Security <guy<span>@</span>panix.com>](/authors/information_security_guy_at_panix_com_)"
 
 + 1997-12-31 (Wed, 31 Dec 1997 00:35:58 -0800 (PST)) - Vulis again - _Information Security \<guy@panix.com\>_
 

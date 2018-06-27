@@ -69,7 +69,7 @@ them.
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "[Sandy <72114.1712<span>@</span>CompuServe.COM>](/author/sandy_72114_1712_at_compuserve_com_)"
++ Return to "[Sandy <72114.1712<span>@</span>CompuServe.COM>](/authors/sandy_72114_1712_at_compuserve_com_)"
 
 + 1993-09-11 (Sat, 11 Sep 93 09:13:07 PDT) - DIGITAL WARFARE - _Sandy \<72114.1712@CompuServe.COM\>_
 

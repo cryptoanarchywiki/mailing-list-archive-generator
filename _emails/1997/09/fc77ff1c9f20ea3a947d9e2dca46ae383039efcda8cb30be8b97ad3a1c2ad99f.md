@@ -97,7 +97,7 @@ homogoneity in the desires of the people.
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
 
 + 1997-09-11 (Thu, 11 Sep 1997 08:27:49 +0800) - Re: Removing Tyranny from Democracy (Part II), (fwd) - _Jim Choate \<ravage@ssz.com\>_
 

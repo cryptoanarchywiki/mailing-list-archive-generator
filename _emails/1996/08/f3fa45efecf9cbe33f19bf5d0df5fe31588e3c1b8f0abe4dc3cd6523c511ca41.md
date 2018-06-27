@@ -52,8 +52,8 @@ Perry
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Censored Girls Anonymous <carolann<span>@</span>censored.org>](/author/censored_girls_anonymous_carolann_at_censored_org_)"
-+ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[Censored Girls Anonymous <carolann<span>@</span>censored.org>](/authors/censored_girls_anonymous_carolann_at_censored_org_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/authors/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1996-08-22 (Thu, 22 Aug 1996 09:02:41 +0800) - [Ruritania](/archive/1996/08/a19e3b0b61733d6cd02694a3cbdf8bd685e78edd532455938674a102610712e5) - _Censored Girls Anonymous \<carolann@censored.org\>_
   + 1996-08-24 (Sun, 25 Aug 1996 05:36:09 +0800) - Re: Ruritania - _"Perry E. Metzger" \<perry@piermont.com\>_

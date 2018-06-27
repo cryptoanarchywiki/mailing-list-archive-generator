@@ -87,7 +87,7 @@ Higher Power: 2^859433 | Public Key: PGP and MailSafe available.
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[tcmay<span>@</span>localhost.netcom.com (Timothy C. May)](/author/tcmay_at_localhost_netcom_com_timothy_c_may_)"
++ Return to "[tcmay<span>@</span>localhost.netcom.com (Timothy C. May)](/authors/tcmay_at_localhost_netcom_com_timothy_c_may_)"
 
 + 1994-08-10 (Tue, 9 Aug 94 21:36:03 PDT) - Re: No more NSA supra-computer? - _tcmay@localhost.netcom.com (Timothy C. May)_
 

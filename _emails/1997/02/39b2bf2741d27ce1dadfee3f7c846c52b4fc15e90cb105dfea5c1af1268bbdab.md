@@ -74,7 +74,7 @@ irV8YtXhDlsqbVaZDIPoweE5viibrR0ZrfuCqRm4oClGRvttSJdPxTN5iY5ry+HQ
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[Jeremiah A Blatz <jer+<span>@</span>andrew.cmu.edu>](/author/jeremiah_a_blatz_jer_at_andrew_cmu_edu_)"
++ Return to "[Jeremiah A Blatz <jer+<span>@</span>andrew.cmu.edu>](/authors/jeremiah_a_blatz_jer_at_andrew_cmu_edu_)"
 
 + 1997-02-12 (Wed, 12 Feb 1997 06:11:33 -0800 (PST)) - Re: Germany Versus Scientology - _Jeremiah A Blatz \<jer+@andrew.cmu.edu\>_
 

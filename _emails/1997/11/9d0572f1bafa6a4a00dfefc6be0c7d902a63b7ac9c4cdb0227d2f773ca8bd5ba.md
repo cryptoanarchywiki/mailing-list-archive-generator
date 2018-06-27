@@ -119,8 +119,8 @@ http://mit.edu/rdl/
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
-+ Return to "[Ryan Lackey <rdl<span>@</span>mit.edu>](/author/ryan_lackey_rdl_at_mit_edu_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/authors/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Ryan Lackey <rdl<span>@</span>mit.edu>](/authors/ryan_lackey_rdl_at_mit_edu_)"
 
 + 1997-11-16 (Sun, 16 Nov 1997 22:48:12 +0800) - Re: trusting untrusted platforms - _Ryan Lackey \<rdl@mit.edu\>_
   + 1997-11-18 (Tue, 18 Nov 1997 08:42:39 +0800) - [Re: trusting untrusted platforms](/archive/1997/11/08e470d77f22ff3c7363e4d7522d78cd69f6f4b7b1fd9dd2a46de9293cbf2e20) - _Robert Hettinga \<rah@shipwright.com\>_

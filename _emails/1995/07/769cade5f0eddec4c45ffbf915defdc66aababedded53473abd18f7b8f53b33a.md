@@ -69,7 +69,7 @@ Higher Power: 2^756839 | Public Key: PGP and MailSafe available.
 
 + Return to [July 1995](/archive/1995/07)
 
-+ Return to "[tcmay<span>@</span>sensemedia.net (Timothy C. May)](/author/tcmay_at_sensemedia_net_timothy_c_may_)"
++ Return to "[tcmay<span>@</span>sensemedia.net (Timothy C. May)](/authors/tcmay_at_sensemedia_net_timothy_c_may_)"
 
 + 1995-07-19 (Tue, 18 Jul 95 19:21:18 PDT) - Re: Mandatory key registration - _tcmay@sensemedia.net (Timothy C. May)_
 

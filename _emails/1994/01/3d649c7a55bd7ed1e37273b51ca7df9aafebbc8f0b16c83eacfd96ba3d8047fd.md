@@ -40,7 +40,7 @@ the time to participate, but it looks interesting.
 
 + Return to [January 1994](/archive/1994/01)
 
-+ Return to "["Chris \"Strunoph\" Norman" <cbnorman<span>@</span>undergrad.math.uwaterloo.ca>](/author/chris_strunoph_norman_cbnorman_at_undergrad_math_uwaterloo_ca_)"
++ Return to "["Chris \"Strunoph\" Norman" <cbnorman<span>@</span>undergrad.math.uwaterloo.ca>](/authors/chris_strunoph_norman_cbnorman_at_undergrad_math_uwaterloo_ca_)"
 
 + 1994-01-16 (Sun, 16 Jan 94 10:23:16 PST) - SQUISH - _"Chris \"Strunoph\" Norman" \<cbnorman@undergrad.math.uwaterloo.ca\>_
 

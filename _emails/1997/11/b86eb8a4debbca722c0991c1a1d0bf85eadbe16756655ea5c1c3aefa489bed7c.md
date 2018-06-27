@@ -220,7 +220,7 @@ conference will be available at URL http://www.cwi.nl/conferences/FC98.
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Ray Hirschfeld <R.Hirschfeld<span>@</span>cwi.nl>](/author/ray_hirschfeld_r_hirschfeld_at_cwi_nl_)"
++ Return to "[Ray Hirschfeld <R.Hirschfeld<span>@</span>cwi.nl>](/authors/ray_hirschfeld_r_hirschfeld_at_cwi_nl_)"
 
 + 1997-11-04 (Tue, 4 Nov 1997 15:19:34 -0800 (PST)) - Financial Cryptography '98 Final Call for Papers - _Ray Hirschfeld \<R.Hirschfeld@cwi.nl\>_
 

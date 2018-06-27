@@ -50,7 +50,7 @@ A.E.N.
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1995-12-21 (Wed, 20 Dec 95 23:55:10 PST) - Cypherpunks resumes? - _nobody@REPLAY.COM (Anonymous)_
 

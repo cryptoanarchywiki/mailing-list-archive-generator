@@ -68,13 +68,13 @@ p.s. SPAM PROOF Email address. Remove the "*" to reply.
 + Return to [August 1998](/archive/1998/08)
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "["Bernardo B. Terrado" <bbt<span>@</span>mudspring.uplb.edu.ph>](/author/bernardo_b_terrado_bbt_at_mudspring_uplb_edu_ph_)"
-+ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/author/bill_stewart_bill_stewart_at_pobox_com_)"
-+ Return to "[Dutra de Lacerda <dulac<span>@</span>ip.pt>](/author/dutra_de_lacerda_dulac_at_ip_pt_)"
-+ Return to "["kryz" <chrisharwig<span>@</span>hetnet.nl>](/author/kryz_chrisharwig_at_hetnet_nl_)"
-+ Return to "[mgraffam<span>@</span>mhv.net](/author/mgraffam_at_mhv_net)"
-+ Return to "[Travis Savo <admin<span>@</span>max-web.com>](/author/travis_savo_admin_at_maxweb_com_)"
-+ Return to "["Your Yashy" <cons0005<span>@</span>*algonquinc.on.ca>](/author/your_yashy_cons0005_at_algonquinc_on_ca_)"
++ Return to "["Bernardo B. Terrado" <bbt<span>@</span>mudspring.uplb.edu.ph>](/authors/bernardo_b_terrado_bbt_at_mudspring_uplb_edu_ph_)"
++ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/authors/bill_stewart_bill_stewart_at_pobox_com_)"
++ Return to "[Dutra de Lacerda <dulac<span>@</span>ip.pt>](/authors/dutra_de_lacerda_dulac_at_ip_pt_)"
++ Return to "["kryz" <chrisharwig<span>@</span>hetnet.nl>](/authors/kryz_chrisharwig_at_hetnet_nl_)"
++ Return to "[mgraffam<span>@</span>mhv.net](/authors/mgraffam_at_mhv_net)"
++ Return to "[Travis Savo <admin<span>@</span>max-web.com>](/authors/travis_savo_admin_at_maxweb_com_)"
++ Return to "["Your Yashy" <cons0005<span>@</span>*algonquinc.on.ca>](/authors/your_yashy_cons0005_at_algonquinc_on_ca_)"
 
 + _Unknown thread root_
   + 1998-09-06 (Sun, 6 Sep 1998 05:10:26 -0700 (PDT)) - ["In dreams begin responsibility" - W.B. Yeats](/archive/1998/09/935c2b23c23276843ea718208d3c515a72dcbbe7db96bb03a3a8a106a8edaca5) - _"kryz" \<chrisharwig@hetnet.nl\>_

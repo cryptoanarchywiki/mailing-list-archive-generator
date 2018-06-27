@@ -70,9 +70,9 @@ FC97: Anguilla, anyone? http://www.ai/fc97/
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "["Jonathan M. Bresler" <jmb<span>@</span>FRB.GOV>](/author/jonathan_m_bresler_jmb_at_frb_gov_)"
-+ Return to "["Jonathan M. Bresler" <jmb<span>@</span>frb.gov>](/author/jonathan_m_bresler_jmb_at_frb_gov_)"
-+ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "["Jonathan M. Bresler" <jmb<span>@</span>FRB.GOV>](/authors/jonathan_m_bresler_jmb_at_frb_gov_)"
++ Return to "["Jonathan M. Bresler" <jmb<span>@</span>frb.gov>](/authors/jonathan_m_bresler_jmb_at_frb_gov_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/authors/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-02-12 (Wed, 12 Feb 1997 12:57:03 -0800 (PST)) - [Re: Need a good bi-directional mail-news gateway](/archive/1997/02/b5dfc191b70493ccfdc38c260e1e43dd7ee320bc7756d4868d5bbbdfd9665627) - _"Jonathan M. Bresler" \<jmb@frb.gov\>_
   + 1997-02-12 (Wed, 12 Feb 1997 15:14:13 -0800 (PST)) - Re: Need a good bi-directional mail-news gateway - _Robert Hettinga \<rah@shipwright.com\>_

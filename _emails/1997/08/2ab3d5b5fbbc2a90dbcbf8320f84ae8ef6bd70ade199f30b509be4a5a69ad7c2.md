@@ -46,7 +46,7 @@ Andrew
 
 + Return to [August 1997](/archive/1997/08)
 
-+ Return to "[Andrew<span>@</span>mail.demon.net](/author/andrew_at_mail_demon_net)"
++ Return to "[Andrew<span>@</span>mail.demon.net](/authors/andrew_at_mail_demon_net)"
 
 + 1997-08-25 (Mon, 25 Aug 1997 16:53:04 -0700 (PDT)) - Economics Quest - _Andrew@mail.demon.net_
 

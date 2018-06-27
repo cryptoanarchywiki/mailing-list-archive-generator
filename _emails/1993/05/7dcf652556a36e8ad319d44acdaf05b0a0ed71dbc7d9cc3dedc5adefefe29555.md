@@ -111,7 +111,7 @@ STOP THE WIRETAP CHIP(Clipper Chip)!!
 
 + Return to [May 1993](/archive/1993/05)
 
-+ Return to "[kelly<span>@</span>pleiku.netcom.com](/author/kelly_at_pleiku_netcom_com)"
++ Return to "[kelly<span>@</span>pleiku.netcom.com](/authors/kelly_at_pleiku_netcom_com)"
 
 + 1993-05-25 (Tue, 25 May 93 09:34:33 PDT) - No Subject - _kelly@pleiku.netcom.com_
 

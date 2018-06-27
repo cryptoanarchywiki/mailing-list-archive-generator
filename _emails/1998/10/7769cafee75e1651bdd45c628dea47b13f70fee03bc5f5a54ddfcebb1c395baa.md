@@ -41,7 +41,7 @@ later 2.1 kernels) which implement at LEAST CAST-128 and IDEA?
 
 + Return to [October 1998](/archive/1998/10)
 
-+ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/authors/anonymous_nobody_at_replay_com_)"
 
 + 1998-10-25 (Mon, 26 Oct 1998 06:39:12 +0800) - Encrypted FS for Linux - _Anonymous \<nobody@replay.com\>_
 

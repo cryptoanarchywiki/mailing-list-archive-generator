@@ -118,7 +118,7 @@ engineer, programmer, statistitian, etc.
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[Clay Olbon II <olbon<span>@</span>ix.netcom.com>](/author/clay_olbon_ii_olbon_at_ix_netcom_com_)"
++ Return to "[Clay Olbon II <olbon<span>@</span>ix.netcom.com>](/authors/clay_olbon_ii_olbon_at_ix_netcom_com_)"
 
 + 1996-11-27 (Wed, 27 Nov 1996 12:36:26 -0800 (PST)) - Re: wealth and property rights - _Clay Olbon II \<olbon@ix.netcom.com\>_
 

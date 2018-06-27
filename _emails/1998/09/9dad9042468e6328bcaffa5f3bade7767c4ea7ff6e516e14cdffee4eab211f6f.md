@@ -97,7 +97,7 @@ GALAXY Hardware - 5075 Nectar Way - Eugene OR 97405
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[sales<span>@</span>galaxyhp.com](/author/sales_at_galaxyhp_com)"
++ Return to "[sales<span>@</span>galaxyhp.com](/authors/sales_at_galaxyhp_com)"
 
 + 1998-09-27 (Sun, 27 Sep 1998 12:03:19 -0700 (PDT)) - Medical Equipment - _sales@galaxyhp.com_
 

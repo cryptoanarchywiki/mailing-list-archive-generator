@@ -78,9 +78,9 @@ polarization.
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
-+ Return to "[Steve Schear <schear<span>@</span>lvdi.net>](/author/steve_schear_schear_at_lvdi_net_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Steve Schear <schear<span>@</span>lvdi.net>](/authors/steve_schear_schear_at_lvdi_net_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
 
 + 1998-01-28 (Wed, 28 Jan 1998 22:31:53 +0800) - Re: Planetary rovers, SETI and other musings, was Re: update.356 (fwd) - _Jim Choate \<ravage@ssz.com\>_
   + 1998-01-28 (Thu, 29 Jan 1998 03:11:33 +0800) - [Re: Planetary rovers, SETI and other musings, was Re: update.356(fwd)](/archive/1998/01/c327525d86f4544a7c77b36cbee023c65f30a0670cfc6d9349edc8eda2f5a15c) - _Steve Schear \<schear@lvdi.net\>_

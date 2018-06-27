@@ -54,8 +54,8 @@ jimbell@pacifier.com
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
 
 + 1996-07-04 (Thu, 4 Jul 1996 15:51:29 +0800) - Re: ecash thoughts - _jim bell \<jimbell@pacifier.com\>_
   + 1996-07-05 (Fri, 5 Jul 1996 11:16:43 +0800) - [Re: ecash thoughts](/archive/1996/07/603f2d7eb1f20dfdcb0bbc8d0286805944d6ebfce99c1c24f418cfc16c93b5d1) - _"Mark M." \<markm@voicenet.com\>_

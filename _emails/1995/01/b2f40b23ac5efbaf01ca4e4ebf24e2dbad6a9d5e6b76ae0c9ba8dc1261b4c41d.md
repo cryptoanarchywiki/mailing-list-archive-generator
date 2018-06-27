@@ -77,7 +77,7 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[an172607<span>@</span>anon.penet.fi (duquesne duke)](/author/an172607_at_anon_penet_fi_duquesne_duke_)"
++ Return to "[an172607<span>@</span>anon.penet.fi (duquesne duke)](/authors/an172607_at_anon_penet_fi_duquesne_duke_)"
 
 + 1995-01-02 (Sun, 1 Jan 95 19:48:12 PST) - cnonymity, law and order - _an172607@anon.penet.fi (duquesne duke)_
 

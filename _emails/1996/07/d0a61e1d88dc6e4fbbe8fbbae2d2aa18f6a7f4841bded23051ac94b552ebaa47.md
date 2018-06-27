@@ -62,15 +62,15 @@ How much are you asking? (O.K. - how much minus the corgies?)
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/author/alan_horowitz_alanh_at_infi_net_)"
-+ Return to "[David Sternlight <david<span>@</span>sternlight.com>](/author/david_sternlight_david_at_sternlight_com_)"
-+ Return to "[hallam<span>@</span>Etna.ai.mit.edu](/author/hallam_at_etna_ai_mit_edu)"
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
-+ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
-+ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
-+ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
-+ Return to "[snow <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
-+ Return to "[Vinnie Moscaritolo <vinnie<span>@</span>webstuff.apple.com>](/author/vinnie_moscaritolo_vinnie_at_webstuff_apple_com_)"
++ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/authors/alan_horowitz_alanh_at_infi_net_)"
++ Return to "[David Sternlight <david<span>@</span>sternlight.com>](/authors/david_sternlight_david_at_sternlight_com_)"
++ Return to "[hallam<span>@</span>Etna.ai.mit.edu](/authors/hallam_at_etna_ai_mit_edu)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/authors/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/authors/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/authors/simon_spero_ses_at_tipper_oit_unc_edu_)"
++ Return to "[snow <snow<span>@</span>smoke.suba.com>](/authors/snow_snow_at_smoke_suba_com_)"
++ Return to "[Vinnie Moscaritolo <vinnie<span>@</span>webstuff.apple.com>](/authors/vinnie_moscaritolo_vinnie_at_webstuff_apple_com_)"
 
 + _Unknown thread root_
   + 1996-07-20 (Sun, 21 Jul 1996 03:44:23 +0800) - [Re: Responding to Pre-dawn Unannounced Ninja Raids](/archive/1996/07/cdbcc265097ae3c253f560e53650c9add5dfc7a4d21c054bf714c5964c4f7013) - _Vinnie Moscaritolo \<vinnie@webstuff.apple.com\>_

@@ -48,7 +48,7 @@ You seem to have misspelled START.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "["Butler, Scott" <SButler<span>@</span>chemson.com>](/author/butler_scott_sbutler_at_chemson_com_)"
++ Return to "["Butler, Scott" <SButler<span>@</span>chemson.com>](/authors/butler_scott_sbutler_at_chemson_com_)"
 
 + 1997-01-20 (Mon, 20 Jan 1997 03:53:37 -0800 (PST)) - RE: THIS IS THE FIRST MESSAGE TO THE MODERATED CYPHERPUNKS LIST - _"Butler, Scott" \<SButler@chemson.com\>_
 

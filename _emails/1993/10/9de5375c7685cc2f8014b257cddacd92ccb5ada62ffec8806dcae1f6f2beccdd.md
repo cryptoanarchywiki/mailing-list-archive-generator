@@ -55,7 +55,7 @@ the insights are similar.
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[a2<span>@</span>ah.com (Arthur Abraham)](/author/a2_at_ah_com_arthur_abraham_)"
++ Return to "[a2<span>@</span>ah.com (Arthur Abraham)](/authors/a2_at_ah_com_arthur_abraham_)"
 
 + 1993-10-31 (Sun, 31 Oct 93 15:23:44 PST) - NSA Security - _a2@ah.com (Arthur Abraham)_
 

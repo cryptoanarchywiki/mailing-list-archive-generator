@@ -54,7 +54,7 @@ sorry for them."
 
 + Return to [June 1994](/archive/1994/06)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1994-06-15 (Wed, 15 Jun 94 12:32:04 PDT) - Decline and Fall - _Duncan Frissell \<frissell@panix.com\>_
 

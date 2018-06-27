@@ -37,7 +37,7 @@ Forwarded message:
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[Jim choate <ravage<span>@</span>wixer.bga.com>](/author/jim_choate_ravage_at_wixer_bga_com_)"
++ Return to "[Jim choate <ravage<span>@</span>wixer.bga.com>](/authors/jim_choate_ravage_at_wixer_bga_com_)"
 
 + 1994-02-03 (Thu, 3 Feb 94 15:24:49 PST) - Message returned to sender (fwd) - _Jim choate \<ravage@wixer.bga.com\>_
 

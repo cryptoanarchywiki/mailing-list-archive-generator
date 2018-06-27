@@ -76,7 +76,7 @@ online, sorry.)
 
 + Return to [December 1993](/archive/1993/12)
 
-+ Return to "[henry strickland <strick<span>@</span>versant.com>](/author/henry_strickland_strick_at_versant_com_)"
++ Return to "[henry strickland <strick<span>@</span>versant.com>](/authors/henry_strickland_strick_at_versant_com_)"
 
 + 1993-12-07 (Tue, 7 Dec 93 11:13:35 PST) - on initial rejection of claims of RSA patent - _henry strickland \<strick@versant.com\>_
 

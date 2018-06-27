@@ -103,7 +103,7 @@ Licensed Ontologist         | black markets, collapse of governments.
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/authors/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-09-02 (Mon, 2 Sep 1996 16:14:55 +0800) - Re: Silenced Machine Guns Are Safer Than TWA - _tcmay@got.net (Timothy C. May)_
 

@@ -100,10 +100,10 @@ plb/XsYBLLE=
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[David Sternlight <david<span>@</span>sternlight.com>](/author/david_sternlight_david_at_sternlight_com_)"
-+ Return to "[JMKELSEY<span>@</span>delphi.com](/author/jmkelsey_at_delphi_com)"
-+ Return to "[JonWienk<span>@</span>ix.netcom.com](/author/jonwienk_at_ix_netcom_com)"
-+ Return to "[Paul Foley <mycroft<span>@</span>actrix.gen.nz>](/author/paul_foley_mycroft_at_actrix_gen_nz_)"
++ Return to "[David Sternlight <david<span>@</span>sternlight.com>](/authors/david_sternlight_david_at_sternlight_com_)"
++ Return to "[JMKELSEY<span>@</span>delphi.com](/authors/jmkelsey_at_delphi_com)"
++ Return to "[JonWienk<span>@</span>ix.netcom.com](/authors/jonwienk_at_ix_netcom_com)"
++ Return to "[Paul Foley <mycroft<span>@</span>actrix.gen.nz>](/authors/paul_foley_mycroft_at_actrix_gen_nz_)"
 
 + 1996-07-24 (Thu, 25 Jul 1996 05:36:31 +0800) - No Subject - _JMKELSEY@delphi.com_
   + 1996-07-26 (Fri, 26 Jul 1996 15:46:23 +0800) - [Defeating "Perp Profile" Analyses Of Written Materials](/archive/1996/07/23a74711fa7bd3f006bb063feed6967f3257aa48c3b652a315de265172fec212) - _JonWienk@ix.netcom.com_

@@ -167,7 +167,7 @@ Kxcra9o/xLmaUIZ3X+j0k6vXafv52Vm0BvvB62F6wanZFSdqBAx8xZ3A/KvYbRV8
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[nobody<span>@</span>shell.portal.com](/author/nobody_at_shell_portal_com)"
++ Return to "[nobody<span>@</span>shell.portal.com](/authors/nobody_at_shell_portal_com)"
 
 + 1994-05-05 (Wed, 4 May 94 23:23:08 PDT) - Advertisement - _nobody@shell.portal.com_
 

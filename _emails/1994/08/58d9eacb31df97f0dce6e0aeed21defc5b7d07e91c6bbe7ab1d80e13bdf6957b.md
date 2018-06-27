@@ -71,7 +71,7 @@ Now you know why I do not have any credit cards.
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[alano<span>@</span>teleport.com (Alan Olsen)](/author/alano_at_teleport_com_alan_olsen_)"
++ Return to "[alano<span>@</span>teleport.com (Alan Olsen)](/authors/alano_at_teleport_com_alan_olsen_)"
 
 + 1994-08-10 (Tue, 9 Aug 94 20:51:16 PDT) - Re: CreditCard info - _alano@teleport.com (Alan Olsen)_
 

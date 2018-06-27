@@ -65,7 +65,7 @@ For privacy tools: http://www.geocities.com/capitolhill/1148
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/author/david_k_merriman_merriman_at_arn_net_)"
++ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/authors/david_k_merriman_merriman_at_arn_net_)"
 
 + 1996-03-09 (Sat, 9 Mar 1996 09:03:07 +0800) - 2nd request for links, etc. - _"David K. Merriman" \<merriman@arn.net\>_
 

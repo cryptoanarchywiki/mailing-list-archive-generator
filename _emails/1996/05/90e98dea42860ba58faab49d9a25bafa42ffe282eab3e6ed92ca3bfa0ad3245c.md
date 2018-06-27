@@ -49,7 +49,7 @@ PGP Public Key via E-Mail
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[draven<span>@</span>infi.net (Greg Morgan)](/author/draven_at_infi_net_greg_morgan_)"
++ Return to "[draven<span>@</span>infi.net (Greg Morgan)](/authors/draven_at_infi_net_greg_morgan_)"
 
 + 1996-05-13 (Mon, 13 May 1996 22:39:18 +0800) - Any DLL's that handle Public Key Encryption or Key Exchange? - _draven@infi.net (Greg Morgan)_
 

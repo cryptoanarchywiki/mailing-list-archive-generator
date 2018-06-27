@@ -49,7 +49,7 @@ Bill
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/author/frantz_at_netcom_com_bill_frantz_)"
++ Return to "[frantz<span>@</span>netcom.com (Bill Frantz)](/authors/frantz_at_netcom_com_bill_frantz_)"
 
 + 1996-01-27 (Sat, 27 Jan 1996 14:28:39 +0800) - Re: Denning's misleading statements - _frantz@netcom.com (Bill Frantz)_
 

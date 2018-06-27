@@ -70,7 +70,7 @@ flreCRCe/ZqKQ4+EJzNQXT4HtQglbDO3Tl3aM411urnhFLhTCorrbTW4NChhd3S8
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[greg<span>@</span>ideath.goldenbear.com (Greg Broiles)](/author/greg_at_ideath_goldenbear_com_greg_broiles_)"
++ Return to "[greg<span>@</span>ideath.goldenbear.com (Greg Broiles)](/authors/greg_at_ideath_goldenbear_com_greg_broiles_)"
 
 + 1994-04-13 (Tue, 12 Apr 94 17:47:09 PDT) - Anonymity and the US Supreme Court - _greg@ideath.goldenbear.com (Greg Broiles)_
 

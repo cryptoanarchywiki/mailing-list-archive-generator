@@ -84,8 +84,8 @@ it for me.  Maybe we should take a leaf from NSA's book and say that
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[m5<span>@</span>vail.tivoli.com (Mike McNally)](/author/m5_at_vail_tivoli_com_mike_mcnally_)"
-+ Return to "[smb<span>@</span>research.att.com](/author/smb_at_research_att_com)"
++ Return to "[m5<span>@</span>vail.tivoli.com (Mike McNally)](/authors/m5_at_vail_tivoli_com_mike_mcnally_)"
++ Return to "[smb<span>@</span>research.att.com](/authors/smb_at_research_att_com)"
 
 + 1994-08-19 (Fri, 19 Aug 94 12:18:27 PDT) - Re: Outlawing the overhearing of conversations - _smb@research.att.com_
   + 1994-08-19 (Fri, 19 Aug 94 12:51:00 PDT) - [Re: Outlawing the overhearing of conversations](/archive/1994/08/36b626e2ceadad1919993d76990f267bcfa8b7e23d02a08220be12ddf3127f7a) - _m5@vail.tivoli.com (Mike McNally)_

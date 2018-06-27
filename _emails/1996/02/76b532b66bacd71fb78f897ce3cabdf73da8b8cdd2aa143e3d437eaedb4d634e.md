@@ -111,8 +111,8 @@ If you've got to flame me, do it by email.
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[attila <attila<span>@</span>primenet.com>](/author/attila_attila_at_primenet_com_)"
-+ Return to "[Mike Ang <mang<span>@</span>lisgar.edu.on.ca>](/author/mike_ang_mang_at_lisgar_edu_on_ca_)"
++ Return to "[attila <attila<span>@</span>primenet.com>](/authors/attila_attila_at_primenet_com_)"
++ Return to "[Mike Ang <mang<span>@</span>lisgar.edu.on.ca>](/authors/mike_ang_mang_at_lisgar_edu_on_ca_)"
 
 + 1996-02-04 (Mon, 5 Feb 1996 01:44:58 +0800) - "Nations see Internet.." continued - _Mike Ang \<mang@lisgar.edu.on.ca\>_
   + 1996-02-06 (Tue, 6 Feb 1996 08:08:36 +0800) - [Re: "Nations see Internet.." continued](/archive/1996/02/72eab7544cc8d74cedd37e911bc57bc4cac6d339826d3cfdc8412908b8de386d) - _attila \<attila@primenet.com\>_

@@ -94,7 +94,7 @@ The Bible Code foretells all.
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1997-09-19 (Fri, 19 Sep 1997 10:58:08 +0800) - Re: politics aren't all or nothing - _John Young \<jya@pipeline.com\>_
 

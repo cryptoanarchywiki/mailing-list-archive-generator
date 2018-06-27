@@ -83,12 +83,12 @@ Higher Power: 2^2,976,221   | black markets, collapse of governments.
 + Return to [October 1997](/archive/1997/10)
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Eric Blossom <eb<span>@</span>comsec.com>](/author/eric_blossom_eb_at_comsec_com_)"
-+ Return to "[iang<span>@</span>cs.berkeley.edu (Ian Goldberg)](/author/iang_at_cs_berkeley_edu_ian_goldberg_)"
-+ Return to "[Jim Gillogly <jim<span>@</span>acm.org>](/author/jim_gillogly_jim_at_acm_org_)"
-+ Return to "[Lee Tien <tien<span>@</span>well.com>](/author/lee_tien_tien_at_well_com_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
-+ Return to "[TruthMonger <tm<span>@</span>dev.null>](/author/truthmonger_tm_at_dev_null_)"
++ Return to "[Eric Blossom <eb<span>@</span>comsec.com>](/authors/eric_blossom_eb_at_comsec_com_)"
++ Return to "[iang<span>@</span>cs.berkeley.edu (Ian Goldberg)](/authors/iang_at_cs_berkeley_edu_ian_goldberg_)"
++ Return to "[Jim Gillogly <jim<span>@</span>acm.org>](/authors/jim_gillogly_jim_at_acm_org_)"
++ Return to "[Lee Tien <tien<span>@</span>well.com>](/authors/lee_tien_tien_at_well_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
++ Return to "[TruthMonger <tm<span>@</span>dev.null>](/authors/truthmonger_tm_at_dev_null_)"
 
 + 1997-10-15 (Thu, 16 Oct 1997 03:01:11 +0800) - [Personal use crypto export](/archive/1997/10/835f1cdf2e0029c1f65b90782917aa8f85da73936ad39bf54c2f446ff7caf07e) - _Jim Gillogly \<jim@acm.org\>_
   + 1997-10-15 (Thu, 16 Oct 1997 03:37:14 +0800) - Re: Personal use crypto export - _Tim May \<tcmay@got.net\>_

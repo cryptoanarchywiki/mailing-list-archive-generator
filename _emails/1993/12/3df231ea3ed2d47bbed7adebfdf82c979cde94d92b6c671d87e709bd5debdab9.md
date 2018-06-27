@@ -195,8 +195,8 @@ Other queries should be sent to ask@eff.org.
 
 + Return to [December 1993](/archive/1993/12)
 
-+ Return to "[jkreznar<span>@</span>ininx.com (John E. Kreznar)](/author/jkreznar_at_ininx_com_john_e_kreznar_)"
-+ Return to "[Stanton McCandlish <mech<span>@</span>eff.org>](/author/stanton_mccandlish_mech_at_eff_org_)"
++ Return to "[jkreznar<span>@</span>ininx.com (John E. Kreznar)](/authors/jkreznar_at_ininx_com_john_e_kreznar_)"
++ Return to "[Stanton McCandlish <mech<span>@</span>eff.org>](/authors/stanton_mccandlish_mech_at_eff_org_)"
 
 + 1993-12-08 (Wed, 8 Dec 93 15:23:44 PST) - ANNOUNCEMENT: EFF Statement on Cryptography & Policy - _Stanton McCandlish \<mech@eff.org\>_
   + 1993-12-09 (Wed, 8 Dec 93 18:50:48 PST) - [ANNOUNCEMENT: EFF Statement on Cryptography & Policy](/archive/1993/12/807e7f68f04676c7a38b8ee6e2d57438a18dcdf080841b65f53237b83e485c1d) - _jkreznar@ininx.com (John E. Kreznar)_

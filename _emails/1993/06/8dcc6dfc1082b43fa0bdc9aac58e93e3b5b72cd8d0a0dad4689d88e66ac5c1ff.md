@@ -79,7 +79,7 @@ PS: I found that a simple, semi-automatic algorithm can generate a
 
 + Return to [June 1993](/archive/1993/06)
 
-+ Return to "[kqb<span>@</span>whscad1.att.com](/author/kqb_at_whscad1_att_com)"
++ Return to "[kqb<span>@</span>whscad1.att.com](/authors/kqb_at_whscad1_att_com)"
 
 + 1993-06-17 (Thu, 17 Jun 93 15:16:40 PDT) - Re: Weak steganography - _kqb@whscad1.att.com_
 

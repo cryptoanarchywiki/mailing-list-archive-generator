@@ -164,8 +164,8 @@ have demonstrated that it isn't necessarily a prerequisite for commerce.
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "[eric<span>@</span>remailer.net (Eric Hughes)](/author/eric_at_remailer_net_eric_hughes_)"
-+ Return to "[Nathaniel Borenstein <nsb<span>@</span>nsb.fv.com>](/author/nathaniel_borenstein_nsb_at_nsb_fv_com_)"
++ Return to "[eric<span>@</span>remailer.net (Eric Hughes)](/authors/eric_at_remailer_net_eric_hughes_)"
++ Return to "[Nathaniel Borenstein <nsb<span>@</span>nsb.fv.com>](/authors/nathaniel_borenstein_nsb_at_nsb_fv_com_)"
 
 + _Unknown thread root_
   + 1994-12-17 (Sat, 17 Dec 94 12:57:17 PST) - Re: properties of FV - _Nathaniel Borenstein \<nsb@nsb.fv.com\>_

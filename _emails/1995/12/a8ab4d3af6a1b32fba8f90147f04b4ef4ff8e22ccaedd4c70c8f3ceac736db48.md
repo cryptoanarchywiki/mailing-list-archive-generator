@@ -161,7 +161,7 @@ Ki08cJka/nAyD/D4iQyYB5Y3Jmppb5okFr+UxvdYmS+RZYFnNLfy8A==
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1995-12-01 (Fri, 1 Dec 1995 14:42:09 +0800) - Re: Netscape gives in to key escrow - _nobody@REPLAY.COM (Anonymous)_
 

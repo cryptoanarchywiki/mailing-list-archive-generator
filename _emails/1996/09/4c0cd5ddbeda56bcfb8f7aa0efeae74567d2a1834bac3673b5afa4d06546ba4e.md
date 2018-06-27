@@ -59,7 +59,7 @@ student to live to 18.
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/author/adamsc_at_ioonline_com_adamsc_)"
++ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/authors/adamsc_at_ioonline_com_adamsc_)"
 
 + 1996-09-29 (Sun, 29 Sep 1996 16:21:21 +0800) - Re: Public Schools - _Adamsc@io-online.com (Adamsc)_
 

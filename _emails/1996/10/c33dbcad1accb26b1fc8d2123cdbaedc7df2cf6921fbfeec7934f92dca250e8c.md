@@ -100,8 +100,8 @@ Higher Power: 2^1,257,787-1 | black markets, collapse of governments.
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
-+ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/authors/adam_shostack_adam_at_homeport_org_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/authors/timothy_c_may_tcmay_at_got_net_)"
 
 + 1996-10-29 (Mon, 28 Oct 1996 20:38:27 -0800 (PST)) - [Dimacs workshop on network threats?](/archive/1996/10/c396ce3aeda3d1009b72fb62b0ac1c9c4600eeec22c2a102ca1e0b89bac0bb5a) - _Adam Shostack \<adam@homeport.org\>_
   + 1996-10-29 (Tue, 29 Oct 1996 12:03:41 -0800 (PST)) - How do you spell "Internet"? T-H-R-E-A-T - _"Timothy C. May" \<tcmay@got.net\>_

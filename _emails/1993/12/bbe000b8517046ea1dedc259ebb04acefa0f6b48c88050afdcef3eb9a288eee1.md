@@ -122,8 +122,8 @@ Not to kill me for merely stepping on some toes.
 
 + Return to [December 1993](/archive/1993/12)
 
-+ Return to "[Claude Seymour <cseymour<span>@</span>cap.gwu.edu>](/author/claude_seymour_cseymour_at_cap_gwu_edu_)"
-+ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/author/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
++ Return to "[Claude Seymour <cseymour<span>@</span>cap.gwu.edu>](/authors/claude_seymour_cseymour_at_cap_gwu_edu_)"
++ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/authors/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
 
 + 1993-12-30 (Wed, 29 Dec 93 20:37:14 PST) - ...Into your life it will creep - _"L. Detweiler" \<ld231782@longs.lance.colostate.edu\>_
   + 1993-12-31 (Fri, 31 Dec 93 06:04:01 PST) - [Re: ...Into your life it will creep](/archive/1993/12/c2c9cd94d9b47928bdcd45476f49e8f756f0de3e40d696be08f9f91080863244) - _Claude Seymour \<cseymour@cap.gwu.edu\>_

@@ -56,8 +56,8 @@ http://www.c2.org (or login as "guest")			sameer@c2.org
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/authors/sameer_sameer_at_c2_org_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-07-18 (Mon, 18 Jul 94 13:08:19 PDT) - [Handling subscription requests](/archive/1994/07/5c599022c271c22e3dea9173f025a64a4d8fdd5687f44918af38d066b8e0ff5b) - _tcmay@netcom.com (Timothy C. May)_
   + 1994-07-18 (Mon, 18 Jul 94 16:09:34 PDT) - Re: Handling subscription requests - _sameer \<sameer@c2.org\>_

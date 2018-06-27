@@ -290,7 +290,7 @@ I'm going to stop now since the rest of your email is more of the same.
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-11-06 (Fri, 6 Nov 1998 10:01:01 +0800) - RE: dbts: Privacy Fetishes, Perfect Competition, and the Foregone (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

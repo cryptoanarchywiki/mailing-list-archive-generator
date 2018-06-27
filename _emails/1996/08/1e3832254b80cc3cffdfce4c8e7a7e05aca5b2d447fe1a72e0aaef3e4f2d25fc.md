@@ -64,10 +64,10 @@ igor
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
-+ Return to "[Alan Barrett <apb<span>@</span>iafrica.com>](/author/alan_barrett_apb_at_iafrica_com_)"
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
-+ Return to "[ichudov<span>@</span>galaxy.galstar.com (Igor Chudov)](/author/ichudov_at_galaxy_galstar_com_igor_chudov_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/authors/adam_shostack_adam_at_homeport_org_)"
++ Return to "[Alan Barrett <apb<span>@</span>iafrica.com>](/authors/alan_barrett_apb_at_iafrica_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[ichudov<span>@</span>galaxy.galstar.com (Igor Chudov)](/authors/ichudov_at_galaxy_galstar_com_igor_chudov_)"
 
 + 1996-08-05 (Tue, 6 Aug 1996 05:46:10 +0800) - Integrating PGP 3.0 Library with INN - _ichudov@galaxy.galstar.com (Igor Chudov)_
   + 1996-08-05 (Tue, 6 Aug 1996 07:22:42 +0800) - [Re: Integrating PGP 3.0 Library with INN](/archive/1996/08/7232c30946d5ce2f03c0a8c087f2e434d602ab7cf2cce6425417d9bfcc2d2265) - _Adam Shostack \<adam@homeport.org\>_

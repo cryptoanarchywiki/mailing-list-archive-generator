@@ -448,7 +448,7 @@ TO FINANCIAL FREEDOM!!!
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[vinjac<span>@</span>usa.net](/author/vinjac_at_usa_net)"
++ Return to "[vinjac<span>@</span>usa.net](/authors/vinjac_at_usa_net)"
 
 + 1998-11-30 (Mon, 30 Nov 1998 07:52:01 -0800 (PST)) - Tired of the Rat Race? Read and Build Wealth!! - _vinjac@usa.net_
 

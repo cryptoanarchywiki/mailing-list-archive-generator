@@ -104,7 +104,7 @@ has its problems.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "["E. Allen Smith" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "["E. Allen Smith" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/authors/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1997-02-04 (Tue, 4 Feb 1997 06:26:46 -0800 (PST)) - Re: Dissolving Choke Points - _"E. Allen Smith" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

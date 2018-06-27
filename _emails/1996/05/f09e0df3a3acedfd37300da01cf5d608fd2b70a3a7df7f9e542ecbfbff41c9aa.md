@@ -64,7 +64,7 @@ JFA
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "["Jean-Francois Avon" <jf_avon<span>@</span>citenet.net>](/author/jeanfrancois_avon_jf_avon_at_citenet_net_)"
++ Return to "["Jean-Francois Avon" <jf_avon<span>@</span>citenet.net>](/authors/jeanfrancois_avon_jf_avon_at_citenet_net_)"
 
 + 1996-05-28 (Tue, 28 May 1996 13:14:11 +0800) - Throwing away the whole bushell because one apple is rotten... - _"Jean-Francois Avon" \<jf_avon@citenet.net\>_
 

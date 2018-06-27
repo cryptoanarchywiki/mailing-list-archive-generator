@@ -66,7 +66,7 @@ autoremover mailbot can remove you from our mailing list.
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[staff<span>@</span>mailcorporation.com](/author/staff_at_mailcorporation_com)"
++ Return to "[staff<span>@</span>mailcorporation.com](/authors/staff_at_mailcorporation_com)"
 
 + 1997-09-04 (Wed, 3 Sep 1997 18:44:48 -0700 (PDT)) - Re: 35,000,000 People... - _staff@mailcorporation.com_
 

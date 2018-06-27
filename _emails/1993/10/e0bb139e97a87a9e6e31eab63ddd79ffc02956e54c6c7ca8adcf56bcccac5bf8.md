@@ -47,7 +47,7 @@ provisions.
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[smb<span>@</span>research.att.com](/author/smb_at_research_att_com)"
++ Return to "[smb<span>@</span>research.att.com](/authors/smb_at_research_att_com)"
 
 + 1993-10-04 (Mon, 4 Oct 93 03:54:38 PDT) - Re: FBI on BBS operator liability (fwd) - _smb@research.att.com_
 

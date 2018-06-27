@@ -80,8 +80,8 @@ http://rampages.onramp.net/~ethridge/
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[ethridge<span>@</span>Onramp.NET (Allen Ethridge)](/author/ethridge_at_onramp_net_allen_ethridge_)"
-+ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "[ethridge<span>@</span>Onramp.NET (Allen Ethridge)](/authors/ethridge_at_onramp_net_allen_ethridge_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/authors/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-05-15 (Wed, 15 May 1996 10:50:51 +0800) - [Nature of Rights](/archive/1996/05/1d682ab81f05b640e7c88cea5086d35085e356ba58468e89cb0b389cb35652c1) - _tcmay@got.net (Timothy C. May)_
   + 1996-05-15 (Wed, 15 May 1996 17:37:02 +0800) - Re: Nature of Rights - _ethridge@Onramp.NET (Allen Ethridge)_

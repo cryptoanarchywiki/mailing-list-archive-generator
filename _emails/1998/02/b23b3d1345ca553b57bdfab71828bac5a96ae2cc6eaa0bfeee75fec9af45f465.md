@@ -77,7 +77,7 @@ Forwarded message:
 
 + Return to [February 1998](/archive/1998/02)
 
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-02-04 (Thu, 5 Feb 1998 06:40:56 +0800) - IBM cpu breaks 1GHz barrier [CNN] - _Jim Choate \<ravage@ssz.com\>_
 

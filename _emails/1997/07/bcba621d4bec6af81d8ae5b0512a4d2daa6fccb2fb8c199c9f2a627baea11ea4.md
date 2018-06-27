@@ -94,7 +94,7 @@ The e$ Home Page: http://www.shipwright.com/
 
 + Return to [July 1997](/archive/1997/07)
 
-+ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/authors/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-07-28 (Mon, 28 Jul 1997 19:48:29 +0800) - House Committee Hearing on Money Laundering - _Robert Hettinga \<rah@shipwright.com\>_
 

@@ -68,7 +68,7 @@ Send "help" to majordomo@c2.org for information.
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[SBinkley<span>@</span>atitech.ca (Scott Binkley)](/author/sbinkley_at_atitech_ca_scott_binkley_)"
++ Return to "[SBinkley<span>@</span>atitech.ca (Scott Binkley)](/authors/sbinkley_at_atitech_ca_scott_binkley_)"
 
 + _Unknown thread root_
   + 1996-05-15 (Wed, 15 May 1996 14:40:45 +0800) - [NOISE] Re: Notes from the SF P - _SBinkley@atitech.ca (Scott Binkley)_

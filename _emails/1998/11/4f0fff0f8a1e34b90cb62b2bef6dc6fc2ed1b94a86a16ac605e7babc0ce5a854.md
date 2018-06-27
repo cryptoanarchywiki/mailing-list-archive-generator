@@ -71,7 +71,7 @@ encryption would be stupid enough to choose DES
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[jkthomson <jkthomson<span>@</span>bigfoot.com>](/author/jkthomson_jkthomson_at_bigfoot_com_)"
++ Return to "[jkthomson <jkthomson<span>@</span>bigfoot.com>](/authors/jkthomson_jkthomson_at_bigfoot_com_)"
 
 + 1998-11-07 (Sat, 7 Nov 1998 13:38:35 +0800) - verisign digital id's for outlook <shudder> - _jkthomson \<jkthomson@bigfoot.com\>_
 

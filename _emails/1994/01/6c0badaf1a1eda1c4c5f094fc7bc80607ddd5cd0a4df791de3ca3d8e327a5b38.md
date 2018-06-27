@@ -76,7 +76,7 @@ oORKpOSn4H0=
 
 + Return to [January 1994](/archive/1994/01)
 
-+ Return to "[Fred Cooper <frc<span>@</span>bwh>](/author/fred_cooper_frc_at_bwh_)"
++ Return to "[Fred Cooper <frc<span>@</span>bwh>](/authors/fred_cooper_frc_at_bwh_)"
 
 + 1994-01-15 (Sat, 15 Jan 94 15:15:50 PST) - What is Real? - _Fred Cooper \<frc@bwh\>_
 

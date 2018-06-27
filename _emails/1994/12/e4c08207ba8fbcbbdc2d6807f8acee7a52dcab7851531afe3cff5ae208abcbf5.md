@@ -74,9 +74,9 @@ argument will convince us and not result in us calling him a technophobe.
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "["James A. Donald" <jamesd<span>@</span>netcom.com>](/author/james_a_donald_jamesd_at_netcom_com_)"
-+ Return to "[jrochkin<span>@</span>cs.oberlin.edu (Jonathan Rochkind)](/author/jrochkin_at_cs_oberlin_edu_jonathan_rochkind_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "["James A. Donald" <jamesd<span>@</span>netcom.com>](/authors/james_a_donald_jamesd_at_netcom_com_)"
++ Return to "[jrochkin<span>@</span>cs.oberlin.edu (Jonathan Rochkind)](/authors/jrochkin_at_cs_oberlin_edu_jonathan_rochkind_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-12-15 (Thu, 15 Dec 94 12:36:14 PST) - Re: McCoy is Right! New Mail Format to Start Now. - _jrochkin@cs.oberlin.edu (Jonathan Rochkind)_
   + 1994-12-15 (Thu, 15 Dec 94 13:20:52 PST) - [Re: McCoy is Right! New Mail Format to Start Now.](/archive/1994/12/57649cd4547e588fe1f1a16fd8338201741f59a6e061a7fb94ca0f1434ccdb29) - _tcmay@netcom.com (Timothy C. May)_

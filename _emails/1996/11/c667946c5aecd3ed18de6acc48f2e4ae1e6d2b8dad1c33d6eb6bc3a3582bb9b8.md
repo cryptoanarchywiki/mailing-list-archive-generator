@@ -135,7 +135,7 @@ jack-boots on my path.
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[Bovine Remailer <haystack<span>@</span>cow.net>](/author/bovine_remailer_haystack_at_cow_net_)"
++ Return to "[Bovine Remailer <haystack<span>@</span>cow.net>](/authors/bovine_remailer_haystack_at_cow_net_)"
 
 + 1996-11-06 (Wed, 6 Nov 1996 10:21:21 -0800 (PST)) - No Subject - _Bovine Remailer \<haystack@cow.net\>_
 

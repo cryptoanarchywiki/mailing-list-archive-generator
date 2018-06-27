@@ -56,7 +56,7 @@ cGRsYW1iQGlxdWVzdC5jb20+
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[pdlamb<span>@</span>iquest.com (Patrick Lamb)](/author/pdlamb_at_iquest_com_patrick_lamb_)"
++ Return to "[pdlamb<span>@</span>iquest.com (Patrick Lamb)](/authors/pdlamb_at_iquest_com_patrick_lamb_)"
 
 + 1995-09-22 (Fri, 22 Sep 95 08:15:53 PDT) - Re: Another Netscape Bug (and possible security hole) - _pdlamb@iquest.com (Patrick Lamb)_
 

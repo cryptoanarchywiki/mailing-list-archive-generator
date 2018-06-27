@@ -59,8 +59,8 @@ liked the Hitchikers Guide and base the origin of all life on it 8)
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[Grand Epopt Feotus <68954<span>@</span>brahms.udel.edu>](/author/grand_epopt_feotus_68954_at_brahms_udel_edu_)"
-+ Return to "[peb<span>@</span>PROCASE.COM (Paul Baclace)](/author/peb_at_procase_com_paul_baclace_)"
++ Return to "[Grand Epopt Feotus <68954<span>@</span>brahms.udel.edu>](/authors/grand_epopt_feotus_68954_at_brahms_udel_edu_)"
++ Return to "[peb<span>@</span>PROCASE.COM (Paul Baclace)](/authors/peb_at_procase_com_paul_baclace_)"
 
 + 1994-02-10 (Thu, 10 Feb 94 11:50:22 PST) - [T.A.Z.](/archive/1994/02/8fc243ca9c563ecc6ecce61def513ca2affcf3551b3f96308db01c6375e1374a) - _peb@PROCASE.COM (Paul Baclace)_
   + 1994-02-10 (Thu, 10 Feb 94 13:30:22 PST) - Re: T.A.Z. - _Grand Epopt Feotus \<68954@brahms.udel.edu\>_

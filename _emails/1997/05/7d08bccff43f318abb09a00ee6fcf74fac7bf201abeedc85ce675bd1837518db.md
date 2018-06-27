@@ -90,7 +90,7 @@ denial of service attack it isn't even funny.
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1997-05-14 (Wed, 14 May 1997 10:21:37 +0800) - Re: The Interlinked Cypherpunks Lists? (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

@@ -51,7 +51,7 @@ serpent@rths.rochelle.net
 
 + Return to [July 1998](/archive/1998/07)
 
-+ Return to "[Kurt Wolter <serpent<span>@</span>rths.rochelle.net>](/author/kurt_wolter_serpent_at_rths_rochelle_net_)"
++ Return to "[Kurt Wolter <serpent<span>@</span>rths.rochelle.net>](/authors/kurt_wolter_serpent_at_rths_rochelle_net_)"
 
 + 1998-07-29 (Wed, 29 Jul 1998 09:42:41 -0700 (PDT)) - Free NNTP server question... - _Kurt Wolter \<serpent@rths.rochelle.net\>_
 

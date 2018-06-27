@@ -60,8 +60,8 @@ His job was to shed light, and not to master.      RIP, Jerry
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
-+ Return to "[futplex<span>@</span>pseudonym.com (Futplex)](/author/futplex_at_pseudonym_com_futplex_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[futplex<span>@</span>pseudonym.com (Futplex)](/authors/futplex_at_pseudonym_com_futplex_)"
 
 + 1995-08-11 (Fri, 11 Aug 95 01:16:57 PDT) - Re: "Protect the children" as passphrase to Constitution - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1995-08-11 (Fri, 11 Aug 95 03:07:13 PDT) - [Re: "Protect the children" as passphrase to Constitution](/archive/1995/08/8ed0da5371f4456193da091b8fdf5ab243c620c5f2ec012082c20e2b35512ef5) - _futplex@pseudonym.com (Futplex)_

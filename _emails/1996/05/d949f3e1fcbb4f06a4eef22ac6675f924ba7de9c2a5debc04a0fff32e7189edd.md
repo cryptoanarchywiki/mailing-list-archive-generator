@@ -61,8 +61,8 @@ No racism, just capitali$m and its value system.
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[Jim Byrd <byrd<span>@</span>acm.org>](/author/jim_byrd_byrd_at_acm_org_)"
-+ Return to "[qut<span>@</span>netcom.com (Dave Harman)](/author/qut_at_netcom_com_dave_harman_)"
++ Return to "[Jim Byrd <byrd<span>@</span>acm.org>](/authors/jim_byrd_byrd_at_acm_org_)"
++ Return to "[qut<span>@</span>netcom.com (Dave Harman)](/authors/qut_at_netcom_com_dave_harman_)"
 
 + 1996-05-11 (Sat, 11 May 1996 09:35:10 +0800) - [Re: remailer@utopia.hacktic.nl down](/archive/1996/05/1ae5bb91424f06e5d18abb71134de0ec0009e5d49e5943ff11a5525deb381dbe) - _Jim Byrd \<byrd@acm.org\>_
   + 1996-05-11 (Sat, 11 May 1996 10:16:54 +0800) - Re: remailer@utopia.hacktic.nl down - _qut@netcom.com (Dave Harman)_

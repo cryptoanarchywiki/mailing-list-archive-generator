@@ -114,9 +114,9 @@ FCmJDocudq4=
 + Return to [August 1995](/archive/1995/08)
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[don<span>@</span>cs.byu.edu](/author/don_at_cs_byu_edu)"
-+ Return to "[Jiri Baum <jirib<span>@</span>sweeney.cs.monash.edu.au>](/author/jiri_baum_jirib_at_sweeney_cs_monash_edu_au_)"
-+ Return to "[Scott Brickner <sjb<span>@</span>austin.ibm.com>](/author/scott_brickner_sjb_at_austin_ibm_com_)"
++ Return to "[don<span>@</span>cs.byu.edu](/authors/don_at_cs_byu_edu)"
++ Return to "[Jiri Baum <jirib<span>@</span>sweeney.cs.monash.edu.au>](/authors/jiri_baum_jirib_at_sweeney_cs_monash_edu_au_)"
++ Return to "[Scott Brickner <sjb<span>@</span>austin.ibm.com>](/authors/scott_brickner_sjb_at_austin_ibm_com_)"
 
 + 1995-08-29 (Tue, 29 Aug 95 14:01:35 PDT) - [SSL search attacks](/archive/1995/08/944e363c5d22443f1006954f38fbee6afc85cc537b6a4a30f89a7d60505271c9) - _don@cs.byu.edu_
   + 1995-08-30 (Tue, 29 Aug 95 18:01:35 PDT) - [Re: SSL search attacks](/archive/1995/08/4a675293882eed3d65318cbfc391e5fb0b2ac5b49dbe9585dbe7833122a9fd3d) - _Scott Brickner \<sjb@austin.ibm.com\>_

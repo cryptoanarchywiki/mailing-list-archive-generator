@@ -52,7 +52,7 @@ and carbon copy half of Congress.
 
 + Return to [August 1998](/archive/1998/08)
 
-+ Return to "[HyperReal-Anon <nobody<span>@</span>sind.hyperreal.art.pl>](/author/hyperrealanon_nobody_at_sind_hyperreal_art_pl_)"
++ Return to "[HyperReal-Anon <nobody<span>@</span>sind.hyperreal.art.pl>](/authors/hyperrealanon_nobody_at_sind_hyperreal_art_pl_)"
 
 + 1998-08-09 (Sat, 8 Aug 1998 21:11:32 -0700 (PDT)) - Re: Mysterious taglines - _HyperReal-Anon \<nobody@sind.hyperreal.art.pl\>_
 

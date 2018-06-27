@@ -72,7 +72,7 @@ track 2 of the card, the bank's database or both.
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "["Geoffrey C. Grabow" <gcg<span>@</span>pb.net>](/author/geoffrey_c_grabow_gcg_at_pb_net_)"
++ Return to "["Geoffrey C. Grabow" <gcg<span>@</span>pb.net>](/authors/geoffrey_c_grabow_gcg_at_pb_net_)"
 
 + 1996-10-18 (Fri, 18 Oct 1996 07:18:16 -0700 (PDT)) - Re: DES cracker. - _"Geoffrey C. Grabow" \<gcg@pb.net\>_
 

@@ -54,8 +54,8 @@ Heavy shit
 
 + Return to [October 1997](/archive/1997/10)
 
-+ Return to "[graycastle<span>@</span>ppw.net](/author/graycastle_at_ppw_net)"
-+ Return to "[Rebel Remailer <mix<span>@</span>bear.apana.org.au>](/author/rebel_remailer_mix_at_bear_apana_org_au_)"
++ Return to "[graycastle<span>@</span>ppw.net](/authors/graycastle_at_ppw_net)"
++ Return to "[Rebel Remailer <mix<span>@</span>bear.apana.org.au>](/authors/rebel_remailer_mix_at_bear_apana_org_au_)"
 
 + 1997-10-30 (Thu, 30 Oct 1997 13:55:54 +0800) - Re: [ZOG] MARXIST COHEN WANTS 'CURTAILED FREEDOM': CALL TO ARMS WANTED - _Rebel Remailer \<mix@bear.apana.org.au\>_
   + 1997-10-30 (Thu, 30 Oct 1997 14:39:40 +0800) - [Re: [cpe:3265] Re: [ZOG] MARXIST COHEN WANTS 'CURTAILED FREEDOM': CALL TO ARMS WANTED](/archive/1997/10/0401582e75ef0409f2662274d7f43504a5517eaf7afa8bc403c063faefff8c0f) - _graycastle@ppw.net_

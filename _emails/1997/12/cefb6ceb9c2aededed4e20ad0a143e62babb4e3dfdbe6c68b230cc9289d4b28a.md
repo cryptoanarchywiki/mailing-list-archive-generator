@@ -51,7 +51,7 @@ The Sheriff.
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[The Sheriff <sheriff<span>@</span>speakeasy.org>](/author/the_sheriff_sheriff_at_speakeasy_org_)"
++ Return to "[The Sheriff <sheriff<span>@</span>speakeasy.org>](/authors/the_sheriff_sheriff_at_speakeasy_org_)"
 
 + 1997-12-14 (Sun, 14 Dec 1997 10:44:51 +0800) - replay.com - _The Sheriff \<sheriff@speakeasy.org\>_
 

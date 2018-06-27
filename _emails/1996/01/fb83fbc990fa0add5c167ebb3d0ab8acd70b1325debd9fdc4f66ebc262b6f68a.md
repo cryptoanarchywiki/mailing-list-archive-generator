@@ -82,7 +82,7 @@ OjxkfDcxJjI=
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[Jeff Simmons <jsimmons<span>@</span>goblin.punk.net>](/author/jeff_simmons_jsimmons_at_goblin_punk_net_)"
++ Return to "[Jeff Simmons <jsimmons<span>@</span>goblin.punk.net>](/authors/jeff_simmons_jsimmons_at_goblin_punk_net_)"
 
 + 1996-01-03 (Thu, 4 Jan 1996 03:11:45 +0800) - Re: Guerilla Internet Service Providers - _Jeff Simmons \<jsimmons@goblin.punk.net\>_
 

@@ -69,7 +69,7 @@ TWCgt4AdIIc=
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[JMKELSEY<span>@</span>delphi.com](/author/jmkelsey_at_delphi_com)"
++ Return to "[JMKELSEY<span>@</span>delphi.com](/authors/jmkelsey_at_delphi_com)"
 
 + 1996-03-09 (Sat, 9 Mar 1996 13:06:17 +0800) - POTP Jr. - _JMKELSEY@delphi.com_
 

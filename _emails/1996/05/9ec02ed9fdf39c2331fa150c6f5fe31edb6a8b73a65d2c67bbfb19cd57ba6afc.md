@@ -68,7 +68,7 @@ jimbell@pacifier.com
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-05-29 (Thu, 30 May 1996 05:31:35 +0800) - Re: Internet traffic is monitored. - _jim bell \<jimbell@pacifier.com\>_
 

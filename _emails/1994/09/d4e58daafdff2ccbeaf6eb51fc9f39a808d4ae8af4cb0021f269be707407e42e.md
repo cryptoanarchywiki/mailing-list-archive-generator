@@ -66,7 +66,7 @@ InA/gnPiVJo=
 
 + Return to [September 1994](/archive/1994/09)
 
-+ Return to "[vaccinia<span>@</span>med.unc.edu (Scott G. Morham)](/author/vaccinia_at_med_unc_edu_scott_g_morham_)"
++ Return to "[vaccinia<span>@</span>med.unc.edu (Scott G. Morham)](/authors/vaccinia_at_med_unc_edu_scott_g_morham_)"
 
 + 1994-09-07 (Wed, 7 Sep 94 12:58:48 PDT) - T-shirts - _vaccinia@med.unc.edu (Scott G. Morham)_
 

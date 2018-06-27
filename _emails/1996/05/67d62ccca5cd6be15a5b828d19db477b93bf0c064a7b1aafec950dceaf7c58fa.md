@@ -58,7 +58,7 @@ The Netherlands  |                (Howard Nemerov)                  |
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "["Bert-Jaap Koops" <E.J.Koops<span>@</span>kub.nl>](/author/bertjaap_koops_e_j_koops_at_kub_nl_)"
++ Return to "["Bert-Jaap Koops" <E.J.Koops<span>@</span>kub.nl>](/authors/bertjaap_koops_e_j_koops_at_kub_nl_)"
 
 + 1996-05-10 (Sat, 11 May 1996 04:26:30 +0800) - Crypto Law Survey - updated - _"Bert-Jaap Koops" \<E.J.Koops@kub.nl\>_
 

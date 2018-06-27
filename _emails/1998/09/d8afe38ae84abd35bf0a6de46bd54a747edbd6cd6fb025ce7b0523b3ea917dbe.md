@@ -56,8 +56,8 @@ limitations on surveilling and investigating US citizens.
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
-+ Return to "[Soren <sorens<span>@</span>workmail.com>](/author/soren_sorens_at_workmail_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
++ Return to "[Soren <sorens<span>@</span>workmail.com>](/authors/soren_sorens_at_workmail_com_)"
 
 + 1998-09-28 (Mon, 28 Sep 1998 18:42:53 +0800) - Superterrorism - _John Young \<jya@pipeline.com\>_
   + 1998-09-28 (Tue, 29 Sep 1998 07:08:28 +0800) - [Re: Superterrorism](/archive/1998/09/a82114d6471cad6851ce8aeea78e3d89e6bfed29de31adba4ddb33c5dbd58475) - _Soren \<sorens@workmail.com\>_

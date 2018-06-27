@@ -74,8 +74,8 @@ unsubscribe cypherpunks lojewski@switzerland-c.it.earthlink.net
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
-+ Return to "[Tom Lojewski <lojewski<span>@</span>switzerland-c.it.earthlink.net>](/author/tom_lojewski_lojewski_at_switzerlandc_it_earthlink_net_)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/authors/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "[Tom Lojewski <lojewski<span>@</span>switzerland-c.it.earthlink.net>](/authors/tom_lojewski_lojewski_at_switzerlandc_it_earthlink_net_)"
 
 + 1996-10-14 (Sun, 13 Oct 1996 18:29:55 -0700 (PDT)) - [Clinternet?](/archive/1996/10/8b2344b069a450b06355ffeb08b967722cf6ff22a27f0d4b9eeec227a0e2670c) - _Tom Lojewski \<lojewski@switzerland-c.it.earthlink.net\>_
   + 1996-10-14 (Mon, 14 Oct 1996 09:49:18 -0700 (PDT)) - [NOISE] Re: Clinternet? - _Rabid Wombat \<wombat@mcfeely.bsfs.org\>_

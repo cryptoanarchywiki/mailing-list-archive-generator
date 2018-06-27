@@ -60,9 +60,9 @@ opinions antithetical to "ours".
 
 + Return to [June 1994](/archive/1994/06)
 
-+ Return to "[jamiel<span>@</span>sybase.com (Jamie Lawrence)](/author/jamiel_at_sybase_com_jamie_lawrence_)"
-+ Return to "[m5<span>@</span>vail.tivoli.com (Mike McNally)](/author/m5_at_vail_tivoli_com_mike_mcnally_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[jamiel<span>@</span>sybase.com (Jamie Lawrence)](/authors/jamiel_at_sybase_com_jamie_lawrence_)"
++ Return to "[m5<span>@</span>vail.tivoli.com (Mike McNally)](/authors/m5_at_vail_tivoli_com_mike_mcnally_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-06-16 (Thu, 16 Jun 94 11:26:13 PDT) - [Re: Andy Grove on Clipper](/archive/1994/06/694309ce0993959006685d8b12a85155bbd3e41a7b4543dc7f69d642c27723f3) - _jamiel@sybase.com (Jamie Lawrence)_
   + 1994-06-16 (Thu, 16 Jun 94 11:52:14 PDT) - Re: Andy Grove on Clipper - _m5@vail.tivoli.com (Mike McNally)_

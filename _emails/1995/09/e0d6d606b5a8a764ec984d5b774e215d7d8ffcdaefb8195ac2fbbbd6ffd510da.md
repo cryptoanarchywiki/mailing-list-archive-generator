@@ -50,8 +50,8 @@ TIA,
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/author/black_unicorn_unicorn_at_access_digex_net_)"
-+ Return to "[shamrock<span>@</span>netcom.com (Lucky Green)](/author/shamrock_at_netcom_com_lucky_green_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/authors/black_unicorn_unicorn_at_access_digex_net_)"
++ Return to "[shamrock<span>@</span>netcom.com (Lucky Green)](/authors/shamrock_at_netcom_com_lucky_green_)"
 
 + 1995-09-06 (Tue, 5 Sep 95 20:48:03 PDT) - Growth of actions definded as crime. Which math formula? - _shamrock@netcom.com (Lucky Green)_
   + 1995-09-06 (Tue, 5 Sep 95 20:57:27 PDT) - [Re: Growth of actions definded as crime. Which math formula?](/archive/1995/09/6d552c587b101c32656104bafbc27f6c24cfc1e8f4c3cc9ac904ed1ad0e47ec1) - _Black Unicorn \<unicorn@access.digex.net\>_

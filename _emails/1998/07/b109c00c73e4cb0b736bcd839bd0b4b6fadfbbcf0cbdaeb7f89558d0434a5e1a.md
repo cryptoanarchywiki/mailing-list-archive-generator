@@ -133,7 +133,7 @@ Offices:  London, Paris, Berlin, Hong Kong
 
 + Return to [July 1998](/archive/1998/07)
 
-+ Return to "[mts2<span>@</span>volg15.mmtel.msk.su](/author/mts2_at_volg15_mmtel_msk_su)"
++ Return to "[mts2<span>@</span>volg15.mmtel.msk.su](/authors/mts2_at_volg15_mmtel_msk_su)"
 
 + 1998-07-04 (Fri, 3 Jul 1998 22:18:46 -0700 (PDT)) - YOUR CLASSIFIED - AD / 333  NEWSPAPERS   !!!!!!!!! - _mts2@volg15.mmtel.msk.su_
 

@@ -79,8 +79,8 @@ course.
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
-+ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/authors/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/authors/rich_graves_llurch_at_networking_stanford_edu_)"
 
 + 1996-04-23 (Tue, 23 Apr 1996 19:02:15 +0800) - [Re: Nazis on the Net](/archive/1996/04/49b29a6f6149b4176156c364ebf7d48ce7db479b9d9dfc4b5175ebf2e7049f3a) - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
   + 1996-04-23 (Tue, 23 Apr 1996 17:03:53 +0800) - [NOISE] Re: Nazis on the Net - _Rich Graves \<llurch@networking.stanford.edu\>_

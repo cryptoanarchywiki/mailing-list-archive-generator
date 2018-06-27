@@ -58,7 +58,7 @@ jackpotx@ix.netcom.com
 
 + Return to [February 1998](/archive/1998/02)
 
-+ Return to "[foupe%compuserve.com<span>@</span>oscsystems.com](/author/foupecompuserve_com_at_oscsystems_com)"
++ Return to "[foupe%compuserve.com<span>@</span>oscsystems.com](/authors/foupecompuserve_com_at_oscsystems_com)"
 
 + 1998-02-07 (Sat, 7 Feb 1998 02:12:50 -0800 (PST)) - Young Hot Girls New Site - _foupe%compuserve.com@oscsystems.com_
 

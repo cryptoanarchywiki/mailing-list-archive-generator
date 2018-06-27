@@ -62,7 +62,7 @@ remailer at jpunix.com.
 
 + Return to [September 1994](/archive/1994/09)
 
-+ Return to "[Brian A. LaMacchia <bal<span>@</span>martigny.ai.mit.edu>](/author/brian_a_lamacchia_bal_at_martigny_ai_mit_edu_)"
++ Return to "[Brian A. LaMacchia <bal<span>@</span>martigny.ai.mit.edu>](/authors/brian_a_lamacchia_bal_at_martigny_ai_mit_edu_)"
 
 + 1994-09-17 (Fri, 16 Sep 94 21:22:13 PDT) - NYT/Markoff article on RC4 - _Brian A. LaMacchia \<bal@martigny.ai.mit.edu\>_
 

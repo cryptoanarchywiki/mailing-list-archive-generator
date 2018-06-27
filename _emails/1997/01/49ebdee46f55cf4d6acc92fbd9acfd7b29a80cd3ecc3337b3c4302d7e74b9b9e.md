@@ -57,7 +57,7 @@ list owners out for sure).
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/authors/dale_thorn_dthorn_at_gte_net_)"
 
 + 1997-01-20 (Sun, 19 Jan 1997 20:55:42 -0800 (PST)) - Re: Thoughts re moderation, filtering, and name changes - _Dale Thorn \<dthorn@gte.net\>_
 

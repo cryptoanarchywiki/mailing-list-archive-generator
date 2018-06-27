@@ -157,7 +157,7 @@ The e$ Home Page: http://www.vmeng.com/rah/
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/authors/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1996-07-10 (Wed, 10 Jul 1996 16:38:50 +0800) - Important UK court case - _Robert Hettinga \<rah@shipwright.com\>_
 

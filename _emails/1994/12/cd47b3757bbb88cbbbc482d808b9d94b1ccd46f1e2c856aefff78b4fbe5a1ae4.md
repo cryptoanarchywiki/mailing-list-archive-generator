@@ -80,7 +80,7 @@ FwM40K8w3M4=
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "["Gary Jeffers" <CCGARY<span>@</span>MIZZOU1.missouri.edu>](/author/gary_jeffers_ccgary_at_mizzou1_missouri_edu_)"
++ Return to "["Gary Jeffers" <CCGARY<span>@</span>MIZZOU1.missouri.edu>](/authors/gary_jeffers_ccgary_at_mizzou1_missouri_edu_)"
 
 + 1994-12-15 (Thu, 15 Dec 94 14:28:25 PST) - rng & program docs. programs - _"Gary Jeffers" \<CCGARY@MIZZOU1.missouri.edu\>_
 

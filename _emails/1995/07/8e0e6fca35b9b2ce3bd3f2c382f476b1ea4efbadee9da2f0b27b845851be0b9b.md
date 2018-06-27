@@ -89,7 +89,7 @@ Higher Power: 2^756839 | Public Key: PGP and MailSafe available.
 
 + Return to [July 1995](/archive/1995/07)
 
-+ Return to "[tcmay<span>@</span>sensemedia.net (Timothy C. May)](/author/tcmay_at_sensemedia_net_timothy_c_may_)"
++ Return to "[tcmay<span>@</span>sensemedia.net (Timothy C. May)](/authors/tcmay_at_sensemedia_net_timothy_c_may_)"
 
 + 1995-07-31 (Mon, 31 Jul 95 12:15:03 PDT) - Re: Sex & Crime TV filter - _tcmay@sensemedia.net (Timothy C. May)_
 

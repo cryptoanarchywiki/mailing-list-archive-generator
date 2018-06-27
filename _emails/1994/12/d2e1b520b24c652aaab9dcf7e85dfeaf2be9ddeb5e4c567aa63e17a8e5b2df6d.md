@@ -41,8 +41,8 @@ X-man
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "[Adam Shostack <adam<span>@</span>bwh.harvard.edu>](/author/adam_shostack_adam_at_bwh_harvard_edu_)"
-+ Return to "[shawn leas <sleas<span>@</span>d.umn.edu>](/author/shawn_leas_sleas_at_d_umn_edu_)"
++ Return to "[Adam Shostack <adam<span>@</span>bwh.harvard.edu>](/authors/adam_shostack_adam_at_bwh_harvard_edu_)"
++ Return to "[shawn leas <sleas<span>@</span>d.umn.edu>](/authors/shawn_leas_sleas_at_d_umn_edu_)"
 
 + 1994-12-06 (Mon, 5 Dec 94 19:42:16 PST) - PGP-ELM???? - _shawn leas \<sleas@d.umn.edu\>_
   + 1994-12-06 (Mon, 5 Dec 94 20:04:57 PST) - [Re: PGP-ELM????](/archive/1994/12/22d6c29a7d029ce8f5e4b53146020f0aebc1810284d988c9f2e8bbfc856370d9) - _Adam Shostack \<adam@bwh.harvard.edu\>_

@@ -87,8 +87,8 @@ authentication, not extra fields in the packets.
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
-+ Return to "[rkmoore<span>@</span>iol.ie (Richard K. Moore)](/author/rkmoore_at_iol_ie_richard_k_moore_)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/authors/rich_graves_llurch_at_networking_stanford_edu_)"
++ Return to "[rkmoore<span>@</span>iol.ie (Richard K. Moore)](/authors/rkmoore_at_iol_ie_richard_k_moore_)"
 
 + 1996-04-13 (Sat, 13 Apr 1996 16:03:33 +0800) - [Re: Protocols at the Point of a Gun](/archive/1996/04/c292ccd58f5706e222285979a0f185c5b63925edc23e4a2df84c0166776cb680) - _rkmoore@iol.ie (Richard K. Moore)_
   + 1996-04-13 (Sat, 13 Apr 1996 20:12:00 +0800) - Re: Protocols at the Point of a Gun - _Rich Graves \<llurch@networking.stanford.edu\>_

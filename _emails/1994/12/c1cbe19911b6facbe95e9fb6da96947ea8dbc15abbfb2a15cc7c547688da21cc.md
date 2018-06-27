@@ -63,7 +63,7 @@ Key fingerprint:          |
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "[abostick<span>@</span>netcom.com (Alan Bostick)](/author/abostick_at_netcom_com_alan_bostick_)"
++ Return to "[abostick<span>@</span>netcom.com (Alan Bostick)](/authors/abostick_at_netcom_com_alan_bostick_)"
 
 + 1994-12-02 (Fri, 2 Dec 94 10:36:44 PST) - Easy-to-use signature software - _abostick@netcom.com (Alan Bostick)_
 

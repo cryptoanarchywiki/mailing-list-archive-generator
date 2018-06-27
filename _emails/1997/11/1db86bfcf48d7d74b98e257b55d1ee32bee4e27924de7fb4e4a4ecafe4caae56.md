@@ -138,7 +138,7 @@ Ask me about FC98 in Anguilla!: <http://www.fc98.ai/>
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/authors/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-11-19 (Thu, 20 Nov 1997 02:42:00 +0800) - [Fwd: *DLS Lecture -Robert Morris - NSA - Tomorrow*] - _Robert Hettinga \<rah@shipwright.com\>_
 

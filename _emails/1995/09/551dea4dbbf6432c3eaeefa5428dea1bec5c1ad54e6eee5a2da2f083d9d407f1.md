@@ -52,8 +52,8 @@ in trouble just because he/she is USAF.
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[Carl Ellison <cme<span>@</span>TIS.COM>](/author/carl_ellison_cme_at_tis_com_)"
-+ Return to "[Tim Scanlon <tfs<span>@</span>vampire.science.gmu.edu>](/author/tim_scanlon_tfs_at_vampire_science_gmu_edu_)"
++ Return to "[Carl Ellison <cme<span>@</span>TIS.COM>](/authors/carl_ellison_cme_at_tis_com_)"
++ Return to "[Tim Scanlon <tfs<span>@</span>vampire.science.gmu.edu>](/authors/tim_scanlon_tfs_at_vampire_science_gmu_edu_)"
 
 + _Unknown thread root_
   + 1995-09-19 (Tue, 19 Sep 95 07:49:51 PDT) - Re: ftp://www.brooks.af.mil/pub/unix/utils/des.tar - _Carl Ellison \<cme@TIS.COM\>_

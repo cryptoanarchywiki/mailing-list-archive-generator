@@ -94,7 +94,7 @@ every temptation, every desire, every inhibition."   greg@goldenbear.com
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Greg Broiles <gbroiles<span>@</span>darkwing.uoregon.edu>](/author/greg_broiles_gbroiles_at_darkwing_uoregon_edu_)"
++ Return to "[Greg Broiles <gbroiles<span>@</span>darkwing.uoregon.edu>](/authors/greg_broiles_gbroiles_at_darkwing_uoregon_edu_)"
 
 + 1995-12-13 (Wed, 13 Dec 1995 16:47:02 +0800) - e-mail forwarding, for-pay remailers - _Greg Broiles \<gbroiles@darkwing.uoregon.edu\>_
 

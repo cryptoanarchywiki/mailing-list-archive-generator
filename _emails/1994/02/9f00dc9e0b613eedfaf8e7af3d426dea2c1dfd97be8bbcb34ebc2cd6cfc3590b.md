@@ -132,8 +132,8 @@ XBZFLdyQWwM=
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[jkreznar<span>@</span>ininx.com (John E. Kreznar)](/author/jkreznar_at_ininx_com_john_e_kreznar_)"
-+ Return to "[nobody<span>@</span>shell.portal.com](/author/nobody_at_shell_portal_com)"
++ Return to "[jkreznar<span>@</span>ininx.com (John E. Kreznar)](/authors/jkreznar_at_ininx_com_john_e_kreznar_)"
++ Return to "[nobody<span>@</span>shell.portal.com](/authors/nobody_at_shell_portal_com)"
 
 + 1994-02-07 (Sun, 6 Feb 94 21:46:09 PST) - RE: Magic Money attack - _nobody@shell.portal.com_
   + 1994-02-07 (Mon, 7 Feb 94 03:06:15 PST) - [Re: Magic Money attack](/archive/1994/02/f3f70e355758f0deb6484d5024784fb59aa81aa35f62274c9eb41ba9d564c848) - _jkreznar@ininx.com (John E. Kreznar)_

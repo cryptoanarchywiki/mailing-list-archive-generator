@@ -74,7 +74,7 @@ http://www-swiss.ai.mit.edu/htbin/pks-extract-key.pl?op=get&search=0xB7AA3705
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[John Pettitt <jpp<span>@</span>software.net>](/author/john_pettitt_jpp_at_software_net_)"
++ Return to "[John Pettitt <jpp<span>@</span>software.net>](/authors/john_pettitt_jpp_at_software_net_)"
 
 + 1996-03-12 (Tue, 12 Mar 1996 14:34:22 +0800) - Re: PGP reveals  the key ID of the recipient of encrypted msg - _John Pettitt \<jpp@software.net\>_
 

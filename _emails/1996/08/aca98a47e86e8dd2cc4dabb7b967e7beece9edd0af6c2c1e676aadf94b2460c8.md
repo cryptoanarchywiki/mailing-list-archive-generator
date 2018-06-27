@@ -104,7 +104,7 @@ http://www.io-online.com/adamsc/adamsc.htp
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/author/adamsc_at_ioonline_com_adamsc_)"
++ Return to "[Adamsc<span>@</span>io-online.com (Adamsc)](/authors/adamsc_at_ioonline_com_adamsc_)"
 
 + 1996-08-21 (Wed, 21 Aug 1996 17:25:25 +0800) - Fwd: Re: No Subject - Lesson in cracking (cryptoanalysis 001) - _Adamsc@io-online.com (Adamsc)_
 

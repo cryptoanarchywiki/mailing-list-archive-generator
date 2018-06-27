@@ -112,7 +112,7 @@ Toto
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/authors/toto_toto_at_sk_sympatico_ca_)"
 
 + 1997-01-29 (Tue, 28 Jan 1997 18:26:20 -0800 (PST)) - Re: can Sun Tzu be a cypherpunks? - _Toto \<toto@sk.sympatico.ca\>_
 

@@ -178,7 +178,7 @@ violence.
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-11-05 (Fri, 6 Nov 1998 06:46:59 +0800) - RE: dbts: Privacy Fetishes, Perfect Competition, and the Foregone (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

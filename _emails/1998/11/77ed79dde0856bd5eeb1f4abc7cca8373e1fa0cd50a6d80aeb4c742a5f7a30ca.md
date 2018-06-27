@@ -83,8 +83,8 @@ probation, like Bell..
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
-+ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/authors/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1998-11-18 (Thu, 19 Nov 1998 00:34:19 +0800) - [CJ Update](/archive/1998/11/8f4224756b05d2d6f956cf14b04f8ebc3eff4ff3873a697757119de4c143561d) - _John Young \<jya@pipeline.com\>_
   + 1998-11-18 (Wed, 18 Nov 1998 14:34:03 -0800 (PST)) - Re: CJ Update - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_

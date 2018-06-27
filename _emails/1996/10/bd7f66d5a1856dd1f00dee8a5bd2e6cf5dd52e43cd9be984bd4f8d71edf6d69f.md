@@ -77,7 +77,7 @@ their home life" - Kung Fu Tse (Confucius), roughly 500 BC
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[Lawrence.Hughes<span>@</span>Software.com (Lawrence Hughes)](/author/lawrence_hughes_at_software_com_lawrence_hughes_)"
++ Return to "[Lawrence.Hughes<span>@</span>Software.com (Lawrence Hughes)](/authors/lawrence_hughes_at_software_com_lawrence_hughes_)"
 
 + 1996-10-29 (Tue, 29 Oct 1996 14:34:12 -0800 (PST)) - Re: First Union Ahead of Curve with Sun's "JavaStation" - _Lawrence.Hughes@Software.com (Lawrence Hughes)_
 

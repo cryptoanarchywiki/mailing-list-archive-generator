@@ -58,7 +58,7 @@ I got a kick out of this, especially considering the distribution.
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/author/black_unicorn_unicorn_at_access_digex_net_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/authors/black_unicorn_unicorn_at_access_digex_net_)"
 
 + 1994-04-21 (Thu, 21 Apr 94 15:27:47 PDT) - Green Card Post - _Black Unicorn \<unicorn@access.digex.net\>_
 

@@ -47,7 +47,7 @@ Jef
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[Jef Poskanzer <jef<span>@</span>ee.lbl.gov>](/author/jef_poskanzer_jef_at_ee_lbl_gov_)"
++ Return to "[Jef Poskanzer <jef<span>@</span>ee.lbl.gov>](/authors/jef_poskanzer_jef_at_ee_lbl_gov_)"
 
 + 1994-03-06 (Sat, 5 Mar 94 17:46:04 PST) - better way to generate a permutation? - _Jef Poskanzer \<jef@ee.lbl.gov\>_
 

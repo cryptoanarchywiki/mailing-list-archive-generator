@@ -42,7 +42,7 @@ Yes. Welcome to America, Land of the Freeh.
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Anonymous <nobody<span>@</span>REPLAY.COM>](/author/anonymous_nobody_at_replay_com_)"
++ Return to "[Anonymous <nobody<span>@</span>REPLAY.COM>](/authors/anonymous_nobody_at_replay_com_)"
 
 + 1998-01-23 (Fri, 23 Jan 1998 11:44:19 +0800) - Re: SC rules 1st doesn't cover lies [CNN] (fwd) - _Anonymous \<nobody@REPLAY.COM\>_
 

@@ -69,7 +69,7 @@ Title 27 CFR, part 47, Importation of Arms.
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[Brad Dolan <bdolan<span>@</span>use.usit.net>](/author/brad_dolan_bdolan_at_use_usit_net_)"
++ Return to "[Brad Dolan <bdolan<span>@</span>use.usit.net>](/authors/brad_dolan_bdolan_at_use_usit_net_)"
 
 + 1995-09-21 (Thu, 21 Sep 95 14:59:27 PDT) - Crypto *import* ban? - _Brad Dolan \<bdolan@use.usit.net\>_
 

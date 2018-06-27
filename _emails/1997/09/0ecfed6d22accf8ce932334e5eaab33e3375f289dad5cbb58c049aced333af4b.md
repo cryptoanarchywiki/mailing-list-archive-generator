@@ -59,8 +59,8 @@ Graham-John Bullers                      Moderator of alt.2600.moderated
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/author/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/authors/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1997-09-11 (Thu, 11 Sep 1997 13:40:56 +0800) - [Mondex](/archive/1997/09/6b9fa4c2e66fb7cd51c996c292426d9f97cc5cd19f219587caf672807eb8540c) - _nobody@REPLAY.COM (Anonymous)_
   + 1997-09-11 (Thu, 11 Sep 1997 15:32:26 +0800) - Re: Mondex - _Graham-John Bullers \<real@freenet.edmonton.ab.ca\>_

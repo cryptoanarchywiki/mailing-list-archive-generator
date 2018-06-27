@@ -58,7 +58,7 @@ ____ end forward ______________________________________________
 
 + Return to [November 1993](/archive/1993/11)
 
-+ Return to "[Stanton McCandlish <mech<span>@</span>eff.org>](/author/stanton_mccandlish_mech_at_eff_org_)"
++ Return to "[Stanton McCandlish <mech<span>@</span>eff.org>](/authors/stanton_mccandlish_mech_at_eff_org_)"
 
 + 1993-11-03 (Wed, 3 Nov 93 11:57:26 PST) - WARNING: direct-marketing email address list - _Stanton McCandlish \<mech@eff.org\>_
 

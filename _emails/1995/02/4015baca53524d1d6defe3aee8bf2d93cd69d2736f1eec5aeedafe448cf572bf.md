@@ -44,8 +44,8 @@ Hadmut
 
 + Return to [February 1995](/archive/1995/02)
 
-+ Return to "[danisch<span>@</span>ira.uka.de (Hadmut Danisch)](/author/danisch_at_ira_uka_de_hadmut_danisch_)"
-+ Return to "[Derek Atkins <warlord<span>@</span>ATHENA.MIT.EDU>](/author/derek_atkins_warlord_at_athena_mit_edu_)"
++ Return to "[danisch<span>@</span>ira.uka.de (Hadmut Danisch)](/authors/danisch_at_ira_uka_de_hadmut_danisch_)"
++ Return to "[Derek Atkins <warlord<span>@</span>ATHENA.MIT.EDU>](/authors/derek_atkins_warlord_at_athena_mit_edu_)"
 
 + 1995-02-01 (Wed, 1 Feb 95 05:56:14 PST) - PGP Question - _danisch@ira.uka.de (Hadmut Danisch)_
   + 1995-02-02 (Wed, 1 Feb 95 16:53:34 PST) - [Re: PGP Question](/archive/1995/02/fec64a687180a9ab29671abc7b437be27033a1f1d53b592d6f4e35536a954499) - _Derek Atkins \<warlord@ATHENA.MIT.EDU\>_

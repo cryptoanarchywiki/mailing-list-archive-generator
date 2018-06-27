@@ -52,7 +52,7 @@ the story.
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/author/alan_olsen_alano_at_teleport_com_)"
++ Return to "[Alan Olsen <alano<span>@</span>teleport.com>](/authors/alan_olsen_alano_at_teleport_com_)"
 
 + 1995-09-20 (Tue, 19 Sep 95 23:33:17 PDT) - Re: netscape broken on NPR - _Alan Olsen \<alano@teleport.com\>_
 

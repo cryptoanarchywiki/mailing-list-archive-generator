@@ -75,7 +75,7 @@ marketing may be directed to RCS Promotions at 781-892-4191.
 
 + Return to [April 1998](/archive/1998/04)
 
-+ Return to "[1-800-893-6001<span>@</span>toll.free](/author/18008936001_at_toll_free)"
++ Return to "[1-800-893-6001<span>@</span>toll.free](/authors/18008936001_at_toll_free)"
 
 + 1998-04-16 (Thu, 16 Apr 1998 15:25:38 -0700 (PDT)) - ---> How Can I Pay You For My Order - _1-800-893-6001@toll.free_
 

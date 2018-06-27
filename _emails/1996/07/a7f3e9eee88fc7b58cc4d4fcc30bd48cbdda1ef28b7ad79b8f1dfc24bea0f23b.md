@@ -51,7 +51,7 @@ http://www.clark.net/pub/charley/index.htm
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "["Charley Sparks" <sparksc<span>@</span>worldnet.att.net>](/author/charley_sparks_sparksc_at_worldnet_att_net_)"
++ Return to "["Charley Sparks" <sparksc<span>@</span>worldnet.att.net>](/authors/charley_sparks_sparksc_at_worldnet_att_net_)"
 
 + 1996-07-16 (Tue, 16 Jul 1996 13:03:57 +0800) - re: Organized Crime Home Page - Four Horsemen, No Waiting - _"Charley Sparks" \<sparksc@worldnet.att.net\>_
 

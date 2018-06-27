@@ -59,9 +59,9 @@ Shazam Al-Raqbar
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/authors/declan_mccullagh_declan_at_well_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
 
 + 1997-12-04 (Fri, 5 Dec 1997 04:55:47 +0800) - [Christmas Ornaments](/archive/1997/12/50eb50f02d3e7f4c64ab2a25488847d570906b47b08c8d03ac4e3237154bfec9) - _nobody@REPLAY.COM (Anonymous)_
   + 1997-12-04 (Fri, 5 Dec 1997 05:48:09 +0800) - [Re: Christmas Ornaments](/archive/1997/12/86f84ce74a917eb5c54f1d2da20b8413f464a6ec422f5476cacf9807decc82d3) - _Declan McCullagh \<declan@well.com\>_

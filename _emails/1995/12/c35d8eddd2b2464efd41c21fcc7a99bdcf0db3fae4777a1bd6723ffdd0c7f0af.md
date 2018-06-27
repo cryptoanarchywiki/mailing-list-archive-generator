@@ -58,9 +58,9 @@ Key fingerprint =  90 5F 1D FD A6 7C 84 5E  A9 D3 90 16 B2 44 C4 F3
 + Return to [November 1995](/archive/1995/11)
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Jeff Weinstein <jsw<span>@</span>netscape.com>](/author/jeff_weinstein_jsw_at_netscape_com_)"
-+ Return to "[jimbell<span>@</span>pacifier.com (jim bell)](/author/jimbell_at_pacifier_com_jim_bell_)"
-+ Return to "[Sten Drescher <dreschs<span>@</span>mpd.tandem.com>](/author/sten_drescher_dreschs_at_mpd_tandem_com_)"
++ Return to "[Jeff Weinstein <jsw<span>@</span>netscape.com>](/authors/jeff_weinstein_jsw_at_netscape_com_)"
++ Return to "[jimbell<span>@</span>pacifier.com (jim bell)](/authors/jimbell_at_pacifier_com_jim_bell_)"
++ Return to "[Sten Drescher <dreschs<span>@</span>mpd.tandem.com>](/authors/sten_drescher_dreschs_at_mpd_tandem_com_)"
 
 + 1995-11-20 (Tue, 21 Nov 1995 07:12:26 +0800) - [Re: Spam the Sign!](/archive/1995/11/f54fbb9a43436ec05e0de1af243eb8b3d4be13644972979104d19f39a3c06e26) - _jimbell@pacifier.com (jim bell)_
   + 1995-12-01 (Fri, 1 Dec 1995 19:02:19 +0800) - [Re: Spam the Sign!](/archive/1995/12/98fef38b493032b0b89a5fab2a7a9b1fefc79ea1a85f95b0528dd82db7283fc1) - _Jeff Weinstein \<jsw@netscape.com\>_

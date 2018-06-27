@@ -48,7 +48,7 @@ Hadmut
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "[danisch<span>@</span>ira.uka.de (Hadmut Danisch)](/author/danisch_at_ira_uka_de_hadmut_danisch_)"
++ Return to "[danisch<span>@</span>ira.uka.de (Hadmut Danisch)](/authors/danisch_at_ira_uka_de_hadmut_danisch_)"
 
 + 1995-08-01 (Tue, 1 Aug 95 04:45:31 PDT) - Re: Sex & Crime TV filter - _danisch@ira.uka.de (Hadmut Danisch)_
 

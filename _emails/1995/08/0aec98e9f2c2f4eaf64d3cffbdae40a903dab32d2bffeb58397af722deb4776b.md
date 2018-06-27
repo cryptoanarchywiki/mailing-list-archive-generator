@@ -54,9 +54,9 @@ have a second, stronger algorithm specified mandatory as well.
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "[Adam Shostack <adam<span>@</span>bwh.harvard.edu>](/author/adam_shostack_adam_at_bwh_harvard_edu_)"
-+ Return to "[Andy Brown <asb<span>@</span>nexor.co.uk>](/author/andy_brown_asb_at_nexor_co_uk_)"
-+ Return to "["Perry E. Metzger" <perry<span>@</span>panix.com>](/author/perry_e_metzger_perry_at_panix_com_)"
++ Return to "[Adam Shostack <adam<span>@</span>bwh.harvard.edu>](/authors/adam_shostack_adam_at_bwh_harvard_edu_)"
++ Return to "[Andy Brown <asb<span>@</span>nexor.co.uk>](/authors/andy_brown_asb_at_nexor_co_uk_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>panix.com>](/authors/perry_e_metzger_perry_at_panix_com_)"
 
 + 1995-08-10 (Thu, 10 Aug 95 05:48:09 PDT) - Why DES in IPSEC ESP? - _Andy Brown \<asb@nexor.co.uk\>_
   + 1995-08-10 (Thu, 10 Aug 95 06:28:38 PDT) - [Re: Why DES in IPSEC ESP?](/archive/1995/08/85304e426179488f488e5d7cf3bd4b2b216dd99143b5e2b00a36705ce26979e6) - _Adam Shostack \<adam@bwh.harvard.edu\>_

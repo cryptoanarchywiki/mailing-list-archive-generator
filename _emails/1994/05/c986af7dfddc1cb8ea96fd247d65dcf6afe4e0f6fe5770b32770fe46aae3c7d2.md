@@ -54,7 +54,7 @@ peb@netcom.com
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[peb<span>@</span>netcom.com (Paul E. Baclace)](/author/peb_at_netcom_com_paul_e_baclace_)"
++ Return to "[peb<span>@</span>netcom.com (Paul E. Baclace)](/authors/peb_at_netcom_com_paul_e_baclace_)"
 
 + 1994-05-23 (Mon, 23 May 94 14:23:18 PDT) - Re:  Bruce Sterling's talk at CFP - _peb@netcom.com (Paul E. Baclace)_
 

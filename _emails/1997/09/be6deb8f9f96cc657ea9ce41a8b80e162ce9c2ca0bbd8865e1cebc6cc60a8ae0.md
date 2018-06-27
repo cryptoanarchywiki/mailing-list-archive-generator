@@ -79,7 +79,7 @@ z1W9JxeFtaAF90aMxyartpKolkLvTc2fDJ//E/H8N7KAGrkqVrIXCQ==
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/author/anonymous_anon_at_anon_efga_org_)"
++ Return to "[Anonymous <anon<span>@</span>anon.efga.org>](/authors/anonymous_anon_at_anon_efga_org_)"
 
 + 1997-09-28 (Mon, 29 Sep 1997 04:24:13 +0800) - Re: Remailers and ecash - _Anonymous \<anon@anon.efga.org\>_
 

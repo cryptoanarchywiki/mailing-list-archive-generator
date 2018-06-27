@@ -67,8 +67,8 @@ I am who I am because I say so.  So there.
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[gibo<span>@</span>ripco.com (Giles Bowkett)](/author/gibo_at_ripco_com_giles_bowkett_)"
-+ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[gibo<span>@</span>ripco.com (Giles Bowkett)](/authors/gibo_at_ripco_com_giles_bowkett_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/authors/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1995-12-14 (Thu, 14 Dec 1995 12:49:50 +0800) - Timing Attack Paper - _gibo@ripco.com (Giles Bowkett)_
   + 1995-12-12 (Wed, 13 Dec 1995 01:27:58 +0800) - [Re: Timing Attack Paper](/archive/1995/12/407b369ea4e6e1f7319a06471ffe180832dada3fae1cbe7f84ae2c71126301c8) - _"Perry E. Metzger" \<perry@piermont.com\>_

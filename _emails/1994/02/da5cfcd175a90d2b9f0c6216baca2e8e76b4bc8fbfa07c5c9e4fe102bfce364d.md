@@ -44,7 +44,7 @@ davidm@chey.com
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[David Michel <davidm<span>@</span>smtplink.chey.com>](/author/david_michel_davidm_at_smtplink_chey_com_)"
++ Return to "[David Michel <davidm<span>@</span>smtplink.chey.com>](/authors/david_michel_davidm_at_smtplink_chey_com_)"
 
 + 1994-02-04 (Fri, 4 Feb 94 06:49:50 PST) - Re: Prodigy Hard Drive Scans - _David Michel \<davidm@smtplink.chey.com\>_
 

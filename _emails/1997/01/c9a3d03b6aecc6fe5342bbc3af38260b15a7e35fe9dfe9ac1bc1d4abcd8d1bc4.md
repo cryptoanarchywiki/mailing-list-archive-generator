@@ -60,8 +60,8 @@ EZP_ikn
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
-+ Return to "[Mike McNally <m5<span>@</span>vail.tivoli.com>](/author/mike_mcnally_m5_at_vail_tivoli_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
++ Return to "[Mike McNally <m5<span>@</span>vail.tivoli.com>](/authors/mike_mcnally_m5_at_vail_tivoli_com_)"
 
 + 1997-01-22 (Wed, 22 Jan 1997 07:55:49 -0800 (PST)) - EZP_ikn - _John Young \<jya@pipeline.com\>_
   + 1997-01-22 (Wed, 22 Jan 1997 08:39:57 -0800 (PST)) - [Re: EZP_ikn](/archive/1997/01/381f06839efa5383397be28fc8b934cdb209f049edbb42bf8580adf260b6bfa4) - _Mike McNally \<m5@vail.tivoli.com\>_

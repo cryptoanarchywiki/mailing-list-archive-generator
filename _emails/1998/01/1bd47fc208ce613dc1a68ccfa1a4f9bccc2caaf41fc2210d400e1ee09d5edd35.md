@@ -59,9 +59,9 @@ who is selling it.
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Alan Olsen <alan<span>@</span>clueserver.org>](/author/alan_olsen_alan_at_clueserver_org_)"
-+ Return to "["Nobuki Nakatuji" <bd1011<span>@</span>hotmail.com>](/author/nobuki_nakatuji_bd1011_at_hotmail_com_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Alan Olsen <alan<span>@</span>clueserver.org>](/authors/alan_olsen_alan_at_clueserver_org_)"
++ Return to "["Nobuki Nakatuji" <bd1011<span>@</span>hotmail.com>](/authors/nobuki_nakatuji_bd1011_at_hotmail_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
 
 + 1998-01-05 (Mon, 5 Jan 1998 15:18:48 +0800) - [Is FEAL developed by NTT safe?](/archive/1998/01/6e4566565514a3ba23a255a565276176b2f59f8536d855e41a0e52f41ba29677) - _"Nobuki Nakatuji" \<bd1011@hotmail.com\>_
   + 1998-01-05 (Mon, 5 Jan 1998 15:47:57 +0800) - Re: Is FEAL developed by NTT safe? - _Alan Olsen \<alan@clueserver.org\>_

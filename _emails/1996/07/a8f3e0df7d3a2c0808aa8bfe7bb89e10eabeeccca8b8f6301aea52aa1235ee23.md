@@ -135,8 +135,8 @@ Perry
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[ante <ante<span>@</span>nemesis.meaning.com>](/author/ante_ante_at_nemesis_meaning_com_)"
-+ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[ante <ante<span>@</span>nemesis.meaning.com>](/authors/ante_ante_at_nemesis_meaning_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/authors/perry_e_metzger_perry_at_piermont_com_)"
 
 + 1996-07-22 (Mon, 22 Jul 1996 12:31:17 +0800) - [evidence from the NIC - interpret and use as you will.](/archive/1996/07/05064d86dd2cb7f7ec7d4d9c23d1469d41fa0d7160293e28abbfd4fffdab04f9) - _ante \<ante@nemesis.meaning.com\>_
   + 1996-07-22 (Tue, 23 Jul 1996 04:03:17 +0800) - Re: evidence from the NIC - interpret and use as you will. - _"Perry E. Metzger" \<perry@piermont.com\>_

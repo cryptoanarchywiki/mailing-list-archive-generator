@@ -66,7 +66,7 @@ josh
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[joshua geller <joshua<span>@</span>cae.retix.com>](/author/joshua_geller_joshua_at_cae_retix_com_)"
++ Return to "[joshua geller <joshua<span>@</span>cae.retix.com>](/authors/joshua_geller_joshua_at_cae_retix_com_)"
 
 + 1994-04-20 (Tue, 19 Apr 94 17:31:08 PDT) - Re: Black Net - _joshua geller \<joshua@cae.retix.com\>_
 

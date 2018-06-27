@@ -100,8 +100,8 @@ walking and chewing gum? hee, hee)
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[rcgraves<span>@</span>ix.netcom.com (Rich Graves)](/author/rcgraves_at_ix_netcom_com_rich_graves_)"
-+ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
++ Return to "[rcgraves<span>@</span>ix.netcom.com (Rich Graves)](/authors/rcgraves_at_ix_netcom_com_rich_graves_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/authors/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1996-10-22 (Mon, 21 Oct 1996 23:22:16 -0700 (PDT)) - [Interesting article on ATM in Wired (of all places)](/archive/1996/10/31b3b6c0fe2e030b378762c0d8b6ace3021c51d743e678cd1bc7a39cb3bbf2bb) - _rcgraves@ix.netcom.com (Rich Graves)_
   + 1996-10-22 (Tue, 22 Oct 1996 12:40:31 -0700 (PDT)) - Re: Interesting article on ATM in Wired (of all places) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_

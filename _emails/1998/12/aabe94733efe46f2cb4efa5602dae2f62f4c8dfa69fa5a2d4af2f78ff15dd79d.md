@@ -87,7 +87,7 @@ United States as they now patrol Bosnia.
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[lcs Mixmaster Remailer <mix<span>@</span>anon.lcs.mit.edu>](/author/lcs_mixmaster_remailer_mix_at_anon_lcs_mit_edu_)"
++ Return to "[lcs Mixmaster Remailer <mix<span>@</span>anon.lcs.mit.edu>](/authors/lcs_mixmaster_remailer_mix_at_anon_lcs_mit_edu_)"
 
 + 1998-12-26 (Sat, 26 Dec 1998 22:55:20 +0800) - Posse Comitatus - _lcs Mixmaster Remailer \<mix@anon.lcs.mit.edu\>_
 

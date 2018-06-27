@@ -73,7 +73,7 @@ Bryce Boland <bryce@cybernet.co.nz>                   Finger for PGP Public Key
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "[bryce<span>@</span>cybernet.co.nz (Bryce Boland)](/author/bryce_at_cybernet_co_nz_bryce_boland_)"
++ Return to "[bryce<span>@</span>cybernet.co.nz (Bryce Boland)](/authors/bryce_at_cybernet_co_nz_bryce_boland_)"
 
 + 1994-12-18 (Sun, 18 Dec 94 04:07:02 PST) - No Subject - _bryce@cybernet.co.nz (Bryce Boland)_
 

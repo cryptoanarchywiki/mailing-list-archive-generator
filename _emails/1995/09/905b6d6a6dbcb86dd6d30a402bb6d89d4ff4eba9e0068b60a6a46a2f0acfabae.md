@@ -60,12 +60,12 @@ http://www.c2.org (or login as "guest")			sameer@c2.org
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[Eric Blossom <eb<span>@</span>comsec.com>](/author/eric_blossom_eb_at_comsec_com_)"
-+ Return to "[futplex<span>@</span>pseudonym.com (Futplex)](/author/futplex_at_pseudonym_com_futplex_)"
-+ Return to "[karlton<span>@</span>netscape.com (Phil Karlton)](/author/karlton_at_netscape_com_phil_karlton_)"
-+ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
-+ Return to "[Phil Karlton <karlton<span>@</span>netscape.com>](/author/phil_karlton_karlton_at_netscape_com_)"
-+ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
++ Return to "[Eric Blossom <eb<span>@</span>comsec.com>](/authors/eric_blossom_eb_at_comsec_com_)"
++ Return to "[futplex<span>@</span>pseudonym.com (Futplex)](/authors/futplex_at_pseudonym_com_futplex_)"
++ Return to "[karlton<span>@</span>netscape.com (Phil Karlton)](/authors/karlton_at_netscape_com_phil_karlton_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/authors/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[Phil Karlton <karlton<span>@</span>netscape.com>](/authors/phil_karlton_karlton_at_netscape_com_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/authors/sameer_sameer_at_c2_org_)"
 
 + 1995-09-20 (Wed, 20 Sep 95 13:15:25 PDT) - ["random" number seeds vs. Netscape](/archive/1995/09/53576fb15dc6fb9440635f7b4aa4fea31eb8dd20bae29dd78122fea176fb2bd1) - _karlton@netscape.com (Phil Karlton)_
   + 1995-09-20 (Wed, 20 Sep 95 14:02:02 PDT) - [Re: "random" number seeds vs. Netscape](/archive/1995/09/da95f75e08379e7b42271f521327a26e8d07af4622f21087807174e3da3bd2ee) - _"Perry E. Metzger" \<perry@piermont.com\>_

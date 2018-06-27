@@ -62,8 +62,8 @@ E.DB.BRESP.3
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[John Scott Porterfield <johnscot<span>@</span>sylvania.sev.org>](/author/john_scott_porterfield_johnscot_at_sylvania_sev_org_)"
-+ Return to "["sixdegrees"<tubc50u4<span>@</span>auto.sixdegrees.com>](/author/sixdegrees_tubc50u4_at_auto_sixdegrees_com_)"
++ Return to "[John Scott Porterfield <johnscot<span>@</span>sylvania.sev.org>](/authors/john_scott_porterfield_johnscot_at_sylvania_sev_org_)"
++ Return to "["sixdegrees"<tubc50u4<span>@</span>auto.sixdegrees.com>](/authors/sixdegrees_tubc50u4_at_auto_sixdegrees_com_)"
 
 + 1998-09-15 (Tue, 15 Sep 1998 08:57:40 +0800) - Harald Fragner - _"sixdegrees"\<tubc50u4@auto.sixdegrees.com\>_
   + 1998-09-15 (Tue, 15 Sep 1998 20:22:35 +0800) - [Re: Harald Fragner](/archive/1998/09/4b7212f558aa057d5ef8e52625f6d167c85838fdb7eba5fe5082ee525670da64) - _John Scott Porterfield \<johnscot@sylvania.sev.org\>_

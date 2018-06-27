@@ -61,7 +61,7 @@ Thanks,
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[Jordan Hayes <jordan<span>@</span>Thinkbank.COM>](/author/jordan_hayes_jordan_at_thinkbank_com_)"
++ Return to "[Jordan Hayes <jordan<span>@</span>Thinkbank.COM>](/authors/jordan_hayes_jordan_at_thinkbank_com_)"
 
 + 1996-02-04 (Mon, 5 Feb 1996 05:02:05 +0800) - Re: Sometines ya just gotta nuke em-and nuke em again - _Jordan Hayes \<jordan@Thinkbank.COM\>_
 

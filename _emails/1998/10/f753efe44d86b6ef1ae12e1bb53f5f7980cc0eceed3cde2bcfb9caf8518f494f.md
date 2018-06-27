@@ -62,7 +62,7 @@ Founded in 1995, RPK Security, Inc. is a technology leader in fast public key cr
 
 + Return to [October 1998](/archive/1998/10)
 
-+ Return to "["Jack Oswald / CEO / RPK Security" <joswald<span>@</span>rpkusa.com>](/author/jack_oswald__ceo__rpk_security_joswald_at_rpkusa_com_)"
++ Return to "["Jack Oswald / CEO / RPK Security" <joswald<span>@</span>rpkusa.com>](/authors/jack_oswald__ceo__rpk_security_joswald_at_rpkusa_com_)"
 
 + 1998-10-01 (Wed, 30 Sep 1998 18:48:42 -0700 (PDT)) - ANNOUNCEMENT: RPK SECURITY AWARDED PATENTS FOR ENCRYPTONITE ENGINE IN U.S. AND NEW ZEALAND - _"Jack Oswald / CEO / RPK Security" \<joswald@rpkusa.com\>_
 

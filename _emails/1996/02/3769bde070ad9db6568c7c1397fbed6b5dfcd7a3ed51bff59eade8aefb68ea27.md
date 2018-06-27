@@ -65,7 +65,7 @@ Content-Type: text/plain
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "["James M. Cobb" <jcobb<span>@</span>ahcbsd1.ovnet.com>](/author/james_m_cobb_jcobb_at_ahcbsd1_ovnet_com_)"
++ Return to "["James M. Cobb" <jcobb<span>@</span>ahcbsd1.ovnet.com>](/authors/james_m_cobb_jcobb_at_ahcbsd1_ovnet_com_)"
 
 + 1996-02-11 (Mon, 12 Feb 1996 02:49:05 +0800) - Digital Rights...Management - _"James M. Cobb" \<jcobb@ahcbsd1.ovnet.com\>_
 

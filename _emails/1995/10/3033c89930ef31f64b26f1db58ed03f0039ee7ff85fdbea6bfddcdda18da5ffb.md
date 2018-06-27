@@ -62,9 +62,9 @@ Shields.
 
 + Return to [October 1995](/archive/1995/10)
 
-+ Return to "[Mark Murray <mark<span>@</span>grondar.za>](/author/mark_murray_mark_at_grondar_za_)"
-+ Return to "[shields<span>@</span>tembel.org (Michael Shields)](/author/shields_at_tembel_org_michael_shields_)"
-+ Return to "["Theodore Ts'o" <tytso<span>@</span>MIT.EDU>](/author/theodore_tso_tytso_at_mit_edu_)"
++ Return to "[Mark Murray <mark<span>@</span>grondar.za>](/authors/mark_murray_mark_at_grondar_za_)"
++ Return to "[shields<span>@</span>tembel.org (Michael Shields)](/authors/shields_at_tembel_org_michael_shields_)"
++ Return to "["Theodore Ts'o" <tytso<span>@</span>MIT.EDU>](/authors/theodore_tso_tytso_at_mit_edu_)"
 
 + 1995-10-30 (Tue, 31 Oct 1995 05:12:39 +0800) - [Re: /dev/random for FreeBSD [was: Re: /dev/random for Linux]](/archive/1995/10/88052b8069b3a27907f30d4af5c2be1b8b1b73737f8d14e948e8c5deaf38cbe9) - _Mark Murray \<mark@grondar.za\>_
   + 1995-10-30 (Tue, 31 Oct 1995 07:10:10 +0800) - [Re: /dev/random for FreeBSD [was: Re: /dev/random for Linux]](/archive/1995/10/0845d30c258ef42bdbe4fc34f521c30e602c6fe1181dcf44de6eeb4378525559) - _"Theodore Ts'o" \<tytso@MIT.EDU\>_

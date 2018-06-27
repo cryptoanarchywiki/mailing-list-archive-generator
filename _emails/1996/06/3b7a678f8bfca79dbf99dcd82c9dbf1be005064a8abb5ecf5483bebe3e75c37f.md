@@ -125,7 +125,7 @@ Thank the gods for cypherpunks..
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[TT <apache<span>@</span>quux.apana.org.au>](/author/tt_apache_at_quux_apana_org_au_)"
++ Return to "[TT <apache<span>@</span>quux.apana.org.au>](/authors/tt_apache_at_quux_apana_org_au_)"
 
 + 1996-06-03 (Mon, 3 Jun 1996 20:27:08 +0800) - The decline and fall of Australia - _TT \<apache@quux.apana.org.au\>_
 

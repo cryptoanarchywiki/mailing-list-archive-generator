@@ -57,7 +57,7 @@ Private Communication for the Extropian Community since 1991
 
 + Return to [April 1993](/archive/1993/04)
 
-+ Return to "[Harry Shapiro <habs<span>@</span>Panix.Com>](/author/harry_shapiro_habs_at_panix_com_)"
++ Return to "[Harry Shapiro <habs<span>@</span>Panix.Com>](/authors/harry_shapiro_habs_at_panix_com_)"
 
 + 1993-04-17 (Sat, 17 Apr 93 06:32:53 PDT) - Big Brother: Post Filtering the Clipper - _Harry Shapiro \<habs@Panix.Com\>_
 

@@ -114,8 +114,8 @@ PGP Fingerprint D454 E202 CBC8 40BF  3C85 B884 0ABE 4639
 
 + Return to [July 1998](/archive/1998/07)
 
-+ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/author/bill_stewart_bill_stewart_at_pobox_com_)"
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[Bill Stewart <bill.stewart<span>@</span>pobox.com>](/authors/bill_stewart_bill_stewart_at_pobox_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1998-07-07 (Mon, 6 Jul 1998 23:35:05 -0700 (PDT)) - [no subject!Anti-National ID Bill](/archive/1998/07/43ed0f48d91f4240ee45680baa899c0c96faba73b6b28252b6edab94b9fd604d) - _nobody@REPLAY.COM (Anonymous)_
   + 1998-07-11 (Fri, 10 Jul 1998 21:13:29 -0700 (PDT)) - Re: no subject! - _Bill Stewart \<bill.stewart@pobox.com\>_

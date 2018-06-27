@@ -76,7 +76,7 @@ The SSA reports that about 80% of its core code has been converted and tested an
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Steve Schear <schear<span>@</span>lvdi.net>](/author/steve_schear_schear_at_lvdi_net_)"
++ Return to "[Steve Schear <schear<span>@</span>lvdi.net>](/authors/steve_schear_schear_at_lvdi_net_)"
 
 + 1997-11-08 (Sun, 9 Nov 1997 03:06:33 +0800) - New GAO y2k reports - _Steve Schear \<schear@lvdi.net\>_
 

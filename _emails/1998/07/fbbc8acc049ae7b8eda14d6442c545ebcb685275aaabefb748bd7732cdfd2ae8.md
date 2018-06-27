@@ -57,7 +57,7 @@ Lisa
 
 + Return to [July 1998](/archive/1998/07)
 
-+ Return to "["Lisa" <24893232<span>@</span>03820.com>](/author/lisa_24893232_at_03820_com_)"
++ Return to "["Lisa" <24893232<span>@</span>03820.com>](/authors/lisa_24893232_at_03820_com_)"
 
 + 1998-07-10 (Fri, 10 Jul 1998 06:01:37 -0700 (PDT)) - For Your Eyes Only - _"Lisa" \<24893232@03820.com\>_
 

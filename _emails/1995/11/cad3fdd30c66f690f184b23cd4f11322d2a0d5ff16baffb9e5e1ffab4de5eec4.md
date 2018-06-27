@@ -52,9 +52,9 @@ found in Crypto++ as randpool.cpp.
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
-+ Return to "["Theodore Ts'o" <tytso<span>@</span>MIT.EDU>](/author/theodore_tso_tytso_at_mit_edu_)"
-+ Return to "[Wei Dai <weidai<span>@</span>eskimo.com>](/author/wei_dai_weidai_at_eskimo_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "["Theodore Ts'o" <tytso<span>@</span>MIT.EDU>](/authors/theodore_tso_tytso_at_mit_edu_)"
++ Return to "[Wei Dai <weidai<span>@</span>eskimo.com>](/authors/wei_dai_weidai_at_eskimo_com_)"
 
 + 1995-11-05 (Sun, 5 Nov 1995 08:08:41 +0800) - [/dev/random - using up entropy?](/archive/1995/11/9a1b5ac42ae31033a832e43686052c7593c7e3aa9153d04dcd2756281c4c8a5c) - _Bill Stewart \<stewarts@ix.netcom.com\>_
   + 1995-11-05 (Sun, 5 Nov 1995 09:10:47 +0800) - Re: /dev/random - using up entropy? - _Wei Dai \<weidai@eskimo.com\>_

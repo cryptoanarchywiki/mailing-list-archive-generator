@@ -74,9 +74,9 @@ CyberGate, Inc.
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[Ben Holiday <ncognito<span>@</span>gate.net>](/author/ben_holiday_ncognito_at_gate_net_)"
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
-+ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
++ Return to "[Ben Holiday <ncognito<span>@</span>gate.net>](/authors/ben_holiday_ncognito_at_gate_net_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/authors/rich_graves_llurch_at_networking_stanford_edu_)"
 
 + _Unknown thread root_
   + 1996-05-26 (Mon, 27 May 1996 06:52:45 +0800) - nCognito is Dead.. - _Ben Holiday \<ncognito@gate.net\>_

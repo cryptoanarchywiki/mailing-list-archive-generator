@@ -52,9 +52,9 @@ the TLAs.
 
 + Return to [August 1997](/archive/1997/08)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
-+ Return to "[Ray Arachelian <sunder<span>@</span>brainlink.com>](/author/ray_arachelian_sunder_at_brainlink_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
++ Return to "[Ray Arachelian <sunder<span>@</span>brainlink.com>](/authors/ray_arachelian_sunder_at_brainlink_com_)"
 
 + 1997-08-14 (Thu, 14 Aug 1997 21:00:44 +0800) - CIA/NSA Index - _John Young \<jya@pipeline.com\>_
   + 1997-08-14 (Thu, 14 Aug 1997 23:46:22 +0800) - [Re: CIA/NSA Index](/archive/1997/08/c4ad8e1794d195681a951fb668fcbbf1f017b80afd9ea6f32c03f355c0005afd) - _Ray Arachelian \<sunder@brainlink.com\>_

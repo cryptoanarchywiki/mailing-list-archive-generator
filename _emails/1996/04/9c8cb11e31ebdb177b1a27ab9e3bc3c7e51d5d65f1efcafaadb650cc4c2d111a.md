@@ -54,7 +54,7 @@ information from the signals themselves, things get even easier.
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/authors/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-04-14 (Sun, 14 Apr 1996 14:34:51 +0800) - Re: No matter where you go, there they are. - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

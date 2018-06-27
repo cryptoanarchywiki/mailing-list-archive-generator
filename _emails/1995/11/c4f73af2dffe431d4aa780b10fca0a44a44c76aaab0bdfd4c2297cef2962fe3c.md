@@ -210,8 +210,8 @@ FBI expects your representatives to write in triplicate.
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[clarkm<span>@</span>cnct.com](/author/clarkm_at_cnct_com)"
-+ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
++ Return to "[clarkm<span>@</span>cnct.com](/authors/clarkm_at_cnct_com)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/authors/rich_graves_llurch_at_networking_stanford_edu_)"
 
 + 1995-11-03 (Fri, 3 Nov 1995 13:33:13 +0800) - Clinton Administration Plans 1.5 MILLION WIRETAPS - _clarkm@cnct.com_
   + 1995-11-03 (Fri, 3 Nov 1995 15:50:12 +0800) - [[NOISY] Re: Clinton Administration Plans 1.5 MILLION WIRETAPS](/archive/1995/11/ade69e3cf5a6342a075554072338b85821b1a57ef6073943ff6686cca0ca8aa8) - _Rich Graves \<llurch@networking.stanford.edu\>_

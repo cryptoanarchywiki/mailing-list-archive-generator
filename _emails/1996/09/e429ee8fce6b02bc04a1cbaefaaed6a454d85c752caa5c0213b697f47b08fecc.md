@@ -60,7 +60,7 @@ tCdQYXVsIEJyYWRsZXkgPHBhdWxAZmF0bWFucy5kZW1vbi5jby51az4=
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[paul<span>@</span>fatmans.demon.co.uk](/author/paul_at_fatmans_demon_co_uk)"
++ Return to "[paul<span>@</span>fatmans.demon.co.uk](/authors/paul_at_fatmans_demon_co_uk)"
 
 + 1996-09-01 (Sun, 1 Sep 1996 20:13:50 +0800) - RE: Desubscribe - _paul@fatmans.demon.co.uk_
 

@@ -119,7 +119,7 @@ once and for all? Enough of this crap!
 
 + Return to [November 1993](/archive/1993/11)
 
-+ Return to "[Mike Ingle <MIKEINGLE<span>@</span>delphi.com>](/author/mike_ingle_mikeingle_at_delphi_com_)"
++ Return to "[Mike Ingle <MIKEINGLE<span>@</span>delphi.com>](/authors/mike_ingle_mikeingle_at_delphi_com_)"
 
 + 1993-11-15 (Sun, 14 Nov 93 23:40:19 PST) - LD Admits he is S.Boxx (oops!) - _Mike Ingle \<MIKEINGLE@delphi.com\>_
 

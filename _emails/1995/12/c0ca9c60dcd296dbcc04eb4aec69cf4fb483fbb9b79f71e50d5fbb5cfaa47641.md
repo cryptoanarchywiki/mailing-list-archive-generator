@@ -49,9 +49,9 @@ PJP
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Mike Johnson second login <exabyte!mikej2<span>@</span>uunet.uu.net>](/author/mike_johnson_second_login_exabytemikej2_at_uunet_uu_net_)"
-+ Return to "["P.J. Ponder" <ponder<span>@</span>wane-leon-mail.scri.fsu.edu>](/author/p_j_ponder_ponder_at_waneleonmail_scri_fsu_edu_)"
-+ Return to "[Scott Brickner <sjb<span>@</span>universe.digex.net>](/author/scott_brickner_sjb_at_universe_digex_net_)"
++ Return to "[Mike Johnson second login <exabyte!mikej2<span>@</span>uunet.uu.net>](/authors/mike_johnson_second_login_exabytemikej2_at_uunet_uu_net_)"
++ Return to "["P.J. Ponder" <ponder<span>@</span>wane-leon-mail.scri.fsu.edu>](/authors/p_j_ponder_ponder_at_waneleonmail_scri_fsu_edu_)"
++ Return to "[Scott Brickner <sjb<span>@</span>universe.digex.net>](/authors/scott_brickner_sjb_at_universe_digex_net_)"
 
 + 1995-12-28 (Thu, 28 Dec 1995 20:46:11 +0800) - DOS - MD5 - Thanks - _"P.J. Ponder" \<ponder@wane-leon-mail.scri.fsu.edu\>_
   + 1995-12-28 (Thu, 28 Dec 95 12:44:44 PST) - [Re: DOS - MD5 - Thanks](/archive/1995/12/3326e9b853d469679f9632a901b39801fb7af023d36f922a7baf28bd8ec618cc) - _Scott Brickner \<sjb@universe.digex.net\>_

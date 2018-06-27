@@ -190,7 +190,7 @@ Hal
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/authors/hal_hfinney_at_shell_portal_com_)"
 
 + 1994-08-20 (Sat, 20 Aug 94 09:53:19 PDT) - Brands cash - _Hal \<hfinney@shell.portal.com\>_
   + 1994-08-22 (Mon, 22 Aug 94 16:18:16 PDT) - [Re: Brands cash](/archive/1994/08/8748b9a96504d2df86c3ae4eab1e4ca65856298e1bcf5a3d9ed9a412c1032382) - _Hal \<hfinney@shell.portal.com\>_

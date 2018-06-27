@@ -44,7 +44,7 @@ Tom McCaskill wrote:
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Man In The Middle <mitm<span>@</span>dev.null>](/author/man_in_the_middle_mitm_at_dev_null_)"
++ Return to "[Man In The Middle <mitm<span>@</span>dev.null>](/authors/man_in_the_middle_mitm_at_dev_null_)"
 
 + _Unknown thread root_
   + 1997-11-16 (Sun, 16 Nov 1997 11:16:48 +0800) - RTFM-709 / Email Interception - _Man In The Middle \<mitm@dev.null\>_

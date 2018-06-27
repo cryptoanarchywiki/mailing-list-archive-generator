@@ -102,7 +102,7 @@ claim that Jesus was not born of a virgin."
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[jkthomson <jkthomson<span>@</span>bigfoot.com>](/author/jkthomson_jkthomson_at_bigfoot_com_)"
++ Return to "[jkthomson <jkthomson<span>@</span>bigfoot.com>](/authors/jkthomson_jkthomson_at_bigfoot_com_)"
 
 + 1998-09-05 (Sat, 5 Sep 1998 01:18:28 -0700 (PDT)) - (another) reason we need anon servers. - _jkthomson \<jkthomson@bigfoot.com\>_
 

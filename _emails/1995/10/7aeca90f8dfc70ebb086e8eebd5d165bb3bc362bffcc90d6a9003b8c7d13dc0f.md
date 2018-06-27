@@ -68,7 +68,7 @@ B71KIQDP75TMiF1rgvorSWQsNZjzjhbm
 
 + Return to [October 1995](/archive/1995/10)
 
-+ Return to "[daw<span>@</span>quito.CS.Berkeley.EDU (David A Wagner)](/author/daw_at_quito_cs_berkeley_edu_david_a_wagner_)"
++ Return to "[daw<span>@</span>quito.CS.Berkeley.EDU (David A Wagner)](/authors/daw_at_quito_cs_berkeley_edu_david_a_wagner_)"
 
 + 1995-10-29 (Sun, 29 Oct 1995 08:36:02 +0800) - Re: MD4-derived hash functions - _daw@quito.CS.Berkeley.EDU (David A Wagner)_
 

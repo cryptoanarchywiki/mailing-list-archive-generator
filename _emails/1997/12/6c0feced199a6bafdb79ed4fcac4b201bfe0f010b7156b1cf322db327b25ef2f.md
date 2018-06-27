@@ -105,7 +105,7 @@ c
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[GreatTunes2<span>@</span>ar.net](/author/greattunes2_at_ar_net)"
++ Return to "[GreatTunes2<span>@</span>ar.net](/authors/greattunes2_at_ar_net)"
 
 + 1997-12-05 (Fri, 5 Dec 1997 02:08:18 -0800 (PST)) - A great Christmas gift for less than $20. - _GreatTunes2@ar.net_
 

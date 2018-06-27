@@ -60,7 +60,7 @@ is busy, hung or dead....................................20915-1433
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[David Lesher <wb8foz<span>@</span>nrk.com>](/author/david_lesher_wb8foz_at_nrk_com_)"
++ Return to "[David Lesher <wb8foz<span>@</span>nrk.com>](/authors/david_lesher_wb8foz_at_nrk_com_)"
 
 + 1996-07-29 (Tue, 30 Jul 1996 06:04:27 +0800) - what's a weapon? (fwd) - _David Lesher \<wb8foz@nrk.com\>_
 

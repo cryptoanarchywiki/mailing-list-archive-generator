@@ -52,9 +52,9 @@ Phil
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "[Clark Reynard <clark<span>@</span>metal.psu.edu>](/author/clark_reynard_clark_at_metal_psu_edu_)"
-+ Return to "[karn<span>@</span>qualcomm.com (Phil Karn)](/author/karn_at_qualcomm_com_phil_karn_)"
-+ Return to "[pat<span>@</span>tstc.edu (Patrick E. Hykkonen)](/author/pat_at_tstc_edu_patrick_e_hykkonen_)"
++ Return to "[Clark Reynard <clark<span>@</span>metal.psu.edu>](/authors/clark_reynard_clark_at_metal_psu_edu_)"
++ Return to "[karn<span>@</span>qualcomm.com (Phil Karn)](/authors/karn_at_qualcomm_com_phil_karn_)"
++ Return to "[pat<span>@</span>tstc.edu (Patrick E. Hykkonen)](/authors/pat_at_tstc_edu_patrick_e_hykkonen_)"
 
 + 1993-09-08 (Tue, 7 Sep 93 22:51:51 PDT) - [Super Phones?](/archive/1993/09/6072227bb0d433e1a9a36f9ea656d853dba557f4e88f73463c33fb9e8572b374) - _Clark Reynard \<clark@metal.psu.edu\>_
   + 1993-09-08 (Tue, 7 Sep 93 23:42:47 PDT) - Super Phones? - _karn@qualcomm.com (Phil Karn)_

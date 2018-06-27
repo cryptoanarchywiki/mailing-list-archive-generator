@@ -71,8 +71,8 @@ That is correct, it is the 3-line RSA proposal.
 
 + Return to [October 1998](/archive/1998/10)
 
-+ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1998-10-30 (Sat, 31 Oct 1998 04:12:53 +0800) - Re: FW: rules of engagement (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
   + 1998-10-30 (Sat, 31 Oct 1998 04:59:27 +0800) - [More on Bic-Assassins](/archive/1998/10/2db58b70fc43179f493f761dca4f105004c45b85fea75dbe4a05a6dfb9b97f03) - _John Young \<jya@pipeline.com\>_

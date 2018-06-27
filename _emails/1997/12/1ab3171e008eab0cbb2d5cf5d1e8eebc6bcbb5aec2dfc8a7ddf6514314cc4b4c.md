@@ -147,8 +147,8 @@ Merry Christmas!
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
-+ Return to "["Michael H. Warfield" <mhw<span>@</span>wittsend.com>](/author/michael_h_warfield_mhw_at_wittsend_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
++ Return to "["Michael H. Warfield" <mhw<span>@</span>wittsend.com>](/authors/michael_h_warfield_mhw_at_wittsend_com_)"
 
 + 1997-12-23 (Tue, 23 Dec 1997 10:33:44 +0800) - Re: Lock and Load (fwd) - _Jim Choate \<ravage@ssz.com\>_
   + 1997-12-23 (Tue, 23 Dec 1997 12:56:28 +0800) - [Re: Lock and Load (fwd)](/archive/1997/12/8c2244e1b9d71b7652605a10ee21c55f70f9eee86abcbb9026d920aaadfede38) - _"Michael H. Warfield" \<mhw@wittsend.com\>_

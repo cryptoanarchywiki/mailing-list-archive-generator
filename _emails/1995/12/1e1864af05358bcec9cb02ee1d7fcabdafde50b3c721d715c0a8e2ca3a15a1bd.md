@@ -62,9 +62,9 @@ Content-Type: text/plain
 + Return to [December 1995](/archive/1995/12)
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[attila <attila<span>@</span>primenet.com>](/author/attila_attila_at_primenet_com_)"
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
-+ Return to "[Michael Froomkin <froomkin<span>@</span>law.miami.edu>](/author/michael_froomkin_froomkin_at_law_miami_edu_)"
++ Return to "[attila <attila<span>@</span>primenet.com>](/authors/attila_attila_at_primenet_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
++ Return to "[Michael Froomkin <froomkin<span>@</span>law.miami.edu>](/authors/michael_froomkin_froomkin_at_law_miami_edu_)"
 
 + 1995-12-31 (Sun, 31 Dec 95 07:18:17 PST) - SEY_use - _John Young \<jya@pipeline.com\>_
   + 1996-01-01 (Tue, 2 Jan 1996 02:49:31 +0800) - [Re: SEY_use](/archive/1996/01/dda3ab11eff5d5e1651f670478a1072887c69edbb206d36b81ceafe008f513f3) - _Michael Froomkin \<froomkin@law.miami.edu\>_

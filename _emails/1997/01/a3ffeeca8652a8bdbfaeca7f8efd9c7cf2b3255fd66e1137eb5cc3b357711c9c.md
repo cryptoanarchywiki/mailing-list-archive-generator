@@ -45,7 +45,7 @@ There is a www.internet2.edu
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Rich Graves <rcgraves<span>@</span>disposable.com>](/author/rich_graves_rcgraves_at_disposable_com_)"
++ Return to "[Rich Graves <rcgraves<span>@</span>disposable.com>](/authors/rich_graves_rcgraves_at_disposable_com_)"
 
 + 1997-01-23 (Thu, 23 Jan 1997 13:56:09 -0800 (PST)) - Re: greed and the internet - _Rich Graves \<rcgraves@disposable.com\>_
 

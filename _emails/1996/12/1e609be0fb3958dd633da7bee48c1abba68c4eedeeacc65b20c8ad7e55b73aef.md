@@ -54,7 +54,7 @@ line, I log on the my ISP, goto dos and PING him.. and voila!
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[AwakenToMe<span>@</span>aol.com](/author/awakentome_at_aol_com)"
++ Return to "[AwakenToMe<span>@</span>aol.com](/authors/awakentome_at_aol_com)"
 
 + 1996-12-03 (Mon, 2 Dec 1996 16:46:23 -0800 (PST)) - Re: IP address - _AwakenToMe@aol.com_
 

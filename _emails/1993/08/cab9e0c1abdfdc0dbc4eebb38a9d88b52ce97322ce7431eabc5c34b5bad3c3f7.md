@@ -63,8 +63,8 @@ keru@cpu.us.dynix.com    or    keru@devg.us.dynix.com
 
 + Return to [August 1993](/archive/1993/08)
 
-+ Return to "[Al Billings <mimir<span>@</span>u.washington.edu>](/author/al_billings_mimir_at_u_washington_edu_)"
-+ Return to "[Warren Keith Russell <keru<span>@</span>cpu.us.dynix.com>](/author/warren_keith_russell_keru_at_cpu_us_dynix_com_)"
++ Return to "[Al Billings <mimir<span>@</span>u.washington.edu>](/authors/al_billings_mimir_at_u_washington_edu_)"
++ Return to "[Warren Keith Russell <keru<span>@</span>cpu.us.dynix.com>](/authors/warren_keith_russell_keru_at_cpu_us_dynix_com_)"
 
 + 1993-08-14 (Fri, 13 Aug 93 17:08:39 PDT) - Pine - _Warren Keith Russell \<keru@cpu.us.dynix.com\>_
   + 1993-08-14 (Fri, 13 Aug 93 23:53:09 PDT) - [Re: Pine](/archive/1993/08/35510502a4fc4b6b6097b52e29731ccc7e6b80b0fa23a1ccdc5ca8b0b223faa3) - _Al Billings \<mimir@u.washington.edu\>_

@@ -74,9 +74,9 @@ lODlFwBVt+PJIRHVocCcCdp7/5ffE/hTIXoRNYYF0kcZTotJP05SXg==
 
 + Return to [October 1995](/archive/1995/10)
 
-+ Return to "[Adam Philipp <adam<span>@</span>powergrid.electriciti.com>](/author/adam_philipp_adam_at_powergrid_electriciti_com_)"
-+ Return to "[karlsiil<span>@</span>attmail.com (Karl A Siil)](/author/karlsiil_at_attmail_com_karl_a_siil_)"
-+ Return to "[Simeon ben Nevel <snevel<span>@</span>schwab.com>](/author/simeon_ben_nevel_snevel_at_schwab_com_)"
++ Return to "[Adam Philipp <adam<span>@</span>powergrid.electriciti.com>](/authors/adam_philipp_adam_at_powergrid_electriciti_com_)"
++ Return to "[karlsiil<span>@</span>attmail.com (Karl A Siil)](/authors/karlsiil_at_attmail_com_karl_a_siil_)"
++ Return to "[Simeon ben Nevel <snevel<span>@</span>schwab.com>](/authors/simeon_ben_nevel_snevel_at_schwab_com_)"
 
 + 1995-10-04 (Wed, 4 Oct 95 03:28:44 PDT) - [New Windoze PGP Shell (freeware)  worth checking out](/archive/1995/10/2977d2ee9ffaa348402a8eed7d35cf504cbc6b59678289db3c0ecc98ee09b846) - _Adam Philipp \<adam@powergrid.electriciti.com\>_
   + 1995-10-04 (Wed, 4 Oct 95 14:21:52 PDT) - Re: New Windoze PGP Shell (freeware)  worth checking out - _karlsiil@attmail.com (Karl A Siil)_

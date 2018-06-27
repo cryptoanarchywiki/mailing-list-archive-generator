@@ -70,7 +70,7 @@ Dynetics, Inc.      * http://www.msen.com/~olbon/olbon.html
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "["Clay Olbon II" <Clay.Olbon<span>@</span>dynetics.com>](/author/clay_olbon_ii_clay_olbon_at_dynetics_com_)"
++ Return to "["Clay Olbon II" <Clay.Olbon<span>@</span>dynetics.com>](/authors/clay_olbon_ii_clay_olbon_at_dynetics_com_)"
 
 + 1996-07-26 (Fri, 26 Jul 1996 23:25:08 +0800) - Silliness on cypherpunks - _"Clay Olbon II" \<Clay.Olbon@dynetics.com\>_
 

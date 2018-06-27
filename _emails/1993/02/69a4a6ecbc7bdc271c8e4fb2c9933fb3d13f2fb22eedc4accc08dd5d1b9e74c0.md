@@ -60,7 +60,7 @@ of luck to all the members of this list  and thanx again...
 
 + Return to [February 1993](/archive/1993/02)
 
-+ Return to "[Kelly Goen <snake<span>@</span>Cadence.COM>](/author/kelly_goen_snake_at_cadence_com_)"
++ Return to "[Kelly Goen <snake<span>@</span>Cadence.COM>](/authors/kelly_goen_snake_at_cadence_com_)"
 
 + 1993-02-22 (Sun, 21 Feb 93 21:07:03 PST) - New Directions on the Internet-Privacy what are the threats... - _Kelly Goen \<snake@Cadence.COM\>_
 

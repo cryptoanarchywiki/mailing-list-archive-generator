@@ -62,7 +62,7 @@ Phil
 
 + Return to [April 1993](/archive/1993/04)
 
-+ Return to "[karn<span>@</span>qualcomm.com (Phil Karn)](/author/karn_at_qualcomm_com_phil_karn_)"
++ Return to "[karn<span>@</span>qualcomm.com (Phil Karn)](/authors/karn_at_qualcomm_com_phil_karn_)"
 
 + 1993-04-22 (Thu, 22 Apr 93 15:21:48 PDT) - Re: CLIP: Legal Aspects - _karn@qualcomm.com (Phil Karn)_
 

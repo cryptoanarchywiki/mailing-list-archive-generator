@@ -51,9 +51,9 @@ the "timing" of this thing coming out.
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[Chris Knight <cknight<span>@</span>crl.com>](/author/chris_knight_cknight_at_crl_com_)"
-+ Return to "[Mark Hittinger <bugs<span>@</span>netsys.com>](/author/mark_hittinger_bugs_at_netsys_com_)"
-+ Return to "[Mats Bergstrom <matsb<span>@</span>sos.sll.se>](/author/mats_bergstrom_matsb_at_sos_sll_se_)"
++ Return to "[Chris Knight <cknight<span>@</span>crl.com>](/authors/chris_knight_cknight_at_crl_com_)"
++ Return to "[Mark Hittinger <bugs<span>@</span>netsys.com>](/authors/mark_hittinger_bugs_at_netsys_com_)"
++ Return to "[Mats Bergstrom <matsb<span>@</span>sos.sll.se>](/authors/mats_bergstrom_matsb_at_sos_sll_se_)"
 
 + 1994-02-26 (Fri, 25 Feb 94 20:16:08 PST) - re: inept spy - _Mark Hittinger \<bugs@netsys.com\>_
   + 1994-02-26 (Fri, 25 Feb 94 21:20:13 PST) - [re: inept spy](/archive/1994/02/0bfac98777edee01e8a97ccf8b80f437bdbf05ba12480ba08e8d65c77a477cf4) - _Chris Knight \<cknight@crl.com\>_

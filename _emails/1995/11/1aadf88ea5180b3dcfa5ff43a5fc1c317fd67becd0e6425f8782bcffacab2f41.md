@@ -44,7 +44,7 @@ ROTFL
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/author/rich_graves_llurch_at_networking_stanford_edu_)"
++ Return to "[Rich Graves <llurch<span>@</span>networking.stanford.edu>](/authors/rich_graves_llurch_at_networking_stanford_edu_)"
 
 + 1995-11-20 (Tue, 21 Nov 1995 04:15:25 +0800) - Re: "Junk Email" - _Rich Graves \<llurch@networking.stanford.edu\>_
 

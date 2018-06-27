@@ -61,7 +61,7 @@ Median (middle character, no order): 3
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[DataETRsch<span>@</span>aol.com](/author/dataetrsch_at_aol_com)"
++ Return to "[DataETRsch<span>@</span>aol.com](/authors/dataetrsch_at_aol_com)"
 
 + 1997-05-18 (Sun, 18 May 1997 09:10:04 +0800) - VSA2048 CRACKING CONTEST - _DataETRsch@aol.com_
 

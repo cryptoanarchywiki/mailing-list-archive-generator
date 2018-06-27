@@ -74,9 +74,9 @@ smith@securecomputing.com      secure computing corporation
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
-+ Return to "[Rick Smith <smith<span>@</span>securecomputing.com>](/author/rick_smith_smith_at_securecomputing_com_)"
-+ Return to "[Will Rodger <rodger<span>@</span>worldnet.att.net>](/author/will_rodger_rodger_at_worldnet_att_net_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/authors/adam_shostack_adam_at_homeport_org_)"
++ Return to "[Rick Smith <smith<span>@</span>securecomputing.com>](/authors/rick_smith_smith_at_securecomputing_com_)"
++ Return to "[Will Rodger <rodger<span>@</span>worldnet.att.net>](/authors/will_rodger_rodger_at_worldnet_att_net_)"
 
 + 1997-05-09 (Fri, 9 May 1997 23:48:40 +0800) - [Re: Clinton Admin. to announce new Crypto regs](/archive/1997/05/4679ea27ecd459d8de25712ecc6782bc165df0c1aa1c767b9a553bba2014c177) - _Will Rodger \<rodger@worldnet.att.net\>_
   + 1997-05-09 (Sat, 10 May 1997 02:24:10 +0800) - [Re: Clinton Admin. to announce new Crypto regs](/archive/1997/05/36bb8b6bd6a9eabdedac0d13de2a1fc5157fdfdfe5d7a5a3d336a86580a83471) - _Adam Shostack \<adam@homeport.org\>_

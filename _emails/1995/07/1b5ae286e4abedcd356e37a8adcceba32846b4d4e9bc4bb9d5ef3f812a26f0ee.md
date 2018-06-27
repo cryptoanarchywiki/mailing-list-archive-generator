@@ -54,7 +54,7 @@ voters.
 
 + Return to [July 1995](/archive/1995/07)
 
-+ Return to "[hal9001<span>@</span>panix.com (Robert A. Rosenberg)](/author/hal9001_at_panix_com_robert_a_rosenberg_)"
++ Return to "[hal9001<span>@</span>panix.com (Robert A. Rosenberg)](/authors/hal9001_at_panix_com_robert_a_rosenberg_)"
 
 + 1995-07-27 (Wed, 26 Jul 95 20:31:23 PDT) - Re: Three strikes you're out! for politicians... yeah we wish! - _hal9001@panix.com (Robert A. Rosenberg)_
 

@@ -54,7 +54,7 @@ cfrye@ciis.mitre.org or cfrye@mason1.gmu.edu
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[cfrye<span>@</span>ciis.mitre.org (Curtis D. Frye)](/author/cfrye_at_ciis_mitre_org_curtis_d_frye_)"
++ Return to "[cfrye<span>@</span>ciis.mitre.org (Curtis D. Frye)](/authors/cfrye_at_ciis_mitre_org_curtis_d_frye_)"
 
 + 1994-04-07 (Thu, 7 Apr 94 12:42:47 PDT) - Re: I'm a little surprised - _cfrye@ciis.mitre.org (Curtis D. Frye)_
 

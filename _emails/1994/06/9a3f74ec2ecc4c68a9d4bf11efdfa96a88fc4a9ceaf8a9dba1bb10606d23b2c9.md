@@ -659,7 +659,7 @@ STEVE:  First of all, it's been very interesting subject, thanks  but I'm
 
 + Return to [June 1994](/archive/1994/06)
 
-+ Return to "[rarachel<span>@</span>photon.poly.edu (Arsen Ray Arachelian)](/author/rarachel_at_photon_poly_edu_arsen_ray_arachelian_)"
++ Return to "[rarachel<span>@</span>photon.poly.edu (Arsen Ray Arachelian)](/authors/rarachel_at_photon_poly_edu_arsen_ray_arachelian_)"
 
 + 1994-06-30 (Wed, 29 Jun 94 18:59:18 PDT) - Feb 17 Transcript Part 3 - _rarachel@photon.poly.edu (Arsen Ray Arachelian)_
 

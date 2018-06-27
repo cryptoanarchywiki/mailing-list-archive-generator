@@ -38,7 +38,7 @@ please send anon remailer faq. many thanks.
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[kephart<span>@</span>interserv.com](/author/kephart_at_interserv_com)"
++ Return to "[kephart<span>@</span>interserv.com](/authors/kephart_at_interserv_com)"
 
 + 1996-01-09 (Tue, 9 Jan 96 10:37:11 PST) - No Subject - _kephart@interserv.com_
 

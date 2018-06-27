@@ -40,7 +40,7 @@ quit
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[John Gibb - Computer Centre <jon<span>@</span>computer-science.paisley.ac.uk>](/author/john_gibb__computer_centre_jon_at_computerscience_paisley_ac_uk_)"
++ Return to "[John Gibb - Computer Centre <jon<span>@</span>computer-science.paisley.ac.uk>](/authors/john_gibb__computer_centre_jon_at_computerscience_paisley_ac_uk_)"
 
 + 1993-10-05 (Tue, 5 Oct 93 08:34:53 PDT) - subscribe please - _John Gibb - Computer Centre \<jon@computer-science.paisley.ac.uk\>_
 

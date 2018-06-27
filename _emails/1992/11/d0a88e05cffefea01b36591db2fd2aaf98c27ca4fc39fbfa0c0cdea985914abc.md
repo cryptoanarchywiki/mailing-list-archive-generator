@@ -52,7 +52,7 @@ make this a win win situation..(except fotr the spooks and the crooks..)
 
 + Return to [November 1992](/archive/1992/11)
 
-+ Return to "[ccat<span>@</span>casa-next1.Stanford.EDU (Chris Beaumont)](/author/ccat_at_casanext1_stanford_edu_chris_beaumont_)"
++ Return to "[ccat<span>@</span>casa-next1.Stanford.EDU (Chris Beaumont)](/authors/ccat_at_casanext1_stanford_edu_chris_beaumont_)"
 
 + 1992-11-20 (Fri, 20 Nov 92 15:04:50 PST) - Encrypting all mail and the protection of.. - _ccat@casa-next1.Stanford.EDU (Chris Beaumont)_
 

@@ -58,7 +58,7 @@ j'
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[jpp<span>@</span>markv.com](/author/jpp_at_markv_com)"
++ Return to "[jpp<span>@</span>markv.com](/authors/jpp_at_markv_com)"
 
 + _Unknown thread root_
   + 1994-04-28 (Thu, 28 Apr 94 14:30:03 PDT) - Re: DId you ever think... - _jpp@markv.com_

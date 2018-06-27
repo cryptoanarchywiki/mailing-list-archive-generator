@@ -109,7 +109,7 @@ And argueably those who don't hold ViaCrypt licenses.
 
 + Return to [December 1993](/archive/1993/12)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/author/black_unicorn_unicorn_at_access_digex_net_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/authors/black_unicorn_unicorn_at_access_digex_net_)"
 
 + 1993-12-17 (Thu, 16 Dec 93 17:11:08 PST) - Anonymous remailers and keyservers. - _Black Unicorn \<unicorn@access.digex.net\>_
 

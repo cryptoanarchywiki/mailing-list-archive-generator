@@ -48,8 +48,8 @@ http://www.c2.org (or login as "guest")			sameer@c2.org
 
 + Return to [November 1994](/archive/1994/11)
 
-+ Return to "[Jim Pinson <jpinson<span>@</span>fcdarwin.org.ec>](/author/jim_pinson_jpinson_at_fcdarwin_org_ec_)"
-+ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
++ Return to "[Jim Pinson <jpinson<span>@</span>fcdarwin.org.ec>](/authors/jim_pinson_jpinson_at_fcdarwin_org_ec_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/authors/sameer_sameer_at_c2_org_)"
 
 + 1994-11-22 (Tue, 22 Nov 94 12:48:49 PST) - [New remailer concept.](/archive/1994/11/88ef27a9543f2f294b4a8cdb61bfea133537c5703fc87fbabbd116b6f9d49aaf) - _Jim Pinson \<jpinson@fcdarwin.org.ec\>_
   + 1994-11-24 (Wed, 23 Nov 94 18:16:29 PST) - Re: New remailer concept. - _sameer \<sameer@c2.org\>_

@@ -69,7 +69,7 @@ kOb0tKG0MxY=
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[John K Clark <johnkc<span>@</span>well.sf.ca.us>](/author/john_k_clark_johnkc_at_well_sf_ca_us_)"
++ Return to "[John K Clark <johnkc<span>@</span>well.sf.ca.us>](/authors/john_k_clark_johnkc_at_well_sf_ca_us_)"
 
 + 1994-03-25 (Thu, 24 Mar 94 21:53:27 PST) - Smile For Big Brother - _John K Clark \<johnkc@well.sf.ca.us\>_
 

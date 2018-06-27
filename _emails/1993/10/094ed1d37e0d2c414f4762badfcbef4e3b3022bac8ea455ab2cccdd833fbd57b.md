@@ -71,9 +71,9 @@ Faxes to An Teallach Limited: +44 31 662 4678  Voice: +44 31 668 1550 x212
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[Edward J OConnell <ejo<span>@</span>world.std.com>](/author/edward_j_oconnell_ejo_at_world_std_com_)"
-+ Return to "[gtoal<span>@</span>an-teallach.com (Graham Toal)](/author/gtoal_at_anteallach_com_graham_toal_)"
-+ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/author/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
++ Return to "[Edward J OConnell <ejo<span>@</span>world.std.com>](/authors/edward_j_oconnell_ejo_at_world_std_com_)"
++ Return to "[gtoal<span>@</span>an-teallach.com (Graham Toal)](/authors/gtoal_at_anteallach_com_graham_toal_)"
++ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/authors/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
 
 + 1993-10-29 (Fri, 29 Oct 93 13:59:08 PDT) - ID of anonymous posters via word analysis? - _gtoal@an-teallach.com (Graham Toal)_
   + 1993-10-29 (Fri, 29 Oct 93 14:39:07 PDT) - [Re: ID of anonymous posters via word analysis?](/archive/1993/10/7f3f706c40804c7b3ac91e9fc5c59fef37e1d28f5a6afdc6848fb7e5dd28ee48) - _Edward J OConnell \<ejo@world.std.com\>_

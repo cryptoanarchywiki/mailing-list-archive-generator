@@ -55,8 +55,8 @@ the Supreme Court.
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/authors/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
 
 + 1997-09-10 (Thu, 11 Sep 1997 04:30:24 +0800) - [I told you so](/archive/1997/09/63b5966dbb58b0211618cc6078ee48a99474ee5884b221e9d13697b084e61760) - _Tim May \<tcmay@got.net\>_
   + 1997-09-10 (Thu, 11 Sep 1997 05:29:50 +0800) - Re: I told you so - _Lucky Green \<shamrock@netcom.com\>_

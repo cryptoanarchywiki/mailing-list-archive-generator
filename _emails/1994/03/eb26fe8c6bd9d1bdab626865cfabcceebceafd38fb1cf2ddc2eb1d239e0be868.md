@@ -50,9 +50,9 @@ DCF
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
-+ Return to "[Mike Godwin <mnemonic<span>@</span>eff.org>](/author/mike_godwin_mnemonic_at_eff_org_)"
-+ Return to "[werner<span>@</span>mc.ab.com](/author/werner_at_mc_ab_com)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Mike Godwin <mnemonic<span>@</span>eff.org>](/authors/mike_godwin_mnemonic_at_eff_org_)"
++ Return to "[werner<span>@</span>mc.ab.com](/authors/werner_at_mc_ab_com)"
 
 + 1994-03-29 (Tue, 29 Mar 94 06:52:25 PST) - [Re: cfp '94 transcript](/archive/1994/03/6c41976be44d70554e1779c3f688f927cb8b19a7ee084578b29592864ccd86a5) - _werner@mc.ab.com_
   + 1994-03-29 (Tue, 29 Mar 94 07:38:09 PST) - Re: cfp '94 transcript - _Duncan Frissell \<frissell@panix.com\>_

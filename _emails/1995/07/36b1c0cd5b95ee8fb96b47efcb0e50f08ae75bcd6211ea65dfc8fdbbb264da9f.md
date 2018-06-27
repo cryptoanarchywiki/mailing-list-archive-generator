@@ -75,7 +75,7 @@ for next chunk to export --> http://dcs.ex.ac.uk/~aba/export/
 
 + Return to [July 1995](/archive/1995/07)
 
-+ Return to "[carolann<span>@</span>censored.org (UnCensored Girls Anonymous)](/author/carolann_at_censored_org_uncensored_girls_anonymous_)"
++ Return to "[carolann<span>@</span>censored.org (UnCensored Girls Anonymous)](/authors/carolann_at_censored_org_uncensored_girls_anonymous_)"
 
 + 1995-07-28 (Thu, 27 Jul 95 23:41:29 PDT) - Re: The Value of "Attachments" on this List - _carolann@censored.org (UnCensored Girls Anonymous)_
 

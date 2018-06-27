@@ -63,7 +63,7 @@ USWeb Corporation
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[Daniel Todd <dtodd<span>@</span>corp.usweb.com>](/author/daniel_todd_dtodd_at_corp_usweb_com_)"
++ Return to "[Daniel Todd <dtodd<span>@</span>corp.usweb.com>](/authors/daniel_todd_dtodd_at_corp_usweb_com_)"
 
 + 1996-11-19 (Tue, 19 Nov 1996 10:11:59 -0800 (PST)) - RE: Unsubtroll - _Daniel Todd \<dtodd@corp.usweb.com\>_
 

@@ -54,7 +54,7 @@ Voice: 415-206-9906
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "["Ross Wright" <rwright<span>@</span>adnetsol.com>](/author/ross_wright_rwright_at_adnetsol_com_)"
++ Return to "["Ross Wright" <rwright<span>@</span>adnetsol.com>](/authors/ross_wright_rwright_at_adnetsol_com_)"
 
 + 1996-12-31 (Mon, 30 Dec 1996 22:36:57 -0800 (PST)) - Re: (Fwd) Re: Mr. May's Posts. Other Things. - _"Ross Wright" \<rwright@adnetsol.com\>_
 

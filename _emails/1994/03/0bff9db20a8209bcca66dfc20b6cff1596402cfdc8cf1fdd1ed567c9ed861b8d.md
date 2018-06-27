@@ -66,7 +66,7 @@ crypto? I think not....So they better get on the ball really defending us...
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[area51<span>@</span>aol.com](/author/area51_at_aol_com)"
++ Return to "[area51<span>@</span>aol.com](/authors/area51_at_aol_com)"
 
 + 1994-03-02 (Wed, 2 Mar 94 12:48:21 PST) - Defenders of Clipper - _area51@aol.com_
 

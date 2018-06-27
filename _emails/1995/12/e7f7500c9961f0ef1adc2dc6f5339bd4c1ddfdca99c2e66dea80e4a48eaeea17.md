@@ -47,8 +47,8 @@ in influential positions on the comittee.  I'd also contact
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/author/rich_salz_rsalz_at_osf_org_)"
-+ Return to "[sameer <sameer<span>@</span>c2.org>](/author/sameer_sameer_at_c2_org_)"
++ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/authors/rich_salz_rsalz_at_osf_org_)"
++ Return to "[sameer <sameer<span>@</span>c2.org>](/authors/sameer_sameer_at_c2_org_)"
 
 + 1995-12-04 (Mon, 4 Dec 95 13:29:39 PST) - Re: Meeting notes from ANSI X.9 Meeting on Electronic Payment - _Rich Salz \<rsalz@osf.org\>_
   + 1995-12-04 (Mon, 4 Dec 95 14:46:54 PST) - [Re: Meeting notes from ANSI X.9 Meeting on Electronic Payment](/archive/1995/12/ad321e69ec91182ebdc06a693aacb05888a27d59c936c268ae17d9ebca336c86) - _sameer \<sameer@c2.org\>_

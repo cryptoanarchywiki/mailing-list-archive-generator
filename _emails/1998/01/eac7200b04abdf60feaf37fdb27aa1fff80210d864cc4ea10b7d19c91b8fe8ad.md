@@ -63,7 +63,7 @@ allow time stamping the frame with a signed reference that could be checked.
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
 
 + 1998-01-26 (Tue, 27 Jan 1998 07:58:06 +0800) - Signing video... - _Jim Choate \<ravage@ssz.com\>_
 

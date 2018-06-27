@@ -61,7 +61,7 @@ See ya there!
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[Gina-Lisa<span>@</span>logatome.micronet.fr](/author/ginalisa_at_logatome_micronet_fr)"
++ Return to "[Gina-Lisa<span>@</span>logatome.micronet.fr](/authors/ginalisa_at_logatome_micronet_fr)"
 
 + 1997-06-26 (Thu, 26 Jun 1997 08:29:43 -0700 (PDT)) - For Adults ONLY! - _Gina-Lisa@logatome.micronet.fr_
 

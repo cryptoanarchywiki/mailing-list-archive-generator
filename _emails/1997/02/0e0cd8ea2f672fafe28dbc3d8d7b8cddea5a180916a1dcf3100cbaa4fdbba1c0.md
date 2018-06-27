@@ -114,7 +114,7 @@ weasels come."
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[Lance Cottrell <loki<span>@</span>infonex.com>](/author/lance_cottrell_loki_at_infonex_com_)"
++ Return to "[Lance Cottrell <loki<span>@</span>infonex.com>](/authors/lance_cottrell_loki_at_infonex_com_)"
 
 + 1997-02-07 (Thu, 6 Feb 1997 20:41:11 -0800 (PST)) - Re: mail-to-news fun - _Lance Cottrell \<loki@infonex.com\>_
 

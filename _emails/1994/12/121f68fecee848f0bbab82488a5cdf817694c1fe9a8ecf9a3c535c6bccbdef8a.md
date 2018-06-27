@@ -50,8 +50,8 @@ ready, its existence will be announced on cypherpunks.  -- Nathaniel
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "["James A. Donald" <jamesd<span>@</span>netcom.com>](/author/james_a_donald_jamesd_at_netcom_com_)"
-+ Return to "[Nathaniel Borenstein <nsb<span>@</span>nsb.fv.com>](/author/nathaniel_borenstein_nsb_at_nsb_fv_com_)"
++ Return to "["James A. Donald" <jamesd<span>@</span>netcom.com>](/authors/james_a_donald_jamesd_at_netcom_com_)"
++ Return to "[Nathaniel Borenstein <nsb<span>@</span>nsb.fv.com>](/authors/nathaniel_borenstein_nsb_at_nsb_fv_com_)"
 
 + _Unknown thread root_
   + 1994-12-20 (Tue, 20 Dec 94 12:24:27 PST) - Re: PGP-MIME spec (No Flames Allowed!) - _Nathaniel Borenstein \<nsb@nsb.fv.com\>_

@@ -66,7 +66,7 @@ Eric
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/authors/hughes_at_ah_com_eric_hughes_)"
 
 + 1994-02-22 (Tue, 22 Feb 94 07:23:04 PST) - ADMIN: cypherpunks-ratings created - _hughes@ah.com (Eric Hughes)_
 

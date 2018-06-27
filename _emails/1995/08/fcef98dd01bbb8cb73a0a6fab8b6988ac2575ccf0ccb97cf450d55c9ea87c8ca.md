@@ -41,10 +41,10 @@ SHUT UP.
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "[Ford Prefect <remailer<span>@</span>bi-node.zerberus.de>](/author/ford_prefect_remailer_at_binode_zerberus_de_)"
-+ Return to "["K. M. Ellis" <kelli<span>@</span>zeus.towson.edu>](/author/k_m_ellis_kelli_at_zeus_towson_edu_)"
-+ Return to "[Ray Arachelian <sunder<span>@</span>escape.com>](/author/ray_arachelian_sunder_at_escape_com_)"
-+ Return to "[Syed Yusuf <yusuf921<span>@</span>uidaho.edu>](/author/syed_yusuf_yusuf921_at_uidaho_edu_)"
++ Return to "[Ford Prefect <remailer<span>@</span>bi-node.zerberus.de>](/authors/ford_prefect_remailer_at_binode_zerberus_de_)"
++ Return to "["K. M. Ellis" <kelli<span>@</span>zeus.towson.edu>](/authors/k_m_ellis_kelli_at_zeus_towson_edu_)"
++ Return to "[Ray Arachelian <sunder<span>@</span>escape.com>](/authors/ray_arachelian_sunder_at_escape_com_)"
++ Return to "[Syed Yusuf <yusuf921<span>@</span>uidaho.edu>](/authors/syed_yusuf_yusuf921_at_uidaho_edu_)"
 
 + 1995-08-11 (Thu, 10 Aug 95 20:02:12 PDT) - [No Subject](/archive/1995/08/c5035887df9e80e33f645cb34f4b9a51e889c4a9eff3808b54b2101712333644) - _Ford Prefect \<remailer@bi-node.zerberus.de\>_
   + 1995-08-11 (Fri, 11 Aug 95 11:29:30 PDT) - Re: your mail - _"K. M. Ellis" \<kelli@zeus.towson.edu\>_

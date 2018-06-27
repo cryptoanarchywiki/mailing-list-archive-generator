@@ -84,7 +84,7 @@ Send a blank message with the subject "send pgp-key"
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>UNiX.asb.com>](/author/deranged_mutant_wlkngowl_at_unix_asb_com_)"
++ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>UNiX.asb.com>](/authors/deranged_mutant_wlkngowl_at_unix_asb_com_)"
 
 + 1996-01-24 (Wed, 24 Jan 1996 17:26:04 +0800) - Re: NY State to restrinct netporn?! - _"Deranged Mutant" \<WlkngOwl@UNiX.asb.com\>_
 

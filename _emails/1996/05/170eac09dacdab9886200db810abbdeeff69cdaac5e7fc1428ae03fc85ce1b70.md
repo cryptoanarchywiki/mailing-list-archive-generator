@@ -56,8 +56,8 @@ intended payee is secure.  No?
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/author/anonymousremailer_at_shell_portal_com)"
-+ Return to "[Moltar Ramone <jlasser<span>@</span>rwd.goucher.edu>](/author/moltar_ramone_jlasser_at_rwd_goucher_edu_)"
++ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/authors/anonymousremailer_at_shell_portal_com)"
++ Return to "[Moltar Ramone <jlasser<span>@</span>rwd.goucher.edu>](/authors/moltar_ramone_jlasser_at_rwd_goucher_edu_)"
 
 + 1996-05-08 (Wed, 8 May 1996 11:25:01 +0800) - No Subject - _anonymous-remailer@shell.portal.com_
   + 1996-05-08 (Wed, 8 May 1996 13:51:49 +0800) - ["bearer" certificates](/archive/1996/05/20e767ab528f96ffad8add8c920cc99cce14a08d1db72a39f35f7d0747c9951f) - _Moltar Ramone \<jlasser@rwd.goucher.edu\>_

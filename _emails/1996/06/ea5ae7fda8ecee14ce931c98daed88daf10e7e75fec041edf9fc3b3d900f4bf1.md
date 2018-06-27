@@ -54,7 +54,7 @@ Tonie
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[tonie<span>@</span>efn.org (Tonie Nathan)](/author/tonie_at_efn_org_tonie_nathan_)"
++ Return to "[tonie<span>@</span>efn.org (Tonie Nathan)](/authors/tonie_at_efn_org_tonie_nathan_)"
 
 + 1996-06-20 (Thu, 20 Jun 1996 19:50:30 +0800) - Matching funds - _tonie@efn.org (Tonie Nathan)_
 

@@ -56,7 +56,7 @@ ich habe das auch gesehen.  Aber, manchmal kommen die urspruengliche Mails
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[Carl Ellison <cme<span>@</span>sw.stratus.com>](/author/carl_ellison_cme_at_sw_stratus_com_)"
++ Return to "[Carl Ellison <cme<span>@</span>sw.stratus.com>](/authors/carl_ellison_cme_at_sw_stratus_com_)"
 
 + 1994-03-31 (Thu, 31 Mar 94 10:29:46 PST) - Re: Is this list alive? - _Carl Ellison \<cme@sw.stratus.com\>_
 

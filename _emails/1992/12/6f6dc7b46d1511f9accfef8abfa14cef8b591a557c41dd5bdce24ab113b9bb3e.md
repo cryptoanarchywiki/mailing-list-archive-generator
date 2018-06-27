@@ -43,7 +43,7 @@ nraizman@winchester.pp.psc.edu
 
 + Return to [December 1992](/archive/1992/12)
 
-+ Return to "[nraizman<span>@</span>winchester.pp.psc.edu](/author/nraizman_at_winchester_pp_psc_edu)"
++ Return to "[nraizman<span>@</span>winchester.pp.psc.edu](/authors/nraizman_at_winchester_pp_psc_edu)"
 
 + 1992-12-03 (Thu, 3 Dec 92 08:34:29 PST) - Info Wanted - _nraizman@winchester.pp.psc.edu_
 

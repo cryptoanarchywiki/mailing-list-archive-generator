@@ -69,8 +69,8 @@ unicorn@schloss.li
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[azur<span>@</span>netcom.com (Steve Schear)](/author/azur_at_netcom_com_steve_schear_)"
-+ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[azur<span>@</span>netcom.com (Steve Schear)](/authors/azur_at_netcom_com_steve_schear_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/authors/black_unicorn_unicorn_at_schloss_li_)"
 
 + 1996-09-17 (Tue, 17 Sep 1996 13:21:02 +0800) - [Assassination Politics, was Kiddie porn on the Internet](/archive/1996/09/d058168cdc77e140ebe4da9db03f8afb7170f6b452c2e8c5451b30cc65a26f8a) - _azur@netcom.com (Steve Schear)_
   + 1996-09-17 (Tue, 17 Sep 1996 18:01:09 +0800) - Re: Assassination Politics, was Kiddie porn on the Internet - _Black Unicorn \<unicorn@schloss.li\>_

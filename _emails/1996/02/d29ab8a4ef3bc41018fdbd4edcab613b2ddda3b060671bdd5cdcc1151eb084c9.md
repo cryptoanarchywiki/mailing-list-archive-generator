@@ -64,7 +64,7 @@ bad hysteria with good hysteria but with adult thinking.
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[tallpaul<span>@</span>pipeline.com (tallpaul)](/author/tallpaul_at_pipeline_com_tallpaul_)"
++ Return to "[tallpaul<span>@</span>pipeline.com (tallpaul)](/authors/tallpaul_at_pipeline_com_tallpaul_)"
 
 + 1996-02-19 (Mon, 19 Feb 1996 21:30:39 +0800) - Re: Req. for soundbites - _tallpaul@pipeline.com (tallpaul)_
 

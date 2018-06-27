@@ -44,7 +44,7 @@ What I have seen there is technical and not political.
 
 + Return to [June 1993](/archive/1993/06)
 
-+ Return to "[norm<span>@</span>netcom.com (Norman Hardy)](/author/norm_at_netcom_com_norman_hardy_)"
++ Return to "[norm<span>@</span>netcom.com (Norman Hardy)](/authors/norm_at_netcom_com_norman_hardy_)"
 
 + 1993-06-09 (Tue, 8 Jun 93 19:12:57 PDT) - CERT netnews - _norm@netcom.com (Norman Hardy)_
 

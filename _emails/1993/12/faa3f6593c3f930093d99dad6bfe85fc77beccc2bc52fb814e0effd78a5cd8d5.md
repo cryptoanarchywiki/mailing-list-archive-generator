@@ -353,7 +353,7 @@ body behind the pseudonym is in no way deserving of violence.
 
 + Return to [December 1993](/archive/1993/12)
 
-+ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/author/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
++ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/authors/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
 
 + 1993-12-24 (Thu, 23 Dec 93 22:50:39 PST) - Happy Holidays - _"L. Detweiler" \<ld231782@longs.lance.colostate.edu\>_
 

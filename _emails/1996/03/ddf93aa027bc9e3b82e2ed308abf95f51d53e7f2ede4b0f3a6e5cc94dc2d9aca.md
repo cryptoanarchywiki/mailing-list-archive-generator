@@ -112,7 +112,7 @@ information age.
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[owner-cypherpunks<span>@</span>toad.com](/author/ownercypherpunks_at_toad_com)"
++ Return to "[owner-cypherpunks<span>@</span>toad.com](/authors/ownercypherpunks_at_toad_com)"
 
 + 1996-03-21 (Thu, 21 Mar 1996 15:05:00 +0800) - No Subject - _owner-cypherpunks@toad.com_
 

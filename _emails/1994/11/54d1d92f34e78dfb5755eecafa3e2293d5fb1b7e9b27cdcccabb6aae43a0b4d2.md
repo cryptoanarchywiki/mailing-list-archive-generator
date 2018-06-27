@@ -55,8 +55,8 @@ Brad D.
 
 + Return to [November 1994](/archive/1994/11)
 
-+ Return to "[Brad Dolan <bdolan<span>@</span>well.sf.ca.us>](/author/brad_dolan_bdolan_at_well_sf_ca_us_)"
-+ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
++ Return to "[Brad Dolan <bdolan<span>@</span>well.sf.ca.us>](/authors/brad_dolan_bdolan_at_well_sf_ca_us_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/authors/mpd_at_netcom_com_mike_duvos_)"
 
 + 1994-11-19 (Sat, 19 Nov 94 11:55:19 PST) - currency strips "salted" for neutron activation analysis? - _Brad Dolan \<bdolan@well.sf.ca.us\>_
   + 1994-11-19 (Sat, 19 Nov 94 13:01:27 PST) - [Re: currency strips "salted" for neutron activation analysis?](/archive/1994/11/e648e712a2337422d6d4f4f4a88ca61c638dbd2f1d80bb71f41835040113c4a2) - _mpd@netcom.com (Mike Duvos)_

@@ -50,7 +50,7 @@ John
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + _Unknown thread root_
   + 1998-11-18 (Thu, 19 Nov 1998 03:27:04 +0800) - CJ's Teeth/Glasses - _John Young \<jya@pipeline.com\>_

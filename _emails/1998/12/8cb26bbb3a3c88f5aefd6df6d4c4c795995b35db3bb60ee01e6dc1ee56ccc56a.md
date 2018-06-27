@@ -51,7 +51,7 @@ before they outlaw plowshares too. "
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[Anonymous <nobody<span>@</span>remailer.ch>](/author/anonymous_nobody_at_remailer_ch_)"
++ Return to "[Anonymous <nobody<span>@</span>remailer.ch>](/authors/anonymous_nobody_at_remailer_ch_)"
 
 + 1998-12-26 (Sat, 26 Dec 1998 21:48:17 +0800) - No Subject - _Anonymous \<nobody@remailer.ch\>_
 

@@ -49,8 +49,8 @@ Timmy's fetal cranium (not much to begin with).
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/author/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
-+ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/author/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
++ Return to "[Graham-John Bullers <real<span>@</span>freenet.edmonton.ab.ca>](/authors/grahamjohn_bullers_real_at_freenet_edmonton_ab_ca_)"
++ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/authors/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
 
 + 1997-05-14 (Wed, 14 May 1997 20:04:14 +0800) - Re: Quadratic residues - _nobody@huge.cajones.com (Huge Cajones Remailer)_
   + 1997-05-15 (Thu, 15 May 1997 10:45:41 +0800) - [Re: Quadratic residues](/archive/1997/05/80b262195bc53c301d50e80870b8ebae80c0786db8a88bf0ad9551ba2bb00eac) - _Graham-John Bullers \<real@freenet.edmonton.ab.ca\>_

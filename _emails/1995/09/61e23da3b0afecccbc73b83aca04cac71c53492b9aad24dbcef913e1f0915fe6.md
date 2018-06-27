@@ -61,7 +61,7 @@ arbitrary power of the state.		|   jamesd@echeque.com
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/author/james_a_donald_jamesd_at_echeque_com_)"
++ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/authors/james_a_donald_jamesd_at_echeque_com_)"
 
 + 1995-09-07 (Thu, 7 Sep 95 08:22:03 PDT) - Re: cryptography eliminates lawyers? - _"James A. Donald" \<jamesd@echeque.com\>_
 

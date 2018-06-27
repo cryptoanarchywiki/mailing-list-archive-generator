@@ -135,10 +135,10 @@ Higher Power: 2^1398269     | black markets, collapse of governments.
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
-+ Return to "[Michael Wilson <0005514706<span>@</span>MCIMAIL.COM>](/author/michael_wilson_0005514706_at_mcimail_com_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/author/william_h_geiger_iii_whgiii_at_invweb_net_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Michael Wilson <0005514706<span>@</span>MCIMAIL.COM>](/authors/michael_wilson_0005514706_at_mcimail_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/authors/william_h_geiger_iii_whgiii_at_invweb_net_)"
 
 + 1997-09-15 (Tue, 16 Sep 1997 04:19:44 +0800) - [Attacking GAK--team effort assembling](/archive/1997/09/00a323b7c7543bff6e1b4f6b47f981fb6daf2b6559480fd1f0c2fd79c101fb60) - _Michael Wilson \<0005514706@MCIMAIL.COM\>_
   + 1997-09-15 (Tue, 16 Sep 1997 07:11:41 +0800) - Re: Attacking GAK--team effort assembling - _Tim May \<tcmay@got.net\>_

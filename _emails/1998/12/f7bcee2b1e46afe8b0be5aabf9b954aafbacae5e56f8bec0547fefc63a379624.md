@@ -84,7 +84,7 @@ if i can
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[5dfs<span>@</span>mail.gnosis.it](/author/5dfs_at_mail_gnosis_it)"
++ Return to "[5dfs<span>@</span>mail.gnosis.it](/authors/5dfs_at_mail_gnosis_it)"
 
 + 1998-12-04 (Fri, 4 Dec 1998 02:06:24 -0800 (PST)) - ADV: We'll Pay You To Make Our Phone Ring - _5dfs@mail.gnosis.it_
 

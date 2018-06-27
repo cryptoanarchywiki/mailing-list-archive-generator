@@ -68,7 +68,7 @@ bOAEKnlQmwhRKOxpNmBr+EpM3zoRIWWP
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[Mutant Rob <wlkngowl<span>@</span>unix.asb.com>](/author/mutant_rob_wlkngowl_at_unix_asb_com_)"
++ Return to "[Mutant Rob <wlkngowl<span>@</span>unix.asb.com>](/authors/mutant_rob_wlkngowl_at_unix_asb_com_)"
 
 + 1996-03-07 (Fri, 8 Mar 1996 07:22:23 +0800) - Re: Truelly Random Numbers - _Mutant Rob \<wlkngowl@unix.asb.com\>_
 

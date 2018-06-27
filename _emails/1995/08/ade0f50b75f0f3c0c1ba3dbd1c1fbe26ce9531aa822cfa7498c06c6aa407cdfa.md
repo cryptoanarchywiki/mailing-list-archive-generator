@@ -332,7 +332,7 @@ fax:   +1.202.637.0968
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "[Mike Ingle <inglem<span>@</span>adnetsol.com>](/author/mike_ingle_inglem_at_adnetsol_com_)"
++ Return to "[Mike Ingle <inglem<span>@</span>adnetsol.com>](/authors/mike_ingle_inglem_at_adnetsol_com_)"
 
 + 1995-08-05 (Sat, 5 Aug 95 00:01:35 PDT) - Cox/Wyden passed, but so did "Managers' Amendment" - _Mike Ingle \<inglem@adnetsol.com\>_
 

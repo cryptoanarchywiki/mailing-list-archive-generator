@@ -40,7 +40,7 @@ Let's hope for settlement.
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[billp <billp<span>@</span>nmol.com>](/author/billp_billp_at_nmol_com_)"
++ Return to "[billp <billp<span>@</span>nmol.com>](/authors/billp_billp_at_nmol_com_)"
 
 + 1997-11-07 (Sat, 8 Nov 1997 00:47:08 +0800) - NSA lawsuit recent documents - _billp \<billp@nmol.com\>_
 

@@ -68,7 +68,7 @@ Send a message with the subject "send pgp-key" for a copy of my key.
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[craigw<span>@</span>dg.ce.com.au](/author/craigw_at_dg_ce_com_au)"
++ Return to "[craigw<span>@</span>dg.ce.com.au](/authors/craigw_at_dg_ce_com_au)"
 
 + 1996-10-08 (Tue, 8 Oct 1996 16:28:25 +0800) - RE: WINDOWS NT ???? - _craigw@dg.ce.com.au_
 

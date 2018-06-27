@@ -64,7 +64,7 @@ responding to the thread via an anonymous remailer.
 
 + Return to [May 1998](/archive/1998/05)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1998-05-24 (Sun, 24 May 1998 02:35:14 -0700 (PDT)) - (no subject)Re: Unix O/S - _nobody@REPLAY.COM (Anonymous)_
 

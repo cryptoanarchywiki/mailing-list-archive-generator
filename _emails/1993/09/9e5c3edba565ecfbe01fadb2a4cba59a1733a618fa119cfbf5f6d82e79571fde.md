@@ -63,7 +63,7 @@ where I am a student in aerospace engineering.
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "[BRADLEY  ROBERT WESTON <bradleyr<span>@</span>ucsu.Colorado.EDU>](/author/bradley_robert_weston_bradleyr_at_ucsu_colorado_edu_)"
++ Return to "[BRADLEY  ROBERT WESTON <bradleyr<span>@</span>ucsu.Colorado.EDU>](/authors/bradley_robert_weston_bradleyr_at_ucsu_colorado_edu_)"
 
 + 1993-09-26 (Sat, 25 Sep 93 17:35:53 PDT) - hi - _BRADLEY  ROBERT WESTON \<bradleyr@ucsu.Colorado.EDU\>_
 

@@ -75,7 +75,7 @@ Content-Type: text/plain
 
 + Return to [August 1993](/archive/1993/08)
 
-+ Return to "[XXCLARK<span>@</span>indst.indstate.edu](/author/xxclark_at_indst_indstate_edu)"
++ Return to "[XXCLARK<span>@</span>indst.indstate.edu](/authors/xxclark_at_indst_indstate_edu)"
 
 + 1993-08-22 (Sun, 22 Aug 93 15:15:14 PDT) - No Subject - _XXCLARK@indst.indstate.edu_
 

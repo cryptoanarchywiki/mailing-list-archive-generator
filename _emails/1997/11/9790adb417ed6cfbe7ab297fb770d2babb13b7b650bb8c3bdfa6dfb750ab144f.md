@@ -51,10 +51,10 @@ FP: 1189 4417 F202 5DBD  5DF3 4FCD 3685 FDDE on pgp.com
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
-+ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
-+ Return to "[Ian Grigg <iang<span>@</span>systemics.com>](/author/ian_grigg_iang_at_systemics_com_)"
-+ Return to "[Luc Saint-Elie <lse<span>@</span>saint-elie.com>](/author/luc_saintelie_lse_at_saintelie_com_)"
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/authors/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/authors/adam_shostack_adam_at_homeport_org_)"
++ Return to "[Ian Grigg <iang<span>@</span>systemics.com>](/authors/ian_grigg_iang_at_systemics_com_)"
++ Return to "[Luc Saint-Elie <lse<span>@</span>saint-elie.com>](/authors/luc_saintelie_lse_at_saintelie_com_)"
 
 + _Unknown thread root_
   + 1997-11-18 (Tue, 18 Nov 1997 20:43:04 +0800) - Re: cryptx spam - des-based program. - _Ian Grigg \<iang@systemics.com\>_

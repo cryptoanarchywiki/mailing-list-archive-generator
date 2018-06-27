@@ -94,8 +94,8 @@ ttke5IXHBeA=
 
 + Return to [September 1994](/archive/1994/09)
 
-+ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
-+ Return to "[samuel.kaplin<span>@</span>.mn.org (Samuel Kaplin)](/author/samuel_kaplin_at__mn_org_samuel_kaplin_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/authors/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[samuel.kaplin<span>@</span>.mn.org (Samuel Kaplin)](/authors/samuel_kaplin_at__mn_org_samuel_kaplin_)"
 
 + 1994-09-26 (Mon, 26 Sep 94 05:37:57 PDT) - Jim Bidzos - _samuel.kaplin@.mn.org (Samuel Kaplin)_
   + 1994-09-26 (Mon, 26 Sep 94 05:50:51 PDT) - [Re: Jim Bidzos](/archive/1994/09/a0e1611ef644347f7530c1e31801585e69ba7cf7af1b8368a0c05e1a21212f24) - _"Perry E. Metzger" \<perry@imsi.com\>_

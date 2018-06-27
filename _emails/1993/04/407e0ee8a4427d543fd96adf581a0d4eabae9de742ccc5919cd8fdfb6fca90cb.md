@@ -150,7 +150,7 @@ Transmitted:  93-04-18 21:06:00 EDT
 
 + Return to [April 1993](/archive/1993/04)
 
-+ Return to "[matt<span>@</span>oc.com (Matthew Lyle)](/author/matt_at_oc_com_matthew_lyle_)"
++ Return to "[matt<span>@</span>oc.com (Matthew Lyle)](/authors/matt_at_oc_com_matthew_lyle_)"
 
 + 1993-04-19 (Mon, 19 Apr 93 09:02:59 PDT) - Article 2 from Knight/Ridder - _matt@oc.com (Matthew Lyle)_
 

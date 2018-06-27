@@ -194,9 +194,9 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 
 + Return to [March 1997](/archive/1997/03)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
-+ Return to "[nic <sf-nic<span>@</span>dm.net>](/author/nic_sfnic_at_dm_net_)"
-+ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[nic <sf-nic<span>@</span>dm.net>](/authors/nic_sfnic_at_dm_net_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/authors/toto_toto_at_sk_sympatico_ca_)"
 
 + _Unknown thread root_
   + 1997-03-21 (Thu, 20 Mar 1997 17:35:36 -0800 (PST)) - Spam from DM.NET - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

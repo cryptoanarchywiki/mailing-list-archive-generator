@@ -52,7 +52,7 @@ andrew
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Andrew Loewenstern <andrew_loewenstern<span>@</span>il.us.swissbank.com>](/author/andrew_loewenstern_andrew_loewenstern_at_il_us_swissbank_com_)"
++ Return to "[Andrew Loewenstern <andrew_loewenstern<span>@</span>il.us.swissbank.com>](/authors/andrew_loewenstern_andrew_loewenstern_at_il_us_swissbank_com_)"
 
 + 1995-12-12 (Tue, 12 Dec 1995 14:05:35 +0800) - Re: NIST GAK meeting writeup, LONG part 3 of 3 - _Andrew Loewenstern \<andrew_loewenstern@il.us.swissbank.com\>_
 

@@ -107,7 +107,7 @@ Content-Type: text/plain
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/author/jim_choate_ravage_at_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>ssz.com>](/authors/jim_choate_ravage_at_ssz_com_)"
 
 + 1997-11-25 (Tue, 25 Nov 1997 11:11:46 +0800) - 1812_Napoleon_in_Moscow.htm - _Jim Choate \<ravage@ssz.com\>_
 

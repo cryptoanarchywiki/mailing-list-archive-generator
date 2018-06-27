@@ -69,7 +69,7 @@ logarithmic diagram.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[Thomas Koenig <ig25<span>@</span>mvmap66.ciw.uni-karlsruhe.de>](/author/thomas_koenig_ig25_at_mvmap66_ciw_unikarlsruhe_de_)"
++ Return to "[Thomas Koenig <ig25<span>@</span>mvmap66.ciw.uni-karlsruhe.de>](/authors/thomas_koenig_ig25_at_mvmap66_ciw_unikarlsruhe_de_)"
 
 + 1997-02-10 (Mon, 10 Feb 1997 03:26:43 -0800 (PST)) - What's next? - _Thomas Koenig \<ig25@mvmap66.ciw.uni-karlsruhe.de\>_
 

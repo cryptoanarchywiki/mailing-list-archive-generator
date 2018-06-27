@@ -67,7 +67,7 @@ Fingerprint: 4FA3298150E404F2782501876EA2146A
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[vinnie moscaritolo <vinnie<span>@</span>webstuff.apple.com>](/author/vinnie_moscaritolo_vinnie_at_webstuff_apple_com_)"
++ Return to "[vinnie moscaritolo <vinnie<span>@</span>webstuff.apple.com>](/authors/vinnie_moscaritolo_vinnie_at_webstuff_apple_com_)"
 
 + 1996-07-06 (Sun, 7 Jul 1996 02:29:39 +0800) - Re: Net and Terrorism - _vinnie moscaritolo \<vinnie@webstuff.apple.com\>_
 

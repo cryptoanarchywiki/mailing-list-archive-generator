@@ -48,8 +48,8 @@ separate part of the executive?
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
-+ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/authors/simon_spero_ses_at_tipper_oit_unc_edu_)"
 
 + 1996-01-25 (Fri, 26 Jan 1996 01:39:10 +0800) - [TOP_tap](/archive/1996/01/a09382bb614d50464ff233994af91c826d6073fb02aea5cc6ede7e890efe51c6) - _John Young \<jya@pipeline.com\>_
   + 1996-01-25 (Fri, 26 Jan 1996 02:39:34 +0800) - Re: TOP_tap - _Simon Spero \<ses@tipper.oit.unc.edu\>_

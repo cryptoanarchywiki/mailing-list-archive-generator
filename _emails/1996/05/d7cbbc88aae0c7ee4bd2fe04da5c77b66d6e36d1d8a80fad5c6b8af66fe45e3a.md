@@ -107,8 +107,8 @@ Interactive Week
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/author/declan_b_mccullagh_declan_at_cmu_edu_)"
-+ Return to "[rodger<span>@</span>interramp.com (Will Rodger)](/author/rodger_at_interramp_com_will_rodger_)"
++ Return to "["Declan B. McCullagh" <declan+<span>@</span>CMU.EDU>](/authors/declan_b_mccullagh_declan_at_cmu_edu_)"
++ Return to "[rodger<span>@</span>interramp.com (Will Rodger)](/authors/rodger_at_interramp_com_will_rodger_)"
 
 + 1996-05-19 (Sun, 19 May 1996 10:12:44 +0800) - Interactive Week exclusive - White House to launch "Clipper III" - _rodger@interramp.com (Will Rodger)_
   + 1996-05-21 (Tue, 21 May 1996 17:42:30 +0800) - [Re: Interactive Week exclusive - White House to launch "Clipper III"](/archive/1996/05/83fbf3c52cb8815b532c0be041160105642f5bd2880436e59f6d80c47d4f3ba7) - _"Declan B. McCullagh" \<declan+@CMU.EDU\>_

@@ -61,7 +61,7 @@ To subscribe to my personal mailing list send mailto:friends-subscribe@ji.to
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Joichi Ito <jito<span>@</span>eccosys.com>](/author/joichi_ito_jito_at_eccosys_com_)"
++ Return to "[Joichi Ito <jito<span>@</span>eccosys.com>](/authors/joichi_ito_jito_at_eccosys_com_)"
 
 + 1997-11-20 (Thu, 20 Nov 1997 11:04:21 +0800) - Re: export restictions and investments - _Joichi Ito \<jito@eccosys.com\>_
 

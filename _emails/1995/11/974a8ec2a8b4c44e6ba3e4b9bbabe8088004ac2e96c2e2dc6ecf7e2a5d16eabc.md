@@ -43,7 +43,7 @@ export controlled -- there's a difference.
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/author/rich_salz_rsalz_at_osf_org_)"
++ Return to "[Rich Salz <rsalz<span>@</span>osf.org>](/authors/rich_salz_rsalz_at_osf_org_)"
 
 + 1995-11-14 (Tue, 14 Nov 1995 20:56:22 +0800) - Getting the ITAR - _Rich Salz \<rsalz@osf.org\>_
 

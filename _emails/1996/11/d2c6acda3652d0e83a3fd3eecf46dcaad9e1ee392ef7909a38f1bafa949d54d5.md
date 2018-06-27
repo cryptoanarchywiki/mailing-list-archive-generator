@@ -91,8 +91,8 @@ jim
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[Jim McCoy <mccoy<span>@</span>communities.com>](/author/jim_mccoy_mccoy_at_communities_com_)"
-+ Return to "[ph<span>@</span>netcom.com (Peter Hendrickson)](/author/ph_at_netcom_com_peter_hendrickson_)"
++ Return to "[Jim McCoy <mccoy<span>@</span>communities.com>](/authors/jim_mccoy_mccoy_at_communities_com_)"
++ Return to "[ph<span>@</span>netcom.com (Peter Hendrickson)](/authors/ph_at_netcom_com_peter_hendrickson_)"
 
 + 1996-11-07 (Thu, 7 Nov 1996 14:54:30 -0800 (PST)) - [Re: Why is cryptoanarchy irreversible?](/archive/1996/11/4d27075f240cad58a7557fc1695ae8d5f8d85aa90d2c20c11ab548d62997f0b8) - _ph@netcom.com (Peter Hendrickson)_
   + 1996-11-08 (Thu, 7 Nov 1996 17:14:42 -0800 (PST)) - Re: Why is cryptoanarchy irreversible? - _Jim McCoy \<mccoy@communities.com\>_

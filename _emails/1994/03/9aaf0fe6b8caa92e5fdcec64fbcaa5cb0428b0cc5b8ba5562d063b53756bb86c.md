@@ -69,10 +69,10 @@ sUKNUz0drcgnoEdSyiV4BHFLTz1X0XdeYZ8brtLBC2uu991yf3sw6J7XA5z6E93x
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[Brian D Williams <talon57<span>@</span>well.sf.ca.us>](/author/brian_d_williams_talon57_at_well_sf_ca_us_)"
-+ Return to "[Ed Switalski <E.Switalski<span>@</span>bnr.co.uk>](/author/ed_switalski_e_switalski_at_bnr_co_uk_)"
-+ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/author/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[Brian D Williams <talon57<span>@</span>well.sf.ca.us>](/authors/brian_d_williams_talon57_at_well_sf_ca_us_)"
++ Return to "[Ed Switalski <E.Switalski<span>@</span>bnr.co.uk>](/authors/ed_switalski_e_switalski_at_bnr_co_uk_)"
++ Return to "[Matthew J Ghio <mg5n+<span>@</span>andrew.cmu.edu>](/authors/matthew_j_ghio_mg5n_at_andrew_cmu_edu_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-03-15 (Tue, 15 Mar 94 13:27:58 PST) - Future Remailers - _Brian D Williams \<talon57@well.sf.ca.us\>_
   + 1994-03-15 (Tue, 15 Mar 94 15:42:16 PST) - [Re: Future Remailers](/archive/1994/03/eae289b8e5c968e8888a4e7adea21085b6eb661561e764bf3bf7e84f1d4f7269) - _tcmay@netcom.com (Timothy C. May)_

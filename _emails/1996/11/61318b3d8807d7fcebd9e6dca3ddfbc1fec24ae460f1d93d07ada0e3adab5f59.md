@@ -40,7 +40,7 @@ unsuscribe cypherpunks jaltarri@lix.intercom.es
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[jaltarri<span>@</span>lix.intercom.es (josep)](/author/jaltarri_at_lix_intercom_es_josep_)"
++ Return to "[jaltarri<span>@</span>lix.intercom.es (josep)](/authors/jaltarri_at_lix_intercom_es_josep_)"
 
 + 1996-11-27 (Wed, 27 Nov 1996 07:05:40 -0800 (PST)) - No Subject - _jaltarri@lix.intercom.es (josep)_
 

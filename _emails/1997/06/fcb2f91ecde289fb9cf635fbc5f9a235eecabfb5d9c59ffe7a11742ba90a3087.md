@@ -182,7 +182,7 @@ Extracts from Underground - The true nature of System X
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[proff<span>@</span>iq.org](/author/proff_at_iq_org)"
++ Return to "[proff<span>@</span>iq.org](/authors/proff_at_iq_org)"
 
 + 1997-06-25 (Wed, 25 Jun 1997 10:27:56 +0800) - Underground extract: System X - _proff@iq.org_
 

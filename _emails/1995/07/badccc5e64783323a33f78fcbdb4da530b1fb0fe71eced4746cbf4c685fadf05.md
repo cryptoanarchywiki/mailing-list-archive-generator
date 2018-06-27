@@ -97,8 +97,8 @@ Content-Type: text/plain
 
 + Return to [July 1995](/archive/1995/07)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
-+ Return to "["Quazi F. Haque" <qfh1<span>@</span>crux3.cit.cornell.edu>](/author/quazi_f_haque_qfh1_at_crux3_cit_cornell_edu_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
++ Return to "["Quazi F. Haque" <qfh1<span>@</span>crux3.cit.cornell.edu>](/authors/quazi_f_haque_qfh1_at_crux3_cit_cornell_edu_)"
 
 + 1995-07-31 (Mon, 31 Jul 95 12:10:31 PDT) - LOG_rol - _John Young \<jya@pipeline.com\>_
   + 1995-07-31 (Mon, 31 Jul 95 14:40:33 PDT) - [Re: LOG_rol](/archive/1995/07/55578fa4db7291796dbd1f543a2ee8f8887b6ad614b8ab8490b5d7547c7bb013) - _"Quazi F. Haque" \<qfh1@crux3.cit.cornell.edu\>_

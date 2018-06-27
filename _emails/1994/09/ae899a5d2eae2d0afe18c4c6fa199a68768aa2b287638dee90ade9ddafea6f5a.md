@@ -117,7 +117,7 @@ Comments? Is this dumb? Did I just duplicate someone elses idea?
 
 + Return to [September 1994](/archive/1994/09)
 
-+ Return to "[jamiel<span>@</span>sybase.com (Jamie Lawrence)](/author/jamiel_at_sybase_com_jamie_lawrence_)"
++ Return to "[jamiel<span>@</span>sybase.com (Jamie Lawrence)](/authors/jamiel_at_sybase_com_jamie_lawrence_)"
 
 + 1994-09-28 (Wed, 28 Sep 94 11:02:26 PDT) - Re: SUFFERANCE remailers - _jamiel@sybase.com (Jamie Lawrence)_
 

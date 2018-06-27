@@ -73,7 +73,7 @@ iQBVAgUBLNvls6NqtARNqVmxAQG+0wIAnFlvkuRAVgkZyL7osC3S0lTqk44eMldI
 
 + Return to [November 1993](/archive/1993/11)
 
-+ Return to "[jdblair<span>@</span>nextsrv.cas.muohio.EDU](/author/jdblair_at_nextsrv_cas_muohio_edu)"
++ Return to "[jdblair<span>@</span>nextsrv.cas.muohio.EDU](/authors/jdblair_at_nextsrv_cas_muohio_edu)"
 
 + 1993-11-06 (Sat, 6 Nov 93 13:58:04 PST) - name for hardware list... - _jdblair@nextsrv.cas.muohio.EDU_
 

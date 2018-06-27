@@ -79,8 +79,8 @@ Voice: 415-206-9906
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
-+ Return to "["Ross Wright" <rwright<span>@</span>adnetsol.com>](/author/ross_wright_rwright_at_adnetsol_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "["Ross Wright" <rwright<span>@</span>adnetsol.com>](/authors/ross_wright_rwright_at_adnetsol_com_)"
 
 + 1996-12-24 (Tue, 24 Dec 1996 10:21:41 -0800 (PST)) - Re: The LIST - _"Ross Wright" \<rwright@adnetsol.com\>_
   + 1996-12-24 (Tue, 24 Dec 1996 10:50:46 -0800 (PST)) - [Re: The LIST](/archive/1996/12/8b97926b3e20d6e26a6227a558e77cce3939abdb6316b716efc6f551939a3fc8) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

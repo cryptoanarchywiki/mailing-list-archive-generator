@@ -52,8 +52,8 @@ have a Tessera card to test it against?
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "["Perry E. Metzger" <perry<span>@</span>panix.com>](/author/perry_e_metzger_perry_at_panix_com_)"
-+ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>panix.com>](/authors/perry_e_metzger_perry_at_panix_com_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/authors/tcmay_at_got_net_timothy_c_may_)"
 
 + 1995-08-10 (Wed, 9 Aug 95 18:34:58 PDT) - [This summer's special delivery?](/archive/1995/08/e0b2a2935e74cdd194353ee968d504157073fc3c44fa8bd30f3e51eafcff887e) - _tcmay@got.net (Timothy C. May)_
   + 1995-08-10 (Wed, 9 Aug 95 19:06:51 PDT) - Re: This summer's special delivery? - _"Perry E. Metzger" \<perry@panix.com\>_

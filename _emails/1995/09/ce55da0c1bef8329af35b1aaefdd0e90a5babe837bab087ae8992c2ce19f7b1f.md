@@ -61,11 +61,11 @@ My Cyber Doc...
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[Censored Girls Anonymous <carolab<span>@</span>censored.org>](/author/censored_girls_anonymous_carolab_at_censored_org_)"
-+ Return to "[Ray Arachelian <sunder<span>@</span>amanda.dorsai.org>](/author/ray_arachelian_sunder_at_amanda_dorsai_org_)"
-+ Return to "[Sal<span>@</span>panix.com (Sal Denaro)](/author/sal_at_panix_com_sal_denaro_)"
-+ Return to "[Thomas Grant Edwards <tedwards<span>@</span>Glue.umd.edu>](/author/thomas_grant_edwards_tedwards_at_glue_umd_edu_)"
-+ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
++ Return to "[Censored Girls Anonymous <carolab<span>@</span>censored.org>](/authors/censored_girls_anonymous_carolab_at_censored_org_)"
++ Return to "[Ray Arachelian <sunder<span>@</span>amanda.dorsai.org>](/authors/ray_arachelian_sunder_at_amanda_dorsai_org_)"
++ Return to "[Sal<span>@</span>panix.com (Sal Denaro)](/authors/sal_at_panix_com_sal_denaro_)"
++ Return to "[Thomas Grant Edwards <tedwards<span>@</span>Glue.umd.edu>](/authors/thomas_grant_edwards_tedwards_at_glue_umd_edu_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/authors/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1995-09-16 (Sat, 16 Sep 95 13:58:21 PDT) - [AOL monitoring](/archive/1995/09/49fa40a5f015140d5ad108afad0b91248c4d039e3a48184e6f242361e616e947) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
   + 1995-09-16 (Sat, 16 Sep 95 14:44:19 PDT) - Re: AOL monitoring - _Censored Girls Anonymous \<carolab@censored.org\>_

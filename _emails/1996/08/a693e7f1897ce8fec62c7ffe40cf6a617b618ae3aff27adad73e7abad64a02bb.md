@@ -45,8 +45,8 @@ FoodNotBombs just gave away stuff to all comers.
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/author/alan_horowitz_alanh_at_infi_net_)"
-+ Return to "[Cerridwyn Llewyellyn <ceridwyn<span>@</span>wolfenet.com>](/author/cerridwyn_llewyellyn_ceridwyn_at_wolfenet_com_)"
++ Return to "[Alan Horowitz <alanh<span>@</span>infi.net>](/authors/alan_horowitz_alanh_at_infi_net_)"
++ Return to "[Cerridwyn Llewyellyn <ceridwyn<span>@</span>wolfenet.com>](/authors/cerridwyn_llewyellyn_ceridwyn_at_wolfenet_com_)"
 
 + 1996-08-03 (Sat, 3 Aug 1996 16:59:49 +0800) - [Re: A Libertine Question (fwd)](/archive/1996/08/550796a2770f89562cddb2a55f9829673cbee3331aab6709f0cf70b4bf677bf7) - _Cerridwyn Llewyellyn \<ceridwyn@wolfenet.com\>_
   + 1996-08-04 (Sun, 4 Aug 1996 14:35:34 +0800) - Re: A Libertine Question (fwd) - _Alan Horowitz \<alanh@infi.net\>_

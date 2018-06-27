@@ -97,7 +97,7 @@ Spooner's 'No Treason -- the Constitution of No Authority' in 1970."
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1994-07-01 (Fri, 1 Jul 94 04:55:25 PDT) - (Fwd) What motivates Cryp - _Duncan Frissell \<frissell@panix.com\>_
 

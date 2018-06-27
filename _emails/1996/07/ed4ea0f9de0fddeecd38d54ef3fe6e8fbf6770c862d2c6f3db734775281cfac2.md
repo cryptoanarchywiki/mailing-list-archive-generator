@@ -51,7 +51,7 @@ freelance writer
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "["Steven J. Vaughan-Nichols" <Steven.J.Vaughan-Nichols<span>@</span>access.digex.net>](/author/steven_j_vaughannichols_steven_j_vaughannichols_at_access_digex_net_)"
++ Return to "["Steven J. Vaughan-Nichols" <Steven.J.Vaughan-Nichols<span>@</span>access.digex.net>](/authors/steven_j_vaughannichols_steven_j_vaughannichols_at_access_digex_net_)"
 
 + 1996-07-08 (Tue, 9 Jul 1996 05:45:47 +0800) - Re: Style gettting in the way of clear reporting - _"Steven J. Vaughan-Nichols" \<Steven.J.Vaughan-Nichols@access.digex.net\>_
 

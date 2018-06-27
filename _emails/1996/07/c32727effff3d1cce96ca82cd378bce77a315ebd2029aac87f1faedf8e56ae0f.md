@@ -65,7 +65,7 @@ Send a message with the subject "send pgp-key" for a copy of my key.
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/author/deranged_mutant_wlkngowl_at_unix_asb_com_)"
++ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/authors/deranged_mutant_wlkngowl_at_unix_asb_com_)"
 
 + 1996-07-09 (Tue, 9 Jul 1996 12:07:06 +0800) - Re: Technology- vs. Human-based Surveillance - _"Deranged Mutant" \<WlkngOwl@unix.asb.com\>_
 

@@ -316,7 +316,7 @@ cDs8L2NlbnRlcj4KPC9CT0RZPgo8L0hUTUw+Cg==
 
 + Return to [August 1998](/archive/1998/08)
 
-+ Return to "[CTIA Daily News <CTIA_Daily_News<span>@</span>um2.unitymail.com>](/author/ctia_daily_news_ctia_daily_news_at_um2_unitymail_com_)"
++ Return to "[CTIA Daily News <CTIA_Daily_News<span>@</span>um2.unitymail.com>](/authors/ctia_daily_news_ctia_daily_news_at_um2_unitymail_com_)"
 
 + 1998-08-31 (Mon, 31 Aug 1998 10:46:16 -0700 (PDT)) - CTIA Daily News from WOW-COM - August 31, 1998 - _CTIA Daily News \<CTIA_Daily_News@um2.unitymail.com\>_
 

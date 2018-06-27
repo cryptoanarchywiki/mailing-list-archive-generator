@@ -143,8 +143,8 @@ I0607 * END OF DOCUMENT.
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
-+ Return to "[nobody<span>@</span>soda.berkeley.edu](/author/nobody_at_soda_berkeley_edu)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[nobody<span>@</span>soda.berkeley.edu](/authors/nobody_at_soda_berkeley_edu)"
 
 + 1994-03-28 (Mon, 28 Mar 94 06:02:24 PST) - Communications Law 302 - _nobody@soda.berkeley.edu_
   + 1994-03-28 (Mon, 28 Mar 94 07:55:51 PST) - [Re: Communications Law 302](/archive/1994/03/8527fec4d9bcbf3918115f11be261ade10cae521bc805b5e2c1129847c3f1a16) - _Duncan Frissell \<frissell@panix.com\>_

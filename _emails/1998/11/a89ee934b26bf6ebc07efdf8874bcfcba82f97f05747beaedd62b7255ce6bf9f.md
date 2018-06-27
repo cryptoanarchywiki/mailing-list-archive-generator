@@ -152,7 +152,7 @@ KtsjgvL3A2A=
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[Anonymous <nobody<span>@</span>replay.com>](/author/anonymous_nobody_at_replay_com_)"
++ Return to "[Anonymous <nobody<span>@</span>replay.com>](/authors/anonymous_nobody_at_replay_com_)"
 
 + 1998-11-24 (Tue, 24 Nov 1998 17:11:41 +0800) - Space Aliens Address cpunx - _Anonymous \<nobody@replay.com\>_
 

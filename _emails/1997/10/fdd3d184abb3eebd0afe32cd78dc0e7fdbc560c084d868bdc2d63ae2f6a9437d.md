@@ -69,7 +69,7 @@ Brian B. Riley --> http://www.macconnect.com/~brianbr
 
 + Return to [October 1997](/archive/1997/10)
 
-+ Return to "["Brian B. Riley" <brianbr<span>@</span>together.net>](/author/brian_b_riley_brianbr_at_together_net_)"
++ Return to "["Brian B. Riley" <brianbr<span>@</span>together.net>](/authors/brian_b_riley_brianbr_at_together_net_)"
 
 + 1997-10-21 (Wed, 22 Oct 1997 07:49:31 +0800) - Re: Your "RIGHT" to Speak to Big Brother - _"Brian B. Riley" \<brianbr@together.net\>_
 

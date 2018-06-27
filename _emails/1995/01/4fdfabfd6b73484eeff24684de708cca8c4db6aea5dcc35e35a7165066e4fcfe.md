@@ -101,10 +101,10 @@ subscribe cypherpunks. FAQ available at ftp.netcom.com in pub/tc/tcmay
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[Censored Girls Anonymous <carolb<span>@</span>barton.spring.com>](/author/censored_girls_anonymous_carolb_at_barton_spring_com_)"
-+ Return to "[jalicqui<span>@</span>prairienet.org (Jeff Licquia)](/author/jalicqui_at_prairienet_org_jeff_licquia_)"
-+ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[Censored Girls Anonymous <carolb<span>@</span>barton.spring.com>](/authors/censored_girls_anonymous_carolb_at_barton_spring_com_)"
++ Return to "[jalicqui<span>@</span>prairienet.org (Jeff Licquia)](/authors/jalicqui_at_prairienet_org_jeff_licquia_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/authors/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1995-01-19 (Thu, 19 Jan 95 09:17:01 PST) - [Re: The Remailer Crisis](/archive/1995/01/c0f5cfda7098b21272b54f4e7cb96da37a657a6d6702a080d70f0996230ec5f3) - _jalicqui@prairienet.org (Jeff Licquia)_
   + 1995-01-19 (Thu, 19 Jan 95 10:51:01 PST) - Re: The Remailer Crisis - _tcmay@netcom.com (Timothy C. May)_

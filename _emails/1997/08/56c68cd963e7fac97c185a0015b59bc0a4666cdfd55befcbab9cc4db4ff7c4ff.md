@@ -136,9 +136,9 @@ Content-Type: text
 
 + Return to [August 1997](/archive/1997/08)
 
-+ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
-+ Return to "[Damaged Justice <frogfarm<span>@</span>yakko.cs.wmich.edu>](/author/damaged_justice_frogfarm_at_yakko_cs_wmich_edu_)"
-+ Return to "[nospam-seesignature<span>@</span>ceddec.com](/author/nospamseesignature_at_ceddec_com)"
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/authors/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Damaged Justice <frogfarm<span>@</span>yakko.cs.wmich.edu>](/authors/damaged_justice_frogfarm_at_yakko_cs_wmich_edu_)"
++ Return to "[nospam-seesignature<span>@</span>ceddec.com](/authors/nospamseesignature_at_ceddec_com)"
 
 + 1997-08-08 (Fri, 8 Aug 1997 17:03:46 +0800) - Whining for 'Accountability' - _Damaged Justice \<frogfarm@yakko.cs.wmich.edu\>_
   + 1997-08-08 (Fri, 8 Aug 1997 20:39:48 +0800) - [this could happen to remailers (was Re: Whining for 'Accountability')](/archive/1997/08/dd4cf9f9c2586b248cbb85341760fa35a0e7c006ee8523331d799297075ca02c) - _Adam Back \<aba@dcs.ex.ac.uk\>_

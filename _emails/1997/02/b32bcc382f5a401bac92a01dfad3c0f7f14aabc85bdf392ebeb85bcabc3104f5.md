@@ -56,7 +56,7 @@ to appear. In fact, I know one.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[ichudov<span>@</span>algebra.com](/author/ichudov_at_algebra_com)"
++ Return to "[ichudov<span>@</span>algebra.com](/authors/ichudov_at_algebra_com)"
 
 + 1997-02-03 (Mon, 3 Feb 1997 14:56:07 -0800 (PST)) - Re: Filling Power Vacuums - _ichudov@algebra.com_
 

@@ -85,9 +85,9 @@ r4nNBLkJdI4=
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/author/black_unicorn_unicorn_at_access_digex_net_)"
-+ Return to "[Jim McCoy <mccoy<span>@</span>ccwf.cc.utexas.edu>](/author/jim_mccoy_mccoy_at_ccwf_cc_utexas_edu_)"
-+ Return to "[paul<span>@</span>poboy.b17c.ingr.com (Paul Robichaux)](/author/paul_at_poboy_b17c_ingr_com_paul_robichaux_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>access.digex.net>](/authors/black_unicorn_unicorn_at_access_digex_net_)"
++ Return to "[Jim McCoy <mccoy<span>@</span>ccwf.cc.utexas.edu>](/authors/jim_mccoy_mccoy_at_ccwf_cc_utexas_edu_)"
++ Return to "[paul<span>@</span>poboy.b17c.ingr.com (Paul Robichaux)](/authors/paul_at_poboy_b17c_ingr_com_paul_robichaux_)"
 
 + _Unknown thread root_
   + 1994-04-28 (Thu, 28 Apr 94 08:19:13 PDT) - Re: AT&T, Clipper, & Saudi Arabia - _paul@poboy.b17c.ingr.com (Paul Robichaux)_

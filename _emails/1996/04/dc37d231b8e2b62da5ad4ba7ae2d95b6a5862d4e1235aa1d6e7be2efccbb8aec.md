@@ -51,7 +51,7 @@ Content-Type: text/plain
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1996-04-23 (Tue, 23 Apr 1996 13:31:55 +0800) - TOE_hol - _John Young \<jya@pipeline.com\>_
 

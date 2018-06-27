@@ -117,9 +117,9 @@ George Stathis
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "["George A. Stathis" <hyperlex<span>@</span>hol.gr>](/author/george_a_stathis_hyperlex_at_hol_gr_)"
-+ Return to "[Stephen Boursy <boursy<span>@</span>earthlink.net>](/author/stephen_boursy_boursy_at_earthlink_net_)"
-+ Return to "[Tim Scanlon <tfs<span>@</span>adsl-122.cais.com>](/author/tim_scanlon_tfs_at_adsl122_cais_com_)"
++ Return to "["George A. Stathis" <hyperlex<span>@</span>hol.gr>](/authors/george_a_stathis_hyperlex_at_hol_gr_)"
++ Return to "[Stephen Boursy <boursy<span>@</span>earthlink.net>](/authors/stephen_boursy_boursy_at_earthlink_net_)"
++ Return to "[Tim Scanlon <tfs<span>@</span>adsl-122.cais.com>](/authors/tim_scanlon_tfs_at_adsl122_cais_com_)"
 
 + 1996-11-17 (Sat, 16 Nov 1996 23:01:59 -0800 (PST)) - Re: Censor John Gilmore -- EFF is a disgrace! - _"George A. Stathis" \<hyperlex@hol.gr\>_
   + 1996-11-17 (Sun, 17 Nov 1996 02:52:17 -0800 (PST)) - [Re: Censor John Gilmore -- EFF is a disgrace!](/archive/1996/11/38c83f3adbf88752f8096dd4a500e4ffa4a577a3eeb832f1d86d5a3e3b390375) - _Tim Scanlon \<tfs@adsl-122.cais.com\>_

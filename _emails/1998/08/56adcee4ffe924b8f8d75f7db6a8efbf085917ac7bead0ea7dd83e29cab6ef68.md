@@ -90,7 +90,7 @@ Thank You
 
 + Return to [August 1998](/archive/1998/08)
 
-+ Return to "[fiy46<span>@</span>werker.com (Internet Sales)](/author/fiy46_at_werker_com_internet_sales_)"
++ Return to "[fiy46<span>@</span>werker.com (Internet Sales)](/authors/fiy46_at_werker_com_internet_sales_)"
 
 + 1998-08-14 (Fri, 14 Aug 1998 02:56:06 -0700 (PDT)) - Now is the Time! National Credit Card Accounts! - _fiy46@werker.com (Internet Sales)_
 

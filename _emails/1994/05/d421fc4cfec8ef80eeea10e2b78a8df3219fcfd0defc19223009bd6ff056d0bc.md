@@ -82,7 +82,7 @@ available information should participate.]
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[a2<span>@</span>ah.com (Arthur Abraham)](/author/a2_at_ah_com_arthur_abraham_)"
++ Return to "[a2<span>@</span>ah.com (Arthur Abraham)](/authors/a2_at_ah_com_arthur_abraham_)"
 
 + _Unknown thread root_
   + 1994-05-04 (Wed, 4 May 94 12:06:36 PDT) - The ITARs   [support your CRYPT-IN rights!] - _a2@ah.com (Arthur Abraham)_

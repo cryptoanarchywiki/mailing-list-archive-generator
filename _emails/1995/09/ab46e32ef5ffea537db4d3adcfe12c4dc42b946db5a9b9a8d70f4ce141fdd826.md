@@ -50,7 +50,7 @@ ftp://ftp.eskimo.com/~blane           | Misc. Interesting files
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[blane<span>@</span>eskimo.com (Brian C. Lane)](/author/blane_at_eskimo_com_brian_c_lane_)"
++ Return to "[blane<span>@</span>eskimo.com (Brian C. Lane)](/authors/blane_at_eskimo_com_brian_c_lane_)"
 
 + 1995-09-25 (Mon, 25 Sep 95 10:01:15 PDT) - Re: Crypto in Wired - _blane@eskimo.com (Brian C. Lane)_
 

@@ -61,9 +61,9 @@ experience.
 
 + Return to [August 1998](/archive/1998/08)
 
-+ Return to "["Francis, Catherine" <cfrancis<span>@</span>securitydynamics.com>](/author/francis_catherine_cfrancis_at_securitydynamics_com_)"
-+ Return to "["Kurt Buff" <kurtbuff<span>@</span>halcyon.com>](/author/kurt_buff_kurtbuff_at_halcyon_com_)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>openpgp.net>](/author/william_h_geiger_iii_whgiii_at_openpgp_net_)"
++ Return to "["Francis, Catherine" <cfrancis<span>@</span>securitydynamics.com>](/authors/francis_catherine_cfrancis_at_securitydynamics_com_)"
++ Return to "["Kurt Buff" <kurtbuff<span>@</span>halcyon.com>](/authors/kurt_buff_kurtbuff_at_halcyon_com_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>openpgp.net>](/authors/william_h_geiger_iii_whgiii_at_openpgp_net_)"
 
 + 1998-08-26 (Wed, 26 Aug 1998 11:24:08 -0700 (PDT)) - [RE: LACC: Re: Is hate code speech?](/archive/1998/08/d41e3242776cefc28085d47c7165c485f72c6149755ae3b7ca4df32a28738b15) - _"Francis, Catherine" \<cfrancis@securitydynamics.com\>_
   + 1998-08-26 (Wed, 26 Aug 1998 12:01:02 -0700 (PDT)) - [RE: LACC: Re: Is hate code speech?](/archive/1998/08/ff90182bc95c6e83674c1f069748c75e60cbc7f12e8c1f64865f7c20372cdb05) - _"William H. Geiger III" \<whgiii@openpgp.net\>_

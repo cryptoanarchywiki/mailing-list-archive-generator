@@ -121,7 +121,7 @@ or censorship."
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[anon-remailer<span>@</span>utopia.hacktic.nl (Name Withheld by Request)](/author/anonremailer_at_utopia_hacktic_nl_name_withheld_by_request_)"
++ Return to "[anon-remailer<span>@</span>utopia.hacktic.nl (Name Withheld by Request)](/authors/anonremailer_at_utopia_hacktic_nl_name_withheld_by_request_)"
 
 + 1996-01-20 (Sat, 20 Jan 1996 12:19:16 +0800) - Cypherpunk Enquirer - _anon-remailer@utopia.hacktic.nl (Name Withheld by Request)_
 

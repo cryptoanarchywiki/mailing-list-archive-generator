@@ -88,8 +88,8 @@ claiming that.)
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[Carl Ellison <cme<span>@</span>TIS.COM>](/author/carl_ellison_cme_at_tis_com_)"
-+ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/author/perry_e_metzger_perry_at_piermont_com_)"
++ Return to "[Carl Ellison <cme<span>@</span>TIS.COM>](/authors/carl_ellison_cme_at_tis_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>piermont.com>](/authors/perry_e_metzger_perry_at_piermont_com_)"
 
 + _Unknown thread root_
   + 1995-11-02 (Fri, 3 Nov 1995 07:13:18 +0800) - Sources of randomness - _Carl Ellison \<cme@TIS.COM\>_

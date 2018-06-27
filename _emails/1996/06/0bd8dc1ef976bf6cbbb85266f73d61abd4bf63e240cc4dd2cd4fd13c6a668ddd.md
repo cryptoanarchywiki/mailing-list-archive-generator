@@ -114,7 +114,7 @@ YXRjaC5jb20=
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[kooltek<span>@</span>iol.ie (Hack Watch News)](/author/kooltek_at_iol_ie_hack_watch_news_)"
++ Return to "[kooltek<span>@</span>iol.ie (Hack Watch News)](/authors/kooltek_at_iol_ie_hack_watch_news_)"
 
 + 1996-06-16 (Sun, 16 Jun 1996 09:50:49 +0800) - Re: Fuseable Links - no guarantees?? - _kooltek@iol.ie (Hack Watch News)_
 

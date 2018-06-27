@@ -73,9 +73,9 @@ unless one can accurately measure the intial conditions.
 
 + Return to [April 1997](/archive/1997/04)
 
-+ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
-+ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/author/kent_crispin_kent_at_songbird_com_)"
-+ Return to "[paul<span>@</span>fatmans.demon.co.uk](/author/paul_at_fatmans_demon_co_uk)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/authors/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/authors/kent_crispin_kent_at_songbird_com_)"
++ Return to "[paul<span>@</span>fatmans.demon.co.uk](/authors/paul_at_fatmans_demon_co_uk)"
 
 + 1997-04-11 (Fri, 11 Apr 1997 07:56:57 -0700 (PDT)) - Re: "...markets are fundamentally chaotic, not efficient"? - _paul@fatmans.demon.co.uk_
   + 1997-04-11 (Fri, 11 Apr 1997 16:37:55 -0700 (PDT)) - [Re: "...markets are fundamentally chaotic, not efficient"?](/archive/1997/04/c4244108326b34939a1763afddf0dc9072a0a6525d02e6b5c12bb8ae2212b95b) - _ichudov@algebra.com (Igor Chudov @ home)_

@@ -59,8 +59,8 @@ thoughtful and stimulating engagements that toad.com hosted.)
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
-+ Return to "[Vin McLellan <vin<span>@</span>shore.net>](/author/vin_mclellan_vin_at_shore_net_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/authors/timothy_c_may_tcmay_at_got_net_)"
++ Return to "[Vin McLellan <vin<span>@</span>shore.net>](/authors/vin_mclellan_vin_at_shore_net_)"
 
 + 1997-02-18 (Tue, 18 Feb 1997 11:51:48 -0800 (PST)) - Re: Constitution and a Right to Privacy - _Vin McLellan \<vin@shore.net\>_
   + 1997-02-18 (Tue, 18 Feb 1997 12:22:18 -0800 (PST)) - [Re: Constitution and a Right to Privacy](/archive/1997/02/5c4d2d6b72f8a525c99d5e541672d80da05c1d135b675bd903996195daa43d5f) - _"Timothy C. May" \<tcmay@got.net\>_

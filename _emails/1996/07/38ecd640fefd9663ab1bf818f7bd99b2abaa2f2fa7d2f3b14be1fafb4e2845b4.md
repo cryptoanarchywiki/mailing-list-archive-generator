@@ -85,7 +85,7 @@ Wei Dai
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[Wei Dai <weidai<span>@</span>eskimo.com>](/author/wei_dai_weidai_at_eskimo_com_)"
++ Return to "[Wei Dai <weidai<span>@</span>eskimo.com>](/authors/wei_dai_weidai_at_eskimo_com_)"
 
 + 1996-07-30 (Tue, 30 Jul 1996 12:37:52 +0800) - game theory - _Wei Dai \<weidai@eskimo.com\>_
 

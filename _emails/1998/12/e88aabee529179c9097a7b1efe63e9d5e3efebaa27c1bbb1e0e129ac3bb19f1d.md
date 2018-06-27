@@ -52,7 +52,7 @@ in Kahn.)
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[tony<span>@</span>secapl.com](/author/tony_at_secapl_com)"
++ Return to "[tony<span>@</span>secapl.com](/authors/tony_at_secapl_com)"
 
 + _Unknown thread root_
   + 1998-12-15 (Wed, 16 Dec 1998 04:36:16 +0800) - Re: First "Crypto Refugee"? - _tony@secapl.com_

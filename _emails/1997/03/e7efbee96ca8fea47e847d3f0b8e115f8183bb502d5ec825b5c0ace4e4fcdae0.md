@@ -50,7 +50,7 @@ jimbell@pacifier.com
 
 + Return to [March 1997](/archive/1997/03)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1997-03-22 (Sat, 22 Mar 1997 09:09:57 -0800 (PST)) - Re: Cypherpunks & Ecash in WSJ, Chaum,and Amazing Revelation by NSA - _jim bell \<jimbell@pacifier.com\>_
 

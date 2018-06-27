@@ -70,7 +70,7 @@ diGriz
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[nobody<span>@</span>replay.com (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>replay.com (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1996-11-15 (Thu, 14 Nov 1996 17:18:07 -0800 (PST)) - Media seekers, reputation and banishment - _nobody@replay.com (Anonymous)_
 

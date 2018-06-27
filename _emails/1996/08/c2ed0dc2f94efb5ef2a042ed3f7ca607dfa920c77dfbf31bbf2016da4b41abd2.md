@@ -55,7 +55,7 @@ PGP Fingerprint : 19 FB 67 EA 20 70 53 89  AF B2 5C 7F 02 1F CA 8F
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[Jean-Paul Kroepfli <JeanPaul.Kroepfli<span>@</span>ns.fnet.fr>](/author/jeanpaul_kroepfli_jeanpaul_kroepfli_at_ns_fnet_fr_)"
++ Return to "[Jean-Paul Kroepfli <JeanPaul.Kroepfli<span>@</span>ns.fnet.fr>](/authors/jeanpaul_kroepfli_jeanpaul_kroepfli_at_ns_fnet_fr_)"
 
 + 1996-08-02 (Sat, 3 Aug 1996 04:12:20 +0800) - Tao Renji Public Key system - _Jean-Paul Kroepfli \<JeanPaul.Kroepfli@ns.fnet.fr\>_
 

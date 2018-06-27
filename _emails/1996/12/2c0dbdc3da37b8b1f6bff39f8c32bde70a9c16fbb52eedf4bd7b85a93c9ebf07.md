@@ -78,8 +78,8 @@ mlPDJaJuKzg=
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[Internaut <unde0275<span>@</span>frank.mtsu.edu>](/author/internaut_unde0275_at_frank_mtsu_edu_)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
++ Return to "[Internaut <unde0275<span>@</span>frank.mtsu.edu>](/authors/internaut_unde0275_at_frank_mtsu_edu_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/authors/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1996-12-17 (Tue, 17 Dec 1996 00:21:15 -0800 (PST)) - [RE: Encryption to the poors](/archive/1996/12/33bfbc7e3cbefc26c97d055aef0ae96c2c7b5a780fb5334dee255a0043669850) - _Internaut \<unde0275@frank.mtsu.edu\>_
   + 1996-12-17 (Tue, 17 Dec 1996 06:14:53 -0800 (PST)) - RE: Encryption to the poors - _"William H. Geiger III" \<whgiii@amaranth.com\>_

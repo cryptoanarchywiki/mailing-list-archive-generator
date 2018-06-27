@@ -50,7 +50,7 @@ Freedom Knight of Usenet - http://www.jetcafe.org/~dave/usenet
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[Dave Hayes <dave<span>@</span>kachina.jetcafe.org>](/author/dave_hayes_dave_at_kachina_jetcafe_org_)"
++ Return to "[Dave Hayes <dave<span>@</span>kachina.jetcafe.org>](/authors/dave_hayes_dave_at_kachina_jetcafe_org_)"
 
 + 1997-02-15 (Sat, 15 Feb 1997 02:20:44 -0800 (PST)) - Re: Dissolving Choke Points - _Dave Hayes \<dave@kachina.jetcafe.org\>_
 

@@ -70,7 +70,7 @@ Dorn
 
 + Return to [March 1993](/archive/1993/03)
 
-+ Return to "[ALAN DORN HETZEL JR <dorn<span>@</span>indigo.mese.com>](/author/alan_dorn_hetzel_jr_dorn_at_indigo_mese_com_)"
++ Return to "[ALAN DORN HETZEL JR <dorn<span>@</span>indigo.mese.com>](/authors/alan_dorn_hetzel_jr_dorn_at_indigo_mese_com_)"
 
 + 1993-03-01 (Sun, 28 Feb 93 22:45:09 PST) - anonymity + untraceable digital money = potential problems - _ALAN DORN HETZEL JR \<dorn@indigo.mese.com\>_
 

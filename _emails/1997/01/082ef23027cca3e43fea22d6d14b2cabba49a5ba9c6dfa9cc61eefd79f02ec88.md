@@ -58,7 +58,7 @@ Tom Wolfe and the pirates thing.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/authors/dale_thorn_dthorn_at_gte_net_)"
 
 + 1997-01-29 (Tue, 28 Jan 1997 22:56:14 -0800 (PST)) - Re: can Sun Tzu be a cypherpunks? - _Dale Thorn \<dthorn@gte.net\>_
 

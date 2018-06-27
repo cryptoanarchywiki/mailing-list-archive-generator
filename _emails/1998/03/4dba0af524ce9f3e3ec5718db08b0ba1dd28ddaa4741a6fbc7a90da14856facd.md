@@ -45,7 +45,7 @@ O[QN[KDJQCILHGZFZIVJSYOSWQGFIXUSCJGNRBZMCYCMPUVQLKFXTGDHCVQWELXGSBWFNWOSOGQOVYML
 
 + Return to [March 1998](/archive/1998/03)
 
-+ Return to "[Guess<span>@</span>mail.sochi.ru](/author/guess_at_mail_sochi_ru)"
++ Return to "[Guess<span>@</span>mail.sochi.ru](/authors/guess_at_mail_sochi_ru)"
 
 + 1998-03-30 (Mon, 30 Mar 1998 05:59:01 -0800 (PST)) - Lamers- mudt die - _Guess@mail.sochi.ru_
 

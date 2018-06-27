@@ -131,7 +131,7 @@ stevenw@best.com                   |     3. Express what others cannot
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[stevenw<span>@</span>best.com (Steven Weller)](/author/stevenw_at_best_com_steven_weller_)"
++ Return to "[stevenw<span>@</span>best.com (Steven Weller)](/authors/stevenw_at_best_com_steven_weller_)"
 
 + 1996-04-10 (Wed, 10 Apr 1996 19:34:22 +0800) - RISKS: Compuserve "secure" login - _stevenw@best.com (Steven Weller)_
 

@@ -88,9 +88,9 @@ On Fri, 20 Jun 1997, Mac Norton wrote:
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
-+ Return to "[Mac Norton <mnorton<span>@</span>cavern.uark.edu>](/author/mac_norton_mnorton_at_cavern_uark_edu_)"
-+ Return to "[Steve Schear <azur<span>@</span>netcom.com>](/author/steve_schear_azur_at_netcom_com_)"
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/authors/declan_mccullagh_declan_at_well_com_)"
++ Return to "[Mac Norton <mnorton<span>@</span>cavern.uark.edu>](/authors/mac_norton_mnorton_at_cavern_uark_edu_)"
++ Return to "[Steve Schear <azur<span>@</span>netcom.com>](/authors/steve_schear_azur_at_netcom_com_)"
 
 + 1997-06-20 (Sat, 21 Jun 1997 05:01:21 +0800) - [Courts strike down New York and Georgia Net-censorship laws](/archive/1997/06/fd5d463b1c9fe10e3e5770de6ab3cda4d4bd5d985d8374ff1ef798f503dab073) - _Declan McCullagh \<declan@well.com\>_
   + 1997-06-20 (Sat, 21 Jun 1997 05:46:31 +0800) - [Re: Courts strike down New York and Georgia Net-censorship laws](/archive/1997/06/fd1850dba60a1923febb7acf535196d096ebac571ddcadbc9e5be02215a744a9) - _Steve Schear \<azur@netcom.com\>_

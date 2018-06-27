@@ -123,7 +123,7 @@ As seen on page B1 of today's WSJ:
 
 + Return to [February 1995](/archive/1995/02)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1995-02-10 (Fri, 10 Feb 95 09:58:29 PST) - http://www.vocaltec.com/gti.html - _Duncan Frissell \<frissell@panix.com\>_
 

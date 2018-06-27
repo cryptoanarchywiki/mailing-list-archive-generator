@@ -87,8 +87,8 @@ hand.
 
 + Return to [May 1997](/archive/1997/05)
 
-+ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
-+ Return to "[John Horton <jehorton<span>@</span>erols.com>](/author/john_horton_jehorton_at_erols_com_)"
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/authors/declan_mccullagh_declan_at_well_com_)"
++ Return to "[John Horton <jehorton<span>@</span>erols.com>](/authors/john_horton_jehorton_at_erols_com_)"
 
 + 1997-05-02 (Fri, 2 May 1997 21:08:53 +0800) - [unSAFE](/archive/1997/05/b75b3ee0dd2999c18981ee9e1f9ed405b6f55b39de306d65b8bb27b98fbe55bc) - _Declan McCullagh \<declan@well.com\>_
   + 1997-05-02 (Fri, 2 May 1997 22:47:36 +0800) - Re: unSAFE - _John Horton \<jehorton@erols.com\>_

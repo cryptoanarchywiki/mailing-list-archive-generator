@@ -131,9 +131,9 @@ for that kind of software.
 
 + Return to [October 1997](/archive/1997/10)
 
-+ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
-+ Return to "[Anonymous <nobody<span>@</span>REPLAY.COM>](/author/anonymous_nobody_at_replay_com_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/authors/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Anonymous <nobody<span>@</span>REPLAY.COM>](/authors/anonymous_nobody_at_replay_com_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
 
 + 1997-10-16 (Fri, 17 Oct 1997 01:39:41 +0800) - Re: Security flaws introduced by "other readers" in CMR - _Anonymous \<nobody@REPLAY.COM\>_
   + 1997-10-16 (Fri, 17 Oct 1997 02:53:40 +0800) - [Re: Security flaws introduced by "other readers" in CMR](/archive/1997/10/7182430d30ab413ba14df36c8a6f981b99ab1bdab7accf5f06a4af81dab7095c) - _Tim May \<tcmay@got.net\>_

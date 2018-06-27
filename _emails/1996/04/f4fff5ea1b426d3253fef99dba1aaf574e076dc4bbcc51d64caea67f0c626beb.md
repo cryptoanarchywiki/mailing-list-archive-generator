@@ -52,7 +52,7 @@ DCF
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1996-04-21 (Sun, 21 Apr 1996 08:43:13 +0800) - Re: TERRORISM PREVENTION ACT--CONFERENCE REPORT was: EFF/Bernstein Press Release - _Duncan Frissell \<frissell@panix.com\>_
 

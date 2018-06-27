@@ -171,12 +171,12 @@ qOhSxMKbciLdVde3BBtpILpz5y91ulAecxOOwcnc7m5Pjw==
 + Return to [January 1998](/archive/1998/01)
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[? the Platypus {aka David Formosa} <dformosa<span>@</span>st.nepean.uws.edu.au>](/author/_the_platypus_aka_david_formosa_dformosa_at_st_nepean_uws_edu_au_)"
-+ Return to "[Dave Emery <die<span>@</span>die.com>](/author/dave_emery_die_at_die_com_)"
-+ Return to "[Eric Blossom <eb<span>@</span>comsec.com>](/author/eric_blossom_eb_at_comsec_com_)"
-+ Return to "[Kay Ping <kping<span>@</span>nym.alias.net>](/author/kay_ping_kping_at_nym_alias_net_)"
-+ Return to "[Markus Kuhn <Markus.Kuhn<span>@</span>cl.cam.ac.uk>](/author/markus_kuhn_markus_kuhn_at_cl_cam_ac_uk_)"
-+ Return to "[Steve Schear <schear<span>@</span>lvcm.com>](/author/steve_schear_schear_at_lvcm_com_)"
++ Return to "[? the Platypus {aka David Formosa} <dformosa<span>@</span>st.nepean.uws.edu.au>](/authors/_the_platypus_aka_david_formosa_dformosa_at_st_nepean_uws_edu_au_)"
++ Return to "[Dave Emery <die<span>@</span>die.com>](/authors/dave_emery_die_at_die_com_)"
++ Return to "[Eric Blossom <eb<span>@</span>comsec.com>](/authors/eric_blossom_eb_at_comsec_com_)"
++ Return to "[Kay Ping <kping<span>@</span>nym.alias.net>](/authors/kay_ping_kping_at_nym_alias_net_)"
++ Return to "[Markus Kuhn <Markus.Kuhn<span>@</span>cl.cam.ac.uk>](/authors/markus_kuhn_markus_kuhn_at_cl_cam_ac_uk_)"
++ Return to "[Steve Schear <schear<span>@</span>lvcm.com>](/authors/steve_schear_schear_at_lvcm_com_)"
 
 + 1998-01-16 (Sat, 17 Jan 1998 06:28:53 +0800) - Eternity - an alternative approach - _Kay Ping \<kping@nym.alias.net\>_
   + 1998-01-17 (Sun, 18 Jan 1998 01:27:41 +0800) - [Locating radio receivers](/archive/1998/01/4d5f6d5e429e677c0901458538000f6c5d976d11ed5e983cbedb0e4979ecd2a8) - _Markus Kuhn \<Markus.Kuhn@cl.cam.ac.uk\>_

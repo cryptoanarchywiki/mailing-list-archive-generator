@@ -73,7 +73,7 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 
 + Return to [March 1994](/archive/1994/03)
 
-+ Return to "[an57322<span>@</span>anon.penet.fi (T.A.Z.)](/author/an57322_at_anon_penet_fi_t_a_z_)"
++ Return to "[an57322<span>@</span>anon.penet.fi (T.A.Z.)](/authors/an57322_at_anon_penet_fi_t_a_z_)"
 
 + 1994-03-10 (Thu, 10 Mar 94 03:33:47 PST) - Re: chips... - _an57322@anon.penet.fi (T.A.Z.)_
 

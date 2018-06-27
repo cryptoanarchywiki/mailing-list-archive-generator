@@ -66,7 +66,7 @@ arbitrary power of the state.		|   jamesd@echeque.com
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/author/james_a_donald_jamesd_at_echeque_com_)"
++ Return to "["James A. Donald" <jamesd<span>@</span>echeque.com>](/authors/james_a_donald_jamesd_at_echeque_com_)"
 
 + 1995-11-13 (Mon, 13 Nov 1995 13:41:41 +0800) - Re: "Industry Group Rebuffs U.S. on Encryption" - _"James A. Donald" \<jamesd@echeque.com\>_
 

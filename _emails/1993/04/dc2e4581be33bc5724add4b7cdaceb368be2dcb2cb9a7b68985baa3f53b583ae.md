@@ -74,7 +74,7 @@ A.Hunter@dunaad.co.uk          fax: +44-496-2336         voice: +44-496-2286
 
 + Return to [April 1993](/archive/1993/04)
 
-+ Return to "[ah<span>@</span>uknet.ac.uk](/author/ah_at_uknet_ac_uk)"
++ Return to "[ah<span>@</span>uknet.ac.uk](/authors/ah_at_uknet_ac_uk)"
 
 + 1993-04-21 (Wed, 21 Apr 93 07:07:09 PDT) - No Subject - _ah@uknet.ac.uk_
 

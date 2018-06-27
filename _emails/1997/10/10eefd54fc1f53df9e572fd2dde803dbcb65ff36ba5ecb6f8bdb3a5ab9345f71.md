@@ -113,9 +113,9 @@ print pack"C*",split/\D+/,`echo "16iII*o\U@{$/=$z;[(pop,pop,unpack"H*",<>
 
 + Return to [October 1997](/archive/1997/10)
 
-+ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
-+ Return to "[mark<span>@</span>unicorn.com](/author/mark_at_unicorn_com)"
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/authors/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[mark<span>@</span>unicorn.com](/authors/mark_at_unicorn_com)"
 
 + 1997-10-27 (Mon, 27 Oct 1997 19:28:22 +0800) - [Re: PGP Employee on MKR](/archive/1997/10/cfd93b066d709199289416aa4da0549b649dd2437a66a580665a84693f5ec68c) - _mark@unicorn.com_
   + 1997-10-30 (Thu, 30 Oct 1997 19:29:57 +0800) - [Re: PGP Employee on MKR](/archive/1997/10/100668118e43fa3aeb3d9e26b628787942632db6d4b43ab77635b6dd6d4cd132) - _Bill Stewart \<stewarts@ix.netcom.com\>_

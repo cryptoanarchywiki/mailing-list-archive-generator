@@ -58,7 +58,7 @@ arbitrary power of the state.		|   jamesd@echeque.com
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[jamesd<span>@</span>echeque.com](/author/jamesd_at_echeque_com)"
++ Return to "[jamesd<span>@</span>echeque.com](/authors/jamesd_at_echeque_com)"
 
 + 1996-03-12 (Tue, 12 Mar 1996 18:05:36 +0800) - Re: Leahy and Mrs. Bemmis (now that's a subject line) - _jamesd@echeque.com_
 

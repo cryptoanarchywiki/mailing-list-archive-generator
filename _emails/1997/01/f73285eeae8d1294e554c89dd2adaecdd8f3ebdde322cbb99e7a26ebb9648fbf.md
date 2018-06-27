@@ -61,8 +61,8 @@ logs of last night's up yet.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[Erp <erp<span>@</span>digiforest.com>](/author/erp_erp_at_digiforest_com_)"
-+ Return to "[TiEPiLoT <tiepilot<span>@</span>thepentagon.com>](/author/tiepilot_tiepilot_at_thepentagon_com_)"
++ Return to "[Erp <erp<span>@</span>digiforest.com>](/authors/erp_erp_at_digiforest_com_)"
++ Return to "[TiEPiLoT <tiepilot<span>@</span>thepentagon.com>](/authors/tiepilot_tiepilot_at_thepentagon_com_)"
 
 + 1997-01-14 (Tue, 14 Jan 1997 00:09:50 -0800 (PST)) - [UnderNet:](/archive/1997/01/8f0ad5659829ff1276ce6eb376006e9629b71465485becba855dd0781ad14e0d) - _Erp \<erp@digiforest.com\>_
   + 1997-01-14 (Tue, 14 Jan 1997 08:24:19 -0800 (PST)) - Re: UnderNet: - _TiEPiLoT \<tiepilot@thepentagon.com\>_

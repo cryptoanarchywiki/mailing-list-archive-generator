@@ -51,8 +51,8 @@ hart@chaos.bsu.edu
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[Jim Hart <hart<span>@</span>chaos.bsu.edu>](/author/jim_hart_hart_at_chaos_bsu_edu_)"
-+ Return to "[pcw<span>@</span>access.digex.net (Peter Wayner)](/author/pcw_at_access_digex_net_peter_wayner_)"
++ Return to "[Jim Hart <hart<span>@</span>chaos.bsu.edu>](/authors/jim_hart_hart_at_chaos_bsu_edu_)"
++ Return to "[pcw<span>@</span>access.digex.net (Peter Wayner)](/authors/pcw_at_access_digex_net_peter_wayner_)"
 
 + 1994-08-19 (Fri, 19 Aug 94 16:22:28 PDT) - [Re: Cray contract info](/archive/1994/08/2eca1bc02a11c7fa16edf1172b077d933e02b0501c2581f3f77b6e3cda68da2e) - _pcw@access.digex.net (Peter Wayner)_
   + 1994-08-20 (Sat, 20 Aug 94 11:19:33 PDT) - Single DES cracking vs. idiots - _Jim Hart \<hart@chaos.bsu.edu\>_

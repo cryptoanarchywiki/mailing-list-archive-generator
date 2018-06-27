@@ -40,7 +40,7 @@ not enough flaming on the list!  (heh).
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[Tiffany Lee Brown <magdalen<span>@</span>well.sf.ca.us>](/author/tiffany_lee_brown_magdalen_at_well_sf_ca_us_)"
++ Return to "[Tiffany Lee Brown <magdalen<span>@</span>well.sf.ca.us>](/authors/tiffany_lee_brown_magdalen_at_well_sf_ca_us_)"
 
 + 1993-10-05 (Mon, 4 Oct 93 22:49:47 PDT) - unsubscribe - _Tiffany Lee Brown \<magdalen@well.sf.ca.us\>_
 

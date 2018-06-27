@@ -76,7 +76,7 @@ R+++>$ tv+ b+ DI+++ D+++ G+++++>$ e++$>++++ h r-- y+**
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "["Robert A. Hayden" <hayden<span>@</span>krypton.mankato.msus.edu>](/author/robert_a_hayden_hayden_at_krypton_mankato_msus_edu_)"
++ Return to "["Robert A. Hayden" <hayden<span>@</span>krypton.mankato.msus.edu>](/authors/robert_a_hayden_hayden_at_krypton_mankato_msus_edu_)"
 
 + 1996-10-16 (Wed, 16 Oct 1996 11:26:42 -0700 (PDT)) - Censorship-related Web Sites? - _"Robert A. Hayden" \<hayden@krypton.mankato.msus.edu\>_
 

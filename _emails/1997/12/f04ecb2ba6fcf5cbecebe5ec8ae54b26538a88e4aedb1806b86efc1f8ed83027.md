@@ -303,7 +303,7 @@ Here's some more on Microsoft.
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[mj<span>@</span>creative.net](/author/mj_at_creative_net)"
++ Return to "[mj<span>@</span>creative.net](/authors/mj_at_creative_net)"
 
 + 1997-12-22 (Tue, 23 Dec 1997 06:25:44 +0800) - Fwd: Mother Jones on Microsoft and BSA - _mj@creative.net_
 

@@ -82,7 +82,7 @@ Electronic Frontiers Forum, 6PM PDT Thursdays     <http://www.hotwired.com/eff>
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[Jon Lebkowsky <jonl<span>@</span>well.com>](/author/jon_lebkowsky_jonl_at_well_com_)"
++ Return to "[Jon Lebkowsky <jonl<span>@</span>well.com>](/authors/jon_lebkowsky_jonl_at_well_com_)"
 
 + 1996-09-04 (Wed, 4 Sep 1996 23:27:25 +0800) - Re: What is the EFF doing exactly? - _Jon Lebkowsky \<jonl@well.com\>_
 

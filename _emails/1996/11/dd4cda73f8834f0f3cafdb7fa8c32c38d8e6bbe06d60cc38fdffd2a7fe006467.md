@@ -126,8 +126,8 @@ jimbell@pacifier.com
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[hallam<span>@</span>vesuvius.ai.mit.edu](/author/hallam_at_vesuvius_ai_mit_edu)"
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[hallam<span>@</span>vesuvius.ai.mit.edu](/authors/hallam_at_vesuvius_ai_mit_edu)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-11-14 (Wed, 13 Nov 1996 21:52:55 -0800 (PST)) - Re: A Disservice to Mr. Bell - _jim bell \<jimbell@pacifier.com\>_
   + 1996-11-14 (Thu, 14 Nov 1996 09:09:29 -0800 (PST)) - [Re: A Disservice to Mr. Bell](/archive/1996/11/327904101c52e147e22f3af90b2e7b4a88861c383e840051ddd1929614175e44) - _hallam@vesuvius.ai.mit.edu_

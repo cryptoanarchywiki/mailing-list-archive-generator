@@ -57,10 +57,10 @@ print pack"C*",split/\D+/,`echo "16iII*o\U@{$/=$z;[(pop,pop,unpack"H*",<>
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/author/adam_back_aba_at_dcs_ex_ac_uk_)"
-+ Return to "[Cynthia Brown <cynthb<span>@</span>sonetis.com>](/author/cynthia_brown_cynthb_at_sonetis_com_)"
-+ Return to "[Martin Minow <minow<span>@</span>apple.com>](/author/martin_minow_minow_at_apple_com_)"
-+ Return to "[Steve Schear <azur<span>@</span>netcom.com>](/author/steve_schear_azur_at_netcom_com_)"
++ Return to "[Adam Back <aba<span>@</span>dcs.ex.ac.uk>](/authors/adam_back_aba_at_dcs_ex_ac_uk_)"
++ Return to "[Cynthia Brown <cynthb<span>@</span>sonetis.com>](/authors/cynthia_brown_cynthb_at_sonetis_com_)"
++ Return to "[Martin Minow <minow<span>@</span>apple.com>](/authors/martin_minow_minow_at_apple_com_)"
++ Return to "[Steve Schear <azur<span>@</span>netcom.com>](/authors/steve_schear_azur_at_netcom_com_)"
 
 + 1997-09-14 (Mon, 15 Sep 1997 03:43:33 +0800) - [Notes from the Cypherpunks September Bay Area Meeting](/archive/1997/09/0eb06b7a3fdc242bbe8af7b41565bc4bf753d9fde7e722009c5838cbb3955359) - _Martin Minow \<minow@apple.com\>_
   + 1997-09-16 (Wed, 17 Sep 1997 06:33:02 +0800) - what is a PKS phone? (Re: Notes from the Cypherpunks September Bay Area Meeting) - _Adam Back \<aba@dcs.ex.ac.uk\>_

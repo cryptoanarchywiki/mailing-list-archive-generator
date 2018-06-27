@@ -70,9 +70,9 @@ cman@best.com                                             --Princess Leia
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[cman<span>@</span>communities.com (Douglas Barnes)](/author/cman_at_communities_com_douglas_barnes_)"
-+ Return to "[Jiri Baum <jirib<span>@</span>sweeney.cs.monash.edu.au>](/author/jiri_baum_jirib_at_sweeney_cs_monash_edu_au_)"
-+ Return to "[Mike Fletcher <fletch<span>@</span>ain.bls.com>](/author/mike_fletcher_fletch_at_ain_bls_com_)"
++ Return to "[cman<span>@</span>communities.com (Douglas Barnes)](/authors/cman_at_communities_com_douglas_barnes_)"
++ Return to "[Jiri Baum <jirib<span>@</span>sweeney.cs.monash.edu.au>](/authors/jiri_baum_jirib_at_sweeney_cs_monash_edu_au_)"
++ Return to "[Mike Fletcher <fletch<span>@</span>ain.bls.com>](/authors/mike_fletcher_fletch_at_ain_bls_com_)"
 
 + 1996-01-03 (Wed, 3 Jan 1996 23:03:19 +0800) - Re: Why Net Censorship Doesn't Work - _cman@communities.com (Douglas Barnes)_
   + 1996-01-04 (Thu, 4 Jan 1996 09:12:17 +0800) - [Re: Why Net Censorship Doesn't Work](/archive/1996/01/5343724f24760fd88ad587d9611c3ff5312febdaf4b11e069e0ccba5811a59a0) - _Mike Fletcher \<fletch@ain.bls.com\>_

@@ -74,7 +74,7 @@ programmers just chomping at the bit to build cool IFS's like PGPDrive, etc.
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[jfricker<span>@</span>vertexgroup.com (John F. Fricker)](/author/jfricker_at_vertexgroup_com_john_f_fricker_)"
++ Return to "[jfricker<span>@</span>vertexgroup.com (John F. Fricker)](/authors/jfricker_at_vertexgroup_com_john_f_fricker_)"
 
 + 1996-07-09 (Tue, 9 Jul 1996 12:37:30 +0800) - Re: What remains to be done. - _jfricker@vertexgroup.com (John F. Fricker)_
 

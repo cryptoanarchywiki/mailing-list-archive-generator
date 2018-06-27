@@ -86,7 +86,7 @@ pierre@shell.portal.com
 
 + Return to [December 1993](/archive/1993/12)
 
-+ Return to "[pierre<span>@</span>shell.portal.com (Pierre Uszynski)](/author/pierre_at_shell_portal_com_pierre_uszynski_)"
++ Return to "[pierre<span>@</span>shell.portal.com (Pierre Uszynski)](/authors/pierre_at_shell_portal_com_pierre_uszynski_)"
 
 + 1993-12-02 (Thu, 2 Dec 93 00:52:24 PST) - Re: Two items from recent magazines... - _pierre@shell.portal.com (Pierre Uszynski)_
 

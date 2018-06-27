@@ -56,7 +56,7 @@ Simon
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/author/simon_spero_ses_at_tipper_oit_unc_edu_)"
++ Return to "[Simon Spero <ses<span>@</span>tipper.oit.unc.edu>](/authors/simon_spero_ses_at_tipper_oit_unc_edu_)"
 
 + 1995-12-21 (Wed, 20 Dec 95 22:56:02 PST) - Digicash and capital adequacy - _Simon Spero \<ses@tipper.oit.unc.edu\>_
 

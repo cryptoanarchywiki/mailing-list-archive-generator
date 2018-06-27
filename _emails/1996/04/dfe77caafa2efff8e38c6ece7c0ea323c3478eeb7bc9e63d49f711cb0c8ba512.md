@@ -95,7 +95,7 @@ Higher Power: 2^756839 - 1  | black markets, collapse of governments.
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/authors/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-04-13 (Sat, 13 Apr 1996 14:29:19 +0800) - Re: Entropy Estimator - _tcmay@got.net (Timothy C. May)_
 

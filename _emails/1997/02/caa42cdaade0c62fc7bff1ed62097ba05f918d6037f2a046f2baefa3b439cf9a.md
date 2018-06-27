@@ -102,7 +102,7 @@ unusual and illegal headers in.  This may be a bug.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[Bryan Reece <reece<span>@</span>taz.nceye.net>](/author/bryan_reece_reece_at_taz_nceye_net_)"
++ Return to "[Bryan Reece <reece<span>@</span>taz.nceye.net>](/authors/bryan_reece_reece_at_taz_nceye_net_)"
 
 + 1997-02-18 (Mon, 17 Feb 1997 21:12:01 -0800 (PST)) - Re: Anyone have the complete info on CP list alternatives? - _Bryan Reece \<reece@taz.nceye.net\>_
 

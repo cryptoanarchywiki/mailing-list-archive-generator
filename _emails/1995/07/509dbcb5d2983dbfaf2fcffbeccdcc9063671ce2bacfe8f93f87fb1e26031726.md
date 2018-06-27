@@ -65,7 +65,7 @@ USA (617) 323-7923
 
 + Return to [July 1995](/archive/1995/07)
 
-+ Return to "[rah<span>@</span>shipwright.com (Robert Hettinga)](/author/rah_at_shipwright_com_robert_hettinga_)"
++ Return to "[rah<span>@</span>shipwright.com (Robert Hettinga)](/authors/rah_at_shipwright_com_robert_hettinga_)"
 
 + 1995-07-13 (Wed, 12 Jul 95 17:40:12 PDT) - Road trip - _rah@shipwright.com (Robert Hettinga)_
 

@@ -65,7 +65,7 @@ Check out http://javacontest.sun.com for complete details.
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/authors/john_gilmore_gnu_at_toad_com_)"
 
 + 1995-12-04 (Sun, 3 Dec 95 18:56:37 PST) - Java Cup International -- $1,000,000 in prizes - _John Gilmore \<gnu@toad.com\>_
 

@@ -193,7 +193,7 @@ too big to serve God because they made her look like a prostitute.
 
 + Return to [March 1998](/archive/1998/03)
 
-+ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/author/toto_toto_at_sk_sympatico_ca_)"
++ Return to "[Toto <toto<span>@</span>sk.sympatico.ca>](/authors/toto_toto_at_sk_sympatico_ca_)"
 
 + 1998-03-28 (Fri, 27 Mar 1998 21:05:57 -0800 (PST)) - GRAND JURY: Jonesboro Guilty, Society and Christianity Indicted As Co-conspirators - _Toto \<toto@sk.sympatico.ca\>_
 

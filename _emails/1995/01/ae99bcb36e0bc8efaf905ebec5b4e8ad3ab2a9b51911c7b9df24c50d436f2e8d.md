@@ -242,7 +242,7 @@ Content-Type: text/plain
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1995-01-19 (Thu, 19 Jan 95 09:09:32 PST) - WSJ on CIA Dump - _John Young \<jya@pipeline.com\>_
 

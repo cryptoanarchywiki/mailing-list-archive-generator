@@ -46,7 +46,7 @@ damn near grunge-proof.
 
 + Return to [August 1993](/archive/1993/08)
 
-+ Return to "[anonymous<span>@</span>extropia.wimsey.com](/author/anonymous_at_extropia_wimsey_com)"
++ Return to "[anonymous<span>@</span>extropia.wimsey.com](/authors/anonymous_at_extropia_wimsey_com)"
 
 + 1993-08-18 (Wed, 18 Aug 93 02:50:36 PDT) - No Subject - _anonymous@extropia.wimsey.com_
 

@@ -44,7 +44,7 @@ to the EAR...."
 
 + Return to [June 1998](/archive/1998/06)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1998-06-01 (Sun, 31 May 1998 21:30:13 -0700 (PDT)) - printed materials exports - _nobody@REPLAY.COM (Anonymous)_
 

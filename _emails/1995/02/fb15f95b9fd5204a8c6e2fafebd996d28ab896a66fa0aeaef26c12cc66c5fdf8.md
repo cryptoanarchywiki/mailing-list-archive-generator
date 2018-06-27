@@ -66,7 +66,7 @@ http://spirit.aud.alcatel.com:8081/~droelke/
 
 + Return to [February 1995](/archive/1995/02)
 
-+ Return to "[droelke<span>@</span>spirit.aud.alcatel.com (Daniel R. Oelke)](/author/droelke_at_spirit_aud_alcatel_com_daniel_r_oelke_)"
++ Return to "[droelke<span>@</span>spirit.aud.alcatel.com (Daniel R. Oelke)](/authors/droelke_at_spirit_aud_alcatel_com_daniel_r_oelke_)"
 
 + 1995-02-09 (Wed, 8 Feb 95 18:54:49 PST) - Re: Not necessarily crypto but scary anyway... - _droelke@spirit.aud.alcatel.com (Daniel R. Oelke)_
 

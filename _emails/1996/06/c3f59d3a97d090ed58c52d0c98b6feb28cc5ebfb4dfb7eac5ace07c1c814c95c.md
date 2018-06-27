@@ -52,8 +52,8 @@ http://www.molson.com/cgi-bin/cize?url=http://www.your.site.com/the/url
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
-+ Return to "[Damien Lucifer <root<span>@</span>HellSpawn>](/author/damien_lucifer_root_at_hellspawn_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/authors/adam_shostack_adam_at_homeport_org_)"
++ Return to "[Damien Lucifer <root<span>@</span>HellSpawn>](/authors/damien_lucifer_root_at_hellspawn_)"
 
 + 1996-06-17 (Mon, 17 Jun 1996 12:52:22 +0800) - The Molson Great Web Anonymizer - _Damien Lucifer \<root@HellSpawn\>_
   + 1996-06-17 (Tue, 18 Jun 1996 04:30:08 +0800) - [Re: The Molson Great Web Anonymizer](/archive/1996/06/948afe7b29ae310eabc2ba6513aa53c9727af337a04cef34c6da92d7dc5bf0b7) - _Adam Shostack \<adam@homeport.org\>_

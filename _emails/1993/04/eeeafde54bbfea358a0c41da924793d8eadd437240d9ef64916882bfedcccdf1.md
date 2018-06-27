@@ -45,7 +45,7 @@ appreciated.
 
 + Return to [April 1993](/archive/1993/04)
 
-+ Return to "[Robert Luscombe <ral<span>@</span>telerama.pgh.pa.us>](/author/robert_luscombe_ral_at_telerama_pgh_pa_us_)"
++ Return to "[Robert Luscombe <ral<span>@</span>telerama.pgh.pa.us>](/authors/robert_luscombe_ral_at_telerama_pgh_pa_us_)"
 
 + 1993-04-28 (Tue, 27 Apr 93 21:32:37 PDT) - Need help with remailer scripts - _Robert Luscombe \<ral@telerama.pgh.pa.us\>_
 

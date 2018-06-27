@@ -94,7 +94,7 @@ f/i7gB5dzRQ=
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[Brad Shantz <bshantz<span>@</span>nwlink.com>](/author/brad_shantz_bshantz_at_nwlink_com_)"
++ Return to "[Brad Shantz <bshantz<span>@</span>nwlink.com>](/authors/brad_shantz_bshantz_at_nwlink_com_)"
 
 + 1996-07-26 (Sat, 27 Jul 1996 05:30:46 +0800) - Inflation and Housing - _Brad Shantz \<bshantz@nwlink.com\>_
 

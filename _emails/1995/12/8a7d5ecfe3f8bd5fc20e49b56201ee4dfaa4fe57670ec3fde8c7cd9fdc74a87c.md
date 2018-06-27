@@ -104,7 +104,7 @@ QPfqPsMErMo=
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Philip Zimmermann <prz<span>@</span>acm.org>](/author/philip_zimmermann_prz_at_acm_org_)"
++ Return to "[Philip Zimmermann <prz<span>@</span>acm.org>](/authors/philip_zimmermann_prz_at_acm_org_)"
 
 + 1995-12-29 (Fri, 29 Dec 1995 19:03:34 +0800) - Revocation of Zimmermann's fossil key - _Philip Zimmermann \<prz@acm.org\>_
 

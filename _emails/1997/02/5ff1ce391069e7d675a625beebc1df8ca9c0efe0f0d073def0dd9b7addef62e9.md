@@ -105,7 +105,7 @@ Powered by Mercury Mail: http://www.merc.com
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[announce<span>@</span>lists.zdnet.com](/author/announce_at_lists_zdnet_com)"
++ Return to "[announce<span>@</span>lists.zdnet.com](/authors/announce_at_lists_zdnet_com)"
 
 + 1997-02-05 (Tue, 4 Feb 1997 19:31:05 -0800 (PST)) - Announcing ZDNet Exclusives! - _announce@lists.zdnet.com_
 

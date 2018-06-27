@@ -72,9 +72,9 @@ without calling someone a Nazi. Rules are rules.
 
 + Return to [April 1997](/archive/1997/04)
 
-+ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
-+ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
-+ Return to "["Ross Wright" <rwright<span>@</span>adnetsol.com>](/author/ross_wright_rwright_at_adnetsol_com_)"
++ Return to "[ichudov<span>@</span>algebra.com (Igor Chudov <span>@</span> home)](/authors/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/authors/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "["Ross Wright" <rwright<span>@</span>adnetsol.com>](/authors/ross_wright_rwright_at_adnetsol_com_)"
 
 + 1997-04-22 (Mon, 21 Apr 1997 17:55:51 -0700 (PDT)) - [Re: My Thread / Was--Re: Light Bulbs & newsgroups](/archive/1997/04/070848e9e0c0d64c4a8d8e0019e7bc3d3645aff725f336a6fac8548c8633dd1c) - _"Ross Wright" \<rwright@adnetsol.com\>_
   + 1997-04-22 (Mon, 21 Apr 1997 18:12:37 -0700 (PDT)) - [Re: My Thread / Was--Re: Light Bulbs & newsgroups](/archive/1997/04/8568e301fb1a5f75e49e60d59742fe19760d2f0429e81df41c7fbac4ddada917) - _ichudov@algebra.com (Igor Chudov @ home)_

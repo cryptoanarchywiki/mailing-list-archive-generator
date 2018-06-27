@@ -47,7 +47,7 @@ Future Autopian			|
 
 + Return to [March 1993](/archive/1993/03)
 
-+ Return to "[eknipp<span>@</span>lobo.rmhs.colorado.edu (Ethan Knipp)](/author/eknipp_at_lobo_rmhs_colorado_edu_ethan_knipp_)"
++ Return to "[eknipp<span>@</span>lobo.rmhs.colorado.edu (Ethan Knipp)](/authors/eknipp_at_lobo_rmhs_colorado_edu_ethan_knipp_)"
 
 + 1993-03-03 (Wed, 3 Mar 93 13:11:46 PST) - PGP: Help! - _eknipp@lobo.rmhs.colorado.edu (Ethan Knipp)_
 

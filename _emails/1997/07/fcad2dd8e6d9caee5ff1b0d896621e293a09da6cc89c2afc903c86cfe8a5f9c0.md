@@ -101,7 +101,7 @@ able to communicate at all.
 
 + Return to [July 1997](/archive/1997/07)
 
-+ Return to "[Ray Arachelian <sunder<span>@</span>brainlink.com>](/author/ray_arachelian_sunder_at_brainlink_com_)"
++ Return to "[Ray Arachelian <sunder<span>@</span>brainlink.com>](/authors/ray_arachelian_sunder_at_brainlink_com_)"
 
 + _Unknown thread root_
   + 1997-07-02 (Thu, 3 Jul 1997 04:02:20 +0800) - This was forged:: Re: This is NOT trespassing. - _Ray Arachelian \<sunder@brainlink.com\>_

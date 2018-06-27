@@ -55,9 +55,9 @@ http://www.c2.net/ (or login as "guest")		sameer@c2.net
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
-+ Return to "[sameer<span>@</span>c2.org](/author/sameer_at_c2_org)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/authors/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[sameer<span>@</span>c2.org](/authors/sameer_at_c2_org)"
 
 + 1996-04-05 (Fri, 5 Apr 1996 12:13:17 +0800) - [Re: So, what crypto legislation (if any) is necessary?](/archive/1996/04/fe58087c45fb3e9f1c9dbeb0becf27d57ffbf30e6b4d2888293a0d41795efef6) - _jim bell \<jimbell@pacifier.com\>_
   + 1996-04-05 (Fri, 5 Apr 1996 20:30:32 +0800) - [Re: So, what crypto legislation (if any) is necessary?](/archive/1996/04/78a987044b41c9b031418df30c008691f27753f8e3cebc9a3039f4a8bd28f894) - _Black Unicorn \<unicorn@schloss.li\>_

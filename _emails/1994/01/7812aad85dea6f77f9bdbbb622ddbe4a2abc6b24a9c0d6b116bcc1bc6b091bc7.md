@@ -70,7 +70,7 @@ Please report any problems, inappropriate use etc. to admin@anon.penet.fi.
 
 + Return to [January 1994](/archive/1994/01)
 
-+ Return to "[an48138<span>@</span>anon.penet.fi (Xenon)](/author/an48138_at_anon_penet_fi_xenon_)"
++ Return to "[an48138<span>@</span>anon.penet.fi (Xenon)](/authors/an48138_at_anon_penet_fi_xenon_)"
 
 + 1994-01-28 (Thu, 27 Jan 94 21:57:47 PST) - Five remailers needed NOW. Yo. - _an48138@anon.penet.fi (Xenon)_
 

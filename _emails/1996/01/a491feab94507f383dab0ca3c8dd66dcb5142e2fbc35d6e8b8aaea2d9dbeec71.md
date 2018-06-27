@@ -62,7 +62,7 @@ ftp://ftp.wimsey.com/pub/crypto/sun-stuff/change-sun-hostid-1.6.1.tar.gz
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[markh<span>@</span>wimsey.bc.ca (Mark C. Henderson)](/author/markh_at_wimsey_bc_ca_mark_c_henderson_)"
++ Return to "[markh<span>@</span>wimsey.bc.ca (Mark C. Henderson)](/authors/markh_at_wimsey_bc_ca_mark_c_henderson_)"
 
 + 1996-01-01 (Tue, 2 Jan 1996 06:36:54 +0800) - Re: Canadian Cypherpunks [NOISE] - _markh@wimsey.bc.ca (Mark C. Henderson)_
 

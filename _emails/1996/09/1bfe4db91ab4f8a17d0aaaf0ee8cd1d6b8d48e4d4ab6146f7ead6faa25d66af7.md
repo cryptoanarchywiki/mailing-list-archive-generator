@@ -117,7 +117,7 @@ More DC Lock and Key
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[declan<span>@</span>well.com (Declan McCullagh)](/author/declan_at_well_com_declan_mccullagh_)"
++ Return to "[declan<span>@</span>well.com (Declan McCullagh)](/authors/declan_at_well_com_declan_mccullagh_)"
 
 + 1996-09-07 (Sat, 7 Sep 1996 09:22:38 +0800) - DC lock and key, from HotWired - _declan@well.com (Declan McCullagh)_
 

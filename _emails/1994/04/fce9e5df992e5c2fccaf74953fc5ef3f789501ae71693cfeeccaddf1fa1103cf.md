@@ -222,7 +222,7 @@ DESCRIPTORS: Credit cards; Banking industry; Money
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1994-04-05 (Tue, 5 Apr 94 10:12:15 PDT) - VISA Electronic Purse - _Duncan Frissell \<frissell@panix.com\>_
 

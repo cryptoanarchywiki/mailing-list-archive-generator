@@ -56,8 +56,8 @@ kilometers for our non-US list members} sometime.  It's exhausting.)
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
-+ Return to "[sdw<span>@</span>lig.net (Stephen D. Williams)](/author/sdw_at_lig_net_stephen_d_williams_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/authors/sandy_sandfort_sandfort_at_crl_com_)"
++ Return to "[sdw<span>@</span>lig.net (Stephen D. Williams)](/authors/sdw_at_lig_net_stephen_d_williams_)"
 
 + 1994-08-18 (Thu, 18 Aug 94 06:36:52 PDT) - I'M BACK - _Sandy Sandfort \<sandfort@crl.com\>_
   + 1994-08-18 (Thu, 18 Aug 94 16:50:29 PDT) - [Re: I'M BACK](/archive/1994/08/312bf4a419cc61585b2d539464f25b52b890e457285a474b01262a55248340d9) - _sdw@lig.net (Stephen D. Williams)_

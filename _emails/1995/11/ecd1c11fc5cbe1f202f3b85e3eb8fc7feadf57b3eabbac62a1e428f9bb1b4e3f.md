@@ -54,7 +54,7 @@ Enjoy your privacy...               283-9444, ISBN # 1-56609-171-3.
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[Andre Bacard <abacard<span>@</span>well.com>](/author/andre_bacard_abacard_at_well_com_)"
++ Return to "[Andre Bacard <abacard<span>@</span>well.com>](/authors/andre_bacard_abacard_at_well_com_)"
 
 + 1995-11-13 (Tue, 14 Nov 1995 05:28:24 +0800) - URL Version for ALPHA.C2.ORG FAQ - _Andre Bacard \<abacard@well.com\>_
 

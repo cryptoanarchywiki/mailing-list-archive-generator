@@ -95,7 +95,7 @@ Pauline Hanson's Web Master
 
 + Return to [July 1998](/archive/1998/07)
 
-+ Return to "[Global Web Builders <vjb<span>@</span>gil.com.au>](/author/global_web_builders_vjb_at_gil_com_au_)"
++ Return to "[Global Web Builders <vjb<span>@</span>gil.com.au>](/authors/global_web_builders_vjb_at_gil_com_au_)"
 
 + 1998-07-09 (Wed, 8 Jul 1998 23:35:28 -0700 (PDT)) - One Nation going back on-line - _Global Web Builders \<vjb@gil.com.au\>_
 

@@ -70,8 +70,8 @@ not of consequence.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
-+ Return to "[paul<span>@</span>fatmans.demon.co.uk](/author/paul_at_fatmans_demon_co_uk)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[paul<span>@</span>fatmans.demon.co.uk](/authors/paul_at_fatmans_demon_co_uk)"
 
 + 1997-01-13 (Mon, 13 Jan 1997 08:17:11 -0800 (PST)) - Re: IMDMP: SOURCE CODE RELEASE ANNOUNCEMENT - _paul@fatmans.demon.co.uk_
   + 1997-01-14 (Mon, 13 Jan 1997 18:24:11 -0800 (PST)) - [Re: IMDMP: SOURCE CODE RELEASE ANNOUNCEMENT](/archive/1997/01/99014ec4a5ac123c6b7f07b959d71aaf5222410b38029f103c90797c880aa95d) - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

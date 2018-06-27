@@ -43,9 +43,9 @@ new one.
 
 + Return to [December 1994](/archive/1994/12)
 
-+ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/author/derek_atkins_warlord_at_mit_edu_)"
-+ Return to "[Jonathan Cooper <entropy<span>@</span>IntNet.net>](/author/jonathan_cooper_entropy_at_intnet_net_)"
-+ Return to "[lce<span>@</span>wwa.com (Larry E)](/author/lce_at_wwa_com_larry_e_)"
++ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/authors/derek_atkins_warlord_at_mit_edu_)"
++ Return to "[Jonathan Cooper <entropy<span>@</span>IntNet.net>](/authors/jonathan_cooper_entropy_at_intnet_net_)"
++ Return to "[lce<span>@</span>wwa.com (Larry E)](/authors/lce_at_wwa_com_larry_e_)"
 
 + 1994-12-25 (Sun, 25 Dec 94 13:22:34 PST) - [2048-bit key...I'm leery](/archive/1994/12/25f60ddf8b0d56986083e7a9ef2865ccb930695d93c5870990f938464f52b3da) - _lce@wwa.com (Larry E)_
   + 1994-12-25 (Sun, 25 Dec 94 13:43:14 PST) - [Moving from 1024-bit -> 2048-bit key.](/archive/1994/12/7e215dc786cbdd21b4e08480af3f03c05e898259c519a3aa939c46f525488109) - _Jonathan Cooper \<entropy@IntNet.net\>_

@@ -57,8 +57,8 @@ Alan Olsen            | to my mail, just hit the ctrl, alt and del keys.
 
 + Return to [August 1997](/archive/1997/08)
 
-+ Return to "[Alan <alan<span>@</span>ctrl-alt-del.com>](/author/alan_alan_at_ctrlaltdel_com_)"
-+ Return to "[Ariel Glenn <ariel<span>@</span>watsun.cc.columbia.edu>](/author/ariel_glenn_ariel_at_watsun_cc_columbia_edu_)"
++ Return to "[Alan <alan<span>@</span>ctrl-alt-del.com>](/authors/alan_alan_at_ctrlaltdel_com_)"
++ Return to "[Ariel Glenn <ariel<span>@</span>watsun.cc.columbia.edu>](/authors/ariel_glenn_ariel_at_watsun_cc_columbia_edu_)"
 
 + 1997-08-08 (Sat, 9 Aug 1997 07:06:09 +0800) - [Re: Did anyone archive MPJ's site?](/archive/1997/08/faa715bde2217d85ce9b49bb48c8ff5bb44943f8b37b5c3f589c3abfb5e1425a) - _Ariel Glenn \<ariel@watsun.cc.columbia.edu\>_
   + 1997-08-08 (Sat, 9 Aug 1997 07:51:31 +0800) - Re: Did anyone archive MPJ's site? - _Alan \<alan@ctrl-alt-del.com\>_

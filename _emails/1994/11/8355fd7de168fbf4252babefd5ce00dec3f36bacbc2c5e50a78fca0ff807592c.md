@@ -79,7 +79,7 @@ DHM.
 
 + Return to [November 1994](/archive/1994/11)
 
-+ Return to "[Deanne Morgan <dmorgan<span>@</span>uoguelph.ca>](/author/deanne_morgan_dmorgan_at_uoguelph_ca_)"
++ Return to "[Deanne Morgan <dmorgan<span>@</span>uoguelph.ca>](/authors/deanne_morgan_dmorgan_at_uoguelph_ca_)"
 
 + 1994-11-17 (Thu, 17 Nov 94 15:57:51 PST) - Re: IRC & HTTP proxy servers (fwd) - _Deanne Morgan \<dmorgan@uoguelph.ca\>_
 

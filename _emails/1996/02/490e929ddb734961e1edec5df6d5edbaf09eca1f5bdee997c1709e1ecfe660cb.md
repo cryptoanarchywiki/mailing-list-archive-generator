@@ -199,7 +199,7 @@ within the Pentagon.
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/authors/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-02-19 (Tue, 20 Feb 1996 02:04:14 +0800) - Pentagon net-trolling (from RRE) - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

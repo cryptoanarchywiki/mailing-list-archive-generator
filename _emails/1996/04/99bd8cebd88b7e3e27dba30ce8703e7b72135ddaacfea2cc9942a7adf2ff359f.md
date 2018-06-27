@@ -501,7 +501,7 @@ Operational Plan, January 1993, 1.
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/authors/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-04-23 (Tue, 23 Apr 1996 21:20:29 +0800) - FBI Bulletin: Social Protests in the 1990s: Planning a Response - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

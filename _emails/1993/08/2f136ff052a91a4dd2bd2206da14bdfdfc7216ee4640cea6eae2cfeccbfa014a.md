@@ -48,8 +48,8 @@ person to have a binding between my penet id and my real name.
 
 + Return to [August 1993](/archive/1993/08)
 
-+ Return to "[Marc Horowitz <marc<span>@</span>Athena.MIT.EDU>](/author/marc_horowitz_marc_at_athena_mit_edu_)"
-+ Return to "[Warren Keith Russell <keru<span>@</span>cpu.us.dynix.com>](/author/warren_keith_russell_keru_at_cpu_us_dynix_com_)"
++ Return to "[Marc Horowitz <marc<span>@</span>Athena.MIT.EDU>](/authors/marc_horowitz_marc_at_athena_mit_edu_)"
++ Return to "[Warren Keith Russell <keru<span>@</span>cpu.us.dynix.com>](/authors/warren_keith_russell_keru_at_cpu_us_dynix_com_)"
 
 + 1993-08-12 (Wed, 11 Aug 93 17:47:28 PDT) - [ANONYMOUS CONTACT SERVICE](/archive/1993/08/56b7d4718baa73d87b337572abe91bfd0e764f6a2bff6d571fb2af47870cd7c3) - _Warren Keith Russell \<keru@cpu.us.dynix.com\>_
   + 1993-08-12 (Wed, 11 Aug 93 20:38:06 PDT) - Re: ANONYMOUS CONTACT SERVICE - _Marc Horowitz \<marc@Athena.MIT.EDU\>_

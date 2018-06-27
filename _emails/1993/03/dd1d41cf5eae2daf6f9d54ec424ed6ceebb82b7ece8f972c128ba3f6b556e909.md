@@ -69,7 +69,7 @@ Joe Bob says "Check it out!"
 
 + Return to [March 1993](/archive/1993/03)
 
-+ Return to "[wcs<span>@</span>anchor.ho.att.com (Bill_Stewart(HOY002)1305)](/author/wcs_at_anchor_ho_att_com_bill_stewart_hoy002_1305_)"
++ Return to "[wcs<span>@</span>anchor.ho.att.com (Bill_Stewart(HOY002)1305)](/authors/wcs_at_anchor_ho_att_com_bill_stewart_hoy002_1305_)"
 
 + 1993-03-05 (Fri, 5 Mar 93 11:55:09 PST) - Re: Encrypted voice protocol? - _wcs@anchor.ho.att.com (Bill_Stewart(HOY002)1305)_
 

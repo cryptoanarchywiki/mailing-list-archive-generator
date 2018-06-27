@@ -141,7 +141,7 @@ a4zQWLImjcc=
 
 + Return to [January 1994](/archive/1994/01)
 
-+ Return to "[Sandy <72114.1712<span>@</span>CompuServe.COM>](/author/sandy_72114_1712_at_compuserve_com_)"
++ Return to "[Sandy <72114.1712<span>@</span>CompuServe.COM>](/authors/sandy_72114_1712_at_compuserve_com_)"
 
 + 1994-01-23 (Sun, 23 Jan 94 10:16:34 PST) - DIGITAL BARTER - _Sandy \<72114.1712@CompuServe.COM\>_
 

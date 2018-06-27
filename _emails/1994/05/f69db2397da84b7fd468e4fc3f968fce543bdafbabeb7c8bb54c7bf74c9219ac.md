@@ -58,7 +58,7 @@ compatibility?
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[sidney<span>@</span>apple.com (Sidney Markowitz)](/author/sidney_at_apple_com_sidney_markowitz_)"
++ Return to "[sidney<span>@</span>apple.com (Sidney Markowitz)](/authors/sidney_at_apple_com_sidney_markowitz_)"
 
 + 1994-05-26 (Wed, 25 May 94 18:16:02 PDT) - Re: MacPGP interface project - _sidney@apple.com (Sidney Markowitz)_
 

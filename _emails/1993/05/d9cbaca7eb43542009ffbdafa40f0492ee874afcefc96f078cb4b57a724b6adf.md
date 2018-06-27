@@ -62,7 +62,7 @@ without the protection (read: controll) of the government.
 
 + Return to [May 1993](/archive/1993/05)
 
-+ Return to "[mbriceno<span>@</span>aol.com](/author/mbriceno_at_aol_com)"
++ Return to "[mbriceno<span>@</span>aol.com](/authors/mbriceno_at_aol_com)"
 
 + 1993-05-22 (Fri, 21 May 93 23:54:04 PDT) - Re: The New Mykotronix phones... - _mbriceno@aol.com_
 

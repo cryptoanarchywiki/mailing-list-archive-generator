@@ -55,7 +55,7 @@ DDS -- I thought it was vaguely poetic, in a way.
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[Ryan Lackey <rdl<span>@</span>mit.edu>](/author/ryan_lackey_rdl_at_mit_edu_)"
++ Return to "[Ryan Lackey <rdl<span>@</span>mit.edu>](/authors/ryan_lackey_rdl_at_mit_edu_)"
 
 + 1997-11-18 (Wed, 19 Nov 1997 00:26:33 +0800) - mailing list archive - _Ryan Lackey \<rdl@mit.edu\>_
 

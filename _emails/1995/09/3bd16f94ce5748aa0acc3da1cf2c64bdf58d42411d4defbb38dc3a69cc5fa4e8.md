@@ -70,8 +70,8 @@ http://wfmu.org/~davem
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[dmandl<span>@</span>panix.com](/author/dmandl_at_panix_com)"
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[dmandl<span>@</span>panix.com](/authors/dmandl_at_panix_com)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1995-09-07 (Thu, 7 Sep 95 09:17:12 PDT) - [Re: Collection of personal info](/archive/1995/09/54858d35f8635f4f745a7a4fbc4eea65e5e6209e7c59ed902eb3cb09c1245780) - _Duncan Frissell \<frissell@panix.com\>_
   + 1995-09-07 (Thu, 7 Sep 95 11:46:16 PDT) - Re: Collection of personal info - _dmandl@panix.com_

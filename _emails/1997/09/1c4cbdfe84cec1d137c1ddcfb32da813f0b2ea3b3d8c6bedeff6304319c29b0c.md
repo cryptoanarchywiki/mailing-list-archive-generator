@@ -142,7 +142,7 @@ hLZWOhoZaxrBc8BrT/43dLQFd1WinDAsYuN5CfSYT3L5o0oCCKvciA==
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1997-09-27 (Sat, 27 Sep 1997 08:44:17 +0800) - Plea from a parent who wants to keep their kid free of SSNs - _nobody@REPLAY.COM (Anonymous)_
 

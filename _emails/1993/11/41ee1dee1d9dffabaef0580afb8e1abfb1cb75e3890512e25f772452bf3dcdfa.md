@@ -79,10 +79,10 @@ Eric
 
 + Return to [November 1993](/archive/1993/11)
 
-+ Return to "[ferguson<span>@</span>icm1.icp.net (Paul Ferguson x2044)](/author/ferguson_at_icm1_icp_net_paul_ferguson_x2044_)"
-+ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
-+ Return to "[plaz<span>@</span>netcom.com (Geoff Dale)](/author/plaz_at_netcom_com_geoff_dale_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[ferguson<span>@</span>icm1.icp.net (Paul Ferguson x2044)](/authors/ferguson_at_icm1_icp_net_paul_ferguson_x2044_)"
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/authors/hughes_at_ah_com_eric_hughes_)"
++ Return to "[plaz<span>@</span>netcom.com (Geoff Dale)](/authors/plaz_at_netcom_com_geoff_dale_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1993-11-27 (Sat, 27 Nov 93 12:19:18 PST) - [Re: Banning any subscriber](/archive/1993/11/b1186435d6cac8beb75a07831a267b2c1879f7f3c48c73f103e5162dbe7c2903) - _plaz@netcom.com (Geoff Dale)_
   + 1993-11-28 (Sat, 27 Nov 93 21:04:19 PST) - [Banning any subscriber](/archive/1993/11/a60999fdea2e3f44d4659e499326aa4670f06ba82f9f2c9c60c754f573c4aad0) - _hughes@ah.com (Eric Hughes)_

@@ -46,7 +46,7 @@ Get Your Private, Free Email at http://www.hotmail.com
 
 + Return to [October 1998](/archive/1998/10)
 
-+ Return to "["christian masson" <interception1001<span>@</span>hotmail.com>](/author/christian_masson_interception1001_at_hotmail_com_)"
++ Return to "["christian masson" <interception1001<span>@</span>hotmail.com>](/authors/christian_masson_interception1001_at_hotmail_com_)"
 
 + 1998-10-20 (Wed, 21 Oct 1998 02:40:51 +0800) - NEWS - _"christian masson" \<interception1001@hotmail.com\>_
 

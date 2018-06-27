@@ -51,7 +51,7 @@ spend $ 10,000 on renting them.
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "["Rev. Mark Grant" <mark<span>@</span>unicorn.com>](/author/rev_mark_grant_mark_at_unicorn_com_)"
++ Return to "["Rev. Mark Grant" <mark<span>@</span>unicorn.com>](/authors/rev_mark_grant_mark_at_unicorn_com_)"
 
 + 1995-08-17 (Thu, 17 Aug 95 09:44:51 PDT) - Re: Netsacpe's Offical Response - _"Rev. Mark Grant" \<mark@unicorn.com\>_
 

@@ -58,7 +58,7 @@ ggi.
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[strongmarketstock75bbn<span>@</span>worldnet.att.net](/author/strongmarketstock75bbn_at_worldnet_att_net)"
++ Return to "[strongmarketstock75bbn<span>@</span>worldnet.att.net](/authors/strongmarketstock75bbn_at_worldnet_att_net)"
 
 + 1998-11-21 (Sat, 21 Nov 1998 15:14:06 -0800 (PST)) - RE:  "SIZZLER" INTERNET STOCK! - _strongmarketstock75bbn@worldnet.att.net_
 

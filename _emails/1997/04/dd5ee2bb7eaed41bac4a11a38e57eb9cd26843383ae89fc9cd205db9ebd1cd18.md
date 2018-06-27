@@ -73,7 +73,7 @@ http://songbird.com/kent/pgp_key.html
 
 + Return to [April 1997](/archive/1997/04)
 
-+ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/author/kent_crispin_kent_at_songbird_com_)"
++ Return to "[Kent Crispin <kent<span>@</span>songbird.com>](/authors/kent_crispin_kent_at_songbird_com_)"
 
 + _Unknown thread root_
   + 1997-04-11 (Fri, 11 Apr 1997 01:00:50 -0700 (PDT)) - Re: KC post per Alec - _Kent Crispin \<kent@songbird.com\>_

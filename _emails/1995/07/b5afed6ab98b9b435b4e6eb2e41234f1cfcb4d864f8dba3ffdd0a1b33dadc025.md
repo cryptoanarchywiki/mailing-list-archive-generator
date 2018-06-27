@@ -91,7 +91,7 @@ Hal
 
 + Return to [July 1995](/archive/1995/07)
 
-+ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/author/hal_hfinney_at_shell_portal_com_)"
++ Return to "[Hal <hfinney<span>@</span>shell.portal.com>](/authors/hal_hfinney_at_shell_portal_com_)"
 
 + 1995-07-20 (Thu, 20 Jul 95 10:23:43 PDT) - Re: Netscape the Big Win - _Hal \<hfinney@shell.portal.com\>_
 

@@ -56,7 +56,7 @@ BlackMonger
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[Secret Squirrel <nobody<span>@</span>secret.squirrel.owl.de>](/author/secret_squirrel_nobody_at_secret_squirrel_owl_de_)"
++ Return to "[Secret Squirrel <nobody<span>@</span>secret.squirrel.owl.de>](/authors/secret_squirrel_nobody_at_secret_squirrel_owl_de_)"
 
 + 1997-06-17 (Tue, 17 Jun 1997 09:42:24 +0800) - Re: Homer on Terrorism - _Secret Squirrel \<nobody@secret.squirrel.owl.de\>_
 

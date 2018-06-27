@@ -105,8 +105,8 @@ O:.T:.O:. Mathematical Munitions Division
 
 + Return to [December 1997](/archive/1997/12)
 
-+ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/author/declan_mccullagh_declan_at_well_com_)"
-+ Return to "[Eric Cordian <emc<span>@</span>wire.insync.net>](/author/eric_cordian_emc_at_wire_insync_net_)"
++ Return to "[Declan McCullagh <declan<span>@</span>well.com>](/authors/declan_mccullagh_declan_at_well_com_)"
++ Return to "[Eric Cordian <emc<span>@</span>wire.insync.net>](/authors/eric_cordian_emc_at_wire_insync_net_)"
 
 + 1997-12-12 (Sat, 13 Dec 1997 07:25:56 +0800) - [Could a Jim Bell do the same thing?](/archive/1997/12/9ceebda78ae42d4e11e3887113b963a9c134b7251b47ea87fcba24c04101290a) - _Declan McCullagh \<declan@well.com\>_
   + 1997-12-13 (Sat, 13 Dec 1997 10:08:59 +0800) - Re: Could a Jim Bell do the same thing? - _Eric Cordian \<emc@wire.insync.net\>_

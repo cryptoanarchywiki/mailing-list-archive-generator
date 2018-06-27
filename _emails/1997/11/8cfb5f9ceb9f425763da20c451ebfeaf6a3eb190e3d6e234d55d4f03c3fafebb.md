@@ -146,7 +146,7 @@ addressed to the General Chair.
 
 + Return to [November 1997](/archive/1997/11)
 
-+ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/authors/john_gilmore_gnu_at_toad_com_)"
 
 + 1997-11-06 (Thu, 6 Nov 1997 15:58:53 +0800) - Crypto '98: Call for Papers - _John Gilmore \<gnu@toad.com\>_
 

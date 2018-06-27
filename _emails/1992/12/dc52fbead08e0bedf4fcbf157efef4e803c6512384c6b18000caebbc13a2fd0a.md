@@ -58,7 +58,7 @@ mark@coombs.anu.edu.au
 
 + Return to [December 1992](/archive/1992/12)
 
-+ Return to "[mark<span>@</span>coombs.anu.edu.au (Mark)](/author/mark_at_coombs_anu_edu_au_mark_)"
++ Return to "[mark<span>@</span>coombs.anu.edu.au (Mark)](/authors/mark_at_coombs_anu_edu_au_mark_)"
 
 + 1992-12-23 (Wed, 23 Dec 92 13:19:37 PST) - Re: Signing ascii text - _mark@coombs.anu.edu.au (Mark)_
 

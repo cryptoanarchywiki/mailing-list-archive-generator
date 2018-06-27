@@ -104,7 +104,7 @@ Sign me... "one who knows"
 
 + Return to [February 1994](/archive/1994/02)
 
-+ Return to "[catalyst-remailer<span>@</span>netcom.com](/author/catalystremailer_at_netcom_com)"
++ Return to "[catalyst-remailer<span>@</span>netcom.com](/authors/catalystremailer_at_netcom_com)"
 
 + 1994-02-24 (Thu, 24 Feb 94 02:40:42 PST) - re: CERT funding - _catalyst-remailer@netcom.com_
 

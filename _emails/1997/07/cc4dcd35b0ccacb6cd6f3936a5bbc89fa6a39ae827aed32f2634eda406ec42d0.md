@@ -78,9 +78,9 @@ As for circumventing it, any law such as this should just be ignored.
 
 + Return to [July 1997](/archive/1997/07)
 
-+ Return to "[iang<span>@</span>cs.berkeley.edu (Ian Goldberg)](/author/iang_at_cs_berkeley_edu_ian_goldberg_)"
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
-+ Return to "[Paul Bradley <paul<span>@</span>fatmans.demon.co.uk>](/author/paul_bradley_paul_at_fatmans_demon_co_uk_)"
++ Return to "[iang<span>@</span>cs.berkeley.edu (Ian Goldberg)](/authors/iang_at_cs_berkeley_edu_ian_goldberg_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
++ Return to "[Paul Bradley <paul<span>@</span>fatmans.demon.co.uk>](/authors/paul_bradley_paul_at_fatmans_demon_co_uk_)"
 
 + 1997-07-28 (Mon, 28 Jul 1997 23:51:36 +0800) - [Cryptography Question (I hope it's not off-topic on this list)](/archive/1997/07/a2ecfe39f88227814a37116bae82bd09eeba3de0efc418eb378e3051bf4b5e01) - _nobody@REPLAY.COM (Anonymous)_
   + 1997-07-30 (Thu, 31 Jul 1997 02:01:15 +0800) - Re: Cryptography Question (I hope it's not off-topic on this list) - _Paul Bradley \<paul@fatmans.demon.co.uk\>_

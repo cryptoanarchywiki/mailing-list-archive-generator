@@ -64,8 +64,8 @@ Perhaps Peter should have wacked you with a bigger clue-stick.
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
-+ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/authors/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
 
 + 1997-06-04 (Wed, 4 Jun 1997 22:49:54 +0800) - [Re: Webpage picketing?... (fwd)](/archive/1997/06/141eccdfe78041a72227a411604ed590090f6647be378a5e5003741d2191df5f) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
   + 1997-06-04 (Thu, 5 Jun 1997 04:51:45 +0800) - Re: Webpage picketing?... (fwd) - _Rabid Wombat \<wombat@mcfeely.bsfs.org\>_

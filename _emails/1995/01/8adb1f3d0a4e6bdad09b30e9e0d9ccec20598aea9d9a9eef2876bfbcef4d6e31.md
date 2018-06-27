@@ -52,8 +52,8 @@ Thank you.
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[Bill O'Hanlon <wmo<span>@</span>digibd.com>](/author/bill_ohanlon_wmo_at_digibd_com_)"
-+ Return to "["L. McCarthy" <lmccarth<span>@</span>ducie.cs.umass.edu>](/author/l_mccarthy_lmccarth_at_ducie_cs_umass_edu_)"
++ Return to "[Bill O'Hanlon <wmo<span>@</span>digibd.com>](/authors/bill_ohanlon_wmo_at_digibd_com_)"
++ Return to "["L. McCarthy" <lmccarth<span>@</span>ducie.cs.umass.edu>](/authors/l_mccarthy_lmccarth_at_ducie_cs_umass_edu_)"
 
 + 1995-01-26 (Thu, 26 Jan 95 15:58:49 PST) - [Re: Even more unix holy war. Was "Clinton freezes U.S. assets .."](/archive/1995/01/f85d7ee066454462f863cd0dd379be55278d215075605bc5a2e49397358abbc8) - _Bill O'Hanlon \<wmo@digibd.com\>_
   + 1995-01-27 (Thu, 26 Jan 95 16:38:08 PST) - Take the Unix Jihad elsewhere, please - _"L. McCarthy" \<lmccarth@ducie.cs.umass.edu\>_

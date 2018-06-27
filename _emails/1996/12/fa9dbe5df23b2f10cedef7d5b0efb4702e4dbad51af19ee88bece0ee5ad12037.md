@@ -111,7 +111,7 @@ All contributions received shall be examined, and, if appropriate, a workshop
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/authors/john_gilmore_gnu_at_toad_com_)"
 
 + 1996-12-13 (Fri, 13 Dec 1996 10:50:00 -0800 (PST)) - RSA Laboratories seeks contributions for the "next generation" of PKCS - _John Gilmore \<gnu@toad.com\>_
 

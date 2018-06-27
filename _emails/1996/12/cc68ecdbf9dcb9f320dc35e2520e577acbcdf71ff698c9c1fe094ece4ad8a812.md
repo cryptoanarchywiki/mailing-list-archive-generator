@@ -69,13 +69,13 @@ XhZErmf1vHk=
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
-+ Return to "[Jamie Lawrence <foodie<span>@</span>netcom.com>](/author/jamie_lawrence_foodie_at_netcom_com_)"
-+ Return to "[Jim Wise <jim<span>@</span>santafe.arch.columbia.edu>](/author/jim_wise_jim_at_santafe_arch_columbia_edu_)"
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
-+ Return to "["Matthew J. Miszewski" <mjmiski<span>@</span>execpc.com>](/author/matthew_j_miszewski_mjmiski_at_execpc_com_)"
-+ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/author/timothy_c_may_tcmay_at_got_net_)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[Jamie Lawrence <foodie<span>@</span>netcom.com>](/authors/jamie_lawrence_foodie_at_netcom_com_)"
++ Return to "[Jim Wise <jim<span>@</span>santafe.arch.columbia.edu>](/authors/jim_wise_jim_at_santafe_arch_columbia_edu_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
++ Return to "["Matthew J. Miszewski" <mjmiski<span>@</span>execpc.com>](/authors/matthew_j_miszewski_mjmiski_at_execpc_com_)"
++ Return to "["Timothy C. May" <tcmay<span>@</span>got.net>](/authors/timothy_c_may_tcmay_at_got_net_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/authors/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1996-12-22 (Sat, 21 Dec 1996 16:07:24 -0800 (PST)) - Re: Ebonics - _"Matthew J. Miszewski" \<mjmiski@execpc.com\>_
   + 1996-12-22 (Sat, 21 Dec 1996 16:54:53 -0800 (PST)) - [Re: Ebonics](/archive/1996/12/bbe3329f8d89f0c5449c841233f1e273018a5354e799db9f803936acca0d3c1e) - _"Timothy C. May" \<tcmay@got.net\>_

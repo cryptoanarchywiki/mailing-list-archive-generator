@@ -81,7 +81,7 @@ Kumamoto, Japan
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[Ellen Iwasaki <eiwasaki<span>@</span>gol.com>](/author/ellen_iwasaki_eiwasaki_at_gol_com_)"
++ Return to "[Ellen Iwasaki <eiwasaki<span>@</span>gol.com>](/authors/ellen_iwasaki_eiwasaki_at_gol_com_)"
 
 + 1997-02-20 (Wed, 19 Feb 1997 22:26:09 -0800 (PST)) - security breached by NaughtyRobot - _Ellen Iwasaki \<eiwasaki@gol.com\>_
 

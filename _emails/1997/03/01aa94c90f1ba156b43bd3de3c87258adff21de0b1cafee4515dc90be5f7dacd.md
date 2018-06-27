@@ -201,7 +201,7 @@ The e$ Home Page: http://www.shipwright.com/rah/
 
 + Return to [March 1997](/archive/1997/03)
 
-+ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/authors/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-03-13 (Thu, 13 Mar 1997 07:32:07 -0800 (PST)) - 128 bit Server and Browser Solution? - _Robert Hettinga \<rah@shipwright.com\>_
 

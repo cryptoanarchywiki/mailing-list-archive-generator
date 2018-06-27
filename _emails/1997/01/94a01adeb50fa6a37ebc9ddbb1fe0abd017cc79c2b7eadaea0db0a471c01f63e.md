@@ -62,8 +62,8 @@ On Wed, 29 Jan 1997 aaron@herringn.com wrote:
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[aaron<span>@</span>herringn.com](/author/aaron_at_herringn_com)"
-+ Return to "[Declan McCullagh <declan<span>@</span>pathfinder.com>](/author/declan_mccullagh_declan_at_pathfinder_com_)"
++ Return to "[aaron<span>@</span>herringn.com](/authors/aaron_at_herringn_com)"
++ Return to "[Declan McCullagh <declan<span>@</span>pathfinder.com>](/authors/declan_mccullagh_declan_at_pathfinder_com_)"
 
 + 1997-01-29 (Wed, 29 Jan 1997 15:45:03 -0800 (PST)) - [News report RE:RSA Data Security Conference, pointer](/archive/1997/01/e22a84bcafc66c44389c3b3dde44c1b2e26058f6cf11da5fcdf46708b8814a58) - _aaron@herringn.com_
   + 1997-01-30 (Wed, 29 Jan 1997 19:46:25 -0800 (PST)) - Re: News report RE:RSA Data Security Conference, pointer - _Declan McCullagh \<declan@pathfinder.com\>_

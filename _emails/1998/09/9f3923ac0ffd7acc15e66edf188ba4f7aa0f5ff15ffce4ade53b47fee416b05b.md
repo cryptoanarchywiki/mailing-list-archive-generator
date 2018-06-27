@@ -60,8 +60,8 @@ It is a Peano-Algebra.(with some more restrictions)
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[Heinz-Juergen Keller <hjk<span>@</span>dip.de>](/author/heinzjuergen_keller_hjk_at_dip_de_)"
-+ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Heinz-Juergen Keller <hjk<span>@</span>dip.de>](/authors/heinzjuergen_keller_hjk_at_dip_de_)"
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-09-21 (Mon, 21 Sep 1998 17:53:19 +0800) - [RE: atheism (was: RE: Democracy... (fwd)) (fwd)](/archive/1998/09/6c4e555edebfafbc0309b17643807ccd3b9e4aa4791faa7d0629efcb962bb64c) - _Jim Choate \<ravage@einstein.ssz.com\>_
   + 1998-09-21 (Tue, 22 Sep 1998 04:21:32 +0800) - RE: atheism (was: RE: Democracy... (fwd)) (fwd) - _Heinz-Juergen Keller \<hjk@dip.de\>_

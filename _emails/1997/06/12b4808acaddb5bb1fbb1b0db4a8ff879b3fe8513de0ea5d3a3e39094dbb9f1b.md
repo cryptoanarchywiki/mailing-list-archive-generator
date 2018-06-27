@@ -57,15 +57,15 @@ www.best.com/~falconer/keyparty.html by tommorrow.
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[Alan <alano<span>@</span>teleport.com>](/author/alan_alano_at_teleport_com_)"
-+ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/author/bill_frantz_frantz_at_netcom_com_)"
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Timmy May)](/author/dlv_at_bwalk_dm_com_timmy_may_)"
-+ Return to "[Ed.Falk<span>@</span>Eng.Sun.COM (Ed Falk)](/author/ed_falk_at_eng_sun_com_ed_falk_)"
-+ Return to "[ichudov<span>@</span>Algebra.COM (Igor Chudov <span>@</span> home)](/author/ichudov_at_algebra_com_igor_chudov__at__home_)"
-+ Return to "["Joshua E. Hill" <jehill<span>@</span>w6bhz.calpoly.edu>](/author/joshua_e_hill_jehill_at_w6bhz_calpoly_edu_)"
-+ Return to "[Ryan Anderson <randerso<span>@</span>ece.eng.wayne.edu>](/author/ryan_anderson_randerso_at_ece_eng_wayne_edu_)"
-+ Return to "[Tim May <tcmay<span>@</span>got.net>](/author/tim_may_tcmay_at_got_net_)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
++ Return to "[Alan <alano<span>@</span>teleport.com>](/authors/alan_alano_at_teleport_com_)"
++ Return to "[Bill Frantz <frantz<span>@</span>netcom.com>](/authors/bill_frantz_frantz_at_netcom_com_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Timmy May)](/authors/dlv_at_bwalk_dm_com_timmy_may_)"
++ Return to "[Ed.Falk<span>@</span>Eng.Sun.COM (Ed Falk)](/authors/ed_falk_at_eng_sun_com_ed_falk_)"
++ Return to "[ichudov<span>@</span>Algebra.COM (Igor Chudov <span>@</span> home)](/authors/ichudov_at_algebra_com_igor_chudov__at__home_)"
++ Return to "["Joshua E. Hill" <jehill<span>@</span>w6bhz.calpoly.edu>](/authors/joshua_e_hill_jehill_at_w6bhz_calpoly_edu_)"
++ Return to "[Ryan Anderson <randerso<span>@</span>ece.eng.wayne.edu>](/authors/ryan_anderson_randerso_at_ece_eng_wayne_edu_)"
++ Return to "[Tim May <tcmay<span>@</span>got.net>](/authors/tim_may_tcmay_at_got_net_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/authors/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-06-11 (Thu, 12 Jun 1997 07:36:51 +0800) - Re: June 18th SF C'punks meeting: export controls on trial - _Ed.Falk@Eng.Sun.COM (Ed Falk)_
   + 1997-06-12 (Thu, 12 Jun 1997 12:44:31 +0800) - [Photo ID is not needed for key signings....](/archive/1997/06/52e9778ce64f15f0a1387aa326fc7d361b46d02186f35d5baf606d5a75b18a62) - _Tim May \<tcmay@got.net\>_

@@ -66,8 +66,8 @@ P.S.  If anyone is interested in helping to make an adult
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
-+ Return to "[turner<span>@</span>TeleCheck.com](/author/turner_at_telecheck_com)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/authors/sandy_sandfort_sandfort_at_crl_com_)"
++ Return to "[turner<span>@</span>TeleCheck.com](/authors/turner_at_telecheck_com)"
 
 + 1995-12-14 (Fri, 15 Dec 1995 00:34:28 +0800) - ADDRESS DATABASE? - _Sandy Sandfort \<sandfort@crl.com\>_
   + 1995-12-14 (Fri, 15 Dec 1995 04:40:01 +0800) - [Re: ADDRESS DATABASE?](/archive/1995/12/90528012e5787195c1fc5d3c7643ad2dffca0f17e16f8f6c18a8e1349f9d3201) - _turner@TeleCheck.com_

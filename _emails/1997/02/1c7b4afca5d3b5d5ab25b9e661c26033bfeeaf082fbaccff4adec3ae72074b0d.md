@@ -74,7 +74,7 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
 
 + _Unknown thread root_
   + 1997-02-20 (Thu, 20 Feb 1997 06:58:44 -0800 (PST)) - Re: [CRYPTO] Dale Thorn Conspiracy Theory - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_

@@ -48,7 +48,7 @@ at all.
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/author/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
++ Return to "["E. ALLEN SMITH" <EALLENSMITH<span>@</span>ocelot.Rutgers.EDU>](/authors/e_allen_smith_eallensmith_at_ocelot_rutgers_edu_)"
 
 + 1996-01-10 (Wed, 10 Jan 1996 10:15:24 +0800) - Re: WIRE TAP ON NET - _"E. ALLEN SMITH" \<EALLENSMITH@ocelot.Rutgers.EDU\>_
 

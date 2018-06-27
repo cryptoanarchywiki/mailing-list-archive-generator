@@ -65,7 +65,7 @@ Anyone?
 
 + Return to [September 1994](/archive/1994/09)
 
-+ Return to "[GRABOW_GEOFFREY<span>@</span>tandem.com](/author/grabow_geoffrey_at_tandem_com)"
++ Return to "[GRABOW_GEOFFREY<span>@</span>tandem.com](/authors/grabow_geoffrey_at_tandem_com)"
 
 + 1994-09-28 (Wed, 28 Sep 94 16:46:48 PDT) - Re: 3DES - _GRABOW_GEOFFREY@tandem.com_
 

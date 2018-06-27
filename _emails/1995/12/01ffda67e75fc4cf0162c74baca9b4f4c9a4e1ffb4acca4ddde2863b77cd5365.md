@@ -52,7 +52,7 @@ Warminster, PA 18974
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[jps<span>@</span>monad.semcor.com (Jack P. Starrantino)](/author/jps_at_monad_semcor_com_jack_p_starrantino_)"
++ Return to "[jps<span>@</span>monad.semcor.com (Jack P. Starrantino)](/authors/jps_at_monad_semcor_com_jack_p_starrantino_)"
 
 + 1995-12-07 (Thu, 7 Dec 95 07:16:05 PST) - Re: latest librand source now av - _jps@monad.semcor.com (Jack P. Starrantino)_
 

@@ -70,7 +70,7 @@ B) bounce trash back.
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "["Chris Adams" <adamsc<span>@</span>io-online.com>](/author/chris_adams_adamsc_at_ioonline_com_)"
++ Return to "["Chris Adams" <adamsc<span>@</span>io-online.com>](/authors/chris_adams_adamsc_at_ioonline_com_)"
 
 + 1996-07-20 (Sat, 20 Jul 1996 19:29:04 +0800) - Re: Opiated file systems - _"Chris Adams" \<adamsc@io-online.com\>_
 

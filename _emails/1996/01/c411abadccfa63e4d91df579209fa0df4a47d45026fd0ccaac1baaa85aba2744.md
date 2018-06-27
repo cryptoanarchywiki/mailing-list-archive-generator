@@ -86,8 +86,8 @@ On Mon, 1 Jan 1996, amp wrote:
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[amp <Alan.Pugh<span>@</span>internetMCI.COM>](/author/amp_alan_pugh_at_internetmci_com_)"
-+ Return to "[attila <attila<span>@</span>primenet.com>](/author/attila_attila_at_primenet_com_)"
++ Return to "[amp <Alan.Pugh<span>@</span>internetMCI.COM>](/authors/amp_alan_pugh_at_internetmci_com_)"
++ Return to "[attila <attila<span>@</span>primenet.com>](/authors/attila_attila_at_primenet_com_)"
 
 + 1996-01-01 (Mon, 1 Jan 1996 14:57:23 +0800) - [Re: Australian "calculatorcard"](/archive/1996/01/b5ce56d430c520dbe7acac5423b1862529af57e554a8d8be1c651ac426af88a4) - _amp \<Alan.Pugh@internetMCI.COM\>_
   + 1996-01-01 (Mon, 1 Jan 1996 18:01:40 +0800) - Re: Australian "calculatorcard" - _attila \<attila@primenet.com\>_

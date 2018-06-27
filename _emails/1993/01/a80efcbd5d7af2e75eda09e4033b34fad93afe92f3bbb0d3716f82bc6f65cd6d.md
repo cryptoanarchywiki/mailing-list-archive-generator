@@ -72,7 +72,7 @@ PGP key available via finger or request           #include standard.disclaimer
 
 + Return to [January 1993](/archive/1993/01)
 
-+ Return to "[pfarrell<span>@</span>cs.gmu.edu (Pat Farrell)](/author/pfarrell_at_cs_gmu_edu_pat_farrell_)"
++ Return to "[pfarrell<span>@</span>cs.gmu.edu (Pat Farrell)](/authors/pfarrell_at_cs_gmu_edu_pat_farrell_)"
 
 + 1993-01-15 (Fri, 15 Jan 93 09:30:59 PST) - shrinking availability of PGP - _pfarrell@cs.gmu.edu (Pat Farrell)_
 

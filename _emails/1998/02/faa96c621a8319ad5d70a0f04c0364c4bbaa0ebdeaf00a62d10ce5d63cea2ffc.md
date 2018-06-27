@@ -61,7 +61,7 @@ Sorry for the mess ..
 
 + Return to [February 1998](/archive/1998/02)
 
-+ Return to "[Alex de Joode <usura<span>@</span>REPLAY.COM>](/author/alex_de_joode_usura_at_replay_com_)"
++ Return to "[Alex de Joode <usura<span>@</span>REPLAY.COM>](/authors/alex_de_joode_usura_at_replay_com_)"
 
 + 1998-02-22 (Sun, 22 Feb 1998 05:02:35 -0800 (PST)) - Re: DLing from Replay.com - _Alex de Joode \<usura@REPLAY.COM\>_
 

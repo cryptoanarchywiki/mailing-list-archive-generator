@@ -47,7 +47,7 @@ me again.
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[dennis10301<span>@</span>www1.utech.net (Dennis Alverson)](/author/dennis10301_at_www1_utech_net_dennis_alverson_)"
++ Return to "[dennis10301<span>@</span>www1.utech.net (Dennis Alverson)](/authors/dennis10301_at_www1_utech_net_dennis_alverson_)"
 
 + 1997-01-04 (Fri, 3 Jan 1997 17:12:46 -0800 (PST)) - Guaranteed downline!!! - _dennis10301@www1.utech.net (Dennis Alverson)_
 

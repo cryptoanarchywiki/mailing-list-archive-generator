@@ -65,7 +65,7 @@ rather measuring/correcting in real time.
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[Paul_Koning/US/3Com%3COM<span>@</span>smtp1.isd.3com.com](/author/paul_koningus3com3com_at_smtp1_isd_3com_com)"
++ Return to "[Paul_Koning/US/3Com%3COM<span>@</span>smtp1.isd.3com.com](/authors/paul_koningus3com3com_at_smtp1_isd_3com_com)"
 
 + 1996-04-15 (Tue, 16 Apr 1996 03:44:11 +0800) - Re: No matter where you go, there they are. - _Paul_Koning/US/3Com%3COM@smtp1.isd.3com.com_
 

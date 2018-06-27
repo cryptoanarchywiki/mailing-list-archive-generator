@@ -49,9 +49,9 @@ Kent - <jkhastings@aol.com>#000#
 
 + Return to [August 1993](/archive/1993/08)
 
-+ Return to "[charles<span>@</span>loki.ksc.nasa.gov (Charles Edward Patisaul)](/author/charles_at_loki_ksc_nasa_gov_charles_edward_patisaul_)"
-+ Return to "["Kent Hastings" <kent_hastings<span>@</span>qmail2.aero.org>](/author/kent_hastings_kent_hastings_at_qmail2_aero_org_)"
-+ Return to "[menya zavoot cmpuk <strick<span>@</span>versant.com>](/author/menya_zavoot_cmpuk_strick_at_versant_com_)"
++ Return to "[charles<span>@</span>loki.ksc.nasa.gov (Charles Edward Patisaul)](/authors/charles_at_loki_ksc_nasa_gov_charles_edward_patisaul_)"
++ Return to "["Kent Hastings" <kent_hastings<span>@</span>qmail2.aero.org>](/authors/kent_hastings_kent_hastings_at_qmail2_aero_org_)"
++ Return to "[menya zavoot cmpuk <strick<span>@</span>versant.com>](/authors/menya_zavoot_cmpuk_strick_at_versant_com_)"
 
 + 1993-08-11 (Wed, 11 Aug 93 16:12:06 PDT) - CryptoStacker - _"Kent Hastings" \<kent_hastings@qmail2.aero.org\>_
   + 1993-08-12 (Wed, 11 Aug 93 17:17:28 PDT) - [Re: CryptoStacker](/archive/1993/08/72ef1158a0d30de537cc7608a12d0483abf8d15b9ecf6a533d4cb0dab9b9b1c0) - _menya zavoot cmpuk \<strick@versant.com\>_

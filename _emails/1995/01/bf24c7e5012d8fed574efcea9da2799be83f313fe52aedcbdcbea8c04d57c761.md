@@ -91,7 +91,7 @@ anything to do with Constitutional rights.
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[root <root<span>@</span>einstein.ssz.com>](/author/root_root_at_einstein_ssz_com_)"
++ Return to "[root <root<span>@</span>einstein.ssz.com>](/authors/root_root_at_einstein_ssz_com_)"
 
 + _Unknown thread root_
   + 1995-01-10 (Tue, 10 Jan 95 15:47:47 PST) - Re: Pornography, What is it? - _root \<root@einstein.ssz.com\>_

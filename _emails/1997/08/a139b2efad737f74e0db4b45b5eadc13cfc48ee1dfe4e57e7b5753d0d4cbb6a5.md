@@ -98,7 +98,7 @@ and put REMOVE in the SUBJECT BOX. Placing the word remove in any other area of 
 
 + Return to [August 1997](/archive/1997/08)
 
-+ Return to "[promotions<span>@</span>web-promotions.com](/author/promotions_at_webpromotions_com)"
++ Return to "[promotions<span>@</span>web-promotions.com](/authors/promotions_at_webpromotions_com)"
 
 + 1997-08-02 (Sat, 2 Aug 1997 00:42:24 -0700 (PDT)) - Fraud Control - _promotions@web-promotions.com_
 

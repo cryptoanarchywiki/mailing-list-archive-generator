@@ -84,7 +84,7 @@ Not a cop
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[lucifer<span>@</span>dhp.com (lucifer Anonymous Remailer)](/author/lucifer_at_dhp_com_lucifer_anonymous_remailer_)"
++ Return to "[lucifer<span>@</span>dhp.com (lucifer Anonymous Remailer)](/authors/lucifer_at_dhp_com_lucifer_anonymous_remailer_)"
 
 + 1997-06-15 (Sun, 15 Jun 1997 18:30:31 +0800) - Re: Netscape Exploit - _lucifer@dhp.com (lucifer Anonymous Remailer)_
 

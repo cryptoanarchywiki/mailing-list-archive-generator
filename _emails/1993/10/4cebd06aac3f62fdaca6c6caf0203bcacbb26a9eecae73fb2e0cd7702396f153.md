@@ -64,8 +64,8 @@ and success.
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[doug<span>@</span>netcom.com (Doug Merritt)](/author/doug_at_netcom_com_doug_merritt_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[doug<span>@</span>netcom.com (Doug Merritt)](/authors/doug_at_netcom_com_doug_merritt_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + _Unknown thread root_
   + 1993-10-15 (Thu, 14 Oct 93 20:12:04 PDT) - Re: Spread-spectrum net (vulnerability of) - _doug@netcom.com (Doug Merritt)_

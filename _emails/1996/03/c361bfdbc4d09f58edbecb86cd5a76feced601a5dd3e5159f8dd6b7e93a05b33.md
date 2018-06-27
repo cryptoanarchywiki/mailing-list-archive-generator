@@ -82,7 +82,7 @@ Steve@AZTech.Net
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[Steve Gibbons <steve<span>@</span>aztech.net>](/author/steve_gibbons_steve_at_aztech_net_)"
++ Return to "[Steve Gibbons <steve<span>@</span>aztech.net>](/authors/steve_gibbons_steve_at_aztech_net_)"
 
 + 1996-03-28 (Thu, 28 Mar 1996 09:39:26 +0800) - Re: WSJ on Big Java Flaw - _Steve Gibbons \<steve@aztech.net\>_
 

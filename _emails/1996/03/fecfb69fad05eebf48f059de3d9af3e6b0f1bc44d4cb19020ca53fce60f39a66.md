@@ -86,7 +86,7 @@ quotes) to <WlkngOwl@unix.asb.com> for a copy of my PGP key.
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/author/deranged_mutant_wlkngowl_at_unix_asb_com_)"
++ Return to "["Deranged Mutant" <WlkngOwl<span>@</span>unix.asb.com>](/authors/deranged_mutant_wlkngowl_at_unix_asb_com_)"
 
 + 1996-03-15 (Fri, 15 Mar 1996 14:08:40 +0800) - (Fwd) BACKGROUNDER: Internet Censorship FAQ - _"Deranged Mutant" \<WlkngOwl@unix.asb.com\>_
 

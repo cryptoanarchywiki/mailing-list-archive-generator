@@ -94,9 +94,9 @@ Junk mail will be ignored in the order in which it is received.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "["Cynthia H. Brown" <cynthb<span>@</span>homer.sonetis.com>](/author/cynthia_h_brown_cynthb_at_homer_sonetis_com_)"
-+ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/author/dale_thorn_dthorn_at_gte_net_)"
-+ Return to "[lwjohnson<span>@</span>grill.sk.ca (Larry Johnson)](/author/lwjohnson_at_grill_sk_ca_larry_johnson_)"
++ Return to "["Cynthia H. Brown" <cynthb<span>@</span>homer.sonetis.com>](/authors/cynthia_h_brown_cynthb_at_homer_sonetis_com_)"
++ Return to "[Dale Thorn <dthorn<span>@</span>gte.net>](/authors/dale_thorn_dthorn_at_gte_net_)"
++ Return to "[lwjohnson<span>@</span>grill.sk.ca (Larry Johnson)](/authors/lwjohnson_at_grill_sk_ca_larry_johnson_)"
 
 + 1997-02-02 (Sun, 2 Feb 1997 07:55:48 -0800 (PST)) - Re: Trigger-Words... - _"Cynthia H. Brown" \<cynthb@homer.sonetis.com\>_
   + 1997-02-03 (Mon, 3 Feb 1997 02:59:37 -0800 (PST)) - [Re: Trigger-Words...Trigger-Fingers](/archive/1997/02/efbf38bf30cb72397d4cf3f1335246a867d6c8a39bfc6b72ab1108d31a1133c3) - _lwjohnson@grill.sk.ca (Larry Johnson)_

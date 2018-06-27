@@ -46,7 +46,7 @@ Skip, OBC
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[qut<span>@</span>netcom.com (Skip)](/author/qut_at_netcom_com_skip_)"
++ Return to "[qut<span>@</span>netcom.com (Skip)](/authors/qut_at_netcom_com_skip_)"
 
 + 1996-08-21 (Wed, 21 Aug 1996 12:25:24 +0800) - PreRFD: comp.org.cypherpunks - _qut@netcom.com (Skip)_
 

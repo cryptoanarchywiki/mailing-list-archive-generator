@@ -47,7 +47,7 @@ Thanks,
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[Mo Baxter <morpheus<span>@</span>math.whitman.edu>](/author/mo_baxter_morpheus_at_math_whitman_edu_)"
++ Return to "[Mo Baxter <morpheus<span>@</span>math.whitman.edu>](/authors/mo_baxter_morpheus_at_math_whitman_edu_)"
 
 + 1995-01-25 (Wed, 25 Jan 95 12:53:16 PST) - Starting a remailer - _Mo Baxter \<morpheus@math.whitman.edu\>_
 

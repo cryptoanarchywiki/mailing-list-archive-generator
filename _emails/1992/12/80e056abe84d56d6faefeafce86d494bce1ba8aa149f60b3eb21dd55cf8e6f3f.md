@@ -53,7 +53,7 @@ Bill O'Hanlon						 wmo@rebma.mn.org
 
 + Return to [December 1992](/archive/1992/12)
 
-+ Return to "[Bill O'Hanlon <wmo<span>@</span>rebma.rebma.mn.org>](/author/bill_ohanlon_wmo_at_rebma_rebma_mn_org_)"
++ Return to "[Bill O'Hanlon <wmo<span>@</span>rebma.rebma.mn.org>](/authors/bill_ohanlon_wmo_at_rebma_rebma_mn_org_)"
 
 + 1992-12-12 (Sat, 12 Dec 92 15:44:58 PST) - Remailer problem at rebma fixed - _Bill O'Hanlon \<wmo@rebma.rebma.mn.org\>_
 

@@ -68,7 +68,7 @@ lazy DNA ISP.
 
 + Return to [October 1997](/archive/1997/10)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1997-10-28 (Tue, 28 Oct 1997 19:54:35 +0800) - Re: Tim's worst nightmare.,.. - _John Young \<jya@pipeline.com\>_
 

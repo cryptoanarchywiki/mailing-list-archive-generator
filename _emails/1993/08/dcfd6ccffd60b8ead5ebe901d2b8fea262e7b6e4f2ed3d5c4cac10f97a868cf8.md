@@ -70,7 +70,7 @@ Note: I put time and money into writing this posting. I hope you enjoy it.
 
 + Return to [August 1993](/archive/1993/08)
 
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1993-08-14 (Fri, 13 Aug 93 22:33:09 PDT) - Anyone have the Gus Simmons paper? - _tcmay@netcom.com (Timothy C. May)_
 

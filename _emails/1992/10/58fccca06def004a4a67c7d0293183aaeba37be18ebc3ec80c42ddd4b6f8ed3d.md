@@ -43,7 +43,7 @@ My address is
 
 + Return to [October 1992](/archive/1992/10)
 
-+ Return to "[nathanf<span>@</span>cup.portal.com](/author/nathanf_at_cup_portal_com)"
++ Return to "[nathanf<span>@</span>cup.portal.com](/authors/nathanf_at_cup_portal_com)"
 
 + 1992-10-25 (Sun, 25 Oct 92 16:21:58 PPE) - Removal from list - _nathanf@cup.portal.com_
 

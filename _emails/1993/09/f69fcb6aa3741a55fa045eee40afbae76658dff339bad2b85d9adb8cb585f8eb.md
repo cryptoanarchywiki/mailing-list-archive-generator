@@ -126,7 +126,7 @@ WXmsJ3byvEw=
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "[nobody<span>@</span>eli-remailer](/author/nobody_at_eliremailer)"
++ Return to "[nobody<span>@</span>eli-remailer](/authors/nobody_at_eliremailer)"
 
 + 1993-09-05 (Sun, 5 Sep 93 00:27:29 PDT) - A question about pasting - _nobody@eli-remailer_
 

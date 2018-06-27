@@ -83,10 +83,10 @@ Kragen
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "[ebrandt<span>@</span>muddcs.cs.hmc.edu (Eli Brandt)](/author/ebrandt_at_muddcs_cs_hmc_edu_eli_brandt_)"
-+ Return to "[greg<span>@</span>ideath.goldenbear.com (Greg Broiles)](/author/greg_at_ideath_goldenbear_com_greg_broiles_)"
-+ Return to "[Jim choate <ravage<span>@</span>bga.com>](/author/jim_choate_ravage_at_bga_com_)"
-+ Return to "[xentrac<span>@</span>cybele.unm.edu (Kragen J. Sittler)](/author/xentrac_at_cybele_unm_edu_kragen_j_sittler_)"
++ Return to "[ebrandt<span>@</span>muddcs.cs.hmc.edu (Eli Brandt)](/authors/ebrandt_at_muddcs_cs_hmc_edu_eli_brandt_)"
++ Return to "[greg<span>@</span>ideath.goldenbear.com (Greg Broiles)](/authors/greg_at_ideath_goldenbear_com_greg_broiles_)"
++ Return to "[Jim choate <ravage<span>@</span>bga.com>](/authors/jim_choate_ravage_at_bga_com_)"
++ Return to "[xentrac<span>@</span>cybele.unm.edu (Kragen J. Sittler)](/authors/xentrac_at_cybele_unm_edu_kragen_j_sittler_)"
 
 + 1994-07-19 (Tue, 19 Jul 94 01:57:39 PDT) - [Sue D. Nym](/archive/1994/07/fbff1ece638baf31bc06246c6fbc087ea2ff67d6507aba941443d3992ec13d20) - _xentrac@cybele.unm.edu (Kragen J. Sittler)_
   + 1994-07-19 (Tue, 19 Jul 94 02:45:44 PDT) - [Re: Sue D. Nym](/archive/1994/07/71df71e9f90cec9a2b1c40df056930071da5a29def82dd4cfda8d35dc3c285bb) - _ebrandt@muddcs.cs.hmc.edu (Eli Brandt)_

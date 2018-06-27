@@ -63,7 +63,7 @@ The e$ Home Page: http://thumper.vmeng.com/pub/rah/
 
 + Return to [February 1996](/archive/1996/02)
 
-+ Return to "[rah<span>@</span>shipwright.com (Robert Hettinga)](/author/rah_at_shipwright_com_robert_hettinga_)"
++ Return to "[rah<span>@</span>shipwright.com (Robert Hettinga)](/authors/rah_at_shipwright_com_robert_hettinga_)"
 
 + 1996-02-19 (Mon, 19 Feb 1996 22:21:26 +0800) - Re: Anonymous remailers are a virus spreading online! (Replies) - _rah@shipwright.com (Robert Hettinga)_
 

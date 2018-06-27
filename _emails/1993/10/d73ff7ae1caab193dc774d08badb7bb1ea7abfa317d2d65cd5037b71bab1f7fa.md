@@ -64,7 +64,7 @@ Public key availble via finger          #include <standard.disclaimer>
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "["Pat Farrell" <pfarrell<span>@</span>netcom.com>](/author/pat_farrell_pfarrell_at_netcom_com_)"
++ Return to "["Pat Farrell" <pfarrell<span>@</span>netcom.com>](/authors/pat_farrell_pfarrell_at_netcom_com_)"
 
 + 1993-10-09 (Fri, 8 Oct 93 17:15:48 PDT) - Re: The death of the list as we know it (tm) - _"Pat Farrell" \<pfarrell@netcom.com\>_
 

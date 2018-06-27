@@ -121,8 +121,8 @@ Economic speech IS political speech.          wouldn't like that.
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[Petro <petro<span>@</span>playboy.com>](/author/petro_petro_at_playboy_com_)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/author/william_h_geiger_iii_whgiii_at_invweb_net_)"
++ Return to "[Petro <petro<span>@</span>playboy.com>](/authors/petro_petro_at_playboy_com_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>invweb.net>](/authors/william_h_geiger_iii_whgiii_at_invweb_net_)"
 
 + 1998-09-09 (Wed, 9 Sep 1998 14:22:46 +0800) - Re: Citizenship silliness.  Re: e$: crypto-expatriatism - _Petro \<petro@playboy.com\>_
   + 1998-09-09 (Wed, 9 Sep 1998 16:50:26 +0800) - [Re: Citizenship silliness.  Re: e$: crypto-expatriatism](/archive/1998/09/04608d029c8eb41580ccacdba813d58d482b0ee96b5ddf1b1d72b4b2bcedda27) - _"William H. Geiger III" \<whgiii@invweb.net\>_

@@ -49,10 +49,10 @@ easier to trace.
 
 + Return to [July 1993](/archive/1993/07)
 
-+ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/author/derek_atkins_warlord_at_mit_edu_)"
-+ Return to "[Eric Blossom <eb<span>@</span>srlr14.sr.hp.com>](/author/eric_blossom_eb_at_srlr14_sr_hp_com_)"
-+ Return to "[thug<span>@</span>phantom.com (Murdering Thug)](/author/thug_at_phantom_com_murdering_thug_)"
-+ Return to "[wcs<span>@</span>anchor.ho.att.com (Bill_Stewart(HOY002)1305)](/author/wcs_at_anchor_ho_att_com_bill_stewart_hoy002_1305_)"
++ Return to "[Derek Atkins <warlord<span>@</span>MIT.EDU>](/authors/derek_atkins_warlord_at_mit_edu_)"
++ Return to "[Eric Blossom <eb<span>@</span>srlr14.sr.hp.com>](/authors/eric_blossom_eb_at_srlr14_sr_hp_com_)"
++ Return to "[thug<span>@</span>phantom.com (Murdering Thug)](/authors/thug_at_phantom_com_murdering_thug_)"
++ Return to "[wcs<span>@</span>anchor.ho.att.com (Bill_Stewart(HOY002)1305)](/authors/wcs_at_anchor_ho_att_com_bill_stewart_hoy002_1305_)"
 
 + 1993-07-30 (Fri, 30 Jul 93 00:53:59 PDT) - [Re:  I'm not paranoid...  They *are* out to get me!](/archive/1993/07/65081fc8e7686a626e02121b12f93a3feb5d058d3ced2738b9e6a0133ec2c0b7) - _wcs@anchor.ho.att.com (Bill_Stewart(HOY002)1305)_
   + 1993-07-30 (Fri, 30 Jul 93 12:02:56 PDT) - [Tracing Cash](/archive/1993/07/b900e1b05472585286a083d342df275cc006a769d3a7bc02872cebfcb55992b0) - _thug@phantom.com (Murdering Thug)_

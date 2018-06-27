@@ -73,8 +73,8 @@ unicorn@schloss.li
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/author/adam_shostack_adam_at_homeport_org_)"
-+ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[Adam Shostack <adam<span>@</span>homeport.org>](/authors/adam_shostack_adam_at_homeport_org_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/authors/black_unicorn_unicorn_at_schloss_li_)"
 
 + 1996-09-27 (Sat, 28 Sep 1996 01:23:20 +0800) - [RE: LivePGP (fwd)](/archive/1996/09/e90cd9cb0bd0d4feb753a79c654240396164fe17adfefb3d2efade07dcc93299) - _Adam Shostack \<adam@homeport.org\>_
   + 1996-09-28 (Sat, 28 Sep 1996 11:17:56 +0800) - RE: LivePGP (fwd) - _Black Unicorn \<unicorn@schloss.li\>_

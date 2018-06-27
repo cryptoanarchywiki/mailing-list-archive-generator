@@ -71,8 +71,8 @@ Coral Gables, FL 33124 USA | It's hot here.  And humid.
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "["Michael Froomkin - U.Miami School of Law" <froomkin<span>@</span>law.miami.edu>](/author/michael_froomkin__u_miami_school_of_law_froomkin_at_law_miami_edu_)"
-+ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "["Michael Froomkin - U.Miami School of Law" <froomkin<span>@</span>law.miami.edu>](/authors/michael_froomkin__u_miami_school_of_law_froomkin_at_law_miami_edu_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/authors/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-09-13 (Fri, 13 Sep 1996 14:21:45 +0800) - [Re: Fed appellate judge remarks re anonymity](/archive/1996/09/289be9ae57e8ea9a16205e722945fc61d1d11f60449deb68429a3f6701e559c2) - _tcmay@got.net (Timothy C. May)_
   + 1996-09-20 (Fri, 20 Sep 1996 14:47:20 +0800) - Re: Fed appellate judge remarks re anonymity - _"Michael Froomkin - U.Miami School of Law" \<froomkin@law.miami.edu\>_

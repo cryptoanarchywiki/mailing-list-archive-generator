@@ -76,7 +76,7 @@ It might make an interesting experimental project to work on.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "["Robert Rothenburg 'Walking-Owl'" <WlkngOwl<span>@</span>unix.asb.com>](/author/robert_rothenburg_walkingowl_wlkngowl_at_unix_asb_com_)"
++ Return to "["Robert Rothenburg 'Walking-Owl'" <WlkngOwl<span>@</span>unix.asb.com>](/authors/robert_rothenburg_walkingowl_wlkngowl_at_unix_asb_com_)"
 
 + 1997-02-11 (Tue, 11 Feb 1997 06:11:49 -0800 (PST)) - E-cash and distributed computing... - _"Robert Rothenburg 'Walking-Owl'" \<WlkngOwl@unix.asb.com\>_
 

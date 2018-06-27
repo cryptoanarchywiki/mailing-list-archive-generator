@@ -60,8 +60,8 @@ would solve this, but XOR is still very weak.
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[SINCLAIR  DOUGLAS N <sinclai<span>@</span>ecf.toronto.edu>](/author/sinclair_douglas_n_sinclai_at_ecf_toronto_edu_)"
-+ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
++ Return to "[SINCLAIR  DOUGLAS N <sinclai<span>@</span>ecf.toronto.edu>](/authors/sinclair_douglas_n_sinclai_at_ecf_toronto_edu_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/authors/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1995-09-04 (Sun, 3 Sep 95 18:52:47 PDT) - [maximizing cryptographic return](/archive/1995/09/32fbe29715482d369e0b7ab85f48141f0d01eac41f260813ea7272193aee3bbf) - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
   + 1995-09-04 (Sun, 3 Sep 95 20:16:35 PDT) - Re: maximizing cryptographic return - _SINCLAIR  DOUGLAS N \<sinclai@ecf.toronto.edu\>_

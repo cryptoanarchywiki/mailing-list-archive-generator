@@ -58,9 +58,9 @@ enough to pay.
 
 + Return to [June 1994](/archive/1994/06)
 
-+ Return to "[smb<span>@</span>research.att.com](/author/smb_at_research_att_com)"
-+ Return to "[sommerfeld<span>@</span>localhost.medford.ma.us (Bill Sommerfeld)](/author/sommerfeld_at_localhost_medford_ma_us_bill_sommerfeld_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[smb<span>@</span>research.att.com](/authors/smb_at_research_att_com)"
++ Return to "[sommerfeld<span>@</span>localhost.medford.ma.us (Bill Sommerfeld)](/authors/sommerfeld_at_localhost_medford_ma_us_bill_sommerfeld_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-06-01 (Wed, 1 Jun 94 07:54:25 PDT) - [Re: Clipper in patent trouble?](/archive/1994/06/e5a986c14501f216fbcafac2fefab87d42688982a77c83aefa8030c165a75517) - _smb@research.att.com_
   + 1994-06-01 (Wed, 1 Jun 94 09:30:18 PDT) - Re: Clipper in patent trouble? - _sommerfeld@localhost.medford.ma.us (Bill Sommerfeld)_

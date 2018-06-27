@@ -108,8 +108,8 @@ Kill Your Television
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/author/black_unicorn_unicorn_at_schloss_li_)"
-+ Return to "[qut<span>@</span>netcom.com (Be Good)](/author/qut_at_netcom_com_be_good_)"
++ Return to "[Black Unicorn <unicorn<span>@</span>schloss.li>](/authors/black_unicorn_unicorn_at_schloss_li_)"
++ Return to "[qut<span>@</span>netcom.com (Be Good)](/authors/qut_at_netcom_com_be_good_)"
 
 + 1996-06-10 (Mon, 10 Jun 1996 08:09:14 +0800) - Re: Thank you for the Archives 100 messages - _qut@netcom.com (Be Good)_
   + 1996-06-10 (Mon, 10 Jun 1996 09:51:14 +0800) - [Re: Thank you for the Archives 100 messages](/archive/1996/06/10a1a4522b57625ebc85a384d22089885a8703e38528682cff49b46a66471318) - _Black Unicorn \<unicorn@schloss.li\>_

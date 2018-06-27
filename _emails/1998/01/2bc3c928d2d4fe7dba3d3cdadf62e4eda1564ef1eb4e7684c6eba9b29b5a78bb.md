@@ -56,7 +56,7 @@ PS.  Refer a friend and receive a FREE 10 MINUTE card with their purchase!
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[telcard<span>@</span>worldnet.att.net](/author/telcard_at_worldnet_att_net)"
++ Return to "[telcard<span>@</span>worldnet.att.net](/authors/telcard_at_worldnet_att_net)"
 
 + 1998-01-12 (Mon, 12 Jan 1998 02:13:13 -0800 (PST)) - Hi - _telcard@worldnet.att.net_
 

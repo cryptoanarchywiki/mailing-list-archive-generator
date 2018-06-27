@@ -86,8 +86,8 @@ See, no shit-storm (they reserve that for me...;).
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "[b!X <bix<span>@</span>geekforce.org>](/author/bx_bix_at_geekforce_org_)"
-+ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[b!X <bix<span>@</span>geekforce.org>](/authors/bx_bix_at_geekforce_org_)"
++ Return to "[Jim Choate <ravage<span>@</span>einstein.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-11-11 (Wed, 11 Nov 1998 11:53:39 +0800) - Re: IP: Clinton Wants Loophole In U.S. Free Speech Closed (fwd) - _Jim Choate \<ravage@einstein.ssz.com\>_
   + 1998-11-11 (Wed, 11 Nov 1998 21:46:37 +0800) - [Re: IP: Clinton Wants Loophole In U.S. Free Speech Closed (fwd)](/archive/1998/11/f57832c0d0af65db20d6cb927e01568a1051212cf3df87e5d7cf76d983d394c2) - _b!X \<bix@geekforce.org\>_

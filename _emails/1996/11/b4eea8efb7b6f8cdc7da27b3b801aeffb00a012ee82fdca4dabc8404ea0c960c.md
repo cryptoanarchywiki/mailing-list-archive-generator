@@ -58,7 +58,7 @@ did use.
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[Sean Roach <roach_s<span>@</span>alph.swosu.edu>](/author/sean_roach_roach_s_at_alph_swosu_edu_)"
++ Return to "[Sean Roach <roach_s<span>@</span>alph.swosu.edu>](/authors/sean_roach_roach_s_at_alph_swosu_edu_)"
 
 + 1996-11-16 (Sat, 16 Nov 1996 13:32:13 -0800 (PST)) - Re: [REBUTTAL] Censorship on cypherpunks?, from The Netly News - _Sean Roach \<roach_s@alph.swosu.edu\>_
 

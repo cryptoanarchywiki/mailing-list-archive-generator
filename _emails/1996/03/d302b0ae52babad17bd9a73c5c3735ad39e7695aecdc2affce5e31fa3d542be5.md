@@ -140,8 +140,8 @@ Mobile: 1-503-260-3666
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "[Michael Froomkin <froomkin<span>@</span>law.miami.edu>](/author/michael_froomkin_froomkin_at_law_miami_edu_)"
-+ Return to "[proff<span>@</span>.suburbia.net (Julian Assange)](/author/proff_at__suburbia_net_julian_assange_)"
++ Return to "[Michael Froomkin <froomkin<span>@</span>law.miami.edu>](/authors/michael_froomkin_froomkin_at_law_miami_edu_)"
++ Return to "[proff<span>@</span>.suburbia.net (Julian Assange)](/authors/proff_at__suburbia_net_julian_assange_)"
 
 + 1996-03-03 (Sun, 3 Mar 1996 16:32:02 +0800) - (fwd) USA / Australia - Civil Liberty - _proff@.suburbia.net (Julian Assange)_
   + 1996-03-03 (Mon, 4 Mar 1996 06:34:44 +0800) - [Re: (fwd) USA / Australia - Civil Liberty](/archive/1996/03/738956b70d957a1fc43aaa3a61370b8913da1f47408d1c08ae32f96112038b23) - _Michael Froomkin \<froomkin@law.miami.edu\>_

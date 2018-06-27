@@ -52,7 +52,7 @@ Jamie@netcom.com    415.941.4782
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[jamie<span>@</span>netcom.com (Jamie Dinkelacker)](/author/jamie_at_netcom_com_jamie_dinkelacker_)"
++ Return to "[jamie<span>@</span>netcom.com (Jamie Dinkelacker)](/authors/jamie_at_netcom_com_jamie_dinkelacker_)"
 
 + 1993-10-25 (Sun, 24 Oct 93 18:08:45 PDT) - Content vanquishes PSEUDOSPOOFING - _jamie@netcom.com (Jamie Dinkelacker)_
 

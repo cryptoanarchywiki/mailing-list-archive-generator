@@ -75,7 +75,7 @@ Archives, FAQ, words and more at the WWW site: http://www.wordsmith.org/awad/
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/author/sandy_sandfort_sandfort_at_crl_com_)"
++ Return to "[Sandy Sandfort <sandfort<span>@</span>crl.com>](/authors/sandy_sandfort_sandfort_at_crl_com_)"
 
 + 1996-11-23 (Sat, 23 Nov 1996 09:54:27 -0800 (PST)) - A.Word.A.Day--syncope (fwd) - _Sandy Sandfort \<sandfort@crl.com\>_
 

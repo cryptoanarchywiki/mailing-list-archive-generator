@@ -112,7 +112,7 @@ Here are excerpts:
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[jya<span>@</span>pipeline.com (John Young)](/author/jya_at_pipeline_com_john_young_)"
++ Return to "[jya<span>@</span>pipeline.com (John Young)](/authors/jya_at_pipeline_com_john_young_)"
 
 + 1996-09-24 (Wed, 25 Sep 1996 07:27:45 +0800) - ICI_96x - _jya@pipeline.com (John Young)_
 

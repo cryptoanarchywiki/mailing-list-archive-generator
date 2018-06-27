@@ -68,7 +68,7 @@ P.S.  This post is in the public domain.
 
 + Return to [November 1995](/archive/1995/11)
 
-+ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/author/anonymousremailer_at_shell_portal_com)"
++ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/authors/anonymousremailer_at_shell_portal_com)"
 
 + 1995-11-30 (Fri, 1 Dec 1995 02:12:57 +0800) - [List of reliable remailers](/archive/1995/11/fd66714e8c2079c5b00b3612d96acf1851d776a2adb032ad01d0d99c1b32a0af) - _anonymous-remailer@shell.portal.com_
   + 1995-11-30 (Fri, 1 Dec 1995 06:03:22 +0800) - Re: List of reliable remailers - _anonymous-remailer@shell.portal.com_

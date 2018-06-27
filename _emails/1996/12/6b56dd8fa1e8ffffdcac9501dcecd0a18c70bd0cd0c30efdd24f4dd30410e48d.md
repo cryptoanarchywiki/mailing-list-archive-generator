@@ -82,8 +82,8 @@ There is a summary of this document and ordering info at:
 
 + Return to [December 1996](/archive/1996/12)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
-+ Return to "[Rich Graves <rcgraves<span>@</span>ix.netcom.com>](/author/rich_graves_rcgraves_at_ix_netcom_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
++ Return to "[Rich Graves <rcgraves<span>@</span>ix.netcom.com>](/authors/rich_graves_rcgraves_at_ix_netcom_com_)"
 
 + 1996-12-09 (Mon, 9 Dec 1996 11:36:23 -0800 (PST)) - The Advent of Netwar - _John Young \<jya@pipeline.com\>_
   + 1996-12-10 (Mon, 9 Dec 1996 19:18:18 -0800 (PST)) - [Re: The Advent of Netwar](/archive/1996/12/8405c600161d33bcf9c191ba4b721147c2a6f48e0cedb16a63d10b32bc0e8ee7) - _Rich Graves \<rcgraves@ix.netcom.com\>_

@@ -43,8 +43,8 @@ has a marked tendency to get SEGVs when destroying fifos...
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "[Derek Atkins <warlord<span>@</span>ATHENA.MIT.EDU>](/author/derek_atkins_warlord_at_athena_mit_edu_)"
-+ Return to "["Rev. Mark Grant" <mark<span>@</span>unicorn.com>](/author/rev_mark_grant_mark_at_unicorn_com_)"
++ Return to "[Derek Atkins <warlord<span>@</span>ATHENA.MIT.EDU>](/authors/derek_atkins_warlord_at_athena_mit_edu_)"
++ Return to "["Rev. Mark Grant" <mark<span>@</span>unicorn.com>](/authors/rev_mark_grant_mark_at_unicorn_com_)"
 
 + 1995-08-10 (Thu, 10 Aug 95 06:15:34 PDT) - PGP Tools on Linux - _"Rev. Mark Grant" \<mark@unicorn.com\>_
   + 1995-08-10 (Thu, 10 Aug 95 11:45:51 PDT) - [Re: PGP Tools on Linux](/archive/1995/08/383e05ef14d13ede4025a86dc822e07b27da6adbdb0a0372756630b3e0160ef9) - _Derek Atkins \<warlord@ATHENA.MIT.EDU\>_

@@ -81,7 +81,7 @@ eybgP/vYvz8=
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/authors/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-02-11 (Tue, 11 Feb 1997 06:11:34 -0800 (PST)) - Re: META: Censorship is Going Way too Far - _"William H. Geiger III" \<whgiii@amaranth.com\>_
 

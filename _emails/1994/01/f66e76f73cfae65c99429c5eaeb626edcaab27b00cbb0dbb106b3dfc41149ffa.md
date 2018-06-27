@@ -56,7 +56,7 @@ what a delightful contest. Glad that everyone is enjoying it, even Medusa.
 
 + Return to [January 1994](/archive/1994/01)
 
-+ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/author/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
++ Return to "["L. Detweiler" <ld231782<span>@</span>longs.lance.colostate.edu>](/authors/l_detweiler_ld231782_at_longs_lance_colostate_edu_)"
 
 + _Unknown thread root_
   + 1994-01-23 (Sat, 22 Jan 94 18:46:27 PST) - Re: Found a snake/tentacle! - _"L. Detweiler" \<ld231782@longs.lance.colostate.edu\>_

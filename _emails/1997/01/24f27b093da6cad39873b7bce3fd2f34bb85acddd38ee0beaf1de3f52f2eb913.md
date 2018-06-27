@@ -78,8 +78,8 @@ If encryption is outlawed, only outlaws will have encryption...
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "[harka<span>@</span>nycmetro.com](/author/harka_at_nycmetro_com)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
++ Return to "[harka<span>@</span>nycmetro.com](/authors/harka_at_nycmetro_com)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/authors/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-01-29 (Wed, 29 Jan 1997 07:11:29 -0800 (PST)) - PGP Key Preview... - _harka@nycmetro.com_
   + 1997-01-29 (Wed, 29 Jan 1997 13:11:48 -0800 (PST)) - [Re: PGP Key Preview...](/archive/1997/01/d9c2f3ea21f790b6a505b951f4c2dc3934b60e2407dacc5ed7fc30cf36c841e5) - _"William H. Geiger III" \<whgiii@amaranth.com\>_

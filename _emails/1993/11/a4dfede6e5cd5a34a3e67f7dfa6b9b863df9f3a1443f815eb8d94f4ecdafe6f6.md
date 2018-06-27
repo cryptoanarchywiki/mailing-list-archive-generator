@@ -56,7 +56,7 @@ Illuminati Online          metaverse.io.com 7777          /______\
 
 + Return to [November 1993](/archive/1993/11)
 
-+ Return to "[cman<span>@</span>caffeine.io.com (Douglas Barnes)](/author/cman_at_caffeine_io_com_douglas_barnes_)"
++ Return to "[cman<span>@</span>caffeine.io.com (Douglas Barnes)](/authors/cman_at_caffeine_io_com_douglas_barnes_)"
 
 + 1993-11-30 (Tue, 30 Nov 93 00:27:21 PST) - The REAL Conspiracy - _cman@caffeine.io.com (Douglas Barnes)_
 

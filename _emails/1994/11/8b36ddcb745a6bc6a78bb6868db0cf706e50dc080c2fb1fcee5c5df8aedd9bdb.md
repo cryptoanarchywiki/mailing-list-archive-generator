@@ -60,7 +60,7 @@ inevitable."  John F. Kennedy
 
 + Return to [November 1994](/archive/1994/11)
 
-+ Return to "[merriman<span>@</span>metronet.com (David K. Merriman)](/author/merriman_at_metronet_com_david_k_merriman_)"
++ Return to "[merriman<span>@</span>metronet.com (David K. Merriman)](/authors/merriman_at_metronet_com_david_k_merriman_)"
 
 + 1994-11-27 (Sat, 26 Nov 94 22:01:53 PST) - PGP DLL (revisited - kinda) - _merriman@metronet.com (David K. Merriman)_
 

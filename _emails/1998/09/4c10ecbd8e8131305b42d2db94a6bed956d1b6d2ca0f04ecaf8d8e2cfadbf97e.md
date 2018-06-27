@@ -75,8 +75,8 @@ forgotten this.
 + Return to [September 1998](/archive/1998/09)
 + Return to [October 1998](/archive/1998/10)
 
-+ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
-+ Return to "[Petro <petro<span>@</span>playboy.com>](/author/petro_petro_at_playboy_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Petro <petro<span>@</span>playboy.com>](/authors/petro_petro_at_playboy_com_)"
 
 + 1998-09-30 (Wed, 30 Sep 1998 19:57:03 +0800) - Re: advertisement (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
   + 1998-10-01 (Thu, 1 Oct 1998 14:30:25 +0800) - [Re: advertisement (fwd)](/archive/1998/10/bdc79a16de4aba742f4b42b79e8dd5290a50576ccd1b1970d48f3030dfc0a9e8) - _Petro \<petro@playboy.com\>_

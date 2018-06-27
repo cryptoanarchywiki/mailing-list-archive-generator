@@ -48,8 +48,8 @@ G
 
 + Return to [June 1994](/archive/1994/06)
 
-+ Return to "[Graham Toal <gtoal<span>@</span>an-teallach.com>](/author/graham_toal_gtoal_at_anteallach_com_)"
-+ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/author/perry_e_metzger_perry_at_imsi_com_)"
++ Return to "[Graham Toal <gtoal<span>@</span>an-teallach.com>](/authors/graham_toal_gtoal_at_anteallach_com_)"
++ Return to "["Perry E. Metzger" <perry<span>@</span>imsi.com>](/authors/perry_e_metzger_perry_at_imsi_com_)"
 
 + 1994-06-02 (Thu, 2 Jun 94 11:02:59 PDT) - Re: what I can say... - _Graham Toal \<gtoal@an-teallach.com\>_
   + 1994-06-02 (Thu, 2 Jun 94 11:45:10 PDT) - [Re: what I can say...](/archive/1994/06/5b8e5ef2b4be75aec6400f74c9dde21a17f1d3dae16fc870d0984f2eb9ea3997) - _"Perry E. Metzger" \<perry@imsi.com\>_

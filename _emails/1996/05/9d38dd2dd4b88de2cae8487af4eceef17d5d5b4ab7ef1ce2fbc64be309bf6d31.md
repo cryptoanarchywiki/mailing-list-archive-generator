@@ -82,7 +82,7 @@ the classifieds of Rolling Stone or some such place.
 
 + Return to [May 1996](/archive/1996/05)
 
-+ Return to "[Jay Quinby <jquinby<span>@</span>fivepaces.com>](/author/jay_quinby_jquinby_at_fivepaces_com_)"
++ Return to "[Jay Quinby <jquinby<span>@</span>fivepaces.com>](/authors/jay_quinby_jquinby_at_fivepaces_com_)"
 
 + 1996-05-22 (Wed, 22 May 1996 10:06:02 +0800) - Re: Remailer extensions - _Jay Quinby \<jquinby@fivepaces.com\>_
 

@@ -82,7 +82,7 @@ function FindProxyForURL(url, host) {
 
 + Return to [January 1997](/archive/1997/01)
 
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
 
 + 1997-01-30 (Thu, 30 Jan 1997 14:23:34 -0800 (PST)) - ad.doubleclick.net (fwd) - _"Mark M." \<markm@voicenet.com\>_
 

@@ -108,8 +108,8 @@ Illuminati Online          metaverse.io.com 7777          /______\
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[cman<span>@</span>IO.COM (Douglas Barnes)](/author/cman_at_io_com_douglas_barnes_)"
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[cman<span>@</span>IO.COM (Douglas Barnes)](/authors/cman_at_io_com_douglas_barnes_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1993-10-25 (Mon, 25 Oct 93 10:29:21 PDT) - [Re: Net Regulation](/archive/1993/10/fd37b8526ac8249892906e78460eb63c2666de2633eb0b9e10b5ab13a68b4334) - _Duncan Frissell \<frissell@panix.com\>_
   + 1993-10-25 (Mon, 25 Oct 93 15:53:21 PDT) - Re: Net Regulation - _cman@IO.COM (Douglas Barnes)_

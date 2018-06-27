@@ -81,7 +81,7 @@ aO3vQZHHFTI=
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[lucifer <lucifer<span>@</span>dhp.com>](/author/lucifer_lucifer_at_dhp_com_)"
++ Return to "[lucifer <lucifer<span>@</span>dhp.com>](/authors/lucifer_lucifer_at_dhp_com_)"
 
 + 1996-06-26 (Thu, 27 Jun 1996 06:20:38 +0800) - Lucifer remailer - _lucifer \<lucifer@dhp.com\>_
 

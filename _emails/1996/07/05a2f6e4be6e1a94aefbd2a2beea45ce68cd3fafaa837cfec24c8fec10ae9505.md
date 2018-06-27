@@ -70,7 +70,7 @@ lK[d2%Sa2/d0$^Ixp"|dc`;s/\W//g;$_=pack('H*',/((..)*)$/)
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[aba<span>@</span>atlas.ex.ac.uk](/author/aba_at_atlas_ex_ac_uk)"
++ Return to "[aba<span>@</span>atlas.ex.ac.uk](/authors/aba_at_atlas_ex_ac_uk)"
 
 + 1996-07-30 (Wed, 31 Jul 1996 07:35:22 +0800) - crypto CD source - _aba@atlas.ex.ac.uk_
 

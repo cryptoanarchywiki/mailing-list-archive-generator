@@ -51,7 +51,7 @@ http://www.shellback.com/personal/merriman/index.htm
 
 + Return to [March 1996](/archive/1996/03)
 
-+ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/author/david_k_merriman_merriman_at_arn_net_)"
++ Return to "["David K. Merriman" <merriman<span>@</span>arn.net>](/authors/david_k_merriman_merriman_at_arn_net_)"
 
 + 1996-03-20 (Wed, 20 Mar 1996 19:25:12 +0800) - Re: DESCRIBE - _"David K. Merriman" \<merriman@arn.net\>_
 

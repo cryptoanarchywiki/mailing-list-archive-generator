@@ -57,8 +57,8 @@ course, the inevitable delays from sending the pages out by snail-mail.
 
 + Return to [July 1997](/archive/1997/07)
 
-+ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
-+ Return to "[Mark Grant <mark<span>@</span>unicorn.com>](/author/mark_grant_mark_at_unicorn_com_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/authors/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[Mark Grant <mark<span>@</span>unicorn.com>](/authors/mark_grant_mark_at_unicorn_com_)"
 
 + 1997-07-10 (Fri, 11 Jul 1997 03:47:51 +0800) - Re: More PGP volunteers needed - _Mark Grant \<mark@unicorn.com\>_
   + 1997-07-10 (Fri, 11 Jul 1997 06:58:32 +0800) - [Re: More PGP volunteers needed](/archive/1997/07/2c16d6ca64f8c8c187af4ba6f2a382e4642e8dffa4a9b10f34e60b4d14e7c560) - _Lucky Green \<shamrock@netcom.com\>_

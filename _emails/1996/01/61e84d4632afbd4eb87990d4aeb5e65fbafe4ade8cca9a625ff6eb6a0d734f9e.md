@@ -106,7 +106,7 @@ Jonathan
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[Jonathan Zamick <JonathanZ<span>@</span>consensus.com>](/author/jonathan_zamick_jonathanz_at_consensus_com_)"
++ Return to "[Jonathan Zamick <JonathanZ<span>@</span>consensus.com>](/authors/jonathan_zamick_jonathanz_at_consensus_com_)"
 
 + 1996-01-22 (Mon, 22 Jan 96 09:40:05 PST) - An IDEA whose time has come (Notes from the RSA Conference) - _Jonathan Zamick \<JonathanZ@consensus.com\>_
 

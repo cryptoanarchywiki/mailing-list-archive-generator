@@ -86,9 +86,9 @@ criminalistic days..
 
 + Return to [September 1997](/archive/1997/09)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
-+ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/author/robert_hettinga_rah_at_shipwright_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
++ Return to "[Robert Hettinga <rah<span>@</span>shipwright.com>](/authors/robert_hettinga_rah_at_shipwright_com_)"
 
 + 1997-09-09 (Wed, 10 Sep 1997 04:50:17 +0800) - [Credit Card might-as-well-equal SSN](/archive/1997/09/ef8a979a92b72a53d50af8b6e6d51448692a7441df328b1eae7d4cc0ec0e93f7) - _Robert Hettinga \<rah@shipwright.com\>_
   + 1997-09-10 (Wed, 10 Sep 1997 08:07:12 +0800) - Re: Credit Card might-as-well-equal SSN - _nobody@REPLAY.COM (Anonymous)_

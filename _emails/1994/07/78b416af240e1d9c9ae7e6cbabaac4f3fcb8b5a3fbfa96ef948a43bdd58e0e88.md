@@ -59,9 +59,9 @@ could be criminally penalized.
 
 + Return to [July 1994](/archive/1994/07)
 
-+ Return to "[Carl Ellison <cme<span>@</span>tis.com>](/author/carl_ellison_cme_at_tis_com_)"
-+ Return to "[Rick Busdiecker <rfb<span>@</span>lehman.com>](/author/rick_busdiecker_rfb_at_lehman_com_)"
-+ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/author/tcmay_at_netcom_com_timothy_c_may_)"
++ Return to "[Carl Ellison <cme<span>@</span>tis.com>](/authors/carl_ellison_cme_at_tis_com_)"
++ Return to "[Rick Busdiecker <rfb<span>@</span>lehman.com>](/authors/rick_busdiecker_rfb_at_lehman_com_)"
++ Return to "[tcmay<span>@</span>netcom.com (Timothy C. May)](/authors/tcmay_at_netcom_com_timothy_c_may_)"
 
 + 1994-07-19 (Tue, 19 Jul 94 08:26:54 PDT) - [Nat'l ID # ?](/archive/1994/07/ffd4ee7b96f92e507c234616c1a2e8533b957f444e4ec5d6059f8b899347b40f) - _Carl Ellison \<cme@tis.com\>_
   + 1994-07-19 (Tue, 19 Jul 94 11:00:42 PDT) - Re: Nat'l ID # ? - _Rick Busdiecker \<rfb@lehman.com\>_

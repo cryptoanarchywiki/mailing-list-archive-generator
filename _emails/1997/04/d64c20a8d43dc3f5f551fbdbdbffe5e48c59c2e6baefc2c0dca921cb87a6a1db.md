@@ -54,8 +54,8 @@ clueless anyone?
 
 + Return to [April 1997](/archive/1997/04)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
-+ Return to "[snow <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
++ Return to "[snow <snow<span>@</span>smoke.suba.com>](/authors/snow_snow_at_smoke_suba_com_)"
 
 + 1997-04-24 (Thu, 24 Apr 1997 09:36:21 -0700 (PDT)) - [New Crypto Panel](/archive/1997/04/7de1e837bfd4c667ec8191b4f2b7a83fd540f5e1a4a2abab73d9c9145a873e87) - _John Young \<jya@pipeline.com\>_
   + 1997-04-27 (Sun, 27 Apr 1997 15:22:06 -0700 (PDT)) - Re: New Crypto Panel - _snow \<snow@smoke.suba.com\>_

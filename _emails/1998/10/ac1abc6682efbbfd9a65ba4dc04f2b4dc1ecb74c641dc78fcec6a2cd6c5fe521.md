@@ -57,7 +57,7 @@ for conspiracy to possess terrorist weapons of mass destruction!
 
 + Return to [October 1998](/archive/1998/10)
 
-+ Return to "[Anonymous <nobody<span>@</span>remailer.ch>](/author/anonymous_nobody_at_remailer_ch_)"
++ Return to "[Anonymous <nobody<span>@</span>remailer.ch>](/authors/anonymous_nobody_at_remailer_ch_)"
 
 + 1998-10-30 (Sat, 31 Oct 1998 00:49:11 +0800) - Re: Airline id - _Anonymous \<nobody@remailer.ch\>_
 

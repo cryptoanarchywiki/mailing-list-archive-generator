@@ -67,7 +67,7 @@ jimbell@pacifier.com
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
 
 + 1996-08-15 (Fri, 16 Aug 1996 07:22:00 +0800) - Re: Schlafly helped defeat ERA, supported Goldwater--where do I sign up? - _jim bell \<jimbell@pacifier.com\>_
 

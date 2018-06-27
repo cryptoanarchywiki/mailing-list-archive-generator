@@ -68,8 +68,8 @@ used by that same entity.
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[<nobody<span>@</span>vox.hacktic.nl>](/author/_nobody_at_vox_hacktic_nl_)"
-+ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/author/hughes_at_ah_com_eric_hughes_)"
++ Return to "[<nobody<span>@</span>vox.hacktic.nl>](/authors/_nobody_at_vox_hacktic_nl_)"
++ Return to "[hughes<span>@</span>ah.com (Eric Hughes)](/authors/hughes_at_ah_com_eric_hughes_)"
 
 + 1994-08-18 (Thu, 18 Aug 94 03:58:21 PDT) - CIA Using Remailer System? - _\<nobody@vox.hacktic.nl\>_
   + 1994-08-19 (Fri, 19 Aug 94 12:23:06 PDT) - [CIA Using Remailer System?](/archive/1994/08/08013b0e03ae61ba610e76bacd0f549e11e2c36eb4ec16961cfc29a3e928b0c7) - _hughes@ah.com (Eric Hughes)_

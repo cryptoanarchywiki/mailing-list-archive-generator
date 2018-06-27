@@ -47,7 +47,7 @@ threshold system so m of n people have to cooperate to decrypt it.
 
 + Return to [August 1995](/archive/1995/08)
 
-+ Return to "[Mike Ingle <inglem<span>@</span>adnetsol.com>](/author/mike_ingle_inglem_at_adnetsol_com_)"
++ Return to "[Mike Ingle <inglem<span>@</span>adnetsol.com>](/authors/mike_ingle_inglem_at_adnetsol_com_)"
 
 + 1995-08-31 (Wed, 30 Aug 95 23:41:49 PDT) - RSA Secure (disk encryption) - _Mike Ingle \<inglem@adnetsol.com\>_
 

@@ -56,7 +56,7 @@ or load copies of it to other sites to reduce congestion on Netcom...
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1995-12-24 (Sun, 24 Dec 1995 11:22:52 +0800) - Re: cyphernomicon FTP site? - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

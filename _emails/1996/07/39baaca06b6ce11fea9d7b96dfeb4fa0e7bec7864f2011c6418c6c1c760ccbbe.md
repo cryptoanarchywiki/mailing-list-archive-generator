@@ -111,7 +111,7 @@ End crypto-news
 
 + Return to [July 1996](/archive/1996/07)
 
-+ Return to "[Voters Telecommunications Watch <shabbir<span>@</span>vtw.org>](/author/voters_telecommunications_watch_shabbir_at_vtw_org_)"
++ Return to "[Voters Telecommunications Watch <shabbir<span>@</span>vtw.org>](/authors/voters_telecommunications_watch_shabbir_at_vtw_org_)"
 
 + 1996-07-21 (Sun, 21 Jul 1996 09:32:15 +0800) - INFO: Submit your testimony to Congress for hearings on July 25! - _Voters Telecommunications Watch \<shabbir@vtw.org\>_
 

@@ -83,9 +83,9 @@ snow@smoke.suba.com
 
 + Return to [August 1997](/archive/1997/08)
 
-+ Return to "[Alex Le Heux <alexlh<span>@</span>xs4all.nl>](/author/alex_le_heux_alexlh_at_xs4all_nl_)"
-+ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/author/lucky_green_shamrock_at_netcom_com_)"
-+ Return to "[snow <snow<span>@</span>smoke.suba.com>](/author/snow_snow_at_smoke_suba_com_)"
++ Return to "[Alex Le Heux <alexlh<span>@</span>xs4all.nl>](/authors/alex_le_heux_alexlh_at_xs4all_nl_)"
++ Return to "[Lucky Green <shamrock<span>@</span>netcom.com>](/authors/lucky_green_shamrock_at_netcom_com_)"
++ Return to "[snow <snow<span>@</span>smoke.suba.com>](/authors/snow_snow_at_smoke_suba_com_)"
 
 + _Unknown thread root_
   + 1997-08-26 (Wed, 27 Aug 1997 04:04:30 +0800) - [Re: Welfare Solution #389](/archive/1997/08/f9a6486c6b50ba38bd6f6846111c61b5bc8c09e96b6992f5a2c3b5c24dee9b68) - _Alex Le Heux \<alexlh@xs4all.nl\>_

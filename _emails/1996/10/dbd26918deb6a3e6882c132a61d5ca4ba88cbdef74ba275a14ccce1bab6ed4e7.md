@@ -61,8 +61,8 @@ The Netherlands  |                (Howard Nemerov)                  |
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "["Bert-Jaap Koops" <E.J.Koops<span>@</span>kub.nl>](/author/bertjaap_koops_e_j_koops_at_kub_nl_)"
-+ Return to "["Douglas B. Renner" <dougr<span>@</span>skypoint-gw.globelle.com>](/author/douglas_b_renner_dougr_at_skypointgw_globelle_com_)"
++ Return to "["Bert-Jaap Koops" <E.J.Koops<span>@</span>kub.nl>](/authors/bertjaap_koops_e_j_koops_at_kub_nl_)"
++ Return to "["Douglas B. Renner" <dougr<span>@</span>skypoint-gw.globelle.com>](/authors/douglas_b_renner_dougr_at_skypointgw_globelle_com_)"
 
 + 1996-10-22 (Tue, 22 Oct 1996 01:32:25 -0700 (PDT)) - Re: Prof Shamir arrested - _"Bert-Jaap Koops" \<E.J.Koops@kub.nl\>_
   + 1996-10-22 (Tue, 22 Oct 1996 11:15:26 -0700 (PDT)) - [Re: Prof Shamir arrested](/archive/1996/10/8086a71a13fbee9f495aecf2195f90a89e7ac433d7a426e29000bd1b68ea6e0a) - _"Douglas B. Renner" \<dougr@skypoint-gw.globelle.com\>_

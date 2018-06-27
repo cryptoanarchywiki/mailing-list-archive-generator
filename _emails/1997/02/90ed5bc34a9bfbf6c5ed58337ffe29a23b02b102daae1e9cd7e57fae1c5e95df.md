@@ -81,8 +81,8 @@ roUg/9SDCZysmuEvNh8VMLAd492wD2jhge4LiiYaSNWrpe5JD2jA/nJ9Olevpu3v
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
 
 + 1997-02-02 (Sat, 1 Feb 1997 17:56:42 -0800 (PST)) - [Re: Libel & the 1st Amendment](/archive/1997/02/3ce030614752a6769bc4748bbc5d5a483e7232ea92e2100a30e44224687cd570) - _jim bell \<jimbell@pacifier.com\>_
   + 1997-02-02 (Sat, 1 Feb 1997 19:51:41 -0800 (PST)) - Re: Libel & the 1st Amendment - _"Mark M." \<markm@voicenet.com\>_

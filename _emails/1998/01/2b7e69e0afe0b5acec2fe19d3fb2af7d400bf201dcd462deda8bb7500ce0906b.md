@@ -48,7 +48,7 @@ Since when is Tim a government official?
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[Secret Squirrel <anon<span>@</span>squirrel.owl.de>](/author/secret_squirrel_anon_at_squirrel_owl_de_)"
++ Return to "[Secret Squirrel <anon<span>@</span>squirrel.owl.de>](/authors/secret_squirrel_anon_at_squirrel_owl_de_)"
 
 + 1998-01-11 (Sun, 11 Jan 1998 17:52:12 +0800) - Accounts payable - _Secret Squirrel \<anon@squirrel.owl.de\>_
 

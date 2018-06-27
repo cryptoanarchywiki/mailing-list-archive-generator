@@ -156,7 +156,7 @@ David
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[davidm<span>@</span>iconz.co.nz (David Murray)](/author/davidm_at_iconz_co_nz_david_murray_)"
++ Return to "[davidm<span>@</span>iconz.co.nz (David Murray)](/authors/davidm_at_iconz_co_nz_david_murray_)"
 
 + 1995-01-20 (Fri, 20 Jan 95 13:22:09 PST) - Little ebanks -- a modest proposal. - _davidm@iconz.co.nz (David Murray)_
 

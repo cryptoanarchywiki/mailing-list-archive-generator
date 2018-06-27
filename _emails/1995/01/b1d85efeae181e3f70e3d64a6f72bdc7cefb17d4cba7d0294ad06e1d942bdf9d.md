@@ -61,7 +61,7 @@ Richard K. Moore - rkmoore@iol.ie - Wexford, Ireland - fax +353 53 23970
 
 + Return to [January 1995](/archive/1995/01)
 
-+ Return to "[rkmoore<span>@</span>iol.ie (Richard K. Moore)](/author/rkmoore_at_iol_ie_richard_k_moore_)"
++ Return to "[rkmoore<span>@</span>iol.ie (Richard K. Moore)](/authors/rkmoore_at_iol_ie_richard_k_moore_)"
 
 + 1995-01-27 (Fri, 27 Jan 95 05:57:01 PST) - re: Wei Dei: monitoring - _rkmoore@iol.ie (Richard K. Moore)_
 

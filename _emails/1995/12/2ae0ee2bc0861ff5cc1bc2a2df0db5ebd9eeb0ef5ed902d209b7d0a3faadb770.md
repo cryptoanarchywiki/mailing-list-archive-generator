@@ -60,7 +60,7 @@ and company assets.
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[ecarp<span>@</span>tssun5.dsccc.com](/author/ecarp_at_tssun5_dsccc_com)"
++ Return to "[ecarp<span>@</span>tssun5.dsccc.com](/authors/ecarp_at_tssun5_dsccc_com)"
 
 + 1995-12-29 (Fri, 29 Dec 1995 15:50:17 +0800) - Re: Employer Probing Precedents? - _ecarp@tssun5.dsccc.com_
 

@@ -73,7 +73,7 @@ Content-Type: text/plain
 
 + Return to [October 1996](/archive/1996/10)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1996-10-17 (Thu, 17 Oct 1996 14:54:35 -0700 (PDT)) - EUP_hem - _John Young \<jya@pipeline.com\>_
 

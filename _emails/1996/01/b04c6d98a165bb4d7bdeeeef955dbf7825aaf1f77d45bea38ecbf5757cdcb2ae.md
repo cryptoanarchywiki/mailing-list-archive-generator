@@ -46,7 +46,7 @@ Student , Staff , And The MAN
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[srw134<span>@</span>psu.edu (Sean Wilkins)](/author/srw134_at_psu_edu_sean_wilkins_)"
++ Return to "[srw134<span>@</span>psu.edu (Sean Wilkins)](/authors/srw134_at_psu_edu_sean_wilkins_)"
 
 + 1996-01-07 (Sun, 7 Jan 1996 09:22:36 +0800) - No Subject - _srw134@psu.edu (Sean Wilkins)_
 

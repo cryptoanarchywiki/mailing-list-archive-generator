@@ -81,8 +81,8 @@ Ma29OH+tgxk=
 
 + Return to [June 1997](/archive/1997/06)
 
-+ Return to "[geeman <geeman<span>@</span>best.com>](/author/geeman_geeman_at_best_com_)"
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
++ Return to "[geeman <geeman<span>@</span>best.com>](/authors/geeman_geeman_at_best_com_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/authors/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-06-22 (Mon, 23 Jun 1997 01:48:39 +0800) - Re: The Global Fix is In - _"William H. Geiger III" \<whgiii@amaranth.com\>_
   + 1997-06-22 (Mon, 23 Jun 1997 02:19:52 +0800) - [special interest profile: McCain](/archive/1997/06/afca5f7b7414a4e87900a0756fac93750783c748255d2f6844db5ddf1e596d32) - _geeman \<geeman@best.com\>_

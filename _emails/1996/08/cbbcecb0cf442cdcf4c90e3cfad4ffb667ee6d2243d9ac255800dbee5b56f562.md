@@ -71,7 +71,7 @@ jfa
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "["Jean-Francois Avon" <jf_avon<span>@</span>citenet.net>](/author/jeanfrancois_avon_jf_avon_at_citenet_net_)"
++ Return to "["Jean-Francois Avon" <jf_avon<span>@</span>citenet.net>](/authors/jeanfrancois_avon_jf_avon_at_citenet_net_)"
 
 + 1996-08-31 (Sat, 31 Aug 1996 08:24:52 +0800) - Re: **"OuR" Project press release** (fwd) - _"Jean-Francois Avon" \<jf_avon@citenet.net\>_
 

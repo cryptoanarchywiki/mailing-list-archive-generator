@@ -63,8 +63,8 @@ INTERNET: M..Stirner@f28.n125.z1.FIDONET.ORG
 
 + Return to [September 1993](/archive/1993/09)
 
-+ Return to "[Johan Helsingius <julf<span>@</span>penet.FI>](/author/johan_helsingius_julf_at_penet_fi_)"
-+ Return to "[M..Stirner<span>@</span>f28.n125.z1.FIDONET.ORG (M. Stirner)](/author/m_stirner_at_f28_n125_z1_fidonet_org_m_stirner_)"
++ Return to "[Johan Helsingius <julf<span>@</span>penet.FI>](/authors/johan_helsingius_julf_at_penet_fi_)"
++ Return to "[M..Stirner<span>@</span>f28.n125.z1.FIDONET.ORG (M. Stirner)](/authors/m_stirner_at_f28_n125_z1_fidonet_org_m_stirner_)"
 
 + 1993-09-04 (Fri, 3 Sep 93 17:05:17 PDT) - Re: remailer reliability - _M..Stirner@f28.n125.z1.FIDONET.ORG (M. Stirner)_
   + 1993-09-04 (Sat, 4 Sep 93 01:37:17 PDT) - [Re: remailer reliability](/archive/1993/09/6ae2a2b74373883a5cbca19d9c93f6161f841425d1ade20708b55ac03eefbab4) - _Johan Helsingius \<julf@penet.FI\>_

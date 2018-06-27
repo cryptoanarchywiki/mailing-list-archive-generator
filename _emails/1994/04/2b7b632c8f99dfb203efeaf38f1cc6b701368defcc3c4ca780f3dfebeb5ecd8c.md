@@ -62,7 +62,7 @@ kZWGC8rnKOxFlwuXamMCF8+0+3+XrGqCxD6H2WuOGVZ82nUc5fHO25nNDes0B2tp
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[Karl Lui Barrus <klbarrus<span>@</span>owlnet.rice.edu>](/author/karl_lui_barrus_klbarrus_at_owlnet_rice_edu_)"
++ Return to "[Karl Lui Barrus <klbarrus<span>@</span>owlnet.rice.edu>](/authors/karl_lui_barrus_klbarrus_at_owlnet_rice_edu_)"
 
 + 1994-04-04 (Sun, 3 Apr 94 18:42:49 PDT) - MAIL: prank - _Karl Lui Barrus \<klbarrus@owlnet.rice.edu\>_
 

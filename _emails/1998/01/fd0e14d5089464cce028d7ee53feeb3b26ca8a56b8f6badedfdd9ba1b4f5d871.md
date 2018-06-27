@@ -48,7 +48,7 @@ Brighton Beach Boardwalk BBS, Forest Hills, N.Y.: +1-718-261-2013, 14.4Kbps
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/author/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
++ Return to "[dlv<span>@</span>bwalk.dm.com (Dr.Dimitri Vulis KOTM)](/authors/dlv_at_bwalk_dm_com_dr_dimitri_vulis_kotm_)"
 
 + 1998-01-31 (Sun, 1 Feb 1998 03:11:13 +0800) - Dr Dobbs crypto CD - _dlv@bwalk.dm.com (Dr.Dimitri Vulis KOTM)_
 

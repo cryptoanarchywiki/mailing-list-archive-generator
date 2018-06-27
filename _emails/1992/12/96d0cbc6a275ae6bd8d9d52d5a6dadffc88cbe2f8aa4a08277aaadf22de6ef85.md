@@ -53,8 +53,8 @@ infrastructure of using cryptoware.
 
 + Return to [December 1992](/archive/1992/12)
 
-+ Return to "[edgar<span>@</span>spectrx.saigon.com (Edgar W. Swank)](/author/edgar_at_spectrx_saigon_com_edgar_w_swank_)"
-+ Return to "[hugh<span>@</span>domingo.teracons.com (Hugh Daniel)](/author/hugh_at_domingo_teracons_com_hugh_daniel_)"
++ Return to "[edgar<span>@</span>spectrx.saigon.com (Edgar W. Swank)](/authors/edgar_at_spectrx_saigon_com_edgar_w_swank_)"
++ Return to "[hugh<span>@</span>domingo.teracons.com (Hugh Daniel)](/authors/hugh_at_domingo_teracons_com_hugh_daniel_)"
 
 + 1992-12-28 (Mon, 28 Dec 92 00:54:12 PST) - [Re: remailer signature suppression](/archive/1992/12/94f1793806ca427157c01534e7d2b7b55e5ecb64a4056bf0fdfde7f5b0f3f483) - _edgar@spectrx.saigon.com (Edgar W. Swank)_
   + 1992-12-28 (Mon, 28 Dec 92 01:32:42 PST) - A solution remailer signature suppression - _hugh@domingo.teracons.com (Hugh Daniel)_

@@ -45,7 +45,7 @@ Thanks - ERB
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[PAPAMICHAIL <72133.1415<span>@</span>CompuServe.COM>](/author/papamichail_72133_1415_at_compuserve_com_)"
++ Return to "[PAPAMICHAIL <72133.1415<span>@</span>CompuServe.COM>](/authors/papamichail_72133_1415_at_compuserve_com_)"
 
 + 1994-04-14 (Thu, 14 Apr 94 11:19:08 PDT) - Re: Need info re Clipper/encryptions - _PAPAMICHAIL \<72133.1415@CompuServe.COM\>_
 

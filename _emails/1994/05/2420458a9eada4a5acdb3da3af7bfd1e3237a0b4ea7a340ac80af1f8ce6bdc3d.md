@@ -56,7 +56,7 @@ PGP 2.2 key available via email, or finger phantom@hardy.u.washington.edu
 
 + Return to [May 1994](/archive/1994/05)
 
-+ Return to "[Matt Thomlinson <phantom<span>@</span>u.washington.edu>](/author/matt_thomlinson_phantom_at_u_washington_edu_)"
++ Return to "[Matt Thomlinson <phantom<span>@</span>u.washington.edu>](/authors/matt_thomlinson_phantom_at_u_washington_edu_)"
 
 + 1994-05-06 (Fri, 6 May 94 15:35:28 PDT) - Message to Pr0duct Cypher - _Matt Thomlinson \<phantom@u.washington.edu\>_
 

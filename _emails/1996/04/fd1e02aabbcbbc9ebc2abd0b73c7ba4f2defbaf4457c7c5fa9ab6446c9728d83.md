@@ -57,7 +57,7 @@ the gov't can look in at their leisure.
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[JonWienke<span>@</span>aol.com](/author/jonwienke_at_aol_com)"
++ Return to "[JonWienke<span>@</span>aol.com](/authors/jonwienke_at_aol_com)"
 
 + 1996-04-15 (Mon, 15 Apr 1996 15:05:29 +0800) - Re: Watch your language, Shabbir. - _JonWienke@aol.com_
 

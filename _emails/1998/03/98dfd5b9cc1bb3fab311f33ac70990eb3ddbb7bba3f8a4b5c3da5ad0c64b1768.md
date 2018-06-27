@@ -62,7 +62,7 @@ Enjoy!
 
 + Return to [March 1998](/archive/1998/03)
 
-+ Return to "[nobody<span>@</span>nsm.htp.org](/author/nobody_at_nsm_htp_org)"
++ Return to "[nobody<span>@</span>nsm.htp.org](/authors/nobody_at_nsm_htp_org)"
 
 + 1998-03-18 (Wed, 18 Mar 1998 10:06:02 -0800 (PST)) - fight back at SPAM! - _nobody@nsm.htp.org_
 

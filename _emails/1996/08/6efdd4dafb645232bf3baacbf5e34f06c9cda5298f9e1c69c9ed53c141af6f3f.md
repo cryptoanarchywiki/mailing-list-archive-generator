@@ -90,8 +90,8 @@ jimbell@pacifier.com
 
 + Return to [August 1996](/archive/1996/08)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
-+ Return to "[jonathon <grafolog<span>@</span>netcom.com>](/author/jonathon_grafolog_at_netcom_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "[jonathon <grafolog<span>@</span>netcom.com>](/authors/jonathon_grafolog_at_netcom_com_)"
 
 + 1996-08-09 (Fri, 9 Aug 1996 12:12:49 +0800) - Why should we trust the system? - _jim bell \<jimbell@pacifier.com\>_
   + 1996-08-09 (Fri, 9 Aug 1996 17:08:50 +0800) - [Re: Why should we trust the system?](/archive/1996/08/ead94eb11ce2012710a8f388a7efa93a5ac946d4d31a0cd35a59dee0f97787d8) - _jonathon \<grafolog@netcom.com\>_

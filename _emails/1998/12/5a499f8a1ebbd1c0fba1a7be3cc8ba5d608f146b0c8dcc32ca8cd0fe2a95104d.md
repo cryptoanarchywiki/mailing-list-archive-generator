@@ -78,7 +78,7 @@ PGP is NOT unrestrited.
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-12-09 (Thu, 10 Dec 1998 04:08:48 +0800) - Re: German government press release on Wassenaar (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

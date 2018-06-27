@@ -43,7 +43,7 @@ the Riviera!
 
 + Return to [April 1996](/archive/1996/04)
 
-+ Return to "[JonWienke<span>@</span>aol.com](/author/jonwienke_at_aol_com)"
++ Return to "[JonWienke<span>@</span>aol.com](/authors/jonwienke_at_aol_com)"
 
 + 1996-04-18 (Thu, 18 Apr 1996 21:34:08 +0800) - [Noise] Unsubrscive $$$ - _JonWienke@aol.com_
 

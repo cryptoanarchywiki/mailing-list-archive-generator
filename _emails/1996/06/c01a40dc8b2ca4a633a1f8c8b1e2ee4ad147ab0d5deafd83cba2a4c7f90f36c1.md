@@ -66,7 +66,7 @@ Current Girlfriend(s)- Lindsey Wilcox, Laura Schubring
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[Blake Wehlage <jwilk<span>@</span>iglou.com>](/author/blake_wehlage_jwilk_at_iglou_com_)"
++ Return to "[Blake Wehlage <jwilk<span>@</span>iglou.com>](/authors/blake_wehlage_jwilk_at_iglou_com_)"
 
 + 1996-06-03 (Mon, 3 Jun 1996 13:03:30 +0800) - Re: [Off-Topic] "Curfews" - _Blake Wehlage \<jwilk@iglou.com\>_
 

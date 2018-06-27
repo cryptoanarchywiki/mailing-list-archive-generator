@@ -113,11 +113,11 @@ On Mon, 24 Aug 1998, Reeza! wrote:
 
 + Return to [August 1998](/archive/1998/08)
 
-+ Return to "["Marc Maffei" <marcmf<span>@</span>2xtreme.net>](/author/marc_maffei_marcmf_at_2xtreme_net_)"
-+ Return to "[Mark Hedges <hedges<span>@</span>infonex.com>](/author/mark_hedges_hedges_at_infonex_com_)"
-+ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/author/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
-+ Return to "[Reeza! <howree<span>@</span>cable.navy.mil>](/author/reeza_howree_at_cable_navy_mil_)"
-+ Return to "[Xcott Craver <caj<span>@</span>math.niu.edu>](/author/xcott_craver_caj_at_math_niu_edu_)"
++ Return to "["Marc Maffei" <marcmf<span>@</span>2xtreme.net>](/authors/marc_maffei_marcmf_at_2xtreme_net_)"
++ Return to "[Mark Hedges <hedges<span>@</span>infonex.com>](/authors/mark_hedges_hedges_at_infonex_com_)"
++ Return to "[Rabid Wombat <wombat<span>@</span>mcfeely.bsfs.org>](/authors/rabid_wombat_wombat_at_mcfeely_bsfs_org_)"
++ Return to "[Reeza! <howree<span>@</span>cable.navy.mil>](/authors/reeza_howree_at_cable_navy_mil_)"
++ Return to "[Xcott Craver <caj<span>@</span>math.niu.edu>](/authors/xcott_craver_caj_at_math_niu_edu_)"
 
 + 1998-08-22 (Fri, 21 Aug 1998 22:17:05 -0700 (PDT)) - [Re: Pipe](/archive/1998/08/cf45dcf2c40ba744dd0e4354312e44f62af8bd53e1c6b5b90cdcf8275c9fb61f) - _"Marc Maffei" \<marcmf@2xtreme.net\>_
   + 1998-08-23 (Sun, 23 Aug 1998 00:00:24 -0700 (PDT)) - [Re: Pipe](/archive/1998/08/742c35c2f56f7fa1af9e2c2198e2b9f934a0bac93d9827ca5b141585959a6cab) - _Rabid Wombat \<wombat@mcfeely.bsfs.org\>_

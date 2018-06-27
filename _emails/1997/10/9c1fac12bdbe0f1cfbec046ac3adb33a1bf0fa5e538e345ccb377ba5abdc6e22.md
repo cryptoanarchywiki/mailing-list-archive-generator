@@ -98,11 +98,11 @@ Martin Pool
 
 + Return to [October 1997](/archive/1997/10)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
-+ Return to "[bureau42 Anonymous Remailer <nobody<span>@</span>bureau42.ml.org>](/author/bureau42_anonymous_remailer_nobody_at_bureau42_ml_org_)"
-+ Return to "[Julian Assange <proff<span>@</span>iq.org>](/author/julian_assange_proff_at_iq_org_)"
-+ Return to "[Martin Pool <mbp<span>@</span>pharos.com.au>](/author/martin_pool_mbp_at_pharos_com_au_)"
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[bureau42 Anonymous Remailer <nobody<span>@</span>bureau42.ml.org>](/authors/bureau42_anonymous_remailer_nobody_at_bureau42_ml_org_)"
++ Return to "[Julian Assange <proff<span>@</span>iq.org>](/authors/julian_assange_proff_at_iq_org_)"
++ Return to "[Martin Pool <mbp<span>@</span>pharos.com.au>](/authors/martin_pool_mbp_at_pharos_com_au_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1997-10-27 (Mon, 27 Oct 1997 09:19:33 +0800) - [cryptographic anecdotes](/archive/1997/10/fba61a105d97f4e6bc3d0eee5f255113156113b77080a14062618c796aef4fe7) - _Julian Assange \<proff@iq.org\>_
   + 1997-10-27 (Mon, 27 Oct 1997 15:01:27 +0800) - [Re: cryptographic anecdotes](/archive/1997/10/2140542e4330d262153d026a57c9b522fae66868137f12d68e688960121d7661) - _nobody@REPLAY.COM (Anonymous)_

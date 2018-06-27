@@ -440,7 +440,7 @@ Om
 
 + Return to [January 1998](/archive/1998/01)
 
-+ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/authors/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1998-01-31 (Sat, 31 Jan 1998 13:28:39 +0800) - orlin grabbe on digital cash - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
 

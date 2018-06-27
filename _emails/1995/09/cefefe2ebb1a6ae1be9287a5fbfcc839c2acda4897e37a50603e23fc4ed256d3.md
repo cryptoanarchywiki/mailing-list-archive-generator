@@ -69,7 +69,7 @@ went to Mountain View.
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[cman<span>@</span>communities.com (Douglas Barnes)](/author/cman_at_communities_com_douglas_barnes_)"
++ Return to "[cman<span>@</span>communities.com (Douglas Barnes)](/authors/cman_at_communities_com_douglas_barnes_)"
 
 + 1995-09-04 (Mon, 4 Sep 95 08:14:49 PDT) - Key attributes (was: pseudonyms & list health) - _cman@communities.com (Douglas Barnes)_
 

@@ -60,7 +60,7 @@ Sincerely,
 
 + Return to [July 1998](/archive/1998/07)
 
-+ Return to "[Linda Reed--PCC West Campus CSC <lreed<span>@</span>west.cscwc.pima.edu>](/author/linda_reedpcc_west_campus_csc_lreed_at_west_cscwc_pima_edu_)"
++ Return to "[Linda Reed--PCC West Campus CSC <lreed<span>@</span>west.cscwc.pima.edu>](/authors/linda_reedpcc_west_campus_csc_lreed_at_west_cscwc_pima_edu_)"
 
 + 1998-07-27 (Sun, 26 Jul 1998 23:50:54 -0700 (PDT)) - FDR.doc and FDR2.doc - _Linda Reed--PCC West Campus CSC \<lreed@west.cscwc.pima.edu\>_
 

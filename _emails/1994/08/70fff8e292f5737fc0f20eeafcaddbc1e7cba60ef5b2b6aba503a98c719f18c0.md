@@ -78,7 +78,7 @@ steel.
 
 + Return to [August 1994](/archive/1994/08)
 
-+ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/authors/mpd_at_netcom_com_mike_duvos_)"
 
 + _Unknown thread root_
   + 1994-08-25 (Thu, 25 Aug 94 13:50:39 PDT) - Re: Nuclear Weapons Material - _mpd@netcom.com (Mike Duvos)_

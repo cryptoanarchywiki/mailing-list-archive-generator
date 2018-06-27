@@ -52,9 +52,9 @@ Connected to ftp.rsa.com.
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[Howard Melman <melman<span>@</span>osf.org>](/author/howard_melman_melman_at_osf_org_)"
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
-+ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/author/mpd_at_netcom_com_mike_duvos_)"
++ Return to "[Howard Melman <melman<span>@</span>osf.org>](/authors/howard_melman_melman_at_osf_org_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
++ Return to "[mpd<span>@</span>netcom.com (Mike Duvos)](/authors/mpd_at_netcom_com_mike_duvos_)"
 
 + 1996-06-14 (Fri, 14 Jun 1996 14:19:41 +0800) - RSAREF down? - _Howard Melman \<melman@osf.org\>_
   + 1996-06-15 (Sat, 15 Jun 1996 10:12:21 +0800) - [Re: RSAREF down?](/archive/1996/06/7b168ead720940626b3f9ff97f7fc77e60d2b172edbc7224f4f6c53ece177f80) - _"Mark M." \<markm@voicenet.com\>_

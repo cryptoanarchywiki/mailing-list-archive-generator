@@ -99,7 +99,7 @@ Panel 4: Kathleen Sullivan, Stanford Law School
 
 + Return to [March 1998](/archive/1998/03)
 
-+ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/author/john_gilmore_gnu_at_toad_com_)"
++ Return to "[John Gilmore <gnu<span>@</span>toad.com>](/authors/john_gilmore_gnu_at_toad_com_)"
 
 + 1998-03-17 (Mon, 16 Mar 1998 20:20:47 -0800 (PST)) - Bernstein's top lawyer, Cindy Cohn, testifies to Congress Tuesday - _John Gilmore \<gnu@toad.com\>_
 

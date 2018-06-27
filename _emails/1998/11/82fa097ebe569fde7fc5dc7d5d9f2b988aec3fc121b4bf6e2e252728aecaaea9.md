@@ -188,7 +188,7 @@ www.telepath.com/believer
 
 + Return to [November 1998](/archive/1998/11)
 
-+ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/author/vladimir_z_nuri_vznuri_at_netcom_com_)"
++ Return to "["Vladimir Z. Nuri" <vznuri<span>@</span>netcom.com>](/authors/vladimir_z_nuri_vznuri_at_netcom_com_)"
 
 + 1998-11-07 (Sun, 8 Nov 1998 05:53:08 +0800) - IP: ISPI Clips 6.14: Anonymous eCash Provider-DigiCash-Files Chapter 11 - _"Vladimir Z. Nuri" \<vznuri@netcom.com\>_
 

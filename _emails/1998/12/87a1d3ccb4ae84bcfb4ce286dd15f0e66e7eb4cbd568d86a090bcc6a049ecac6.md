@@ -64,7 +64,7 @@ Peter.
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[pgut001<span>@</span>cs.auckland.ac.nz (Peter Gutmann)](/author/pgut001_at_cs_auckland_ac_nz_peter_gutmann_)"
++ Return to "[pgut001<span>@</span>cs.auckland.ac.nz (Peter Gutmann)](/authors/pgut001_at_cs_auckland_ac_nz_peter_gutmann_)"
 
 + 1998-12-03 (Thu, 3 Dec 1998 22:01:30 +0800) - Re: open-pgp / s/mime interoperability - _pgut001@cs.auckland.ac.nz (Peter Gutmann)_
 

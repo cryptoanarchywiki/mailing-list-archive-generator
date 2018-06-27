@@ -92,7 +92,7 @@ To get your **FREE** REPORT:
 
 + Return to [April 1997](/archive/1997/04)
 
-+ Return to "[FSBO-3.COM<span>@</span>mail1y-int.prodigy.net](/author/fsbo3_com_at_mail1yint_prodigy_net)"
++ Return to "[FSBO-3.COM<span>@</span>mail1y-int.prodigy.net](/authors/fsbo3_com_at_mail1yint_prodigy_net)"
 
 + 1997-04-21 (Sun, 20 Apr 1997 23:07:09 -0700 (PDT)) - Days 3 Took It - _FSBO-3.COM@mail1y-int.prodigy.net_
 

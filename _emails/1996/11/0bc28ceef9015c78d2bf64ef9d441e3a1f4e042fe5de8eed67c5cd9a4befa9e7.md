@@ -60,7 +60,7 @@ Bye PavelK
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[Pavel Korensky <pavelk<span>@</span>dator3.anet.cz>](/author/pavel_korensky_pavelk_at_dator3_anet_cz_)"
++ Return to "[Pavel Korensky <pavelk<span>@</span>dator3.anet.cz>](/authors/pavel_korensky_pavelk_at_dator3_anet_cz_)"
 
 + _Unknown thread root_
   + 1996-11-29 (Fri, 29 Nov 1996 03:32:06 -0800 (PST)) - Re[2]: Sound card as a random number source ?? - _Pavel Korensky \<pavelk@dator3.anet.cz\>_

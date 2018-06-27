@@ -39,7 +39,7 @@ test 1
 
 + Return to [December 1998](/archive/1998/12)
 
-+ Return to "[ichudov<span>@</span>Algebra.COM (Ignoramus)](/author/ichudov_at_algebra_com_ignoramus_)"
++ Return to "[ichudov<span>@</span>Algebra.COM (Ignoramus)](/authors/ichudov_at_algebra_com_ignoramus_)"
 
 + 1998-12-02 (Thu, 3 Dec 1998 05:26:39 +0800) - test1 #1 - _ichudov@Algebra.COM (Ignoramus)_
 

@@ -68,7 +68,7 @@ lives so naturally they started to kill each other for Health."
 
 + Return to [October 1993](/archive/1993/10)
 
-+ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/author/duncan_frissell_frissell_at_panix_com_)"
++ Return to "[Duncan Frissell <frissell<span>@</span>panix.com>](/authors/duncan_frissell_frissell_at_panix_com_)"
 
 + 1993-10-12 (Tue, 12 Oct 93 10:29:53 PDT) - Health Reform Smart Cards - _Duncan Frissell \<frissell@panix.com\>_
 

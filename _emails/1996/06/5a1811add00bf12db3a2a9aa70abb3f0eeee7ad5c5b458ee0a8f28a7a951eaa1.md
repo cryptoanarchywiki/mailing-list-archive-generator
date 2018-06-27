@@ -96,7 +96,7 @@ Licensed Ontologist         | black markets, collapse of governments.
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/author/tcmay_at_got_net_timothy_c_may_)"
++ Return to "[tcmay<span>@</span>got.net (Timothy C. May)](/authors/tcmay_at_got_net_timothy_c_may_)"
 
 + 1996-06-27 (Thu, 27 Jun 1996 10:38:32 +0800) - Re: Life imitates art (InfoWar, Sunday Times article) - _tcmay@got.net (Timothy C. May)_
 

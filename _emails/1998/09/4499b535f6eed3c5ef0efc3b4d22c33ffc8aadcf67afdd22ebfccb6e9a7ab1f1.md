@@ -64,7 +64,7 @@ What he did is respectable. Is he the first? I doubt it.
 
 + Return to [September 1998](/archive/1998/09)
 
-+ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/author/jim_choate_ravage_at_einstein_ssz_com_)"
++ Return to "[Jim Choate <ravage<span>@</span>EINSTEIN.ssz.com>](/authors/jim_choate_ravage_at_einstein_ssz_com_)"
 
 + 1998-09-22 (Tue, 22 Sep 1998 18:26:38 +0800) - respect due to anonymous (Re: CHALLENGE response (fwd)) (fwd) - _Jim Choate \<ravage@EINSTEIN.ssz.com\>_
 

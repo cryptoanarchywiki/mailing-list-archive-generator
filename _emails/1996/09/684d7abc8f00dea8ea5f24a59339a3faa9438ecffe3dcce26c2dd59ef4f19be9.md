@@ -56,7 +56,7 @@ Peter.
 
 + Return to [September 1996](/archive/1996/09)
 
-+ Return to "[pgut001<span>@</span>cs.auckland.ac.nz](/author/pgut001_at_cs_auckland_ac_nz)"
++ Return to "[pgut001<span>@</span>cs.auckland.ac.nz](/authors/pgut001_at_cs_auckland_ac_nz)"
 
 + 1996-09-26 (Thu, 26 Sep 1996 20:28:24 +0800) - How to break Netscape's server key encryption - Followup - _pgut001@cs.auckland.ac.nz_
 

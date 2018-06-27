@@ -55,8 +55,8 @@ Jon Lasser                <jlasser@rwd.goucher.edu>            (410)494-3072
 
 + Return to [December 1995](/archive/1995/12)
 
-+ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/author/anonymousremailer_at_shell_portal_com)"
-+ Return to "[Jon Lasser <jlasser<span>@</span>rwd.goucher.edu>](/author/jon_lasser_jlasser_at_rwd_goucher_edu_)"
++ Return to "[anonymous-remailer<span>@</span>shell.portal.com](/authors/anonymousremailer_at_shell_portal_com)"
++ Return to "[Jon Lasser <jlasser<span>@</span>rwd.goucher.edu>](/authors/jon_lasser_jlasser_at_rwd_goucher_edu_)"
 
 + 1995-12-09 (Sat, 9 Dec 95 13:08:42 PST) - [Warning about Pegasus Mail and PGP (fwd)](/archive/1995/12/e14eee5708d5427e4d155065016dcf4d09d901ba90b0fe0786be60e80b974169) - _anonymous-remailer@shell.portal.com_
   + 1995-12-09 (Sat, 9 Dec 95 13:30:08 PST) - Re: Warning about Pegasus Mail and PGP (fwd) - _Jon Lasser \<jlasser@rwd.goucher.edu\>_

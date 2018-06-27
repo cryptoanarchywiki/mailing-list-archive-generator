@@ -68,7 +68,7 @@ entrepreneurs, financially successful and *ACTIVE*.)
 
 + Return to [April 1994](/archive/1994/04)
 
-+ Return to "[Dave Otto (the Wizard of TOTOSoft) <dave<span>@</span>marvin.jta.edd.ca.gov>](/author/dave_otto_the_wizard_of_totosoft_dave_at_marvin_jta_edd_ca_gov_)"
++ Return to "[Dave Otto (the Wizard of TOTOSoft) <dave<span>@</span>marvin.jta.edd.ca.gov>](/authors/dave_otto_the_wizard_of_totosoft_dave_at_marvin_jta_edd_ca_gov_)"
 
 + 1994-04-29 (Fri, 29 Apr 94 09:20:00 PDT) - RE: C'Punk list - _Dave Otto (the Wizard of TOTOSoft) \<dave@marvin.jta.edd.ca.gov\>_
 

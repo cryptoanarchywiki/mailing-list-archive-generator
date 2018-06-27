@@ -62,7 +62,7 @@ thad
 
 + Return to [September 1995](/archive/1995/09)
 
-+ Return to "[thad<span>@</span>hammerhead.com (Thaddeus J. Beier)](/author/thad_at_hammerhead_com_thaddeus_j_beier_)"
++ Return to "[thad<span>@</span>hammerhead.com (Thaddeus J. Beier)](/authors/thad_at_hammerhead_com_thaddeus_j_beier_)"
 
 + 1995-09-10 (Sun, 10 Sep 95 08:12:45 PDT) - 64 bit crypto - _thad@hammerhead.com (Thaddeus J. Beier)_
 

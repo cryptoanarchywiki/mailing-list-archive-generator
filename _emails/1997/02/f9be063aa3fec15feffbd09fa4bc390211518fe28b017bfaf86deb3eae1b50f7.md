@@ -57,7 +57,7 @@ Could all of these figures have been 6, 30, and 44 _meters_ instead? :-)
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1997-02-01 (Fri, 31 Jan 1997 21:27:18 -0800 (PST)) - Re: Intelligence Update (fwd) - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

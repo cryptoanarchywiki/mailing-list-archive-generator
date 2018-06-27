@@ -42,9 +42,9 @@ awkward.
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[anonymous<span>@</span>freezone.remailer](/author/anonymous_at_freezone_remailer)"
-+ Return to "[attila <attila<span>@</span>primenet.com>](/author/attila_attila_at_primenet_com_)"
-+ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/author/nobody_at_replay_com_anonymous_)"
++ Return to "[anonymous<span>@</span>freezone.remailer](/authors/anonymous_at_freezone_remailer)"
++ Return to "[attila <attila<span>@</span>primenet.com>](/authors/attila_attila_at_primenet_com_)"
++ Return to "[nobody<span>@</span>REPLAY.COM (Anonymous)](/authors/nobody_at_replay_com_anonymous_)"
 
 + 1996-01-04 (Thu, 4 Jan 1996 22:53:38 +0800) - [\"Concryption\"](/archive/1996/01/733c1a2b729ba15591389dcafa1863f721c34b31d7fa460de632fa1e26a72df1) - _nobody@REPLAY.COM (Anonymous)_
   + 1996-01-05 (Fri, 5 Jan 1996 09:27:43 +0800) - Re: \"Concryption\" - _anonymous@freezone.remailer_

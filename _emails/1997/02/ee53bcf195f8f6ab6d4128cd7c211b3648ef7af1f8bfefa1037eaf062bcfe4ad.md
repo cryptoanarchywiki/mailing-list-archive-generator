@@ -47,7 +47,7 @@ AIDS infected lovers.
 
 + Return to [February 1997](/archive/1997/02)
 
-+ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/author/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
++ Return to "[nobody<span>@</span>huge.cajones.com (Huge Cajones Remailer)](/authors/nobody_at_huge_cajones_com_huge_cajones_remailer_)"
 
 + 1997-02-09 (Sun, 9 Feb 1997 14:09:17 -0800 (PST)) - Re: [PVT] Export restrictions - _nobody@huge.cajones.com (Huge Cajones Remailer)_
 

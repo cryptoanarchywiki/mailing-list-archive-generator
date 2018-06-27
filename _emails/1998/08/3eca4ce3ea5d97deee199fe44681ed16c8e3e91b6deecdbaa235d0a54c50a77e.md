@@ -50,7 +50,7 @@ instructions on unsubscribing  are in every issue of Eureka!
 
 + Return to [August 1998](/archive/1998/08)
 
-+ Return to "[STUFFED/EUREKA! <stuffed<span>@</span>stuffed.net>](/author/stuffedeureka_stuffed_at_stuffed_net_)"
++ Return to "[STUFFED/EUREKA! <stuffed<span>@</span>stuffed.net>](/authors/stuffedeureka_stuffed_at_stuffed_net_)"
 
 + 1998-08-06 (Thu, 6 Aug 1998 03:37:30 -0700 (PDT)) - Half a mil for a spill:Clinton's expensive cock-up/Robber shoots own knob off - _STUFFED/EUREKA! \<stuffed@stuffed.net\>_
 

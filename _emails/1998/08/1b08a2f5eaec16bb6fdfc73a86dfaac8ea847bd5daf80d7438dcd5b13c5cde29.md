@@ -50,7 +50,7 @@ instructions on unsubscribing  are in every issue of Eureka!
 
 + Return to [August 1998](/archive/1998/08)
 
-+ Return to "[STUFFED/EUREKA! <stuffed<span>@</span>stuffed.net>](/author/stuffedeureka_stuffed_at_stuffed_net_)"
++ Return to "[STUFFED/EUREKA! <stuffed<span>@</span>stuffed.net>](/authors/stuffedeureka_stuffed_at_stuffed_net_)"
 
 + 1998-08-14 (Fri, 14 Aug 1998 08:09:46 -0700 (PDT)) - Dennis Rodman hounded by porn stars/Mom dates alien son http://stuffed.net/98/8/14/ - _STUFFED/EUREKA! \<stuffed@stuffed.net\>_
 

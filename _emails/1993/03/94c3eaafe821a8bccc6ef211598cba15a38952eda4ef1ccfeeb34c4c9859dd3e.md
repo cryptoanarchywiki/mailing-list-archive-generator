@@ -79,7 +79,7 @@ fE9mYRkNUII=
 
 + Return to [March 1993](/archive/1993/03)
 
-+ Return to "[Karl Barrus <elee9sf<span>@</span>Menudo.UH.EDU>](/author/karl_barrus_elee9sf_at_menudo_uh_edu_)"
++ Return to "[Karl Barrus <elee9sf<span>@</span>Menudo.UH.EDU>](/authors/karl_barrus_elee9sf_at_menudo_uh_edu_)"
 
 + 1993-03-12 (Thu, 11 Mar 93 22:17:22 PST) - CASH/BANK: combo - _Karl Barrus \<elee9sf@Menudo.UH.EDU\>_
 

@@ -62,7 +62,7 @@ Content-Type: text/plain
 
 + Return to [January 1996](/archive/1996/01)
 
-+ Return to "[John Young <jya<span>@</span>pipeline.com>](/author/john_young_jya_at_pipeline_com_)"
++ Return to "[John Young <jya<span>@</span>pipeline.com>](/authors/john_young_jya_at_pipeline_com_)"
 
 + 1996-01-17 (Wed, 17 Jan 1996 08:21:04 +0800) - FEY_kry - _John Young \<jya@pipeline.com\>_
 

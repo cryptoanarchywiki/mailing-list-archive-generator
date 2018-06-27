@@ -176,7 +176,7 @@ f3Xp+dve8wY=
 
 + Return to [July 1997](/archive/1997/07)
 
-+ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/author/william_h_geiger_iii_whgiii_at_amaranth_com_)"
++ Return to "["William H. Geiger III" <whgiii<span>@</span>amaranth.com>](/authors/william_h_geiger_iii_whgiii_at_amaranth_com_)"
 
 + 1997-07-03 (Fri, 4 Jul 1997 04:37:03 +0800) - Re: PGP security problems? - _"William H. Geiger III" \<whgiii@amaranth.com\>_
 

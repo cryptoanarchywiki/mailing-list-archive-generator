@@ -71,7 +71,7 @@ get flak for using the _name_ RC4 in a commercial product.
 
 + Return to [June 1996](/archive/1996/06)
 
-+ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/author/bill_stewart_stewarts_at_ix_netcom_com_)"
++ Return to "[Bill Stewart <stewarts<span>@</span>ix.netcom.com>](/authors/bill_stewart_stewarts_at_ix_netcom_com_)"
 
 + 1996-06-29 (Sat, 29 Jun 1996 10:18:25 +0800) - Re: Crack for DOS - _Bill Stewart \<stewarts@ix.netcom.com\>_
 

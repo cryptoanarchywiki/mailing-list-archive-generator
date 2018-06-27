@@ -68,9 +68,9 @@ QCsN0oT7QvCtGAJfNCCo95svgA/eR5pT0zn8th0r0yWFLaZTI4A4O7kOkn30er+P
 
 + Return to [November 1996](/archive/1996/11)
 
-+ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/author/jim_bell_jimbell_at_pacifier_com_)"
-+ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/author/mark_m__markm_at_voicenet_com_)"
-+ Return to "[The Deviant <deviant<span>@</span>pooh-corner.com>](/author/the_deviant_deviant_at_poohcorner_com_)"
++ Return to "[jim bell <jimbell<span>@</span>pacifier.com>](/authors/jim_bell_jimbell_at_pacifier_com_)"
++ Return to "["Mark M." <markm<span>@</span>voicenet.com>](/authors/mark_m__markm_at_voicenet_com_)"
++ Return to "[The Deviant <deviant<span>@</span>pooh-corner.com>](/authors/the_deviant_deviant_at_poohcorner_com_)"
 
 + 1996-11-12 (Tue, 12 Nov 1996 10:41:20 -0800 (PST)) - [Re: Not. [Was Re: Federal Reserve Bank is ILLEGAL?]](/archive/1996/11/4ae8c8945fce1ee7db9dfb69484152da72edeefe2d6b850eef2067abc800872a) - _jim bell \<jimbell@pacifier.com\>_
   + 1996-11-12 (Tue, 12 Nov 1996 14:41:13 -0800 (PST)) - Re: Not. [Was Re: Federal Reserve Bank is ILLEGAL?] - _"Mark M." \<markm@voicenet.com\>_
