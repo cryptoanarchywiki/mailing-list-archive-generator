@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /authors/
+permalink: /authors/by-posts/
 ---
 
 # Authors by Number of Posts (Highest First)
