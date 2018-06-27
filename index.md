@@ -22,7 +22,7 @@ layout: default
 ## Browse Archive by Author:
 
 + [Authors by Number of Posts (Highest First)](/authors/by-posts/)
-+ [Notable Posters (First Name A-Z)](/authors/by-posts/)
++ [Notable Posters (First Name A-Z)](/authors/notables/)
 
 ### Basic Information
 
