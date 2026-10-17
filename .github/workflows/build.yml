@@ -1,0 +1,24 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      # A full build of the archive takes too long to be a useful check,
+      # so this only verifies that the locked gems install and Jekyll loads.
+      - name: Check Jekyll loads
+        run: bundle exec jekyll --version
